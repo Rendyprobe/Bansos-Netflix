@@ -47,8 +47,9 @@ Saved copied text to input.txt.
 Jika memilih `Ambil dari web`, proses berjalan seperti sebelumnya. Jika memilih
 `Ambil dari file tersimpan`, program mencari file `.txt` random di folder
 `Bahan` yang berisi tulisan `Premium` dan punya keterangan tanggal relevan yang
-setelah tanggal program dijalankan, lalu menyalin isi file tersebut ke
-`input.txt`.
+lebih baru dari tanggal program dijalankan, lalu menyalin isi file tersebut ke
+`input.txt`. Contoh: jika program dijalankan tanggal 24, file yang valid adalah
+tanggal 25, 26, dan seterusnya, termasuk tanggal 1 di bulan berikutnya.
 
 Kamu bisa memilih dengan nomor dari daftar.
 
