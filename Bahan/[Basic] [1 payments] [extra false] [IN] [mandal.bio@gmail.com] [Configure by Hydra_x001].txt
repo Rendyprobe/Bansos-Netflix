@@ -1,0 +1,18 @@
+
+– Email: mandal.bio@gmail.com
+– Verified: false
+– Profile: Agni\x20bhau
+– Plan: Basic
+– Next billing: 3 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 9***@ybl) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782111320	nfvdid	BQFmAAEBEClGnHYSUMgAtnM6qGw0r-Zggmsde4qFzJ06YOC3WEwyjryuZFYjPUE-9t5G1D3oEHBrn5UYniTlkAe_BoPa6Ql36-Y_LwvOCOAke88lLg9ggw8qImS2cih1SkEha_uoFOANsDXW16QFBRtWBWlKZSij
+.netflix.com	TRUE	/	TRUE	1806737694	NetflixId	ct%3DBgjHlOvcAxK3A6UXVAFLr0DsPgqjjnTQDwnVTnXkzDu8FMMUQ8dm5EnAacT3XUcP9rskDPvZr3lmRFk09muIzrFWr9Zr-Dls8118dyLaKAWO0LiXyMLfP513PJYr15uMU-vu8GF2VXrF4u4V_wvqLrXRgUZCv65Qz5tIusxGI04-yEW_6L3yDtB0eOydZ0XYRaFH26W4OpjKyiscXk_vjYy1xkkukKwVfPYflwL9uUUsJobTQpqckWtRIfnf238VtOwPZ2p3aD5SvtrGnjCju00Yhz-1JqdgogJRNyZ3SafA2r2tLjxh9XE6IufqQeWwBcJGaXZD_hF_MTDUnS03t90lBQPwWQFL-55KDHBiqvO7zgRxRtTgU0rgNl9nojS9XX1_vO63XOSUixKWcmCoWIDqTIVA6Ex-3HITqzUsLNpeYPmhBJlYUdZyhs1_YeFvfsxA3cnEfoLVDpBQC4KBcq37KszWBlo3FNxVCWGJV1UdB5HBi5U5pazT6yDN5pksfTmMiYbIrwDEL8rnHAe87ulikURrU9JS3T0r-HfQsc2UvO25Pw8PN0_W1vpyg_Lb_WpbxeTV_TYvHIPxO_P5_eEYBiIOCgyPIVJkBprchFJpv10.%26ch%3DAQEAEAABABRctnLrkkkKBMhWnrlljdISlzSi036XFJY.%26v%3D3%26pg%3DGDWWDRRJAJFI7HYYONOYAEL5HM
+.netflix.com	TRUE	/	TRUE	1806737694	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDHKpnsht0js7MkEFTrqj8gAZ8Y3M5JcU.%26dt%3D1775201695131
+.netflix.com	TRUE	/	FALSE	1806738941	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+13%3A25%3A41+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=96b21186-1547-4a20-8c78-47e0c79a11ee&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782978940	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782978940	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

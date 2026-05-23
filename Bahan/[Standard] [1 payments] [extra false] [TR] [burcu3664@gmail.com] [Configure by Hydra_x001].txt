@@ -1,0 +1,22 @@
+
+– Email: burcu3664@gmail.com
+– Verified: false
+– Profile: Burcu
+– Plan: Standard
+– Next billing: 19 tháng 6, 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 7454) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	0d86f654-805b-4381-a260-6c79d52e5e87
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	29f6f028-2494-44ea-b53b-65f831c32221
+.netflix.com	TRUE	/	FALSE	1806177406	OptanonAlertBoxClosed	2026-03-27T19:56:46.010Z
+.netflix.com	TRUE	/	TRUE	1806177466	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA9uIJiswA2AixQT--S96TfurzHq_XjUcnm8ZEua0abrRXt5VkO58vpruP1Ir7kJ-0t9pvOkhf_LT20aKwLvYvym9gwguUlWZLCbqxZ0vOCu8p3j4Fqf7XCvo6alKKB-W0bMLluFZTMBQDG2zhC6tNTMXGjtQVcsKjoDhQv9X5nfHzYMPIYA6imOyPVuS8GkN58SbABmN45g67pgqTEjujB4753Ndc3yypUpdUkmNFFvOeVkyhc1Fu7O1QIC-BcVom20ZCgCRGsgHX8tbGE-R7ErJKr51fY2kAJs3mrtWcx0FX5QpsvumI-bU6CEtx81qP5AknhN02LxKiRKkR0Hb_ehoe9dwJ5VCBT_MCafjA-2PEIGvTbXD4vc8_wsjJiSf1S7IQa5jbEMqppdvpDWGspZtgZ2Yb_S8hkgqGlgeVKUGFUDEnIUFsYZl-Sxe_x01WPHB5dGzBOmB3lS4AZQe4xkbMq5MY8q1hdKKrmuusUJKEqSEkngmBi-xh45-ySddsDoYBiIOCgyoNoKWb2mKIzrtSRA.%26pg%3DNOEJKIG7RJCYROQYUX52VNCWKY%26ch%3DAQEAEAABABR8hjsZgfpirJFqrbDlY9hw6X4yt5B98KI.
+.netflix.com	TRUE	/	FALSE	1806177466	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+22%3A57%3A46+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfded0f1-395f-4296-83c0-e85cfbd3d4f0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1774641406668&geolocation=TR%3B01&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806177466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdRoloJmIU3F7deDtvuB8zDucFOWA5b1U.%26dt%3D1774641465387
+.netflix.com	TRUE	/	FALSE	1782417466	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782417466	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806177466	nfvdid	BQFmAAEBEDM6Z8S7qzVYYcBosYVzJ8FgJF10cvfOLgfxrjyHm-HJJuQtPP0voQNytdYXhkzXclGDTdSrshRrCbPO6FwcsO0qasaVn8s93wwQojlsbzllsuRV1Wo_a7vJAw_RVFBLVYsrJs7U3AVCPt9dX363zVFf
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

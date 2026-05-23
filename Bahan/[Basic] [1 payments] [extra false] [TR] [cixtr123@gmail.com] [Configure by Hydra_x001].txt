@@ -1,0 +1,20 @@
+
+– Email: cixtr123@gmail.com
+– Verified: false
+– Profile: Maxwell
+– Plan: Basic
+– Next billing: 12 Haziran 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 3034) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781549079	OptanonAlertBoxClosed	2025-06-15T18:44:39.513Z
+.netflix.com	TRUE	/	FALSE	1781549168	nfvdid	BQFmAAEBENh4SrNktTE_ni4CJ9aocUFghZ_IM0MtICLwMg5j5F1zJkOWe25g6Hbn8-Ep7cjR9_E0iDnHbgQTt4g4kOpe_kuVi_qBC9rsPQCFuKC18twhK_vDj6jnZbzJLF464lM1aM4Y4U-Tq1qYj1QwhL8Dqywc
+.netflix.com	TRUE	/	TRUE	1781952866	gsid	7c3d8206-2547-4838-9e4c-7a873d5ff44f
+.netflix.com	TRUE	/	FALSE	1786299101	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1810059099	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWAyO6p22vR0tLcbtE-QbfEzpPhyF4PKp6pl1HY7Va_NoAxxa-gucu76l_rffaKG3_jZirzlWWeAu2_cNCyAmwldXzmhaVYuFwTBLuYeKXwFLJYytNoXxQqTQ21Bf0wVAEPVx0wt6Y-84n2IQRM1FjCDWvcqT-MwxRrk8STUCrGZW3EWZutZONAA_v7_71GaYrTj8ahWEDBtQLiT8FTctrnIRODeJqYkwc9Fklw1ZNtO-lfYm0IqedBIu73RRimZlNkbtnaWCvWI2jdyhoH03euKqtEbRr52guY9WXziSmKpDniW51IlGgW2ZDxHF3599Zar0ctqwC91U2o17YLEiWdg_T8CSjXYa5-Zt11I2ORWtrGeeAlLhMHu--cep-7xyji-WBUy2H-76Iga_OQyt7eVmMgFWnDp_ga8BIfBZdYRBev1x5jsuy_rSSd0_95pk5K3NU1hhlyqk0UxwW69IaSb0FP7OjvJ8jFgnYdE6MzRbiTifYRiZJxgDA4YBV65NahgSu38BZrVxb-wrFZX4N_lDBYAkaCBgYBiIOCgyuUOFlN9r693-1Q0g.%26pg%3DGDO2QDT6PBD6DBXFJSGEUPVVSQ%26ch%3DAQEAEAABABSQIrJy3c3MvlvDzv-tCnNYm0DHzIf1iLQ.
+.netflix.com	TRUE	/	FALSE	1810059101	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+21%3A11%3A41+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=54c99ca2-d149-4f1d-a785-7261bf60e084&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B06&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786299101	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781952866	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

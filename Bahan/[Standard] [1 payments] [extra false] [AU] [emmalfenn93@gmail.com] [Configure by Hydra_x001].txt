@@ -1,0 +1,21 @@
+
+– Email: emmalfenn93@gmail.com
+– Verified: false
+– Profile: Leech\x202
+– Plan: Standard
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: AU
+– Payments: 1 | CC (VISA 7852) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-02-13T18:20:02.113Z
+.netflix.com	FALSE	/	FALSE	1781798731	nfvdid	BQFmAAEBEPrvnjKqVRXUh4Fkw1M46sJgzL06jAlMlk-pjgeewq5Ojw2K822MY7cBs6-5I62XXAgcMD7GB370gP05NUGTTH_80hPv6lsfgegjStBM3Ect54hVPxeIgVGsij3ii-_A957PoZWtPLfMYTyUFfp3ioMn
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKyAytyUk24YOOhPI1Iom2ABiCCpmPEt2mIKySBG_UtiW_8fnBr_c27uQKL-_tnMIpheDIQlE4Ml8jGP7EZ9K8GAPOBIiP5XadmYQEdJjvBnVRTvbwNbmAQSRYVn5rTfIxYF_o72Y33SKF0UVBWaK-e3v70CdSpmEh_VbjKRY6ohEsUSXaVv00DBDbmd-lOdopued0wjghrVunWxy8v6ecWhXQgbcFB2CKx91UuyDzeiN4f2umCFUlu83f5MN1-0dlDVK_z9HzheCaNs1ZGYH4-XKgYvur1R8_fI2303GPdJAjuFrcM0piPBvj1vGaNomGhPeaXx4JJo0Jxv-YGaTKKkvqJ2TrZjkKS1NJYXkKmI6wFpQ779cP7vYa0HtR-7w7Jubriv4u4BM6sTAsNXCpdFv8ilcPYsOQsgEpkRkVpelf0wE-EHCyVBw9Mm-bJqU2KyeRTEPRAfpG8uMJsaFRqaDopxh0Z52jHJ_TrA_ziiKzin53p_1N9oClfZOfY3NPQ4EpXl7OQlXgd2G_psCAooVnURjaclUU8T103wIWCBrEgo0M-CSanzUMh_P_8vhM5NVVFGAYiDgoMqLd2uoXAqyow_bhV%26ch%3DAQEAEAABABQrz6TD5nlD_4qYJK9MyDk0ja9h92bp8uI.%26v%3D3%26pg%3DUENLDCQQ3JB7LE4Z2AFQAZB5LI
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREOnaa9xMzH4Wr4S0qGQ-QbBIZvKmK4m4.%26dt%3D1771241399211
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	88699bcf-b092-4aff-beb2-239515d212d0
+.netflix.com	FALSE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+20%3A49%3A17+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73f91b80-601a-4524-99c1-dc316e1de0ea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1771006802840&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

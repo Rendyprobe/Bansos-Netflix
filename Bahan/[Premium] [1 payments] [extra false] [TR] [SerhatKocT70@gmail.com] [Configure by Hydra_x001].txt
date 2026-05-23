@@ -1,0 +1,22 @@
+
+– Email: SerhatKocT70@gmail.com
+– Verified: false
+– Profile: Serhat
+– Plan: Premium
+– Next billing: 13 Haziran 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (TROY 4863) - Hydra_x001
+
+.netflix.com	TRUE	/tr/title	TRUE	1812477424	dsca	true
+.netflix.com	TRUE	/	TRUE	1810205989	gsid	319f1896-f247-401f-9186-c74379b3b731
+.netflix.com	TRUE	/	FALSE	1809453424	nfvdid	BQFmAAEBED2Dc3hOqBox4Tr8EJBCcdpgqTvolz_I-Re_f60ZnRArtzwx9WFnfeNCJg5M3VLJEBeje7tuWDrNLGCtNPmCSD_uL06gomPWWnaYel86CagodLmDJMCrlUVw14gG93FmNmFzfeH4tWB2QDq317nLUzvB
+.netflix.com	TRUE	/	TRUE	1809513030	NetflixId	ct%3DBgjHlOvcAxK0A_DVDmUrGu9gy0TL8yMyJ49awKtm2ztT-F_vEIoIIRarO0h1cEEy5YKKsKIyFBvsJLCQddZq8S9-ildQuqOt8TCCMoW9vPuV2WI-rTfPpoKlAe6lfQYjpp-DDRd45Pmi5gHwdrByY5b-sPDoXXk8iaevOxFF7B71p3HREh_zZ0biRnVtJPCFdUlk-Zyn0uAWcYnnyD9WD5PTiTpTbbmoNQl2fXEh-veGrSjGGvjZgrjXOJNMK4jP1l-uc3RbDgtcP9_Q507K6wbyCloCwV9lCsm7kaIhRtwgEC3aMxqX3RwvJlQ-vot5lfpLZ25dBn54tfGRvaNFDgYCO8p-jRsgwC7M_KRuebu93hLN7pXVPh5-KkPBfdHaUnxj6y6VG_9AmSZf2BE1EhXJ-xsyG6ZnWIuwSvS3j1odydfxRPe3VmfIrmEBTevot1BmJia-Eb0vH8RFwoNAL_xHIcniifTTGYH2OkNxOHy95H3NfO-vGRnpXck_GdFzY6blpydcuM8dVdC4FxhgIHsV52_Qnkuo2boJL8A2r6jN8x5T1hxR5X9lup5PeubYnSjgwJnD6yEq-qNgd00YBiIOCgzKbbY-Rg1QWKjIbU8.%26ch%3DAQEAEAABABRYcRL6I5U048gLkufIZtEh_Gsa5cS9RPs.%26v%3D3%26pg%3DUX2EATEMHVFNPO4ZQRPBK3XAWE
+.netflix.com	TRUE	/	FALSE	1809513033	OptanonAlertBoxClosed	2026-05-05T10:30:33.885Z
+.netflix.com	TRUE	/	FALSE	1809513034	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+13%3A30%3A34+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9cc6aab7-b24f-45aa-ab30-9e6c3217ef2a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777977034714&geolocation=TR%3B06&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809513030	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVXIBTEb7lR791N2CjBMoTFEU2AXVlXuI.%26dt%3D1777977030590
+.netflix.com	TRUE	/	TRUE	1812537030	dsca	true
+.netflix.com	TRUE	/title	TRUE	1812537029	dsca	true
+.netflix.com	TRUE	/	FALSE	1810205989	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

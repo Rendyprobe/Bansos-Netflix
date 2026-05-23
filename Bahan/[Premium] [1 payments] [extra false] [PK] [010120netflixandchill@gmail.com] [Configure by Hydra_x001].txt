@@ -1,0 +1,19 @@
+
+– Email: 010120netflixandchill@gmail.com
+– Verified: false
+– Profile: Saad
+– Plan: Premium
+– Next billing: 7 June 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (MASTERCARD 5658) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785525191	nfvdid	BQFmAAEBEHCFexzh-TEdy44SHM0H8dhgVWYmvHfcU_gPBWUEp_LekjbEN0LZDzM0bxJloBqjGhDYB3c-qtZsyi6iBL5P2GXwTjPBHM81q_kkw-AqRLTpfDXXf2sgb7LcYFHfOAtLX6ofWWs_nh61jp8pTFQKD7VG
+.netflix.com	TRUE	/	FALSE	1807480540	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+02%3A55%3A40+GMT%2B0500+(Pakistan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14f5955d-b39a-4214-9265-221fa80e27d9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807480533	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJ3zPy9B-D0FDnfq5Wede9Cq12g39ExaE.%26dt%3D1775944533400
+.netflix.com	TRUE	/	FALSE	1783720533	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783720533	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1807480533	NetflixId	ct%3DBgjHlOvcAxLMAwy712jjQ39kvi8-vLWUp4ZOWFQKRL_ayv0wxATMfAqFkelwYPkXqX2R3D6pcjT2cg_VozoyojklC3jc3Dt-owC2r-2U9da4AaKCTTYuQZ-EaFMwnhyKDI5i7SaHAoxkRxw3HFw5KhtMM7wvjmvQJjxTsssw78C5AoEw_n9iTNYsU7DAAYKR6xWk4O-HWewdxk1itcRvCrOS4SoOalvgQ8zV6FDy9S4DXSDh9zAO6HXzm-qX6jH4plBAzqPckmidNNxmij4c9VsPVYfogicq2wruKTs7gTivBUHuM2FAcJmgupk2V3-H5EVLHb_5KuihQzM-WZmesKNbXtd1cUeuHBCk88ck91HUcr6WXjwEqHTa9hk6hlJJn148ecFZBrzAlUmmx-wBUhJDkoa1s1JrFOOSsKCzxyOVIUMSuUf-pfYdpG0qvo1iNl_YxQ2yF4dB8ixUtP0S5MkPnZJPUKUnutFSLCeXtYO63hyDh8pMR44Jk0AIWNSHkYosJpGLLVHGxhHQChJtiV7p7fBpAmz_A8PEpkYJuQ04FFjzzkqH7iITfB2ClXiBb-XiMPoi7i44uDicLXJIq0gmoPCsRUSwXO6mf6jn8euk7DdtyRQYBiIOCgzHuSwaK72L5ADCjgU.%26ch%3DAQEAEAABABTRZCGnLp2lCWt-S0Rno4GL7rtW3MAIdhE.%26v%3D3%26pg%3DT5LWHU3ELFDIBPNBKQSNAU4SVA
+.netflix.com	TRUE	/	FALSE	1783720533	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

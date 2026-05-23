@@ -1,0 +1,18 @@
+
+– Email: joshuaarvin28@gmail.com
+– Verified: false
+– Profile: Jared
+– Plan: Premium
+– Next billing: May 26, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****59807) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1793431326	nfvdid	BQFmAAEBEAvi1Fe7oWrDgE5vXOySY7pg-3wWiQ8f3aeTFGM3Uy9MfcDXE8H38ziOUQsBRNEG_gdusx72Mvgv3r0RqBsgUaGxojKQXrdd44VsMLbtCrDgmh6rxI-JAoW3bb7-R2AvT7OIUDej5PySqJnwzvpZH9Mp
+.netflix.com	TRUE	/	TRUE	1804535621	NetflixId	ct%3DBgjHlOvcAxKxA6H9xDNdnsQm8wNA5uC5pdXUJfqug5ZuB_GIpWjpQqBs8GJVAEXJO6HZOmitl6ssULyRqtMl8RqOqiZKNTl-FafjHJ62K-AtLFOfVElBjWr0FvK_vDdNVzG4-D0HTbf1LoixlMM9CSktwNOxpjHFe5YjDLUTegBe8wxEnabWFCyL01h5yrXc-VscfpwkP0ovmQ_4p8yFlXjMJ2R3ZA7GMeIifh5CBBJOnA--Zt4H_i4BbOPwd01QBAnKlVCSiySR3Tpa-XoIW6lYbkAWR2Tw1CCMLgNzXc88vJehLyLC_8nFauE9Mdnaqy9eyn2HnKFYhTADK6sLyJjUMkaZUrCkMimeOailiGLst61F_ppm3HXNc11bmO1T9Zp8SMQF0Z806DrvdgZ7mEEMjF2VjP_e_gL-fSfxlN0WthlSWyg8CxBhDpz-C7K63bQUA3Q7PPafc16NCVyJ03RqWRD9og30e5mNg_M6keMpmSyCvEzBjVQp0iBQRkHLgbcSBFqm0acruOCSZY_wFc8U81hblCoOSyAoSiDdIOMNex16ni23jhrfAu3YLDJVWEIo6QTh2DXIdeMYBiIOCgzbl1JEIrp0XOfgvoY.%26ch%3DAQEAEAABABTFwljXRLeGvRVYNcWmgtcKpVJS7PXaKsk.%26v%3D3%26pg%3DDYHD4NJZ5RDMFFET6EIKWMC4LA
+.netflix.com	TRUE	/	TRUE	1804535621	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6wmYNQgJYRg85ai2Meo2ZLK25Awa5vRQ.%26dt%3D1772999621202
+.netflix.com	TRUE	/	FALSE	1804539554	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+15%3A59%3A14+GMT-0500+(Central+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f314924c-4b71-4297-b9aa-5baa415b06bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1780779554	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780779554	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

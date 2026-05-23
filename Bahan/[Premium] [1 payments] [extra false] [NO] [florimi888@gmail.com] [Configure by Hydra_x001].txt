@@ -1,0 +1,20 @@
+
+– Email: florimi888@gmail.com
+– Verified: false
+– Profile: Florent
+– Plan: Premium
+– Next billing: June 21, 2026
+– Extra members: false
+– Country: NO
+– Payments: 1 | CC (VISA 4865) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1779478627	nfvdid	BQFmAAEBEHYHYr7IKLOECwf2OCqML5BgU1S2zT51WuncTGsgrB1iLDxq4ucFJP3CoUFgtR-1ZvgS0SOBNltX5pxSw18l92six9M3FOgCSvM3GZoZIpWk96sZ42HLHVHDauqOo2HCoDPHQq2hsLQrANPyC8ANAIlB
+.netflix.com	TRUE	/	TRUE	1780931466	dsca	true
+.netflix.com	TRUE	/	TRUE	1787007211	NetflixId	ct%3DBgjHlOvcAxLqA5jMUprdGj9t5CUB6VZig17jvuJbYjVZr75C-RMZpIvb6XTU-zhqwEl2HUzyIC8gHxIA7x9e6epQ7_He_2q5nJ-IjwoWGMU8DtHqgN7E_LLfj80sCUbTf31b_zAnjhruqaADQSosS2iVAXjAn7x_kxZIPGmZv3yNwogOgEpDLsulPY2DYaBRaeflf9srVZ0t6lWSbTQrgrO0lbvbLYZN-j7VNT7RbvGxpiKck5GZi7JhvXuQIgQbAcsht_KndHjWTZlLz33OZFiT56VGnV4sb-vnxvvsBXPheUtNGmcG0Po4ijHqIDWGNJ3c0RschUVuphNLK18SNKeuDjKdRsGbiabnewYNlGxhQVFh1yMWZZo_t-cYtyT9FfcBN3PTxw_u9e0CdrdpLZQITWXfUdipVuLmdWIL5_YILj0vTiMRzzol_XHY_bmoTBE_9PIYHY8CkW9MLjh3hTH1wWMF463fV0R4oIAkWmnEeACvfkH7nAAnYxhIUcakVA1sszJfGNYTyHeVwsQjkqDHY1Xbriq4fkJlm364AmxhGGrP8MwV6MF8DSxT0C2Hj5qzZMzQZEj3COIjOByfwQM8boMXKcfzSiWUu25Fwn2o1B_1iSWrZddG2NzOci_KLh3P7FQPzcyn1U1By2gfEZBuwkoYBiIOCgyOssTn8XFd-wfJSro.%26ch%3DAQEAEAABABQEF9GS13Hdm4bxSfoyu6MoJ8Td3JDagUo.%26v%3D3%26pg%3D2HDLXSGHEREHPKNP63XNBTTXXU
+.netflix.com	TRUE	/	TRUE	1787007211	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9kv-j7IFgdDNSGCqnXtBKC4F_qW3WqtQ.%26dt%3D1771455210327
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	290aba14-164c-475e-bba2-bd6d521efd3f
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

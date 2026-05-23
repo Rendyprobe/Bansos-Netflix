@@ -1,0 +1,22 @@
+
+– Email: gabrieldds02@gmail.com
+– Verified: false
+– Profile: Gabriel
+– Plan: Standard with ads
+– Next billing: 31 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 3189) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804720158	OptanonAlertBoxClosed	2026-03-10T23:09:18.954Z
+.netflix.com	TRUE	/	FALSE	1804720176	nfvdid	BQFmAAEBEEmDLi9g52pF5ZcxoArk3jtgV6y4O8ElX3QXF05N4Fr70CXiQp1CEQtVsCyeQBfD_QUGWo-aBYvzOAGP5OMzDSmPe5cPZs8ixQW41Svgnvto7F7b1jAEjOOjh5mIGds7GdIAk6mWBsTrnLMh742PVHXl
+.netflix.com	TRUE	/	FALSE	1806780772	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+16%3A32%3A52+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=49a82ef1-abcd-4f04-be0f-21eb82c8ae25&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773184159442&geolocation=BR%3BGO&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	d7d992b1-3322-416a-be00-91673322c248
+.netflix.com	TRUE	/	TRUE	1806894760	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSDFkBOOOxEniIercL10Z7411Ozr-U9KM.%26dt%3D1775358759177
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	5c68fcb1-f180-4ef0-b397-f7364277cb11
+.netflix.com	TRUE	/	FALSE	1783143778	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783143778	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783143778	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1806894760	NetflixId	ct%3DBgjHlOvcAxKKBN2UKhxSNOXi3LlW9CQH7g3VlOdqSdGzSzV6jK0TiSoceGTq0MFaq1Zj1K_v7w3JHoPUxYPWxDxyhxOAWbqaj3lac5nSIC7UuS2VeUb_4HE8g0fais8NZ1gM4QlB1l9GoFLXd3Ma-UdB8BnkARq_-hsWPIUWcwNua572K1bIzjmHlUB8slFQ1-hd38vrE7W6IxwWpdyprQbD01-6cmDmYiGpDbkCsV5ZX7L0USCUi9YVjtN1O_rsDPd8Ly8CEAHkEjpk8n7i50tNj9gOE4tobFAD-YegQXVF75QnZpwYfeqQcG-109pjK7WcYpOEgvBv28YxRtUyYpF7Wgtl01cgN3Qogj2PIu9DyT58lLyo2ONtrV5fBiQ9aT1S3_IM9deMWTJuk7gWtDgkudo-xwwG-X7_6rlVwwd2ugzYsam_v2j98VGKCoHH4p4sw5CR7DzGwztvkm401iQnsDj1vmAtAqJQJElW5x0HTN4XP35q6q_dF7w2dWSznI_wc1qDy9wETW6Ii90Ax0KWkh3LNgQUDcunfWua-U653cTxaX36XstcYW16P1Eone7Fr1Zby_qacEH-2zApVO1FbaVsPIbRROoE1wJ150M6_QW6S00Py9J_bTY8-n1dZTPjqfKrb_cgTxt5k7iDXCrvNOpOTSycjMLHG73UOOUm_BRD2fj8oRYAIJCZXk3moBxA9BgGIg4KDME0ANdGVlLoJe2eJw..%26ch%3DAQEAEAABABT-EI01Aa4szUztrJ1Ii9MB6bMzjjx1gtw.%26v%3D3%26pg%3DSH5XNULLWVEW5LBD4IXPMM4L2Y
+
+Follow: https://t.me/hydrax001

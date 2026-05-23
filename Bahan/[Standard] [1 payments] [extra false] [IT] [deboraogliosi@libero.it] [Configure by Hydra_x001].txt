@@ -1,0 +1,21 @@
+
+– Email: deboraogliosi@libero.it
+– Verified: false
+– Profile: Debora\x20ogliosi
+– Plan: Standard
+– Next billing: 11 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 3803) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799621966	nfvdid	BQFmAAEBELJHnW5p-lFQAtIuRHaVTyFg4GQ09YjQMWpbvMU1f3EotngGxuWqVyBSrqXTo_qOT1hH6KUom87c2bBSFNKJpjtjw0bZwPtk9N-UxeR_9bSRihdk0U2TMl-W_RljgcC2M2_hHOXj_g2ZjjNIHkc_QfK9
+.netflix.com	TRUE	/	FALSE	1799671884	OptanonAlertBoxClosed	2026-01-11T12:51:24.336Z
+.netflix.com	TRUE	/	TRUE	1808930649	NetflixId	ct%3DBgjHlOvcAxKRBLtPn4Z36LP3tUh4Vj3hotxvAoQvcqvN7cUMgciBsuNTzWPzHlA18KuZKHBcRpCUSwLUDrMq8qv7uB1JhvE5rN_6e4ImrTiKs4hh8Qeqacx1LGXiLNCijlxgVWfMFzAF-HBt4lUjsEPUlCp-RhIKaurgXdO_oEqwU67OYromr5QQvBpL8VeJMnlM9fCvci3P2d-mMN71jDY6s4giI-n7XlLR2sbuR7_LMxm4rNclYJh5XaIaOGLS6L9Pu_q_HMmxc4nRUNfnwuQTLX6xSq1a9QydMqcD3ohJ3PcOW4pARt4X8QHA751iAl1axXLBrnJPWBj3NHKu8H71x4AAEOD2K_HKei7iZERZ-UhAu6jqT7ZQB3AoZvbQcabfYJTAHM1w6miBAcmQpRLTFtb8NExgRZAQ36jc-MdzGbbtH8F3pmsmQ4dpdNFO6sKpRPxQtuktFUCFjoGxQQK_BYTcg2m7RZfvp639XRFAlDajXP2A_QolaDgA0poByi65I3-j3GYCs4Dq1tlqARGkmbZ7Cp5NYbPuFrsT-dzwP7vaGGjluD5nYYgApgxhStDjwnRAz5XmypxUAk4kA8R8VCraF1-Cjd4aMDN73wY0yY3c_7eIwIjj7kPHkf2Z1-7acbqAOWsZPPT_tgehu4vdltcke7oJwNASo7nDyxNSFaSsA2fmHQgM0ESEHKN4louZMb5CHuuVPIcYBiIOCgyAPcdSIBO6fc0s248.%26ch%3DAQEAEAABABS2UJo5raEq9DLOCELWnTMFvrqDeiBbtfM.%26v%3D3%26pg%3D6KJSLJ4RD5FRFKYBBPUUAC7DAY
+.netflix.com	TRUE	/	FALSE	1808930650	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+18%3A44%3A10+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2cefa9a0-6171-4d9b-96b9-9d1bf13828b3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B45&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808930649	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQr_1aBwBf8Ks768mVJqCa-Qmj3wbfUMM.%26dt%3D1777394649318
+.netflix.com	TRUE	/	FALSE	1785170650	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785170650	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785170650	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

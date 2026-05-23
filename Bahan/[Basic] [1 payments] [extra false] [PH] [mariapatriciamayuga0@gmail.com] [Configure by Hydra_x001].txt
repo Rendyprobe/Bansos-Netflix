@@ -1,0 +1,20 @@
+
+– Email: mariapatriciamayuga0@gmail.com
+– Verified: false
+– Profile: mariapatriciamayuga0
+– Plan: Basic
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****17574) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1810346539	nfvdid	BQFmAAEBEAfvfe1i9dbBffbojb5P8Spg2wygJR5YXJpRx-uOpUB7NGZyvFbTG7IBhO8CypEVJgAHHp4EUPh9-EcrMyO5gjHJdJ_-0gI7qa-UrTf4vqMsXDCO8uXPOBgN5IbloWrFG97MZdAI3458c3FohLRegIMd
+.netflix.com	TRUE	/	FALSE	1810356024	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+12%3A40%3A24+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a063a300-617a-400f-a51e-5bbfae0f6a1e&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786596022	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786596022	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786596022	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1810554070	NetflixId	ct%3DBgjHlOvcAxLLA7lN6QzXJp4I5ndgvjwLeGKXbtcbp9DvBEvJBwDixmvWej_eOZpsxTSJv1wIEXOoG19ZNK-XuHaAEG2_12pESV77SafowQs_QDbHJx1EUd2FDZDiyL2MF1nb7RHlBIzuc1SQwYumUttw7MAtIpP8SZV7obbhBhhEH8k8BELw93OCf5y0UN7Q4OSa8HuBRr4pEyzBicK1FnMG5ijEZu-wW1mfVMt2MCn64ytiTGvwfcDjVLRGKHDZhxwx2zqE81ErpS8hNBgMS4xP-AV186o0VfQmKErys1XsF5XPrftLywMapGHs135suqP6oiceqj7_te7yovEq5GeBSuIB2b_IJ1mEsFYTOKkKgtdxhcy7R8F6qGGUR7U4B6glanQEq8LoB0V7yefDkVMu8fXc10RayVTj5m1vrIjmHY5UjdDPuB3VAeETweiRyR7r7lZg9BoXqO3lcaehcx1G9bog13tad-witb_KZs1oSDhMYaGctRQY3oPDV6olOv4oITJkgRyLcBiEIhm6EQRHdtWrwEIBDf66QXIv08SMQk0Q93RkhOZWhAUopytLH35eFnVVXzLAzjW0tZSfh3BgGhY5RIJaiGLaGFmIuSHeP3Ss1BgGIg4KDCj4m48mCBJF-aXcYg..%26ch%3DAQEAEAABABQRIAQ4OhwmTZ4R4d84OHgwD5CDiyGu0hA.%26v%3D3%26pg%3DDRV5JRJYARCODFVC4R47WFAEHM
+.netflix.com	TRUE	/	TRUE	1810554070	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNcCfR_OmHfcqbVAhxknyWSomsTPdVtAo.%26dt%3D1779018068916
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,25 @@
+
+– Email: corcionemaurizio@yahoo.it
+– Verified: false
+– Profile: meli
+– Plan: Standard with ads
+– Next billing: 22 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 0605) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/title	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-02-12T18:59:36.720Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEEFYXXGBKV5YcwXn5HOiTrJgIQa386L6APiZl43NTgGTrMWUFY7kxLbmouVQ6cNLa3iWT3yRjRLsOXZcma8c4UM0rs8S3S7oHP-XHP18uPbNT-KEeuaOU9sHGml6G-8ZKkq1EoQmH0-Dv31snJB8yN1C
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+18%3A45%3A15+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=56f7b27a-296f-445d-ad04-5468a9811ca0&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=IT%3B72&isAnonUser=1&intType=3&crTime=1770922777178&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKABJk2V-Z_SedhbQNxQB3hh6W2c_rBNSzzTnstOb2pN037uJDdsZS1z3GjJFnkzZRLIJ7MUUyP05CsPYDkitDJpy3TStEDKMQYaoPtT02vRqNbJlqvYdnYha_AQQ0oER4YkkWhKkPPLPyWan_4gmqSX7JZBJMyHhiXd-Fof2yXFhO9K91UJSkUT4WGc9lD7xQSLnZkEpIVlKmMXkpGMjHEZ1W1Qx-l5DQXnHtTE_akfWR8yGDz_Tbvk7Q_rKY-MwpV1f1otkm2L-ZFkKoaoNBidHwt_Inj_dSVD_le43zJAPw7HCQf2lOPDIm1rVbbqtClxJLn7vt9rUoCcmcazP5W2QjbW2qgmjmyL7uSzOnh5WR73N4pdFiuLFc0Ae01p5d6Ho4y-uweG6iQ1zkSCmFuOIgiM2T2Dn3Qli2YjORaoWiOEaIyKeJ00A5RJ8fgsT846t7v5XtvRC4OYNv7GVVaUEWyRxnX7YyPYibb7pFJ78xwVO_us56jwPbbZlxhBZO1nMpsTRtXKRRxQzfglHhmFP-Tk-Mi7FxkN1W1DR2CHTbh45uftq39OJIHAbI9XPPE5PYWu5OhoBjoHldCLmGBIBYKr25VzseTthfo_mAS9pS0CkFgJH9kc6ogq5_B7LmwGt1QJkXkv_zJ6_qfD5ITibE85GQA2FHSdyFLQ9VrE4lIGAYiDgoMn8eYMCgQ0hswTSe1%26ch%3DAQEAEAABABTNbPDPZOyUGeoTesG8n-_FC_2WWbTJThk.%26v%3D3%26pg%3DR77EROL2HNHSBK3YQBPUQQ3564
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRvOU_EzjEwJ0HL84q0OhkJG5aBy4W_rbM.%26dt%3D1777263373407
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	3c712ceb-e64a-45ab-8eb8-927600fa6c86
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	33aa3c37-2dff-4dfb-8040-0a94dcd4205f
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

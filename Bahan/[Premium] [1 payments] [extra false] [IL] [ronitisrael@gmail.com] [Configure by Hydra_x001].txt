@@ -1,0 +1,21 @@
+
+– Email: ronitisrael@gmail.com
+– Verified: false
+– Profile: קורן\x20המגניב
+– Plan: Premium
+– Next billing: 8 June 2026
+– Extra members: false
+– Country: IL
+– Payments: 1 | CC (VISA 6656) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789800636	nfvdid	BQFmAAEBECE3rnb8r1bT-N13V6ASPjtglaIlndQceXMW5bHXU7whyMWUDtrHSpk74sEZC-vGl_khUJYgG649n4Wx3jvU-rbF6b4N23oYwxMGPrJfuogBji3zp2qdBgFLw0SuHdTJWvKk1QvmsnmGYTM1m41qWIYv
+.netflix.com	TRUE	/	FALSE	1796151913	OptanonAlertBoxClosed	2025-12-01T19:05:13.755Z
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	a60ca7e1-4ec3-4935-9af8-de8f146cedc6
+.netflix.com	TRUE	/	TRUE	1807958255	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA-GAv7TgwIyPYchPjBxzR7rRMIMHyszHUoxqgSTuzvczKCmdVvIpet8S0YXH0NSp1ejfHa-Sz228RCvSRoPDMiGQnzHSY77LgBWGmoCCh4e-mGpbkba-Qf7pCqcLrdIfyka7Vf4S33TCIMtzPfvpzB4ylc2GLDzDUHQpIwHJqhSs8dd7b96M2KaZQdkKdh44aR_ELH3GqiQzYxNJjrBcfqz1pe8k4qpu58l96aSnXsRZn57zPynD_-DoKoYwdYNxyIUhj1G0pPgkfX14HPiye-rtQdr1y_X_hH86A97Oh5mHO-tGfILYkHIuq8pGfjPfYpM-l0cFUlFRn8L43-vDLd4QbI5NpexX43YyK9LYtOCIgEeL07pu0bCyQgBMje-2dXa06G8S1czXY-IXkWUjkkd88xO8kNHvfP81GJfGp1DLEY-NGdGDNmQcEtQVT3VOmlVwPf9RIyDtWmGsr7O3D81cx4Z7Xvj9xcZP2JAe5cBXoGHFzh0UM8HZzLG9PqnFX5Iq_AykYeCTVJK5Z9V6KZop964zRxPVaRShxN37P9rOT_AGWpjY2X_pGAYiDgoM6KmoF_bjlbatTW_9%26pg%3DRCUVPQ4BN5HC3O2G3F2GNIK34A%26ch%3DAQEAEAABABTnOAhMi0e05zEvhaaibC1d0UtRhkS9nMw.
+.netflix.com	TRUE	/	TRUE	1807958255	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiZDAOHh3pYm60msfbUxuHgW5AIYIoVWk.%26dt%3D1776422254983
+.netflix.com	TRUE	/	FALSE	1807979891	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+19%3A38%3A11+GMT%2B0300+(Israel+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4ee5393d-e101-409e-b603-2ed8ec7ffdaf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IL%3BM&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784219888	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784219888	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784219888	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: jvpelectronics@gmail.com
+– Verified: false
+– Profile: jvp
+– Plan: Premium
+– Next billing: June 15, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****53247) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792558334	nfvdid	BQFmAAEBECCnusfh9kig-KYxk_AEq4xgSJtAGTEHs8DaNdQuQPPpJ-LXVX5XliYWs_kDHiBebTbK95F_eO3kK7V_EdPyGJRldOWyX5JsfQtbyR5_4WoqxSqH4hRxyeuznVLfeBiKh-dztMwCN7Rq347rlv-eElo1
+.netflix.com	TRUE	/	TRUE	1804571702	NetflixId	ct%3DBgjHlOvcAxKBBEa5vGJBs7wXwx38HUyrU-PjtMb2-HNL2BoDm1yWd4fDDCu0dFx8MHTtHcVVb2ERJu9hYFRImrcYBhj2z4B40RJlj5e9Xp6ocYUPCW6cnu2BBDPSHxNnvsD_gebGZi-nL5adVJzzliza6AFRTQsw6Z2-S5RRnMjvms1xzf8ykKax6DGvFXAegb-7GEfNGc3jqwMfR1FUZ2-lJL3z9pAzlpQW937yQkPcdpafXD6HvkS3pkt_9tv0k3LF2yVTnVoTPXtY9_D6JOkU6GAHjXez11ETRRp2ti_9UpGl72pcROEGc0_o31bYeOvxfLmHQzs6b-2sDR8YLbN29hHqS2zrlN5891LzJKHfAROygkv5Qt3rHpLd7SaZ36-5Gmlol8Zceqy5quh_wUevWWvWDBIrt96kUFnIIP7CWWSKSlFay8Rn8cQyLWE3yOlufqxDlM2ht6O1Zqzm_dz3GCbRWaI8OYzGsWLeFj6TM8UCMV5DPJg6xaKXKSKqmsnqeTY4cGNTuAUFJcsXfE4_lNncrGsLaEwWu2y9W5fomq2pzn5dUE6ICQxBqq4m0qzYDx9RQpcNu1XF9EbigvDQoyN8gQPBRCLJ0KJeguFE4zmEDFaYC6aYV9Ch-WlL8G9y_MzPCruUwCLi6Nn_fXPHHOivDqa4AFZAhVyD3MF3dIBuIQwx4MuVZRgGIg4KDF2M7RsJAKMn7obzdg..%26ch%3DAQEAEAABABQoqbP5f61FIxUPn8x7EwPItmjsTI86k-4.%26v%3D3%26pg%3DGWN47UI4NBEA5JYQLVKOCMSWRY
+.netflix.com	TRUE	/	FALSE	1804571703	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+13%3A55%3A03+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f082a108-80b9-4fc1-8833-5260c15924ac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804571702	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGS17lAIzekUHdT8-CjrzIXWPfVy7V4vs.%26dt%3D1773035702337
+.netflix.com	TRUE	/	FALSE	1780811702	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780811702	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: maiderroy@gmail.com
+– Verified: false
+– Profile: Maider
+– Plan: Premium
+– Next billing: 21 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (MASTERCARD 6110) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+09+2025+08%3A15%3A49+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6af27659-03dc-4536-b8d1-b1494c1ce954&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBECdEnClp9mB_ieMzW4LpClhgE2NCqaGxw9HE2sE1li6iqlV3KTzLie72E6Qjrk1QYST9ZfHkBmRcaWVujf09LP0L5u8AZmFBMIOB6uTNNx4IJdYKWVoCoHCtFrBujerYFrzLPglTGpkZ15qv1psqJEbJ
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	8aa72bd6-ac17-4248-98ea-d29812beaefa
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKGBJttz40ek9q-1b6ZXuPOk0fblzGJgDY3QWRo7aVeVWDC_CYLDajRFTIXS4pBF8WhzwInXrS3_PWXQ4zBoLcB4NgfmResPy792d5I9utJiw17aeSvJ9cgI8dZ6gvVoTJiGI-E85S1biXoQ3AoKegOeWlQrT80VtmwaqKIZufq-rK8DeGfrw-NWwPiJSDHilUuJVgL7Hr_3jPsXCRZ1gCMan-ZkLqphqv_M0TUn1Y5vLst8ptdUF6nWKXnHDMUeyrKib2dRXiXefFt_TxVmXhft89eZ8UkLC-IHM5dF2CUzzmy__bSuGAEint6R3SB7ivycMDSCyXJlVetuOLi64mAUSt6q312iv8MQ4SkJU6gydW_MLKPtKI--GqHXbjdyA3595dun8wms3JTCpV8i9gORrAp0_BXwiZq09LUA1mpg2S1z9aO5VgC1j2bTkH7HLcr9FtirjcLfrgz06KaWqBNQYQ32lbUCXe_ozg0_U3lkYjF8gnzpIt97W0m8IqSyPzFxPP96C0xKmxoK0AJ3d8Rgs1bUT_THKiQMcv7D5w10jcF6CMcOFMVDRQdDvbTc3tYv9eA19ncceB1NJRzHtnOw8eGq2onLPIcLsq-11wJClxtxYpwZ2JQ7N-7cr5usHanTVTl-prLbCnpIspFkvPo6iYrClbSkr7gzKd5q02ajoB4OYaqkxSVGAYiDgoMsGNneZL3LKpoocW4%26ch%3DAQEAEAABABS2cVTCvRjHv3GJ1yrPiEXUeJot4bXAA4w.%26v%3D3%26pg%3DJZPZVQSB7VDY7HPFVL3C67KRTQ
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZVrVRbUT9ORZl8AhS_cK4txpBfIbyrhk.%26dt%3D1777392716625
+
+Follow: https://t.me/hydrax001

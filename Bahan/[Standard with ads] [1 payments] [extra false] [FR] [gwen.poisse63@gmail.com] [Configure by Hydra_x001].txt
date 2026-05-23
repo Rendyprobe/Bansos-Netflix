@@ -1,0 +1,20 @@
+
+– Email: gwen.poisse63@gmail.com
+– Verified: false
+– Profile: Magnus
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | ORANGE_V2_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-10-11T11:58:34.917Z
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+11+2025+13%3A59%3A47+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83b58869-0966-4ccd-b271-a1ca2e5cc2e4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BARA
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEPihK62d9GwWBl2eZH-e5SFgtDmpkuqqJ2Ld28AVJtUoOZ4tRuiqjOJXYxGgZdgTwugsgkHSDCnjbnP0A97z0tSxTOTsIifeULCj7ukv9YXsIEB1YKD6Ryh2vlv4bmR2fZ8fg8r9Ap0IFvZOYWrRC0FF
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	135f08e2-5385-4e67-ad9f-20a50726dfe2
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKzA8e-DQBJ740mZeHLnH9nLjIN0XXIgfbK50VlzLFZaUvHwK7ZRHhOW1V8FdJpYG6oRiGHbRyJmM79G6exE7OVqnk5qGHEm8KklkxSozGyerim7LZk7P8nJ8FDPQMeKq1FcnZ9-R2PBNU16DO31P29jke12xLuH8UyUWIL6OVQsy4uE1g3WCh0WNWoSGtNaihh_GO0rb3ZAOf6CpvOSCEMEOmOvHr9hQ3JTp0YxpUqHyuFHjyyFM7v8nNKeNOo-GTzs9PYev2hIkHlU8a8b1RolytWu82C_JvMD_JojIbgG1xvvbh1Kay5_n0EngGpNHf8uOpvrGYgEtAEYEMa2QkLsggMAuNOWVYVx85lxW8Y1nRonxBs5YbZBmKkxG-W8Anm7htnKMibMUowZOKtvuKlJZg84MX7CbbtHb2Q8Z9nLI-2VRxAeihxO1g1nHIel-GWGFJP06e3OQ8u9pPs2sh6x5-X7aZ2JPFDl3lw0wa8pYBt3wtGr13USvrr9JbRYjUO9XUVuUzFDHF0VGfs4J198U_xXPow9RvRHK1IlCZ4KyYFQ9BLF5Tue-hgoem3vaYOm7iXRBgGIg4KDB-z7nimGRyAkRv1PQ..%26ch%3DAQEAEAABABTiFOfwVpIAQWHM9qkxDMgv9vWszx8yek4.%26v%3D3%26pg%3D2ZY3UFBYJZC5TOMQMNMZCGF5VM
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDNewqcrTmLYOPS2zzgP9cDbVjcziybeE.%26dt%3D1760355117199
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

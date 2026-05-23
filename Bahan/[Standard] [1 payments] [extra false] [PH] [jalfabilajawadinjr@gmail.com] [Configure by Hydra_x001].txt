@@ -1,0 +1,18 @@
+
+– Email: jalfabilajawadinjr@gmail.com
+– Verified: false
+– Profile: Trestian\x20Jal
+– Plan: Standard
+– Next billing: May 31, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****78292) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809252090	nfvdid	BQFmAAEBEH5enaCFj0SE3BMTjGYR9kJg3McEXJj--8zPtONx5Afj70mHbxefZD087NxOTzH3kjjEM8LB7AeC90VJmZAuaaKZ5MYXBadqn3y0f1BzUI0pnyl-TQrBSab5_HH_Ts56FImsQgND2V5rtCUbKoQ4x2Tj
+.netflix.com	TRUE	/	TRUE	1809342874	NetflixId	ct%3DBgjHlOvcAxK2A8bJJdzczcurgAT5_yeqHDwqGTMtnNzobleYgbfOOVrmtmOslrd096QkCxQECrxJx9weHfLYjzGnGKQnZzlbN4Opn2qUH4-mkIzzuBUoaSt5QpSLPWlHmthDbStIWWamndk8p5HUEfhkBnRuaM2g6l2ervFvhk-QzUIyc6cEPQQ1QQ7BWNEsUkqK-62ZWd1ioxziuYRFnbjTEi1mDEwz_YpfVvdKWwsc4RLZ2pwmpmAtwUiwVhAEtFdQt1n6WgRhhDSORmnDdc59VnqtUFagg1esa4Qaoy5kHGmS0AAC5zLEtWrIUCYlTrbyaXMvaWQ4ZU3CW5w0xR0V0eSBn6SEz_WfXlM4U7cTgpI9jHFn2N77twjTnCbQVXsDTr7llNtw2of58i8-5XMH4RfkCASXEeOLm23TgHqsinhlO2rft13IlBT9yYDiyL1zpJ13edL0z4__OrqTGiHKwABrcC4p-XK0TDhYtfC7oJ78a1Z9NcL42SRrzGUVBGKRR8VmHNORv75543pAZwN3cGyxTdM993VFrvNIH9AMwY8t5iATAHHfjQ0XXYEB-2KS7IVfGMQv_0X4z4-JtRgGIg4KDHUmbhkZz7MnOebQlg..%26ch%3DAQEAEAABABQanBm4KRxfx199mDZDRzwQ2M_fG6PTO6s.%26v%3D3%26pg%3D6PI7AXQKUJAL5NT4G3GOZQ6BVU
+.netflix.com	TRUE	/	TRUE	1809342874	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIZo338TwyObvRB9BflgHPLCPFAPyQhOk.%26dt%3D1777806873981
+.netflix.com	TRUE	/	FALSE	1809342893	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+19%3A14%3A53+GMT%2B0800+(Singapore+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c71b1308-334e-4695-9ba1-443b32bab23e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777716028414&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785582893	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785582893	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

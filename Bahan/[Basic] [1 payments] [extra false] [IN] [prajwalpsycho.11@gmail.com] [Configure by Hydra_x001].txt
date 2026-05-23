@@ -1,0 +1,19 @@
+
+– Email: prajwalpsycho.11@gmail.com
+– Verified: false
+– Profile: Prajwal
+– Plan: Basic
+– Next billing: 1 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | CC (VISA 6770) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807540490	nfvdid	BQFmAAEBEO5QSFGQBr2ub3Zo5dILdZZgYW3_9qq6zzjAPWUqTHkloYTzZRbzzXfax3UJUsXiA1VTEj0YQlho-3d1ReAYQ982QbzVtIV1VlV7eXCALXzHbquOsRZLH5mKXAR8FEZA2zN0n33PhsUYTTC8jB3MZf_k
+.netflix.com	TRUE	/	TRUE	1807805484	NetflixId	ct%3DBgjHlOvcAxLPAzSW4owyL9_yS3mWOLbfSF2gb2MvHAarnqsCjF7OLCVyuC6xEilFZCe86bJGbwUDKE9olnnHqDI2Mb4kBHA91up_GWKBgjNVewNXhs71pNzk9yBJN0l7L5aMylUazX0KqHExyI4F9uFtxuXaP2BW_fryF-uiEuFyLD-CFGDP9s5nwtO0GaINRYOdeSCSoJVZ4KDeXt4BeT7zUBFNpYnDaeXz7Al_FlOyeiPUvBFN1ZmboTKHMB1v3EL8yetQfQbDIb1zjeHWBsbWuu4GWMuWUuvO7KU4RVuZrZea4w6Y1OuZmncRlkfX-EDD6zCaM7ImG_LhHl0_dN3r6kVD0dk2d4YAGsYg_CYrxK5CC339Fy3hE_s8CUKr4NMBgz5gHnOVqhv5KwW8Q6bTV6F8WHZ1RGb8J06Typm73e5_7P0gyJYqGdTAUwkziEZhcV1pIqgM3K9ZGx9RxwqMG2JQqb9olm_0muzlHC577MxB-U0p6eLpKb_KUE8S1-VsbL9GbHxNFrsvjKjRVkYzzq-5paiqaGZ4W7eUNvbmWxLv3CLwAMqWahY-7D9gNjBHyD2dEQIb-HjLIgmhd1oASEnMrvK8pLBztH39l2RO50egblkoROQYBiIOCgyJfcHXQh3361VjKdE.%26ch%3DAQEAEAABABSCjejoaQUQsVJ6pb_8VprQc3peW6dws6o.%26v%3D3%26pg%3DM22JUKLFHBEDJBWM3BELY4JATU
+.netflix.com	TRUE	/	FALSE	1807805482	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+09%3A11%3A22+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea1a19c8-09e8-4851-b905-31c61ebce118&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776004462666&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807805484	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9wqZGUJj7DnVcwhdtF0l3OAiMFfd_80I.%26dt%3D1776269484742
+.netflix.com	TRUE	/	FALSE	1784045481	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784045481	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

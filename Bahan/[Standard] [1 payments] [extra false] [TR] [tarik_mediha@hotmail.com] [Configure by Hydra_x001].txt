@@ -1,0 +1,19 @@
+
+– Email: tarik_mediha@hotmail.com
+– Verified: false
+– Profile: Mediha
+– Plan: Standard
+– Next billing: 25 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 8082) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1810455526	nfvdid	BQFmAAEBEGjapRurvOxBQAUsYsnO3YhgcS3I-Q8O5eIe6IYuFHnaqXjsPfWszdtaV1-e5QxhlQ_JOd46MM0e3pUDqYfKeV_TifCP_bDBfYOdjRItS168HQ8Poc1VAEYJivx2KH2qxeR2l1FjSYM1E3vG3jgkNjnT
+.netflix.com	TRUE	/	FALSE	1810455526	OptanonAlertBoxClosed	2024-04-23T08:47:45.123Z
+.netflix.com	TRUE	/	TRUE	1810455527	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4Aq1rejIqlbhELb5Y6JOPX_KzlvNzEkFZ4oDlpYpP_oCxoPYSFbRWhOSKvaZNMAchgtbW4C9MVHxJqEP9mXnoA7VYUtBEGvsqBVDcCfostTO97uwL9LCaR1rgnqa2LK2y2MqkUvMCY9oNfYGIk_y7m1nUuoU0OPNs_iksM9IVnuBQ5J4-gtiOd0pgZlaXSwu1xAcL432-EFNsoOYTop5DSlCzsh_39XonL6r4w-OCpSmaeyj6xBoyUZmKz1KFKjmrhooG-dY9-HEg1NxSGCsZWK5KzvAx9KUy4Fbb4rJ35jiq2CoRKyekGoBAqV89MH9ga16DSIaA-oPxFGOKs9ui97paOcXeVCQK2lynA8__nlwSEJ2iPGWQIh-9GpYigXXhOLTWqdfwvFXnFy23Pm01v1he3BQkpYOSAp30zJFE_j4zHDwUtovyNcl7K_1j-ZwUeFpzfrjeoIhommrZhfVnuatSd3UXVDFWgNE7NreBL58VCr2SB4wDmAoYBiIOCgzAuTIaWRwtlxJJYuo.%26ch%3DAQEAEAABABR1Kg07eicRIqO4kkuiXokkTLZwTFW3Hfk.
+.netflix.com	TRUE	/	FALSE	1810455527	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+12+2025+14%3A03%3A43+GMT%2B0300+(GMT%2B03%3A00)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=30f93f14-f3d4-462a-928c-bef4b2690f72&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=TR%3B06&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1810455527	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJPK0qSyN1e4PPqXlbkov97y9ccEa7hx4.%26dt%3D1741777359575
+.netflix.com	TRUE	/	TRUE	1810455527	gsid	07e75097-27aa-4ab7-80c1-650d176bc001
+.netflix.com	TRUE	/	FALSE	1810455527	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

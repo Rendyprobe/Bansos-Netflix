@@ -1,0 +1,21 @@
+
+– Email: thewizzy@hotmail.com
+– Verified: false
+– Profile: NOT\x20JACOB
+– Plan: Standard
+– Next billing: May 23, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 5270) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	0b0f4742-08f0-43bc-9afc-ab05e2384cb2
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	e0ff3509-cfd5-4437-8b48-e8a8ff399a74
+.netflix.com	TRUE	/	FALSE	1793078913	nfvdid	BQFmAAEBEFQASOBK6u5b1zLzLyCQAs9g2HHqsRbgcOP8Pogzt029K0Hp8DyZ3lWAdMW1gm5vSPTrhn1_3j0ULJZx29sdZsRzmSSA-9JwuZZ0gv_9-5KpNiGmfEB_JOlF8_UwgaBC4vNcVSLWM2EKWcQCXA5vdDJo
+.netflix.com	TRUE	/	TRUE	1793078917	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLyAlo5x0no23A6J2t5iQlo561Jz79bhVppXMOGtDr1xdOyGncOTwWX9Xe_8mfJZIgn0FSBsnRDnYBYuiMhrLzVnwciR_ihSlOFMV4k5XSz-Y659UUIMgDsTFO0MM0AnHcEP2_D8cmotTYuEHXzfOWp3Mie7h9vP-A0cOlrj8cBmPW0iEADh09QNlR0onVi602dAChnTLiJ4qzybozSj4llAAVNz5tUGj7vD8ebBKkgHxeOsso22azsKt9l2jPG5LewohFVAG_ucycmCTFyMTzMM2FTIMW1zDhuMqQdYio0i2v5BwPeYEH2fv7MBz5PxTojYl_VWsNUBsUaUs723XWKelfY-QD3gLGcZfNrw7SY72v8HRiIZpV7BwUfh_6cH1JZkGkmyEu1xjcXEiZf3LRpsDSk3b8IIq8VKdjZvLhNB63oRmX133kBSmszd2E3GQ_8jpfIX_uXoudXIrYpHwGCf4d27Ratf_zE84k25nnXQyOpeZEYBiIOCgwNAxbnpi7iyBEFozY.%26pg%3D7UDFA7WCGBHNVLWJHRA246I7AE%26ch%3DAQEAEAABABS-H1U3q6l7xS_S2pbGTwnnHiMBPriy68w.
+.netflix.com	TRUE	/	FALSE	1793078918	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+27+2025+00%3A28%3A38+GMT-0500+(Central+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34fdb80d-c8dc-427c-85fe-827c35214350&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793078917	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSjPgndNQmpr3aXv9GUx8ifqc3eHXNWFXw.%26dt%3D1761542916303
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

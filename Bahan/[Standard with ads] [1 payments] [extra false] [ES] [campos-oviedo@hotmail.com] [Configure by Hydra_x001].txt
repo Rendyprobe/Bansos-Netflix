@@ -1,0 +1,20 @@
+
+– Email: campos-oviedo@hotmail.com
+– Verified: false
+– Profile: Juanca
+– Plan: Standard with ads
+– Next billing: 16 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 8201) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801779219	OptanonAlertBoxClosed	2026-02-04T22:13:39.542Z
+.netflix.com	TRUE	/	FALSE	1801779215	nfvdid	BQFmAAEBENGadyCjyucyTuQmnhZs2WBgeMCbHliqwwEBrjIvVObp6ea3qesYzKcY0oh5si4axSDUjbySAC6J4NECwkh1HD5q6BuAYE842Ij_T_4NRc744tswrLUctx47eVKgQI1Aohic2JFQ8PQEiSpuhZkgoIq8
+.netflix.com	TRUE	/	FALSE	1804196674	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+22%3A44%3A34+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9fc345b-709e-49bf-adb9-eecf8c9f6572&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAN&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1780436673	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780436673	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1804369478	NetflixId	ct%3DBgjHlOvcAxLkA7S6HWN2zpFfjVfzsfgzSSv0OyZr20mLkoiCzsIMoFI-9WQ3Xcik3rA0wsrc7bzHm96bqLuM3q4ec8-taLCN-Y0G6fcKDM4X61XTwH5BlW0_r0Yhaj8zaKFrTWVX719CPY0CDOlm5VAWD2FrbxMQ_ZUD4jNnh_B9uOEcP7LMEufYSMUaMT52jhJ643hXO5z-jJ5CvLYBap1LbnOdxGDuHE9kg01ZTGT1hQ52dAxv-Y9srAMvFsNURUvEuyduBNIQMCuaN1vKtfrBTUew1StZD4UhJPRQ1wwfo12Fkkt8mWQTMtH8rnCtdlPNZhS1RBdYYEToDh6dg3zuR-xX1BLz5a-jn0KvbKNF9lZZ8ZX2fGOsx2W-da2jy3lVEL0sExKWNQvk7MsqdjpFYvPMRQVIHhUFpGzX4BEkwbk8eXYxKLScOgX2LOZ7AWTfSl2anJjzf1CpekyYJ9GtlAQ6Ucnua-l3kG9yMRQarJ9zMLOsIcPU2JyrEnwaNRRgUHOwEcuPaqQ0fZry9H9THcWnrfRXII7Z_DEKi4OtQ8tY3D_oJiDHBSC-LfPOGm32M6jDulUF0A9Qm_TSHxc_7JYXDHqlg3Brxp6mvz4BwQXcrpXuDzZyYTG9YB4VgUq8QlT_DaqWLNecoaQYBiIOCgyC_PwcZuh4Gtijb8I.%26ch%3DAQEAEAABABTCBTML0JKCPWF_hnsZyeyJzYFJDSmC_Cw.%26v%3D3%26pg%3DX4JMY3BCVVF43OMWG3XXLB4NS4
+.netflix.com	TRUE	/	TRUE	1804369478	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnB334uyw225GXVxSfevzezxdFa3mOIY4.%26dt%3D1772833479602
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

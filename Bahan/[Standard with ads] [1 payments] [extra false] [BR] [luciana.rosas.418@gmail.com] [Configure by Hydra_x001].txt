@@ -1,0 +1,21 @@
+
+– Email: luciana.rosas.418@gmail.com
+– Verified: false
+– Profile: Pedro\x26Luiz
+– Plan: Standard with ads
+– Next billing: 8 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7711) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795126147	OptanonAlertBoxClosed	2025-11-19T22:09:07.981Z
+.netflix.com	TRUE	/	FALSE	1795126176	nfvdid	BQFmAAEBECJWc_9rGitXHdKMYnYF6q5g2yMz_CyVchFRooPIQWw6aI9LrodxhskfWyw_qhLWM-e7NUu8QCEgqFqf8K3S-UTxVilzzPLq1ujmkwD4tgaEevfgPIvoDC0oBXwXOmFGFTL0je1c8QUsAOFpAAfaYwIA
+.netflix.com	TRUE	/	TRUE	1801081316	NetflixId	ct%3DBgjHlOvcAxLnA2LZwDS9jRhuCS8n-Zmn_Dbr01-meAfgQ4X5Ayg-A-PXRAzSXLW4fqJgGF_dMXjNqX_qu5-FMSkZEltlVUDJPs4JHvq3-5UDkGRX24BNml16lrJ6yH5tjVUIfYNGTkxoojIbniSBuG1f28qXLq1LQ_2IWTPQiaYM07RM6L8qeeSiGm6wfoLkUvbLlKUTZSJhfqThzW6WLAocGhqIreLyZ1kaQBGqvDi4cQujYDAqdf6mP3Qfl5JpmB1EKuXnY0WerCW_SC6xqlhz9VSsZJQSaAVAdQo02KN99bKCfq6dfZc7okK5dVO1r0bXzyDQQNw9sGu7xZvFuE2gWyp2hA5BIFn7lSftajAju-NLtML-y0y2RI3ryk1Bpw6WTcHNqKr96F2vFzT4I62wapvBHEqQfLijodEuNF4db5jKLoGDSuAaHWbw2HzYoPw3U9h34tb9exRTUtqnLm_BMuoh6F8Kkx_hvh1U-HLHs_4BVmtBb_-hIupaVQDWu8pjXCYCs45Udc-HgTKVOaByfO8sHoxnrZLCxj0iuBR0w2qnKEvusYxO_ag-AwcfuOS2PVyyquu0NZKOkjyv6gDTxF-QSNE4HjCXDuyjEKX1rlWN-CzVe_fugPLNKBIlEcLjLwF6oegYdI3xLS6ZpCMYBiIOCgy7M-QpfyrKTfaHhpU.%26ch%3DAQEAEAABABSP-2duXQy716YkkBQmA0ygwWV3gZFRlTQ.%26v%3D3%26pg%3D3TUETDHO5VH7VHUW6E75COGHA4
+.netflix.com	TRUE	/	FALSE	1801081317	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+17%3A21%3A57+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f976d1f6-0c1b-4e59-b8f6-7999ea8be0f1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801081316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxl6obzsbwBGtcoanQhwDBZaNXjnHqbPU.%26dt%3D1769545422311
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	77841322-c8ff-4b6e-b4d8-c400c3c643b3
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

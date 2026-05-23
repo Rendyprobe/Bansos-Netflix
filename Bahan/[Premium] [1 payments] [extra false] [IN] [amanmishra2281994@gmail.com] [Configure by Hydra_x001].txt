@@ -1,0 +1,16 @@
+
+– Email: amanmishra2281994@gmail.com
+– Verified: false
+– Profile: Aastha
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: IN
+– Payments: 1 | RELIANCE_JIO_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1790583012	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AleCtBMw-WoYVX9wK6DCc6auy2HJDRexV-RKY85Ib0Vv9lNSgVosqm4sgcavM_5k3trDHLRl9emrKSkjD2gRi6mRz95mXLtZYxTzEM43hFfYJ4Sz36CrFglpX_AoczjHqDKm_yvM7HzXd5hyk0nmniIJbXy4PVkU604JCq8Ezm6dXu6eOmq3F8YCIl9lk9nwb96kHuEo4UWgHXD1M1zeHI_njOp8dNMTH0j93X9OZ3cnTEzuf6CDFhxbGH2iHs-cC3Psss94vn5otAL7Osn_y_Z688_ku0R0QOw4YLUg1xTyIZUWCdPJzQCmcjwe1V8HU2BMiUPZXsn78k0NnkrwPFu97lQ55yPVBhfnzv13VnjQyCmBy1UVupZFEpByUiB51RpPc3Be-k95u4r2Enc1nKmAc5EZc7nXeUrFHvKi47frDPo_MrlnzCz7TYJbAGeXckhtcfKnF8hLYFlZkmsS3QZu2nCqMCZ0O59EcPdo_cxCVvudInU41B0YBiIOCgwiY7r9rcYERKC3z24.%26pg%3DW2WI54YONVGQDH3U56LSORA34U%26ch%3DAQEAEAABABS1NNRxZJfNa3dwkJT5zxZs3NQpkI1pMdU.
+.netflix.com	TRUE	/	FALSE	1790583014	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+28+2025+13%3A40%3A14+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=964b63ad-5b92-4ab6-8129-24287870c953&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1790583012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9hC1ARA1-X1EfWSWGtmZtdxU8fIJkKIE.%26dt%3D1759047012453
+.netflix.com	TRUE	/	FALSE	1790582996	nfvdid	BQFmAAEBEEKlGp0CEGdqWYMjAh68goRg7nRp6DetnFCb3PVMEKPZ9NHYjSa98OjgHeAmwpfj1-rlmy9DTJvMckhKtpIDeKqIaawO_v7aL60qW-pproX1dzDRJtI1azmYFHZxnVUE1xptq6FlyuXdxig--nnMEKLi
+
+Follow: https://t.me/hydrax001

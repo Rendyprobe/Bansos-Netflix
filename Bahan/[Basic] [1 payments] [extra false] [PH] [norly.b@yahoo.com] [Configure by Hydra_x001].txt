@@ -1,0 +1,20 @@
+
+– Email: norly.b@yahoo.com
+– Verified: false
+– Profile: DAVE
+– Plan: Basic
+– Next billing: May 28, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****81054) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806725343	nfvdid	BQFmAAEBELdBjM0NTeDqSkjXKFfVnsdgeWen60KwAXftIe7aylLl6odDXVr8Nmal-qF0MqV42Ezdyy3dR-XE8nSVUae6ujlcGviXKNhrkWmef0FKx72E6rHNS5uAcpxHPLB6k24CnEK-S3NAg9WttbiHGoWtfew7
+.netflix.com	TRUE	/	FALSE	1808180132	OptanonAlertBoxClosed	2026-04-20T00:15:32.367Z
+.netflix.com	TRUE	/	TRUE	1810022118	NetflixId	ct%3DBgjHlOvcAxKABCxOcPHx41z1fK9rVoT5hyXypTwsMup86Gj5Dn_aYNsr2mg1xFIJuJaEKscz0EOYG2TmATwk0g_lC42eLndrfXhMNYK-1Px5O2qUBMvQzwhi-WXaDbiGwYhlatQinXmJSzCeC8zZkJXj_Sbl932fGr8tfdXxVVTQQjTD_MzwJQ3nxwQ3QTiPYpigRW2TtiOBE7VnNG0UNPCj5vTtJ_AVEK528NpX34RX4eC_63j-w0wQkGj1Tu5ApppTdkvwQhe0gR5Oo8TtA2qVcL-1VERhVejfcJmcazr-nNtz08dW4YgGJcLqr81slFdbSfJaTD_4_D-UHvWAwqUH4e6lMwJyCOdNrlMGNy5npeLrBjkbBPqUCyr7qEnV5BLF0l5l3C6SEbYTxCKKPju1ATuwhLfMjQ9M0g1siZISgdQu2Pe4RpQDKMbvmOFXXGgCpMhp0w0-BF_BT8TuJID_yYJYgeb0FRIARkcyjuJ2GMT7iaVhy0kXsCG5fLw-DWiA6pQrFEU_zTMQbe8LgltUan9eDilvpbed7Nyj5k4cox3FLgqkpjp5D18zAMoYzTVUisIQf69FOCtbdHtrhG3gQ6TKFTYZPHlLZt0Y4TdU-71NK19AUYV1qhelmRGRBR72sNWCjdSGc2b2nNKp7CbDZ-ipxldM4WSMebos-qCXKi9BZLY-f3ttGAYiDgoM2oHBByfkCTFzbf16%26ch%3DAQEAEAABABR6gYphcFIRXnlUsZL18ayFb-LtRxBR_zU.%26v%3D3%26pg%3DJAOZOFCPL5AGZFNGVPN33MI2UE
+.netflix.com	TRUE	/	TRUE	1810022118	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7QeItkkM-c-ozcHSyd_Rx1Goip9XVdDU.%26dt%3D1778486119127
+.netflix.com	TRUE	/	FALSE	1810030660	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+18%3A17%3A40+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a03ed667-6a99-46dc-af68-af07666c0e11&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isAnonUser=1&AwaitingReconsent=false&prevHadToken=0&intType=1&crTime=1776644134289&geolocation=NL%3BNH&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786270660	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786270660	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786270660	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

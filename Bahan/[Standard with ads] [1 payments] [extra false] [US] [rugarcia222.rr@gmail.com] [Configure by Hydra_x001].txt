@@ -1,0 +1,18 @@
+
+– Email: rugarcia222.rr@gmail.com
+– Verified: false
+– Profile: Rafael
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: US
+– Payments: 1 | VERIZON_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEOeeS2QMytcWSxqOE_4hwn1gpZDJ73p_lSo1eWIwDtaYPgeeXgS561y1PMdQv-Rq_SaiOVxhUsSxEKdqqNuq1ono_2amli24yjmC0OzZrpYtpYgREY8Ui7V-mEM97JMkjo91PycLsxEWgt7nCa4spHO1
+.netflix.com	TRUE	/	TRUE	1802180824	NetflixId	ct%3DBgjHlOvcAxLeA5QR5U-MP-CZvhRJ1bdhBDZ9urQqbkXJGNswggxBLHAcJrAJpmCLoMSGSJFlOdXkJJzLtUSbuc2RFsUrjrQzeTYro2Yk6qUlgxhC3rCUz36DKk2-njUe5NBUjS20fxGVLhgk64X3kynDfBTKUKEkuVIOfjoZRRoRJv1yuNWTdXgz-0GZ1M04OI2nKSLOS9YVOMgXMToITXQC8L0OMVYiMcWSBBfITICoGmzXrlpdUuUtKHu1Yo90IiUVDsw6Er3CymyOnxt9q5GpZmI4JuyQ9KE1t3ITepW1pJ60tV0nqfX_ULGqkPt52Q1irFry5iAfbOVaA3JXaCkky08KR1CkwPFHZTKSMim5oxSAMCec3szdt0_7GAEJQP5Eu7_qJPMzEAmoiO-L_rVS5LCyaXhIp5fwBMNSs4Ytp5JG-uFgGr9EGtQnQkvGIiPJK2QBNZtuhQkuEo4nel2RYEphTRuFnWKcmNagUznevBuNEturtHTqCx8MTJ4sIM5uZJ98Toxs0KUXCDta1wQlSlGO3GlMtIpSkQHfP7bF4VG9vbtLR2rsETPAK3CpBLBaN6KfV3T_bsI64h6wDUoGccS20JsGs7RDoEmUlOgevK5JPK5mtRj231OvZ0J5D_RUqjRUNhMYBiIOCgymsRLV_yyrvZcADWs.%26ch%3DAQEAEAABABRmUHGfXsvCSCHcLbE2DKIIrYOF70c7-s0.%26v%3D3%26pg%3DZ3W7DVWT2ZDDBGMT5M5WUPWV54
+.netflix.com	TRUE	/	TRUE	1802180824	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4CEdfv202_7OIWYj0LrrOYY5CSXqixOg.%26dt%3D1770644824911
+.netflix.com	TRUE	/	FALSE	1802189058	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+11%3A04%3A18+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=090bcaab-f26f-480e-bde0-e1ea4de50e05&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

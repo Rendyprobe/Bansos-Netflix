@@ -1,0 +1,22 @@
+
+– Email: marinapontesnunes@gmail.com
+– Verified: false
+– Profile: Marina\x20Pontes\x20Nunes
+– Plan: Standard with ads
+– Next billing: May 28, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9312) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808252651	OptanonAlertBoxClosed	2026-04-20T20:24:11.415Z
+.netflix.com	TRUE	/	FALSE	1808252817	nfvdid	BQFmAAEBEC4KeBCjoTuRCoUVkex6075gVO3YS4M2jXjxB5j067AvgoL76VCNa2NEP_Qs_-dMSm4kLrrUjXsQRVdox7riNSnqgymdCy70FmoI-PRj3zyxIvR3fl-6Q7nnKZWk-6-qjIeeKToWr82l6sjXd-XONdU8
+.netflix.com	TRUE	/	TRUE	1808620422	NetflixId	ct%3DBgjHlOvcAxKRBFfLVoK4jJO6xyvf9Gr5j68oh6iuvUIuxoI8hNz10B4-XFZhlhIOmGlFnVLmitW-w5jDcvPd4dUjn5YH0sOXTwcOLy4dDwP_vSnT2CGtQXsEAIIKxb2TOHaeJ1kftjJU1YuJAaguGU7nBCjWccrZE5BUlRxgR6Ko_tGPqoJ0NNTlj1Jron1BLW3uW5VKrWz2yqbtBBF7JZPbjbCpRaZbU7VEaS5mrdRVYPJ1zbe_Uld4XDAH7ZARVYWE29YSfu5GhMfVEuEY9c1xhQzyq0L4n2FhVXCL-n3eT1R1ST2gG6NNeVwBgwMUPBU5x2pJphLn4x2QVjw2t-EvhakAbiQ6MePBWZHdqCu0LB79ClcwjA74RG4PPFF08n8T8Tj05rvyyEoT8eI5AjWhgpGV9U2oIFyu1I3Yf96B12XLDQ3dmfDfWUDFk55E0GkSAU6JHugVrWaNHH7caqYUzp-2jq7DI6UvR7G9tkGzpqgQAEvVUIF1LoWbf1s1eYfDpXXGhiER0chJNeii7cOy6rqH2WijSuXgZOgxFVj95KwyJbl_FfA0e2u6p8wkklNJ5-jz1kgufSlkWh0T8oK5GYI1seTp4dE6AgDVNfTjjnpd1zUGWeiMmkLnNSMwIfGdn5IJfrc_sgTd_PHWegJ9MD3H3DgR-qCljx3pCDotNkoiqHcl3oru9xJtPY7oyzuFaiD_Dy9PmGIYBiIOCgx3YTRDwXxDehDcOlI.%26ch%3DAQEAEAABABRe_rLdd3zCW8dGp-8GB-7FgVNFEWpg8Bk.%26v%3D3%26pg%3DQ746RT6Y35B4VDXRDIANFHS3RQ
+.netflix.com	TRUE	/	TRUE	1808620422	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSWo6WyVFqNwdtiw2Etv4Jpc9goQK9Q6kg.%26dt%3D1777084421857
+.netflix.com	TRUE	/	TRUE	1780761900	gsid	1d2403de-2c17-4b43-8ef5-36ab86b2d0b9
+.netflix.com	TRUE	/	FALSE	1780761900	flwssn	12b76982-5d5f-42ed-84a3-5c3af9e62ec1
+.netflix.com	TRUE	/	FALSE	1808620656	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+23%3A37%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=debe1a60-d08d-4042-af5e-8c784fafa171&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776716651764&AwaitingReconsent=false&intType=3&geolocation=BR%3BPB&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784860657	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784860657	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780761900	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

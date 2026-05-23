@@ -1,0 +1,19 @@
+
+– Email: annalisaetc@gmail.com
+– Verified: false
+– Profile: Nico
+– Plan: Premium
+– Next billing: 1 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 3596) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788027914	OptanonAlertBoxClosed	2025-08-29T18:25:14.459Z
+.netflix.com	TRUE	/	FALSE	1788027950	nfvdid	BQFmAAEBEGztHleZafyY20zQhxMVEadgRgtUuFV8RH41Xjh53hJqTo805rHiMLN7oNa6gGLkKE9kIMNP10703ocB-5oSqe507vs0Hw-ZEsFb5lxRh-GxoIcTJs37h94nIDh7Fq5kPjiPHiir2gmJSGTrWOApILQ-
+.netflix.com	TRUE	/	TRUE	1808505603	NetflixId	ct%3DBgjHlOvcAxK0A9fPY73BqwjBSjSJPuSy_IdBWkXqrVW_juh0JSeXw-Cnz2PPWaeUh0LHBiyR5Jjsw6ZMAxoLevKvktLHEyqAeYtkjQGYvWMv-joNmyIhA0tAYBjphPJZs7Ws_toEPu8mddilq5D4FV4Uf6oHcfh3im1LmxzJrDfHzPHLoYyi4O8x3ROp23s6kEr6_3_Q5PEvoerHns6vP7Gttqm4Hofm2p0CutuNfhEzRHPHVnOsTYJnNpAjoUAcu7Rmz72wqfu-0YLvH_iG-RHf5HHAwlGUo7Rg-_wmpz81aDkSccd1DgBohSmkfUpjfhL9Moi0wl6wIGwfEUa3EkdCY2jvkS2_Aw02t4JT7cPsJUg3wTQ_oX-fKfxnFX2zwJkfFvYrTU24Jr8qu-GKF-QCi_UjBOMt5qJuF304h93iAuEYYLxziEpLwo7uIf7VLFJNJ2yzFNYLAv0FaIr2HE9Z32mbCxEUsSE7P5wG7Qv5ps_auwL9pDSeRN6wkaFiw0w_yPKZTxrpMXDYFGzt41lS6M8twzjaAAbe3g4LtWIHlR9Yztc-EGVz_xb3QZo5SeMJJxycoaE4mXHafiMYBiIOCgyh0JbP881FDS8hBsM.%26ch%3DAQEAEAABABRmwDXKhnuOcsQMW0lW540T5s07_u14P54.%26v%3D3%26pg%3D3PRBUJRH6NCWJEOI2S2B56HGE4
+.netflix.com	TRUE	/	FALSE	1808505604	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+20%3A40%3A04+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1072593d-30e1-4fe9-9bc3-c7b5a5a10e01&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B34&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808505603	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSevzH5l4v45p-tA2eZVi903-BAzy7C3_0.%26dt%3D1776969609102
+.netflix.com	TRUE	/	FALSE	1784745603	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784745603	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

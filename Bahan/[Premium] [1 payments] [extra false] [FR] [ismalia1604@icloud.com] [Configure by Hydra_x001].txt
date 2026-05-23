@@ -1,0 +1,18 @@
+
+– Verified: false
+– Profile: Merlin
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | ORANGE_V2_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808696410	OptanonAlertBoxClosed	2026-04-25T23:40:10.369Z
+.netflix.com	TRUE	/	FALSE	1808696497	nfvdid	BQFmAAEBEB1BT42pZ31SpabxItiIlBNgoHxYGA1EQ2j9k_YP1fG5y6tg5eBg4llSeB-GKCaxL4IOiOStnTukO25b-nJcMKnHXG2SsiFYGPqnRYp1g2ISQzQCw-kKIYDOKs1fHH4ZBJp_rE7Mupl2XzKuIOt19RYv
+.netflix.com	TRUE	/	FALSE	1809035331	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+23%3A48%3A51+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b47dda29-cb57-4e9b-ba28-48215d26bad8&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777160410681&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	FALSE	1785275331	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785275331	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1809108895	NetflixId	ct%3DBgjHlOvcAxLQA15fZeDvKWT1PN1qFAMVl7R4F1xSmRsMWmE0FelHjyyFRePw5YFw_yC0mcBSz6uS6VQH0AVAGWn2Xj0qwYvYCqFQwTjsmaG64zA8T8baQEh9702BkumL0ljI2SMnlIKEBN6Oo8etO_KNVeghhSWXSoPlzvXhNKTPkMmeMkSUW7VgqNpcJZ2PDSy2K1WNkIjcHYC5qhEVKBHqj7_W5YeNkZ_-EcpB1CoB3DFexlBiJ8hOnP9kxzmHLVJH3nHVmVdlZvOWf_h0hzpxlSUWP3TkscYXh3MoAd2EpGQrqrE7JsvJ9znfZqjWTkLcdm2VGN9R9eYb3I1p__JPtGSM3ddoYjext3td0MLKZ-w-d7MarhmUmDFuuuBoSUTTZUM_6Y2Fs-677dz61fvAZtAXJGaJIP4GoBLPjFV7LFi56CQUDDPO1AbSYTJWINnowA29vHHp4sk-gTHu1bCSvBZ3BeugwQK4Mq2kozJWOpaMLW2x_tUEiVn4c7AkNZX6rS439c1bqbSZR0mo5VjDOK5Eujt8130u5Ido9wGeirf8ZPj3yfuJ0J_iyHX5yXnnYulHoz3RG82fMOXd_iEDSlLEl2LoFgHak6lYgCEGRGwNf0tWljdDGAYiDgoMmxVMw3tUqRXtyzDw%26ch%3DAQEAEAABABQgZGSn2i74n3ThqY9rHyBCnB4ZBgseWUs.%26v%3D3%26pg%3D7URV23TVF5FAPCNM77BIT5A7SM
+.netflix.com	TRUE	/	TRUE	1809108895	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5yzbgEc9XpMVGcXS4R5h1qnxQIbK_IQU.%26dt%3D1777572895736
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: zaminhaya@gmail.com
+– Verified: false
+– Profile: Hadi
+– Plan: Premium
+– Next billing: 20 June 2026
+– Extra members: false
+– Country: BE
+– Payments: 1 | CC (VISA 3846) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809728150	nfvdid	BQFmAAEBEJ4IdeMAxjXLJfJ6yPyld65gDhjL5x1G3wQ1LJVY4xW7pnzLOuLAqFiVAQid8fFPmbOep0JDjB0rA5NVRVKuzwT7OVkuxj2F_Hx3f8fBrSFCxcgGnTGOpolMRjMPRYBAFypdwahubrgJ-IB42_oogHdZ
+.netflix.com	TRUE	/	TRUE	1809888241	NetflixId	ct%3DBgjHlOvcAxLOA9cHmBWGE4NjttGGjLOP78VHjeq2xvSBigVGrHxkS_e9q_7H-8JSRSk2LzavbrQRww9Wnr9z6vu1iNZoMIOtjVuHubRxIb33eDeBI27NZaye9-Nh5KKeaoHeUVv4ZXdoPNF0dex-U4qHxs7PWLDtXq3obGmVzyrQy8yw8Je0DuoVDnzUIs0TKW5lETXZf8z4z-pCrKIYJp_nslXr_qZe5l_uHjb10cmFDjWLVXI8-w62AWP4eF8cEwlp7YMKjdS0gmJhCN2B4y1HxJal2OPkeuxlYkvBK6P1rrl8Qw6VWaK9nRBDXQSQXIo3JQF1Ro6MOOqEVFs1wY3v-ZjmTH64JFaU5K-l2ge-wDN2tx9mzO5IeoT-lhmTlhS31PXGnR1talsKFAt-Jrg4I7Ue5JVcrX4Ow2WydxO2B2uwk3yWFNns4Ju8BgFr5ohQ5D39aCL7AyPPPafgAAZKdxaqAHx_ZxR1atdr5cAh3ed1QOh8anWtPAV-nbtUNNo_LlnQHVGSqMATjEvPiTy0y7Jt9sJlmzAXzFyRcwEhNRgy96hnQNP-hQcq5lIxzm3NGjCiZbKH0veAG0wunW3UVK3il5xWh1-4FheNj2pS2HKW4-pAixgGIg4KDN5T_Vbn18nKVTjJWA..%26ch%3DAQEAEAABABT2UCYITwGa3R0Rw1Z1FmRLziZuzayZG6U.%26v%3D3%26pg%3DWP3F5HOZQZH75KUBJHSC4EKGIU
+.netflix.com	TRUE	/	TRUE	1781698300	gsid	27710473-b6d2-49c1-8792-488584c224ad
+.netflix.com	TRUE	/	FALSE	1809891227	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+00%3A33%3A47+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=653e5113-ee4a-4a6c-8138-cc7485aa6259&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778097398119&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786131223	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786131223	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786131223	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: leandrofn2014@gmail.com
+– Verified: false
+– Profile: Leandro\x20Ferreira
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796167219	OptanonAlertBoxClosed	2025-12-01T23:20:19.989Z
+.netflix.com	TRUE	/	FALSE	1796167223	nfvdid	BQFmAAEBEP3EgTHQ2YteDV7IEf57E4Fg2_Gjd-ROVp8H2ogVwsAUuJgyGIrqVzk-oHKplpHjuuPv8i5Cnr91ATihvvdtgbbLmgsgATZ_QppMX9SEaEF0UtFQ4OKpyQwgIZ4v7n5oeIKBITrNMWELNHRpNJPddn1H
+.netflix.com	TRUE	/	FALSE	1808254762	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+17%3A59%3A22+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=18be448c-05cd-4eb9-a944-613c8ad3a350&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BGO&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808345312	NetflixId	ct%3DBgjHlOvcAxKTBDefRCcFpowmKmT1wHU5IuQkxHEwaiVMC2mrYO-lTTEvOaxzP4o8MFb9lo3U_SM6U037xJcN_IUhoB-exS6JbKvYzOmIC02vOQxIl4uHRmpspdFvgq87mqo5qwsStwASvKDMvjp0Zq41GSQhIaqPZNFNpucEl0mNRuF_2WuiXzX_phOVgjBh2Rm5iHLJUdp7onBHFsYuwr2p2d8_DisH4JgwL-SJ7NcaDS2mhc4vVcccL1zHEfefJQSs-j9qUkuc7YUQl8m0Uu94wL8CUnv_3AhSsNYlNjr5H8HdhXYTxMPyahfNQhKtBXsPBLNX_z-ACZ9_6DBOA6rsXN-OqJo1iaNdcPChfhkp8wLUsK8yabPDQNWGM0N0xLbxY8UvWAXlyIN5bBA8JXEZGycS-scIkRDZi1WjJ1lspw7Adr0U2t5G0TG5dnM5l5lR50WsdzWWxVhBPGThHGdSS9srkl7aChSYVplw80IvlD7ZJD2Ygsy97Sjwe33WyQP1F4QoqYHu8rDOl2j9CHLytxasvHfczOeSsUYgpOr0BIMg9Y-gZXao2kOuzXFjrm1ewEQbEC_aNz4zp_evQoVStjV3YF7IP6tUylZ5ut6eEW6j_ynnW5HCBKnodTXWPuA_8Jk5oNkXWDT074xdXNdDZ5aYLBQqaiAz1gdiax7FjxKXpm8TvYBiAR-HiQdX1b8ftsRno2Xm_HFYzxgGIg4KDMNgfDpeWxkW5SM7aA..%26ch%3DAQEAEAABABRoDvNxaD9SEY6uXqLGJS8mdvzWiXrHsRU.%26v%3D3%26pg%3DYTAYGMQMKBC6JJN6DQXHXPZXUM
+.netflix.com	TRUE	/	FALSE	1784585312	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784585312	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

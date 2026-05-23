@@ -1,0 +1,16 @@
+
+– Email: rafelintorres809@gmail.com
+– Verified: false
+– Profile: Genesis
+– Plan: Standard
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 2384) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797741939	nfvdid	BQFmAAEBEOrjRVirWLaWDCPt71g7X41gZNYKu4RDqal1r6GyEbyH6ijuUlskifuMf4GOt4uqOgZEHD9Sdy98STbqo9mQ5_9C_moWyz_jdDCxlFS8slUpJfe5FG90Yrr4Xm90cuxYQ2M1ZopnsRsUuhL7k_8HiPQ1
+.netflix.com	TRUE	/	TRUE	1799128382	NetflixId	ct%3DBgjHlOvcAxKyA6ARIG_FYyLeVYSYRfdf3LzHGkMDnJXYKUBQ5MBGlR5CsSjjvGQVStLzrcndO9MY-eUpJ5ca_zd8vy0Apxrk5VlMMvjoRiutBAJxqEkCR71R3KFtNMdeNdRP0Z7b6IrjTd3B2WBzHqeBLat43lzzd1OUCWrvHo8XiP5UdB-YcCQVNDwEMhXV5VTbkFTYlnmClWL0GkB-wLVhD1y-5Dq7HVEvd5QmRdQoemcCzBjsG6JNlzIxYX8MKKsYk33BdWWJkiOnFFQcCNerSMEdHgn--FCzWIja0EDXri2dUlYTg9UJ5pdux1KL55MUMYF4qQB7a9e2JrYX5m0hqxk1fz5LRjdlo03ScxdbZwAlAMJm-3O4QZh5DoxbjE3Alr2paOixjTQmZJRHHp5p0oJkYft52udHPrBT1uVR7rFg-FfY_rMeVs2kPizN7_Q93dsygdGkGz5jsQmt_-dVY2HhPxfo-WQBNn2KeqaeqgiCO8yqIy44kTd94myk5GxYxlkkHfnSn5OZvpWvuvv4xt6iDddKp48rrlRg2JGmKFHUgdXVgE8Pis0R-rL8f-DNlFnHbU9gpCXcGAYiDgoMDvJsCN-bBm5nGuHw%26ch%3DAQEAEAABABRq8_l8KU8-x0Lj_dZiAulFCsKCtShp6W4.%26v%3D3%26pg%3DELBWCFJVPNFYZIJ7GYWDV6GPVU
+.netflix.com	TRUE	/	FALSE	1799128380	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+00%3A53%3A00+GMT-0500+(Eastern+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=10b1a29d-f332-4107-9c0a-9d6f8324c276&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799128382	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQwBU-f00YChSzf0QOSsX-JZqa2FfLRZeY.%26dt%3D1767592383128
+
+Follow: https://t.me/hydrax001

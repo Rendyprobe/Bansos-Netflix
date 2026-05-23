@@ -1,0 +1,19 @@
+
+– Email: caramelmou3078@hotmail.fr
+– Verified: false
+– Profile: Ody_Portor
+– Plan: Standard
+– Next billing: 6 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 2659) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-01-01T20:12:58.056Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEKWLgS24kvK0daKjPlxkYaVgxQE4yh8-jCCfKdWHmH3Fen18xGmVDq91IZ_49HcxGspWT7EvDQKNmwh4S8SPM8blkt1WzA0Ftv9lNBJgteS3SUTx93MO0RtO8kZ1Jhm9wjLcrrEIuWXgG2MwSiMP_FzH
+.netflix.com	TRUE	/	FALSE	1792492962	dsca	customer
+.netflix.com	TRUE	/	TRUE	1792164504	NetflixId	ct%3DBgjHlOvcAxLtA6R0BIi5yd2y1d4hqsPmGEnogCGCBv8qFXoofIQgzaTfYVeILeVqwwffxN8E6-GA_e_BHFAxQIGMw71mmirwVtuBHkm0sl_GC4K8_lhU_N4w08Ol_aFTzwzd4IFStQu-EHXJJG1BipBnxKlYqZCfOIDZwivwFurREA0mUtbloym5hYhRPS6-vfovS4xqZ6qJhowmCEvnizGJDQgiHXIfNvvCBkWidOt-xiXk-l2_4qHZvYg8miSb_D_CrCYnRgGv1mHxLlJKXn992PiNnogysGYVfXErdvna43NR7GswqYDCeepMcGBrqj9cMOdpQXHygDFExYVRvis829M6NTRCkOWdwW-xZD3awJ9bN1qowdwYqVt-QaFeSY8sAQkCIuh5HccDqCwszZUGpqjuYW-CDHrXhAhI4K1J_6C-zbCZxdLn_T4re0SIEk-Z5DLybgysW6070zSdvGN5900_54_gtk2hlQ4A1aeOvrN8uEk8BrD4kpvrdqt_EBb4MucfqFo7zznxAjIbTpvRrMBEcd-59ZKrzBt261ERUfN-DTPsoHv8K16GpzokKM8Yp-MI-FA27A6njxR5WOmYO6ozePhvXxoZqGRP8sLZnviyagmi5wn7qJGDRUOzBlaG_PIulox9VKozgk0nHOjtD5juEW8YBiIOCgymULKYRI_VBtUVpEc.%26ch%3DAQEAEAABABRjG4VVHbYSwzy8kXh0ZjqWZ_W-TmFjxBM.%26v%3D3%26pg%3DF64DNAXE2ZDILCDPVTWYSCROUU
+.netflix.com	TRUE	/	TRUE	1792164504	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKqg1sukVN1zhiMRCTAcL9FjlyWR6wFHM.%26dt%3D1760628477033
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	78a9f2ca-c56a-4010-a542-6fa063af5eb1
+.netflix.com	TRUE	/	FALSE	1792173665	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+16+2025+20%3A01%3A05+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cabdb544-cbbe-4bf4-9c2c-9829c7c48150&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BOCC
+
+Follow: https://t.me/hydrax001

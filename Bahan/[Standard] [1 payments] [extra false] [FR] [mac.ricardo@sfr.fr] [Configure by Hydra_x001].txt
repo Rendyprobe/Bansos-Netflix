@@ -1,0 +1,17 @@
+
+– Email: mac.ricardo@sfr.fr
+– Verified: false
+– Profile: Alexandre
+– Plan: Standard
+– Next billing: 20 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 6438) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBED6b5vmM9K2CVd0Htc_uiipgj1hZB98Wo8tbGCL2AS79T-KPMMRr5a5CBqyVeNY1MNaCLz0W74gvItsVcK4R-f1OGZMe0cMV-cy0qkdoOXFLn8SvGlujYa5KooUgU1BAvo1bxjJLTp0wKgAcaKdUhqgn
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxLjA4sG9Sps4i4kgFrnfvxJfmW4KFkHem6EbFdGKmoVHb9cC6GW77pq3CJDxCvVMwX4hRyuMPteIeneH3lTdbkLvsGOWKy49AQBT7hir4WFOlGAGpwnH-cAwMxSpfx7LTvGjgdeefg-rRayOOvtzAKS97ya2vPzkjiQklLdFlxA3-8Pg9tP-DTpBky4e2uquGVVJhwmIw3qX7SZet24TPiRhqJk2KJx1daEsZIvMPUK0vek4u050q2Amk4HHFn1d35wwltYbC0wFq6Q-QCWQzTB5bw0zkyyyUDj_Q_p_3WedPcmsSujFGmREfOf6vHabgeicmw5DviYcda2vwUF32K3WhJOX_TmxXpGsH_uh6X6YgU4um9n4dyjNohpW3jo0JXicC6hG3wZu64PeC50T3aCvCplaKaJkGbMD6xvzT7NWYBIOuSXjUM7Pw3Y8_7T0vRnTTmTG4z8MRYEwl_lNPeJEa89pd3xRf5pU7_IfX3ASR9hugLN6c46N6vYa0VNpr3O20DtBvMseArFMrOhdbl1AgmTiJynQLdmsi5-zyEmhVgZ_X9MG4tVkWabr6WtORJ7NH5sJSnoMU0vubY50HW1KquFxAEmkCmub2QLq4jTXNVuBhXOsCiSUfgKMXXUW0i9itSg5hgGIg4KDFV4sedGsmTzNKnASA..%26ch%3DAQEAEAABABTiPvsreYfnI-8idJx4q30VOYhYPJDcda8.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-04-07T21:50:24.765Z
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+07+2025+23%3A50%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=dceae651-6a8b-49c8-b700-0df1429bf9f3&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=FR%3BGES&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXo-Ru9N4FdhnltyLIexrtRLtPv4MCvYQ.%26dt%3D1744062620717
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: tzuytzuyu99@gmail.com
+– Verified: false
+– Profile: Zio
+– Plan: Basic
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 1 | TELKOMSEL_IN_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1804953498	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AqKa4l6bMq-6n78phyCxbtT59DOnrdU86-4TFrHq0D3xwqpSKxQpic7MN5Szn-CSwZuYOu_t3NkkSuRWfOd0YLCL5hPefvkcMpW4aTEHWnZisvjRRW7_hnu6hb-WvdA_VQocsxU61g3qUphHz8CSQHfDxZ_0gBzH18ams7grXKxoq7UAotyZbam3jWV6QDDUa-3XMnsjIlYDPQJ45WffAE8clMwBA_Zv7uKoG6Mq_xYfpp7UJwina3-EGaDrnFOxFV6sVMHGUDuDx-VrQB0MaEmKhtvBMWFSenh9zr0YZvf1VRQi4hhxh2yuyMssHSm015tQUvXHO3WdeLUq_4NaLMYEZIIohcRe3qt9v44gNwH-ztr2CaQ-hLYaCZbHWLMBZEUqE4I4YUlTwiSzkC5F--qEnbB_kgiiB2mfNZ8X8k1C9g0_EvJ16r69iQuICeEMzl7WUxvb9baNiru9nTIToGB5eq0mqma9j5g0Pu-ypAQpz8Fc8b9lBrQN6vfn_hV5GAYiDgoMzcYfEdn1OLWEf6EY%26pg%3DPBWFMJUCVRAXTEAQ3SE7TDGX5U%26ch%3DAQEAEAABABQfGY8YoNlx_ii-gfBwi86hOCw3hu4ILkk.
+.netflix.com	TRUE	/	TRUE	1804953498	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQY8oxsuVUs_4R47uXAfpENU1CsE6yIkhY.%26dt%3D1773417492406
+.netflix.com	TRUE	/	FALSE	1804953498	nfvdid	BQFmAAEBENNL8Lp1NfYVe1ZVuvzNrbVgl--E94-r3Mhrj8hzpLuLkGSVV-5oGbscHbmfYbxNPKf85YlyMn2utFOYhfJ9IEmGM2vp8alfyMRKgreBLVfGh-py8-zzsVAN2UzwOPcThytVPt2ZbkJE0NMZSmpw5EzZ
+.netflix.com	TRUE	/	FALSE	1804955482	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+23%3A31%3A22+GMT%2B0700+(Waktu+Indonesia+Barat)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1eefde8-33da-4b8f-aa82-8ec3b156973d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781195482	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781195482	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

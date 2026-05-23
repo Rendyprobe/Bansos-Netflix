@@ -1,0 +1,18 @@
+
+– Email: zambranojonaponce22@gmail.com
+– Verified: false
+– Profile: J.C
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonAlertBoxClosed	2025-03-15T01:27:40.133Z
+.netflix.com	TRUE	/	FALSE	1782066568	nfvdid	BQFmAAEBEG-Xvauw9dhr3waqYYcwAVdg4aEBcx4ROiqUsUmStUA9lh1PXWc50aOkJYwEbojX3JqfgwNtyA63yyJ-vRgyP8rDU28KPOzpSs0UPHnjULnYhyfhr6D_yRgduEMnqcTWZLv82Qy2ZRnibTQ-hoFSrVZ6
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+18+2025+20%3A49%3A51+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1e479ae-9557-4dea-b2d1-c526c49d6d2d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BPUE
+.netflix.com	TRUE	/	TRUE	1782066568	NetflixId	ct%3DBgjHlOvcAxLOAyhDqmYxjYe49HHMzl2GPZv_LlAelHfo_EcqQz6H48oy0Mn5xoLFpey418y_kKi0HZSYvdCwCdMCZBvXbxk2GMTM2-cqiQKIJYQqzbeRALB7RHyuAPNZEq6r2SxPDXVJ9_pw2v9l6oeKU6dyftQT7cN-JLeDzp-lmiPPJOUb69ZWIPuNbqCeyzM7VSz6FXc54SuDFrUCR3FMh2g07kYj1i1G47LdnX-0RONe3nvo9wkBkBhWZvmPnf6UEyUI2PCKRlKC9SLNeT2MrupTOEYOC0Z836sUNwh0SiO6EQBvcoQ1VlaONUBLyCwXT0iregrvzs0_9DlMLAEcxdiseApDwm0Pso1pUzPOIr69GATAvU9-qSaQRT5R01H_v2NBu_PjPhvIPTTenfrZ8pW3-0VNZsKe57e8QxiijXfaukp_MlnjiXUUKUDlcTJhZWt9yBjNNItD_bv5DytloJJSjrajpxp5-SfOsjSv1xwiuYQtf-J3-r1U-oMnUjbPn88WC9rw72oQYTI-yBLMGmhDFr7338-xAG47r_doAvyAMWkMmKSWTga3pSrXUdWy-jDFd0x2CIYVHoDz-SOrYdSNgI-LYeVqspJwtlmJMK2ytJlLnxgGIg4KDCPvirv1UWJhVtljGw..%26ch%3DAQEAEAABABQ0WVY8WZWUjg4gX_6HJws6e6aXiL_pO70.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1782066568	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4TrSFBdVzZhmiFPKjcFOxIgWCj9Fm81A.%26dt%3D1744009137857
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

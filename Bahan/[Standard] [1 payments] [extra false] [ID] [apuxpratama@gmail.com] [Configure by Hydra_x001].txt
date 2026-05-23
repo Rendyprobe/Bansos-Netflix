@@ -1,0 +1,19 @@
+
+– Email: apuxpratama@gmail.com
+– Verified: false
+– Profile: Net1
+– Plan: Standard
+– Next billing: 17 de junho de 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-822****9074) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809706214	nfvdid	BQFmAAEBEPPNYWaE_OzoQn_BED9EdKVg0DRrOkI0MqD3oNwb_tK5h5WiZ4KaTXiTo9hSuEoOvPP4ryMQQ-l7gEZaxzENW665ImdjLFxejTCE_0BNSKGpjTTOePlEzvTytPWTjHADQlOLx0rgKgjCqb5jQWrYBCct
+.netflix.com	TRUE	/	TRUE	1809792646	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA1BiN_6jBv_lspDAnhregDXUz7-dopq-wYl7PLFKZq8N1zCz6eVHvtYLpceoeBwGlV1N_bgwfBSzPARizV-bSKu9l0yJ191H48O3dgyReptlLnB2-U87HY0dpjAnAWYAqVO4NdmvnlhI-jOmMvo8NVPHtf76ABsvs4Kdg9b815fm37sZO_2--bKXqYihg9mHY8vNuETslhhXiROtodkq_YGiVXddw1d_gUsze5n_psID1TD6qsDh5a3p3y-cbzHNlT7tc_DeU5e2bGT12iK6zu5lumQzYDja-PwhULwhgVV7p93ck6tZrXernrSGjQBdDN9QHpITfPBLNQKNuRr3olQWSGeFjnio0bqi3RbsDx_KHR6v2Ytq33N4qpstfMmK5OCeFW9j0ljdWGiNxpq_TkFkyTrOn4OMEkxvuiC22T7EKfeRNFv_k-grI1GECQw4SElAU1YE5jfx2UGMxkbCx7nDEPhmt_Q2gTUo4Desf5qKT8f3QlgK1FGeJsAdGGqNus38LQeTYy5PAPFF8PSxRLb_oRgGIg4KDIr4d_pIdeqi__-q9A..%26pg%3DVYOVZEQMF5HNXNHJWUOSZSASZE%26ch%3DAQEAEAABABQp4LMj8ssLQ-rl_vtJN3rauoJB-H7ksX4.
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	e393a455-c667-4c57-ae9f-b8c241e1a8a4
+.netflix.com	TRUE	/	FALSE	1809818244	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+06%3A17%3A24+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=84ee64e8-bf33-4213-b89d-a64f0373b016&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778170171340&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786058243	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786058243	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

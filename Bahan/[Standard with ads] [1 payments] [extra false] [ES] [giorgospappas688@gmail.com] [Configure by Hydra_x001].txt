@@ -1,0 +1,19 @@
+
+– Email: giorgospappas688@gmail.com
+– Verified: false
+– Profile: D
+– Plan: Standard with ads
+– Next billing: 22 June 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 4239) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-10-22T22:46:30.332Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEA0uLQREw8qIWkHOqAwYdIZgF3T8wUnq7riah0S96hLZut5GLTKJaA2vJR0D9ql6XcuHI2mxXEb4Pc8mou10-hE7yiCUXeMLz0bBNDKXbMp9ysgRes2IInyNB7bxnAwGwhu1B3LTmfu9QSBdGGU2qe8j
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+21%3A38%3A05+GMT%2B0100+(Central+European+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad459d0d-3e77-48c9-a31b-039c31315778&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxKdA77sh5UcoIgVBCo19XGHp70c5J9ueLDlWDyhQtzNW5H4nEQz6X7RgD9osvL3taaz_rq0YOLL4_tbLWKMmmhBrQnWOawKcZ12kO7usnCfwM-M60ThABhjSsIugfgASYibbE7-sIRs_lPEgHzHHmmkTHUnf1q66Ue0MhrbFdUXpiEX13igDWykdXDaTwUyo3gH60EtScrMvunj1JfwTpt_6oE6WtTA9W7jqCfwMSV09Gm1tgznJcry8Qr_B3uUoZBXg7iF3SHbiMoYfrbqL6YSSzDcw9uAkRLsHtwWNlgY8qNEIXDvYgtRJoOta-wYCzr9fUAc_ZvPyAu-Q0FlNL4IlU0uDTtPqXR8e3vaZiUUWifWlq-bBob0rvp5Ew4YDiiyl3uCKrRr_O1BSmZ0i0L8PRm1NdHF4UJnlHLovFCsg2UqOM-sfW78z_JjttjizkKH6qJPXpLObM7AFt4pRTfkQLkVDpnB6olzbXWRrvZzEc4axCeLZF-0MVOaUo01hYCQEMi9g_2XtOarmRrRxIoFZGkKbUM7fIjGkxlps4P1GAYiDgoMn9dKd7ZumjorEytJ%26ch%3DAQEAEAABABSq9NF6h-Bufel7cZdL1UnwR1n6_PRo2vk.%26v%3D3%26pg%3DLNE7H4JJURCEXHD7JHHLDSFY4U
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSprzQMtUER53StDC1Lhu-PQOx0SIGYSrY.%26dt%3D1768945837815
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

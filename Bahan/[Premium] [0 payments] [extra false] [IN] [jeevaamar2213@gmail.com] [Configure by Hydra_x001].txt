@@ -1,0 +1,18 @@
+
+– Email: jeevaamar2213@gmail.com
+– Verified: false
+– Profile: Crazy\x20Bitch
+– Plan: Premium
+– Next billing: 21 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796058000	nfvdid	BQFmAAEBEJmMSj5OI-zaU14Nw3WCZaRgjGr78iXx_B0wJnOLGBJTxbXRN0OhsXN7d9gpqWWXKRn-k5M3es-3zp-0qT31aKl3_OXBpWP1a5PctID_E91qBRF3osa8Ux6eFW0rbmcTQ_hTAFH2xGXi6_N45HS6eYrD
+.netflix.com	TRUE	/	FALSE	1796058027	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+30+2025+22%3A30%3A27+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09dc4f2e-ca1f-4ff5-8368-f5a0dd4ac90e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803647344	NetflixId	ct%3DBgjHlOvcAxLsA6k5c8lkNU11lIppnRDuu4M9-FuzpH_4v2K8gBz-uLVFI85W7_jdyM52gcV4RNngKrUDZPzMCRr1PBO88gLaD-dsEP0C_mekV9TneudGcx2oit_suuoyYMhU1cJWeRffW71cZP9h_mHWb7WOkrQAELsyhfr4u0mymlAVjp4hqpdue5lkK2-6B3dGkHm2igRkUQLlUNwRlk3-lwY3f8gUL8DEHirhbkF2Ho2_6ZAZJon5hy9aCRCkfzaHzqjlgHihz57OI0PaXzgL7RfVHA2boRsKUPvPJw9cg_aWBJl-ZR8nGXJCl1X26klXwT3UH5EQuWR_peuXtEW30ZymFR-caXbG7BooCZgHmbkV2DYxvj3mwFv3xG7K68XJ8MR97IuI3Aor6tESWGsraATIydKqggIS9Y47B6n_cNklTYStfVckd9QsOuF407EKRTGkvN2WuL9HHvfw2pQ_l8KlcPUYmv3-DzfjH9t8XhdOD_T49qrDDXqQttEdv_bFTa2KQ0I6pIL4kGiXh-Cd4N0wby-txfSSModbwn6N7igxHB_XeIUTBr_XGwdSLuX0MvpAnto_YrGlxsHVE0Juc1hgvw7JVmuKL8qe4IjvmbILrX42XciVEA7aoCpip6-h-nJaqW8cZz76RZfvTxOn6IroDRgGIg4KDIGOZrqaFUyK8n71Zw..%26ch%3DAQEAEAABABQQlIzAqeckvv2vFLm9UIALeczvtn0u5ow.%26v%3D3%26pg%3D35TYTH4NBJAK5NNXSKGWM3CV5Y
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0008dc83-23cd-443b-b9be-ed48305d3e10
+.netflix.com	TRUE	/	FALSE	1779891813	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1779891813	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

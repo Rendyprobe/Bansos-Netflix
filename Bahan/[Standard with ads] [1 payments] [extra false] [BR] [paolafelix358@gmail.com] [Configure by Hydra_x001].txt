@@ -1,0 +1,21 @@
+
+– Email: paolafelix358@gmail.com
+– Verified: false
+– Profile: ADILSON
+– Plan: Standard with ads
+– Next billing: 15 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 4979) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794275406	OptanonAlertBoxClosed	2025-11-10T01:50:06.799Z
+.netflix.com	TRUE	/	FALSE	1794275417	nfvdid	BQFmAAEBEFZDm_hFCvATLv3AFBQ3mQhgJXv9XlxTvYsWkp1v0hO5X6TY3pU97H1SAxPCD5ztx56J38lWzG6Os10RNRQkXTEoXNmWhi5QI5LOtDvmlG9H4is64RCtTk-4jWI3La-VBuOYSoIiBH19jNI6ehmiY9DX
+.netflix.com	TRUE	/	TRUE	1809730057	NetflixId	ct%3DBgjHlOvcAxLPAwi8xFuwbTI3hCGvqiJPCk56Bv9GKanVVP2hawxzuoAYN6Yrlu9jHJRLq5orXQargM3hY1JfryhuaiTTp0TRC0IJmiHH8qNQF2m3HENV46B2QtrGgpQ9ZjTAYQDSoY52NcvW8D_KNtPJ5e0uz3M5vKQTTJUeL9o3CUYU8i5Dba4GiAhO2frLw8ezo8DBk3k_QREdb49cK_MRMzu5IjftBweZWPsKWQuVdsVLTloF3o6LdugIIuHwr73cACDcgC-iTCpax7DY837z49D5eaMWfpteCLDlRQXQ3i2cykrYPoPshGW_-6SnrIc553reYXAk30O_q-OkSjQVUpMDEDjpfdoaxZsaEh7cKsMKJIfmn44mR5NqrArcdGgBoaTA8jd5RTK2fVwhq4ZyAhhn-la7ue5jMyMiapEU-OHmNo7T6HsW2jKTUwKhfLm1R6FvdIm5PaCRAisRdbf-15GpdcoA52HS0XyTn69Pc8IdgXowgjHhUaAaLyySTbkVj94EiATOtjkw2UuMkkZT4n0Jj38Dt7H9jorHPqEimKMcBLHDMAIvSAMDo6sEIure59djua2kpU8ywRF-SSRIkAvyn9m7QspXKc0x-U8V8dIdiYpBoEQYBiIOCgzZGBYxaaA7M_dfluA.%26ch%3DAQEAEAABABSjg_kMbGmQ2V8GDHSmMjrps-_x3Ta8a_o.%26v%3D3%26pg%3D457DS5H4GFGYBD55FN4RKJE3EY
+.netflix.com	TRUE	/	FALSE	1809730058	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+19%3A47%3A38+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12fab2a7-939e-4e2e-a1d7-11e235262965&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809730057	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRF9SrarP71KorKqatEAV-kdabNtQ7MCuM.%26dt%3D1778194056972
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	d014562a-10bf-4f4e-9188-418333fefe99
+.netflix.com	TRUE	/	FALSE	1785970059	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785970059	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

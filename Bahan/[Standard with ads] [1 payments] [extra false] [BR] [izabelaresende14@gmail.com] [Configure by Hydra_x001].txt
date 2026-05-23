@@ -1,0 +1,22 @@
+
+– Email: izabelaresende14@gmail.com
+– Verified: false
+– Profile: Leandro\x20Borges
+– Plan: Standard with ads
+– Next billing: 27 مايو 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0369) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785191105	OptanonAlertBoxClosed	2025-07-27T22:25:05.008Z
+.netflix.com	TRUE	/	FALSE	1785192908	nfvdid	BQFmAAEBEAic9Adji1jRdQG2STw8lo1gv0O8qzu6so1W0MSyKGVEWHXJBpZkMVimxgEQz3h4jB8-LVEI-hrKMKdxMOvco-NoeJKz-13S-LENwYiJLx6PqyoSMmLuEmPv3Mdpe21321C5ph0GvN7-swH6FvazSpZ2
+.netflix.com	TRUE	/	TRUE	1805730898	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiAymbsxa9FE8AFHUJI8A3aNe-POZHmVAAobVxurJh4cJysrK8xUISGQ59woUiGFQesKbuzzbEeecGMLD0M_5aF85vfZmao6lZTMQh1ms-CQGX7ckpTvpTylUeTpB7XCrHDI-pvTf9-crSYap410L6EdkNkHyCXLrMZuZNmaaCoonCr6KsdEW2mo0Xzr_8QcORHufKn5KUhjTHZ4auYKDCiaUzsivc_a13O0C8tj21Y3d8vsJo8srkUafEgUkUP2e59mjopWE0zklDbgt3hCCcmuwug98vtsLKj_TCtgXMF0ALex5kc7cdr7Gs765Mgbzc0qxEW1y9lZfDAE9OwFkkm6R4ny8na9eKrkcWCQKkNyQJURIMcfHNIRI0isgO7Qs7xhwgO5t0mwBbyf36utlpugYy6yiIgHZJ7zjkFX9R_GFGjThGSV2zKkq0rrVLz3Z6GNDJkyUPDJGe_BDleUETY1MK2AqdgH7tlyqcTc-qf_7mwvekdKBklHHcJeVZqksZeTnKQDjaj5ZiU4P58wrnMT24Y9GIOIBCj_xMS4pbmXukBhMYBiIOCgwPqdsKHJ6grkLkG_k.%26pg%3DHHRVJNGJKREOLP4ZIY2NIXFNVM%26ch%3DAQEAEAABABRErbyz50zWJy3zQTRDN3vPUHFM18pf7oU.
+.netflix.com	TRUE	/	FALSE	1805730901	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+12%3A55%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=41f56011-e701-4ff9-a649-1f97a9f1ca40&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1805730898	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTeAc0ZO4SL-t28bQR0Oen2nJKJaoDUvdk.%26dt%3D1774194898641
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	fd4a4648-fdb9-4f9e-9b1a-0d2a2cc1dff8
+.netflix.com	TRUE	/	FALSE	1781970900	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781970900	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781970900	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

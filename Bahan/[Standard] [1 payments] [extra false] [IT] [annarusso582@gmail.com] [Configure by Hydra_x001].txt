@@ -1,0 +1,23 @@
+
+– Email: annarusso582@gmail.com
+– Verified: false
+– Profile: Pia
+– Plan: Standard
+– Next billing: 17 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 1104) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-11-27T20:59:15.564Z
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	652a3502-830a-4877-8666-9fdc124a04be
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	99a142df-c73b-4dfb-95e3-c5d6259c75d1
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA36MjXGF2EFLB8myUhZ30F32hXdt70joA6c8uOEaLSh9ECM3sIIEYwFthHaHQ4HAvQZbYiuaqXxbJpAepRd6lszQh68_mc3ULDydJu2tzouZA60OkRenwLerXDKJpdxas13tdcHADHW4aeMX60-uBvEn-3IcuS0qEMv_EiReJTE8Rc2P9t178YNft9A2rprrcW_aar2f8jOJrvYGofPY62pj27p2jAN4v-AfJMHK6LBKWQUYFX5gmUwdRofqIavjLQStRvDV2VgO6AhIU6qUGAhTmKt4bRIi-ZsmNNQOQq2BOulil7iBOltiauXhVkK3tFpFfS8j2TaBBaB_xB74XhLQeefCxz8srwOCvqYE_pjj5UdUmjDCfl0kbLwOZHVs_lh8BNfYzHEqwt7KCzoDn2zbJYl2ODf0psC30lgo0N03a5qoIZIitOX7KJeOgVlUecvm_VtzOeEvcVQqC58MX8-lyROJEhIRX01Rj9tTEbuW7k71hkNGkMciNbFzqQyjsSuCm8hnGAYiDgoM6Q-fLCOTRAC7VOWL%26pg%3DSPZCZCXWK5D4PFC6BW4CIGR7KM%26ch%3DAQEAEAABABQ8eQmUWh9PMy439fObkHmVrodJKSMas6c.
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRb62bXFDAUkLX8yGVrBHggrsKSHJRSAoE.%26dt%3D1764969219658
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEPCjz8y9ZB1xvNDx9gM506FgjZJw_pkCZmyqf4-PxXR4NpLwCA50yDCe0ivwRQMSbpsKCAxOhgXsF2XBOmO3W0HzDueq4r0bqj-XF9-4JlVUHgwKfBEDaxB2ONBYAfnZcain1QGRg76jUW6exxR17WsJ
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+06+2025+00%3A09%3A39+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=57dd590e-08eb-46ec-a837-14fccf85239b&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B62
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

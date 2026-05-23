@@ -1,0 +1,23 @@
+
+– Email: andreaainbinder@gmail.com
+– Verified: false
+– Profile: bellinha
+– Plan: Standard
+– Next billing: 5 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8094) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804976787	OptanonAlertBoxClosed	2026-03-13T22:26:27.011Z
+.netflix.com	TRUE	/	TRUE	1808001395	dsca	true
+.netflix.com	TRUE	/	FALSE	1804977395	nfvdid	BQFmAAEBEDT8qTA6BLbQZ2BLpIQtTIxgXcjcrxy9aeV8SjkUF4z2h570k1sq0mjcGK3nK6NeBKpOyUAVz8KsiRcBV6PqYOgP_qgfxk2sKUZjNx6UPXsm3dM29PTc-A2rioFZZ9IWDkl4vJbTNSYCTn6WV28e-m24
+.netflix.com	TRUE	/	TRUE	1805652165	NetflixId	ct%3DBgjHlOvcAxLQAyem09Yko4Wx3T7j4BZfzK6KQvgeJoImUYARSRlQcAlRowDqXngrdV-5tu_Iv7wyjnz5UFgqQSTSyO9wWm8JcCB0jmhozrvY-U-eALmrcWeX9XNUuNiduGP61FXGoU4-lMiBMJcfIyFZTITc6bdND8YgBmSzw7qj7jLlTdjVskh1yddTLhmZCR-itA3qjmo7TL52qU9x1rziNNNjl8U57kiM4PqxTxt9iJkyO4BYM_rasUM7_GFbJH2E2o-W3wwZurmxLu9ds6O14UoY40LC-qGUlNd0QW_BOWnsmhURBnuxDd63PQLAZZUIIj1L4aXK2GxaL8DjtENPBgqW5jGhzhbt20XZG8TeUb5c0nxxuqWHVTsEKMOOV_UY3LOgsQVr6nlHT8psJB1xJ5Rw1Xt4rrCVRSIRw862uJMVGTlFwsKD7Qa5Mz6dCNHC-PmpUn3YD69nirvdsoSfV0sXkj60TX_0jxQyTii0dZDbvFf-4x3iGAMPwIrILxiTqrJQ3BwMysKgqdp0LRxyTHH2pxdsXY_VCEVI1eJk_7Zs-4vErdudI_6_HhQaNZJUAOURWpK4WPYL4hBS9mcN_oLei_3dIUENAosPjKh4U9tOLE3bEwXfGAYiDgoMdSZufwenPaEqdh_x%26ch%3DAQEAEAABABQo3klK9VP6a1SQA7YB9mBN8-H1ccnq-TQ.%26v%3D3%26pg%3DVFMVDGZP6FFY5MZXE23HVS6FRQ
+.netflix.com	TRUE	/	TRUE	1805652165	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQO7DpRbpQboYdHP4wNXCjMsPxIvR270k8.%26dt%3D1774116228654
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	3b928293-4847-4ea5-918e-0aab5f77f8b6
+.netflix.com	TRUE	/	FALSE	1805659415	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+17%3A03%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff52607b-0029-46c9-87bf-3ee0934376cd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773440787437&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1781899414	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781899414	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781899414	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

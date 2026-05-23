@@ -1,0 +1,20 @@
+
+– Email: canlasruss87@gmail.com
+– Verified: false
+– Profile: main
+– Plan: Premium
+– Next billing: June 22, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****62962) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781698300	gsid	7dd01f91-7d91-4254-9540-e0713117e959
+.netflix.com	TRUE	/	TRUE	1804729403	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA554RpWj5TV9eMjctrOvZxYQ-XI2ZsFZtoGY1J-AWpMjRdk8r1E-XUOd7luyvcpEP4hZ2GWJHgy76b2rHI8hRuPnmnz8XysM2RNIKHrcSo9PyIkY4ISfUmKiOMM0VoH-QggWuwXZXUPyLWjfEqtrYy7TPKl7hQco0aR3cqZTQ9tm7qylg1gWd8ja_aa681ow0wR8aTMN31kXmwUnHdiYi_yfqCc-OdQS9mcWWYv_kLc5OixXJRMKe6tY0c37X2BQz0TRHfokRXekPfNhUBHDsk0IODf76xe_wvAHQ50M5xzpHfuwaIYVCSb28Qz7sXelB1oJcK2WNT0v5ceRjBXLg-VPke_TWzxPtHLvesjFBBQXaikbXH4O4hKy1dP7Ld8cgq75WtLYurvYURgF0UtXbA9vzTHc6VwZ_OOOgKfqJGt5CtEy3IPouGqM2mDROydvboRMVYohKIjqXLn7k5rqGLApyTmgXWbrE7YejKfw3cDeddWIxfwxeAZwyvsxBWdiMnC8230YBiIOCgwzTy5hPlJt3LsFssc.%26pg%3D6J2UCN2MHVEFJLRDGNIVW3ATNY%26ch%3DAQEAEAABABTkAd01omi60ODeZIZ_8qOVfHJMEAS6DlU.
+.netflix.com	TRUE	/	FALSE	1804729404	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+09%3A43%3A24+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0edbf57c-155b-47e0-b767-e7b8e4bf47eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773193363610&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781698300	flwssn	052b1460-a8f9-474a-ae44-55bdbe0825f3
+.netflix.com	TRUE	/	FALSE	1780969404	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780969404	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1804729403	nfvdid	BQFmAAEBEGpR_hnLiOrKbEdU4atLH4tglQxzCZWNeGBM1u5DGSbOffampPvOb-RvvIcV90jdH9j3d9WSRlld4aVq67XqDRPGuBEtO_CKrnS9MZGclmphmTgyeWYs86fz3a1xphEvSfE-_HGrD4Hmbe1vgNvDC2UZ
+.netflix.com	TRUE	/	FALSE	1781698300	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

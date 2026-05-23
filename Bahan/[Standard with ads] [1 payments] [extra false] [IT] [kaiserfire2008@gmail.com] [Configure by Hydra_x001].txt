@@ -1,0 +1,22 @@
+
+– Email: kaiserfire2008@gmail.com
+– Verified: false
+– Profile: kleis
+– Plan: Standard with ads
+– Next billing: 28 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 8273) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791485835	OptanonAlertBoxClosed	2025-10-08T18:57:15.888Z
+.netflix.com	TRUE	/	FALSE	1791485853	nfvdid	BQFmAAEBENBiMy8-nLkTsLqKzcnuY5pgpinrryYFgE2jUyJYv88J8UKZM1bydVKEx0v-otVkovxvqfu-EPBW1tKcLzkZF3Nl0ZFDRI6mUTQZZ45Ix7C-WbNRE0ageFeMWuZ2k-1Jz0nuPudUdkvFBtcFsjq_IYAl
+.netflix.com	TRUE	/	TRUE	1797268039	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1794838361	NetflixId	ct%3DBgjHlOvcAxK9A1adtq86G3vLZNuGsWWRSbOvTG2n2mvU-vkgi5iZ33vU63K3lpSncQaYRDh5jRKKn_s_ai3e-6dkNTmjISdbeJ_QcApsWVgM1I0REJP4RWxZEoXwx7PweuPHNlBLuX7kPIuqosEGuZXbeJ0RrUAnyz5QmamspZUutHlx09phDtAUoy73Ma7OYLX4_hZGEW_e2KbQTOIR3QclRj1mvSkCVSsn1pm4r2Bu_nc4lHnPczZbsGzIGRJD0TZRmA3daHuLpifsAkNmmn6ILRzlJ376dN8-X3SlrPuAoGZRAV8Cd1SCVCuE5bWz4GhBahKYpG9BPC__X9rT29cQn0EwjR78C68VCFealvL8PpP-l3Dw-MejcGo-FWF5JXSIaFyh_GSspeEciA4PGZFIw6vs7JrPKYqF2LXXDGvCPtw0Ml7wZHAxp0Z_UO0bMtrow6eQjy1ulKkpS3ZFEwXKLpdRoWLa2tZoXaecrwMQBZ9FU0u4hKv1_TvXEQPsNYCMXDC7rccfK011EDdgmi8w5NrS5sP7Gx0_r1PPWKU1nMVdJjM1-euVtlJLZssK9Ybujo5IyiOeaHWIynPBou91HjAMsq0YBiIOCgyp5LRkLv7mM8FcwCA.%26ch%3DAQEAEAABABSJnpiXsFXHYAzpxh06kD_bgwSD2OzbEpk.%26v%3D3%26pg%3D3PZLIPEP7BAWFHQPTGTP64ODDE
+.netflix.com	TRUE	/	FALSE	1794838362	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+16+2025+15%3A12%3A42+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7c5916c0-2602-42b1-870d-abf14cb0f5f9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B25
+.netflix.com	TRUE	/	TRUE	1794838361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIZWQUApTaguofX4TsU3BEh8UIqEDmG3o.%26dt%3D1763302362134
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	66685de7-c49e-4d2b-b4a6-7b89861e72ff
+
+Follow: https://t.me/hydrax001

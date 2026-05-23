@@ -1,0 +1,22 @@
+
+– Email: adrianocastro@gregoriomy.com.br
+– Verified: false
+– Profile: Tela\x203
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806012384	OptanonAlertBoxClosed	2026-03-25T22:06:24.131Z
+.netflix.com	TRUE	/	FALSE	1807744469	nfvdid	BQFmAAEBEDBXVv9PLPZU3NRmykTfZGVglj9C1Z5NWDWe0BCUaEAnRejOjLeVH42dZ9MLiu2D04-whW2E7NeoKE5Uob7Ocrjn_mYd0jcAFN8d-jzMSynCBe0q81c-m9kFxGMWLjt6MKNf3tP9hGdswx6JTH7txCnx
+.netflix.com	TRUE	/	FALSE	1811432594	dsca	customer
+.netflix.com	TRUE	/	TRUE	1809625885	NetflixId	ct%3DBgjHlOvcAxKABH_OZKplf3fzXBTdQyYFCLb7d0nrcKBYJEMFwLYUIw6zzNNNubMJLbtoZMhSWVePvuXlxJq1JJKy-dQ90AYYvOc-aK00eMGe2F3wmUzcdEu5hz-raRZvF3NX1fytrWyim2QaZOTU2JzdOQHYrJydWdIkAm_mVhqB_hPHxRZY2V_gIutB-pYDcAH4YEWmC3LSZC2GtoSxPnVYqPhFjk3NEWey9MP3OnwywAQg6ZkHLb6DVxONlQ7EyMcnZhnK1wq4zXN4Q3cw3EH6vTnebV62JOwKBsM2Um5JmCDBhjJI0w83iYntBeY7msUEOXIb-_r1ndiY2GoTaAVEHSko41h_3v0LfdWl-vxWUSPZvQiNMedkN2SLlpR6P1QXDRPm6_I86FS4-YMJC3JQX3jRIRZ7M1QkBU_XqPAs_Qzcm6w2UgAAArAVYlA_srX44K0auLbPcIn-amf6Md1UGjGio8w6lL1jUac9EkB4wsk24kH_jTDYwQafQzAVmCXrz9wFq2w60KwcpHnrjyDQqBASO0Jpodj-mXVm8c5AHlKDhUm0eR5UmW_Gfu8Vea-uovUtRFyxZZCV2uAkOw6tHeRLN6Cvaf9Rt5vDop2inuwmLSejLZYl0byBciBhLem1a4XqrllN3o8U-_Z1iwVo6JdkY9pdvzXbQPG9gdsi9BCJC0-G1OKvGAYiDgoM3-KlTsVxLuhGqpWH%26ch%3DAQEAEAABABTEU9nmKemSWGs_ivBeyalqHynXh3WAwvQ.%26v%3D3%26pg%3D2HRL2IL4JZHQ5CGLIVYYJB4CUE
+.netflix.com	TRUE	/	TRUE	1781698300	gsid	1ae8415f-822a-4589-b7a8-92b7c8b946f0
+.netflix.com	TRUE	/	FALSE	1809644517	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+20%3A01%3A57+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f53e0f56-e489-44a5-8181-57204ef70daf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774476384527&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785884517	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785884517	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785884517	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781698300	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

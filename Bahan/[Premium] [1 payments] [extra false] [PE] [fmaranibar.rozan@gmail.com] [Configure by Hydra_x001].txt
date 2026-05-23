@@ -1,0 +1,16 @@
+
+– Email: fmaranibar.rozan@gmail.com
+– Verified: false
+– Profile: Pamela
+– Plan: Premium
+– Next billing: 29 de mayo de 2026
+– Extra members: false
+– Country: PE
+– Payments: 1 | CC (VISA 2215) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799287098	nfvdid	BQFmAAEBEFP9lLLBETLIXKZMLUIhIldgbYDuViJenxl_LJ42vP9K_nKjztdIlrDu4Fu_o_Ubk-Ly3FT5ehXT0_XMHO57F8jYEXMja8AyOs5lScRQpvO6wET55IfCrdbYGSOoc7eVGxMUWT2kVtyoAJq8ynzE8tXs
+.netflix.com	TRUE	/	TRUE	1808057862	NetflixId	ct%3DBgjHlOvcAxLLA0ZPx3KngA_Fam2kLCkIku7hND2LTEbNXcnaQZFWmE5Ml6MKIA9OdKUwYwpFhyaapV1qt0ZKyj0kRKQxE-JH37GfkuPmIZ5inX3PB44jWGPfjrzGTv8YedajvsA19-xESFR-8ZATHO5EiH5Uyhnz1RWnIUyoUyRCH4oUgTV-Q8H6n8kAn-uSJog-eKTv6IDceUqB2vLePzJazbrA9Ue3TptXXDBFrFWtA_zL1Vh7DDvhaPQTahpyleAEPc1n2N0fn3SvcRjqRjvwb5S0KcznRX-ienLc-q-EgZwEsPhIya6S3E2Hyt71-3DX0Oo_eEarnT500e_z-rhz9gdPVbYW-TalLjEhaLJrQd0IkoY8iLAcqOBTw5ZYKBuGTwAtUutnKmloEdC1NuihOgOomSGzvcv2OMDEQ9HnKcQYcc1cdPesHPY_QVC-4KPUfUAHnV7JlFdng_caF7tvv2gxqR1FIkxyUKLX1pZlWs1VJBRq9USmSugrJ8cJu4hvXP9kgmeTN873r0wg4_2FninQFtPQrvE9zWLjKPFcNANjeFDeu6XqY7NqkDZ92yubz2lMerRiVDrfF9rjbM3g_OKhIivVUl_9HYZGo4IdS129-BgGIg4KDMCi4fyxiWULTamA1w..%26ch%3DAQEAEAABABRtpJX2UCqJDKRRqZt2l1IHZ9xgid6om-k.%26v%3D3%26pg%3DR53ZN2A2HZBQ7DJGISKZVJXUFM
+.netflix.com	TRUE	/	FALSE	1808057863	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+09%3A17%3A43+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=087989b0-e28e-4a61-b605-846be46e95ff&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808057862	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbGMqLZipFzK4QXw4kt8VEjMEvWEcTUuQ.%26dt%3D1776521861527
+
+Follow: https://t.me/hydrax001

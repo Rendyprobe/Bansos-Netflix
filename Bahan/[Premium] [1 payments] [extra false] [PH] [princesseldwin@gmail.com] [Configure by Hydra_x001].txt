@@ -1,0 +1,21 @@
+
+– Email: princesseldwin@gmail.com
+– Verified: false
+– Profile: Eldwin
+– Plan: Premium
+– Next billing: June 10, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | CC (VISA 4180) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	50dfce5c-52c7-4268-9de3-adc748c96537
+.netflix.com	TRUE	/	FALSE	1794242568	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+09+2025+20%3A42%3A48+GMT%2B0400+(Gulf+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e04b4a5e-5e95-49a1-ad8d-5c888358f1fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794242565	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Aoc9pzKWgGfNOWnRSGQsH_YmvWtUc_EPwl-WYSRUeiofOzos8zHf0UNDEmoRpYpadOfVsNumOqL82DQLsSlpqb-MWxNz7tvgfhuxvDXNzifYTGE2WIBQrbCqXj_5A-LCTvMMdCJY0G8I-aiCTAxC_K7oa0ei4cSs3OOqYOh9U0FF1euiPXsBKxl1p2GxFIMHfKAO9_lAIVhAEfUMwKg3wk8WjXcSU39kJE_aNBE42O-C-R0lL5G6nPqGPovC0ft_SDS48Z0mqL_i0clM9gd-Iy66bpvntGbEUT9tp2m6NjuGlzT642SPo4oLOYTg908YVsnVSbTAhUfg7cF9k-5bFwdKzeeq8VRmqj4JeklYRtCUGwaOhb8pHHElcsiZfN0ZtubWUJA_XnGuHzxpGd2AzPjTnKQkO_u1S6V71WsMKwNZYTyoePTQ8wogQdB9e5qIsgrgg271jXHyw_Jb01qUeiv58ldkhzPRRkYLqFxBpbrkXWbV8yA7ekb_JelTphgGIg4KDPG-t1KniN1dJQCrfQ..%26pg%3DNFZSADXPS5BDVMIJREW5NWWUR4%26ch%3DAQEAEAABABSKf5sMrDNHWGFIYQ8W8jcovBiZKih1gWE.
+.netflix.com	TRUE	/	TRUE	1794242565	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDKK0oJZhNmguBHhLPwSozL9UM8uC275M.%26dt%3D1762706564309
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	f8919b02-dcde-470f-ac55-3b2cc63ded2d
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794242562	nfvdid	BQFmAAEBEHSG2Eq2Di9CltojmvWI-1pgH_0WHHyoTnzkFxIphhXgynnro-YWab4PVlB93GoV0Ja2aRWiaxpODYn29hh7gb7ayLUhxeUZo9a7lwvsmb4r_OBbQvBa5DqurS0xQPLSPb8fqq2FQx7lPPJPH86Ikjqm
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

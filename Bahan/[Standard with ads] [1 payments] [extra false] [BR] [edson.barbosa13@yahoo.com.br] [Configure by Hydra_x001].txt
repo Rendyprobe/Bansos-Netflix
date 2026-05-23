@@ -1,0 +1,19 @@
+
+– Email: edson.barbosa13@yahoo.com.br
+– Verified: false
+– Profile: Thiago
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804542977	dsca	customer
+.netflix.com	TRUE	/	TRUE	1806785052	NetflixId	ct%3DBgjHlOvcAxKuA0hjfkE44zbhyf11cBew2O7OhcB1llZ12DtVEb2qjFftSQ9po65kEJuOzldEPXpU37CVi-AnS1Apa2SSj-H4X7F5_iKC_f4hlClHGP0JKyx5hmv7QfipMgZHf8rU7ZrEyuk1znePaCWBLxQVO-iLCTWDSrXf9A4Z5k_gGXkQxVgzXDNCs8P9ERAQMtw7iSKbGpltZxm319X2ujzfnfauZW-r0M3pC-WOttnAxP3-bcOfuOSHwPoF94ADYaJJWT8iKm2ITg8yMCsIsyrE1zu4VeNZeC1gajfiaMF-l1PlXrqCEfNwP1FiDwj7zkG72RIW1fw2P8pQqijdDQKjuFRjiHQnueIpeNcJGBrqC_XBq44NbsaP5u0kpH2Cy7_Huw1cEHeVuvgL3Q-Z7mDxOxM2vcV5Xqh0MjX4w4CrDouXgXWgE7nb-ESQBz1tr6HLt1HKU3sIU2jq84qV0ccH_x2JpYBNbVLv5cudv40501g2CBHI4b_mLE_r_IoV5WUPPzPzi_os8LHY8tnKTnOmE31JUinK8Und1iuFmQnN2kx2xzqJaM5fwg8BpqZdqLaXJjwYBiIOCgwQDFWAzxU1u2ShP9o.%26ch%3DAQEAEAABABSR6viLG1206Wx5-zajYOQ6zMLVRWuZmuw.%26v%3D3%26pg%3DB3V4DW46VFBDRLQFHVUZBLUC6M
+.netflix.com	TRUE	/	TRUE	1806785052	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIdSb42elgLCxR1njXlfX5VroPu0NHTYw.%26dt%3D1775249052255
+.netflix.com	TRUE	/	FALSE	1806785052	nfvdid	BQFmAAEBENofr-eOcdeXU8JrVos7fndgBoO3wtu_qvdGPZCCCCm5QktTcr7AO0h1yhaq3TIZcu1XjYBC5eZ5H44Wr6adhCqSY4q2y7kG4LTtxCi8VMCkJnsTA5mEUr4tEXuBLVEiMTtI5_Vxz-yMzalYJimjqw9u
+.netflix.com	TRUE	/	FALSE	1783025052	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1806785081	OptanonAlertBoxClosed	2026-04-03T20:44:41.400Z
+.netflix.com	TRUE	/	FALSE	1806785081	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+17%3A44%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27c5a7a4-c9ab-49ea-949b-f9542e973711&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false&prevHadToken=0&crTime=1775249081931
+
+Follow: https://t.me/hydrax001

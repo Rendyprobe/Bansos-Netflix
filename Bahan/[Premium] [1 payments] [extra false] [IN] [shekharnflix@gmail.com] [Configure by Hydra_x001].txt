@@ -1,0 +1,21 @@
+
+– Email: shekharnflix@gmail.com
+– Verified: false
+– Profile: Shekhar
+– Plan: Premium
+– Next billing: 21 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | CC (VISA 9220) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802587257	nfvdid	BQFmAAEBEB2YUOWs45s_ZHaVC5-s1gJgJzkxtpx6-pbV4boBubabCPVFaI1cUH2x3aeSNGVpxu_5X-D_NBBloFafFyS7PTeqXtK-FM4IwYX6MsQS5BVxQtWPMWwOOR78IAU1OwuYtp2Byz64pvB0yHRSLevDmF2V
+.netflix.com	TRUE	/	TRUE	1805352559	NetflixId	ct%3DBgjHlOvcAxKOBMF5nJ8yS3AceMbMb_b9CwkyS9EDlIHh5ToPh1peDiFaFjxtPAy0P0tB0uXs3I_XdF-3QSH5k650RDH0WrM0ojTkrgkuq9js2ppw94GQX1cbwmoowTA6bdmZJLaZrJ31Z7KmjpLTNEvK7YJyHyFnNUldKIiM6HT1Zk5_qe1fnZXp3oWWUdNfJdv0ah10C6Lh7u8PC2fiwNEfJYC2SR7WpJT5AQXOd5uFGGniyzkZnOOZ6Oyc_msaWB7TFu9xzgQIc2IUJEC4W7sfse5PlUJ9u7ccAQ-QANHQnn2oT3_X1iHJli5E-D0hBBQSnIScONSPSse6msku2CtppwKTFXjsrxEFKyJklnISysjKWmufWR6ZC0xyaiwI9Hds8OTJFd3BkyKLJAL3OAICTFkGM6PFcP5_wYoxgkGGi6FEKzz6GzHf04BG0ssNIJWe4d9iYVq7zNqUWW61C3VRTXz9J7OSc_ZmP_S2XpJ3VIIUPAxIlgpDMdhEQ1qzAA5pvciscxgU4kqpHzDvbKyyb8mmJScRDa0v_GHhkcvg-4c-7O15u04qd613cFDShNoDHcgS7phpe6XeQdtnRHGtYFfJEjjXIivNZhPkkJ27KPQ-qDLo4Bidaa4bLIu5kLkG6e37XJ0xBioLPMdJ9x6re541f6Gze5qiyxjwx833N-ck1UWRPfA0f7PjRUL4SPRzFmEywb0YBiIOCgwBTyX-C85dcxohk9s.%26ch%3DAQEAEAABABSToRSeso432Fx2SaRqu7KJue_xQjn9MZE.%26v%3D3%26pg%3DEZ3OQV6Z3FAIHK4OXZLCSETP4Q
+.netflix.com	TRUE	/	FALSE	1805352559	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+12%3A19%3A19+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=035add0c-f49f-42f1-8b15-986256cc9456&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771051257247&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805352559	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQrKx57-kOf265PpVWyIQ5VSArk9PXek-c.%26dt%3D1773816558587
+.netflix.com	TRUE	/	TRUE	1805532429	gsid	037578ef-68f1-4a28-b45a-fd4a1d565101
+.netflix.com	TRUE	/	FALSE	1781592559	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781592559	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781592559	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1805532429	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

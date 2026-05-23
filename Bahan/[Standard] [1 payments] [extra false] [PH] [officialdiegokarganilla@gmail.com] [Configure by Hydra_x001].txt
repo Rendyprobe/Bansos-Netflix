@@ -1,0 +1,17 @@
+
+– Email: officialdiegokarganilla@gmail.com
+– Verified: false
+– Profile: Daphne
+– Plan: Standard
+– Next billing: May 28, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****56740) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1808968195	NetflixId	v%3D2%26ct%3DBQAOAAEBEM2Bhsfx2Cf5SnRy5POHcy2BwKfGtxmZzPr-gvEIEW_hu34FjTftg35bO2M8JatYbexvOTL8TNYA1ssKchKbEGTgt-hbeRZSBeE8RwICS-VJ0WeSDgmoaXvHBkV-ekA3L9S-QZW7TZRlc2brIvofBSb1OAdRQn1GCCP_EXumCBnAFTbFTfw7yuCybZXa6v-FmGDg4wUPybL6fo7RGrTNt9PNvELPtakulfxXjBUbUYwM6Xqe3_oR7h_zHP1i5YPxJe33kfxt_ZR-wIzbwfbWWczBiTcCheAPc9zsGeWzwLoS9mkStiRDRWyM-ID2IJqmyV2bMMlSTuoEbLiTN50pEqFwQPNxGASdCnxvoi8_8JLZK5YK294z9PijD8F2iPnOwbghz68mG3sqZ2wMSWT2Hqo9yEOl_KMdRf7OGEEkBXUfanJXkROCkDzOGznUnKXEWPuPOtyOVaXkE8yF_VCVicuWFNCm4gDy132kvdVPtxQGLwhZUYb8gvEBZC5XS5XnynUI6ZMIt7iv1AccSzwb7zdS9CX1AMpj5-jc-VycZHh2KWT3d8FII8e_Dv7fiy60lq8iVJrgi_-6owvgE5wiDezJwVe-Elfs6J323WV4ZCAXgbY.%26bt%3Ddbl%26ch%3DAQEAEAABABQremInpINvFxHq17O2H8kZA8YpqG06Duc.%26mac%3DAQEAEAABABT0TU9ijz6j82xYDXvRWvyb-g7xgN9mZEg.
+.netflix.com	TRUE	/	TRUE	1808968195	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS2lQVG1KDAm8FHbwNlIzN18T_PuMozUQU.%26dt%3D1723091873186
+.netflix.com	TRUE	/	FALSE	1808968195	nfvdid	BQFmAAEBEM1umMN3WD2Nec4mmTl8PNFgGBx_dqGVR3Szf8kMHMFtfnpzKs9j4VYOkUVL0Q0hU4a24NXbSYY65JPRvVh6T5nWieVkKcx5Y1sbtyEMxteppjUK8PNqOwmtEg56mHYA9pju8Bkust9B8I7UKI1WD2DX
+.netflix.com	TRUE	/	FALSE	1808968195	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+08+2024+17%3A04%3A02+GMT%2B0800+(Philippine+Standard+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4c026f9-6100-4cbb-8341-c7a9972312d9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1808968195	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: kinshukbharmer@gmail.com
+– Verified: false
+– Profile: Akshat\x20bharmer
+– Plan: Basic
+– Next billing: 4 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | CC (MASTERCARD 5124) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802512759	nfvdid	BQFmAAEBEEd8P4gle43v2azAh0HB1QBgA5B1TyUTBdSaPtf3w10KvjsHPSrm6TCZ3oIykrlmPWwFp-iRIdJAdZtSA0Lqv4YFb9SZuzjcHzM71MdX1MNkSal2JV9gCvzyh4y_iyIRQXry3MRUajfSeuNH9W9O4KK9
+.netflix.com	TRUE	/	FALSE	1803268676	OptanonAlertBoxClosed	2026-02-22T03:57:56.388Z
+.netflix.com	TRUE	/	TRUE	1810135485	NetflixId	ct%3DBgjHlOvcAxKIBIA0JXmmsTqavRFX1wbWUAgRqJ2BKq0d0bPIPtH_rQs8pJ08t4-hxGOYSmXqmAqe2LtFIFyUoCCuHSm1R-LzJkcVy3lUyCPCNEDaXGul1jHo3jkIRL9wWP2rP4n7e9aHGpKlQGjCcxuad3ANLCles6pryGw6T9tw9TNRpCv3gvSJkCRUXo3epNqUd79s6C1rg3e1QTl4jFjMTd1CCFvonyUj9rRORhtjPE-Y-2hCq4q0rnADKMHZaMTcFZkXTa2GSphjRZkXyXYWzNPTq3Q2_m4MWUo_TDioq0R8UVnelFpJTAWF9Hedy4Xe93ggvDrs6137nuFcU-mnomNWCpbyPhAitAX8yXigIPBi3QahpKCEOxFsjxhnEriOR3qCk11_8gLGtNr7KBAUPUpmbovSaiTvYGJwgU9iNYVT-V_W507Hz9AkLfupTGyxC-uc5RqelMXAllGai1d8LTRHr5D9ukDIVFHqBRaXQ4DSbOw-zl5PGdL9BK_JLZ_h-phWn8NWJYkmmUgt6onLtTvIiwSGAHbPFAc10ppVN2RyiVB_PSd0dWdLq0rgaMgALDDB4WqyyNUbmF4kTKNEe_cc_V4Hvm81aVKVn22f7Po_F2LrzzdKFLOGIi5aM4_-ut9vwNcK8IH7FIyeV8mZMcXuWT6R_MjX6xpNdSOL30n98mvsl-FG-osDYJjrGQsYBiIOCgy72pAHYW_e9PhFoRE.%26ch%3DAQEAEAABABTtxnM-CQYU5oRLq7vrLKgL3xaufBu6rjk.%26v%3D3%26pg%3DO4JMB6F3RFEIZELLARO2HOZV34
+.netflix.com	TRUE	/	FALSE	1810135485	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+20%3A54%3A45+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fc5c9f7f-ee33-43e1-8689-eb63a4952af1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1771732678098&geolocation=IN%3BHR&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810135485	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDfooJ0fy2L91VwO5uAxb-U7z8JEobKV4.%26dt%3D1778599484785
+.netflix.com	TRUE	/	FALSE	1786375485	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786375485	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

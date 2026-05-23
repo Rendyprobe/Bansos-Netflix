@@ -1,0 +1,20 @@
+
+– Email: emmanuel.duranteau@laposte.net
+– Verified: false
+– Profile: Robinou\x20le\x20gros\x20bg\x20☆
+– Plan: Standard with ads
+– Next billing: 8 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 9268) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803399478	OptanonAlertBoxClosed	2026-02-23T16:17:58.272Z
+.netflix.com	TRUE	/	FALSE	1803502289	nfvdid	BQFmAAEBEKX3tkD5Oi13BXUXQ1Bt8vlgFtutOI370cabPDLsXDcN6LSAc0RJNTvuxMWLVD45ixtn4VoS3GZNHNf3yDQ27JlUNWqS9o9obFAAsFqna_wd1GzR6hE_PJ85qo6YC7JJAeZCiCN-bn-vDemD7iwrxQCR
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	d1383648-8551-4998-93b7-873faab20560
+.netflix.com	TRUE	/	TRUE	1808595350	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvaPfC8U8HGURyxAD3hTlx-FeR9pFJcrs.%26dt%3D1777059350557
+.netflix.com	TRUE	/	TRUE	1808595350	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA0TUCMs-enib1C7ddc3F8RqOYHQOJtrDQdqi_nCNkk4EG0E4x4O1v-HFifMN8gfXhF2U1gh2cUbp7wQMIUX5OiKGU0tmcReSjBxjFcvpozrQvjrIndUf3pZeHVXh83j3kDTkPjPkONABzvicpAUT68KeL5eM1K_4OvjdKItDNtbO-69Z60gvfsRCETYHB0tWjYn-nF1-DPwyfLkv9SCGBdpzIb70gk9RVeOWZRgtk8KXcOEsPETHOH-3tSRVnI0GRG3ZFPWGSkat5OrvyfAu91t95TQEEudrFRIT_tkWK6e7a8_bZoLkdtfsS5PVF6ZtGr9SMNWCOSHGte3dz4WTPoJsPMfIsFPHfGFYVAQcUpmki_89vWqpOaWZyH0CR48mJmPAf0kxHWBGdQG6GNFsrOvZB5tndYb-rpo6vY0NtvmrjMZ9O55M6mVpQfK9_HlUAHr9LSSIqLx2ZIQQzK9G_kAV8t19PUi4FmsfP8DrRjltyRyngl1s-RBN2lbxN6c3KprM9x9_4Ufsz0ctWkvBATP5gyNQ8ZujFOGiIojH73s19C8Ze0EYBiIOCgwrCE1DNXEBYU2AvRg.%26pg%3DEQ4ITFIJRZFHBLSJZH232XEOZY%26ch%3DAQEAEAABABTKU9RL6x9gQwPhDMGUbfef54gUbSlotcM.
+.netflix.com	TRUE	/	FALSE	1784835351	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784835351	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808595354	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+21%3A35%3A54+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=e7177003-b1c3-4faf-9702-53d83aeb6d5c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BPDL&AwaitingReconsent=false&crTime=1771863479234&prevHadToken=0
+
+Follow: https://t.me/hydrax001

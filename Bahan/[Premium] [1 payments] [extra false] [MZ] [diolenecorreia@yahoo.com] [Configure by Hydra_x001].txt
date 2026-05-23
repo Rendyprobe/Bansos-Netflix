@@ -1,0 +1,18 @@
+
+– Email: diolenecorreia@yahoo.com
+– Verified: false
+– Profile: Wesley
+– Plan: Premium
+– Next billing: 16 de junho de 2026
+– Extra members: false
+– Country: MZ
+– Payments: 1 | CC (VISA 6072) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807124311	nfvdid	BQFmAAEBEKy20nCZ10xVI-hrmt0idfZgwddSb8juC-WBUMH0etLzwuNy2xm7-dxk9Mvq-hF4988Ijuyx-4zJMPAgVX5Ia8WEWymgTx34VlzqySFZ67dta7-nVAw2TgAOhYlnWbFzcZxibikK_l9FMt63v8Cfw0jG
+.netflix.com	TRUE	/	TRUE	1807468146	NetflixId	ct%3DBgjHlOvcAxLOAwgEB-7ozzqcIT4hzPYYiwUaKxyKMZdT1fRStxfkGOrvMCbKDiSZp4UJOv3wvaS63LxgnMF_dydM5QQlDYgadZay6lGuvBIrj5D5AORqU_coOcP9bAK_KPis2HugVyXwC2qwxU0tnKRzwTDuJspfxvJg77oHnMLmJBQxIA6IoGs0IRJee8PCqyv4IW_Qpi3BvedCjAO7H-qZuvRu30PbPtHvd6f8VZHUd3pz64yNFN2iM5CRGcxQQQDgi8lmT7C_E2GQMUSXnO34qnWfQ1AE0ifePOIuEUSNphs2mUzHgSZwWcYAUysK4B_7ADJBuaawg4NJqYd3aAZ3cFuNh1KXUlfoAd7gRwGyq25bt1A6NXz3jT3kLb0TONAANo9qoReRY0Rx7GmYntTaQs_v5cqXKUkHPvNS9ae_UdqPjx4i4HPlAQ0Daxfk1Fktw3s6ANAo3Wxb3P0pJ-r2z7V77QYOihDrLwzd8fW_7vvlVq7oM8dHpS2WDiAW7FmSMmdjtyqsWGi2KQpNiyilq3KT5RKlXusq6X_YRlg3cQ60NYqQG-zK3zawrbOkAgOtnMCElEQqFQxGEwx7QAHusP_gr8yPUmF0B3VA_v-VqE1ujWwqrBgGIg4KDLRkEzlX6Y88EIvFxA..%26ch%3DAQEAEAABABT8B8jsSgbX_FZq8XB84p_gN1Vahn3Zbkc.%26v%3D3%26pg%3DSOOHC2QBDVH5BLPCIKO55KSMJ4
+.netflix.com	TRUE	/	TRUE	1807468146	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhNVTR5HBiDZ1qQZAHKz2Hwdg4idxmooo.%26dt%3D1775937861237
+.netflix.com	TRUE	/	FALSE	1807482570	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+00%3A29%3A30+GMT%2B0200+(Hora+da+%C3%81frica+Central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ecca8929-ff39-4afd-b950-b98747ab8945&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775587877953&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783722567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783722567	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

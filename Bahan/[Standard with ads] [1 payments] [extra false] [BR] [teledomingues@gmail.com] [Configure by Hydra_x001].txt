@@ -1,0 +1,19 @@
+
+– Email: teledomingues@gmail.com
+– Verified: false
+– Profile: metheus
+– Plan: Standard with ads
+– Next billing: 27 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 0055) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1783112463	nfvdid	BQFmAAEBECmSmhvgtk5r7nglYVZYZpdg0aSyUO56reVoHn1spBBf-pb2VFgECk4L8jWwBkvqS7uVjupa7qp1GAc0xSXtn-B9DBdgnSkIaPf0FIoF8gQTnNzG3FAAX6KAwd3xD7ER9jBb5OH8sXqoIt5_Y9CwVnr0
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	a4ce90bc-8cef-467d-ae24-c6bb477203cb
+.netflix.com	TRUE	/	TRUE	1792163152	NetflixId	ct%3DBgjHlOvcAxKFBBfNoUtgJCnUeBtXE8VTYuofHn5s7kMVEPBjAhfUrKIxhkl-yW_6AuQAmWyqMgeoSjzKxWkcgR64uDQ2sws4DIm-kcn9YdKpvjrMsmOiQmKQOtETEhhy1pmDk4cworJhf8heKN6g14C7E56Lww-dvDCJBFaMwY8Xq3tbt2DZz3pkSBaGSS3tyyLtFDigrw1uwOpQCrJVD_NMpLQ1hxL3fdU8ZhD55sWqBXZhCLF3-DQ9C9FwXyynx1CDMDAm7dQBaY-J4lj6hplgehEboMyqmKKKqvMtfrvqgbWUSRR33AQtSqGyQ49JtopIdy2b5uBs05b2dbwfUUltkWuBvFsNPF8IW8Q2NxlJKqkHjxrDcI0Rx1jtRJmAYOOCxrfKCr86lDxfTkz2Hlye3OVUHY7-0-QN6EBkS2zTSmhztgJVrempSTzh5ySUQKGgIUI7mDkTMrimL2gQYYTtDUI1wbmZa_F4KgaHGNmw_iA5SaxnEan-EpmB4oIQ311ewz0PUbrT6ZElWR723JzBdnozSET7tH4N1mHDkLczHXUG2SJddKbBR_G872yUP0-Sxm7-q-TnmZBhzuwh-IE_sOSxoePXTqSirum30NI0Ek4joKcsSEq3qeQnsUjEVlVXGLtPipZNgEv53UYR6FTajYNh6mw5oGqRjzsCXpnuS5BpwvoSieqk3UFcWIwYBiIOCgwM8D3suq81K1x2G4A.%26ch%3DAQEAEAABABRL9gFnQYLrRTnpypXIGSx07LHj8O-4vt8.%26v%3D3%26pg%3DDKPCHIXAWRHYLMXKN7ETJ26JDA
+.netflix.com	TRUE	/	FALSE	1784387152	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784387152	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784387152	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

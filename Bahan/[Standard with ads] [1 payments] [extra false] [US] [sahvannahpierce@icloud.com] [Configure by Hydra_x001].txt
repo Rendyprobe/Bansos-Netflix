@@ -1,0 +1,18 @@
+
+– Verified: false
+– Profile: Michael
+– Plan: Standard with ads
+– Next billing: June 11, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 8219) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	ad7097ed-b145-4771-b3d0-6c1426c39113
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AgMI2nV5KsopUvwJVp4Q2GUUAyXHazbrmvvNrboVGNm5KE_jNUfZOeQ0QKIKjjV5Htj_Nu9c3MphN_gN_lnjxo5Q-JiDesIV_qLdWSwOrAoS3XzSONIauEaSTDm6sT19JSId1H-GB7VZhZ_bDPc6Kr3hZozoaE8SnGwHcP_rIjYDtIZu4SpxawWrVRfwzaswzVL_SH8OXZ6SzSwLzQn2TcWNbSXtTZtwOUkYEjkYjHfZKrIMyk9Lg9hXWVDKtSZeXetpaiVVWNFN2Vw1AuXbziEABbhp70L4sW6fRPOt5b2XHVucNqEboZRFSK9tSILQ8StdzxFJAjEnVj4Jq7JDEb16zH5qBWIklAmjvnVmg5Y99-ih5Hq-swp2JBNCw6wnbGbsjuzPRB8Z-0BBc9e9K21myuxaX_DALB9_jP32Nf63guNIGX3h5wD8Wyy2P94nT9lE_sLbWkrGv1OgJcX8wkxisp4oY--nZDgv-QUMPVRN-1V3FeCbtDgHGAYiDgoMYn8C5g4jWkubtcsY%26pg%3DA7NXK6THPRHMZOS2X3C272PFPQ%26ch%3DAQEAEAABABRyttRYCmozWbg6DwzF8bpi-AS6bWxz9S4.
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIvF0X9EYYODvWL1Bufu3mCO_A2cgEuuM.%26dt%3D1773876032476
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEG9QX3oZZXKnoWAxvYyo_ypgmGh3dn9NZ7naaDTtyRRFuBN4PDGIUxiFa0DIXI3QC9z-x-vhJ3LmFokRVfHwjE5fC4weO738Ja5TEC9J39fHCQ3RxLSb4zrVEBIcOok9REAqfmgEOOZr8CCPZkmLGq8-
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

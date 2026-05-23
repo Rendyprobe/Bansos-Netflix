@@ -1,0 +1,22 @@
+
+– Email: annagualda78@gmail.com
+– Verified: false
+– Profile: xdxdxd
+– Plan: Standard
+– Next billing: 12 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (MASTERCARD 7037) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-01-24T12:22:41.672Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEMUnZeK1Y7IRH4Qi3uf2qM5gUEXJeZ9pfF8WSmG-itHvBXtQbtalMyDWyCG3cFbROuhAspQG80DIkQX9lrx-benD7i7xyizQYemvhWytEupP3Wvz-XiFfVRy0gOYonavRSaVibYKFmDHiNNljjM2Gcok
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+15%3A28%3A46+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4a3c56c7-dcf4-4138-8dd1-3443ff4eff77&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1769257362076&geolocation=ES%3BCT&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	d411c258-e386-420f-a58a-a877c6dcce88
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxKEBHLSU8RNps54eLzrjwxe-axyU0KBnrgYHvBVcj9Nc3m9L1NrD1pHwBzZsXi13LJkeRNEXWedzxIt6BwQvKXZoBqltOr2PSDE8qJcuMk1n9H_ovj_c52JHSb_HCJPRyaG6WaLgMIdBDW2GmnI98uwZ0bGMyl9giZSAlxfC874vO_y-kaMMpAsICwKQTdThq6p8MKLb7rnotJf_qZYZIZC6vzv5AHcqZelyRcbyqDruTA_ltCkObhbuM_1g8RPek51kiQ-G9sGL_KkiKZDHHr1xzlI4HDkH8YnE8AT0crMXqs7f9pfNBFQAyzFeAMvgPiDL_MiHEKBuCSmRgw1mdJL-EtaqZ07ySXYSS3YasZh0FhRhevV_BmGbriD2zriHlD01iNIxjgCYaXw9EEYuLfdfapZcQgJbEDr2WpCAX5Ce1DOuXtoeJUPwueFdJnawtZ2IXNg784b2bffp-BpJBIhrbhzbAT7y9p8lTOVlZqK98j4drhQeDcqWyNRpb1z_m9ZK1l0RRoK_fY0VVvaiTHa3l6pR5aN4uFgD9NJP35HJAErV_NHO6zMR7V4DhnBYr-dFqxf2EemEqtMsWQe65NaHy3zB6EAhWAmUwwAAFe4MK4vWC3ZsqcHCoGYKjVCWfIMGJgTQXSjU9AZXg9-rX1w6GMdQlmJayvq1eUDeRc5W-dZUtZ6qhgGIg4KDI1fsKHGlvssT9Yadg..%26ch%3DAQEAEAABABQf-x6UxrDfqPxfR5cHmTepCfDbZxAJknM.%26v%3D3%26pg%3DFYJMIRVBTNERJGURPY3YZP5CYI
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShBk5utLhRjXqZ1wSVCa3saFMBb7JZK94.%26dt%3D1777082407791
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	8e010dea-3885-45b8-a5b6-8be230348d9a
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

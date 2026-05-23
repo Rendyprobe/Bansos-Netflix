@@ -1,0 +1,24 @@
+
+– Email: saraquaranta9803@gmail.com
+– Verified: false
+– Profile: sara
+– Plan: Standard with ads
+– Next billing: 22 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 0130) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBENOZfTINbEJvN1w6fnLtLFZgUUxcnZhUt_OqzFMsCy3hrnroPxnFrjsEHsBUGdllTngf0hrRm4ZDS0whuo7gsyEQdEe7atnV28HMaXc6YO0fT49EWfGEeWQ_wvSCOJy70Uc0T7FVJABF0gs_pHSICN9b
+.netflix.com	TRUE	/title	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/watch	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-03-14T18:50:27.177Z
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isIABGlobal=false&datestamp=Fri+Mar+27+2026+15%3A45%3A23+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202602.1.0&consentId=5119532c-0467-4288-94aa-db72e40cae3a&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=IT%3B&isAnonUser=1&intType=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxL1Awe4VBuc7BZU4Fk47w44oCQgMbkgxQ0S7Aa5xoE7aGO6URsrfIt_XJMVhbxfCRkRHU5rUfIxKhOsN8yNstFazd6BMyE3HXr6fTO4W9gGYYDVVlulG2yeNTDYnYqwUUWLOUnUaKcadG8RCfEs7wwF1Vyyv3h4w8_OeDhN-8cd2ttIvDGAMucdMgrbh392cKwVfRYYzCJpIzzgFEBqtdfzQ9GkIRMULKcqqBImKqSCkNtqIt1QyxSKErpuUX_m33s9eIHbPDcShDoZtiW1CChPYq-yQgHz_9aWpIwR0_Nxjn_4lSgRZlRJ1hgod5MkmP5F3gE0lXfKMEo4nOqHTw7oCPXOC4bMg_GYLaaJnjGdwWSR4LLAGVNXChBcDOtDbE46EbWJyrV-JKh0R-60NCt4m0H8jMQJkoGrZsUamkybBBOFk27nKtsW6RbivkbQFUc9RDyhSt7w4wLefsfK1EaIFtHXNRi81uIcqg2tI-R0Za8PmaZdhNceVN6wwwg-OTxoAD2eE269Hyt3qVs7bJtLmsoZtU3mvpPBB9MwOz1smrH27CDd0Obheyv0i4s2YOo6onRjvM6IJUiEzp5oCQeji-Yp1iPdEqOOaioQ2kyTdQ4aOPOr2vP2OSjq8thvFrnNwDt4Yu7A9V9m1BqC-1atYmR1GRKMhRgGIg4KDFA9k93uY7KRIytb4Q..%26ch%3DAQEAEAABABS23Eu36kJRxYl0pULouZuRPf_bsNsr4R0.%26v%3D3%26pg%3DYYQ7XRODORFVHEE5LJF3HTVEXY
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQE_xb6jUM3TLcOnNiVoSNZIGhvP0PW5-k.%26dt%3D1777657355624
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	577e0793-9a17-4f83-a699-7d7064c9f511
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

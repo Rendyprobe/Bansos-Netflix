@@ -1,0 +1,18 @@
+
+– Email: latangelacanty@yahoo.com
+– Verified: false
+– Profile: Tan
+– Plan: Standard with ads
+– Next billing: June 9, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 4822) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794011169	nfvdid	BQFmAAEBEO0s-vmSWtAPV8OO0ZsFNVpgBBmngvnzisM7shKBHsyjD4VOMh7qEPYBdVBbdejkEGtrePI6Dv5KoVrXYFc5kfEFa09jZ0EUCqPZ3JZnp7kj_2Yf3GHcvbIEIWKsycHas66ccyo2JhCdKmXFOhsON6KR
+.netflix.com	TRUE	/	FALSE	1786235626	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786235626	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786235626	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1794257895	NetflixId	ct%3DBgjHlOvcAxK2A8lUjk1nzSe-XuOAOI1CZOF-5Fsm49K5-_XMmYNSJsi3joGZdGacw-D1HO-aMM2t6FpuSZKfASTGWoHSjW2ymjPLivwx7K3cySz8Pe2k26PbcwpeP-B0qgRtUzfz4yYfWJg27iVV1gzv05nmkU622NkvdqzozIB8B5VoQRSm_WJLLqI7S1lc2ewVO5XMyQlBXLn27NSTV4vR_rKdVj8CZwMoWHZHOeNXURqrDNa6KbQ1bD4b6JPhfsLNlaYKk2HCYkvQINup-eKabAdGP1BFL_-NVyBwLfGYR8S0D6DcTXymkRLjr5ofR_OK5VBeVwSQ8-0XjUO5LAkLViFewOmsagqbGlW7vv9pXx0AC1I1Zl6GyLO9X71HwJ5t2Xc-UwpFx5dIKfUy_J9_n2sayzzmjsQdyNS7Iur85q8RyK5HyabCgb2pR_3C1Z21y2Vn4MFMsQVQCgPN1MdvQUT50MI7xtIbKK-FTZV_I_CFXwPpoBTMBYgK_Ka4qTkB58dvFDiv_r_y01E7ALXWuDp0fExIwoTdi2zb2i8Z9EaApJ6Ztly7sJc0ZsK8RdYFfJmITKoII3xVDEvLFhgGIg4KDEhrDNdVP2eDbLmmlg..%26ch%3DAQEAEAABABSKEgUAafyNsw_075vkdHLDxPMzawr9DWk.%26v%3D3%26pg%3DSJ66Z6BQRNAXTA7XSOLDETTHAU
+.netflix.com	TRUE	/	TRUE	1794257895	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKPQX5JhsYnfaFYoNK5l9roLs3pGt29b8.%26dt%3D1778705895851
+
+Follow: https://t.me/hydrax001

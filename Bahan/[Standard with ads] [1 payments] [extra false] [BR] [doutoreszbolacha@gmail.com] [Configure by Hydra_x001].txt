@@ -1,0 +1,20 @@
+
+– Email: doutoreszbolacha@gmail.com
+– Verified: false
+– Profile: Isa\x20\x21\x20🌷
+– Plan: Standard with ads
+– Next billing: 14 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0296) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785971408	OptanonAlertBoxClosed	2025-08-05T23:10:08.918Z
+.netflix.com	TRUE	/	FALSE	1798684419	nfvdid	BQFmAAEBEAepsn48IJynb6h-jD4kavdg7onmQA_6Z5IYhdw17OKqcAom4PH6EmywC6_RPv41QF82meAA0vKScetMELlAFqEY3v_EFZxjgBpWiq2yzXQTO94LijUyczEeGtYFYSDxl7brYxnUWa7cT7UZA59rCeS1
+.netflix.com	TRUE	/	FALSE	1803786046	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+00%3A40%3A46+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=0913fa3c-92f7-43fa-b266-81cc91dfdb1b&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=BR%3BSC&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	FALSE	1780026045	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780026045	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1803867896	NetflixId	ct%3DBgjHlOvcAxLrAy0_jdEFvJVRwl0pNTlrlyNfU0zM3BE2f1hKjiAraxrr303CyL6A_PDc95Rbvb1CG0lrzNA-X597S3LjfAJTC0eFiz7LZ7RWHmHvzvpBwcRv7exR_WJYRNthe-s7zULcyTv1gciIddlKDjI8kPDi_E-Ur1xf-ivVe89go1EckVols96uihQP0NWpUd0OrV0iTaEi-dAfs93od6VwXKV4E-N71vUEVIxbsBuUl3K5YwT-6npM3KANaQXWnWcSAcHRTlJ2p4nB-rwqi4VcQ2fR_0tZHCt2hCKbhFhBebxRbjv2sWUTvN-9r2P4DBigYteCd_B8ohlgKdTi7ErcHCzEA88D1FhPDG0uyd7hER6_ZOYsOHjb-LAAXlPnOOiQFn9Y_ldXRkDczV2jlVR2yVbqnYFLb8yRmyjaZCf-_yCgo7vOndE2_TWl3GnyE-Qot9PEmNAfG4ZzHw7h5bibKItuRpg-mecvLNMRLy0uzsA7uqxG79w6cTMoNx5aBBnhSzbNKgfnfcofKI9XS7S2dw4HVuLiUaTPpsAjLuht5-fb-x7lMNxEuo4Em8HTlyhZ9hnjkon3rgLcwjEOIh6t5sFB-DJcIHDIMUrBCfaZxRBo-rHuQt5V51AM8uMjAvLn23Qsd_Cp-QZq12ZpK5GaGAYiDgoMF_844DiXqRjCwyze%26ch%3DAQEAEAABABSgO8I1lv7NX5U30LztrA_XlfZdfUmOws0.%26v%3D3%26pg%3DGZUGP6J325GN3OIGIVICNBYBSQ
+.netflix.com	TRUE	/	TRUE	1803867896	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfbC-Wa1VMSx8qLI30BJsooJVbXiGzvJI.%26dt%3D1772331895301
+.netflix.com	TRUE	/	FALSE	1781445294	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: gracianeester969@gmail.com
+– Verified: false
+– Profile: Brayhan
+– Plan: Standard
+– Next billing: 1 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 5092) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	52cd0e25-4a0a-440a-8537-fc50bf4e06cd
+.netflix.com	TRUE	/	FALSE	1806705136	OptanonAlertBoxClosed	2026-04-02T22:32:16.985Z
+.netflix.com	TRUE	/	FALSE	1806705232	nfvdid	BQFmAAEBEGPsslJTv6msrMr6W8beVwJg4ymQQ4U_CT4LXIF-kRK-K2zUPj7pbp1gT5Zpa7Tz_c7MYz_ErUEeBvaydim1LGGWJ42vVzQLpHFuT_A4v_d5sebdzSNrMxyO4VSKyh6di0zHDJmb0R-eTxX4vz0735yz
+.netflix.com	TRUE	/	TRUE	1806705235	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA7LINpMrpFFcKRFGAonE2NUe1eRBI2E3oGTzEHDvutNp6tErk29n9A5VbvV2VHVR0AMCJk9y0z4_bdXrqGPXdzQli6K9Q_jmKOBmPqf4M8E4ukRA5geqNvjkSrs1O7kFPFYNGViZTq4LE4DhfAGBoharVoKJEdQudBCMHoYPIRPJurgO4Qr1vSZD4WIQxLnQLZ7JQt24FgKLw3klyr_ItGbuCs9qQKtx98ZiQ_ZyfDHN0Ruyel8o7zmVs-tQ3p_dNtDWHBDsq0zjyYtfCPpci7tSgnC0WJTwLJ_4pCarrtm4366GP9u8xJlSN_ZjEiDOXGcK-Ei6LECdR2PLjopOI5VvkWqiAJpK_kYhXQl-MEaDnPLXz6FkJGDYVxyhSibRf23eY56FbdMlrEV-RfOUyIDybSDDMTJ9azTQCf_C82a5wra5Ehmaglbt9kR2Kq3-v8TlJzz5RvprDtjtaJCPgW7QID0fAmUbYvHvJVF-WaDgQvJ5ZvWJktJsME2dMEtl4K1vdBBe8MJLGwJqmqMkjW20uTRaEAv00ZcYBiIOCgwIiFFJezkGulxV6-0.%26pg%3DHLMKLW4YBVBQ3OMWOSNA5WVXN4%26ch%3DAQEAEAABABRdZYqyjlPg8sTs2sCgamxr2w0dbcREvE4.
+.netflix.com	TRUE	/	FALSE	1806716633	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+22%3A43%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db489413-57e5-4200-b5a2-75780a2fddbb&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775169137480&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782956632	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782956632	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

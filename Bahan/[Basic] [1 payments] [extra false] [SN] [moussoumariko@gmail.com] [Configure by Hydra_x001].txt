@@ -1,0 +1,18 @@
+
+– Email: moussoumariko@gmail.com
+– Verified: false
+– Profile: fatoumata
+– Plan: Basic
+– Next billing: 21 juin 2026
+– Extra members: false
+– Country: SN
+– Payments: 1 | CC (MASTERCARD 2826) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798850362	nfvdid	BQFmAAEBEI6i7y21zAADKn175gfnbE1g51cLd7RGn4sh7_W7KYEck2Y6EAYrYESKja24-DPD5A-F9gxPm00266vT9tkfo0DjZ3plGQVccYjR9GG4MkFnRK-0CwgIU_5mkL-kp19QSrd8TwAvpOMSEhgbTH4TJWKk
+.netflix.com	TRUE	/	TRUE	1800095025	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4ApQAQ5Vk-8hygDGPfzVQ-canSFGutxV0p_LFVrHMgy9M0dYslykFeXn_0X8cyERHM2OBCnk6svGsojpDxzIIFlF5OVSg7JQ2sVZVaBcaveoRvSWjAKLa1b24gb4E3FldED9sr-0NWlnhyu3ildSq4lU3y4h8rcw2dluUlZyAehsEngQZqds0aAuPmPv_jY5Z1Jbp5E7pBoRAeUJt5kU8iLj1gd-TTMm7SLX9nkrgkdvVs_rjrmh-IbBobvBdEpRN4KemmO84y2sHbpOJ5J9HX3_iJ5YVl_i5Ig1a4OM9I_iy-we568pGVUdfJMIdJbRITE6MWLEizUvrswtZPQ8rqEnQgI2WA2yjcZNZXs2akSi38KnYpB4-yWqh1DWIGWOK_ygz0uqo8Uow8Wpm-YkT4VwBwJpFz9k8WFOQg_vXSdlLGOeVDi27epUWR3KhOHXTUFp9_IbmeKrn7Zgn8cCdlfBOBHD3bTgB0UBEl_tnd9CkwmZWNeoWZo8YBiIOCgwzbvgIzfJa3iBX8wQ.%26pg%3DZOHWVW5A7RCMRPVMETZGII7O4Q%26ch%3DAQEAEAABABSPYG7NH--CDzkgE-LsUACzKeWwXzjZBB4.
+.netflix.com	TRUE	/	FALSE	1800095027	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+16+2026+10%3A23%3A47+GMT%2B0000+(temps+universel+coordonn%C3%A9)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=650d7133-4aff-4054-84dc-849282abf845&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800095025	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9aaXswwKGwHAO8NaDRZKrH9b38457HDI.%26dt%3D1768559193516
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

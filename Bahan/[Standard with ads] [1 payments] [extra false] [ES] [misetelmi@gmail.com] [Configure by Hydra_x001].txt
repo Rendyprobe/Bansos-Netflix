@@ -1,0 +1,21 @@
+
+– Email: misetelmi@gmail.com
+– Verified: false
+– Profile: pauleta
+– Plan: Standard with ads
+– Next billing: 27 de mayo de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (MASTERCARD 0694) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEBGm_XAN0Yo3_ZZOb9RNTiNgk8lpjL_CYCvsCxxp5PURDMoOUN7gzM_tW_CD-lrnaSkQhHavQxIibyDa4Y7sAHRhLvtewTbtX6NpFwnxhpByaiNBYU9c3MD0FsOyeMNJTEPuwqVXqv_8-SeZF_EH7MSN
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLLA7eFiXKvIqOJLQCHI1zhGk8dfcqccWI0HCloKGrui67oZZMQGgwtBUwz2LPOnKrtIOQU7iOyjW_ErX5h8hpXSsDctK0i2vKQ0gR8Jj8Oj2bCBIrBht4ytvNuQhNPBBMJRRxMvSRYjUQd0efZ72xqg5uZpWq05v3WFJm-a6KZLF0Ui6sS-et4mbXo9vslcDWkqPGrYQVMc3EMo54qN7wQkzS3EiPJBVo8NMdr8tCPbe5S2p1hXCRVWgYTT6L2eI8yVFE490wV61EsyMsjPvOqOewcExdl7WrjtUeffniVAwe8O2CW_J2dipcTgyLtNeNpBRVukpe_VXw2K62-KBFGlym4vp35nkYZhb3YTzSzGL3HS9skv4qO6llyr3ltOTdzYcRly3GYvdPLKvOw4BuUDldFzA0XUSWKz9smBQ6o3q83VR8BdNijsJnhK4EGNwvXczUZS1_h6rUXxzSV1buPK-XBdSGGSlgzXffdGoblc31ztTwDFMpCjMJy99-BVlTITqYbMLDOdjbjlkfmdWoq-xbbEwB87vjE-ncqVhnUlt99JsAPfTw62z6eMYEBQzQNM3oaWMiEFAKKfnto8SDS8eDkgHh_rLciWFAmchgGIg4KDE_FepOT3-GV6DWViA..%26ch%3DAQEAEAABABSLwpTeDjvr7HInDXP7mDBZUO0rs_xRnDw.%26v%3D3%26pg%3DVWQ36QU6ORFT5EKIG3JPN4DDTQ
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-04-15T14:56:47.436Z
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+16%3A57%3A01+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=71bb30e3-133e-483b-8fcf-f79e5900764f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776265007819&geolocation=ES%3BPM&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9-AdP3rRO8Rg3WfDrlVQA_qUMejFIbuA.%26dt%3D1776265010757
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	643d2c69-d26e-47a9-bd37-a1c2dd0a03d2
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	2f23da08-2bc8-48a5-ad7f-d61cb40a22bd
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

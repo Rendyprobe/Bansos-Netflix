@@ -1,0 +1,22 @@
+
+– Email: mateusnepai76@gmail.com
+– Verified: false
+– Profile: Adriano
+– Plan: Standard
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9114) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807627837	nfvdid	BQFmAAEBEI688CbH_JFejSZ_NsxR5vdgkjqVjG3TgZbyfYY8OcSyI41NlvHJuSlXFZxLLDfiZe1Jnbbk2WScmZPS0nUDOAQTWINm5pCOF4_zwOJ8QIvaVSOvgODGdyyJGJqtkCYjXPmGFDqUrfiMmH4W0XpK6Fei
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	deb28364-b2ef-42b6-9bce-5df3a5975700
+.netflix.com	TRUE	/	TRUE	1809253194	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA5M09oT15aNJY0FP_INKQ2NTjEVug8hTOb7dOcJViMp7nWFq7a9RDVHH3Z2uEQ_-crCXVr1bRogTSoLli62OXX_g6PFskRf3uhv0pTcwE1pOoYX34ld9-dB99K7xqIfWczF2AiDx8uHQKljrVOuvfnmSvJOE8SH-kQFblc3Vf5zfvqycc7pY1Xl1pLigkVOYk20-tzxXqzaug3PDfEqD3K1S3GVmwg6Uw5tdHBVGNHAgvw_bm-sFyNkWDjgPVdmxifYmk9S0cJpEdI2ywIkHo-7oatNT76JgreyEPJRAILTTIyByVB3uZt8IHEpS17Qh_JGCxZK5Hc9YDu7U45DErCnqrNd8w-Kc4xhcR4VCvYvanxQzFectI5-ftDCA6CGzyq3-wke3y_AQEVyS3N64E6Y4JXH3nq6Mu9-ZzTTqW6PYqMzrOQzbwPf63CC3_KAWEUz4AzPuN8x6luXhFUGtxu_ERuma4_OJIZDp8o6hqP-JUIy07fLfhOj9qu0IwKcuh5yzxzaKmK43TNK0Hl9GywTh_AYR2xgGIg4KDIAVu6LwtZsDJ0r-rw..%26pg%3DJMANVUQTCBF2DBBSK4FG7D4AGU%26ch%3DAQEAEAABABRzKrmNWFfMslDrK3VmXxvHaBDpKmU9SXY.
+.netflix.com	TRUE	/	FALSE	1809253194	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+07%3A19%3A54+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d5e82bdb-1492-4dda-be69-c8a370c822c9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776091819841&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809253194	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRCKs0ObxOAxBBwKZxQVWdbElJHug1OZhE.%26dt%3D1777717193628
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	f9987031-3f83-4ae9-8946-57d3593e3479
+.netflix.com	TRUE	/	FALSE	1785493194	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785493194	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785493194	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

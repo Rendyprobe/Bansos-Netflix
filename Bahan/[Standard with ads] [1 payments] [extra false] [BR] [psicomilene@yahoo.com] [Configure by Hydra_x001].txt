@@ -1,0 +1,20 @@
+
+– Email: psicomilene@yahoo.com
+– Verified: false
+– Profile: Junior
+– Plan: Standard with ads
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 2441) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805588685	OptanonAlertBoxClosed	2026-03-21T00:24:45.757Z
+.netflix.com	TRUE	/	FALSE	1805588844	nfvdid	BQFmAAEBELbP9MraCJhDXb3RO0gVhTVgABWL5NxU0nL2kUWmZpaCxflNP0y9JWD2q_zl1ZpQ9pF9GKv5ZsRsuviAyiYy4R8GQs_YfUaPmVmM5T3xCQ4oPDAaOLybbxbXi1E8H-6jrcKoRqcb5PmWmzeduTZNjEAb
+.netflix.com	TRUE	/	TRUE	1805743819	NetflixId	ct%3DBgjHlOvcAxLOAzzcY6H2S4zDqnSuejhKeKvtRPXiy4jwTrdCde8PrE6eZEMW4GWEbVG8pL1azEjNAV0AbpfvV7O9ecXpAzIeL088Gn91s95QR0gRDuZlH4rN3vLSJ41TZV69Y3tZcG5ijl5JjTKIxGlKOluK7BW6kELRc36m7M1MywMtt22L4uQvDzHUilEuZGbsS0t97N-MvaTwBVddHALbxMNdH3ChoebKkdRPBNXfVwl9E5XWCe_03UvKeSqnxxG5sp7EvLPNMyZrBf9KWHbGgMJtOeTrNvJLMbLCXzRSP9OJzf9okaWrPtD-tWt-wg0Mlgg0AhJMiSBi4c3PoIM-u0cMrs1S5T5qz5z8Tv4bnsR67q8E-1ZdZX8ur27x66zpK_LcukIZYYCW0yUnOxqEp7XNQw21kQrVNOHTv9Lwbd-oVdlHpeyQVg5kj7X0jZLEbSRC70GMliSB8-8WucFAXg7CgAp3zZIsSPcCUWDjx_ac_NJ2iAvC1ZCuePu6jlGSHGmhhCuhYRnO5T-gacoIbbxRJkPd9Q886V1gq9-aRt6FVsBjrTR_2Z90QO0fuiQgljRqJDRCwh4bXnBLCzFVTXeYvzUZsrwW-mmd4qstw05yl8dVOxgGIg4KDJZWyYdsZ-oprJ7Mrg..%26ch%3DAQEAEAABABR0whOdbdfv0N62k3msFuHyRQXT6sBckH4.%26v%3D3%26pg%3DMW6MQJAS6RHORFIXZUV2TZ2K6U
+.netflix.com	TRUE	/	FALSE	1805743821	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+16%3A30%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d369f0ad-6b45-4e23-9f67-bc1911c97034&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1774052686413&geolocation=BR%3BRS
+.netflix.com	TRUE	/	TRUE	1805743819	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZyMMpBXkFd2crJoWckSqUyj4bvmK_42M.%26dt%3D1774207819977
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	05dbd96d-36f4-4245-a563-c88aa600d533
+.netflix.com	TRUE	/	FALSE	1781983821	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781983821	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,22 @@
+
+– Email: uzmashaheen@live.com
+– Verified: false
+– Profile: Zain
+– Plan: Premium
+– Next billing: June 7, 2026
+– Extra members: false
+– Country: CA
+– Payments: 1 | CC (MASTERCARD 0428) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-05-02T06:15:00.921Z
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	4b4e38f3-037a-4df0-9936-5d7ae20d2652
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AvyewelQThyGjBFMHueiDCXQDloNi8SaQGnptejUqRBxVHoFqae-U4eX1MVcqaLZUd9IH9M9Dh3Qz_xoxDt9whFjzl9_892TCeAs7YT7MbuEYkEU-UxvCDSDutN3bafZMxODPeQirjPD7JVVQiGjCQ9COkuplhMMC-JLYhDcRk6Xd4hGkgBBfxbkKRrifKoArRQHxb8ggkT8jiyRZrYaztmpxO6SbIc7IAVvBo_YCqsN3gECiWKRGXn79A8EGsLi1H1-DMVi7NpTLcr5fK2PTyeOIUM1cEIZLiRPbvdvsognKESTK3SshpGjA-AYUBUrrPojbTujODujmsW-bpLSq5E-wkyZ1o-IyTgV0Vixn6AG9nSN-nHx7KPfjhIfcvXngTBU3YJ_9AgQrqbYe-y05GWek0vl6tZx7s_ljxF1tjCg3ku1vzrVf8JB3IrivKtyBNz7gr1hjRnUalAoRsOZPOKtDgyiOk0PrJjEDCi4DsYk9cDNFxgGIg4KDIJs4rzzwwHX1o9Zhw..%26ch%3DAQEAEAABABSMzyK88JDBOowz2T8T1iOhMJpAaoS6I-A.
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsAABMXtvlRFpoI57v75mwBd5PA-H636I.%26dt%3D1746166518288
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	8ba65b62-9931-4341-89d5-071a9be3275d
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEI-3PFS06iAgZf7t7HRdrTpgyzbedRWz0Rw7m5uZ6pa29cMYXP-fWbo6Tv2wDwispMiFvRfDY0OIDtBWEdPRVdXU4CGg5bF2aP6GSjQ-9Y8cnzlR2dKdvlVzcL2OhTJzklmr7IsyGaiRui-p2YrOW524
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+02+2025+00%3A15%3A19+GMT-0600+(Mountain+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3d48efe-7411-4c1e-be90-b424d1ae68ee&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BAB
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

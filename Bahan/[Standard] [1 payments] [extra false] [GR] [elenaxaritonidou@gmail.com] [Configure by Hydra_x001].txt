@@ -1,0 +1,19 @@
+
+– Email: elenaxaritonidou@gmail.com
+– Verified: false
+– Profile: Ελενη
+– Plan: Standard
+– Next billing: June 21, 2026
+– Extra members: false
+– Country: GR
+– Payments: 1 | CC (MASTERCARD 7858) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788996059	OptanonAlertBoxClosed	2025-09-09T23:20:59.024Z
+.netflix.com	TRUE	/	FALSE	1788996146	nfvdid	BQFmAAEBEARrlKsU_VGGko_A49WELzFgf-ytklHasYSIcjj2oHWsBmkeljBSoCdmsrzAakSl-SVsyFMDFBZSDOjuB3AL35VdSo08eVtdA8sgMmBPO1jP2Grt_GUFTcifyq1dgg0xymOHxOFJxqcxRMlEii4NN4Wq
+.netflix.com	TRUE	/	TRUE	1805901214	NetflixId	ct%3DBgjHlOvcAxK4A2UYzXmSffw2OsVNEcnOGBBL0hHTgfQg43XdEikpizJRbJucSjopZg-h_2rFJMRKkKAKVt1gyXKA5B20G2KhV7ZrrbK025ss_akJLGMjNZpbBCnDAIY7hpbqpTUVyQPr4eApRL0ikVbNCaZaajF687s9KAY_P_K8FZcmVnZ4WeeOOK7j9VlS85pd-NwZozzycXLqVKa6utw-ynMVXpuP5oi9mYsoM1wthpia6AjceOPR0nexDci6pM8bYGR1i9nBh82LmI4mTxunjDIrpmHSPBqO0CMCxi53nadq07BwUqmXLni4nmkknaGojCIGWzKdmuDsvm4D9uEnUzyzA7bgRiTKIROor7rwDfhm9Z6Tl7kkIsEwTVHC8JMUdD9VQfCcy7B4ZmZ75qLjXHoy-aPgTSZ_tlH6Aw9vkkDAoVlVqFPFThN_WyShTiVEgL33okOLlBDOOM4_Rjn5x7DryBP6b0FqmtrNM4TpZ7qbdg7zt46N4xXBTOee1Mrlm8A5ljUsApd1g1jtfUIKEvz_W4aQQD4rwlPt66LKkk5PoSVmgRwR9MdmV01hUnc6icTdHeO3hoTmE5G5mSt7GAYiDgoMbfkJU6utS3lvxp1a%26ch%3DAQEAEAABABTgJiZ3FJFRCHgfKbK3Fzs5zVdX2qFw7rY.%26v%3D3%26pg%3DDTYAUE6DFFDZNDGZP7YWIJ425I
+.netflix.com	TRUE	/	TRUE	1805901214	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT283c3EhjSVCravx_8KqvZZxdZRvt6ngY.%26dt%3D1774365224748
+.netflix.com	TRUE	/	FALSE	1805901248	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+17%3A14%3A08+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4ade82e0-0d68-4f6b-a15e-df948a22c0c4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GR%3BB
+.netflix.com	TRUE	/	FALSE	1782141248	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782141248	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

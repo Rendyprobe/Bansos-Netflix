@@ -1,0 +1,23 @@
+
+– Email: bkyssf00@gmail.com
+– Verified: false
+– Profile: Salim
+– Plan: Premium
+– Next billing: 7 de junio de 2026
+– Extra members: false
+– Country: MA
+– Payments: 1 | CC (MASTERCARD 6808) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806249506	OptanonAlertBoxClosed	2026-03-28T15:58:26.952Z
+.netflix.com	TRUE	/	FALSE	1806249639	nfvdid	BQFmAAEBEILLuBKwHdigHwN3dyWgpN5g0llHMqAaMTpdjFTkkEwlU5YeUQDKP__NC3sjDFol_IG6csbUXfqX0wsaz5-HMMyGNAvjZZA3Hvj7rWd6wXaZNASs0TWEQHsS3U5y7CATY8f787LOVBDdqXGGV41YxyBm
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	54a10f84-b7cf-44e0-a02c-e5e7e4d9fff5
+.netflix.com	TRUE	/	TRUE	1810125393	NetflixId	ct%3DBgjHlOvcAxKzA0fE1PybKgeHRbFSCygOf-vgx6czKMS8WIeNsK6D3QKk4kCbyPNkB51rbKJiUy8v_CVTrjbZi1Wt1IPr9y2bXeSFmPuPSMmWrsh1JpLyr7XqOiiNtn2wY4iBZoMw7aWjxZEFnznwfmDdrdT5PUyHWG7xS52Bb1naDY-Uew9eiCIMeCeN61cqH_J26YXDEXFccsA14ZbKgGkXWHTkCra3rMyBuHu48ei352UKd4ELFfpili-W4oeLXKPa7CyVWaJCxSqJCIhLxshCiUOsyGwMrgFSeaN5PUlr1VZyvfz99nRPIHaisM5Gp8mf4xmAK0ue9VAQh-ibXQzmBhoqeAMiT6h69riHVXqRyfnZX6gGaFZj_LGrpQJzDle8RghYbQx_DrGsSLXRFY-K6yQow5jZNdi880xeNNkOHfq77geAvsUKR-ArfEn-T3t_lULmNuAwD4KwsLaVMnj-_rXLXQgRluaS9YsN8volsQ85NeRM0r5NO5RqV-9e19ELZK-VDD9CSA0k3OMZmv1rHfHnd7gJr_LoDjI4d6ehW50N2i5WZLMw_s8nZRefli8duVLf0Uu4w7Q14RgGIg4KDHKjYPBL8msm2Zi47g..%26ch%3DAQEAEAABABQSqq_SJBteu75iAsAqqMFRT4q5wQPMXhI.%26v%3D3%26pg%3D25CHPRFF7NHZNI4GUX5M7WODME
+.netflix.com	TRUE	/	TRUE	1810125393	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTa_zCIAWguYGCTR8tiX03B-maGkjVN_f8.%26dt%3D1778589392363
+.netflix.com	TRUE	/	FALSE	1810148803	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+21%3A06%3A43+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c8a2b8b-2961-4ca7-b235-345c74c391a0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1774713507317&geolocation=ES%3BVC&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786388803	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786388803	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786388803	nkufi-bold-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1786388803	nkufi-normal-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1786388803	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

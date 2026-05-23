@@ -1,0 +1,16 @@
+
+– Email: sojoice@hotmail.com
+– Verified: false
+– Profile: Nattana
+– Plan: Premium
+– Next billing: June 12, 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | CC (MASTERCARD 0523) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781829576	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AsEv0NInPvfTaNSohUDNEG6jNuwbaD_TJ-q6PKTWYeKqRPYXS1s3ZBWpCXpXdmz54fx5cpgmg36lr_AWkdob8EgOWDdKPqtAYJ7KqcSJ2U69YICELX-tBOLAShMtWm4RxROVQ5-ZSg-egG3uskYFhT-lisM8Shs_MP0sY1QkPsgSEj1MSmphu_QsK5G8khamv6_ylAueDtSzUWA-yuEEu9Lk_5lvalcfIZdNCkFnZBmFxc7kOjQGnF6qfmFLv1CbwRxOy0AdrjYLm6pyIXSpNlxjrdiJVsUypKdCmCKT6g3mZ1gHQ2flMklkC3gW94FkWr_gWF_gVbGTnztSVQ-H7_YEay667ZFW6akddlTZz26qKpZMlt86WsCi8PjV6ZzQLBrMXWIPMfTb1HBjYmOtAZZTUZxwKxx213ErcHyeHlO7FljpyLRABs8Dj7Ic1VA9uqzMoLkPUWIM5Xg4Dz0n4MxtZX65UOXt9jBMWSjPgeUMjHchpNZEyekAGAYiDgoMWx0e7F8wLQ_rfK87%26ch%3DAQEAEAABABQvusfy8zFHglimMazwrF8MlS7sC2yQ2Lo.
+.netflix.com	TRUE	/	TRUE	1781829576	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTVPi-O_vHcRDbdNUPJe9FrYc0gzBL39c.%26dt%3D1733296213008
+.netflix.com	TRUE	/	FALSE	1781829576	nfvdid	BQFmAAEBEBqaQ_Tuu1t2DHSRE_e40ZBgr6_H3bRg-KA1lMzI92tu0TULYRkEB08mRTMkdsbfvOPueU3v_zuHB3loKhplQ8OyYsDZaZqr9qZZeNVJatqCFOsfnnhupAOCR_935Bbs_eZke1K_ZSp1ut87vLEP239e
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+04+2024+14%3A09%3A53+GMT%2B0700+(Indochina+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35e3c916-34aa-406c-82a3-60d242016e68&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

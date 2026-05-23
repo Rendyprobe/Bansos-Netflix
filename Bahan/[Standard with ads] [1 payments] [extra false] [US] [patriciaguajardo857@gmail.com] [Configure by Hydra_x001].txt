@@ -1,0 +1,16 @@
+
+– Email: patriciaguajardo857@gmail.com
+– Verified: false
+– Profile: Santi
+– Plan: Standard with ads
+– Next billing: June 17, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 9931) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1784946102	nfvdid	BQFmAAEBEA9OxOyJ2-ZX1NFtYzDqP01gccZ7o5v12hfPsTNamNL_Obbbub0JEk5Vuw7MCTeXHq7AeIErYVZrFy5o7L8zGsMZ8h6J5wHUMu9GTO2U9uh4OLeJNasMfS_sqQ7IG-io3JQF92mD6VbGvpV99yP-1Og1
+.netflix.com	TRUE	/	FALSE	1795218987	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+20+2025+17%3A56%3A27+GMT-0600+(Central+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb5a0d9d-ae07-4c06-acba-f7246489d902&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795310639	NetflixId	ct%3DBgjHlOvcAxLmA45xaMAlIkbthqsbkvg_ktQRvk8IbdYB0P1ZE1Zo2SZJq2dFqcLWTqr-xqWwKIdxasySbp4sRcRM3I5fGG293y-xzGQyEkPiNbtKz3k6Wb_TBGVIiw2eX_A9xtcxNiIwWP7Z18yanUj9YxvR0bDk0q2ybWq4ZMjlHRLJT-oaAU8YtLEJQQKZTYvgjf9ntPfLpRcdFCdCpobjaTNrUwGI_gpit_ILjVDwvAlM9bdB0NeiSh4JcCQQHdkreyEeAhmQS6lJh-s1xnlh0DYCCk50ypxE9SfgrIjfoWa-3pkly-RSsWVgX3BYvorkxVZMgSyKBs-ndEUaG1LlZgk66TGNKcFQKo0vq-rzfuGNCECoGgYkvDSwJIWMA6o6NxbPD2_4YwS_zQJW7TA10mTYgxEq4uufXDS_94mwVrRhNWaQ-o6J4hnGTddHy-v3vcVj-IP7Nyea8mMC8F3LbojAOmWKZGJe85jBqhmP84dqms-aJBprFrOqIPqEceNVt2dCX3AjCHirsZMoqDvt_00XqagSaXlG8JZFKia-uGOS2fhOfjTx5-DfQYMky4pEi-LGPQ5BCZWZhWt5DFlbtJGd8Zklmwzrl_leDe6h1N4YQi_J3ZSF-N6Rlci9CDURtQmhvyxAf2f4N_4QWBgGIg4KDKsnWPemPzAtxNy2Zg..%26ch%3DAQEAEAABABTpHsYwWBROnmnPBApdF_CQMO4fOsLxfls.%26v%3D3%26pg%3D3DB2BTRZHVFP5LSTXZ43OVZFLI
+.netflix.com	TRUE	/	TRUE	1795310639	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPVU7F9QPVQwH3F56zuCRI2iLy7v7jTMM.%26dt%3D1763774642089
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: anand40ji@gmail.com
+– Verified: false
+– Profile: MARSHANADEWA
+– Plan: Basic
+– Next billing: June 22, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-851****4791) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808382760	nfvdid	BQFmAAEBEI8khZo37itlcmHL7EZetTZgS_G6Bh-v-bsDYHMXYof7XCzag9P_cFJvL01dhdF1VneGoggQnguWMfSY8WbrHyYJ0_MWgAhjkjYZUMSpiWeSbbp0NmLyC4HYY_xWkWvSe8X5J9w1-avKEFAhAt-xaOqG
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	a89aff36-9009-4a2a-b34d-1f6a17679df8
+.netflix.com	TRUE	/	FALSE	1810302131	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+21%3A42%3A11+GMT%2B0800+(Central+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=075fbf04-51a5-46f6-afaa-74a15b2a2296&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769728990611&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786542132	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786542132	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786542132	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1810309906	NetflixId	ct%3DBgjHlOvcAxKABLq311cw7LCQ0VUULR05rSjgAZRgFQeAuKEB_v98KReDtdEaYpQGJv7CPEjp1kVdp2Ek-yV3noWMupzE2Bkk0pFAt9zDR9G4yYCCNMG8Tnmf8esgnzdS0Ef64gDmtDEOCM2IL6JGro9wqmcmDk101zV3iGbluQIb3on98cYbj2V5MFVO3yvRt1cijYqaCfE-XO2XFGSGZT8xlfCr600v-tGWk28Fr0OwQ-6wF-VfQeQvf0xTY1J8B1rO_Hfp_aAMejOlTj5y77rr7XtnBREOBOagTNCfOl8El7cr6MnUbU90Dsj79_QEzEQ6j8haIElUWdrbv5dg4dtqIwLSw-sFOogsE_tYyg9iYM_QmhZT6HVaMQc7EZaCgP5usdOskAUMVruZz8z5V91DxwuyJHjmBRJGfW3rNbYhfoByCaTVZw_nEKOgD4BcWpmIkxO10XS2yjUITV6KE-L6ZDV0EuNLlz8Pv2pq4A6HZTtPlRpU9ypjNz5p0rN8XpUpI-YMcJ0I8jVwSQOu8jzxrjgtHQlJsNjK-gryZO2V-jNWfh6gBBe5_d8iIorm7h-TUEEmS7wH_9JG-CABT6SbOvrkDH9lnwSks5PTqy2ugzzzmAw1AO1O6guApWhyJFWAXHldViMm-9f0Nzm8mTrYt27MGhhyhM2DiFs-70t-EogOG2NCejAOGAYiDgoMDeBwvm-kPxFJODac%26ch%3DAQEAEAABABSaKhUdBhDf095RmQeB2fefhuRagP3e7T4.%26v%3D3%26pg%3D6B23Y6GAAFGDHFSADCFFETYGVE
+.netflix.com	TRUE	/	TRUE	1810309906	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_dk7RTleq5-2BGuJypHRxr-crhvFshWY.%26dt%3D1778773906306
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

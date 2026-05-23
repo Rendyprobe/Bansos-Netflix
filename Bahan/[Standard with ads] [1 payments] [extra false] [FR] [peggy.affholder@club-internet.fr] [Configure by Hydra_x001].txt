@@ -1,0 +1,20 @@
+
+– Email: peggy.affholder@club-internet.fr
+– Verified: false
+– Profile: Nicolas
+– Plan: Standard with ads
+– Next billing: 21 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 4392) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798898028	OptanonAlertBoxClosed	2026-01-02T13:53:48.289Z
+.netflix.com	TRUE	/	FALSE	1798898034	nfvdid	BQFmAAEBEDGy5Qfr2LnmZ77Glq9PP6Rgm3R2x16Xb7pfISvLdIM1WqvFQyEK6DwfRJ4FeNwNNtocebcMXp7SiPfuWO4dI2yt204NApGVs4YmJoHbe1rhLH0gqoNQEDL5CLrd4WRG3ePtJdqsP9zhQTx0VfvEGtUo
+.netflix.com	TRUE	/	TRUE	1808131384	NetflixId	ct%3DBgjHlOvcAxKxAzrdHH9cUsLGxEu0-qpdJqW8VXL6OpwerEgrmzBjUV2PncB-wBrYs7y5aENUVUbuIjXmwHZWSxJTsBNOW75OX-D4H8pUMyL-oJ6hYg5hTe2XtokV5El3KVCyiy9uraupdwqDRUErkOoqJr_3dNsfAC3-tENU6hQAL2qO_K_2g2Wx3WM33bl_aFuV-AbjvDXTK9lsib38nzpKDawEFfEaMkSaYu85H-4s0csJ0RLwoNJbwEl638qkLGQiGwVmLhEiIXQ01CDtKz2gyfm7CtdiE9A2S0XGiWOlClOEsI_HfQFTKdK6TTZd_msLaUo1_xlxitq8jR3Dv2yLdx8QhVbHrakaWyNtcjlQBax3eVy_4Zm1pfFaCovK84EkbhgWjNL5juHS32kaXfkpTdc7dy_P-X-nKnvKaeBGII7tPU58Yd7hlH82qzP671b9nbAl2zooTANpDbMuqO13l4LdrrYUsTXiM3BzpMNcVLkWdCLqJJp3f8sW1nyZ1RJ50OqpNCz2fSgK41S3jxdWIIwxMBGnDqrIVgxZ0p8MgAcWOs4VbOXm19fl99Y-Y_K_TuyCGnrppHgYBiIOCgwXfaWVwY8DmhYGbLA.%26ch%3DAQEAEAABABSuBBxoh7TmOSjlXtkPYVF31OsuKbKLVI8.%26v%3D3%26pg%3D756NEXLOABE2DB2MRTEMROKBDQ
+.netflix.com	TRUE	/	TRUE	1808131384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhtArsBi-nbdFNmfKFDQMRQDCFlMsUctM.%26dt%3D1776595384514
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	904f3152-4b60-404d-8e2b-2a3ffddda772
+.netflix.com	TRUE	/	FALSE	1808131437	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+12%3A43%3A57+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ccc1aa4c-7ed0-4023-b36f-a538e3e86bf2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	a7dc4af6-f739-4e5f-927c-c3f12ec4e6a4
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

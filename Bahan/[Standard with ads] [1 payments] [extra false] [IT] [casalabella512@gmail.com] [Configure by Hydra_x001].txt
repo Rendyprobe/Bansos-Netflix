@@ -1,0 +1,19 @@
+
+– Email: casalabella512@gmail.com
+– Verified: false
+– Profile: casalabella512
+– Plan: Standard with ads
+– Next billing: 20 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | PAYPAL ( da***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2024-07-22T19:55:15.573Z
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEIS9J1wB_wyz0-JLHghyUslgD0W-R7ms4dlF7w1_f7UR8l8nrkqZzqAxS08u5-TR21mXU5VmLt0ojt4MCGBK-m7Ra0j0vM1glehceX94-3yF83PSbpTUukGxotn-LuLRkZrd5RjaQluIrKaN7mf_ISVF
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+27+2025+22%3A59%3A11+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=9b7c7539-55ac-4b9e-84f6-54e631f51b93&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=IT%3B&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1782066567	NetflixId	ct%3DBgjHlOvcAxLpA7j-FyWUQGrmZMnFwm9HZmb1Xlayizp1Ksa-wINXLvS7KmJMevb7KT-XUUwB9j99ttJAmgC_G_2nrE_tK4c4v9xoQwO-1897BefEQAoFeQ4N9l4iWJ8kV1wyFYpr6EPCD26KvKHy4X9ERITPFJHOoLwwpY3xI1AOYNVfWG_4pbFoq5hUGBwFAAZXPdFMzzsmHCe0ivUFQPoRO2eicVmx1_94gmCmCxZxqcVn32PcNCXvdm9mtZwZaWEb2y6VjgjcUcZuW8eYExOd9lOd4auTC7kD0WWdA3GXbf7ailLKomUg7L39fRqDeRcoaVDlVy1EOdlvBPz-cird5JPTCcYrD6SETN3MvuPD0yPdu16cwPjx9OYDlCs7tx03c1wRDSpSU21MJU3tAlxrw58KVACBeL3xQms-fxSLw7vVmlJm_K9f07GZcAIpHfj1ASjMyiWeJWa-NFkUmPCa4-B_mJvWBXcj0lzTC8ncgV0S3CDHGGzhdSKYG77D_qn6nXj5X4DN9UfbytomdqpIuJAzvgVF5549EVWtR1_lyu9jmgq_Zh_pu7O1ZSJ0tLSm4w7tcZpivdqBT8_5KMupezh0Z49l-Ncz3RezlXVTAxW3vKRLUXVrp9XvC8F_2sr4N4LDYH-nMzYwZq0lPqTAAhgGIg4KDBpOcttC8FmBewedKA..%26ch%3DAQEAEAABABQd6Ti-MOqInWKl4UNX7ZAP_skCZjEuV0g.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1782066567	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSCxxc1phLMh3E_OsS3i3LXVI7-NZgdf_c.%26dt%3D1738244412911
+
+Follow: https://t.me/hydrax001

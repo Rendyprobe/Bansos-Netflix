@@ -1,0 +1,21 @@
+
+– Email: anabeatrizbrunhetim@gmail.com
+– Verified: false
+– Profile: Ana
+– Plan: Standard
+– Next billing: 19 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 9361) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794499245	OptanonAlertBoxClosed	2025-11-12T16:00:45.330Z
+.netflix.com	TRUE	/	FALSE	1794499379	nfvdid	BQFmAAEBEOGROMa4-n4OAsZAkNL6h6RgqywUKh4OzAiCKDwxs2RysCVsWP7ArindmGjINh_hpgU6_-ks95JgVo1quDam9kSUfzR9O0ACSWTtEDzMn_ZeSMjOAcRWEvx3Low3G6eRVi7a5LRZspdJDPuDcQYCDndh
+.netflix.com	TRUE	/title	TRUE	1798380710	dsca	true
+.netflix.com	TRUE	/watch	TRUE	1799015403	dsca	true
+.netflix.com	TRUE	/	TRUE	1804691065	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA0KFFlusnQjQtc_RPAnP_7jLq1XrT-QjV-2Zya9RoQlIn7KME3WAqJMwmURZUSj3xO08sHfVb5CncWNAx_nnGW3EzIcHySQYkTxFo68nqISJmAerktqi2SEevQA2_hEmJnXwyaVeH7WYogt-gDLXbhsJ9cw-1z5CS2x5gqOkY_s4mgnj_aBILiNPcMDpIBD45MxfFp9HPQT0gtF5qWPiFHVbJ-Zy_wqodlCOY5Rg2PARvrAIu7zaeTvZada3VQbBUOjbhnKwsEhXmuYGdYH1dMxOeutjZvpiyMERy45dIC0Cu_jIQjky2Zt2pqcYPlSErHhmbUP7HdjxN9SLtXyLV2a4NCmqqiMa-l6aGza765jtuhz8seNF3aITbuXE4xAU9hmdWCOWafqpzyYqXXavUWhrb1COuJWdNZatkZ-iWuj0Na2FjL2tUcMKfmbmbWMRRIpXq8slpGuVNc5wcnycdPlTLgkQe0GWudZd5Id-kubaeHn1eZzbLxGqH-lx-Cb3o-mdqyo6l4PYfqccvKoreFG-RzH423bnGAYiDgoM1OI3aLuMJ6zlYX0U%26pg%3D3O4NVGV7MJAJ7D7446Y2EDQ3D4%26ch%3DAQEAEAABABSwJSoo0_QDaP-LPPRyXwYAEYS3vV8tGgk.
+.netflix.com	TRUE	/	FALSE	1804691066	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+12%3A04%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1585bfa-bc06-4256-adcb-e9bf32fffa6a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804691065	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbNpIqUFzuXgRZ9rK9hhjC8Gi5CCzoXbo.%26dt%3D1773155066785
+.netflix.com	TRUE	/	FALSE	1780931066	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780931066	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

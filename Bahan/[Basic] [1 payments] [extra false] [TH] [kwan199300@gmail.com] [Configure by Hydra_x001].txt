@@ -1,0 +1,21 @@
+
+– Email: kwan199300@gmail.com
+– Verified: false
+– Profile: Yokky
+– Plan: Basic
+– Next billing: 19 มิถุนายน 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | MOBILE_WALLET (TRUE_MONEY +66*****5168) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795761196	nfvdid	BQFmAAEBEKofOeJHqby4x-7XWAH3rMBgMS9lEEqVdaWvdk-YrAc7U8jmZUDvALXX9h2Bb0TNhH3oYB78HRjTsKxvP3Vm0cvlhsUfY4qppVkoy2l3RDVqFxunXDxgGxd_bDpkt1Z6yZXR88Bj8YRIiWoSaRMwmU93
+.netflix.com	TRUE	/	FALSE	1796446351	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+05+2025+11%3A52%3A31+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=51fa66bc-5d63-4788-89de-54fae1c22158&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1780396283	gsid	d98e55b7-b5ba-4ad4-9f0a-7ce9c3ef1b45
+.netflix.com	TRUE	/	TRUE	1807182628	NetflixId	ct%3DBgjHlOvcAxL_A3KaOnccuiNPJ7Y6uPc57XVPSIb_pNqTN5J0iZayjqhrcoFekxXu8IgG0XfAMDX6PXjPrXhcKBmtdA_mQLA6pEnx6lVEBWxatxY2Z5jr8g1UYbABs-jj3NR5PHGVmI3vCmSsyPqcDHKsf1VGudMDiw1lcQSvSv1PLG6sqTbOpP_Qyl55exvXfkiF0fSvA0f4ZhkUEkaAlYam9bIiflTWFE3r8y8CXxGEwMteAe6et7Ab26GaumHUBaqO10LeGwbWy93GZAPyEuA7FKF-YIWmCfYqzRHIez0rRJ5VyipAJNyzTfSMDNiPwVcLhZl3-BMYb8623SV3gGyHLYNXy-xwMeDbfLw2B8K3sFAa1vwfUvJcx-b66D_VGvoiGZqUVJ2eq7esvGmvMZ1DvwuN12gNOb0nagpzL8z5Zb9JHJG0mf_FKWm4M-dprYCqso8fmyJgDzh4r65ltbz1b_EFxs2z4T7PVB_XNl76o1kY0yVC4Q4biYVGvVJLLin-O0a5kGo-lFNghhHYn-lolM-oH4yRFIQ-08WW-aGumrHnPiTgw4StLU0pQKTCIY7EmrzNZUpzy2nXWjz9LWAuzvUJ62Qp9fd73BNkAd02PZvpcr9eejWKOJUSxrEwMAjGxTL7Deo_Qc6WuwBnRGHBOaOFGC9AtZSVyzn7Rkrn2837jNyPJbYYBiIOCgyosX-4vFjWTUQUfsE.%26ch%3DAQEAEAABABRwAkK8HmsFSvnWNqRidnViGnVw2ZFL3Cg.%26v%3D3%26pg%3DPQPIZOFNKRAL3DHFU2FEXTDKOY
+.netflix.com	TRUE	/	TRUE	1807182628	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTg1tmLpm1tsVbBNELmdSqrbF3IA2HoXgI.%26dt%3D1775646632808
+.netflix.com	TRUE	/	FALSE	1783422629	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1783422629	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1783422629	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783422629	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

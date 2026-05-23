@@ -1,0 +1,21 @@
+
+– Email: arielaamaciel@gmail.com
+– Verified: false
+– Profile: Ari
+– Plan: Standard with ads
+– Next billing: June 19, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 1904) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803251407	OptanonAlertBoxClosed	2026-02-21T23:10:07.798Z
+.netflix.com	TRUE	/	FALSE	1806283734	nfvdid	BQFmAAEBEE4j1nKnCqJ5_CtTbGTxPwhgThFILdQ73JcOxA8Nzb7gzpnlKtzfo-3h1_IFj_vcKlHC-XdznckG3PcneX3AKQXT3EHCmXm9-SgfQSneE-kqmXC3xAVz6vHIGEv7fNaSvr-1RGOkgNKWES3XEohsb3VE
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	83f78e84-eda6-482a-a2f0-c87a47046fae
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	6dc3d866-71e4-49c6-a3e4-5af59fe657d2
+.netflix.com	TRUE	/	TRUE	1806971194	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwApJOsOU0KmtpRPYLx21ZgmU0_kAjbQ6XlBDn6VRpXw6Wukb-Ea85zyC9dtqC9DCiSlv82WKCaualHo1H2L0ObXed6Oc7PuLWdj2oOo2xCUpBLK-en76ovwl8SM_Gb2E-xUE8ivEArHwo0nIUTxs8-7kRevto-H9yt8bC_-JVPADoVst9iBL1X0w1_02Trr2ylE21F-HaZlOOeEjQU2KGQcmO1i0qdK-9ZDL8QxAiDphqRJ5lIcjYv5dNgYQ1kWXoL6dSXQ2AXl4DTOKTniKhZxkQ9tv-4UFgDPVcVChl5jf_Oq9YkZJ8yloHPwzMKLlwRW0LHmLu1nTscyJNjtm5PQLsY61QyCSBtEokUIRDizu7O7mbOeuMcatJ4Ny_WmX4I3MXDASanUQGHMzjLNm-9145AXfJDQ5qldA_Z_az7TJXsacehm7UXVzv-y4frfkf8-EhbyIxlcCFhHmPy7ZsvJDJAcBI_fXVwrn4OB7ZltltGAYiDgoMx-6IW1ajqk_QAN8i%26pg%3DWUBTDV7AIBFWRE5YJQYCUR5YNU%26ch%3DAQEAEAABABQlpY46qvIpvGZSvS1A_WsLai84GexW_JE.
+.netflix.com	TRUE	/	FALSE	1806971196	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+21%3A26%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6fed427-890f-407a-b675-dd25502d4f38&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771715408223&geolocation=BR%3BRJ&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783211195	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783211195	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

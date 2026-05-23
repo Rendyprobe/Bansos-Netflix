@@ -1,0 +1,21 @@
+
+– Email: cartermills2921@outlook.com
+– Verified: false
+– Profile: 1\x20DONT\x20CHANGE\x20ANYTHING
+– Plan: Premium
+– Next billing: May 30, 2026
+– Extra members: false
+– Country: MY
+– Payments: 1 | CC (VISA 8190) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	c9759658-991b-4d22-8bed-2f53816ace8a
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	f2021b59-f9e5-42f1-b783-ecd28b2674b9
+.netflix.com	TRUE	/	TRUE	1806593784	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSAw1rcbqclqsGQRTOZIXgy8PwCAi2vRbYqoHFBJD7NT_AFdLWlTZdfyC0tS7W1Q1J1edkQH6M4M6LzoCv1IOekLhmvSPefySio68c5ZpVIczHGLPHB1aGc3T0iTvBaEbrQ3tXQHrd7014cqtermbgEDDUMjDMgDPf-Dn6YGdXDOAaMQ0_-wlGFxc4AEZFlBfUxn3k0X0N_mrt9LMlTS7YRmk4pQtHYTQ4JPx2CGn3AZ-feW2Sokgrow67KkjNj_ujZ9dK8vF9VC-7dVs4dSkwaRBzh1B9gXrs6B6zV5Y0DP931FYZB2kZPwbWyWn0PhKNT1y0C6GNWIA29vJvF8oAPFH1A0q0l2aVBIVqtbNSwrP9JWwA4iBIbBhlVOBOes1hcflupP46zcfnZefkNihNMyfSIrNRjtWf2Bmnd3YJClnkS5opE3ALB7D09N2SKTyggn7OaxdoKsYEaIGhcSi8iWvtOyT_7-IMHFmycrNTP7lTEuAPs9_caD7hfeLlnwFMZfhQQh-LK2nnjTFTbbhcTWa_chgGIg4KDLFanblX-T7Z-f6DcA..%26pg%3DF744HKMLNVCLLE2C7Z6SHODGPM%26ch%3DAQEAEAABABQuJOXpXYdPJZp9R9v6yxNxc2FECSFLqn8.
+.netflix.com	TRUE	/	FALSE	1806593786	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+23%3A36%3A26+GMT%2B0800+(Malaysia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e54ab83-b340-4908-bf3e-8f9caa852465&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774788001744&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806593784	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRi07mpBP0WBWtWDdrKmDClKY5m9Jn5GWg.%26dt%3D1775057786994
+.netflix.com	TRUE	/	FALSE	1782833785	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782833785	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806593784	nfvdid	BQFmAAEBEBveulCIymoMv41TgZWgbPpg8_xpzEZ51RuPefhgVyqDR5uM2LcLhzyHGjZ0Uaa16jRc30iKv3qeMfNKKdERkwUyiw_MIhsK04HzZ_yAGv99poNWoTwdilUUSm32Sj2mVCxPrCxUa4gPOf4uiIWiwLNb
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

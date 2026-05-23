@@ -1,0 +1,17 @@
+
+– Verified: false
+– Profile: KING_ZY🥶🤪😶‍🌫️
+– Plan: Basic
+– Next billing: 18 June 2026
+– Extra members: false
+– Country: ZM
+– Payments: 1 | CC (VISA 2410) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794346740	nfvdid	BQFmAAEBEJjE1StExulUzfZR3MC4rkdgFSOQC3S5_qo14GDizxW4A-JJ8r2HCHXn8NngeY_FENsCbLX0DCKnbZraZ1KJPUg6PzP_6JvkKxKuqDsEXF4mO1TYO7drbX8YRE9D1LxMQsRwxDH6DHH6eEVsl3VHgF7h
+.netflix.com	TRUE	/	FALSE	1806691487	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+20%3A44%3A47+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=faad24b7-27ba-4d2b-873e-95a3b334bdf5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782931484	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782931484	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806757569	NetflixId	ct%3DBgjHlOvcAxLHA_VZY9qW1CcY1iu9iMRPrGALM9ua00LSl8xFLWCF_I3NmdxUtVdagiDISMqgMR66BfwZoOs4DVzHcIJfnf2yc6pg7cQCGBin2GGU6VGxnVZEcrbZ6R_GbeUZk4uyx0sDISvZ_8WBFD2gD6NOl-94OBc_SHiMeHwtRL70GnQ3xktZ9P4ZKF_hVTvc54PsMRx967sKEUjr8W_K9YUtC3sebpmdUnNjQUNQzYDV3uGpKbUUx8pkfVTwtm9Z1Zr7yu-4JLlaHQ0gpX9YUgBaxaEf-LnxUBXtOWdG35XoQVtG0jC7qLifaRllGmrTDvWgIgJ8NNQgfW7d0qJelsoI5x_U1rMT0Xj4ykvX2o9SziGBpRp-uEla9LslavXLxXEgDqxrXrL7FwRbSJEEXxgkvCNpUbC_ezyFq6-oHneKM5DTpkDnL22SoJF5vML42oHavj1rfiROx7ewXznOMEA7LulqbIB0xJlW9rBADtQhoKMupmnD6Yk5urw8CrAkD4u-0T5GahGln8vDBpj4R_SBr21exFDUtG54GcYFPjbMxqlhAVcGJOEU7yiG5PluptL6e8a2pTnIg8SBHC42TBfgOPnW4_xJd9ulRmgEGAYiDgoMy2H_jd4fjQ3EZlTC%26ch%3DAQEAEAABABRmsGRHrs1kmbqiEpd2UkkFzy55A1_ikwQ.%26v%3D3%26pg%3DTSK4GAKHMNBU3A4W6VUIHLRH2Q
+.netflix.com	TRUE	/	TRUE	1806757569	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQeNjq1ORI_4fCVrgswV9h1CB_Ye4HYlxw.%26dt%3D1775221569570
+
+Follow: https://t.me/hydrax001

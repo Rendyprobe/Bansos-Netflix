@@ -1,0 +1,19 @@
+
+– Email: oscar91.ieg@gmail.com
+– Verified: false
+– Profile: oscar
+– Plan: Standard with ads
+– Next billing: 18 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (VISA 9698) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1791750893	nfvdid	BQFmAAEBEM1OqWjhHcuEjnb3-z6usIlgZTepp-62PYIOJ2opDeR6QYrULv_5JufMK_g9KVjj1KArvwpmE14gNn8AfMU-bi9c-GyHl_sA-I9-Grsdpia8D4tCFROuSEX1pos4KN5QBpPLVtFMNV9v6baLx1oMyW4Z
+.netflix.com	FALSE	/	FALSE	1791750900	OptanonAlertBoxClosed	2025-10-11T20:35:00.276Z
+.netflix.com	FALSE	/	TRUE	1806256413	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9QFQ5EL7rhJCdjecrqXJd0hQCeMPTniM.%26dt%3D1774720413965
+.netflix.com	FALSE	/	TRUE	1806256413	NetflixId	ct%3DBgjHlOvcAxL9A4gCh63Gk5BLatIk9U6XUrQRtXd5ULqTj0xH_OYlcd3RqVjPYquuwe2MhePB6aKG1We11RcZIiJ8xJIpxQMjFV-TEsnW-v_uGVLW_cuGQx3fkXTHn0HQsbYZ8ed79bI-AgA8LMYmywEnQqoH-x3NqU1_ZsRyWWtQykNfLbPPMBdHhD4ESlP-iohy331d96y-E7HF197MbCp8Lfg2ZKU4ZMNl40ULKAryCJbzzqAFIP5A6l-QDsvfzu4KZY12-Q2KwAMjd5OR1zAXPlH1qGpUmHWuXFxhYsspsGxVypccL6t3vQru9DQ6sm_0SqqXiOJa0AT7eayhbtmvtd6gxz_i1l4JnKTedJiOobMUjdJ6vALlb57v3eCDu3aD1ghztyVGwg5rW6p4EmKcKX3HqOr1JoXFfhupVesEw_VgMoRHeJt_h_t8OyLc0zl-XMixg7SU6ZaMZSWGKMOjMxj9MqE2ZAN-CwMEQDwbv5Ge9WrBUKdf1vDKg0S6Jb9WbbAy5QUPLWm4iwkBB8fQ6mDjXy8EBI1uliviPxfux7laSKwVW0psbTYQ2hFtzNPJFIY1Em_7_nj_c6QSjbRvamNPsRpolfAwrg4FlvB8M4k5KflAOru_-Z4ynZj0RVAkBlExl0P_m5tdX0hiRorqbORLxqK1JMqk7QjurduFzHxmNmh1GAYiDgoMVx7EdkzmAGYBQ5_W%26ch%3DAQEAEAABABRBzHEAu-7GGfE1ayjoXO1kvyArLk1AWfs.%26v%3D3%26pg%3DBRLZI2PAUFG4RP4WYZR6N6R2AQ
+.netflix.com	FALSE	/	TRUE	1782066567	gsid	a6588c2b-8af8-4178-9396-2b597fe1ef02
+.netflix.com	FALSE	/	FALSE	1806256989	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+12%3A03%3A09+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d6d5b09a-cd29-4e4e-9495-7d27e680ebeb&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BZAC&prevHadToken=0
+.netflix.com	FALSE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: monicafrancisca1134@gmail.com
+– Verified: false
+– Profile: Gabriel
+– Plan: Standard with ads
+– Next billing: 2 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5033) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803603662	OptanonAlertBoxClosed	2026-02-26T01:01:02.546Z
+.netflix.com	TRUE	/	FALSE	1804383456	nfvdid	BQFmAAEBEF2os2hkxt8xZYez5ZFc3JpgTCrK-JhQrfCgeY51i2dWltidw6wsujYZV7ds0U55HsT-QrsPnrnd7XBjVlwhQjrTZxh1UXf5xGVJLmyb6sFe0UamABpUv63w4nufLXNGuiuZAusQqPXDlks4d34ryHkD
+.netflix.com	TRUE	/	TRUE	1807660388	NetflixId	ct%3DBgjHlOvcAxLlAwiAmi79z5-BgMRiX9l3MPXUNiGsgV8HkGpW1OcLt0XezQk9iMf4FMgKGkvoof-_uH4ZexN9Z2nX75CyZfoTMdjQFsJRdKEd4ODaw9-jt7p_Kj2tFRnRu-7TalhZglHiviP_QbhXy3UGzF1coMT7E5Hk7d3KsDiuFgvt0S6uBLlEVEt-AejTR5H7ckwbqMXdUt69ncMrLCVZZpL6ONeWvRtiwUdlIUGfo97wAXSFlFzo6CsqLURCTW6sBgtcSm-Yx5UGBJmTTTmyMxliCEBKw10i6TbYW54Zodk5StzV2kKq3q13eIlntfn6To1l6ysC4737PP-ns37SOHEun2zZo3VvSGIkIfeIOhSKJIWYk011DgftrNFJOzT6tzs9gnZfvccCZGr5gcIsfFqUafkDLqf2j8ohWePMrXQNUZtyiyRSam7fmdCAylvTBnF1GYvIjZPh7QYyZZw4eQezHXtyDtCAIR2mPI67o-DtzNk7ZBnIirLjqMIlr3yPTEeSdaZpV7dSDsGR37NsWNrvFdbQScRUsj6kbqgkaK6HU8pxTMx51EH29sOGW77-6-4IMXN8i4WyzsYNO6kD06T49aQkshNj4YlvuLQ9KCR6pueZuj5tSMc8thLczSZbimmRGifkaLc5qqooGAYiDgoMuSy0uXKEvJbQ5rOm%26ch%3DAQEAEAABABQ7YJxexb8y51nGAL4f7aBewlNGG_wXnec.%26v%3D3%26pg%3DA5W22U5KZ5FJBCS53H7FKOMTRE
+.netflix.com	TRUE	/	FALSE	1783901850	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783901850	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807661850	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+20%3A17%3A30+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3e4350e2-7298-44bd-87b4-06daa8680ee1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1772067662759&intType=3&geolocation=CA%3BON&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783901850	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

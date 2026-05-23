@@ -1,0 +1,21 @@
+
+– Email: fernandogvaldez89@gmail.com
+– Verified: false
+– Profile: Fer
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonAlertBoxClosed	2025-12-22T22:50:15.892Z
+.netflix.com	TRUE	/	FALSE	1782066568	nfvdid	BQFmAAEBENBP4xfcNUQ-Le2YM5c5qx1g6AM8GnEMTSuG3P1cWLc_3YE2StacU0XOHMTHWDsQt5GBR-5TToYZ6gemddncFUjMkyiOXx-DSqxyWl5ARW36gH-z9h8PQVlqIWGMEqVKkFx6APdTi2qZPO7sMrFVTP3E
+.netflix.com	TRUE	/	FALSE	1782066568	dsca	true
+.netflix.com	TRUE	/	FALSE	1782066568	NetflixId	ct%3DBgjHlOvcAxLtAxI6-MwLtVxJj8FIgYYOI5uUz5VkTr7iX2Qc8XdDf6gO1EjgZ9ArQjh17KNsQig-nrP0cTEfURiLYUEn4LOTHCbrDVXg9cbKOh5BBBKdBFDlFdpKa_zdEZuJWnExCQnCy3VKlnW77gqLsTA1b8TkEBwOM2McZdzp2HuUT4vRqPaOjP838ZKzQ67JNTLlUQklyM4wtTOTt2Uqp3s1d5rMdeVx6spHsxRdvdYoj3mObxSPSFuZCjQRV_Z9lhebJ73NNsUxkAVlZLm4Rh_WOmhEbrBAMjQNi5phyoVDCcxF_bshUzF4h-Av66unkTzkIJhdfUueSdZHENrhu90uO0G68KEetYd1TzEn3OF-tN1VeVpUERrt7znwVgWhSPQ8I7ZNV1PcAnHw7879fwzfLH6WSGXBxsIa2HHj_PUHxoleTBn_hISmpQxynfb28FjMkhyzpo0HnZcQtMPibbzwcuDVfJVrWRvUGg0L9s473B2rRUQgDy-GlWEtMxgUJnsuV_A-seQas6wi6OdS6ouMLOpWwTsmZ-RzHAUrL2Ea-pph0xZKnZby8nvH0KFr6r3vVIq3VPcbaqJHVgIgrXfCXPZPaXgcBCUdChKLoOzd_61TQN3TxRLSphu_yLOKkkdRW1iKmvyHRB5oHfEd3fiGj9UYBiIOCgxecmYazKz_vLOEgXs.%26ch%3DAQEAEAABABQQI-ZUKlmQtfAqprNSZ7faQzTJGlrv2fU.%26v%3D3%26pg%3DE5ZDWPQ3OBDA7J6BDGAHTZM7VY
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+15%3A53%3A42+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6afa0795-82c9-4501-b6a3-b1b3371635eb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BSON
+.netflix.com	TRUE	/	FALSE	1782066568	gsid	1a53b62e-06f2-439d-aa20-d4363a1cdc8c
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

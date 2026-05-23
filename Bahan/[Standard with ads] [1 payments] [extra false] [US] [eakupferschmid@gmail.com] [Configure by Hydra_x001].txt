@@ -1,0 +1,16 @@
+
+– Email: eakupferschmid@gmail.com
+– Verified: false
+– Profile: EMILY\x20\x20KUPFERSCHMID
+– Plan: Standard with ads
+– Next billing: June 1, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 4600) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1789357471	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKMA2MoUilEtrh4VF866BdfseMmqGC3PwZ2eOfsXud0Im5uyzbF84X-P6VlcpTgT_oyVIs7fOX-WPCvHUsavAIe9zqosMlxB1jd_k2gp3hDZUpNFmNg0JJ1jhmF9T0gEIKxwhZ5BNyIcnbNkvfQtnirj6VxQyydShBosqjJiRjFQp1WyWiUIFnhY7XykO5Il6CEXqVV0uzxTYQRhSicFKZSEsI3Iq4KpR-WkLHsD1PWBnvKMmnzlTdLiZ_YYOyI5PyaT-GGEt5fq3etcSOqFQ2txO_cIq13wVb7Sfx3zlWjbnPutsnZSGpylSwzBFiia-b4umtkSVsCkE2A65E8CT5uAPATNpAGBPVRfJ_ysJX0HOq1AG7znKYBVJrvWRfzMqLHYZMS5ztIyakN6rCttncX-v5_GVqq8pDs4-nIaY6Mnblt5wnoTpWAdZ8MeWwLw5oFWPz6s8sbbOupnB8W_A_m4nelOLin0DJt-THD-24w5OVhNbgDBOjEjKGlEbPtUyqXhlP0Dp77oYrPmQFLJBgGIg4KDNYV4LaE0ySgYrskdg..%26pg%3D5XCAKT2NGBGS7BNNPD6YLZXRDM%26ch%3DAQEAEAABABQbmC243fZNSzpkcHfWqaZTvb6xDZ8nvfI.
+.netflix.com	TRUE	/	TRUE	1789357471	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5RSw2QZHsfhzNPIFiGqReTGOYiin8138.%26dt%3D1757821471066
+.netflix.com	TRUE	/	FALSE	1789357471	nfvdid	BQFmAAEBEKJa90EONsOZW_wca4ROQkNgSSyzivaKCDnUhZombUNTUGrbyKHu-ZH7UnFqpPkigcGRcsdG8r9zt3XuiF0XBDqqMhdqAwirQJUeGeifO9owMmasPjpEHjMRKB-pndCOw3xdv_c_DHD1AP1s-_g6hlTy
+.netflix.com	TRUE	/	FALSE	1789359645	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+13+2025+23%3A20%3A45+GMT-0500+(Central+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8efd0370-e6da-4001-a500-aefb94a583c7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

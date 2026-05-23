@@ -1,0 +1,17 @@
+
+– Email: emmacroce06@gmail.com
+– Verified: false
+– Profile: emma
+– Plan: Standard
+– Next billing: June 6, 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 0272) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796735074	OptanonAlertBoxClosed	2025-12-08T13:04:34.875Z
+.netflix.com	TRUE	/	FALSE	1796735115	nfvdid	BQFmAAEBECKEgChqs8Bu84t65Ha2ebVg3w21g5AP7kdKTfVJNUhlEZWRZq8nDCyiwtv-x35jS8O5MONJmuLAkgx8_PCs29fGBhYF66dT7QhB5rLQdwmdf-ECuDoK9VMt6e08TyYIZiCeFSSAsZ4aT9aoHCGS2ZB5
+.netflix.com	TRUE	/	FALSE	1796735123	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+08+2025+14%3A05%3A23+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6a5c824b-aa53-494a-bec3-c711d9a53e82&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=IT%3B25&intType=3
+.netflix.com	TRUE	/	TRUE	1797355212	NetflixId	ct%3DBgjHlOvcAxKOAyhzpt_snvvKpSQ_JZUYzi4i2GFgi2SfW_4JIP9MtIHQBLTiKs2woCoUY25uQavNo-cFP5TJ90y0s-sscyQQCkiyw_dkTDBQWVAo5Hu73wXgweKvp-W6t2N51qmuXNZS0FJm2QGKjp9Ck4ex-Xb3pExVG6qVK_0JGNH5rX0qhnU2_7Qx-txuHFQbh-T0SHmCCVnMcDrrGaI2cHRGROhTrshw8YZgg9ifU0K1S9RIwujvDqrukDN6ugjdibhSNbsP4fIfM5BTc8jaNkE7-shsJAHoMLK61N_VjWlMqMPikYkBf0k_UYzZLkewRb72RqPD8IF1DETIFp4Gn9L-4kdcN8p4VsZTXtl3tChJteQ6WDjayx9xRfPCY0pH-m_aXd0C8c9yaOcpjJE4tnCDD8gGZxaUhj98fk6fDqv-ETQLzVx6dYe8yyLP9BOeiY9DCnJ8ZRchDGQTlqNS-UN6Nw8KYbJ3bCAbR5UApaWWxT9N45tfs6y0PIgdimpXogLtg5oMqdKVk6Hh5JkP_XMApTl8GAYiDgoM4XH2Jnb9af5RES_H%26ch%3DAQEAEAABABQzpwL2fYwzJ6UdbVnhiVkEIy8S2lf4wGI.%26v%3D3%26pg%3DN4Q3EN6JVNADFKD67NYQOO3EZI
+.netflix.com	TRUE	/	TRUE	1797355212	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR3Zxq5gWOPZE6PjtjAvLEXwHYRUVfPYbY.%26dt%3D1765819216057
+
+Follow: https://t.me/hydrax001

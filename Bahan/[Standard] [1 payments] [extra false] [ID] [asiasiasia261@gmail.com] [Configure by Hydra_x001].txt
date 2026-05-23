@@ -1,0 +1,20 @@
+
+– Email: asiasiasia261@gmail.com
+– Verified: false
+– Profile: Acia
+– Plan: Standard
+– Next billing: 4 Juni 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-813****2497) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797398805	nfvdid	BQFmAAEBEOtzezdWT8bc4DNTJPQZWilgocAkObs_frYd4_LYrQdjyQi4Z4hu9zOWbK4HILFKLV7aQVrMtx4bYGTKcA-QEH8aUM2nW_AeO5llR3loX8_uGhBAdMC5ahDBKGDggE_JCUZqx7yvrI9V7-r6mC3jaex0
+.netflix.com	TRUE	/	TRUE	1802447729	NetflixId	ct%3DBgjHlOvcAxLsA3uoyt3QXyJ2eCaXIIqwjkZ6_MEsmA9V5T5ThbKBhWzdPlc3FVSTavQnpIK4EOKHxpBNCPUYW_qiLQVj4Nbo4K9PPl-tJcoB1DT0cuY72UDY06gEikUeHKuHgvo42wSI177h-33TdquvPEFW3JlTULkARDAu_-jL0ewOC_jHn-M_T8VuCO1lRnDd3rdqgYWoP3fLLklX50qtBKrrcjCb97Q4JT7YfA0ncnKizMcy7FSlHyQIsJrm-zYCRIUUeacD1Mno_wozXghf-InEIiGJzNi9aVbIHlK_Hxt_4AG7N8_zdIMQWFvzrPEqZMWCDuc3ZCeyCTrAHysnPXxsj40nSM3UhLYH0FAob_7WbMnSrZA_KzzsUDlFPtn2-KzgB2aBba9BkKws1FwXwttzEM3IjPp5-WJrqFts68-vvMJAlw-h1IM_jS3p-PKSRuV7JO62ojQy0_srjOrIEri2_Rcf6kVq6ep2IYxOA5fcxEjVq89EZyk-KaATVJeKQTj00SS3RVp0SIKci7SnGs3Y7z8bbuK6GcH8nChqaSSWinpYZmn_XECgLyR6v1reCBAAjWfI902QFzIEHPh_l5owRt3bGpV9cIehKxePw8MoS9bob6I9F7MThr8rroVxfzWeCk6l26lptzc4mhO1ZWg8xxgGIg4KDOLcs82ssuPx-8xOtQ..%26ch%3DAQEAEAABABTAbnqNuVjHZXoKveg74BEmzeIEKm1uzR0.%26v%3D3%26pg%3D4FJEITMY6VHL3BDKZNVILCEX4I
+.netflix.com	TRUE	/	FALSE	1802447728	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+23%3A55%3A28+GMT%2B0800+(Central+Indonesia+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=85d3bef1-3957-460f-afa8-ea94766a014b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802447729	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS531R7Uit8JmoKy6ez1hEYFJGDOhZ9Z-g.%26dt%3D1770911845453
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	074f55d5-f340-4a74-bef7-1e91b146bde4
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

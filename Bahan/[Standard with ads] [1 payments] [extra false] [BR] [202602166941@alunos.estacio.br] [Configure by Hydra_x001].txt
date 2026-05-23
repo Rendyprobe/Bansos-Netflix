@@ -1,0 +1,19 @@
+
+– Email: 202602166941@alunos.estacio.br
+– Verified: false
+– Profile: lalaaaa
+– Plan: Standard with ads
+– Next billing: 7 de junio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6437) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799369134	OptanonAlertBoxClosed	2026-01-08T00:45:34.739Z
+.netflix.com	TRUE	/	FALSE	1799369152	nfvdid	BQFmAAEBEEcDmBJLEEtJ20pFmtaETc1geznIVA6793tn5K7drJD_2k2RwLyxe5rmip3PHZXKscWVdCKj0Bs2IS3q6klcpykj8D_OGQCbXTau1-RdgNoy8jRhdsYV-BFyL7I1CfcC4fwig5DAOIb34nT1zD5sIRoX
+.netflix.com	TRUE	/	TRUE	1799977479	NetflixId	ct%3DBgjHlOvcAxKVA7qba8hgkFsuJAPgpQetXN2CKjyDfUj5qESsUi1KRihdwCylpaDd0Dw5WudAPzsPW5usPW0kEPhcAzBvFh2Pn_WikQSFck1Qb0ssD2uQX1pgEf9PI7Ls9gOzoq-WWRwUUtESg7Zo3aGiYIKrDnMSrwcXfGEVsiRAa0w6V73xtHakp_V8T3QiP4p_Fb0aUfCjukwzM5Jk83T2xDUtYeRVCoTcZlGwC7bEqKP3BNR-fd_EQpf-r78zMDi2DEBfEnvJX_lNmRFQhuxd7rjnLJGzF0KkhvSKkytOPvYrrrXrwBptsxx8Yz8GtEYc69EXfOLFI5Dz1CB-3BmmlJAik9rrC8xSdYj7MosLHszaZf452BtPcLRETLRyHT6YhwF6oeawnWClr9DQqiL-vZa_m5rsHuOqjEkM5Bsm0EdBc1D65YjjFuVyNfNcOYrpSUmrjH1wKQ8OPR8p-b4Ro-avtQcyRIjrUKfaEQ16JrykY5kxnbudawUKt73vmqyu637G1hHZdEnQVO5ppuLdLtS98r5J6kwv5N5CchgGIg4KDInEwM9k9Rx-s28wsw..%26ch%3DAQEAEAABABTYxg5RMAswAijLKrRMDVdqeDTR-aScCJ0.%26v%3D3%26pg%3DWT22BW5BUVAXXMHV3T6T3SYG3Y
+.netflix.com	TRUE	/	FALSE	1799977481	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+22%3A44%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9bc4288f-5668-42b4-bcd1-bc65f3a4d801&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1799977479	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjS3gYfkv955P8DmJ3bqKyoOOgHaZncns.%26dt%3D1768441481315
+
+Follow: https://t.me/hydrax001

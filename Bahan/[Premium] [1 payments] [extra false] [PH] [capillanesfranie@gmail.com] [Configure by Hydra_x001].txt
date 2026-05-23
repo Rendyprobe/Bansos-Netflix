@@ -1,0 +1,19 @@
+
+– Email: capillanesfranie@gmail.com
+– Verified: false
+– Profile: Franie\x5E\x5E
+– Plan: Premium
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****11659) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804559236	nfvdid	BQFmAAEBENfAae-jgQOiGZOa9kzi9ARgKU1WSeBeh-bq2MEEB7kDej5t-aYBK5vjY5rYlSWlMQL4WtLYLzlQu6Tdzp1904kBpzi50EfLun-BTD-ocO1di67xrNLpjQ6W_OpeHwRIrC0fltNZeb3nstM0GIbuKsnV
+.netflix.com	TRUE	/	TRUE	1804867632	NetflixId	ct%3DBgjHlOvcAxK9AyMtQNNxO5e30JjYSvgiqHty0UeDJ5EFVPCxyfJPRKm6cjKqlbdCUpWLFYyS7xhwVmVT2LAm8sL6ydBchrfe2r1miW-lSMPEFaNLI-1S3jS7zc4EmJpKET1mm8gbg87ce2f9miTZaYDQls5FU_q2OfL7q1T6JevpVJavBEsD8v_iIq2oCZqpSqB9cXt1IyDHUEjQOILFXtNej4qhTw_Jz8IaWkIaB-BCgd7X8FJYapeRIz3XAfeH72OMbtdfwNT3MNH0clPyIfJiXtg5tYho28dVu-MCinbuQSyUvVKCvCMvdrNcqlO-bYbuHrWzngtro8Rx5iU_-Yx29wl3FR68ilC0Q-OyRAy1L89DqDEDoJXvVskt9YrRRxXxurCkxFcuBDE9c-b4Lg8smWorkIC-rNFSxqsJppsXDcDxY2YvZOxeod_LIpP0ribexvJVRG866AC23Qq5123ryU_2k-brIUl6q0iCLC7RW0z8wygPW0VkKJg7x5nqAA6QJgks1-fpjywFtgXxe9upzRs3gRkGbH5Ofre1dKacJ7NxQDRMsGnJi5ZCCWGc59C6e3YIKpIMUujJY1anWT0N4UVNNqkYBiIOCgw_uOeJmA7w-3o-HW8.%26ch%3DAQEAEAABABRmZhEO7lnya_qPWw7hm6AwHaGitNJkqxk.%26v%3D3%26pg%3D5SWGXUBIU5BRPET2PU236UMP6I
+.netflix.com	TRUE	/	FALSE	1804867635	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+00%3A07%3A15+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee9d5ed6-06a4-480f-a814-a95c6d9c1383&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773023132166&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804867632	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1JEEWdNzq8ZPditsre7PR99vuml5RiJE.%26dt%3D1773331639076
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	a618c407-feae-4488-b2b2-4c9750ca147c
+.netflix.com	TRUE	/	FALSE	1781107632	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781107632	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

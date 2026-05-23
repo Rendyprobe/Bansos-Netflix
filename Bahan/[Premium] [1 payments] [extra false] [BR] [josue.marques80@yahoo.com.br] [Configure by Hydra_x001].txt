@@ -1,0 +1,23 @@
+
+– Email: josue.marques80@yahoo.com.br
+– Verified: false
+– Profile: Deyvid\x20so\x20ele\x20tem\x20acesso
+– Plan: Premium
+– Next billing: 26 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8747) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802811847	OptanonAlertBoxClosed	2026-02-16T21:04:07.763Z
+.netflix.com	TRUE	/	FALSE	1802811850	nfvdid	BQFmAAEBEIAbM1EUJqX0haFou5Y3Dd9gpK4jy5i5EUMh4e8BeliedXP0WGNdDzsJyLA5Sw3Q5wjLYUIo17Ddia5F_uQQZWdvv_j4C4BIqqGnJ4fcCoVANfaZF_3B_pLMQ044NW0RpMaIE8sRoF6TBabS_SSedrwx
+.netflix.com	TRUE	/	FALSE	1807420293	dsca	customer
+.netflix.com	TRUE	/	TRUE	1805937807	NetflixId	ct%3DBgjHlOvcAxKHBFRXYR2B9GcnZOWsDm9T5jXpQdcksg3yf0SIhXsgJW6rqcGFaEbYc7J-SkAFXMMfZ9zlbEkEp2cnR8D92DwJt6jYmokTw-LmzMmNsrapi3b9s3bmwGTyG-VGcVeYw9wTu1YIOvEb18v4hYAnSGUzWb2eey2vXa4DqcuXBuvnObEcl98MKtmnvH3zHdxquu0IVFwJjtKikf_RzcaJrxetwINx_nlufsIsxSp5AiXBEL6LFXlHJtcolEp22w3KDukaAQ3oiJcs9Oyhz0Y5vMXp75eWDGxmwkRzxQS4Xl4xYJtG7rzYsJANVQhDhAnMSViHSWwBoIhuhO-wjl0Jszwm418c13r209sQP-bfNrd-Acsgmu2S_1EYqUZX-DioQzJZdLR2SEO1jsUZiXtgdcUmPCqy5_FS6D7DtI4aeIqEuV0ffGIevYNmIkZj91EzpmlfvxVsILrgGv0OBMO_k4hFDBOuu1bPkw0LtVy1GFhaAX_7Qwsbg_m46D59N4ewWkhIaMZwzMfNpetRYtqtMvRo0tXlMohX3tntNNLlkF563V4KvWNp_WirHhFqP4Lu2Qimq2dQK_ZtDhs2I6N0Fs173mysm5Mr1Jh5rwhh-5_1FsenZSa_KncYOm4aRE2ljCpwdnaQamifltri3IP4F0pEslTVL-tpOjJcHxdi00Nj5fJ-LjvJr3N8zxgGIg4KDBd1gzGOdwhf51nr-w..%26ch%3DAQEAEAABABS_Mmh-sF_ZsfuW-shyAekLfTQOkIQvN98.%26v%3D3%26pg%3DU5JU4SYMI5GCZLRAPCDCVHARI4
+.netflix.com	TRUE	/	FALSE	1805937808	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+22%3A23%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3b6d682a-1da5-4730-8d67-4abdc8271943&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771275848215&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	TRUE	1805937807	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1un0UrcT2uP7CbmQAwEAr0og_qLvsrZY.%26dt%3D1774401807300
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	ebd87e74-5eeb-498c-97d9-0f620eb5c1dd
+.netflix.com	TRUE	/	FALSE	1782177808	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782177808	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782177808	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,17 @@
+
+– Email: aadityachandel@gmail.com
+– Verified: false
+– Profile: Aaditya
+– Plan: Basic
+– Next billing: 19 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | CC (MASTERCARD 1977) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1801501815	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+13%3A53%3A13+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea6d330d-b94b-43e8-a3bd-d2ba7595dffa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769352672383&AwaitingReconsent=false
+.netflix.com	FALSE	/	TRUE	1801501815	NetflixId	ct%3DBgjHlOvcAxKfA4MKIyXHQRX7SqmNkm6hl5ijep3oTDtDN5zzKaAIe77fP9HciJDARQuFtiDZQLgTh0tx_KL0cSypYD0KJYJjnQOakSOi7LlNedZDzmBwCtQY8a-7w0ZLkbaCwvEIOa9owUISVUcwAlwkoDS1A_ThUIMHEh9plMLlisRbOEp-fUWzSxW77bCpGBySnu1cioBuQDlhYPPSbPpurwzU7ZohZkcGbC4VZATu4koZHGzAythfej3VAfVZD3FbB0Pf19vTcQb0PASiqdw6Ok9KC1eDACKWq5v92NK-2lUhvLbOl3ANGi8fbGQAlJMndO8Q06AdRqHxagPMsVwM89vM8uVVREXa-Z6tho5QrvtH-ovak99_wWZ0mTu9oz0HaUFRvWnQCsg6zscF26RZc_SROQJRZUh-t-LpK6NtXG5-11mmTiJa2C3Ia-dl0D5JKJ8I5GdDj2LTZkARXvZbaYjWsaOOUPh7pxPviV-4DoxKe98UEVPLNYXqG7kJwlgFZ-C9RCOe-Xw2hnm3hr89rbXWe8RpXaZtBmUgJDLzHjF_B0b_vhUYBiIOCgx_twnSB5dtiolH6gs.%26ch%3DAQEAEAABABRIXy3V6xRlB_DdIKu5iIPUCt0zjpCUwXc.%26v%3D3%26pg%3DWXMRA45NW5CV3HWH62BQ2P7KME
+.netflix.com	FALSE	/	FALSE	1800920305	nfvdid	BQFmAAEBEHCbM2NVnvOWp4axJWlmn2JgF0308HvrsljcjEsQlzOWGS2D-6pvvGn5ht1QQgk02S2MUB3nUaBPlNvI7BjARpso5W7BAqZlFmL3VTTHAFXYifh29J1RI9ZRRneh6oA37o8IrflDwXEzM1pd7UbWs9-m
+
+Follow: https://t.me/hydrax001

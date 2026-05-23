@@ -1,0 +1,21 @@
+
+– Email: washingtondosanjosmatos415@gmail.com
+– Verified: false
+– Profile: washington
+– Plan: Standard with ads
+– Next billing: 1 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 2517) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806863185	OptanonAlertBoxClosed	2026-04-04T18:26:25.976Z
+.netflix.com	TRUE	/	FALSE	1806863339	nfvdid	BQFmAAEBEEnStpvmDzCE4y-uw-aK8uxgMQu9ncmrQLZgr8m-72wGygirTbaLEBJj62E0oz7hUq9tIMWCBCVC4hPTIy75T1vPRvnZJVQ-vIK44qfoPuyXpLdxTGWOz7_gtcbiXcKXRIqEfQFoR3F90_u0_-wUBU4T
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1a0ea93b-6231-4f47-b0b4-e013274ed9c7
+.netflix.com	TRUE	/	TRUE	1810261393	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAycDI0tjsM-EbMNdjzbbOARAXOoa-_BqH29_5mpcRV0JYzx_oLOHh8lcgUVyGlxkMSQw0l2fM_5Gh79Tt1x121SQC63Q75Yhf2MjYJQTXOHSwzYjD5IjoQFFL-iaupMJ4HhPZGA-nuPTjKev8lZHqMxyAWey-n4w72lFQmJox6TQMpNd3j06CqrwSmApZF4xFAF1bNx62HQfcldjqa2tOnOUp2xFcGFLvA_0DV7HelLr0psEWLOEqi-FuCrO3CCX7xuzx20N9cxbMXwkt17HIsMTrFDw2YISVtdtLRm2herf3CzIL3AG-p1BknC7y4wIQ1ZezoTqnI8Z7fNONwUXFCa0u9TWlLM5pttLcguZrSiGo1ZMEsGYAdcUvyFmqtnTR2odZEc9IvxiRMG8mOzmWARsSCHfl8EdBKq1L2QZYkFtYXPEvQz-ngr6t8n6lhvCBIYZjukvt9_RH8bz1bZe5oy27RofBCPp_KTG8o0gcwqD6NFtvkzLhLU76vYFneth79wocMVqW_Tp8LBrN13kO7gAPkmoGAYiDgoMadknvSm16Fz8stj8%26pg%3D7FD2XUKXYJHANNLUFA6A5PEYZU%26ch%3DAQEAEAABABRIxTOV2Az10vjbWVhhSzqoHErn9y_459c.
+.netflix.com	TRUE	/	FALSE	1810261394	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+23%3A23%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1732e393-8131-467b-a2b3-f7e63f85b725&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1775327186362&geolocation=BR%3BSP&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810261393	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEJl66Yi-qqB7TU7zQrL3jOu-dMJ4us44.%26dt%3D1778725373749
+.netflix.com	TRUE	/	FALSE	1786501394	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786501394	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786501394	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: adityanugrahaputro12@outlook.co.id
+– Verified: false
+– Profile: cici\x20\x7C\x20ganti\x20nama\x3F\x20denda\x20500k\x21
+– Plan: Premium
+– Next billing: April 26, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********0063) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804403161	nfvdid	BQFmAAEBEBxPHHN54WwC0j8FovKa7ltgao88MgcYkGVUsakqDvX0w_jCLfGSH-DhCNJVqPngJ5pij9XL_Ja6QMwkKLpagJ179knTEFFEnjyQiy9MBhitpyZJqTqnBEplZ1riNcsaIiZsBfpjcEUwuoNupd-cSY6Y
+.netflix.com	TRUE	/	TRUE	1806604149	NetflixId	ct%3DBgjHlOvcAxKYBFl90MZZ_8y-M9r0luAdXBkVHLpoPZIOhKzWrkin_jNMemVFX0EIluXrWW6Tu6ad1i9Oclmp_wzohH-UTF-ckkGpz53IyUOlMNPElMIQdY5MA9UcaKyxACVIQXNGk7fZFUfPhU6flan8NTNjcSPgGfkKQD6bZBzGfQKAKN0D-nINaEfmVxSVmcM_BjNJvzSz0G3DI4nBLPuSeVu_iHEXQtyJV6ZiTLQDr1JUIQ3hId2Vr1AsTt9JvGI6mRng2MvWCYIpBReeOwqjxAi9qGkaqcWEwNEUZq9oFKl_YdvQFkietCvc6HchPY9cuKoGWfB1lnh9Di5rETF6rl7tdMj5O5sQjvHRvuKcO95GGTqqGdlYYoamWgKUB13bjs7iC0CTIWJhtgMSUjY8BIAx4k4lLRnJYbiymRO83vXNQf2oZDgb28mWUlRLP390GtYf8th6AftnlVIEQpMqSqHrGqub51532TUO5mDWd4aHhoHcBFS2ga0ebSo_nq5_xEXZ916q4-9vqYK9c2OWUt9hZxyvAEu4bNGAxQefJBq66j5z3lsSd-Qv_Wp375ra0n92HH56VBcJjx3B4oR17QwXI3jRqViFgZ4c9IspyLfWuxCb93b90ihN7s__QVAy2LYDrFeBCtYzODlTf-m-W6iwK0rL803mrDwEGMz0BVTneo3AppOFuaaZIpEg6Bg2sUGSrkY-lLY3z30tvRoGGAYiDgoM0XfIC5uPbJdZrckq%26ch%3DAQEAEAABABRgITnFxA_VooSOjqD4JLbxJ5TUi2u_CUY.%26v%3D3%26pg%3DKMU3GXGBNNEYJEMMAML4GBV2DE
+.netflix.com	TRUE	/	TRUE	1806604149	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgLN3jGi1CWUBqLqhlsbV2Mwsc0-pehaA.%26dt%3D1775068147741
+.netflix.com	TRUE	/	FALSE	1806604180	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+01%3A29%3A40+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4c9cab0-b6be-49b9-8a2b-a9ff58c89141&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782844179	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782844179	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

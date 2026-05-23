@@ -1,0 +1,23 @@
+
+– Email: losotrros@msn.com
+– Verified: false
+– Profile: Izaskun
+– Plan: Standard with ads
+– Next billing: 18 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (MASTERCARD 1015) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797726352	dsca	customer
+.netflix.com	TRUE	/	FALSE	1804808181	OptanonAlertBoxClosed	2026-03-11T23:36:21.741Z
+.netflix.com	TRUE	/	FALSE	1806938611	nfvdid	BQFmAAEBEDxSSqoBbzgWIOmpDWvLY7RgWZ_uK6UaU607rVhGJc-VxEBZkmeAuAg7yKnBmI29iKxbyN6sb4F47Xk5RHzMqGlwNTJjt0PABv3E3-00I8978Zn-dr2bVlCky9DE76ws_-7F2SJhFe2JSRYASGnN8GNh
+.netflix.com	TRUE	/	TRUE	1808856475	NetflixId	ct%3DBgjHlOvcAxKBBB0dXCpZ7RZfgyEhMGcGz07qWPHcgEavcK38SxaI5-cWo7rgr7_xlW1uXsX_p8e-Fmd4zbbUOSVowgw2kMkP44Z4dDHtP0nHJG5urd6HbtAvqFZUQXcisaNej5dhO7MfuvjlFnUUe_fGc_c5y3yYPgeTo9_GFc4S77iOmAvJSAnviyt4LgWGKNR2UWAXCFoTxdWxIY9P4Vdyqh6g1Wqt_Es0kU0pzzZ6aMBZW5HJAqei2xz2xx9ScEsrESwhlVEeovZHce72TQA9zHK351DG-uLgpbYPJ4pEhBvr0J0MvmTw3KvEtbBqHHsdqky3p2b-VAmqnUX2C8XuPn_47WzEEQLbwEDTvbFZ5PtHtNuOp0_ddr9kwYqcTEQHgw_j-_942DRHoZgwp2OB7lhuMuKFuNxRm5frOYLoFBTRXcVvEx82ztjWLa3c8BcYCLk3md0EmidKQxBh7nPSSPxvSKXyphREpmdKXXm1yD-B-Pvnr9WHp1WUUfp7HXGppbFlEFqT148tEOXEn1JeLzSAwIUdSwCKuAjAeLZze9CsCKv3z32h-CbWa7vx4O8PbBvCZmjioIRsUMre75V1s0wou3vi22dBc0JcacL_STf8q8X_p8wkdBL8tPltOjzFU2jV9WX_PhY0iWVjirTYZS4GaYHvGk681jV-l_YMTYNvUU1Ca_bzuhgGIg4KDKOp6IetjPxJJKlQKw..%26ch%3DAQEAEAABABTfSV5n2RpRCAFNh2P5R96ywn4WCQby1zE.%26v%3D3%26pg%3DQGDUINCKJNDVHCY4EGTG5SNANQ
+.netflix.com	TRUE	/	TRUE	1808856475	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCsUikAsCtUNo-vD-DMXkjUlx0DGJbh94.%26dt%3D1777320473056
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1499e1af-1556-4ced-9bf1-f9908c0373f8
+.netflix.com	TRUE	/	FALSE	1808860374	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+23%3A12%3A54+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7464a054-47e4-4f00-9566-cab3890d6d33&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3B&AwaitingReconsent=false&isAnonUser=1&intType=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785100373	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785100373	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785100373	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

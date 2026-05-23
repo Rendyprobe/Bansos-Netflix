@@ -1,0 +1,20 @@
+
+– Email: amanda_l_e@hotmail.com
+– Verified: false
+– Profile: Kids
+– Plan: Premium
+– Next billing: 26 de mayo de 2026
+– Extra members: true
+– Country: ES
+– Payments: 1 | CC (VISA 6483) - Hydra_x001
+
+.netflix.com	FALSE	/	TRUE	1833475480	NetflixId	ct%3DBgjHlOvcAxLHAytYeEgDL1mGhaiUmXrQhowqJnf4ACqWlEskSWKv4k4TlmmiwQGw30TXW7lbdL3v1g1_c8vu7Fd06rqOy5s1ZYcColId342dYvLfnU1egeQCmlwlsc_zsYEdhSOBUxr_0WHl1Qk2f-RGK5lVaV5cHxk9qTzFGOfKIHx00tTd5dpJnI8eM1_5ujV3hQX-iPkVryk1YxXZDr2CQub7tySWWLjMvkW9pdB273RXGWMkUwLRwfY_T_l6fccKOEPeNxBGZGDpBGIbAvFfvAhR-QUT5fsbud34LMhQfPlzyb7f2nIYDfJYCUNgssqv_uj7dW4rFUzvwzV2FUa-M1jKFgqi9N3kLsNjcxTs9fdPkTyQ7RHlMGES9Ii6OFIUdFLTJ5oVy4VikljbUm7TL9vAm3I-XoxqLElGlJi3DDTtH6q6xg6HYB7Uy1k1VrJeMVwLQNGk88yDgowEPJQEEQdpM1hER7eSQLMzvnu0bP6hhTbLbk5CUaKDzQTlMLLayvTaXXph2LtTPf0NOW-fbZtcMmKN24vwAC4bO1HME2T5I9FNvFPfmuRfkiSZWhGl0mYjXwBt0zBJsijjBc8ViG-kEHAaXLNAZ3NUWFaVGAYiDgoMrFiON7pucbjl9Hry%26ch%3DAQEAEAABABQi9JJyw-eUIqfY6CIbRCDCRtsyfeVUnPM.%26v%3D3%26pg%3DFFAVSLFRXVGTHJAK4LE3UZ67KU
+.netflix.com	FALSE	/	FALSE	1833375677	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+04+2026+16%3A01%3A17+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=336a0746-c0ed-4bf1-883f-46b4bdbce7ad&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3BVC&AwaitingReconsent=false&intType=1
+.netflix.com	FALSE	/	TRUE	1835912154	dsca	true
+.netflix.com	FALSE	/	FALSE	1809715480	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1809715480	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1805052147	OptanonAlertBoxClosed	2025-03-13T19:22:27.709Z
+.netflix.com	FALSE	/	FALSE	1805052141	nfvdid	BQFmAAEBEOR9TvYsWvIearl6QFHN59VguAPxrtUaCPPcOlVAa3Sy9zoJdJywMpXu_cH2x041hXWe4ge4lzJ-rh-HzgF_JaSSBLlPcXRtOwEDULlXvcrJP4iNsl6LGf1k7gnGEnP7fsM3S1FSZnHwpEYWGo_dLFD5
+.netflix.com	FALSE	/	FALSE	1809715480	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: Shobhitchouhan99@gmail.com
+– Verified: false
+– Profile: Shobhit\x20chouhan
+– Plan: Basic
+– Next billing: 10 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( s***@okicici) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796816295	nfvdid	BQFmAAEBEN1kFMsAii8j-tUgu06wZHZgezedniqwlgLk_NIP7y91rs-NrGHDaZRKw8wVjS8llCCXc57toqm7D9xj5jgCY3wu7aESI84GkbklA3cTtmY3Zln36_NpHaPFERSr-Km_y7gUt8TyTEOev-TSZffJUTl_
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	1cf5ec79-7013-4d9f-a673-d739412cd687
+.netflix.com	TRUE	/	TRUE	1807780715	NetflixId	ct%3DBgjHlOvcAxKNBPzJEDu1CNjJi_GGqEDpR7FoPQNEkh2-add02UNb2XqE7BgP_PXeniVNzNfu_lJ34DONG18nkr50RuoM8gJQTVLEoWK_NO5Yyc_yW5_Oxm4d5sunV5_yMUoDRPwyqdcHDH2KLvj_pbnkbvv1Fa2ftpN-CIz1e52ZIfD6eKDfIBvplVwLkvt34hvdF2LXslAwjb146jSeL6myQn42jZ-wIMv6eSSeo6TOhCaDQiUZjRnbZV4wOk8M4gXlO00DxczQuifIacYgBL4EOg6_-BUpZ3mBKHrDUsDmwzEpXJOG8WwetN32SBCuRnJWBDfIn7hQSir8cW-UHkZKp1ROCcc9jWAnfV61X21tJR2gcZ9KXc_JoW1I7z14vKJJ7MrPVw-eQFCQpOpVkrAxeCw6r5M0LKYxkFqh2BnDFP14L2VGdWB0Qlx00celYoh2rg7IA540eg91P4ixv6dIUro0JEtRnNVV8FgdjxE4-QO6p0PtWaOrrF8dfREvUUgsvCeT_UY5LVoP0HvXgaHBZP9I7aJpqQKS0lJsMOL9qHVdkPoR_szTIUgxS9afHz2L5NZX9cJqCbr10t18TetiVaZbn5c-aeOPNKlSobVogNk0IyAsK-dDjgMfOlomd3aHKrlS5SqueKAwnxDNs-Wcbgsr3yBJDXzINjpcOVkpwA7usxqUyxEURug5OBd9q12MYgRsNRgGIg4KDCe2Qw64B6B0KruJSw..%26ch%3DAQEAEAABABSJqJJcYjIDV2OX-FI-9CMOq0vR1L8Zg60.%26v%3D3%26pg%3D7LGGFZVBUFHNFMGA732KBBNIZ4
+.netflix.com	TRUE	/	FALSE	1807780716	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+14%3A48%3A36+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff37d8ea-f70e-4c5f-b7ee-b937349d8641&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807780715	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRBqrZU_EP0Bt1YZS-9H_5OmGOCxsIOp34.%26dt%3D1776244713559
+.netflix.com	TRUE	/	FALSE	1784020716	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784020716	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784020716	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

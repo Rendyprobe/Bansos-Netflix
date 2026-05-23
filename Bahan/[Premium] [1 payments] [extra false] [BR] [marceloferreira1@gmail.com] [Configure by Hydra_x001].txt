@@ -1,0 +1,21 @@
+
+– Email: marceloferreira1@gmail.com
+– Verified: false
+– Profile: Marcelo
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1781798731	nfvdid	BQFmAAEBEIAwVTkx1nUsVtFG6g1a6MVghzoLM4NnRKf-Cdllobq_JZlMaDdSDyIG6BI6SIYFEvCvvMyB4lm6fdk60Dxvfcfb4gVsusFUhv8tgLLB3aHae2jq--HV2L2XNg5fp60MpyHRnrWuMAKUiqtMBqBeItvG
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	FALSE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKBBHdM19WAAjCUMPqiLJ3PKY_0FRjVUUb6gBcY6x1r3LW3khLR9BdiNinYqhHvxYXFBbkrP6ZE_AQEUUS7fBiTAWT2ktOLAxgR0ZpICyxnix7E5Imh3z_YeQP-luDXbl7LZehCiOhdzifIYMsLd9fHdjtYVZHAr0L4qOJXD4jivhOd3WxwUQtY7dnJRGwFBrfg5SncCJeeyxK3oaJbwpYXJzTts_QaUZZvRIUJDZlLkWaxfL32ua-PGOfnEOv6riDOg6cfN-RDrq6YeTFKIfmCGJwmYiLyESGBKfoZXOaEruK5CMRR2b18z2MG8t6Wb9vCM9t2psa2Y0KJJ9s8m5kj5GqNp34-k6ghmRJRb-V9oSzuKoMzGxKnVYw4ta2PCeLmh_Bz4p-iygUkOTY-5OjZWVawKqGusvDViEFC7Mj1fQ3MPRJpqlMnoHQuE5U8Vt-fR71yGXJccYiSmUO9mPqtE5n7jYLLMA4n512J3QCup53q8kkQAgFfPy0lvTJHnlZxMYdluzvTaZzzoCqFErbx86KloaichcwBHBe3_dpr1hevRU5l9um7xxpGwmXPHw07quzq25aQqqTsuYzTIMHCjtqFH89RaJrDQTS1bWVeL8iwV98X58ZRNlZp8NwBh-kbig5RoqcUikJzo2sxyybj-mgDcvjnJcF993VJqOXTrwhOMxgGIg4KDD7qQpF6x1qke0c_FQ..%26ch%3DAQEAEAABABT5AvGazbZ32ZQ2BwrjyamI7QXWWMZKbUw.%26v%3D3%26pg%3DMLSOIDPNIJEP5G7QSOV5DGW63E
+.netflix.com	FALSE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQQsn56qkmWTgHiOiBOL7Sk9rQ6EI5O8w.%26dt%3D1778500227005
+.netflix.com	FALSE	/	TRUE	1781798731	gsid	1a82e559-c149-41bb-a706-f66a67902a63
+.netflix.com	FALSE	/	TRUE	1781798731	dsca	true
+.netflix.com	FALSE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

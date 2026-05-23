@@ -1,0 +1,21 @@
+
+– Email: gabriellayasminebarbosa@gmail.com
+– Verified: false
+– Profile: Lohan
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792787540	OptanonAlertBoxClosed	2025-10-23T20:32:20.942Z
+.netflix.com	TRUE	/	FALSE	1792787548	nfvdid	BQFmAAEBEHMw_D-Q_-wiUL0T1gRwuTZgpndEJwocITRQcIjbAiG93D1mDuOKIOdoswrSlt3DOw8nUy2vKUQpHvttXL3BX2IOJtQIYdjpiAfkFvr0-fmLhlLlAoeGNjDb2SiEDpMv8u2PDC_Iw39FtCcjCZUvDB1L
+.netflix.com	TRUE	/	FALSE	1796009356	dsca	customer
+.netflix.com	TRUE	/	FALSE	1801270054	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+21%3A47%3A34+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eac15bb3-4855-421d-b785-91fd1a2f2f8a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807119450	NetflixId	ct%3DBgjHlOvcAxL_A214qy7HW2LO0jdqQH8PGzBuRauxr1tJDSNuUzJwwiGiKrTrujfhH8UyzeRCoCfjj0F3z3VkdTAhijPhUaP8h4TRTUUQOLnjW4bO0LLcVn0nAOt8ZDyXijY6iJ83S732EvD2d4-ElOASXTv0NgmIMtDRdXolz6i7wK3jpN7zXJ9OC771Ql8e72L69nS1zOr-fjjvgsoEnPNZT1iAX_jyuuiRDqkzGfv87hIcQWvCM0bOK8UsNRIRP0-xsxLmO8a3VqwjKzIIMX3I4dWBdK33yqgN8y6dzOGn1LJ2-AIGuk7o0ksk0OO0w48JHvDJ5_Vl-km4gqoS57UkjFx9nVfacRnrss4vsUVJQbfIHqpwGkgBFCTbRSqJVntHLRh5jL3m4p6T4HBkC8Az9gePxa19Zpn8rnU1riGfpgxI4rFNXZHyWYKj_dHreP62dWCo7eSCHQ5Doc22pXha8U6i9OxB-WaDtiHu4jFhpvLa__GMF4ENkIWn8HnqqlieIVvWROBzXcplOrHOzru2NRzPUj92MCD2qjXu6J2xo8WnyoYBu-zifUyL3EkXtc6e5Gwap0YR3TM03TA8q9q0o4AbU9ASj6G-us6EELt_KZiSZlyFpVgSbrWPGczXUL00Tg2gVKcfHOUFLx8QYuLZLu0mR47EjHgRqmbSH-wiv6kUMmV76OAYBiIOCgydoBa7Q7qDzDfOPgA.%26ch%3DAQEAEAABABSerfxoxghKZauLyMKnC6Rc1Wig-fkxXT0.%26v%3D3%26pg%3DQEM5ZMPTSJG37IIXHP3RUDVRWY
+.netflix.com	TRUE	/	TRUE	1807119450	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfPcwkIxxqtwxCYZ2NqU8e0qB2cTE0G4Q.%26dt%3D1775583451262
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	3cca451b-6416-4706-acce-6413d60e5615
+.netflix.com	TRUE	/	FALSE	1783375096	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783375096	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

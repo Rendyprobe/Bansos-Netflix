@@ -1,0 +1,21 @@
+
+– Email: jmfbalaguer@gmail.com
+– Verified: false
+– Profile: JEAN\x20MI
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | FREE_ILIAD_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1793111188	OptanonAlertBoxClosed	2025-10-27T14:26:28.196Z
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	f26d19bb-cef4-47f0-9af3-2fe06962bac1
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0dc0fb68-2b02-402d-bf7e-f6f4e6ccbb32
+.netflix.com	TRUE	/	TRUE	1793111228	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA0cW0q29W5Mvsy-a3yRcTaEjo61l4CfKwuIWjsIp1Y0PR6kqfH4CyicR5RPdvLsCmcrleOMAKAGNA4sN0TL8_VFcOGtGyKbZDNRLFgvoM_rzEEHl_fUGTRnJb039biGNMUaQtcqWSSnxHpCfonurEaGYquzbs3ZWTO0QiO39MD8xQ4tznTCDAj7CaMX99tSUFvjY0daKtE-QBvLRhMUSheigU36HAq6bAoepVIRW4z6rNWjxbnp8baaUz4iShYT4L-4zXDk7nOb7TpgbZTT6OrsnLJyOoXSB54zJ-ktzHG67HLPoXvxOA4jAR2iwA646o8kq6Qff-1HDaZqlW0n1vPjeq0-PdlBT1aURqKUDzWr-6Nfk1Qwkznw7mVho01ejqVj4uYr91OOlReuCmrVrNhdV9ypsk66P8P-4IQv5G9CGBWGBAZsXv9lXNrhJi2av1NEQNqzLJlqMshZ89z-NMWDhB4FfGtO0bDKzhRMqmSNaBGb8E6D3tDWlcJkprcrUZL4-6ztEX_9bgBgGIg4KDNIECxhYiM9oZgRYyw..%26pg%3DVWI7VSPQONHCXBAKPL2AB74GGM%26ch%3DAQEAEAABABTIeukDHIyVbPj-dUaRLehw9GHMBPG0gRs.
+.netflix.com	TRUE	/	FALSE	1793111228	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+27+2025+15%3A27%3A08+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=85ffcaec-4114-45a6-9a36-dcb09f2282e2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BARA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793111228	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5Tqi-ptf953alHI0S62gmC2ykgOIvG5o.%26dt%3D1761575241211
+.netflix.com	TRUE	/	TRUE	1796135228	dsca	true
+.netflix.com	TRUE	/	FALSE	1793111228	nfvdid	BQFmAAEBEGqOcFPTPp_NPLtvjQEOIQ1gBMAWoQ6uTr0GQcr0HWG_Om60LuuqvffFBoflivPCrCSxOMT4ueNqlaJMoaVm-I7x0vstDbciMgehEqSJ3Vfo7o-6JfwUvH_fyjCQ-f9jbkMa18VJMN4_ed48VKR_XlgA
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

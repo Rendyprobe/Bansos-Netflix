@@ -1,0 +1,18 @@
+
+– Email: auroramarsya3@gmail.com
+– Verified: false
+– Profile: Arjuna
+– Plan: Basic
+– Next billing: 27 April 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********3969) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEMIRrvKhmLUWxqBTF6l5xfZgcSOAPr1VAptB6seHM2NCMN3QAebUgEMrLaJFlteOkNK6LLC0owCw-0CLbBJ0l0xw3KsqH6mDtFbw3r5X4xQ7yLWmpIasGCoYyslwTclHOJc6fP6nPlQA1Tfa-bzrp7Bz
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLlA0sFIwb04dbFfuI6Oj0igN-ks28tj5468PfB625wcgpfDYIOhoYcfDH-VPZcPxpLjlzusPmui57797qZiN-tmP5yDXLRPTiJIJmGKB-JOWt8VLBqgyEgvxfjhw7BVkwM6hRE-6D6vINp8kQ6BmAvuiEg8hWl_zsXUjlsJepqexs0U0bi6vVdZ23P2mmvURfHoEhVyALSO8D1OYAkQB-ZUyy8c63tlu9eoaSDV8xtDvHQvT4V4xb7o9VVWkGpxq8crrrnMhHWMkaDmK3A9KQQjnt4Cr5Hq-vDmQjTcxDhe4-nq67uM6kr60njhTWonY4R0JvomuBl45fz18X7xpjPsLEjHctWwvPLFFvqWZO7zhI0MsFKjRFHFk2liA-S3q_7P5OEaQbj0CaCaQQFX0AUIstetbjBMROjCuV7u9NocxqD3ZXbfZs5HVUhTeBQjPxCT8e8MERZRme7nk9jhKgGIosxZGxyCKU8lhm2HyEO66o3bVxUcJPSlrBUnKoFxHbDbDweGOI_Om9szAc-K_HOU8X4QIpx4okquDtj2EyRlsM00jZ2NxLTNjY5In8I5pw7f1Si5Ras0NQ5rn2t16IuEJeXkY9r06vjRyLMDpEj8xm0G8Ol2FRjH0jGNwDgNLoKd_7H4sbAGAYiDgoM7hZMK5D1-sg9-tAD%26ch%3DAQEAEAABABTdqIMktVU2ZKT8GUtSw2LIFdki9xus-tA.%26v%3D3%26pg%3DGIRMVTAPDVAHNGRDQFSEYH4CKM
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+15%3A16%3A57+GMT%2B0700+(Western+Indonesia+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=307d09ef-9681-461e-919c-fb30dfcd71ba&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSjiZ1Ply9fiMk_SWelClR-wc7iToNhoU.%26dt%3D1770711415836
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

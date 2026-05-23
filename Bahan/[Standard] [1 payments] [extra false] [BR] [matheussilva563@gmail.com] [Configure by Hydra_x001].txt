@@ -1,0 +1,20 @@
+
+– Email: matheussilva563@gmail.com
+– Verified: false
+– Profile: …
+– Plan: Standard
+– Next billing: 9 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 2323) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1806884089	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AmhGPxqycQYVUJQM96uPSM8zQTShsPFVrgiFFQB0vs3IdxKgYmjRrzRPoKQRnw_ab7Wka4SNHsX73seYzao95FxA4zCRdZxRJoZkQ0bge52hbMB5lrpKeYYHSn_3fAmtJa4UKW2BmZoi8eNAR1DZXMSu0bpxZM3D-X0A5bVK6Q2pW0mqXsqr1DvHyZISnGsfH9c0WOMYoPGeWvZ2XgXWui_bhQd6F5lAWGv29p0laW7OW1pVkm5FFyfycpp123yAB5QM6UeYqi9HSdmAr9YXdQg9a0LMM61m_gwOxsL0bNdk6Hv-_v--bg-F_kDiLhcWR2V2ECh9ooldhqC6F8AYz91mwXP9fnJUKVYarvpbH7g1-mk1pKFgPwAJYCbb1X2DI_cgliKHUJ7EdPNzf3UeRn8zvAxkXJx-quu4q5aYhr2mzgipJqOPHvPM106_yx8GsaK3WC4lbvSq9YBm7GY0kJe7FFP2trKeeBhY609SlOiTSHR4vVMYBiIOCgxWBnnXswIIHdk4C0Q.%26pg%3DY5G6DYNY7FFPDOKKYWGY6APZGA%26ch%3DAQEAEAABABSArY-QJWtHopLzApaaaJi5VyMad0Z93ew.
+.netflix.com	TRUE	/	FALSE	1806884078	OptanonAlertBoxClosed	2026-04-05T00:14:38.861Z
+.netflix.com	TRUE	/	FALSE	1806884091	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+21%3A14%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=846d2293-42e8-426d-ad00-2f10c4129432&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1775348035209&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1806884089	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRyHibaJ1Z2sACxaV9vDkVW5SGqJrDXLTo.%26dt%3D1775348090049
+.netflix.com	TRUE	/	TRUE	1809908083	dsca	true
+.netflix.com	TRUE	/	FALSE	1783124090	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783124090	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806884083	nfvdid	BQFmAAEBEMLJPf9DCMc_3b-vCmGhLblgs3vyzMybpH8jxzdGwUqEHgRPemNN7jMIxOsOXlKbNQkmjDRz9DrfReixWU6lOBU1aldDuBkNdf0BSoOZauh8DL-VxVYZXtRAxT0WIyy3XU33NxJp30nkyzy1Zc7oZiTf
+
+Follow: https://t.me/hydrax001

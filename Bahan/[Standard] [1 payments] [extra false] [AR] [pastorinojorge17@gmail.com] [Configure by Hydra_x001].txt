@@ -1,0 +1,19 @@
+
+– Email: pastorinojorge17@gmail.com
+– Verified: false
+– Profile: Batita
+– Plan: Standard
+– Next billing: 5 de junio de 2026
+– Extra members: false
+– Country: AR
+– Payments: 1 | CC (MASTERCARD 7414) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789273151	nfvdid	BQFmAAEBENqYYWktOVMahEFAH6JxIzpg5pyyoz2EVHn0JUQjcmt0Rq1QxoXVpwNad8E9yZ5Sd58l_Mxa4wYLPDeeXDg6O2lhy04jD6SgQdNxO14Qi1EERx9XqJvOY9fTD21blAQf25KJMp8MQjl2TWw_15j4svU_
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	561b3303-0aad-4d20-9d61-414f15b3aae9
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	b473e217-815b-43b1-b1c8-71b09667a482
+.netflix.com	TRUE	/	TRUE	1802388715	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Ap4VkRtbdhmO_WFTeyeEuD94yUrNthSs1nuKdVvSei1NoeSdRi1A5VA4wPxQNp7cSs1QZiESqPVPlN33ICun7eXQF58X3h_cMZEUIKkxAXUlXx08L1v5LqhDyxe-vaVo37oT-B_ZHEVU3TzmNZW1oVajVuAmyr22pjMZlwwAp_Pde7qUhP_nFgM9-yyGdwg1xN_z8IUOURvk2BkZGlL2gw4a-PRrW0NlhNgs_s51hHgFJSkUB5kC3NcbJKCRKWIIMrypRGy5H1svZENQczZmAmYMhZgto9jwFWaLab-Z-aoC_pLd_8_Vp6j5r5ACN1GwJpJRD1NcHaVcSaEEZfMts_kja9UBWmB2e7zAHniZjUFFvwZCk-MDjvYKkkmP_bhkqPLvbgyHOzDOrYPsKRR3dkUQc4FWODDjaTLh1i0Xhi072q7Wzx2Yv0ojgLpk4DXBIRVugi2QNE6UzanBdQCf_40mpkgyMZqdlATYfnS1KwlA84mKkoIuep5zATNKZgKtGAYiDgoMrkhPklXplek52hCd%26pg%3DS23MCOVWLBHJXODDHLOPF3TZPQ%26ch%3DAQEAEAABABTtR859e-IWqEIvyGWP1iBTYK4JN1cMPV0.
+.netflix.com	TRUE	/	TRUE	1802388715	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLoiOWRrKuEW1BkmT0VZKZw3XgY1wp0iY.%26dt%3D1770852716118
+.netflix.com	TRUE	/	FALSE	1802388716	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+11+2026+20%3A31%3A56+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8cbc23f9-e2d8-4640-9ca0-8c3836f6f966&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: armaganncan@gmail.com
+– Verified: false
+– Profile: Armağan\x20Can
+– Plan: Premium
+– Next billing: 5 Haziran 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 0013) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801943297	OptanonAlertBoxClosed	2026-02-06T19:48:17.193Z
+.netflix.com	TRUE	/	TRUE	1801943319	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKOA5CTGy5HezDgaZC-NIMqPGJ-vmx_8vLcznSuWcNGfF_U6JUitpF5plsqK64bhNLDHCBpBgsTLBdGSESIYQL4cej-3-ZPTVdLx1b3ViobeKsMwBj9rFv9dCYu83tn-0hWwMlqjlWWtKFEzObcGxKPl1-U6Tg9un8O_pd49lA1yoD4aUsWCJdzsiJdjCdH3L6YVWnnChaqU3M-6mrJfmO14_2lbEdKJJLQ5ndigV-QRIvuZbGOWxekVXf_zyRoERTSnJxi8JXpv6c9G6r8KpGjrPKsLpMZHmtimuaU1kOWeN6xvi_M6qJa1Qgk831fuD-4WO_6eDTNnhTv5pzzDvQDLQTLDGMoT1kGUepz_959gOh_9yT52RLLLbhygG1Er59xVTguB9tSWFp_Rd0gFRPFGxoJZNfjdbaj0GBddGST1djXMGyrTcjDYooP5IEX3BNvpdMn1o1tKr01N7gR0GKyei-AixShf44qWMBue4Tj9F5Fw_j6NiJMkYI0zzujFXj8ZAEcI9Rfqs5Q0JIZjX1oGAYiDgoMv5G_LFCs6ROvlKLO%26pg%3DZLNSG66665HMJJEPC3EPFWSNSA%26ch%3DAQEAEAABABQFVZ5LV1raY-lsd1a5_Phx5jeNsS7RbTw.
+.netflix.com	TRUE	/	FALSE	1801943319	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+22%3A48%3A39+GMT%2B0300+(GMT%2B03%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f3f6d91-1f6d-45ea-b191-8c599623cbfa&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1770407297594&AwaitingReconsent=false&intType=3&geolocation=TR%3B16
+.netflix.com	TRUE	/	TRUE	1801943319	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbOwQr0fWnlgdJ_hsga44gL6wJjZFgQak.%26dt%3D1770407319896
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801943319	nfvdid	BQFmAAEBEDmTgCiQmAZrAGm2b8qrF4lgV95x-OMwyXldzFrJU2ZBxJjQ_jjQdkRmFxBtk_Vg6unQAfjgdFJgPoIw_0dEWgVNqvHxZ_tgSGRX4AZmONBBudQHjeymT3BCmXUmeO0HD9BgsCzp_zXNKo2rzuSIeBIX
+
+Follow: https://t.me/hydrax001

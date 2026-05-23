@@ -1,0 +1,19 @@
+
+– Email: debortolijucianet@gmail.com
+– Verified: false
+– Profile: Marcos
+– Plan: Premium
+– Next billing: 19 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0159) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795826070	nfvdid	BQFmAAEBEJMfM_knqj0KmPLAmGomMFpgTmhSyHJtqH7ESBZMc4duPv-61TYgUv_RVaXN4fkYeDg9O8ru_G_qBeRpH7c6Qodo3m2QLxUa0subk2VMPDpVICiyjYbKh7EnroQ8p4rUa_8rNPKkawn_fsQZC1bllR5i
+.netflix.com	TRUE	/	TRUE	1807831587	NetflixId	ct%3DBgjHlOvcAxKEBNCp0CsY7cFX88-qg0QU7-Nam6cGkT_2mhyWh39pAqacOcw3kSJa1FOVgYChftbgSak1f2lS23rIvvOmTmTDnEKd0ZX1TGrYIbzTQHFZDt6kygrQ87vn7TmFiCEvRT9i0Nkx3hCWKXFnmZHi0wPqJUzYPyo0A4r8MZ-frscRu0q0Cl4iG_xHlBBwN7rrc1Icj4_ZuI7FOFANLsWcW3e9Ua-mfCNGVI6D5HbjbvGcGnJBc31vHlzq0Q6Rx1XZMBPCrdA6vruwCLQSU2rl_b6KxM9Fq0qUNRA4Bqv8g_U_DtyJl51g2efSM3tsJr8KVFs7Ga57Nd0lDW6oBNfWIdy4Xp0uBWNpdG_ZTzUDmiOjwlkHJYDJgMsc3gRHtmVa9w5naLD9_m0lD4UmgLu0OiaEHP8Je8CZfA0cALqpvied5c96xEAjPO1MJh8nxIziuDiMtfX_qMoxLLULyl9YdvG0a2q4H7pvh6-I7lOHzPTwRStOyDPI5VptC2nNGFxVio_NvAgxec54rSIQelA05vM5HkYx7DdOox0MohDvmuVJ2Qn9xSUW6z4KQZaXYb91J-icteW5IPr5d2JR5V-WRnE8StYza_QjgSkeO5bVXycGeeJC2aaOqZ-wBdPIePBaUkd7dJbrK8yqMKmKedwr93m5JeDRJ5KhK2Byx-lWj-GWew59G2We6hgGIg4KDLf_Nnp0oJEqdOmDEA..%26ch%3DAQEAEAABABStCJb3UkQi2EYNJmx1oDmHOJ-i6aeHeoU.%26v%3D3%26pg%3D6G763SFVHVE6PIO5ARU2MBR7AA
+.netflix.com	TRUE	/	FALSE	1807831590	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+20%3A26%3A30+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+do+Paraguai)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c5363be9-0bcd-4c17-8028-e27fc88dcdef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807831587	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNwcwnpnxltNakgkFrdQRhK7h0lPBcHms.%26dt%3D1776295587269
+.netflix.com	TRUE	/	FALSE	1784071589	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784071589	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784071589	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

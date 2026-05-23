@@ -1,0 +1,20 @@
+
+– Email: annadyh250@gmail.com
+– Verified: false
+– Profile: Dyhana
+– Plan: Standard with ads
+– Next billing: 8 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8613) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	63a7b2f0-886b-4218-8b83-792e453c7e51
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	cb849bff-7f99-448f-b2a9-3511ea12f903
+.netflix.com	TRUE	/	FALSE	1789396830	OptanonAlertBoxClosed	2025-09-14T14:40:30.242Z
+.netflix.com	TRUE	/	FALSE	1789396853	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+14+2025+11%3A40%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=676f2d9b-ef4d-4d9d-8695-01d777ab1ff2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1789396851	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT830pD6FZ1Dmq3zm3UTTiAxmj7mTPWmpY.%26dt%3D1757860851753
+.netflix.com	TRUE	/	TRUE	1789396851	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AtrE4_Wm1wNb9CA4J78xkLytx4ZSxHZone7jM_4uaK1rm4O-onOOc5HLHzuthqCwGvv3z8VDKI4d-Gmx4gXKU7sdejNucGf60Y-iO0NhMq3UJRniTzBr8RS_kItUYp12kX89VBtC0hYdeXVn_RdRW3N1ibOTo7N6E0tSxU-x2NBFo3Q7VGS0jck-Jl8Qd-S9QfEUPBY_NLbbwNQ8J4ZxN0kRp5bHBzBf3odp62j-Ve9S9xyQ2QHnq85CZ1C1suJB98U8WjUvSJvuR-GdRwTrMDn45bY1CQEgyaiIEp01qOgEUmKdQurgEtwyWiKFjfsmhMEx8ZeVJzQkaGm-VLWjXxK-W7uagl8MXWTaehIHGji_WKgp0rJLDUYjIyRivPRDnebwC6fu0QiDL89p2zcLA7FBt8wf51ghVLDBF6ImPGWm0ANlmtK-KEXQ4e7iYafEm2hymdlRVPHfCcrshsm4LhK2bNfNPKEIbeVde-6ciWJmrKgrmK9AL4FcFH7i3osGGAYiDgoMX1iImOtRpOIAWqxp%26pg%3DB2BDAZIBBFFJDFFVMVPI6PXFMA%26ch%3DAQEAEAABABQfmDeFkaEqX3BdJzzLtQHQ-c03El452Po.
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789396851	nfvdid	BQFmAAEBEFOwHfunxM9_yLUf5GyQ94pghhT2LsU1n6c012oc-6xYmhEW14NxRsMr2KAwi3TI_jhd1V6V8kbBGIxvkyTF1GaIKmb8KWqOFPxjH-6bauy9MXihd5P-SoLZxyPkAr3LkJTe5GOicUalgyBStPH-FC9b
+
+Follow: https://t.me/hydrax001

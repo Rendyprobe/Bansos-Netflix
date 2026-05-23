@@ -1,0 +1,18 @@
+
+– Email: jayadeviroshanapple1234@gmail.com
+– Verified: false
+– Profile: rose
+– Plan: Premium
+– Next billing: 5 tháng 6, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 5528) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797036618	nfvdid	BQFmAAEBEOADunGEQ_xlgh499VBHRhJgPV_qc6rWa6qXaibTTL0vQhnmZiOJTgY7jw042aeruU-hODtEOzwIiMiWUQByxZukACcYTJxl7FV9yXrdzYZaDyAPKARCTCd09uXK5PVakg2TwR9CBSzlULlvKUaOV0E0
+.netflix.com	TRUE	/	TRUE	1800999405	NetflixId	ct%3DBgjHlOvcAxLlA_TscrW5Pvr_oMs6i-q31VDob-Q_tWxUAltm-nhGAReS1EcErEagrFa4dc7c-LLHmJzyfqpgGfZObOlltO3jWiLm_UX2oUaKD5ns_ZvV3qhae1R2x0xaf_PCpOkZp6NfBFXT4W9VBN15XzYMf0yKxFNaSQrScidRwGY7wvnkHgHUpxm3c7j35D9uEMii_KaHrdK31Wt0Y90t64IpQS3x8egKlmwEHJv3sTk4CAiqEh51vRwSWxIsdoSaYgsH6jxPeib169snsNJVai29Eg_RweLmGRxydhPy9yJffX8icu1uCLy-61iohPYgtbFWGK0kPeivr_HE_YPIqjnyrt7HCV0wGuqkSN6V4qKeULZ089SkuXBCApWSaAwI6OFMS_CYIJMVlJLUxqHQ7SICQZu0pIJ45poj31bpeyZS7veXC2P9sPSISP1fcDuH5zXYmyKzZbqyC-sGbhKuQQZ491TNIfphNdVSI3REINXasuKWW5yL9HVevx7jjv4JgYyabJUwR7KY3BP0KC0FPfxNvL9NyxWBOIItQHBKa4y9HrTBJWnZRU0oQi4wv5JH_7WZc7_juZzulY7y6udYu-XSJVLrdPUVsw9JqmWnn07zTP5BLD-b9nLud2RBYg2Rw8J7t9aflQIhohorGAYiDgoMSj6rkrirgf8MwcDf%26ch%3DAQEAEAABABSIfzVukhP_fXNeTx4lraZuHGzudCK3S3I.%26v%3D3%26pg%3DIFBCTWGRQZF4PBDIZFW6EFTHQI
+.netflix.com	TRUE	/	FALSE	1800999409	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+16%3A36%3A49+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e31ca517-922c-435c-b49a-55f1b32e6e9b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800999405	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdO1gZGT786GUwBSArZ2P4DiTgix5PCeY.%26dt%3D1769463402020
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

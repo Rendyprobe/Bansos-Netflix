@@ -1,0 +1,18 @@
+
+– Email: mariguzfu@hotmail.com
+– Verified: false
+– Profile: Jonathan
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791676473	OptanonAlertBoxClosed	2025-10-10T23:54:33.763Z
+.netflix.com	TRUE	/	FALSE	1791676660	nfvdid	BQFmAAEBENgozeVvZlRvSoXK5HAqbVNgy-jKSd30K1gCz6UwfHxAvAEMBjFrgyjCWsepXZ_HFdgrfB7jx1ooActzlWPz51SkipHVEYPa18dQ-yS1ts7t9PXlIWCojlX9rE9rnHGK9b_2EDqMM77ElofMzWCGtDxy
+.netflix.com	TRUE	/	TRUE	1792110133	NetflixId	ct%3DBgjHlOvcAxLpA27YWbxJvWqkB0tBBXOVvY6mLDd6rxVDZ0MbpFbkwo0WIamAYlFV0vp4dIudcSbTW0bJL4V4wcXz_183jiswVESKaGe2VS2jcEAxQ2lhT9QY-1O4AR44jcMsC-Uy62LpoIGQhPD-QJKp8FEPwb3Qx7Qqem6ofImlNcjEfE2vUaLmeZeH0AVGgzu3wFlr82AVTBtuQNOAvdhmzT-zH8LTw90EhOjQRBteGhRl0oATDjSEGM0ZEQEaB0lqijQ1hqTQgP9PdLa_JQetGpFcexdzvAHFksGqY0zin7acOpuqUiWV-KN6BEuG5TwG5NrGBKhD4eUnz-BHQkHkGFGkKvM_egVzPyQvpcD4X-KEDQugbCuepBK8v6EaewKXNj7VJxJqR122ZTdfmvKHbSWws-aYGfyfeLqzaY3vgW4J-MwzPcLk5eBgmxM9-X6yNqLP7NMA-EGtHCnGQEj1Iu-IcCJtcVYue5xoxv6ow5r46enR4ZKMMGjGS0NPrkeIBIzW-aS61FYmPd1r92a0wjduG3JuCTm5hztqr2FQHka8GqPNU3CyMOJWsnCwD1xZ1F00wFfOFbHcQABEQPJeglXgRZLXIBf1RP1cjHVOlHJLVHYDFJ3WXCAQWOfOjhxxo7tJEYj_vKymFyhz4-4L4hgGIg4KDIMj7jasi3dfmQTQBQ..%26ch%3DAQEAEAABABTEJJBlF3RI-aY97r2EEIsnLc-Rqdzbus0.%26v%3D3%26pg%3DDTFIH5LERRCINEP7AZPU7BWXIU
+.netflix.com	TRUE	/	FALSE	1792110137	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+15+2025+18%3A22%3A17+GMT-0600+(GMT-06%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e52334ff-c268-4c84-ad51-5bbe961883cf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BTAB
+.netflix.com	TRUE	/	TRUE	1792110133	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ--8-tgHqvZagS45kbe1WMhcPPfNFTVDw.%26dt%3D1760574132538
+.netflix.com	TRUE	/	FALSE	1795134137	dsca	customer
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,16 @@
+
+– Email: roshawndareid13@gmail.com
+– Verified: false
+– Profile: Movies
+– Plan: Standard with ads
+– Next billing: June 17, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 0430) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBECVToLV3tazJTsAPU-U8VrJg7WvgVxA865OZaWYGeV1jZ4TWtjqskyVU29lWD_d3U-MpN_mek4jS7HcxbJmFYhAPmeq32hEiGuw_0ejR4vC6E3EwJkYj-1Gz-YzAPo4UwRltojuquMyNgdTfr3KBkHWa
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AoMTmOioz9UmzBtEqEfI5iYLfIsnZeaB4NunBlGRkAEDeJlcDig1Gjt0YSRroPv9xtjmnJgp_lh48snYbSvV6yZaEUwuZ-2PJYFMCNkUkVbwOsxv0chOdxoNcQzazXv8H1ydly-uCYC90yBgYiob0Zstky5MTspY04hrMi4gIay_7Y7ySLIrgam2CQaXgsqV9B677wZ5TYwB906ElJ06Egu4ryhAYHi-ZWZdVcTkxLxszfX_OGDFS3gnsIXjV29EZ-LKJETnPkWCbj089I2P1GES4_yMiTAJUIsC7nh2Ibnf7o4JdqFb6sy06UGYVGGp4MzeSGCaJcH5-9RG7Skmlb_oNAiHGFvD3OSNXjwgvEHbctk5yjmTiCNAyeGK1JF9yga5P3e4VuNznVhkJSOHSliGpYhCkF-s85hGHEmccov8wex1seWoW2fthUNEpNLKUXG96SOOftcJAQpC38ZxLCxQ4DEymwIAlYdc7b2H9fEwHi4ZvWdItxk-Fu6XJRgGIg4KDJAigPOfyzsIAufepQ..%26pg%3D3XQCAUKQ7FA5DKXOZJX2FQZU4E%26ch%3DAQEAEAABABQRJvRwwUUOA16q_AbySPDnqAC75nkrps8.
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+26+2025+12%3A14%3A04+GMT-0500+(Eastern+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a2e466b-abfb-43b9-8545-bd32f8280039&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXvfpL6eslMBM5Sn2-NsQWegP1U48wtq8.%26dt%3D1766769243715
+
+Follow: https://t.me/hydrax001

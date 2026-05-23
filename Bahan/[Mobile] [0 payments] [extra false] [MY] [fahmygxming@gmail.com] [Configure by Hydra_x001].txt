@@ -1,0 +1,20 @@
+
+– Email: fahmygxming@gmail.com
+– Verified: false
+– Profile: Fahmy
+– Plan: Mobile
+– Next billing: 13 May 2026
+– Extra members: false
+– Country: MY
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1807121815	gsid	5c88c718-0021-4ee5-bfb8-aeaf30c61094
+.netflix.com	TRUE	/	TRUE	1783303167	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AnIWbliQHuKBYopWORiTD_pJFTkBgnujBw3VOpYKLAy7egEWnZVgsKRMQOcojyr62gqCzkYYrMnEND8zTS7Wrp_O6L7VVWL5OOq5yF3dnZ1QzOl58CJiNkg6irAKBJaF3F-bSiYMuUH7k3FIwjqM8VimC7QiIm-ool-zg5-BAsALh-kpis-eRKWKLKFbEiKSIc3d10fYPEL8_-Ep0sPEipX3PRE4HF8mvBkxTWGSSk00S2BZl1bv4Bs-SjTndyzKs2cj0bbtW8_miGeOp59I0HSDCUlYHXs0idPhRuiNT_xoUfju4Y4pzvXqoSITdgEZknsxGrMb92AG8tIVpQX3PynI1IcbrN1wqXSd6mk7quUfmzx90VUWmBr2Mz4VMWqNCx-NXC0X4OvQzgp3AVPIwWpVr-56FoaEEVJw_O6RtkAr6NqD88q8lotwWfep-BNr_1ygIDT60tDyQpYzFJkX71r7WK8W3hlJeBq3APkiWj7DCfaJ-NERXRgGIg4KDApxRdmHtkPDbhbKlw..%26pg%3DUKXVOHKNNNBQXCM5KXQCCJDDJM%26ch%3DAQEAEAABABRBnCQzZ-4QR3EBOa19Hrq4ZKnRoO4pGEs.
+.netflix.com	TRUE	/	FALSE	1783303170	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+06+2025+09%3A59%3A30+GMT%2B0800+(Malaysia+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=077664d7-dda2-4593-81c4-3b9d86bae1c3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1807121815	flwssn	ac172e10-8ffb-4ab1-be38-18ae11e3d6b0
+.netflix.com	TRUE	/	FALSE	1807121815	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807121815	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783303164	nfvdid	BQFmAAEBEC_Ongpelua3jLpI-D7y_UZgi8W80OnY4n3s7_OFJthiPwF5DoL4-N-3EITnVLlsgd5-7rJNZsrhUX8ME2e-yvLpSJZUObi1BW9NpB9jSNQDEhpFfZUZoyGlcfgEQyPvBiG-W-mKUNprBkKafZda1LjS
+.netflix.com	TRUE	/	FALSE	1807121815	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: noemie.beg196@gmail.com
+– Verified: false
+– Profile: No\x27
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | CP_FR_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2024-08-09T15:34:10.341Z
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEPLtoC0k8Ab2vxQZqdY3FeNg36y3Nuo8OQgCUAdaChz8ELGIW402ScO3Ba_Mqbbqfgxka5EsMQA8F0GyYu4X2v4kaGfH945BE9-n04jrkbP4Pm8rDtpik5F9ERJfL-6_qL6ev8xhuJOL1af2-BlsLnVK
+.netflix.com	TRUE	/	FALSE	1782729820	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+29+2025+11%3A43%3A40+GMT%2B0100+(UTC%2B01%3A00)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bbd94b4e-016c-483c-b1fb-258c8460ff19&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BOCC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782887945	NetflixId	ct%3DBgjHlOvcAxLUA-2UdlZGVB_t3oeZw-0qaOtWoXNB8byOPb_kYahSv6t-U5z-OFxN_f8jvM4tsSTmXF7X_ZEWRjn59ZeyJNBvllqzgsUhHMF86bEPQGD885oCpLnCgExFvkSbrdEs-A2s_TkWE7ukjsFmSdErwFASR-waklGPKJI0zkdMzjdlCrSQOMWI_Y9QC5n-8GsoEokZ9Ap-kC9ncORCM80Wu6bsAFuyxOfJQIAWS-nZ96UVmACYAlMWwKEXM0FZX5-7LN1fmJRZP-X8lM-gKpWM3UaDuuZtVpkx41TU-cdivWyjJGkjvrs1nfVvEqa7YZwWNq2SpsA4y4T57oNk4AcGJ3-7C0mC1KxuHq7D6NiovWL0AyHJYeE8lDqxsVdOTetXPUAMAgtzPDvdoW1TMvuPjIevmgfWlAvJtKNBk9StOY0vryf6EiUSi9hlPgvXg54Zmko_S_h216orMJaP33wyGy2HaP_uXccBHKLmhbj4ZblAe7us8wmapekqyP0ZElmvcwzY3qhDiIJMIIqpCxKRkTlzPs69GnVfzG59d-953-3Zk8j2YHp19CZE_Ab6-ZJ_2-L_jMvybQgUNKNLyfBtVyLFEQPNZZLIU5V7RiLdf9czWis58yizsxgGIg4KDEeAm3X-U6oJ4hXdNw..%26ch%3DAQEAEAABABRZryaQbLtWW_JK9u8s0y3h86_3eqzCcxk.%26v%3D3%26pg%3DJQKVKR75ZVADVGZKWQG4Q4UZSU
+.netflix.com	TRUE	/	TRUE	1782887945	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSq_4diEubOqZZc2oBUxlDINm03K8HZbOY.%26dt%3D1751348342738
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: swethabonkuri88@gmail.com
+– Verified: false
+– Profile: Swetha
+– Plan: Standard
+– Next billing: 25 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( k***@ybl) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1808665519	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjAzFJmMBOY58HJegRbANdJaJic56GsWr3d2QeKxxisrOa-b6AL-QqbQfaS1H1uA2JciE1TAiO7MU3AdD1T_PA03QS3BBctjrEzU7ntxpGd7mLNJcUuffMfVXq01yeBOLsFiDpE3mWO89QEkHYYHI4BLQNzwA155SQvPY8BpNMc5cXYMgsJ0REyXU-FThh711GNvuWAAhWglpyFxaXKEPyk56AQLx3QUfShHTg6YIoZqZBbqgxxq2J3aT1miiRA1UK2pLKCBRPI0NUgC4M0L06sYZQcDXWDaI3K8KJFI_-rsskqlnZ-zRQdSNXiGVcq6c8vkTk6_DARD8EpEFzg1g4drKI8vjnHOh5QaRsqfecdrPbxotuAxNnZUfMG99FU8Xwp-peYwi2mg7F3LKsP5KrnqVJF-TCKovlgCpFljrNc7bcDxlyq0CACtlzfaVIyuOP_1qeuHAfXazJHkgjowUVbSr_xTk_uYnYXSU08JPJWJcg3eXQV7RWcqV-rB_d0vnHutk6Uo2O054tWNGXccx_IDFvWVP_ek8hY6z3W8F-4VS1lbqrGAYiDgoMGQtebFmPin0Etqmk%26pg%3DPZCR3XATYVCOTIN3KTHRXSCJIE%26ch%3DAQEAEAABABRyichM3W1GOz0fGIU7vIi9OjHSveYErB4.
+.netflix.com	TRUE	/	TRUE	1808665519	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRY29dVRLxd9Sq0n-Xb25sWVBOsF6Rfj3w.%26dt%3D1777129519228
+.netflix.com	TRUE	/	FALSE	1808665519	nfvdid	BQFmAAEBEL-SwvsoppVsmPEsCpHA4Khgj8wG1agCGzKjFS3Z2F28ybZ_X-JDQY2UJO3Px8yQxJogrApZch246xE1MTt1cUPkUXt-YvQRW5YrSw6GtO7YHE0sYFEjh1kfpTe55kPCFbftKXXzHNdIkcaDSUXTpSH0
+.netflix.com	TRUE	/	FALSE	1808666270	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+20%3A47%3A50+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=98b60239-e256-4edf-9b02-d274c9b83b03&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777129474907&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1784906270	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784906270	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

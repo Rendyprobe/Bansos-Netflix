@@ -1,0 +1,19 @@
+
+– Email: ozlemyigit2312@gmail.com
+– Verified: false
+– Profile: Egemen
+– Plan: Standard
+– Next billing: 24 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 5015) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788258841	OptanonAlertBoxClosed	2025-09-01T10:34:01.256Z
+.netflix.com	TRUE	/	FALSE	1788260369	nfvdid	BQFmAAEBEJBtjiaPNF5qJNMeDp8YuRFg3bryYuzZt4n-RT0knhdsAGqny6yGv2rLnPHu1pmBDudk0gyu1SsL-uxgO29vYxriy9mnk5FLwhs7nK51wbMZQpS9JRysR_WnToledv1jIJKf3wFJEiV9YiKv2QW4jcEd
+.netflix.com	TRUE	/	FALSE	1788599304	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+05+2025+12%3A08%3A24+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0acbf7d-2976-4ef8-999a-98899acdac6e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B16
+.netflix.com	TRUE	/	TRUE	1807122269	NetflixId	ct%3DBgjHlOvcAxKABHb2k7WLKw6yjlrLKy5RlZOKdjgA1LW6l_bAKC95mVSGzAl5_xDJz3fnMbmNBJ7JSYRo-OfmNzek3pGKZ8Xo5QdhmTI-XpU-Wn3eCAYlu-XS5DLHNvb_YUQCdrQ0G4YEP_T959F-jvt9KYxOiCuLfQkQb9mYinY-IcCSgxbjG71pCLj3bJmmlfSjlIDinmznDHDUKTAAGsCQKQ33VK5keXUTno8kQQ9wTOL6uqEyYVzNCHfui5roMl4zFQzkADA005vK830QfAzv-1sbYccpOz6SM19Ca0uJHSiB9SOXnCVlF77oKAyuZ3fnNrYZL6F6HmyYtOnU8atHGsxi9luG6ixckI4uwwNiz2Xa9LDfDn9yVgt1uZgy1G4kuJO1nFA36DDjcMnfOcv9Zc4vJXthu_B2qMsi9XVsgqeBqaHQngxS2TLKyewvGgPGNI75pBsg5uw3kbpP42UxCZeufsirQg4S5E79tMHbLgofaEZ0lUCf64C61PW13viZSDUttHQrBpI8nM7_Jv92ygH03GkD0htb5rojw6Hpa2yEw7g1kyZ-uFYU38i8R6K-4gX7L6YbsYz-ZV0gy9Ho3YuCTNkJoNSW75o3au09g-48mNooePhsf6RXhOFvg8gifv5PwnCeWKMS07ZpfAX0w-Bvz4SduVDZ0tzPI_hTSFt2ymA-uogsGAYiDgoM2T0hFCOy_XeboS3p%26ch%3DAQEAEAABABRk62gt47c2MAbU9s1Cq01JWsBkPXc4gpY.%26v%3D3%26pg%3DZGSNEL6JLJGWZLGCED2F7UJFEU
+.netflix.com	TRUE	/	TRUE	1807122269	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSciTOJQuYm5l2dpYW1LKpigrk_NR80bc.%26dt%3D1775586268997
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	6123aa37-8ca1-409c-8877-1ab8289b7b32
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0e943776-9597-4cac-9f2a-8dcf5f6d665f
+
+Follow: https://t.me/hydrax001

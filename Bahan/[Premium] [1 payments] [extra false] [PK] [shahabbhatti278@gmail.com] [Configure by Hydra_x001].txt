@@ -1,0 +1,18 @@
+
+– Email: shahabbhatti278@gmail.com
+– Verified: false
+– Profile: Afaq\x20Bhattii
+– Plan: Premium
+– Next billing: 10 June 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (VISA 5601) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806138203	nfvdid	BQFmAAEBECcnH0nQD81MJTIiOZp12H5g5ODd5rzHjfmuvdv2CDtRc47AvRZQlK8-JV1zXv5oEMU_nGZ27EANzHRYELAxapq9QOM1d23BUq8c0Q76b8aD_wAF3OiuSe6NC8Fg7ztS2kuHH5gH8YdoC-A5R4qEwj-c
+.netflix.com	TRUE	/	TRUE	1809777206	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRlXHpvezm_IxIp3vK9Kay6xftwohJNc1w.%26dt%3D1778241207919
+.netflix.com	TRUE	/	TRUE	1809777206	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA8x0LB02ZmR4VoQ49WPA3epHRRdgVPz9tZDicpZEnt5Cwxq7r2S0hF_JQlojorrpeWlHPBIEuCnnALmAnz-AIppYBIr2QZA_UGOfGnsyS6NiVmtSLilPaCpqaUurnde9juQ6P00rAbI26QayCh4K3LpX5oCW74t-TlRQvUyOXpUU9bK2ZCnNbsqcibWXne27Sui__AF2FReWtO-159pAUQEz0KgmFPp7RIPBconN4MOB4nmBepH3OQbrzT2fJXayf_9ligd5gnj90nkCV0W3Gb29WfnZZXs2FtB6YFExAUkd6MAD_F5HM2HbDOkqNlxPWFR_c79orJ_LabK87ZaHuS4NA24XMj_bOEwb3CXuAh92G8LoJySqs4f8cHKtyxIXzGiyH2m__Jf5K23iqD5Hq8dY1PsVE2qtL4G7pyT4DG-CYz0MiQ2ZD2Sr7mw2tHjDSS2nIqtDg86GelHGbXrPbCuUQyfKSN72ci_UIVrOwZT7i4_36Z9xFyeDBKXcRCQkO-1q3czzswF_URyQI1NB4WPnkhYsk4XBuosOnQXik-LZGAYiDgoMglCwHE6XFQgaFraq%26pg%3DPFQRXRGMX5EY3JQTNDK6BEIWTI%26ch%3DAQEAEAABABQyw205DJsQhnF7jMnq0nQGk4P6tZ_zuAs.
+.netflix.com	TRUE	/	FALSE	1786017209	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786017209	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809777209	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+16%3A53%3A29+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3df2ff67-db17-4c28-a5e8-4ff82139271e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&isDntEnabled=0
+
+Follow: https://t.me/hydrax001

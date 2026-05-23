@@ -1,0 +1,18 @@
+
+– Email: francgrepo5@gmail.com
+– Verified: false
+– Profile: TRICIA\x20GANDA
+– Plan: Standard
+– Next billing: May 28, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****76729) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEFIJoIdCyV2SXZLTDPa8DUZgL_FWWzvaR_e-hIcWqEzrOidQxUt15LOSj0Pcl80AMOV17rF0LuojdBRJ7idUMhS_lerXtXKbnb_kQx0R5HtRXhax6lugw_ntKudxmOBFWgCSAPWIu3ctnMnRBq3sI6vN
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AocyBxfxjo_qLNEs99gthqy36oCc6i9I5zK2Q9aAz7xeKOKQW2ZRECeD3994FCXfj6uGGPoLHXKQSPbPK9cpuDGRuLfOD7rRneupfk76MR2gnViJT_44g_PxtlvsaywvhgDhpLNXC8x10gXhiy2Uq8_FbKGzxBfZvJKicRUI49k1pvSJfPu3L9iNKD7AH5LRnBcUa96iR3iLDqIN4sdSZeqJzb5hi5yjcHcSdwGfFNbvAkLADXnNFIxfXQxqybsmUi4GEdPG-YbCGL8gqufLq5_78Jh1KcUMIiDwIPul64Rw4HBFDUBdIKFnPEKmNGCNdiiR_v8jlBMfOEGUo6si-rx8bR0OT5e3J1cky2rjEIPxoy7sWiSNEe3c612IkwvPWNZ2EozqbY7JXwecKD_yDRr1dscybs-PuHlck7NbBc3Y38V3kp2hdvG8MloDAtVrUdZlDsoUjCw5SPOeT4TXJyq_uGdY7M01RN0JKYwpsj0Yb4VIqWRXAysqgy6TjjMYBiIOCgx4r95sPPLzumL5RtU.%26pg%3DOJQ5ORZM2FFTXNNSPBD2BEOUEE%26ch%3DAQEAEAABABRGh6KVzYuWDfesgxGvi20-yzcZ7bR2Jl8.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+23%3A45%3A08+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=254e26bc-a502-48d1-8bf5-adc345bb412e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRoAdUFSBHjn-4qXPjooqS_WHrzPJI2jZ0.%26dt%3D1772639107446
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

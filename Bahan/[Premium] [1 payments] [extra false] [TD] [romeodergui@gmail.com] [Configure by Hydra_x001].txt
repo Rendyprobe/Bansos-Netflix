@@ -1,0 +1,19 @@
+
+– Email: romeodergui@gmail.com
+– Verified: false
+– Profile: Dergui\x20Boussou\x20Roméo
+– Plan: Premium
+– Next billing: June 21, 2026
+– Extra members: false
+– Country: TD
+– Payments: 1 | CC (VISA 6941) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798805313	OptanonAlertBoxClosed	2026-01-01T12:08:33.704Z
+.netflix.com	TRUE	/	FALSE	1798805473	nfvdid	BQFmAAEBEBdJk-iG_cuhhEtVyGf3vfNg9hObq9qtYvXxHe8TGNMOdqn8PhqgamlFELkjLIUv7R2-mIbjsxKEPY66qZ6cgy1Rn8jtSiRITaDM4KLECHZnpgPQQdLuwJf-KSnSXUf19zktIzRvzM40zl1_BJTDQqIU
+.netflix.com	TRUE	/	TRUE	1805839266	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA6ZYXebmGekMJSEMXKUWms3LraZRxkjpJ94CnWsC1vwQN6ZnhV0CiyTb7XKTu-bA2V2Ey59A58_-vEt1xX4-LHMSBe-1vcvY8mgfg22rmat1yRv_mxhQPo0rGgWrPV7cyuGP-I445muYHtvpn09eas7vOmgRn6uNcwK3hFCktMlGV2d1tf0THGMHiKYSsQD6P04mjHXmE1FyPlE9fCFrn5yD_66fPrtqNXdNIJSqYR4a-eiZ5JxUDHM7Z1JpBnF4qSLpFstPatv-Iwc3VMShGo5xMGcqtt61poVbqyt_krMoQoLJ7mA2hoZ_rUn-M9lXdecVWel8V8bxUEi-5n9cPICcDayZ5A534f5X4_W56faWxjzDCJlxQ3aP-xafU2uI5b0pzAUHMrIqJB4Sxan0xihAsOgCJiGt_xjpAKwe2lHRY0O7lsUtR_Vz-mVhJXYO--rVxx_184zTtxY9CBuv33Ryn7gAR8JmBJ_z3Mb0I2tXVeSm6Sg6rmBWT_z8DJrpg3jivNhOF-vJ2datffiog2uRIwaFqx6AIzBBTXbkjeoM5ycYBiIOCgzGoVdOtNtCBaGzlYg.%26pg%3D62OEFNU5KBAHBM4VEZUETDSYCM%26ch%3DAQEAEAABABQJ6rOD-EpSGZRxINT6BAGOEgPKH2_1WdY.
+.netflix.com	TRUE	/	FALSE	1805839267	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+22%3A01%3A07+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4fe57e6-edb4-4471-888d-643686dd6257&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BBRE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805839266	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvkfD--bptrBq-dOZ29Lz313jHSTKIqsc.%26dt%3D1774303240630
+.netflix.com	TRUE	/	FALSE	1782079266	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782079266	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

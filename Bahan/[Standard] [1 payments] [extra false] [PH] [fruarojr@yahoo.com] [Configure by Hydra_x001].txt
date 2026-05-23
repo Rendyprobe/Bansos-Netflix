@@ -1,0 +1,18 @@
+
+– Email: fruarojr@yahoo.com
+– Verified: false
+– Profile: Fritz\x20Aseph\x20A\x20Ruaro
+– Plan: Standard
+– Next billing: May 23, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****58367) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787020601	nfvdid	BQFmAAEBEED1u8G_WKuNnDGVtyvlJlFgN-g5CCXi_ifzfdLNkEFSLJo5kU1TwaajJlybXb9Ya-qkK9zBoeYA477IIH6KF3v2xBjfrhu2CnfZIg4UdXjqGf4tke2FxPJf5Ar3v2ijryQ7-af1mV-abH0MiAhNCVQH
+.netflix.com	TRUE	/	TRUE	1806718855	NetflixId	ct%3DBgjHlOvcAxKPBC-D4qtwIZbcR-OSRhIh9i7jMWLzYBHKl4TVy_ezMU25anpukSifinHNuX1505PqvPu_4Nf-uWmNeDiX5L6QT7iTwXd-cA5lK4l6WvgVtfq5mAU6pBkQ6QoHX4jOerkIDPiIN33a-50aD6u0EvSbkrIihouOe-m6u45K794-NVZd6C4xQ6TmnaWsMZODD_rphNt7azexHhK1FmuF-bIuZqA_X0rMpx2tkYHTsXJXDjMbmSpr4XMuX8EVZUCQF_6JB3wXCdgb6IZ6MlCY1kz6DtIp7UZiYpiQzt0TmULHVjfMCTY3yfUgSSvO7Nnr5StBmAkwGXuMsyj8n1l2QE8EcbUYaWAh8bBUXHiAIBJDfMhhpYRlFUYKK2j3-hNfgVIXfIStIk4m0i755RxcUjLRfUOYt-Osr7jPVH2NfWSKN34S7cF-zLF-kmQFFtOPQPhsSfN-bGQ-D5l2ju6Lrv4fsiirLPwspB896R-dtKtuAOh-X1aXmE5g0SAtDPDrWHGxyDZnQalUAFSsTtd58Y2IOkseTJg79CaeK4tJCAhy66slh48qaSkLwz5TBO2BG7YomiwL2j9bQQ6S1wRRvGYpiCBCd2pNHfmx2XFNeykCj_-Vq-fbCjcDtLurLUraMphMtWtzGKpNmzOlGE6B5Q03tSAnA1lEIGxxJAyMWLEIiMuQ2LEh1gq1qWkVpL-oyctrGAYiDgoMHniqgZAW5gOc7F3v%26ch%3DAQEAEAABABSMXsNQMnfN8PpKDEPDa_6Uo-fojPJcc80.%26v%3D3%26pg%3DGFRW5OQX4VAXRDJT7EOFEXIRIM
+.netflix.com	TRUE	/	FALSE	1806718856	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+10%3A20%3A56+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9197f32e-69ac-48c0-a002-9d75da5850e4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806718855	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ5wxSmG55VZnUrikIkgjCQRebHuQ_ncOk.%26dt%3D1775182853053
+.netflix.com	TRUE	/	FALSE	1782959017	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782959017	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

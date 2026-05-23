@@ -1,0 +1,20 @@
+
+– Email: faisalmj1001@gmail.com
+– Verified: false
+– Profile: FAISAL
+– Plan: Premium
+– Next billing: 22 يونيو 2026
+– Extra members: false
+– Country: SA
+– Payments: 1 | CC (VISA 3733) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEL7xeQv08_IeHVtJnZyvt51gjLQ-XFXoij6T2xUv0puSyVc-imWf6QvCC7xvCpyKadQymy_MIIJ3o6ZuezYs16Z4Xp1HqeaClNHnAEeRbA_e42tbXrPUGXV3B9_sH3lUuV5vwlf-VZKfr1AsGsXICegK
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxK5A52OxHCiUhXjn_eA2d_EGKnPpEwlqS_foBFnWefgYNHaV5yqRo1-2Qpk4zvSi3Uaw6b2zCSeW_OOqeBv2CL2THs_zWFcSEmeIaQ0bLeDNfFdl1CKwLXhp62Y-mSmvCMgJCoiWo3Cbl0sNJT-7X6M26vlZ0RqnJ7FVsXMOJA5r2BgflE7qy-2Eqr9A-umF-4fW5jzwUrr7RfRSHh6sJdSbTwVyWL-2USeYoDZyzEB-LVZAMD6dFOp1ar0G5iJsKKg5H_U0MyoL6Z_fwTYO2xb5wQaU1vhQwQ3nbpW867KOAkhrlA6e-xarc64mjpne0gK96aQEWLAi66Mm4vqToGwsrxvnXhA0feOVUMIxezGdQjOdCxAU17fIaq3baozu0R4Lhwm7IozJTP5elRif7qY0H-7BWkZSCWRf-jTzByxJpXtFpxr5ecAQ5BGVW_ohZ9rtEjhShFp5M8rA_4GXlCKvodywT87BT8H3R_6RHHvYgowtCMkLWXz1eW1-nZUkebO5k4uuTXs_jvMJx04jGgtjHoTxiPid90BVYMlNMxDwRHk_wWrRu6lfsNDoStAlngm_bCGI161ClzLnBgGIg4KDGFhz6Xn6mMRfeMAMA..%26ch%3DAQEAEAABABTYlpuJAKqbTayWn6_H4oldKdOMJZRd2Ys.%26v%3D3%26pg%3DXMZLM6WYXBHBDOXC7DYJG6TUFI
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+22%3A10%3A18+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e8a3071-7db9-4f24-b633-357d8ae4c6f6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772403826795&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1awoWLr_baMZus6jyF1U2scIv_UF_xiw.%26dt%3D1775243425808
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	a5b97a4f-3b1f-4989-91c9-fc36927ba4a3
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

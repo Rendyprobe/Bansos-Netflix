@@ -1,0 +1,21 @@
+
+– Email: guiguividal239@gmail.com
+– Verified: false
+– Profile: Guigui
+– Plan: Standard with ads
+– Next billing: 19 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6047) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805032560	OptanonAlertBoxClosed	2026-03-14T13:56:00.602Z
+.netflix.com	TRUE	/	FALSE	1805032580	nfvdid	BQFmAAEBEApUBQthJvoLVFQAIZ54TSxgI4tpGIVD6IO7sTQ1YVNgVzzwKp2hO6c3bXZMZ-tmCjP34OSJL3K5tXCt2-IF7LPKLe29KfJ4uf1Nxw7HHqsQ-8pVzgMfUMhyzfp6_e_KN5DXkrkc8GbDJ8llM5O4A_VQ
+.netflix.com	TRUE	/	TRUE	1808935113	dsca	true
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	8dacfc55-f60a-4252-b40f-8b3a8a6f4310
+.netflix.com	TRUE	/	TRUE	1806157327	NetflixId	ct%3DBgjHlOvcAxKNBElKM2-Vex_z2dRSOAsRYzLy7Io6_8urWnq-ZW2ERsML3UZYL7YBm4cIEoZq8lghk6kbTuJPyZ92QX_R-L3dxRcZ7Kf4IQWUmv2zlSjbFgexariqlx_88tmxxBUEnqZOMnk1yTF3i9S0MDYg8AWQ8L3dTdXhZn92Tq8ldc2J6xb2yQQCbto2xeqOt19RZUP2IKfm19oKy1nJfZEL3rJmM9mlQByqPTCKsRTvw7hpHE8LWDVPu6_2Fmp2BkxKS3IRUEwNmR0Mjp9MP6SMp5p5fb4kbEvnW-kLA15_EfJmXq3fApK7PkMdzV3CvDnMvyeeJkPaGPKnBN-8eo3ogZjyCLFHflOmJGaBA0LpkAEPNDB8vZ8r1GXjFBjHBjVohJo2dki47fb21aaPW1Q8f1inFhrg8fVOcrjWv88HvEcm27ntLvKDu60hQjIa8oajlXqTTK2ihdsYIIMKZA2dcMwFCyMSx3FSqHE7o9f660G0JaLwHY-TSiF65vdrvNF-baDOkWHOvTnKPwiLnhb4uevJC6Phaq5_YcEKTJ2BAQO3Q--z8Ngs23HzSerZHKQJ1zx64mKCeMnSnaMZqHw5dBRLbmpgLA6GTZpxLHnXPwRoJhly-hqMBeh_RZr_t4UxPvH3be-ITpzx-Jv3aHv-yVBI5NRzd-TchxepVZB40QCOE550TehR8p4xcfAKjhoU-BgGIg4KDA8FbauC6-ObdZ3fIg..%26ch%3DAQEAEAABABRhWQFSy0gznKFtqVs2H2de4I6puYL42hQ.%26v%3D3%26pg%3DSNCMT4HN65CKTJ6MCAWPBS7SJU
+.netflix.com	TRUE	/	FALSE	1806157327	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+11%3A22%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14b4389f-2f1b-41a7-a4ea-4af89f10f662&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773496561384&geolocation=BR%3BMG&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782397327	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782397327	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782397327	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

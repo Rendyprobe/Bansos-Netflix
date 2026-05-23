@@ -1,0 +1,19 @@
+
+– Email: adejiknicrumah@gmail.com
+– Verified: false
+– Profile: Guy-thats-pays
+– Plan: Standard
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 2309) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806940992	nfvdid	BQFmAAEBEFh_xn3MEk7LKzXIIF94LwBgZRPL-cB9UMOLgvf-F_qKyGWIS_1Dc95O_1WQGArUQb5pGbT5ubXl_dCeUpMdqlm3pJFZ-D2jY4eqA4gVg5ZOAtZkap3JV6HyxS58LH_gNiF7uReVBR-rXnVQg7aEIVBU
+.netflix.com	TRUE	/	TRUE	1807337140	NetflixId	ct%3DBgjHlOvcAxK6AwnJLWqfzDbZQXFOnEX7sLP8mCb1NatOiGOYbey2l9ovtFb7qFTly2utI_Nw-rLdoHBd5ib0jqbuPDVOkBcHmR9a1_sYIL6LCWyZm7Kl2JFSuzoNU0MSJSSCxw0JSJeS7jHlNjDdtCpgTD0Dtgqvfpl1wj2IuRYMwubQLMCnv8IOvSK9y3SywM9npREo48P_5HZFg3SLfCXH_AP4iYIH_5lw5UsVqDYmaa6OjlI2w83kNK8fQJsII_hQxPxEdv3BMP79GVmPDb2Gv4KlokpB7rKBIjVbV5U5scerUSgEZzcGa78FXfv9oaLYVTwxZ9V5LsAetI6m9xo1Ef17Qx80DmOs64E6ET-edHl_zdl2ewKboF_u4Y5HjrXd-E91o9gPMnsiIvbbUlAwaH8KthbR9bdw4okN9CUntKVAAUbKy1tJ4M5kxZclxUYAFczN6E8oZSJbrFTNHdDc8KN7Kcwq0wUaQAaIentTNtRuu0PqMXz3o7xwqaFOCEF9wiA9yEdZBHws49ntZaLGX_-pHgXhmdWOuGlnkXHfRICxlgxtnerxPvvSxRY0kiPykRH3MbbuntjeDM1yMc8KT0AYBiIOCgwrVmhsch79uLZwO4A.%26ch%3DAQEAEAABABSzuCIjlf3xRi2YEWP5-cT9HGu_52CJTok.%26v%3D3%26pg%3DESREMDT5ERHDFIDLKTFNTOY4YY
+.netflix.com	TRUE	/	TRUE	1807337140	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQd-5RZNv_m5Bb0pSVm47KO4F6dTv2Zbqs.%26dt%3D1775801141525
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	3576f9e9-3025-43ba-b5fe-62411e013ab0
+.netflix.com	TRUE	/	FALSE	1783577140	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783577140	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807337143	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+02%3A05%3A43+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3e7319d-537a-42f6-a30c-6a7cb2c3a6ac&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775404992848&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

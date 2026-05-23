@@ -1,0 +1,19 @@
+
+– Email: natuvillalobo@hotmail.com
+– Verified: false
+– Profile: fran
+– Plan: Premium
+– Next billing: 4 de junio de 2026
+– Extra members: false
+– Country: AR
+– Payments: 1 | CC (VISA 4598) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800499505	nfvdid	BQFmAAEBEET9-FUuU9EGsG7NX6oNT-pgg5C31u32_gH88bqhbT8hUAeHuS8EbtxEzXhRgBUOWzLhejWwtygOSEV1ro7h1Iu7XVGsZ3AY4gZ-zOu6y7xGoQex6wHB3eBXvlt0fpG2xW_TZhS_XvkMU6UQLv-dd05w
+.netflix.com	TRUE	/	FALSE	1801620720	OptanonAlertBoxClosed	2026-02-03T02:12:00.664Z
+.netflix.com	TRUE	/	TRUE	1810575256	NetflixId	ct%3DBgjHlOvcAxL5A69Fkhl55oa7BHhzgcb9NdwR62-0mV8ZeFU5J5KhMYmmCv8LYjRGQwzgHGheiiKSRyHWkyZZrVNiM4iz2OTroknQwBVLAJnNdFZ4QKLJUFmvgt0FILGt9sh3jHYefhgV7AJQ2k9kSRB6VfjPm4VZXYV4Qi26FooO1Np50LjRMSQ9tyrRMZvyLHbUT5B9VUN4SlYDxoci_ATy0Ah3P5oVYWbFOMlLDougNBFS7Aic0A8moKKC_O7W9ehlq0_qcS08DVENsJf97VSNeO_BndA7QKt4T55Ao7X1_yQv6rGIuy-JvQeFcaDnu4wlWThCVSt359ZFnKv7Wew7MJ-6QXcmp9iIQiZijPfoUntZEsYoIEV_Bq9HRS0Y8an7M_6TTDLJ_MjgMTDGVCZ7a0nnrA39PBh1_u9-b8QAP-_xJbK4Pddfv-XUXpaNSU9T_dWltLDxwGXb1-Y6ZxgKbjkreWEdIcKCFdIIEsHTMM92lLzEsxIOTRIldTj-_O2ETzsjubOSrogX88RXgdQWYgXsKlzS5CMMxOlkbH1sVKBGIQeA5KF5fDY8SjI_7Gaq7C0QohhiyVFzhbCrhtzkUI6lk1sRY9eC1SrdOTgaKPbu-81dGR4Xm5WWo8Yh5DfpxNGkYpw7wYlIhREv9o6FO8TTpMIynDnA22cyJKijAEYYBiIOCgwbGl7Pe5-y9qxFa3Q.%26ch%3DAQEAEAABABT3oWpMCPSOwSlOr2tYTwf3dbU4uv2C0VY.%26v%3D3%26pg%3DXWR2PC25GBHE3A43MC4ZGQXXYQ
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	60cdc11b-c6b4-47d1-854e-cd2b8cf464ee
+.netflix.com	TRUE	/	FALSE	1810575257	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+14%3A34%3A17+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9dec7ce2-a447-490e-a06c-09e6dc99fb0d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1770084729731&geolocation=AR%3BT&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786815257	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786815257	netflix-sans-bold-3-loaded	true
+
+Follow: https://t.me/hydrax001

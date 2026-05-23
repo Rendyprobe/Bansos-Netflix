@@ -1,0 +1,21 @@
+
+– Email: ritz.quitoriano@gmail.com
+– Verified: false
+– Profile: Philbert
+– Plan: Basic
+– Next billing: June 15, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****16095) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	b34ed8e8-db85-461f-8841-5d722f20ffac
+.netflix.com	TRUE	/	TRUE	1810272707	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA4jHN92lu2ofUWYpKS2FdTYu-HmDzY9iUnaWhwQYkGWeKv_GTwbnPRWRD2vm7M7k9bOmH8XHCe92JtjHLuxds9h0bBG2H_OBOOBpEEBqtcvIoM5gO5HnI9Q9dlAcjonE5F7kixWKbQyDWf71eneozg5WEls_M5Kg4dHvK30DXNjxN0l3M9giHpENwcIWG1ptkpADjBJyHQdMV0iZ5cSTE2AQaWVE8RHdXVnrDAZPRe2gbnQaSQZMWwY9-h-LC9wjnq1BdJvMAaiqx4SOn563aB4PTOnTiizHgG65Dgr7Sxax3AFSFaVWN_O3hGqjl2mx2R-KEjAv-8Sb21F93QDmDcxS1YS5WPNNdp6WNtROJiL8eeweFrLits5wek3VLs9NUQMn6wMMBFkaU5swt1mALBKotX_sVdu_3y-h5S9Yku-CVgsb5tdlvuP7CxFx7xrUeg4VPSFvDPrpuMEV5GQqkXiWpM6sXdN2GK7t1VtZ1uoiAML9TCqU2SX2NGnrL3Lizu2hDcsT-l204-EEp2gwxovB6iNrxm7RGAYiDgoMgt5hS8-24gWAFtdd%26pg%3D36EG63VYR5GBRA7VOUUPIP4YRU%26ch%3DAQEAEAABABRg5lB5z62xtPJr73EW1OGH4FovmQuRVm4.
+.netflix.com	TRUE	/	FALSE	1810272708	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+13%3A31%3A48+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=49ee5047-a057-41b5-91f6-576441ac9574&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810272707	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTldilMOHSmr5K34PcTJSfpjTgLPSdRKFI.%26dt%3D1778736706816
+.netflix.com	TRUE	/	FALSE	1786512708	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786512708	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810272692	nfvdid	BQFmAAEBEAX_YSYriMc-fjl3RliIWS5gi6OUUf6KUlSc-aohq9CtmNvL2DP38JrWHqo4kn1hyZXRe9D-w9pu4VvrdV9jMKTUz9W84biGdtKCRJ5m_L86ZDzh4HyJUTrxCT-pdaPuk0xOlvGL7KSoaXan6hVMFwe8
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

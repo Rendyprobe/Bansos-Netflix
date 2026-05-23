@@ -1,0 +1,21 @@
+
+– Email: bbea1709@gmail.com
+– Verified: false
+– Profile: Teus
+– Plan: Basic
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (MASTERCARD 4250) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-02-18T13:35:03.986Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBELNZU0xPRsIRDreOgm8fZelgbHD-7jIhBEWPKkM_lHtkJNcHKEqCVxUlz4W_F0HGQfWh49txodOJdETLVjm00G4l7INhsmGDPN6TAhJ5qc_EYLp7hVc1N7QfZNVz3_PLJ3LBFLUYl-5XFzTfjDRHibkA
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	7da40ef3-c6d3-464d-b93e-7417db40263a
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAwjqomG9VxC0Rn0U4HfE066IKGipmfnzQhSR3pvQMC7fWeK-zHqfz5DmUoC1ZFPcuNWgie0QAY4TED7_teMlEMnoCSZUtIOSLdRis9A4h2CAZGop1nn2d_i2qyJGeAXg3w5PUpr5GGiy-8BroImp0dpmmfMi5T3SD9wng54T6U27T_CUsnzmkq8KimOIJvjo2bYecV0xmG59lMRAWyEREB5dYtNxsVIhkA3g4o_TEHouFd9Zp9MYNv4apgbjSrOi6uHOaGYo6slKofWgispGFCngMlHCnUl2CK2f-cg96ouBrr_eQ_PJwFi6fTVzEoVugUkxq92ZP6n_rUkFFtLJBiXsfcyl_9Hhf5cp74aDdl_zCsUX9eeB5lD1eLmVFrtYUqEBI_f06T6hrALhGLqIG6L91xKV_AG7ne7xdsO-hjqGSS_S96Pdwl9FkEOqfnfMN0D1GniVXy5RaNOBm1tpyQ2awjCRpRASKkPBVm1jxsi5eeTJ-Ve0h-ukHCzL4s5kgW1LLo81VUnWUHj26va4jUuyYjx1ORgGIg4KDAZBRiJtHIpq0Au2xQ..%26pg%3DGZ6NEBQJKJEJDPXNRQ3QT2BD3E%26ch%3DAQEAEAABABTl0_qCEoN99EUGkVxAO-UF7KlXJ2cj_GU.
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHggyFDobBgO1d0dPszO71iGiq1BRiI90.%26dt%3D1772996229988
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+19%3A00%3A34+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13dcd2db-1da4-4a1a-a141-0fc0e4ede1bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771421704353&geolocation=PT%3B03&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Verified: false
+– Profile: victor
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: ES
+– Payments: 1 | O2_SPAIN_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-12-22T20:09:14.396Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEGXUGZZnByOGMBS5D47eKThgI3B3TWnt8ZjwP8CX1aMXYuAQm3hsYQ0UX5fq4k8mC2sml2exha11Rrcs1Rn3PcjrnRQeu7mX0QFLOLaNnMKYqAZtB87qKwVxChp-G9ib40-IZlbpGlGFFC51dWoUByTv
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	true
+.netflix.com	TRUE	/watch	FALSE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA45hODOti0xzBxJIThcw8zV-wv4lsbkiNdEKBd6T76tm33HSJr7FuWY_E8FjIyUvPBJrws2pfeIXPmDnjPRTQFGw_QPrXFvpC9HyT9fsp_Ft9664-mV3jlnjrvWhz7ghrNq9QzppYN6d0c2wrjqqoG5RwOVqaAdTLbg1TSV_bmU-eNRZ802w8RQ5ohpU_e4YQCdSPbKUeOIHduS87v5T25sqJKB1WZcpUCNBLDdf6zpjgYJDOvd7akI_qnKMf-l6hLOW0GrCV6cKGMBQW448kL0jbPYDIvKmahXQiptgGJ0FA3VQO5L5jRi-Y1zGIGwKxqDmvZti9Nuj60vuyd-jSg8r4r4Bz6366Lf5ExOSPY8nGb2X6OXbFctlbkS-N1I4B4T_trQx3JcnNhXCfwXRWNDBF4NE3lpSRTn-FOR4h3DgN4Q9oeyn0H7bB3x-7D3f_hVBKSt5GZmIVyVc1GQ4OjfjHpFbhzikF6q2oq6dWD5s1PLlXb53CbVDlwnNM7hPlDpI1ehn5pRfx_ylyLLmrNzF_AXnc10hGAYiDgoM7e0P8c0afwCBfdaQ%26pg%3DBMNP475IVJEJPIQ7ZXMAFETDVY%26ch%3DAQEAEAABABSvlsO_XFKoLXDr5bgIA8EQpF6dvc0vkzQ.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+20%3A37%3A13+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7fd9d8c7-cc13-4f12-9bac-73466777eb22&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BVC&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8dKXIwEMVCtbP2DFxV1xwyI51NJBn-AY.%26dt%3D1774726632684
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

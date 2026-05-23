@@ -1,0 +1,18 @@
+
+– Email: canale11@hotmail.com
+– Verified: false
+– Profile: Nathan\x20pupo
+– Plan: Standard with ads
+– Next billing: 23 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 1558) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798309063	nfvdid	BQFmAAEBEBEd1Rz7H_h7X29ak4OETulgqm9Bl54teDIKPMZmH8lMDfcJnWE2oi7M4WeuMMPyrUOURsJnEdw4hDFGx0DNtqfgKC4UYJHRstL-lH92sokQnLD6Z-uV2d5G8yP0KKVRfdnWZqtxi6Gt_qbbvrcwgSay
+.netflix.com	TRUE	/	FALSE	1798765120	OptanonAlertBoxClosed	2026-01-01T00:58:40.166Z
+.netflix.com	TRUE	/	TRUE	1801789115	dsca	true
+.netflix.com	TRUE	/	TRUE	1798814773	NetflixId	ct%3DBgjHlOvcAxL1A92jNskDMMiJ1i79RcVoVb7eEkp5jU4suB6J3qtCAeSS_Fqxq5IxGJHACQxrTfJ8FXL2-K3bfr0JBaPVhFD-M45o91z5yJT5zqNxvIhKKPsE_QWyZr3gIMfFfNrP-ccE0m1LfL5_NxX_Ne3Yvb27sTrwA-9jsTFg-O5y_-ja9qes-wErt5uu66AsPzYb6Ha8TxHW1Djq-NPM-KcXwSaDF-sJ9H0VJJToXdvSmjNLiph0003C0nM86qLYgsZFXx0YN9x_Tbip0MUP6intUjcU5mkoji4GliKJwTfglK_yXwcJeWoVQV_3Fgng7F9cvZemhjQozNCdJpdY_3iacBoG8crEOya4aX3qWw4tKmva2x4du2vIh6S7JCVG8M9eeOYdJxaCFdjZ5Nlk67Dl0KMUAQQRPSobbClcNPla4TzLitxtmPTZIkd_jJuXeYsjYrYb6ZznBJJlHHG3e7XcVYZbY57P0vSg_RewLRKY9DUL8MVDG1Jh2vpJBmdcaZZ2H58YPtFTopGBunBBD4z4QtTaYQjtSDcX3VdKffh4rA_Bs6OXuXOAKXXkOUkJ46R5hQiTcN3IHweQzE1BAAVnB4_uqof4mCXsApzN79lr2A11PvPKFMmfFAFm9jcYkygiZ3mOqwopK8amvQyVlHh6lbKyh1a8jmgomBgGIg4KDHaxfFbB3ZCgad-bkQ..%26ch%3DAQEAEAABABRUD0nVXoOXfIr3KODlzR_wbhHgq-C7HKc.%26v%3D3%26pg%3DVRN37QO4DZATFALISBTHKKW6CM
+.netflix.com	TRUE	/	TRUE	1798814773	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_blf_AGc-FtfGH02-YgoWpBG7yAKtFeQ.%26dt%3D1767278773791
+.netflix.com	TRUE	/	FALSE	1798842270	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+23%3A24%3A30+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=abe4928f-ae28-4b04-903c-b4d231579354&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25
+
+Follow: https://t.me/hydrax001

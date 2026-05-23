@@ -1,0 +1,20 @@
+
+– Email: janusjaidenj@gmail.com
+– Verified: false
+– Profile: Francesco
+– Plan: Standard
+– Next billing: 20 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 4356) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804417772	OptanonAlertBoxClosed	2026-03-07T11:09:32.942Z
+.netflix.com	TRUE	/	FALSE	1804417774	nfvdid	BQFmAAEBEJq9jc_TPH-TUwna1WZIv6hgSbk3Sl96ZVHyrWcZPpVfmFBqt06YMxMvzT56HMajhbH79yoVZm327LvPzlZiRf5WyJHUNO3ZFUnETflZUZTnQfX1Hn_MH7EQPQpJgwOhPRi3j5wVe7IBZMa21zFgnAab
+.netflix.com	TRUE	/	TRUE	1808933348	NetflixId	ct%3DBgjHlOvcAxKDBKdLDneQmOkAlaiU5xbISX3yBa3d0ExY2lGL6gGmpONMAvLMmtDShYj9i7cvxi8rw-szWV1N73D_SOXVLlfEW6T0tEgXcXcwFFgthoUcrtQ5kXGw8PjaC7Bmwl9npTTyN014cuM49ntTbSMCPXbKTX8gZEruhumV7CL5-sHYtOm4TmT4XjrckKd7n-qy46M2a6FJWtSpoQoGwhYdUnE_0UYJDCXfFXqnoGWle8qBLBPAiXWuEIFp-M52xjK-hKu8b2qzFGezZD1mj3nROpxNTeRfYX5GXax8kEnQJQuoxjuHFAyM_81zsXXBOT9uKF0O_fp0SSGGcQKyUmT2DsRDCvBQEgnFsRYF7GoRRusfl7Zt8fSIBJFO8v-bD32zn18Pi3EHR-yKdQ5wLUQLmKLV0-bwAcduiTGyPndHFJY23mpadIaFZGV_DijOMshNBSTTPPvBvtf_35Kn1h_kKNYMq_vJmltKwSBLvMOfGiKJBV1ocNdeIKsmyH_9Id18-fQpH_T43rqagvCyNN9zbgOYoaGDXkDGzNfuOc61YWg1I-N4ybnAx2bxckkPtkKkDC91QRWmRGIFUyJUjmwB5UWOfCIlqfQAMUTEQEzu5eqa_LJ7XgiUYMurKmxFV1qFWvmaayTlO3BQRtaI5Mo6lEx-tKrGrdjS7XAjnflED09OkG6r00_1GAYiDgoMZ-gosDVfKkIS2Su1%26ch%3DAQEAEAABABSL06QDBhlaNm388GhQGEK_2rGcmUyTQF0.%26v%3D3%26pg%3DDEQICCZAIRDNHI6NNARM4QOBTY
+.netflix.com	TRUE	/	FALSE	1808933349	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+19%3A29%3A09+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6dc1eef2-2baa-4a20-bfb8-972e898874b3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772881773390&geolocation=IT%3B21&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808933348	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRB8rM9zv_G81amJSXDnArbXlDCWSxfjKE.%26dt%3D1777397348209
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1e3eca18-d6ef-41f0-828a-79f9aede1abe
+.netflix.com	TRUE	/	FALSE	1785173348	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

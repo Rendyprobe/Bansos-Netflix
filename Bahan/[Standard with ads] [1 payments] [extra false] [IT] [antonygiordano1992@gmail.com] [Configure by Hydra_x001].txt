@@ -1,0 +1,21 @@
+
+– Email: antonygiordano1992@gmail.com
+– Verified: false
+– Profile: Antony
+– Plan: Standard with ads
+– Next billing: 19 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 7525) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796756047	OptanonAlertBoxClosed	2025-12-08T18:54:07.803Z
+.netflix.com	TRUE	/	FALSE	1796756055	nfvdid	BQFmAAEBEPawERHjfsy_tnCP1tLPlnlgWEcddJ9IsRiujAyxzfxW31glD72vQtOAEYthueztnCL2fKyuHVcS0zd35prteGZ4VDkFZA8yAekTCJhlBgV3HJZVrlCX3d203aIYvu238JTbBMIBLQ_oNZXN6G-SN_rE
+.netflix.com	TRUE	/	TRUE	1803391697	NetflixId	ct%3DBgjHlOvcAxKgA3smgdqXuzd7O3eFKZzcFcdvB70w9_IHvNrPZP2mA839wI_Ve41iji9cx273IgrSPfnRYlIMXUWd54jd250zpcQA48K-Kl5IyP2xA304DDFA3ziHLaZ1x5NgC-WZWkxwYlsbzj1Ca0iQTp80jaDGBRwKiXhBerRONCErFvYMJWMCrjJTQSgteXDN3UDzEUexZMdbeyfXQZhrKwLZ7hlTsZiGO3PBHK9d8Vr8bdyoxPBZovu9PVoesNgAMkhw3aOuO2xCCVD5JPffQuK4T3y_QfuJt45un9BrXVh5Lp66_xw28am5sJD-FaBZ9K-TiVFHT6Uz7NlZm54MZWDZcmuk4vbuBtH5X2CmSMFSExt1CNjVojDQZuuJt6puvB2_2NIQWFlHuKDwu8NxHWRxN6S7RR1kheS_Y64HmeluUCK8D-kKys-MYZeko-AaOthahIe8g4MdgpEyjrIWgAJbyGX3F7M6DJOJwJxMbiSg3tNeghyCrwBSig1W0lM2fGrYL8w1WtvFj2UPeYu_SVp2J0jxk3Rq16YEGOfGwf7Geq6WYuzsGAYiDgoMDYvXmzO8-r_pR9q6%26ch%3DAQEAEAABABSZnGCffpHyM4oX5nGWQ43aR6QpcCmDgic.%26v%3D3%26pg%3DLJRKKAHLNRCSVOJACJIL4OL7EQ
+.netflix.com	TRUE	/	FALSE	1803391698	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+15%3A08%3A18+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b79ececd-6406-4b83-baf0-1630702677f7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B72
+.netflix.com	TRUE	/	TRUE	1803391697	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLqAJg8hnkX1iQFvSvRVzN0qMNdNMzgKM.%26dt%3D1771855696698
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	37e8e84e-7885-4cf5-b518-101c8777adf2
+.netflix.com	TRUE	/	FALSE	1779631698	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1779631698	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

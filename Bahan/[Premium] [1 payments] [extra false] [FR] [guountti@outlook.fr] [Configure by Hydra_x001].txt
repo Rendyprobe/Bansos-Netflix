@@ -1,0 +1,19 @@
+
+– Email: guountti@outlook.fr
+– Verified: false
+– Profile: zerma
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | CP_FR_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonAlertBoxClosed	2026-03-23T18:22:29.057Z
+.netflix.com	TRUE	/	FALSE	1782066568	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA1rcn9EzzPEN6hx-46_JN0F5w5hxlU3Y-9s3wmIMoRwu5R0NB_siFGR8mTKOsoIWpGOb8t5yLudzIeqQTF8VzR30uNXDmmf5ngjlVEsfRoPBSNsSYTf9zJSBuvfL1WO4OIzNtWJAAg1yvTXiaPGP6e9p9qr6tDWxw6rOb_qRDnaUS4pHsuy_Q-Sax93cymrXWba82Y_15LOzJZvHBYmEhhRQjgMjI8uvLRG5rEoJLJ5cTOYjgSJN2tS2lrh9p6U2vf1la0eKiLoPiaFNvDp9VTuye6fIk_Evu1Hd_6aQE_sky8cmwhFoKAATgZWjFrcRZYlhh44CTu8X0nBSw6OKiNISlkB6FOQY_BfjFoxo246daGeBfFsBs8uw3tD4m4hF4QZegvBzjNWQp4in2Wb_d2eoUK_8Aq5Z-bDiB-IId5pHvFghePWpUebXpY6n3t_NIhqCM-37giyV23YHbxg_ZOMrTux_DRAOCFkJP_FgTiHqgVEUTp9b63dZfvMKkpnwHO_wdJ3B6S4VJBF0oIijdeI3n7mstReEXE8E-hgGIg4KDJU1ZD7roqrpRhd0EQ..%26pg%3DFUNC2DWHT5ACPFYK7UGS5QFU3Y%26ch%3DAQEAEAABABQjcqst9UZTx8jbOXhYMxtR3646HbxYVAs.
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+19%3A27%3A50+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7485836c-f488-4fe2-a36b-fe6317c4cf74&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774290149401&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	FALSE	1782066568	dsca	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	nfvdid	BQFmAAEBEDMzoXlVli19a3K7n_ca9a9gUN_wLCMHzqv4p2YyOdjL2u0W2CD8KKG_j7SiGv_iG-ROENyG9I_kQaZPRP07goZMV6I_ZS7pNVBv6FrpGDAyo8RmFNuR4jwx4iT0Y_jzN88u0FdMqWfqecNXPyHXZ18q
+
+Follow: https://t.me/hydrax001

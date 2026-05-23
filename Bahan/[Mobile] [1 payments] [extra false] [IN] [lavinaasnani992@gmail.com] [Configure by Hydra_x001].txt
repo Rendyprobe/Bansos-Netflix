@@ -1,0 +1,21 @@
+
+– Email: lavinaasnani992@gmail.com
+– Verified: false
+– Profile: lavinaasnani992
+– Plan: Mobile
+– Next billing: 9 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( s***@oksbi) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802104032	nfvdid	BQFmAAEBEFj3QPfG1LgAx7NBMHInRDdggvHmcKkszjKwWqPc1ihEZXbZ3lviGlFA8E1RWuky8krY6tUBYghfbas8fCDKorb6dS1D5ofVkOiYw9XOaMchtJ_XbNqIqOwh7fbsNVi-n3QdxPKnmI0WriP2DaH_h2QW
+.netflix.com	TRUE	/	TRUE	1810062064	NetflixId	ct%3DBgjHlOvcAxKZBNTETnn0reOP0ENMDq8cw_YtJuRew2w6463nFzqtueZnE1xQjPKP7boc3pgFilVMi-ac9uiHiKRspZET6CInCzYXcNjg7_LIC0iTbWpsmT5qHhr54Smfk4kSQ8JddqUTqced58ZRFlzKijBVyOnFeXhNZ6iBLwfFOt8uk6_MEMQtLx36oL_cGn0PBnndxS8QuIBxE-dIHkuPZ05BivBMn8cMZZADlE5jSfiRT4KPylNjn1QD5tXBhIcybKodvNVctRpcDUq1qcEx5H8ZMZrVm8l0abj2UtM-tqfpBDRUOw_Wj6q3wUl0zcZbOGxYVpcDNj_mhwMk4kBCvDxchRKyV4Ke6S_Yf8mir2b-Uc2a3Xy8Tx1dGhS_J2sZoXJjnZ4IwEY0rbAtcHmEHL4dYrOOnkSWvBSNKfQOguvh0Jkb3qtqYWiX9l6DXF_dHeUGlB_cqcQ9gE1nRMHXKNZd31j8NqFDOdURxcb-06npkqV0g-RJ_7FjWsmUMyM-Shi6KoFGvQjviPSbf6JzwTcz48sDdsUbNiB-In-lbexUbeb7nlzVqT54NTT-EXaM0lQaSTfdFbLt0P2XnBIj2FV5Flh1NPL12p1wtLHOKnbAUNDznFJDl7Zpj_eeGhSBTGmaCHObixK0xPb6qF5tB89QfwYshXWRb5WTwCfMBXxeBzx3Kkv3z_5zaHBuKwOtPM_Z8eyy5f5S8N5yKR3JYhgGIg4KDHqSPpIgxCVn2Wu5YQ..%26ch%3DAQEAEAABABTDy7wUxYoy2XYFlB4tLdbJD76_vxl0q4w.%26v%3D3%26pg%3DYKIPCEORDVC4PEWSYIQXJPMETQ
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	884d3ad3-e722-4b3e-a559-28d5c6bf94c0
+.netflix.com	TRUE	/	TRUE	1810062064	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmGz9-MFvQDmef8H5Gf5e-tQvTiOcl0b4.%26dt%3D1778526065009
+.netflix.com	TRUE	/	FALSE	1786302066	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810062066	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+00%3A31%3A06+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1428d5d4-63cb-4e75-99b6-07d76bc93038&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1786302066	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

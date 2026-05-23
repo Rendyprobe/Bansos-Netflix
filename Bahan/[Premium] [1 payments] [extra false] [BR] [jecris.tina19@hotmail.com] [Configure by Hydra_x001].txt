@@ -1,0 +1,21 @@
+
+– Email: jecris.tina19@hotmail.com
+– Verified: false
+– Profile: Gustavo
+– Plan: Premium
+– Next billing: 9 tháng 6, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 1111) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1802725020	dsca	true
+.netflix.com	TRUE	/	FALSE	1799701019	nfvdid	BQFmAAEBEJatjT0MWpdHsidUNKo3RWdgV6uYXiX23gfVeZy86MdiO4MRAcaFL2ik8BZaxTtT6CHfpUH6U_6MfYG6BXemdlLFX6Fm-uvMCTz62HOROC0XfDTP5P1ylySb77VKBBraGLCHSdEweINm5XOjV5tswjHb
+.netflix.com	TRUE	/	FALSE	1799701043	OptanonAlertBoxClosed	2026-01-11T20:57:23.083Z
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	9523161f-760f-4046-9965-213c45a6b541
+.netflix.com	TRUE	/	TRUE	1809898155	NetflixId	ct%3DBgjHlOvcAxLpA0Hxf558W5VTs2B2tK_lqTYySPaqDkBSgWGfD6bjlbPYArIaipxGqgIUSzBpqhIncL-Hnq4yVCkNSGgDPhAWqicox2Drv95oyXKi7ZvS9MoNet6CIG_JSlS2iN1i2ol_oAXRAXHx3OWTfVUBiyqDL_eVRuyK3-9p7E4-gO0kqDni21ARH-Su2uaWNC9d5rdDRBRlKYrDiq0OTIaixkepWaePwVIBr90DAyEktdwR4HOo1Cr8QVpbjdcejDJ1QrxAkfznjbkC7AQJ_aPF-3T2o9rcCv2aYSn1Lty3IZGDEA46Gz_i2d-8fBkw8HW2AjyRI1Eu8X2Z8PIDdBRd-VVFkBUkBc3z7gNlVGzTh6J1HX4wVKLKHqKINcwIwRv7C3CWlVicZkbWdMi6xiX0_urXaudwNN8oIwXIvIUbAWXNbCbt2RLKf2vCLK4UaAz9lBam111si3DPj2amOLW3bB7t9lQ282T4-meEWn0GPLRqa1gWLLzEq1e8YxC-SvvH4WWPO9aFR-dVoF3oIEXYOfa6oY5CwTvBSaDC0g_KBJoC-up1_D2raaOvoJpvwDsgr31F55Z8kH7mQrmgOCqNyWYi11lGHvylI-Jz6kS7yID8bNG3NRDSFPm5KPLYyG7FI6k1itkHIJDOmy4ynBgGIg4KDCURntLO2Aljy6v6Nw..%26ch%3DAQEAEAABABTx8PD4u5ITXzuEuI2ROdwXyhzjvql1laQ.%26v%3D3%26pg%3D56OM7AE6WRGPHKTWQ4H47SDUFU
+.netflix.com	TRUE	/	TRUE	1809898155	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHvur0t5BjghWFjOW4LN3aKWC0XgD2azQ.%26dt%3D1778362156863
+.netflix.com	TRUE	/	FALSE	1809898942	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+18%3A42%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=03d95fa8-e60a-40cb-8de0-439e8aef3b7c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768165045075&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786138943	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786138943	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

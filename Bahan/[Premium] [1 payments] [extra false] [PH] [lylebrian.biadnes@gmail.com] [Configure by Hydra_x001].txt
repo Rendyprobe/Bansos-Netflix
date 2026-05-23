@@ -1,0 +1,21 @@
+
+– Email: lylebrian.biadnes@gmail.com
+– Verified: false
+– Profile: Felix\x20Ivan
+– Plan: Premium
+– Next billing: June 13, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | CC (VISA 9452) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794672048	nfvdid	BQFmAAEBEFvvs55bTIC67q7RPQC5qUhgSdfrG7gyS2v_NuGLRNyxLsvE2CwyAu11ek7lRihjUohr_1GHdEtMU8raw0Y1c55B1ioCD1vxtMnfqopQkHDZDKtG2G4I547KiOrUxJIQc2mJBjRbuxgvgtvF39HN_dLb
+.netflix.com	TRUE	/	TRUE	1794795280	NetflixId	ct%3DBgjHlOvcAxKYA4LeP_8KOjTfO-VWGVYf4sVC29syg1bVKdpsqL7l9r097pwLpTvRg2vR9UcaHHugzSjnTJ3-fTTX1qJe9fnk01i6iEGgQO30EkNttXa6xM-EkktBoySnG5C2Q-rleNXShYchDw23lR6UfH4AtJJcjxbNDQYlneJie75EwOF2_h1spbc_4Dh6Xwn2k2RcxriP9KJWlGfB6pZpcwWZZUOFAsj43O0xQdZ4DH-CUBU4c4rwETSGesWg7FdeourOMIelADpO9UIxltFEowOBKyhKzrSgOTLue3XPUIA8Xhfihch7HyRTbamjAfqdIjuoYE6M9gFJmZC1ZTmWW2uSqiOCs9Z8mCOCBLdp1sBJd1iPUghlwoHnDoi4jWpTKfQk-M3Ts19e7R52qZL4jAykyDG-g_zGE5yvqkcIrAwgkFEn36O0LQBqW7oxpE3vBDpaqBkSqzzNrtNhtiLV9y2VOT0eRtyFoiqJ19VtxLyIV8-Z13mBaTaiMfQJJQMRImnM_YbxScJdrFlVVbVKu2CVbR0fNBY32d1Dkgw6zxgGIg4KDL7fICb0k-dE3vJDtg..%26ch%3DAQEAEAABABSmgxosR1FW4X8I8YzEU7lwlQ8JzFqDFA0.%26v%3D3%26pg%3DHCSTZK5RHRBXXFBL2CKHPAGXQ4
+.netflix.com	TRUE	/	FALSE	1794795281	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+16+2025+10%3A14%3A41+GMT%2B0800+(Singapore+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4dcffaf9-b0f9-4e1c-847f-4e170edf9478&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794795280	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQdTei8_VlPfmmsFrXTydMw4B1W5xzdV4.%26dt%3D1763259279297
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	a2edf774-6b95-4bad-ba40-09a85e72f893
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	9b0fe5e1-7f43-4a70-ba5d-a8c6857164f6
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

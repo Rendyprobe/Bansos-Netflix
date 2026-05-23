@@ -1,0 +1,21 @@
+
+– Email: aquinopaul979.jpa@gmail.com
+– Verified: false
+– Profile: aquinopaul979.jpa
+– Plan: Basic
+– Next billing: June 10, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****85452) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801013963	nfvdid	BQFmAAEBEC7DyScswQtOf9wY5x0vDvJg6GBsXfkryv2EOjDvOe_bjCIMwET3rpY3ePyjf6TTPoC6Z4keewp3DPR1oVlm9LgQp9Su30XWvRZjLhO0Ct5lNVSjE1oJ8czdHhcrtYtwsdY0TpgrCq6Q-Jhjjxo96iN-
+.netflix.com	TRUE	/	TRUE	1810445615	NetflixId	ct%3DBgjHlOvcAxKFBP0tQk7KZAi_rVMKWNIZt4WVWt2B-JV1p88d2HaCm-puE10RsoHZbouTIxK5rfz4-jtYibMp23csnxuN4J8e1szyjCbmEH_eNS2iO2SVFugCvctNQoOdVxZ13_V8kW7exqBmY8TQkKcUzOB3kom7kmSjIWlJtVkgmmuUUp-7rzPpRkLTDGTgEA9Xpnb4nYyHhzFVwtOurUZHcP-3GEEa0cVeEC-JAzVznEYj2rkrHOM9fk3GPA8wqm8Ibze3Kwpo1Awq9wMRLYSKBl2b7Ru_E5UOaLk7isaii9tBqILMzOZJ2gOaHmpGyTQozbAehe-msZ3okiqnvDrCm1vrmGUu3A4ocCEvwg_8QyPZ0khBCsxl9KzsPDnYvVVbgAt9GHrTGhIj2TZSWmR4wXORKqjbmxXsO5dkkqGzBjZMEwL8rqr0ue8vyIyz25TKIFo6UnV8jNOJ2YfJjFlsKC11-xs1xwFYfds-OIafQCLeDl9t2nNkvwns52-6Txw2UdtT6lDhhuf859tjXLR-VQ-w1YBr4AVfA6RhJK7U_vANo-eOArJZl4oHg9_ADg8YolEJt-EAK6E9-L86lZSFJ0LtghOz2vUexWrcCJOY8fcVZZDgFQYcdn222jsAT1X5aH01IaQlcztbDC8Zg8yx0NBYzWxojqAb7hmZXBwaNfa7sbRtLSiTUN7FuOYYBiIOCgycoJ7KRKukfeoQwjA.%26ch%3DAQEAEAABABQy1dHSGtb56epYxBQDSiwoTokypdR-LwY.%26v%3D3%26pg%3DFOLGAL3GMVCMPNYBZ57BR36NSQ
+.netflix.com	TRUE	/	TRUE	1810445615	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPTHUk0YAcYsvvEyA4cKaBwyB1ESX25j8.%26dt%3D1778909615322
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	de3627c7-ddc3-46fc-ae4d-3ce8a5eb77a6
+.netflix.com	TRUE	/	FALSE	1786686592	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810446594	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+13%3A49%3A54+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=190614af-c4f8-4c99-9270-6756817d915c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769477934404&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786686592	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786686592	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

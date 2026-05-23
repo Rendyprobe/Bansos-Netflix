@@ -1,0 +1,21 @@
+
+– Email: catarina.wandal@gmail.com
+– Verified: false
+– Profile: Elis\x20
+– Plan: Standard
+– Next billing: 6 juni 2026
+– Extra members: false
+– Country: SE
+– Payments: 1 | CC (VISA 3200) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-02-15T18:35:39.363Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBED23u202DE2cDbl7SGXiLnNgGxeJNb9npS8Z1h20Lips5gr2xBhsTmECEUtR80MamyYlDMXUR8U-dPBqcie9wdNEUeAW80cWGDwU0bC2OvUa3ioiX0biwGAr2eibGSundqkJV2R8EJkMixrPmOoK16_p
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLoA_HMY70Mzeq3FTEt7k-dsOlEsRKhGG8gKh1avoE_ki-pT-MQODNR6FNqe4OkkQCka1rdG6vUMWo3Mzkomz2UEa7FcRupMFHXdF4M8QBxyYCeskWeYoe_famX2rFEMU1HdZtP-9jLXC4Nk8Ev8nl5F7lwoCj9EFTDhHU_PDM0xGN14tywNrKz0dVtH8yVw7VlCC_Z3gMV6QiHVFqKjtIsh6eiZt67yMUMSAhhxtPfWpF8Wgtay2Hhm-QUfhTDZxQfhh9ABGO3Xyii2G7RC1BqVOaLvjifvJ0Cl7isVJbIarj7wKAShoFP3JMwuwFmoQjWsNRA_5p7tctlOn2YS3WujYCDs0SFxorX7UMOFsICSobJ5XJECDkgfzElXw2EzBwlDn09N8xFa-2ubE4pjcqDHoMBe4XXAdqOZ7rzoEWu9ofp76j2gLkmKur8qA6yUTvn7dn9L9C_plhlro9gCm9JvUkBftrrDkuaCDr3y9iWGF--spHb9JNlRLwYYCDyIT00uoUh7b1PUFDmYsCS6TpOseUDwu2loyiETReYTRwDM7Ha4yHg3209JxCx_McNkLPLlkva_oFBVJIt_CrgW8yALjPOC2GPDTzb9FokGPTuPuFPqravommVf5AtEDPnnS-biXMZRDwORtHDGAYiDgoMbZJOBHEYuj2um7O7%26ch%3DAQEAEAABABSigAONGY7WN57lem3t9JirjxOkTux0w6M.%26v%3D3%26pg%3DATUH6O3SKVEFXFCCVLDWHKDSZE
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFR681kX_Vf4zSulh-ExKE2w6PCHAj8Co.%26dt%3D1769708840044
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	dc862bc1-472a-493e-a986-890b626fd42a
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+19%3A22%3A51+GMT%2B0100+(centraleuropeisk+normaltid)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a0020b7c-7927-4b10-bdda-c980aca5949a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=SE%3BO
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

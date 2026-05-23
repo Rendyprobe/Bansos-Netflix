@@ -1,0 +1,20 @@
+
+– Email: nabeelahsan234@gmail.com
+– Verified: false
+– Profile: OMG\x20ZALIM
+– Plan: Premium
+– Next billing: May 21, 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (VISA 5807) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799059014	nfvdid	BQFmAAEBELmq9Bo0t4Q1Fck54FPaNetgk3rYky3THHHnw-MRYSZ-l8990vDU2Leb6GAva1XkGaKC3qHGZ89AbDC4nZnQ32kwP9BLeKSX2c_qUbKrvBSjjZbULmzHYYBTKsMlgJC-AhrIlVyZf0cUsJ_7KlyGrPZ9
+.netflix.com	TRUE	/	TRUE	1802267311	NetflixId	ct%3DBgjHlOvcAxLqA60FfG5gmtVNGh540GQ4V2Pn_8C6Cpq7-HlvB5HAy1i4rXLinC9ZnQTJMb6VkH_mnRllGdpnyn0ChMtPBwOGQKnKKNxNRADdia4Aq7qJIJgaduimHeWY6OMV_dMyBvFixlED91BrJDEB6rPIX4TVzJZxKPDaGu5tEp2E_81Lk89IBWbIOvA7NlLX20lrCCIfk3Qsnyt3iUKjk0inUl1sGjmLKq3iaZ0MrxSsl1lyj6h2FBvnMNn0ivdo0JTlSB9yL3hcrBxyb1waK495SNrnhp7tTTZVr60ZYENR75b2kp6LvoE_PED0LNcAHx4UzZwSLCDvl6-QK0A9xFaX0o2NqJ-PttRCS6sLerfRfidD2qLQckRoVVrj7C2VpI01yuA1GRwn3s8swAcFYB11KCoDjQZAYeJpqydEjI6z0NSQo4QDausM4PMfxHIbk_zDHxltEOGESbilPF8Ee35QjeJwz_cpRiBkMybw52mCBTkZ8MUBp0y3iYxcf2Ikr3e8kSJNaV-jVqVTVOTuHDTLfKEOfsdziGfmspRkP13KL7HaGcdWzMhAnzgfgg_TKveFRPGB9NLx5Ia_kauQ-IrH8v51n90j0s761pIkyGQom0OhAUMZa0DYVi0BN6Fag9Nh5B5tXtt2JbmIxxK6eBwYBiIOCgx_QTqR0nRESKfw3PA.%26ch%3DAQEAEAABABTdViS1tikgWh_qrKnmMCpSSpTaP765fFc.%26v%3D3%26pg%3DC6DIGWHGCFD5DPX32NIHAGGCV4
+.netflix.com	TRUE	/	FALSE	1802267316	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+18%3A48%3A36+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa2482fa-cd9a-4c7b-bb7e-8a17281d4d72&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802267311	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTlH4z2-bRRdvOBMDuf6imIjBUZaQCgidw.%26dt%3D1770731309205
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	237cccc4-a48e-4a61-8d99-e731c93e32ec
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

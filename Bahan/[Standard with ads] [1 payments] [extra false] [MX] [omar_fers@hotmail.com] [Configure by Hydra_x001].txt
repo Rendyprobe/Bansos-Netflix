@@ -1,0 +1,22 @@
+
+– Email: omar_fers@hotmail.com
+– Verified: false
+– Profile: Shary\x20
+– Plan: Standard with ads
+– Next billing: 26 de mayo de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 0218) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1790172699	nfvdid	BQFmAAEBEHhBRgfkOfSglPAIUMOFEM1grRYaDgDfBJkdVgMyyHmjbCJni-6T9JLUblVV-klun9pW8GDqmc2IlG3Ctz0ki803mbSI6AmwpQ4pTb1ktFaWJCQ-ByQbllTQvGEIDU_ez_dNS9KdiJzVmwqDBsDdFld6
+.netflix.com	TRUE	/	FALSE	1794440471	OptanonAlertBoxClosed	2025-11-11T23:41:11.410Z
+.netflix.com	TRUE	/	FALSE	1797547581	dsca	customer
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	b01b9ce0-3e7a-4e92-a265-92a854e4343a
+.netflix.com	TRUE	/	TRUE	1807754074	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA7x3LWzTOjjD1Nyy_CGa31kLDB1eo0KEAJXrd4pHxWy3xG57rQvCtc-9e_KQdheDWNpLOZFM4HNaoPYntVbnWCrGK5McgBSslI_80_FtGSI0Xx9prmpCxo3fdahP1-5ufzS7VD4Y1uGW1yM5Tgk_M5rTYcsaenxqcCLT96hk2ujwtmOV-TERqCYJV_Rq0Aegd4ZbrJaOBaRZxMjk4sOaHmb3XoLMvmTFN7vrKSkayap1XDu9wGB9-F3p-oeLESG5GENsztu1SBL3SSgD-VR-kpslcto_OwqSK5mKdtkcKSnyRh3rNOVJLCwK_qK7W5yMIFUx2GyvUjtwohPj9hBpZsJflqsWflIzWHnKlNfVoLpisRCKxyD6Tdn-5kavtFxjIQ3IDHd_2KgpUiWr0EDYnYpVejqkKW6-rSMGcO1UG298YpjmBfHjKATtfh9oZSUNlKQKStOGi_QJZlMCmQoW0ACbbBQR57-pzYYOlo9IKl_SkkzDRjF-b0JxwjfE3-UcLHczgLoeZMO275F057VH_AYDExgGIg4KDKBldUOZgpGozYg95A..%26pg%3D26NTC5LD35HP7CSI6QCQPZC3DE%26ch%3DAQEAEAABABSF-YjslcdX6iehfsdI2sn-PA_pyqkYchE.
+.netflix.com	TRUE	/	FALSE	1807754074	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+19%3A54%3A34+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b40f2823-97fd-435d-b6b7-a6ef90f97c59&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCMX&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807754074	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtPD7w9jM38spDrzf6QeqnS6Vzsicrhno.%26dt%3D1776218073624
+.netflix.com	TRUE	/	FALSE	1783994075	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783994075	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

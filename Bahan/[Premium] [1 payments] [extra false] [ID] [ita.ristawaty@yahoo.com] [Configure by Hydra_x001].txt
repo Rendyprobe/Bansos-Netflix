@@ -1,0 +1,21 @@
+
+– Email: ita.ristawaty@yahoo.com
+– Verified: false
+– Profile: Iris
+– Plan: Premium
+– Next billing: May 29, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | CC (VISA 4519) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_At2Yy7w4_ymJJquNBKR3jr1y92DDP52CoTe2lQ82tiCUbekFfccuuBtibOCc79DS6F2JApfgy2rBm8ZY0dbdBuFQwGXk1HYnogCZtvKlsQypzApa6mpsOqIBrb-fIThit9RJL-vgpACFdNuq2-tteQArBLqiSzSnfo_JXuGfoD8FNCvUXwsReyLJYIu5QqdmgwCsPlIi05sN2tFG6ETaalwjOFQYa-l3w9IX0JNOWs3u7jDST3Km7andWp9jkOO1nINLRWgPXMH6xxFS_oBsw-GCigTFjaOSyRIvfu_mZnHSp2eipXBOPAsq663qsKhPpth-EITqJ0XmjiRHT6HQ-Sf41mAkEaWb834ppmnk86lY88FZSTvxKUErd-U86kGmcEO9ImPGPYzmURcTEeuwcRRobfmBJMCyTAlbgycaQw715TqXB6e8kfI66D1Uix2MzqQB3PValg1-uEzLvLo5lz-ypKEr1Y37TslHbTh9CXkE7xK5ULdvS8YG9Yef8WxfGAYiDgoMlfYLD9s-yGLBfgtL%26ch%3DAQEAEAABABTOmY-hBT9EofVxo2kq2TZNSBqMy64-nrw.
+.netflix.com	TRUE	/	TRUE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSW_D1NHDA-mnwcmRSwaHFbK0-wbKTmk2o.%26dt%3D1740879902345
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEOAQJeywUW3guyIHvLxhwx5gJGR18QAJOqfQNIe8K79e3yq5a9ODdznpskCxGMSTvdFNVMOr5r3v5AHu5L_MhyxxiCI8864c9t0K560taPGNMTrUiRfZ3qRkuNcORC3_HF3RYAyu1JqGLZExLNOwAF6_
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+02+2025+08%3A45%3A35+GMT%2B0700+(Western+Indonesia+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f13a3b2-88a3-4a9a-915b-61edc006fb75&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	4ca84329-6fe0-4206-afab-46f8f486a874
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	d8768146-ed4f-49dd-be25-1ff1ec0e3efe
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

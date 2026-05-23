@@ -1,0 +1,22 @@
+
+– Email: miciomaci69@gmail.com
+– Verified: false
+– Profile: MACI
+– Plan: Standard with ads
+– Next billing: 23 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | PAYPAL ( mi***@libero.it) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808644186	OptanonAlertBoxClosed	2026-04-25T09:09:46.017Z
+.netflix.com	TRUE	/	FALSE	1808644182	nfvdid	BQFmAAEBEBAAkciGHDzLlfyhKl1UsHZgAyq3da_oPdDSVJKSSSsqjcvpfi-PSGWq1NGVJCMhy_-4qi6LEV7l8mF2UKBW0kttw4nxdPrswxJoNSUoH46Af552Sm6nCGKSpdty2YmSOewOFMH8sLqi5mhkYk3NNlyj
+.netflix.com	TRUE	/	TRUE	1808989188	NetflixId	ct%3DBgjHlOvcAxLVA13vwfF-1E78i7ILCv8F0V9LOeRsF21cRYAuw43jic5Fwvk8PDb4sxcmFEDkeQbSuEBMHs8yJOnyVtE7sIB5A1e-4hL_LJpA0_vZz0TNibLAzZRKNx4KVGSH4ZXmJsH9Ltu8B3Z7ZN4vYiky9vvwOY1XAxJyfG2Iv4xm-VmfqkfWv0zyKk3rifsoYCBD37ieoqyVwFPc9wjCxg0OxW5tamnOnAboX92dZWT4e70XHsDp9yZuEXk2XHRQrgLT3pnjvml00VFskA_nohV8-dSYIoSNUjRO9C6OWjC1keQy2V3IVYVZbvJImCxxFHM-p7DdsaTfLhftAEjFO6Cod0as1COeRcuYVnMtfNFGoBZS5c33ElIgu8refYJb5JtYDIefH7LM1gDf7p1lbLrSDtM22PXnhoqHipFjbyiGVegMSwsg5Fg1a6VGM6q5_tvwETaqv7R4EiQETnwowocOHbo1cwce-KDWIDq0IvxpxqIseqMn9en9Qkw4EB7Db6FH0gX4qINi48CVEKj4lpSwHEoBaWx92-rUMQbCduV0NWegkbN075tFVUyc58iYcx6o53XDqOsTDCAXQmjxxJ4tHgNrgAXdQ0tIsXq1IA3v4ydPR8SOWuXvn_oYBiIOCgx_VVDwm5MNW8USbOo.%26ch%3DAQEAEAABABSgV_89W2-mchwmRUx-YGn7tLHitZMAU8Y.%26v%3D3%26pg%3DLTQ4KVE5IFEIHAG27O6DEPWWRY
+.netflix.com	TRUE	/	TRUE	1808989188	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqgI_Q4_kWJmnV-1sVHA26zQbNwZLfUO4.%26dt%3D1777453188031
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	fbe3bf91-40c9-46b8-a2f4-7271ae3c93c9
+.netflix.com	TRUE	/	FALSE	1809001800	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+14%3A30%3A00+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=99f26c0f-5fca-484d-a96c-8c3c8d4c1b37&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777108186430&AwaitingReconsent=false&intType=1&geolocation=IT%3B25
+.netflix.com	TRUE	/	FALSE	1785241800	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785241800	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785241800	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

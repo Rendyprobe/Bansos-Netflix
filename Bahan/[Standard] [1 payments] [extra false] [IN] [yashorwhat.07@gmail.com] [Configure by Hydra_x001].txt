@@ -1,0 +1,18 @@
+
+– Email: yashorwhat.07@gmail.com
+– Verified: false
+– Profile: YASH\x20NARAYAN\x20TIWARI
+– Plan: Standard
+– Next billing: 27 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( y***@oksbi) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806177690	nfvdid	BQFmAAEBEN6FBL4lcvrtPujeM1_LZepgPuPidx35rMQVk7RwJljloD_NkRS0r009JCnmnjdnz23dtIn-FdLTljz-YMM8iVzZOTchw42HOrbTWfqbFr_a6gldHaDWiGzbbj4R8Wkadpnqx6B11THrBRNlxN6GPaEE
+.netflix.com	TRUE	/	TRUE	1806691654	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA5In7hwhRd6_FVP9K4DJR58U_hBh3WBxjgzKRWtPu1nrQ9P6SyaBJJ_ceLVfWtRdsjrOgzyFr9kXfk7lHW5vTZQxLxEMdAG7ckuN6RkE82bRkSeN_Q9Htz2dHZaadQ0lezU-gTb43JzflSjh2iq80bacYgPuKzqKKhRuV9KM37u9d6AxcESWt6HL8OzHQdQfUgCdB53iePyAAAzjHuq2jkfppFBm-nV9g-Co4Evfl0wxntXcgWrC5VVHWsyuXaRKTrUc5uGA_10GqQ04KUlM20HfjRLnFI1eSHrMSNKgiL9jrWrFFZZZxgPd1K6aflaix03Sqtk0HBnuRpJf6IHjgMccnSCCWMcmaJXN2wQuPxJSF1kzvlWozqB2bqOPlJ4002z8HeH4dlghzIML7NW1k5Bznz7bLvWin692L4Z2b1nI6OtwzryEBeCvduSqd-CD-OKPNBQ9MJfgHGBH3paNt_dLtUt7SAssG0mf-gFgpmcTQCkFZi8744NGqUGhS8rhPIFpBtrPTSQ7QbZKpjzCKxIpt9kkMJh_gRtfPGToODSZr4kYBiIOCgyu2KLmSbr1UJj3SXQ.%26pg%3DRZWIHCXPFVHOFEYWD2NHYBYPRQ%26ch%3DAQEAEAABABSqY84r0EL199O3BhS_sPNE8Sfi1pRPubo.
+.netflix.com	TRUE	/	TRUE	1806691654	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTY9aPplcUhqo-bidmEFL57GtMeB7tHa10.%26dt%3D1775155654713
+.netflix.com	TRUE	/	FALSE	1806691898	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+00%3A21%3A38+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9bb51f83-770c-4b84-9a0a-9667a0dc28c0&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782931897	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782931897	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

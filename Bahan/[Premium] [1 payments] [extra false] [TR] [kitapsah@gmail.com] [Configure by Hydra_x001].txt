@@ -1,0 +1,18 @@
+
+– Email: kitapsah@gmail.com
+– Verified: false
+– Profile: kitapsah
+– Plan: Premium
+– Next billing: May 24, 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 2286) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792594105	nfvdid	BQFmAAEBEAm4A_IxnwLukcKJL20Nny9g3Dou3e5hliI66p8GaaygEkP6ZftEvswpH5u4gZg5VWfVyjc50lSwNc6jsiFMR26OPJOU0tzesVdPzYvSE7abCv5IvsK3VjljT1lGPaixRn7hI9wOE6z7jxzfIV2tJEZN
+.netflix.com	TRUE	/	FALSE	1785614269	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785614269	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785614269	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1793428155	NetflixId	ct%3DBgjHlOvcAxKSBBJEDY3wl32JxKPlZ-aWIDY1fZpQ0WJJG2tWntLjiolAbGBxpb5sHhriCjWlRKT8v0Bh7Uztp-LAUwiOdx7AWeOo9XjksuFShoVI36XrklZzqw9KlNSeCZGDnasc1rEamS7rOJThf3AeWeuayuRk4igEFEBr7HhTIAN13_lGFVqB72nRxLQkdvw84pp4tYYEZJKfTVvtUXVX2kYm8bNIAcG65xAKTVh2pP7Vjirzpe7XeTQxJSShz23IPa1J7lK1PZp0adI8mzft58h1Bu7TfmeLrVq3sljWdmIi-OomyxmvvREf7TAc_ifBVCc5FYk9R9o8fSh1-Uy4kZtcuzHv27EoO6lsD7-LzxkCJr2DROw3DJ5x4O-UZSuTqhWjoAti2g6gX0Osq0Ds7q9iqdouMVLhauo-4pEuBp9SrEVxp3ypWuDJDiCAxYLBQAsbzRchoLRfjrfvgPRwM-9lCPHBsUb8nLJOyjlwryfgeT7ST3xSKTRDnLkfEDcxs8Uja4nNCyJhBGCXSNlC_lLjQ9UAhv2vOB3jblYrGXFUKyVFA7AosDQNUup-8-TOqzEs4fTHH3x0swkrCSJlOhgsa22HZCAhTztj9rqGokKvIQTyDUQUdVAlnYETAeeJwyTrdZZaiLSNI0qjyL6DsJ6ODdBegQ0cz2hjyQwenOgk9WobHmiHIO6lP1e8MR2S4EW8OxsgNM0WGAYiDgoMbeDTcZ9wkLm5M-bn%26ch%3DAQEAEAABABQB_K_TVP93McP7IYiQcjiTitouS4YnfWo.%26v%3D3%26pg%3DUEPKFONYRVCRVOFZXHBGX6FBSM
+.netflix.com	TRUE	/	FALSE	1781698300	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

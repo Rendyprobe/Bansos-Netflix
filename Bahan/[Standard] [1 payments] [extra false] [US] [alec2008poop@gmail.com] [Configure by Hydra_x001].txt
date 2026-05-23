@@ -1,0 +1,18 @@
+
+– Email: alec2008poop@gmail.com
+– Verified: false
+– Profile: alec
+– Plan: Standard
+– Next billing: April 26, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 1299) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AgOhyifovta3RiiJcwwuuXQOrQp7Fhh349jZz0LgFIEnlUkmkmx9DqCOxsFb5wUPFxOu2QqJYI7vkoXxvt0jsP_1e8iwrdC0jY8PvhhmGzrFuHxF_B_AdSfV-YY-wt3871NsAY61VhuY79UJZox1wgL4I3f_9cnScYIC8LF0UT28FyUWe7ILndPSbhORPfoxwU5hBp34taC5YfhluJTsU0eytdP2eArRCBiWAkz7j3XFc4Z7zFvFZO1MSTnlCrmLpDSO98DkM2woIOw-o3yKBGPua-L-SXuBJ2lHyLq55rdpP1qH0PjDWILlb4NGtJOrga4WZ7lNLB-_rj0u62SnOgo_4DQKJQ4lu1K--HVY6Ocsn30stI0wDBnpgxjxOUc22afVF2KyNpE7d32gQQpNar1hXGa1sr5pr5DFh_gpvIO3IJNe0iPhf_rtLtbRqINErnRa8x1B3o5bCIZqfvJSBoqTe00G98LjADsNwtqYAoEtt9V7ENqaVuPGGAYiDgoMOlIgMhLs1V07r85c%26pg%3DZ4TGZBC57VDYFLAUKNJNWAZC4Q%26ch%3DAQEAEAABABRoW85BnYx2WwNo2dkoLRmg1RfhiXg75Qo.
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+18%3A50%3A28+GMT-0600+(Central+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b9dedefd-0339-45e3-a3a9-2cc56d203e4f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066568	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdKNi9td8vuUW00c9KYXqTlLng1jJ7c0I.%26dt%3D1766191817547
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	nfvdid	BQFmAAEBEF0XHDYb47HWUIJOchygE_1grt9HCXIi9iKsycZrhWy5MAV6GIPXInEQaOB1F1Uwig-_POPGr7MT2fkterNoPqqe3CgaIrXQPcupZFMGJl_ChAVQnwKbxBvkksyBFMYFmXWS_xyLA-v3hakvF27DeVTN
+
+Follow: https://t.me/hydrax001

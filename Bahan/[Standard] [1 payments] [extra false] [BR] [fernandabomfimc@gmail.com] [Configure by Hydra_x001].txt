@@ -1,0 +1,24 @@
+
+– Email: fernandabomfimc@gmail.com
+– Verified: false
+– Profile: Matheus
+– Plan: Standard
+– Next billing: 5 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4654) - Hydra_x001
+
+.netflix.com	TRUE	/br/title	TRUE	1811678944	dsca	true
+.netflix.com	TRUE	/title	TRUE	1811678945	dsca	true
+.netflix.com	TRUE	/	FALSE	1808654943	nfvdid	BQFmAAEBENmGvfnjwl2zUydUN5toryhgTLm85MwRgrcMhfI480Ayx2OOcMcw4JFMdET4z4PeH8LIJXomPmHJLp8ab1wpqjRaw6GROPh7IeESMDHkF0XvIzeW9Bp6K6I3oBL_kREaEwlju5l807GjRFDieMX5HUb7
+.netflix.com	TRUE	/	FALSE	1808848670	OptanonAlertBoxClosed	2026-04-27T17:57:50.200Z
+.netflix.com	TRUE	/	FALSE	1812458352	dsca	customer
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1d875f94-3418-4bcc-b6b5-f64cc6920946
+.netflix.com	TRUE	/	TRUE	1809794496	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA1I5L2QoLLgjplXbJX5chuOgoMNtgIo8-jMnQlTr8nBlNSrnX3PYyedw5MXyyaa5djkXBY_IuPEp2FJ6Yqj2CrfzH_owiGYtCpPqWuMwupAEJepZedb74y7EQX4QSWPgQAH1g4mgsZUU7YHJbVkjFo0f5cfUk2SdbPmtiACAm7ooVhfMk7Om3mllsG6oijOyy64fDe95cMbEeeARF_YWhkBE6kw1dLBwAs6MIhIRphoJGgiKVFizpgl-pe3TZFMoCkedjOvKlL_v9omoWje7lIHMhFm3WL80i8hReXH9Dng7-6yvdu5wmf_kdjakdyAUCbHUPJr-r0dQKQjaoVtJpaj-spBWWHMYgwioH0WJwHJ0KeqsA4nvn_f_aT28N6wT3mFaJR4FtrV2XQDIP-IM-GF54gPq6Urv433Ejq8Zy7y8dEk3pMVyHGNibCvQzy2DSkv8yI_kDpbXegEXzb7i4zOYo2tKRvOk_ds4cjjTF1OlMQ2wKnpZBX69WNYZdW1fZ_nRJRuyIpf-UfgsUjGzaISXL_cyb2RMTeAZPBgGIg4KDPYXXdhh5X2gEmZ_gA..%26pg%3DHVVVU2JQHRFPBEUWKQC2SDNE24%26ch%3DAQEAEAABABSZJITWdlzq-YJGOb1FiP9euNRivIhFojc.
+.netflix.com	TRUE	/	TRUE	1809794496	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsWreADzWohAd50AJuyvmow_sPLb-IC6Q.%26dt%3D1778258495621
+.netflix.com	TRUE	/	FALSE	1809808385	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+17%3A33%3A05+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=027d0ca3-2190-41d3-a96f-3e6f0af2c1f0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false&isDntEnabled=0&intType=3&crTime=1777312670707&geolocation=%3B
+.netflix.com	TRUE	/	FALSE	1786048385	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786048385	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

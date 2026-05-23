@@ -1,0 +1,23 @@
+
+– Email: fabianaigesilva@gmail.com
+– Verified: false
+– Profile: William
+– Plan: Standard with ads
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8810) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-05-11T00:24:49.378Z
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	deae8a32-4dcf-4388-ab71-5174018e4d97
+.netflix.com	TRUE	/	FALSE	1802493660	nfvdid	BQFmAAEBEF7sSGsioh-XFRVzS2GAdPlgua8-FWBd3s_vZlD90XAVROyXF1yvMT7Zruv6rKujEkInuOFgWDTPNnm_7Gim5l4nHExaFvGjBRnCJm2AGXgKvzYPXRbA1wzIufnK1Dx7cWZ6joFvWhIDe1GCujVyR4C_
+.netflix.com	TRUE	/	TRUE	1802493669	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA72j7VkhDGQ7DZcgQ4KH3NBcOyx4baeXSC_KtWmOS_TFKmQMw1zJo0JrtKCo59OF-j8Zj2iU2OTESL3_oz-PxZ5Kh13ziZ2DswArxbduv7fQvcwb4hvJ7WqGVlsN7YQy6nQL0vm7G0oNxM__-B92rpwtlChatLGX1a6X4L3eQsZHncc4xO8XUcM2hsRQfbTsn7apJQCu74fIdOTywxfdVNFFNo_1K3x_ejCkClKyyAV8G_1Sxzk8n_3VN5KglcGXbZZ7PgBjXT6i0r2mYvfOYECtjYzV24uG24qqQkE-q7F-fy82TXhg1Z2K5qZyTmBG607l3yiIT3Ff52FGCYYl39xNtnOu9H_VVIVIg32DVLIzwrFJduZIJI_wajiNg7ONdB7iKz7zbTEh0KS8TYSOqg9w5KvxOKcO_hFgzV22445ZTq-u0fXwh2mm22jjGB9-0sLZutM4bxCWP9CdhMJdbCQYHbJ2KpvqGxAvW-PnAW0nqK0_90BJGnUPD7PwRgI99BgGIg4KDD2-ofuZW5zdZk69rw..%26pg%3D5I74BCSF3BFBXHGR6QIRQPY23E%26ch%3DAQEAEAABABRb5pfJ7Hr1kcbNdQOjtWwNthNmN0uvvPQ.
+.netflix.com	TRUE	/	TRUE	1802493669	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpL69tpBKI_rKU97agr-IZQ0bofVrzN3s.%26dt%3D1770957668762
+.netflix.com	TRUE	/	FALSE	1802495450	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+02%3A10%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=495a2545-a74a-47e2-9fb0-bbe059ba14db&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	929ad68d-79bf-4c69-8884-b0cca264333c
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

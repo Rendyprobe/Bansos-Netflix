@@ -1,0 +1,20 @@
+
+– Email: duriburang@hotmail.com
+– Verified: false
+– Profile: B
+– Plan: Premium
+– Next billing: 18 Mei 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (OVO ********2693) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066583	flwssn	3dd97e9c-e2d3-437e-8374-6b0f75252d95
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	8d2f54a0-8031-4ac2-95f9-d632ee8b13e3
+.netflix.com	TRUE	/	TRUE	1807727862	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA6MqE9yI0oOJaxli46Pd_ti1CRlOjFjJOyTy6ojs5-l4H0H-WSgIbN9nZby9kS4CsPVN6zfPVcFFF-A24MCeFFfPAxIfaB5CpwjfBlIJAaxVwbVK36VcaewxiPzXFTgHwKkYKo5fBn_GBFCuJp2VsVFVUUD6sJHe7vESif_yNJQ331K8OAE5E4fBe6ZVyWLpFEpXRmDJd_IXdhdpqqsFHjcZUcyZjzV7ZlXJAMwVHnC8F_5Wa1Rk8PJaa81htf0PPsEnNg_kKhOSv16G9GGzG_GbIupkzruE9Bs32K9EVLb07yF9TGOOaH9qwNVnVnY4tGTPWIESzkJYbyLYp1ndZJZewR0LAIl6VqVg8moHxKKWT8fcEYXJ07BXVT0Wb6cO_NFF7FzvfRQyiPNDaKzj56GfNsGQ7OklRtyi56bo5QqxT-psJAuQJv2nLNCiWXRAN24t-RPbi-O3j8LSDuDH4R6wn_uIe4pd7_OsWoMNvZgw6Djbht7wM2PPLZxh-2mcG36iRQSRsyuKR_Wn5ttKnr6FoZB9CBgGIg4KDDDPJSu9xIig4_KyhQ..%26pg%3DASKMB2AEKBAXLBMB5OS6GLDNJM%26ch%3DAQEAEAABABStlweFWr1a6_j1pkpWoP9I2fDzbgNuGkM.
+.netflix.com	TRUE	/	FALSE	1807727865	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+01%3A37%3A45+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9d3cbfd-108c-4c51-873f-e81f166f8c09&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776191842283&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783967864	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783967864	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807727842	nfvdid	BQFmAAEBEOxKhieDfYJL6K19FmfbbcBgr8iL14Ra7QvNPxbfbphlVCub2vyOV-nj8uo3GY0p_ecLj96f0piscqXc6Jz4uEgB-f56xoOoLVkaKDtWq0K_oP8nOI3DSyna1idD4qCcA2lWx0iCDVKj5H5Iuo-geLkE
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

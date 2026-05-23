@@ -1,0 +1,19 @@
+
+– Email: platuna456@gmail.com
+– Verified: false
+– Profile: Tuna
+– Plan: Basic
+– Next billing: 10 มิถุนายน 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | REAL_TIME_BANKING (KPLUS xx***301x) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799408951	nfvdid	BQFmAAEBEGvRslAjOVuKwAffVMOS8zRgw2BXWgNMGaNVyiuwAZCqnQZGXK4e_f7e2QOO-M4MRKoinzFZmPJSMmRWImUDJX1QpzZ7eXspXKvIqvLRR9nqD-bNh__4wVEupbLIyJfy-Jk2FNvkJBKSLpbacoEFPO51
+.netflix.com	TRUE	/	TRUE	1809773907	NetflixId	ct%3DBgjHlOvcAxKLBOx7maMkla_-gmr67zC-qeuOVYnXdQlK77m3qc2U-u0tgHUJVHOk4EytG9FFPtix9OhIhThmB4cEZJnKin08WeJLY0cM7-BqgcQMnHpEhR1iea25_FtdVOLGkkYVT0SbbgCawgz3LtXvfa6-p3CpIaCm7AaGXedVVXkPHOdKdbucIBc9X0w1IdooksTbpwKQc6-fmHc7VDQ2yQqVJr71GZ7C3_CjRM0frPdD9BBZkDR5-4gDnAi_FZnM01owuAzlM2ngJxPhslAEMBMIsDZV8PzXlqL7QHaPoQb_vMfpl2SB9btNzWf4rjBHWUIE_GhUOgYjzbXDw8kV9sSRK8lI035aMUKi9W61LqE5oyEkRJzvF_ywVYLxLMVtIr_Odcnw5PAjQQy-JDtuIrIIDyOFKdoE9B2C2g-yEPdDCsm5Qg8DJJ6ZDfYgkwjDrQ0ABgxX39h5YJyO6O_h5AkaNe3vXa8MWpJiJajq7FFhIPtodxW6FSVV4bipYbOFrgcMrSHuXRgr1KWwJZFtPfifi9zGUsiFagfccGzPENAFCcPKwvBs-Jj_ELXoTcjbNBaA3_hqnSSrjwx6Wp4p1jPqmDh7LqyAJwg8IPjrY5f3_XIc_WI1pVgItMtjZ_SyXuVFUlNw4Um4hGPaPyS9p6ghOi4z0GT2PUIyC7rfZ-5DNz0dQllTkfIFvK4qTQcedGkYBiIOCgz96tMmT3lk45bUSKg.%26ch%3DAQEAEAABABT0ToI9VwCZkHvuSTVR1TtcU7UbpTmsHdY.%26v%3D3%26pg%3D6KIFCWOT2JG4PBEVIEQR6UPCZM
+.netflix.com	TRUE	/	TRUE	1809773907	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSimlJEsCTgCHdjZ4XpO8gp3IiktK8YIxI.%26dt%3D1778237908962
+.netflix.com	TRUE	/	FALSE	1809798206	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+00%3A43%3A26+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=462b8790-1d23-4057-823a-bb54f89f1782&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786038205	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786038205	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786038205	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

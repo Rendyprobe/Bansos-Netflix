@@ -1,0 +1,21 @@
+
+– Email: luisricardo222il@gmail.com
+– Verified: false
+– Profile: Computadora\x20P2
+– Plan: Premium
+– Next billing: 3 de junho de 2026
+– Extra members: false
+– Country: PY
+– Payments: 1 | CC (MASTERCARD 4065) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806806908	nfvdid	BQFmAAEBEJ4zFYT8oHLUXjJyEQ2RsG5gzbycveB1cxzAMQrz7GbJ03BEuZzvll9qmW7KJmNVUb75qfYQhko-v0EG4zc3JBi-x4InU24A-Z2rYXXOxaMCGa2UL5SQuC_r4S8M6mTBZl4fBre2m-8kvdqOssNiwbCj
+.netflix.com	TRUE	/	TRUE	1808751775	NetflixId	ct%3DBgjHlOvcAxLtA2FOKfZXed29aXOp3Y4G8envhM0MeUhETTxln-agBsQJfMxJwy4tGIi_6_nJWblXKTUIDhVfFQQ11DT_SjIoyNakC66iI1ROq6YwFipmm-T5d15JsZXyaJ53Ykn9V_BGxJKc0SOdtcnhBuV2OFsWoC79sQZ8AgB2wNeQwo141dNPKLPBDR1sBHS0h_zF2agWsL1FJWJgg_COaqkH5eGgyudWwUu6unxetnbrGC29t2sSxsZNfsUfLZqNXgit9vrs24V5yCOpa9VyEfNtPHKbsH6eRDozaaUJyz1b9Oq4XWofj3qZAKPB1AK1MZ4yJZ_9ud3oZMEHUOVGz0qzTSEyhB0U88JMPluq4Ou5W0WaSzbhBAJKN-h6J3RV0tUvqSK60MCkZvVWqJRaKb8XXq3TlVxtyS4CRYSRheVDCBaPfoznrcJEjIKZ6D7GveAE6awzaHtddHEz88rMfwztXNaF7hAg6Ug5F8NRWEPzokyAqD0GW-bWZexqXJWrAmLU05GYvQRK0qipqRjmEjw4TVhNZLo3NRbIlYNYu2T8Lm8U2EKv0VqJoORLWHAUm8kNZam46zOFH5M9RUAjqYYR3FcoKak_VmF72g4Ac44LNEcOkpu5kpoxHS-1sjVfLnFqPP6uUh_s6HgTSWN3qor_-vYYBiIOCgy3ovK_5eu3aahWijw.%26ch%3DAQEAEAABABQW7Rn1o6IJL6TY__3ckcwg6WZUz40UElc.%26v%3D3%26pg%3DWPBJ73AXDBCS7JCWPEOOX5QHHM
+.netflix.com	TRUE	/	FALSE	1808751776	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+12%3A02%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+do+Paraguai)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11c49dde-c502-4a9d-bb77-ee70cf8aeedc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775246491041&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808751775	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRr8NlMYzXwphv62o64f1_PWmozWoarBi8.%26dt%3D1777215774329
+.netflix.com	TRUE	/	TRUE	1780761904	gsid	cd062c83-8744-4497-ac56-ecc2364fb667
+.netflix.com	TRUE	/	FALSE	1784991776	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784991776	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784991776	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1780761904	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

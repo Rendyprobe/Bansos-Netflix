@@ -1,0 +1,22 @@
+
+– Email: renato.junio597@gmail.com
+– Verified: false
+– Profile: Adrian
+– Plan: Standard with ads
+– Next billing: 3 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 8238) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806358281	OptanonAlertBoxClosed	2026-03-29T22:11:21.799Z
+.netflix.com	TRUE	/	FALSE	1806457890	nfvdid	BQFmAAEBEMy6YrYYcXqUfOylb2ZfHmlgw9AXdCk3tngXsqnuoZmKVg_e9xjFSbqRdkUZG__x7ikixFW66Zl88ns1BrFvqZCDvWIiWalfcv30z9WyUqYz3Qa3sRBNymoO3gjeCo4xV0s5-RCtqEILd8Hp5DE2udM0
+.netflix.com	TRUE	/	TRUE	1810170582	NetflixId	ct%3DBgjHlOvcAxKCBLJV8DTwMCMW_RPV-jwrWVFIWh-uJujaYFoUTpZPUNuoZQ0H2kwgSawUq8utVzgZrDvZyVW5bf84ZgLx4lyNdoUnVYmVxDEtbDWT1MKCrChSbDeHDIvwipzUHAoVm1x11DRUCPDpRaz0XG59K9ro6fLs0_3ZsxJy3Gv9U9S_8qMawG0U9VyAL15yxhmuq84fB4W85sfhDko3aIAJVMJSBgqRfYwBgh4WY9bbBMqS2-Yg6N68Jc7ZoSfzy1dRAgNaQMfVMtdomxl4mq3YZDSPnQ5UOiqxfil77wr_uvsVFxR2pJqJ05lgI3MWXbtVlfqlkzKtB0Ez--jQkmbjbEtTkJYTuqu6S-kSQ5byvyLwc9SP3NQ9Ym4RtPQHobb2DD-HRVCxZRImZIvEGtfsGHlRJFkSoUZ4zodzCbmOs4S2UUKKiHEmUsh1lplUPzzWip8sgJZxA5DinGum1-BewZeSovHhMskoUKp14j9-Y4n1SfdlZ_Zbgi0UDwl7q4dn0QpKfVaOuwJtAqOSrUyXen0dOyFljxMFKgU2YsAL_oi2ei4deDwDdn3PKpvxo_Z9F3u8lIY7pERwd1iCEh6Ygwh525uKN3LcKszjHxHWmwkNAnjUiuqVs3rENxWch4V3Siz01MNrmpkJbg5qgdgR5gmM2SLA538DdHjjVy0LepVV7F_MWhoYBiIOCgzzn3QQjNiTqypDyvg.%26ch%3DAQEAEAABABTnwTSQDLV_wdOZm2YfyCEhMbm58iu5y-k.%26v%3D3%26pg%3D7P2FMANOKVCPLARTXE46YNZZOM
+.netflix.com	TRUE	/	FALSE	1810170579	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+22%3A09%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8df1f3bd-ce9a-476c-ac11-2c0d48d743b2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774822282705&geolocation=BR%3BMG&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810170582	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRNetJbhmFbd9NZ5H3Fr_pNCOxE1Tvvz84.%26dt%3D1778634585376
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	082290d2-0e02-4e15-bd5e-e560f9af3162
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	4d8c773f-5431-4dcf-9b2f-3fa4fdc3fb8d
+.netflix.com	TRUE	/	FALSE	1786410579	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786410579	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

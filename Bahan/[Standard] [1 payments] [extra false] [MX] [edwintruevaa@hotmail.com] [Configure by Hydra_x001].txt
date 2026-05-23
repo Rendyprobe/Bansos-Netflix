@@ -1,0 +1,19 @@
+
+– Email: edwintruevaa@hotmail.com
+– Verified: false
+– Profile: Bejuco
+– Plan: Standard
+– Next billing: 9 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 5463) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1810311938	OptanonAlertBoxClosed	2026-05-14T16:25:38.129Z
+.netflix.com	TRUE	/	FALSE	1810312003	nfvdid	BQFmAAEBEGMhnJMwcYE_HqcmhC-UrFdgAFuaD-T8hviJfWrZiJ1E8edzYXumBDVckSpEFXGbe5HkZK3URsIobTS1gR6OTS-l5FWvFTZd_3Cp-MglcWV33uXRHOXYcBwgYIwHvJYKqb-tW1MKR76F2eo0F04Aej-i
+.netflix.com	TRUE	/	TRUE	1810407067	NetflixId	ct%3DBgjHlOvcAxK9A3JmzodLR2prHBjfBdraU3zPDX1cTH-0UMV4NnlXYdLz_8SJyC2Bzc1OatQ934oX6IXDFHpx0ZqAOhnlmQnePMca4lAwfMCfzecJ36qcW74T3P3KyBw2tVfJ__vWdmSfKkhKTa4Z1k4VZC40eXTkR7BgZrnyWtmhEXpdA0cLWG0-Pp8LHR65sYnfBL3bnxnKSYC7qpL0V0JvfCPGqVpUDZfh9C2zuLc33xzK5Aewy2NMU2fwe8Mm3bsAViANesBOMVsrzLj_kFdgj4RU5tw8Cqd6UL8iFIWKzyhIn1wJCf7d8Wdok90t0UtkKWFJ2Rbs_CHZ_qqskoHaPocB8mlPFBX28QxcoAP39GCHij8o2BtaypVX8ctPKSkd8CwU_f85jEGwpbZNfMH0ANRPj72rH3PkP4VjHun-EJ8B41XpinzddLShYzjSJzt05TsPfUJnnsr_Y5Ji8CVnNnqw8of3ohA3QWee0gM95xuzbv8KOSolXB1l9g6wfG8WrirqrFxUdfgssFwO7M9M2Jj6rRy3Pj9ZAqlBddJrdgf5bVI085vl6GD8N551gKzT6F_EImeyfWFcIpcpI51KIu8g3BEYBiIOCgzU-Nx_b6nSlCfYsMs.%26ch%3DAQEAEAABABRMQXSFkf0j0I-8PYg5ja-arjtJwFBeeSU.%26v%3D3%26pg%3D4DCF3P6H4BAERM5GS247P75AYE
+.netflix.com	TRUE	/	FALSE	1810407067	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+12%3A51%3A07+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7f09957e-c3f2-4513-86ad-908e62c7636d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778775938497&geolocation=MX%3BCAM&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810407067	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRol_sC6U4ZrjmfPZfcRLa_lRPfLM923ho.%26dt%3D1778871069269
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	68a02ac8-e258-458b-ad4d-56cf58bcb807
+.netflix.com	TRUE	/	FALSE	1786647067	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

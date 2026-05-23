@@ -1,0 +1,20 @@
+
+– Email: andre.arb85@gmail.com
+– Verified: false
+– Profile: LAILA
+– Plan: Standard with ads
+– Next billing: 17 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 7842) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799454097	OptanonAlertBoxClosed	2026-01-09T00:21:37.563Z
+.netflix.com	TRUE	/	FALSE	1799454100	nfvdid	BQFmAAEBEB8uEpDZF85P3pwhmMhmh-5gOALZOfL6YAJg4ufXXr0CdHc5p1HbOra6XeiZRcnAv7TE5BlXhze_ddHG7VJwVGMqBSkPCNLkNnKB2GJGL6jZ7limN6Vv6o53fjXEiCAEtavzsgaIHgguNGt_8GSOFw9B
+.netflix.com	TRUE	/	FALSE	1804449740	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+17%3A02%3A20+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a0bfb16-cff0-4e17-b803-30b4d32f56f5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804937935	NetflixId	ct%3DBgjHlOvcAxKIBLIni-UDlrvH5u-DVlVapRL64ThORJrYsobLKeMDHPM9P83aBqoZnV4C_k_QMlKiLhL0niO7CXh_oRlWe8unIvH5NAfPd8qwVvx_Thwf4fL9RXPIbF3mMxY__8tXxzyqtAfrOfQSdD1SnEllA_hF05uxcgn5LezbKcoDt8IGNaqtnA-I31cCxncJUqfmKuREfven9dGp_EcT29qEjJOom3m9dU2HIjdW7fqRj5E6-j2324VQK_pugaTNgCasvLuPpVJnsWGRAaEbNRtTj76wLnRV5BeZwRJoZ7_RV-_UueevNytg5guaRM2-dwSCiNJLkjbPK-jh4EeWy54jEyxoMboGq4YFw6epGeqTDL-ZNSrfcqv3KJ5pT-C_4zj6gqIK2cl8Pfegok2BLwTtTR3P3Oy3nFsw-XwEM5D6pb16-3Vm09w6dRc6oOqpT-0brv2QXbOiS5bJk1Z668878jqNdNQ0w2IJDR2U1Q3iFjR_dfsW5pnQskBbF1ux-rr8fGGYYSGNgGQV_l87ZWOx5YDSNZVXd5kmrS6VWapZI5OIUT0Y7kyJVJF_M0q4k0_dfEVWA_8DJB7JdEnJpTN-1PSgNiaj0hGCatR2CFR-EnaRev_8dFaVh3R3d-UsjCZublvEIXYvIDNx7T2u6ThZYjEzoGNEOkH3CcrrDHKmANX45H6SyQdEdQwDb0gYBiIOCgwd73m7HA40Zab6ZWE.%26ch%3DAQEAEAABABTABpj7CmHfVgzfzADhggEecClUQABALuU.%26v%3D3%26pg%3D74LM7RDDEVDJTMYN3KSBBHSGGM
+.netflix.com	TRUE	/	TRUE	1804937935	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgvPPbhNjPEJUCK4VgQGQ1lWP2lNyyJ_g.%26dt%3D1773401934643
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	c147f585-1271-4012-a0b0-c52ebd328bf4
+.netflix.com	TRUE	/	FALSE	1781177936	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781177936	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

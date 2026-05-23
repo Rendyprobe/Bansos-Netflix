@@ -1,0 +1,21 @@
+
+– Email: sheilinhaksk2801@gmail.com
+– Verified: false
+– Profile: Kaue
+– Plan: Premium
+– Next billing: 9 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 3465) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809378294	OptanonAlertBoxClosed	2026-05-03T21:04:54.535Z
+.netflix.com	TRUE	/	FALSE	1809378321	nfvdid	BQFmAAEBEPwRFooC9uozraJtfxF0eo1gV9e8CsTdUy96l5o8SZkNCQxw76VbNqcUpYSVn6vDbIwAvuMG6BQTkNt-9A7AU4wdM5Fs_BPurQ9dECeKYwbIjoXqeGh4ZaBNrVnemBP4z7Ac5Ke6jrAs66YBK1lWDDWa
+.netflix.com	TRUE	/	FALSE	1812921277	dsca	customer
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	2fc5e0f6-4cb0-4fb3-bf87-94a77072967a
+.netflix.com	TRUE	/	TRUE	1810094214	NetflixId	ct%3DBgjHlOvcAxLmA16e_OaBiM4OQ9GJPobgRXHQNKstoAAU6lFEfHADZrvqP_-ZWEn6XePajDxXOs1jfBL1Kkl3cEhAquAAxdBucxyhgN8KjCYSyUBhSoXCVhHj-QeGejT8kNKKZM3bfr2YWIvcoo563ggC49AKT3FUXJ54JzoKV3DWxvD9mhtVjJ5Xt5ivl9H5FVC1MduAs5Z4b-yXXv13rZO6orhs--9Q7gu-yc4gv8zJFLLN7hb4_GzvWsKhwsEdPnhkTi2gFkzWkHa4Ssa5kumVF9cnv9EsQVtYaFM3XiVwYxnp-Dv41ktbdNuPmz2DRmzg8KfB4-2b1LO44SLcXJpw3GEwuJSK7swrEPawHm1uT7G_bzKT-eAEjcJOB4g-106PndvAhH0V9tG2SAYGIwU0XMxL4S3di6jPAFWINvA4UrtwapJZbIm_b3n1hcVRPV3DMEKMrO-E7g_xlsdTpkYWdDY37hEoMQI8Zy5-NTj46-BsX-AzbMo5_s_J_oxn8NYYCXiv2sCgrDaFhD6uan3ERSeKjeWXd4-5A73Af0F1TZC2DmQoQTH1DF03mLvsPwFpop0UZ1OjBTUbSas9nBvFXGu68wMavH9I464TDPT5AyA_hufZ3068SHzXy-Z3QtF_oxOFdc63SlKtdQOPkhgGIg4KDA1vuE3IDbgqRkzQXQ..%26ch%3DAQEAEAABABQfl7EG9sEBmbShr_OmLRHJEaTftdyfoz8.%26v%3D3%26pg%3DH7IE4FKIOJD7HJ3YPOF6ZEMUBE
+.netflix.com	TRUE	/	TRUE	1810094214	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxnw-H6ydrzP_dzMduhVyrORkXnNZgciA.%26dt%3D1778558261806
+.netflix.com	TRUE	/	FALSE	1810108096	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+04%3A48%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=77fcb89e-6be5-425e-a2e6-d8f8da60ab4a&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777842136627&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786348088	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786348088	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

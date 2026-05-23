@@ -1,0 +1,18 @@
+
+– Email: jortega21@live.com
+– Verified: false
+– Profile: Karla\x20Elizabet
+– Plan: Standard
+– Next billing: 6 de junio de 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | PAYPAL ( jo***@live.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEGD3fzwC7Irmb3AYaPdq3y5gq3TukJPAc-dHPIGOecLDCWB-ilRiSKVAzbDUvCoI3ecjvIPS3bE6-OaE9ZXoCf1B2aN1oH4kPVmXUafKzohLJE6gTHD1pmuz0xc26SXutxpHXLz2f9SM_MmPFgW3FhIi
+.netflix.com	TRUE	/	TRUE	1799998286	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHAyTgn_cbggbsAs27HlvEQYm8_fegAzwiwRNQsB33pTjCFzZ8LBQmmuylH9DQUXNgL4xA9_mCtlQcuAGFc39ecWdDXi-D1WjOdcZC18IyQmL0Ph_LMq50ndtir_a73yXWrlQHyBPEA47j1NnH9dZdEwdL7iY-ypCvaG91tvMJoLYDPTp6n3PniT_LjfXhLKW9p6Ac5Pl-HtVOS1YRH8o7ess5qUmyl9eSvV1X7wG_ZzZ-Bcc8ekFaYhd32XxbZGvIqS6NHzPdWAd5giaPm24kHoURB975I5iG9t7GzxA45WTUjFrFA1VaXB4OgAfK6WaAhQq68y635jd4wRasVzn0z0ZY7FD9tlV9ndJtSGekZL-fttPJhL0-08JjBSIdBrE4EKnUiPPEVR3Awv1DqjzTJPT7DsIu6cmlFUu84kswBD-_MMYxhulHfxzfMRN1Td_yHab9kQTfwImakAydetv73LOJ90oXeZWidw_uHXkmat8Qfabmj_NXHl2aC98N4w1H1zUF1sN_in4YBiIOCgzUfKr_WSozbrCyPVI.%26pg%3DZPABEBNZPJGCHJDI55RLAGTNG4%26ch%3DAQEAEAABABTyOx_fajGnh550MCntBYVZvdpqJ5jv9oM.
+.netflix.com	TRUE	/	FALSE	1799998288	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+23%3A31%3A28+GMT-0800+(hora+est%C3%A1ndar+del+Pac%C3%ADfico)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3ee08d9-0957-4640-8244-8ea14c889b33&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799998286	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8w1k9cozKgHtzbSd2xYDZP9ia-3mjM9U.%26dt%3D1768462283225
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	4b16ef7a-6835-4c21-8104-ec8adf8b03b2
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

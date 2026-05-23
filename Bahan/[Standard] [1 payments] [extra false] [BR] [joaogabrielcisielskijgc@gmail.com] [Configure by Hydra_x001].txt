@@ -1,0 +1,23 @@
+
+– Email: joaogabrielcisielskijgc@gmail.com
+– Verified: false
+– Profile: JonasRique
+– Plan: Standard
+– Next billing: 20 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 7990) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809219322	OptanonAlertBoxClosed	2026-05-02T00:55:22.366Z
+.netflix.com	TRUE	/	FALSE	1809219474	nfvdid	BQFmAAEBEIiO3pFN4AegDE2mpA9srTZgyzco4LxR7nQTZ90xe2jtv-Whi4Z5m_VMWpTriIvEx9RvjF6xzzx69uez_lmjuAZXJXrQC5Y7WT7EV-FMZLkNfQ3GDQvuziOJqMtgdQc0Xj7UpO-LkJUqbd0cBVkGx92z
+.netflix.com	TRUE	/	TRUE	1809821560	NetflixId	ct%3DBgjHlOvcAxK0AzjzLWz3mJvuHeIRGGl5o5N_JeaoIzDPWY_89MFFZdADfgeicUM-e06tXD4Z_u3ROHq57zUDw0CF9P4gZo5ZHBbQ8OxzvpLbWHp46n9V-VtzuLaXRWxH4z0NKL-rTiWDtHUJhkFSOFOg-nokZoSCOcg-JLoPwnuGruBkSF9w7PZgOWEMxxUS1l4rSl7SsrlaMtFh6lZnDNHFy7bUg5Ieb2UwBvXfhBIkvHwm-pc38q0AZO6p69g5IjvjU91bb9PbZFbMzSyXJ9dI-9S34bvDMBwVuubwDVmALBihLOIG7hbT37O8Qq6LSBiPZ9QLm6j16r9D1Fzj5dihvS1-QB_V5CQ7IpRCt7yDsynUShXyBBoRX8raobJBkI3OrGtA73HuGPa_mbAAT9D4U0JhBEi8AP2tIZEr7LmOIZdCBylzC_4rR0Xfryg26cEWaivtZPzCDgkdsUBKo07AYEuJDriMbtK_x57v_Rsy870Zn7LdXecUvE5xuEhHLKUJSklKi2jhOBw6KHqAv-kwMellW10He83c6L5pl1BmHmROwB1RSGgCpHJ8PbG3ZNcms6hDyvAFaxTN5FgYBiIOCgzzv7MRz8LfOkrZECk.%26ch%3DAQEAEAABABTzJ7DCaUqZRKeqr3IbECigtFHZCUSiMfg.%26v%3D3%26pg%3D6UNMV7U5BBDHDKEQI3BHDFPVW4
+.netflix.com	TRUE	/	TRUE	1809821560	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTv00BOABD5beY3HeerdgQFubSQ-h38T7o.%26dt%3D1778285560196
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	6ff23e81-e154-4815-b737-13ed8e34f758
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	327d0aac-ed3d-4060-b647-ba3ba64a0a96
+.netflix.com	TRUE	/	FALSE	1809823277	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+21%3A41%3A17+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4ac92569-f870-4ec5-84c3-7b2f0799a514&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777683322821&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786063277	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786063277	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786063277	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

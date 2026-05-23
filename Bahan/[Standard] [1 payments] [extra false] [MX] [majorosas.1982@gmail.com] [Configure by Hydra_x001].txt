@@ -1,0 +1,18 @@
+
+– Email: majorosas.1982@gmail.com
+– Verified: false
+– Profile: Ivanovich
+– Plan: Standard
+– Next billing: 3 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 7771) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791833621	OptanonAlertBoxClosed	2025-10-12T19:33:41.016Z
+.netflix.com	TRUE	/	FALSE	1791833615	nfvdid	BQFmAAEBEPSKwmcDrm71XH0jSHrybVxgkeArCbmN1Xg0sIXmrEtxuLDBtCWQcoYKolDurmwd-I6PNfEkQXoPB6hQDetdRbn8wmhMU0SL_Rb4ofV_XqRSFtSnD0N0bPN08Ohe-JSZOZUTh3EEUrCcbjPKR11nlPu4
+.netflix.com	TRUE	/	TRUE	1806981508	NetflixId	ct%3DBgjHlOvcAxKDBOKyfbYBQ6LYRyseZMMJNRm9i2C9PTMqo4FOsfE05wrilDgBgcCeoP_nX-CQUKJ8iA29BRFkOzBLQkoYGbjCkWjVVVhVCn87LGe_n1Nk_FzyJc6SfDwzL-ojD5FFl7a38FCEdJs2Vfpx0EuGVjrhS8JeQtycUg68J8-wEEjIPzaZFT1FRPetL9GQNmeM-mRbRERfDDBpSweJmIOyL28vimiGL-yiKUF4epvWh6x-YvvaDAgc2V-diw8zTPg1SKtfadWNb4-H4POD48Q-WjVSBTdAVWmxhxhhxoWDbF_Zx74oQPYz0dQrxr8Y58N3XxacxyBpIuRidjq7kJzAq34_n0mKGpfz0WWhW9XQ3BQJkLQ81ifIfI1lA24qRCXkIUOzj76yyZHtgPkqyYS-J2rPHZd-RtSwTqv3zMPVeb4jwkBTAf_qabXLQJ36hr-VaCg9mLX9IzSP6R2glbKkQ-mN6vfXMDbgPz_am6DwqNhcIQ9Kk1OM_K5luT3OEZtR7xz4R1ILRA_v_-8SWuPEYBz9HIL3xfQZlTKAZ_RY9pnQyeJj6Det4WDr2C1Zaw8IEDtyyy06ZT2A0yTtpRuXa0OdpyGsyd2HgP5-GWi87GeC26Hm7z7C6RDMMDFb7nWZieh2cYYqCAqB_W7bX8TTHAckoqoAmSY2kWsaiV0Qfx5NAWiLDulHGAYiDgoM03aLFnk4cESarFi9%26ch%3DAQEAEAABABS1qBwO4R_xN_-x9nEDQ4oj7TE0-n7Q8iI.%26v%3D3%26pg%3D7PG4HI75WFBBVKIILIYX2VLJEI
+.netflix.com	TRUE	/	FALSE	1806981604	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+21%3A20%3A04+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3dd06b5c-1427-4c0e-ac49-893c560463bd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCMX&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783221599	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783221599	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

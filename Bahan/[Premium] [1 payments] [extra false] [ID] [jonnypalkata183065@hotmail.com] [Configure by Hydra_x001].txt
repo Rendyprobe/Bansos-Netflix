@@ -1,0 +1,22 @@
+
+– Email: jonnypalkata183065@hotmail.com
+– Verified: false
+– Profile: 5
+– Plan: Premium
+– Next billing: 15 Juni 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-813****097) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803010995	nfvdid	BQFmAAEBEALXLiibZwVVwr2vyxihWFNgfUMmvgYExOhxcFKaj2KgAljXhoA9VSco93qGDhlakKjXKjF7d9qEFiEbwK0PQcoDqO3yjsbQfo5JJwm0jfh-LiVfBY5zRKP2doiOPo66ifpvU9ud7IdE9i6Cr0O-7_eH
+.netflix.com	TRUE	/	TRUE	1804314624	NetflixId	ct%3DBgjHlOvcAxL7A2WEL587wN6rltWl4MNCxH5s5sBnD8fEbLQrFWZD3-MWNJrVQrke82ZW9qVOUWWkhyPz582vXmmyEjY9FL8cKzwF8cYQ_Acjnd8tk-rpTQMwJwr2qGlOc---EmysjNeFwlNlf5LVjvi_HMwWf679QHyt3p8shypBbiFJiqNTv_qYZvyCWPn_jmZJkq2ipJ-pUkr2n_wa2xp3TJR-KGwYlCgKj1dfzgPLrvez6fRPoxG2LMbR5vFBgULv3RTcQOXn5BHAjbFquwT9AyGo4gfgcPyloAYk-eSFuSyDDZgLMqvnvNHy1QD-cotJAh13qdX4LrDp9HSRL0qHxSecDPS_e0QusAuo_zvfTMzMLI1vSLDHScSu4U4X05hCS3CGE76D_QG-rAdxA24xN8xNdM8oHef_Ht1T0ujB2SE8VzOcb5qXsisKkquNlSKuGeExAfF2GsbqULkmoblVoQehHqeKx2TSFXtieIIwsJwj7Vw7Oyg4GpC2MzVDAqMEWGFsGK8JxyEIGBgKr8n55mXUpyuaoyLPZpoWaxdr4Bc5XYTgPTU5SQyDT4Bn9qyGEn2Z5oSyNv_E2V1MttDhmJBLW7Q_W2skrJZvtgBIdrrCkTvKpSXjQ5BDbLvHPhpQS3mW7VuPmmoJulbjwiNnB80dQdHo5cU4qAs6dsvEaxhG8BgGIg4KDMBvyRBjF_67Ro22mQ..%26ch%3DAQEAEAABABQQSr_lAehHiilCNrYuGTsvEZrZcEshkZ8.%26v%3D3%26pg%3DTI7D7XUH2BBVVFH34ZAVGR6RFU
+.netflix.com	TRUE	/	FALSE	1804314626	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+14%3A30%3A26+GMT%2B0800+(Central+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c86b48e5-39ec-473f-b702-f766682096a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771474995036&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804314624	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTnjAV59rNWVhknLa5pITDTsDtAEy_uqrU.%26dt%3D1772778624199
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	2b432537-f277-4d3d-bcfe-e2ac88184145
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	5553f048-3b70-412c-b546-c3a68477dcc4
+.netflix.com	TRUE	/	FALSE	1780554626	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780554626	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780554626	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

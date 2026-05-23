@@ -1,0 +1,20 @@
+
+– Email: yo.noirot@live.fr
+– Verified: false
+– Profile: Yoann
+– Plan: Standard
+– Next billing: 30 mai 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 8788) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795973255	OptanonAlertBoxClosed	2025-11-29T17:27:35.879Z
+.netflix.com	TRUE	/	TRUE	1799029731	dsca	true
+.netflix.com	TRUE	/	FALSE	1796005731	nfvdid	BQFmAAEBEK5c__QTxZHahvmJ2Pn3WR9gXsPAxTw8J1A9HCRkvZzXCEEyR--lI_4WOFVgued3Qe45Z7eixvE-wdLjTJntmBih3EGOr--Q8v_Op9nMk2SfuDwT_A3KjZuJdlW2kPSqFmnhRHzrY-iA9-6eGfIlnokJ
+.netflix.com	TRUE	/	TRUE	1796348919	NetflixId	ct%3DBgjHlOvcAxLtA6tBnmY5zjBmGfMT4dVAgK5KUpIinH9v9weN701ls0ixQvG1uFJ2ymynLnYx-blkGPx_buJhvCQfw3y7sQFYWPHR3cLiMxDaX2Lx03yJUCO5gvSFbIFszQ5cYjIpRVIk2HosG9wKi4_M3OhoJILwnFk2C1ehU88lgpfoNh0fnDGVoll71cCnsuXXAVqSru0XHRFYXVMhCSVpLEvqC7bLb5wDnu02GCY2AF_Ql7SW2VS7BX9COwFGMZHWyz24PDhDhWfgMtfWnMBGsUdEFLH60SySICg6wBTAh_Fihjn7JpZATAZf5ha9DmTgEK9ShPiWV5-bw9Kc3swJSkXvUJl5xs1S9HbYFPZIpxXAHIRzJ-uzdx9gD9Rmbi3wGQV81DbU1UKsDA-Fw6Fmajc3zPfcBbHKGfVMRDJmfdHlNdrYkEypQgM2J_etzgBtwRTkRqYq4lT3Vuu_M31magi_AWa-MMTOAwO-blVNeMhsYNDk3X0s1PRfOJAvaKTlCPxDW4ZjM-g4nxaZlI7But8NRW0RHNMF6r48CA2dcaUxdkidPK3pyAUwAFPtahnBVDeoayiiDDQovG7IHrdofREyjQtyJ8jJBQ9t-AespWIvct1LMnTFruUQ7hapx9ywLK5kJjqcGUxl-WzXPzPxAuJIv40YBiIOCgxBZfhW8m-IJEIulJg.%26ch%3DAQEAEAABABR2kmElfZjjU7aoRU5U2CgCMqX8gVEZqb4.%26v%3D3%26pg%3D2PAR7EFCUZDS7OBV36KMRSM5F4
+.netflix.com	TRUE	/	FALSE	1796348918	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+02%3A48%3A38+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=978b0bee-0421-4e38-b059-d910000563e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796348919	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7im53_bsXjYnqdYJeKOi5uf3GcEYcmIA.%26dt%3D1764812916985
+.netflix.com	TRUE	/browse/genre	TRUE	1799372918	dsca	true
+.netflix.com	TRUE	/fr/browse/genre	TRUE	1799372918	dsca	true
+
+Follow: https://t.me/hydrax001

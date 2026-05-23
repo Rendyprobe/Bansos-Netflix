@@ -1,0 +1,19 @@
+
+– Email: larissayebouet@gmail.com
+– Verified: false
+– Profile: Carelle
+– Plan: Premium
+– Next billing: 5 juin 2026
+– Extra members: false
+– Country: CI
+– Payments: 1 | CC (VISA 9183) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEMhyihQjunY4ykxwECO2xlRgBgtYE_DL3MFShmwpzvXcl0ffUe62aCf403oK8kb0fZlhvkQ1hPDuzbO-0wpjXnGBhrBEIirrcsz_8zlZMh3Zsb-ZHDWuatMEZtM4bLMbBnbWHCnMWUBBOY7OS0e9o261
+.netflix.com	TRUE	/	FALSE	1798324070	OptanonAlertBoxClosed	2025-12-26T22:27:50.462Z
+.netflix.com	TRUE	/	TRUE	1799431806	NetflixId	ct%3DBgjHlOvcAxLoAxSed8kUkbLqIW_i2e7d-oDmN8FReobcVJ90FfzyhPBwFgvLqaC9k_j73Dd6YHfK0Twk15OHMf4auS7VuegeG8axLGw9lzywFiPrQt0KvbFzMnYcQAzr9583oOtZWBEoskQNpF1lEJW3atWDOOmuoWu9DoyLZrvkEbf6XnopHVEgOV20CefxJGD2RP5Lk6-0V8q_71441FMkFRXGVRgBsWl_8cRsy_tSDqCriZEUrR0I0Pc4rYNZlTWqIuqijQEyGACopzyzb0XL_yebNLT7nFVL25CAmcaXStk5zFBOIiLRs8dl5uo4p9Orjz1xywClTrQORjDOrd19eV-A8LOshq5-akF94uZsMX8d1VoikafUmgZX5rDZ5QFDBm-nR04vZN1P90YP4uakRcEqN0OzPoBjmo2QGg7V4vmAFjBasilpoWQV3OwuvCkxmJedby43sbcKJgtpoIA6mrh0ajlGPHxSTuLrFHH_Ba7Eioipkdilt7edwIN9LvgOg15CrD4fkgS7tUdMpjUc5nTE2a4ekkejhrA493EmUfx-l-PPb_mER0kkxB9VaGMtnnrnjKBN54wPT5ZXk4Y_IYtHNCrwfqBmw1_NsImiR5Xq9xEjfJ0gfVINzllRVX64FQ-3skquWvvpO2FuiHN4GAYiDgoMB6uTncEGDgt1ozy2%26ch%3DAQEAEAABABQagSWi8DxbovAHueO49kxzxOzmPeOvoRU.%26v%3D3%26pg%3DIGCF3BEM5BEVFMDNVULHH7UEFA
+.netflix.com	TRUE	/	FALSE	1799431809	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+08+2026+18%3A10%3A09+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=954c768d-d8a9-45a3-818d-237cc54e8e37&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1799431806	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTazq5FmBVA-Y_eqaWaInecaeFqPVOczMk.%26dt%3D1767895860916
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

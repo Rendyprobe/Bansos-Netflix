@@ -1,0 +1,20 @@
+
+– Email: artenize.monteiro@gmail.com
+– Verified: false
+– Profile: Lucas
+– Plan: Standard
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 4960) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801164512	OptanonAlertBoxClosed	2026-01-28T19:28:32.135Z
+.netflix.com	TRUE	/	FALSE	1801164531	nfvdid	BQFmAAEBEFf6HRqVoKlQA_27J9cJyu9giu7fKNAFlKTFn_omZ6WbBMxjj8k0hE0GlbQPLcd51d7-n-b4yMhawDH1xGWAQLu4gFJ4MD7meqearTWA_zzLYzZpZxRIFbJLcv8QjPiST-O5jX4_a0_L6eFrcTXg6NNl
+.netflix.com	TRUE	/	TRUE	1801324975	NetflixId	ct%3DBgjHlOvcAxKwAyfcdd619JH8V_P_JkrrBv8Uip71lzsa2bgGbyn3cASQS5C0SO88M4E0Q9h0l5A2DDMUvBz9vCK3fa__-EIj10DDVVZlnuvr_a4TYD_pkHe1H2Kl7Md09OGQ9X5s2RhHVMxNlwiYI7AG0yAjaUNUnBJeg-JBnyu3_UyFnih7jjN680OXbhYnFzR6arpmGjW92gCVO-hbesbewZa-E7Xl8J8DqY-PUEmn_Rl8Ir4vy2B0z2kdqbmMxIiSJ6IZUKhTLXv4dn8Z4GSJ0QQk0BNYzLt98nLv-Yjq3KYgfMCv53fZOiFS0K4jDb574U0v7GhUYoJx7B3rhXjOsckm62FS9naEn3sXKFYtLL7B8LiLeHcnYX6gAdR6hpYrG2cina9LIDjonNP7ZLOYkeRGm49cPx_nmONdd0x6QG3vy2Fz_ClQRVo27D1i0FD3NmZ6R3UwSzRyVdJ25Zamo0QQZACEiPCg4mN3XNXnFCAu2d5rkxkuU3mH8pOdH60jru4PhFolW1oLdPayC3FvhvWUfQt2lJ2BLLOi9wra6HP56lUrb2YgX_nu_11FJ0Fv2-tsalN5GRgGIg4KDHOrMGX5TCQODMEfzQ..%26ch%3DAQEAEAABABQg5_H2WgDWan2TFOAElnP7VlMorQWJGLc.%26v%3D3%26pg%3DIYTNMFB7ZRB7ZGGHC46CU7TG64
+.netflix.com	TRUE	/	FALSE	1801324983	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+30+2026+13%3A03%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3964cd5-8395-4a15-8e0e-bab344c4eb8e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769628512980&geolocation=BR%3BPE
+.netflix.com	TRUE	/	TRUE	1801324975	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwfh2i9lFJX16JvyQLiHdAND6t_pMgNPg.%26dt%3D1769788968282
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	a8122509-982a-4a19-be42-fc98c8a390a8
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

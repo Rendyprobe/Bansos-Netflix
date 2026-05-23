@@ -1,0 +1,20 @@
+
+– Email: al.fatha.127@gmail.com
+– Verified: false
+– Profile: al.fatha.127
+– Plan: Premium
+– Next billing: May 29, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********4011) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	e5b50783-8306-41e4-b18b-77efa69d7df1
+.netflix.com	TRUE	/	TRUE	1801431868	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKOA1F5ro-e93xaoO1YRP8gMAPWivdXGVGIpZ2hrT6ObWHsZ6dHLimGVM0kt5Vk0Mat8OZ5mESkPspnQ4YuGRO5R8GT0Mb6ViK9JUXQ5qm6QZ44ggUstBHfDlRt_k3BV8XfE-C7esEfyqiJCiSvmqegQqXgQ995r-09zCfACaIBLExAHtn4MSaIwUccqMuA00zxTYVUdMAdGtAvWkT8eex1WJ_gDcwHwX751AKgq-NhPXoow7Gu4ztu3LA5OgYhrDqVkGlm_x_T08ZxGWNfiXjl-0JCRo21pgqzk1Fq2JBkPxLNJKCWDezFYAAc6rJrM6S9pFgEaJEDopJrWrnzrGWwcOZxR74GQk9tTo371DMW-urdR1ixs6w8VTKBNdyIBJUVY9007L7BxxYR5O4s4eVwMNyctyrG3T5bUgj1VJUSEoyTkrxAQ8of9itK7sA5apgRpy1O8xZ-h7ftFe16a9GVVdR3qAOmyBGrLptRVUQsB2OVe_TToCzLOvlT13FhaeOCbEdyPLqjzYjaKkHzX0PBGAYiDgoMAUibzSz7E1orpmsa%26pg%3DYYNSFY7SCNFXJLCPQAXMGXBETI%26ch%3DAQEAEAABABQeAGRnDy0s1x5jZBo0I5C3nV6JlvgwMCU.
+.netflix.com	TRUE	/	FALSE	1801431881	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+05%3A44%3A41+GMT%2B0800+(Central+Indonesia+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b5d1d88-12f9-4124-8c76-535a56b0fc9e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769895867552
+.netflix.com	TRUE	/	TRUE	1801431868	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRz_MLzxu5HLsVM3z9W1MCNavYeQoSTMEs.%26dt%3D1769895867457
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801431868	nfvdid	BQFmAAEBEBBtNzagPyIOPNn7e7AlB5NgmQa0E_d03LztoeIQ9lzxPNGmhWTXeA7qL3nJXpFs8DvyIBWcLmYg6MvHIunuk6QvxzhozORkKXcHdXnGR3sJ6Ej1ocBTSaY5zOaMdo2bwpGB4cMS3K7XBjDl9W0I_cBx
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

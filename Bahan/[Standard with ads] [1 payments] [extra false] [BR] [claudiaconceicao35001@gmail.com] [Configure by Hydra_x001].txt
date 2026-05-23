@@ -1,0 +1,22 @@
+
+– Email: claudiaconceicao35001@gmail.com
+– Verified: false
+– Profile: Lz
+– Plan: Standard with ads
+– Next billing: 6 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 3897) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807467132	nfvdid	BQFmAAEBEN_K1kgew7mX2DiXy3AVWtVgrTE2nPnEDR3y1wRrvLLPCUMJ2cK2Bn_n5q-76T7V_AJo4oG6LgbiTRy96MlkWFx90EqgWEgxMGxCiXqJUAtNW3dstY4RtPqwQcF8N7_Gfs6CieRrcySw-9IEYk2K9MPi
+.netflix.com	TRUE	/	FALSE	1807467214	OptanonAlertBoxClosed	2026-04-11T18:13:34.857Z
+.netflix.com	TRUE	/	TRUE	1808334702	NetflixId	ct%3DBgjHlOvcAxL8A_YF5L6jyjuRWwMFGUKjgX-EGk5-QfQXrpY43D758L5Ke0XZticPRI44vSPfjwc2GC-OAaZvZ6Sqajj1P9kIOQ1aeeQQSuz4X-Ggx6jFjhrJcp5ZkgIgt1pJQWMEXqWPM8VYYZWR2qbKmdmMvlkyExgu0FFiVS8LE4TtHfhTAFIHonULxvjsut0m4mQ1sZxxanJw3LwgxZ36AnYZYSfiXWKKoEZXm7ns0AZfVSbXg4FgdCmVdwURroU7C_6m9t3YdKwCl-K7G_rT36p_pjzhd-OnNVpjYRf4WI4_JgMOLA86co32ZP7wh570cM9I0tMSE1-H7kOz2G4w1VqdMABxf0Z-KatKN1A2TanRam6GyYJTSXLI5NhVcubWieAxUbiqm8gbgWqL47SJ9jOiuGkPQiCneHAQDpDhWhUTazO58_MfBLAWW30VRNKK18O74qyG8Dz2D4NVK422MOUjlzCaPZgI8eQqw8ZNa2bMvKsroo3XiU4NQ4VswA7L8ZCLkD4nNUUWNUzCOwLkmnR54KK1xZwJvRgOLXPXohg-c7tLPX0lrcwjrZKTnZGzXh1-yXSxXFqubsYoVyppsmqoPgVHw4NxGaWGfq_2ZxRdf9Iekai6vdSzE9kYJTZ4UeaHGOv2y7UT8BftuiVfAsDNaqooQlZ60GlMWI8qbgYVIqkYBiIOCgy_ZLK2pKWv0OKkeDw.%26ch%3DAQEAEAABABTn2rfXgLLcwmbsSsikaAPVzv6QFsjMpNc.%26v%3D3%26pg%3DORC4MFBAGNHCRCJNSS3S42SVUY
+.netflix.com	TRUE	/	FALSE	1808334699	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+16%3A11%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4702372b-8b4a-4a6a-81eb-1a5b62b1f931&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775931215297&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1808334702	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQxA1q432Qli-p-KqDhevLm_w8uSFV75U.%26dt%3D1776798702533
+.netflix.com	TRUE	/	FALSE	1780396277	flwssn	b5bfb5f9-25e1-45a9-8ad1-a0e360efde59
+.netflix.com	TRUE	/	TRUE	1780396277	gsid	5c5942a7-a810-4065-a4d5-728c6b1a842e
+.netflix.com	TRUE	/	FALSE	1784574699	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784574699	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780396277	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

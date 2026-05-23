@@ -1,0 +1,19 @@
+
+– Email: flxrrdzs@gmail.com
+– Verified: false
+– Profile: Yari
+– Plan: Premium
+– Next billing: 21 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 0878) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801252157	OptanonAlertBoxClosed	2026-01-29T19:49:17.977Z
+.netflix.com	TRUE	/	FALSE	1801252169	nfvdid	BQFmAAEBEDd5zpzzQaqVaVz56ao3XxRgTLC8q2V8atAkpRgJ949q2xof7Kgou3HkZvl-6M87-rfJmuhotSBmpjH0-IVq5n1aTuc2J_znjyVAZ5IGLU6x0pXkFtzTlg7EDCTyok5bMtfOx0D7_M2gq9duqDLOlS2W
+.netflix.com	TRUE	/	FALSE	1805685608	NetflixId	ct%3DBgjHlOvcAxLmA1HxjMiPIH-8i7NHXniyaXmvhD321Ow4U5S6RmeV28N6Et6UvFJKa8CjeDCfld2hugJuSjuuDrzg2T-1Qj1GUUg7sRMR8pox8M2RYCA_nZk5pWnU94fEsMi2j6igIQvcy4JSrFKhIb2vwzgeblsPoDaq9cY-V1UL94sNe5rAdX4BlPOD9w0TSKuZDIQyKXXYEUOyjhmXncOOqmkZY2t9VKufs7ifJ7qPbLkmjckUX9qQp8UG-djnSAY8FPYVo4HySwKmOVPGelU-Ss7bdwGqfGUsyqtywQalc0GlVC2uNg0tue0zXnVlnSXzj-NAjEqn8QG8k3p9DjlMwJU0M4L_Z1q4uyGs35_vhuWnmvwtiL-DVFSK1XpGN9LuSmXT9-4a_-L4yRyPSUn9XMbaAHO0NHZKKUAmfAF8EFhozZnjEq9_lTFELFohnXnPhqFTtMwG0hgRww977V0-dgEevGSDYqKxSKBuvC5CT-26c0xvxa-rkiQHlLVSCPeIzxFdJMUkJOaPAWasftNPhmgceN3MsvYCRoJOGCs5W-JxqJupSyl04LhjWe8KsfAg-QyZ8nA0V1MS3XY7oDCXLKVYVBLyjfkmGy3Lu6Ad4ptorLr38tqT-CY5imd4qz8H6dMjD7RSUhbKuxHljxgGIg4KDDRcba2CqxpbJz9g2A..%26ch%3DAQEAEAABABR2K7_PbnNcHg2EE-f18EMWQbgL0r1oeUg.%26v%3D3%26pg%3D2IX5ME5BY5GA5IF7DVTYY3NRYQ
+.netflix.com	TRUE	/	FALSE	1805685608	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhZuns4F17EHpu9YbUI4IEII_T4Ha-o8k.%26dt%3D1774149608062
+.netflix.com	TRUE	/	FALSE	1805685718	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+20%3A21%3A58+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07d2f67b-01e6-4b1c-bd51-d35cdfe015cb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769716160332&geolocation=MX%3BSON
+.netflix.com	TRUE	/	FALSE	1781925717	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781925717	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

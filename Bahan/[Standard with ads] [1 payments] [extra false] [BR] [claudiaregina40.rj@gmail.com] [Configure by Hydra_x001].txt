@@ -1,0 +1,21 @@
+
+– Email: claudiaregina40.rj@gmail.com
+– Verified: false
+– Profile: Ruªn°
+– Plan: Standard with ads
+– Next billing: 12 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 8106) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802045196	OptanonAlertBoxClosed	2026-02-08T00:06:36.460Z
+.netflix.com	TRUE	/	FALSE	1805598150	nfvdid	BQFmAAEBEMQMka7e0uBLUanN9au4ZmhgGpK6mUWAKrfCmc06vCrTYAc_6EVTLYZEcnyyTLpx-QL7WpjkCOOicydYFn2fzPbPp3HnDdCjExReQzT8NdP2-rBh6idnGQ4HfyG74Y7GZjcX4y8DGm_WlEqUSJudxpkJ
+.netflix.com	TRUE	/	TRUE	1806329345	NetflixId	ct%3DBgjHlOvcAxKFBGGeQIFGpe07oU3mpJkRsh3_1eXmnQq1sChUBHOMr7yT65wAxg6t8NmHBGhjax4_FWkYxKypr4iv1N-hsWdFbnUN4nX5v6h7F6SdK0RYXe16mwoEZqTsMOqCz66SoZEZcq2q7UuzF2Nh3bouNbDVqal_4V4k1iBqrFlDeKDqAkGcNo6MYrS0Ttx5Bl-zjxt8MjMkqoHBt-Ooyae5IQUmunsaGjyQ9EFVwVlGRBQqdhlrgNp0kS35gP95LB4ehRSg6dnXPmiKCFe8nPHMt5G9k33z68f91Ytb8SclooOC-5RquVYibjVzE2GSl75URyLdkoK2TiccCA05_V2nlAkd4V5iHfRV85ueAgcHLyEfcKSFTQR27xCIceU83PWWzD6RSpVq4i-ftn1pjdkM88MsJO60XkZ-jhTPfmUSeFghMPEyYOlkVP6SSusJlBoJMzUEicZZLXHSNLUgqBc_4dYCkgfiX_7IPGl7WGBtXdjoxGnbUMYlPsdsnGTmkb3kMs1N0YRy0kktD2CBVKAMq0D2ZYRIRMa42cNORoZJp39qlI4S1FmUohy5k6TnIfW1zpse4V2ydqE8K64GisbIrgvrNlVSRmorheMTDqPMllTy6x1svNrpd2ENYJwWryMNXax7jUyI-xifh34kVU_8yscQqakPk-sXwNpzNhQCMA0wmrVuGCvajqoYBiIOCgymytxnhZtjswx7tgU.%26ch%3DAQEAEAABABR_5LxA9tHNSaA7XkDA7TTFRtidopwDSE0.%26v%3D3%26pg%3D4LNY67NYQRDUJPMTCW5G3RVZ4A
+.netflix.com	TRUE	/	FALSE	1806329347	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+11%3A09%3A07+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec90d9f6-df6a-45c4-a720-79ff94a0b6d6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1770509196871&geolocation=BR%3BRJ&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	c06833cd-8313-4a5b-b22f-0a21d6a9d219
+.netflix.com	TRUE	/	FALSE	1782569346	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806329345	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0E6SJH8-6ooyYDC1P_mtnQbb4DrkQn-c.%26dt%3D1774793392668
+.netflix.com	TRUE	/	FALSE	1782569346	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

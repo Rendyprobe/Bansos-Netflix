@@ -1,0 +1,23 @@
+
+– Email: clairantonias@gmail.com
+– Verified: false
+– Profile: Eu\x20Samuka
+– Plan: Standard with ads
+– Next billing: 22 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 5121) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796050355	OptanonAlertBoxClosed	2025-11-30T14:52:35.234Z
+.netflix.com	TRUE	/	FALSE	1796050350	nfvdid	BQFmAAEBEFzuJxzcri-1St_zGLxdNXtgB8H6_WHDvRN0xXUDws-72aD5WKfRWoif2pNf9RubOPLDlFmksuC4ps-P9uTL3nNrk6VjJuf_bhbjmApZNMw5erYLOln7bQOlsczAjl5SjvfAMirUk32lPQHEU2MsYUL0
+.netflix.com	TRUE	/	TRUE	1808060945	NetflixId	ct%3DBgjHlOvcAxKDBLIfxnErBf9NOAro2_gahXYzyJNx3XqJHHE7sC6gJAtEj_c4sf9p6tLewDV2eNfVXXisXOHIMLtaKPGdTp2rOs-MBjsWbAzJ_9dFj-8xnH7w1GjRrAkWe7FnDIBQI7AFLHvEv5rr7DrJNvusjc4_HvaQEwyJPL_7g9AtKbGH_uu5f-FhptYjqWP-RRaTjPBX6Pi62SllpwCiCwz5shI9ranxkMmnHxewsDFVd27h2eqih5zIJb7G6-uyd4cdtAQ6GKx_4lyfe4KjWFCNLWGLF_t1vZ89ANBkzEBFwVwBSezjWHng_FlLDjkGbJajvji7rlJQ1tUhDWjT6HbfOzOb3WinBrRPXMzB1-mMKvvUXpcxSAyLLnLnmwdfHL5GlTjEMXXH8YU0H3d7chSsQhYTPzitHP5riwfq39GAMYLGiWfAPxd7c6LpH8EQv4xpTDpV-pI5TCNTIMaGDgYU6vFZKCRO0EfQ_ghQNAOZgiSRIhFqcijN2qLOyLz3KsZ4Nel-qiqE24VW-bJQ9mjUPBhLMPUpE6Ba2NBNTuIux5cXtphSO7Q2gcjAy1K17E31NlVYd_KSp64Tddi0ZJTAbZTxaYGF791Dy8LOS7ND0DF7oeVjJrkAFTF6jJNUcfRaP4cQnjYXnuvKR3PdN67uZSlAsa_T6f78kQfEIEkNzH45MGt4BdTQGAYiDgoMpk6YkiTJLucRc0og%26ch%3DAQEAEAABABRg6JconDCDYQGLVdfex8HF-L2IjUyiR6g.%26v%3D3%26pg%3D4ZMGRPBYDBAJHKQXNBO4MTBAZM
+.netflix.com	TRUE	/	TRUE	1808060945	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABReujMKGxZ3oG73kYDyg7A5GTXavH9Tjhw.%26dt%3D1776524945755
+.netflix.com	TRUE	/	TRUE	1780831490	gsid	f2ea2c2b-6a01-4fef-9892-169c03fc52b7
+.netflix.com	TRUE	/	FALSE	1808061244	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+12%3A14%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a9093ca4-5388-4839-b9f6-20e4a949f83b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=%3B&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1780831490	flwssn	4fd24029-5b93-4a1a-8e01-154dd2e1481d
+.netflix.com	TRUE	/	FALSE	1784303048	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784303048	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784303048	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1780831490	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: gislainecflores@gmail.com
+– Verified: false
+– Profile: Gi\x27s\x20House
+– Plan: Premium
+– Next billing: 28 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 2074) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804874350	OptanonAlertBoxClosed	2026-03-12T17:59:10.239Z
+.netflix.com	TRUE	/	TRUE	1807898377	dsca	true
+.netflix.com	TRUE	/	FALSE	1804874376	nfvdid	BQFmAAEBEGTmh4zyK3U7_75cCM2F4f9g6CAv5KvqwcMtmvqD_k9uNrBQfkJDFUGVsY5Lr02_n5BU9k3JlEgnVMwug_1Ax7Kcbd0x9IP5aWJqbJfG1PkKcJEH8fvX8a48dADo7eM98If5csamEglh7Ch4afhfJecA
+.netflix.com	TRUE	/	TRUE	1807809768	NetflixId	ct%3DBgjHlOvcAxKFBJdvaZALqnVgv-EK_KoBQBJ2xjhdwvSgo9CR3XwWh2R6L4Im5YCemt2PSUTgxXpSf6j3M51AtJ5svbrm0O94CSfUWynz5X-pYaDWTDBNNmO3t9WVQB5cel2XRE711cQCN0agYZwFKgqATLRymWNTf31by5q02O6x2WlSzu1fiBdhsZL8xx0qLPEmL-JdkxBUoo_0Aw3qmk-_Yy3F3Kr1MgGjxTuleuyYCvJYnlh5gv4ds0nNETskaOzwipTKpVy-iTUNC3eGf7NsXT6bUEhXl3zN5rpsV9821hUG9-nJS0b47_iZWmY1cH4Klwfa3d8AGdObZXyhixjBPuB5YjGp43F15fNzO7aIZvTyti-t3yOHZN5UfODcUWvTnDgJwbePBpIOZYqbxv104VuyadK-ELEKvlWSvCn-uPNZmRHhutVxuES0mE1p38ILa3CbtlQ8l1LOvDGwLwygVWrp5hrpmG2pER3eAkBtIMQhpPipIvLF7Rfu4EWgl5Uj04XNuw3rmsKFr-ddJcBEfz7ydCsAQM7iyPZf67xuwyYh39UIlwLFw4gJaXVCjuH19HnUK1Dl6CpXO8cqxIDBGH3W1n7dKQ7xSwykVmgyyS-7VZ8TJ8IlB5FHW554qiw8l7pDFoFvZjbz22Q4UeBoXcsMf2LI51Sbmn8k7XutQ8cxBw_mt4hodwVeokoYBiIOCgwwaNDWZ6eW-pSDVCY.%26ch%3DAQEAEAABABRTybtx-B8byZdwhcTRqOC3mUi7bUBvKfo.%26v%3D3%26pg%3DCGF3A7KMHVERLJTXKJ6SUPGLWE
+.netflix.com	TRUE	/	FALSE	1807809778	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+14%3A22%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b734cec3-f4a5-4e5a-9adc-553ede917c31&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1773338350737&geolocation=BR%3BSP&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807809768	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3OEF59cHvyr6Lp0IOKOt_LcVElub-tpg.%26dt%3D1776273767730
+.netflix.com	TRUE	/	FALSE	1784049769	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784049769	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784049769	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

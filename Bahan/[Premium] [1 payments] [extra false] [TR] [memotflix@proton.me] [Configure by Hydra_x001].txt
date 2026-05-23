@@ -1,0 +1,22 @@
+
+– Email: memotflix@proton.me
+– Verified: false
+– Profile: KC
+– Plan: Premium
+– Next billing: 20 Haziran 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (VISA 8215) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805225729	OptanonAlertBoxClosed	2026-03-16T19:35:29.527Z
+.netflix.com	TRUE	/	FALSE	1805225875	nfvdid	BQFmAAEBEIV5UjM6aLip-z6QdkS7Prtg5XvuL2FEE4vZFjDMQ-hQCkXOy4OnjjW6DhIjjYhVYlB81BwwrlPZlQxK6djce-IGFuxqrdeA13fOKQNaC9ZEVz-keyHHBw7e_OvB6FyyWubrVjlG3JafhKF_aJPnBsGw
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	d4514cc9-387b-4a9b-805d-c5b7566595f7
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	5794d20f-2cc7-44c9-9ff4-6fcc2774e572
+.netflix.com	TRUE	/	FALSE	1785681502	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785681502	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1809441501	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjcAF_vsY2qfn6trAzmiAh5d2ZIYc1Y8s.%26dt%3D1777905504853
+.netflix.com	TRUE	/	TRUE	1809441501	NetflixId	ct%3DBgjHlOvcAxL-A0J62oAA9E43dTEw3ID_Ds6K0qjmvJlarGCSjfuGJo8HLDOgyvtp-lLI7Ui8bd3yalEuINqKpY0bPYRnZuAFe1A44vKiWqPBX29i2SORXe5sCaj-D08hsgZcL8pUotlyhwZAr4mwuySAfkFl9PSuf_s86k3iKeFChOEUVXigNGYQYfLUuSHnsbbG8gPDusOg3rhPhxdqRxpYV6pFdyknX2AicJjoBz5s2mviKSE3q7gDljL2-JZWyy7stchcCekDcPssOLumdXD6iy1vseS8xiqB67rQG_55DQ0FUlv37_X0ZcMZc2hTxu5VZKcAz6WoCewPSoYC71Y_CFIEbm4IkHfL078Pu3a1o_XjbuWxJsxeNzVFgRPxz31ZU9ZYhSxXewfefZVjDerYtNtZPBE89PAFmTvuFF844-2GYDdENhyU1quSRKf33YLUJG74s6dg6-kuPNHuj9lh18-yjH4aLUOw6e0VMBsNEleSZUWteMjmdfPXBc5IZtJ7Ky9Ewfv8ao_Ow0jnAKLsgYnXTnGh_8uY1A_OU4qOjQOie3J7qTE663FlHtrJgKPXzZWh6GrJPA3w2CnNEqUQShjSARMN2ZUkxtKPVV2JdMkmUV66jgJf3krP5PcbdIpPvqcZSGZ30LQIfOmyE6PPxl26tfTfslr59KolPDb-ZXSk2mRBYxgGIg4KDGsMT7ybwRY9jrqEuQ..%26ch%3DAQEAEAABABQw4ZVmJvF8naYBwYS7w0wQvEI21jzFhQk.%26v%3D3%26pg%3DYOXBFFB4OBGVPGULWT3SPBQZOQ
+.netflix.com	TRUE	/	FALSE	1809441502	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+17%3A38%3A22+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f983e621-04da-49e9-ac21-1bf632a6f9cc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773689729974&AwaitingReconsent=false&intType=1&geolocation=TR%3B34&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

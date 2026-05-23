@@ -1,0 +1,20 @@
+
+– Email: aloizio0554@gmail.com
+– Verified: false
+– Profile: Ryan
+– Plan: Premium
+– Next billing: 21 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 0108) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808344865	OptanonAlertBoxClosed	2026-04-21T22:01:05.125Z
+.netflix.com	TRUE	/	FALSE	1808344913	nfvdid	BQFmAAEBEHB3AmudCX1wso2hCDfEKz9ggfcRX6LBcD5Jy2yAFwvHW3MYB_HdGJBBRNzUe9CC1WaWT7rrCGCN5V067HslGKPSEVc3Nq_61mQgTVVd2uA_yAlwzpWDjYaOswkECDnpmMbNF4zDIeK0pWdavhfJUvRb
+.netflix.com	TRUE	/	TRUE	1809658641	NetflixId	ct%3DBgjHlOvcAxKCBNiDWj-ESjJacv-jFZbbCMZmv7TIYsdMksFSwBQM4oVjSOf8d0qSbp36U_UttoVMqSl7aXcYBPUFIwYm4xP5WEB4P6P7GGHyLvGHajtVSjZ-7GO-7USStllF4_2zrrGabvHtMJwRVWhbetObCzoUVJ_56CpQSMj3WKTQY-CuLN2igyM7ve7IwBz9eIoNZfzJt3kkJkkjtd0dW4_xJ9OJ5WMIvhLALNVBbMLg4ikg-GZmJ0ZTAHaNyUbPl8-Y5d_qiH_Vbd5Lix4sWqQN2CM5MPbjLiOkBB2aso--N4qxR6NWTC-tJ8utZll9cr88sz-6q7Tfgj-K7U4ve752I9Ncy9AOzmtKmMTFYQKFJjRurhDzjXA1ZXwSBnyYl9nz5ui4qiXmSQg2YwUvRkIPeViIl_yv5HqePtELYzBGaAo8Nh7503Tthjzacn202zmVHUKoTeKZja48Wbd0jO_F7Kb-NyCCksw9bFMuxQczsUQHRQ-En4BG9KRQMIyWiU3I0UV_KZmgG-daMY6d64ZUPLHVXNwHYPnr0IGT_pu75LVLuc1J4WqzUR1RS5U4X1np8ENavZ0lPjvtuWBT67v4y-fWqtYwa_VVvQNVTdFEQR9G5Avy5ezZAyd6lNOS513LZQUO3rDLVz11oRBQjub2OklTNrLfNt78ysfnrmLvV7j7eKROW5oYBiIOCgyILtOn0xF27DS4nss.%26ch%3DAQEAEAABABRQQLHFi8M0KTgCNJh-jUNY6_yDIJFC1xU.%26v%3D3%26pg%3D4MG337WRVRFMRO7PDK3L36RV2E
+.netflix.com	TRUE	/	TRUE	1781698300	gsid	4c7f337b-a7cc-4778-92e7-3024bb154041
+.netflix.com	TRUE	/	FALSE	1809659206	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+00%3A06%3A46+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f23b779a-6b30-4f3d-a96c-8f575526725f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776808865935&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785899206	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785899206	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809735951	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

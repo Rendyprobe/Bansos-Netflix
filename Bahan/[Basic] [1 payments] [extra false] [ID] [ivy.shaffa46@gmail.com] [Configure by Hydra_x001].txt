@@ -1,0 +1,18 @@
+
+– Email: ivy.shaffa46@gmail.com
+– Verified: false
+– Profile: Sylvia
+– Plan: Basic
+– Next billing: 3 Juni 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | CC (VISA 5358) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807620909	nfvdid	BQFmAAEBECmB9n_vtY8GfttlqKj16EVgyDFNLOwNMU9dC96n42W4dLPbT4E_8CTyREticaNHIF3RRRVb7xRXzTsPrsEU0zgyxW5juT7pTe5LrAuiX5-ujbYiwnbgVEKM79kRCJfLHst4_CcKWCKrDlkyUgzqDaWv
+.netflix.com	TRUE	/	FALSE	1784897809	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784897809	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808657809	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+19%3A56%3A49+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=685ae9d7-9623-488d-ac1f-12e08887ee34&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771957287572&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1782066567	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1808745776	NetflixId	ct%3DBgjHlOvcAxKEBPE-pShk5iTs7W_p-F4_tDYI9Yyec3JdnXvX_zxzUDSG-8f6pRk8gpFm_MXvK16FpTMAhDmeVdfXRVwTYgT6m97cRCb5XeCzzL-Pr4nDQGs0CKTgRI9hQ2999UWdNfgBPmS1fNGkm2mswxrIzyIVDQoRSpJIWEukv6BS86v-71woCTkskoxKkCEwC8AkWkSPy6cfS7q_USac_-lJmsKIuwDwXnSyDgvyE40RZrGUUzGfCIoGh9CDIJ5jFiay8B0BgEQ3WBNvVgVPMtxU0E5DHzW0L7h0paddcHm0BvmMhxWd11YmqYqP25FBA0Sv2CThKrNBbJ1iT3fk6Lac0l0cCV-ZCDPWMjFAnlXCgsG-VwP3IGAJ1u2eX6IkWGyHM0PwprBSLSTatwkM8zHyIRhHBCikNQDpoXWaZcWyF_4L1GAt4eT7I9lZ3qtL4vK3n-Sen5vTru8hprmmjy0cFH-fw3Jcqquy4N1BkzGTDKo3bDauxlXYbj5ok-Yw6Yyb_ZzOoED_P4z4arrZJL9p7vMs3OPG_pgTNs10ZAs5oAcrRI1C5bB-adiNuEb-SSLUgRbt9CDNXe3kXCkl_MkfwUdcFyqwQNStM-Kn6p3iVOv9dmnSjiqug4ETM_CLVDkfbg0pFnGG6hGNIeF7CLngGAIYwFafQyxI4u9AiI255g3CxH-zm-7XVxgGIg4KDLn_1BYJAnsJZ3I-xw..%26ch%3DAQEAEAABABQrjtgYdQ3sV2060xEMvEWVd5WX-05lomI.%26v%3D3%26pg%3DTXFAIGB7VFCAXNAOIXUIGDXRDQ
+
+Follow: https://t.me/hydrax001

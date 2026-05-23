@@ -1,0 +1,20 @@
+
+– Email: juan.schin@vera.com.uy
+– Verified: false
+– Profile: Marcos
+– Plan: Premium
+– Next billing: June 20, 2026
+– Extra members: false
+– Country: UY
+– Payments: 1 | CC (MASTERCARD 3490) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1786970533	nfvdid	BQFmAAEBEEbvpUfhqJOx1oyPzn-zTp5g1htfhZ4PEsT4eB3f68vUIROAsBToi0RrcQP7lucVivvRKOKaqwLXoAWbj7EwriOP_J9Ci5hS-90tpDrcx7gy5uN_pVJsDKrIu-4N3aFHQXddNJO5LH-EoBTKncsSmhRM
+.netflix.com	TRUE	/	TRUE	1810247587	NetflixId	ct%3DBgjHlOvcAxKCBKE4_YEAM9Qx33RNZwZYVqlGn6OkcM60PLwpVz5hJe4v7qDa1mYrJMrA3tpIIBJ_gEWJi-HdQg5LN-CFVELNmmsRkJy_Lx3ZGxGWwpM9vPbKyNOB9ggEQKsYWVSMnRsbyXYnmt7S0PXXHJb0im7dqhuSYIzy1VJ20kzttfxFdpRSy8aa26EqNIqn5dZc4h0PkT9y5RIdROdtu1YL8qI1XC8HbqIhWtZEKEMJPWYjthqikqx2-CbrGFlfeVKf41jpKwsXX4e7zVmQj01D2wc8fkhmFmqvwds7sYFUulCXpeBEnnoEZDHZCZzJe7-xK3sp3vkCunSuT4nrLniE69EVnWacWZRWlBI8rWc3ZnwhcWNw3qps4o6Z8htqy-YlziZAzGIhTH94Ha_WRwZOP_01odEhe2fzGDqfEoFEIx_nFPMyKjCVUyYIhhyyeDfKlD2PNGYVb0vgboh4_GuzZFP9RkS99nyM2JAuqCN2YJ13qIR4rW0BeuMz-dCHNHrx9bBv_1T5nH9PnjYGLCfYNdvoUxMSL7mQT2ZOPJh1bWFIXsdSPUVl9sHhXa6hEkt05S8XV8UqUlCedy6avjlT7bMdD2qsgEnAOf40ddO5K69fBERVQhDHnmtLuUNZWXGrlf_mpIF3joA7ibcfYaxWPFgYjzo_1rhHR-wQCBvDp1jgK-yqoOsYBiIOCgz15cj41LDCVJBsKtk.%26ch%3DAQEAEAABABQvWcMs_ikV4bpbiQ3Z__w8lzJLmuhgDDM.%26v%3D3%26pg%3D3RW5T4D2W5A7RKOXVF5AALANKI
+.netflix.com	TRUE	/	FALSE	1810247588	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+19%3A33%3A08+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf7a3ce9-8ee0-433a-a8a3-13f2bf76ef9f&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810247587	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5OA96yA88TxpxI0j41oEGstKYBXlIqnA.%26dt%3D1778711587075
+.netflix.com	TRUE	/	TRUE	1781798732	gsid	ffad1712-fb3f-40df-a797-2a5436f9d143
+.netflix.com	TRUE	/	FALSE	1786487587	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786487587	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786487587	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

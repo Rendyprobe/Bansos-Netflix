@@ -1,0 +1,17 @@
+
+– Email: aioseba18@gmail.com
+– Verified: false
+– Profile: seba
+– Plan: Standard
+– Next billing: 2 giugno 2026
+– Extra members: false
+– Country: UY
+– Payments: 1 | CC (VISA 9249) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEDJxlrRTEJfjSO_mGuVVkG9gsg9SXvl6JWIzahZrkVqVOE8jC6W2Eo-5aG5XBLy_4E22oVwxqb4O6ekxZdxuQqD8osEJ000W6EEuKUqL1VS-84dIqd4oqu4GtQ2usl8hwu4usQfh42IQ55fjUj06Teaj
+.netflix.com	TRUE	/	FALSE	1799590779	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+11%3A19%3A39+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0669367f-9b1f-426d-b1c5-88a4e8bf1e6f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1801679793	NetflixId	ct%3DBgjHlOvcAxKVAwEn_ughlkYa1uCncOBfkDTHYSSo5scyfHNUY6sU-Ek35cw74mhq4UYWkLTv_AU6wQ-EGKOcC4CxXYWo3pLPuHbelJ1o4ls8K5P4GM9yLxBSq2QIbrOqLmyEJNlCFjDmP7Zx1tQKJyRVjgOF7ooAQeB6kIFIYwHlCJg6m6HBdBDW9BYwLdUDf80bYXdgH5E4Yn-OWWermMntK6son7GLkizR1uc0URzKRn0pqjmcGxmTZ-gs2j9DwA3saUwgexpihvFrJrwM6fd4GGd3sPBgG8LBIJ4RqxFjU8En_sTxyo5Ad2c5HxbXcF3pWW4cZdp6ve0eAtN7Tc7KH21zGoLOc6xCW8pFK7EwGB0CxkHIZ9SBSsnZBCedgNM71vVn2Fny4JDsL6Jk3lZHOhhsFCKa9dp8v3ztVnExg7FOOsJJzcM5ZRh64fotX75UgxTRikWJqX4CP_0QAxnGWA3Yshn7pjLMgxXKZBbTtQZA_IdSaXPhY8bdgVucTY7juSfkLyPY_suYHbN4e1ejZBtAB-x0otB-qM2H-RgGIg4KDMSEiR-eQQGaTnzVDg..%26ch%3DAQEAEAABABSQRYBBffFleOjXvvAmaYLk33eB6Xbh7T4.%26v%3D3%26pg%3DWHGIGNZTLNE5HLEBADQGJXALNM
+
+Follow: https://t.me/hydrax001

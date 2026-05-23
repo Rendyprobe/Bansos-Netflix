@@ -1,0 +1,20 @@
+
+– Email: anwaraldo98@gmail.com
+– Verified: false
+– Profile: MARVEL
+– Plan: Standard
+– Next billing: 24 Mei 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-856****5268) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	d50de5f6-31ec-48d1-9728-7b65edd7351e
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5Arq0FjRff46rzCmDHFfCGLLk79pYuGU-Fx6JoaKkpMEVrTG0nMh-mhBuDmibI2-xTknj22AEx6zO3XHBEECWNE0Rz8fB0A5pS9So7qY9J_T3lOaJ_TvFzXAO42rI2FhgSuRx7_vjOoOaEuWy6UeJdsiSwExGWlak-9zFrxY8BIqmnyZvqyudgFtbtPG6rX2iUzhu3B91PLQbPssEIO1YlcaReDXFd5dkmF0hEFemOSR70165xvIXnUtUmQ1RiGcypTeILAj7JOzEU7YgA1jk-RG618Q5XJ79LaaIQYpmw6K7CmFn5-rc4HcKn2Qs7pr-kq8uFxY5anbYQt5ARSPQC2kDMwQ8yHVpO6mgJ61wJEB9xheSFW_Bh0NNBJhgxjAAFGce8lE07Mev5vwJp-qipVQ5vXTlfyK1l-XTGZ-9JaPyXOXYXGrA3Wiy5wuEollJYDmpud83ivXowmmiK768DJB2_fXTrCH6QHNQ-yTdaI1BHSn-pBchQcKNGAYiDgoMY0Tfcai8W47x0wsj%26pg%3DOXC5DHRDNRGL7EON2TFWUQIGKY%26ch%3DAQEAEAABABQ-2-O8HlIbea2Sx8Ai-KMDEGmIGGqI_mo.
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcjMjW1mK3yeDeXCGUnZBceL4AnGaFSvc.%26dt%3D1772129982861
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEK4jAuft20ZM3_SRN3gpDT9gSIi4nP5-gVo9oWE5VltLd2HOHvlioOQwwQmZnuypuqh7x_2YwAdoVHQR-Dx5G5V9pkljMIgltSvUMtR3PEuauBRBw2tIfVfEK9K6XQQLA9W8wHUzz6iYZ2TUpQXZrMHy
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+01%3A26%3A37+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4663e40-9aaa-40cc-be01-f3548d6f89d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772129976821&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	2705795d-7e46-415e-8e8d-c6dda174f308
+.netflix.com	TRUE	/	FALSE	1781829575	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

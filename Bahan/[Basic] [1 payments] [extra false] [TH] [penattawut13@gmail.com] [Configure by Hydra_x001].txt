@@ -1,0 +1,22 @@
+
+– Email: penattawut13@gmail.com
+– Verified: false
+– Profile: penattawut13
+– Plan: Basic
+– Next billing: 26 พฤษภาคม 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | MOBILE_WALLET (TRUE_MONEY +66*****5533) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808712797	nfvdid	BQFmAAEBEFKTeW8iT4NW3_QSfKopvZZg4WMD0o0xdGDG9a2Cr1niFwtXd0brc-2PN8YD-Yn7KJTptb29cKSILN1f_bxHdUqZkSUYqiHnkK1ahR12uuHu6YMwAczZh0HD0-XGellm1IqaZvM5H9SrW3nMcm2e2VdZ
+.netflix.com	TRUE	/	FALSE	1809201813	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+03%3A03%3A33+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=2d18b61e-7ba9-4701-899d-2d4a6dad6dbb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777176761299&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0bdbfee2-853d-423b-a521-d096d6519c7d
+.netflix.com	TRUE	/	TRUE	1810287192	NetflixId	ct%3DBgjHlOvcAxKPBMCbpIGlC9YdqTisvldtkCpozWPZBGesqIb986w74Lbw-626GCD7bcoiLAjznPRXsQlfFkHlFe14DrX539ogZDd7tcWdlspLtGCqEz7AhNX8TIb8XaA_-jWivxX1LTZ7TZ-Yl2UD0hir5g7-8ZDOCTR_pv8_D2t8GuyhafH82JlG9vER8CLhirevS2YG3u2HPjgZy3eJMfLOFXLAynPsIMJpfchZi6vE8ZQrBE6xVZF8rj04hmQD5AEnqpG-uQ1rcvOTDw9XdkGOlho0uJnGcYd2xxnoeNUUp_NM_ZZ8IfLG5su76l8izjUXKoHFqSV8Q61KQDIQmMhPTFFl_fs55XNrxcLnsql_D46g59qPgTkEm74gQuWcp2dWnF0Iha8C3ifUQOpMjerJ_h2R-KPhUqGaCe3QKVK5JskOfwX8na5qsneaSVK2uEIU2FuFeNos3EU2NTkQYvAsduHsYoW1cW-8Ixxjik2oF0sZU9my8RVWhUsnRy4mlEXBV727VxKnIQ658Ym1VPcSWY9N5fToVvKwFpmNBKOBOrjjzl2sTxgYfV7A8y1nPJBif0ueDz_RYM271ZwEu6TjZV9oaaRubVMSXCWobxbVGKg-P7zFIopFIoPZwlExaTlWQqfwqonwHjk8QZ4tcAsFz8UVhwXOiS6V0Hy9lefPDlETec4qic3NkoksxD-Jxi6NMHIv6nCsGAYiDgoMaBNyrdsN5WNk--S1%26ch%3DAQEAEAABABTJ5Eqzolwc1NunOfRU2QlmHOccFPofLnE.%26v%3D3%26pg%3DHE6RVHYLDZGLJEQDZWLZ6LMFEE
+.netflix.com	TRUE	/	TRUE	1810287192	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRCHO1QXeDFOdx6LI5u3a-j0O64_VJUGi0.%26dt%3D1778751190908
+.netflix.com	TRUE	/	FALSE	1786527192	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1786527192	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1786527192	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786527192	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786527192	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: facu_shark@hotmail.com
+– Verified: false
+– Profile: Facundo\x20Lujan
+– Plan: Standard
+– Next billing: 18 de junio de 2026
+– Extra members: false
+– Country: AR
+– Payments: 1 | CC (VISA 9858) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804695885	nfvdid	BQFmAAEBEGAG7p843eSnIVrKP8XrIylgOCofDx0aUdRrY6tW_IccQYNRkcSJ6EWdJgt48ZE6z6OpdOFJxPPpmiGZWP03MV_uZ79ADCvyTFmvOvI66b5Z2UWFt1NJMlZamRS66nyODJtDM4i1Dc2I4LTGPkSWxhmA
+.netflix.com	TRUE	/	TRUE	1806415432	NetflixId	ct%3DBgjHlOvcAxKHBEMW1FmsqXDmgjz5beKN_Rw4j_xUqB2auKNPwYFJzzPjYvMqz_ost20HyluSi2LKOge3PFAquKPdiSEWFjPTm8xJqHbUrPJGRDyEpnk95pO1XloZClWWQESKFRgjGT4mSiZ8u8Fo7A7KwbUrjB4lJN25e7BO_HKRxKAibD-TGvBQ4XKxxsEX8SULnyX7ziqfZV3VuO2KJOYdaaX-cs_OZh-yiEPz71UByk-HXFX3pUML0G3HFrSwKNghOJ0EZvIhXE6TSA9HTXy47ZVJceVZzs_sYS9kWTFwvWT8QbnuxH7WE_V-fJuA94xZjJZqQBfZtxbbHcOH6TQR_WPrgYJCDYCxO4RH9O-csVtoW3QGd0AIIDHdFr6XzpC-8Y4DV8rX8pit0_Z-skK-j8ffY0V4wS1op7PDSiePgTDwictv6BNtFSzUcsQuQ6Rc-dDjuKM0Hkcm76lA0wAWNbUFM9iwQirz-uqobz-RiUtePAERfLHad1Wbdpm5RxUR2ddNlE_kvQZaEvNc3m9U5yXvshH2C-n5JqcshJPkYWGDwJzeumfOlGv8u85FG2ctJPt6oF_SYTcHgaaEKARzoNoxK1vt86__czmXNbTXtNrUkqVH0b6LKJvNhudjIFJe28Ci_cyYfvxeERxz2utFyS3qD1_goUdFKKp6IERMnA_09pekfRmr4pH1qQbhwBgGIg4KDN2EF7eGqIs8FTWl7w..%26ch%3DAQEAEAABABR3IU-Qrpx9SFNNCj6nLkImNz3CU14kIJs.%26v%3D3%26pg%3DROEY5TRMPZGCDKAX6X22NJRCVM
+.netflix.com	TRUE	/	TRUE	1806415432	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRogEYCTHmzIDZo63uuYbpZg1FWOv-A90g.%26dt%3D1774879433082
+.netflix.com	TRUE	/	FALSE	1806415433	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+11%3A03%3A53+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f9d0b451-a1b1-4313-b481-4bb916cba202&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782655432	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782655432	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782655432	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

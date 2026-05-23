@@ -1,0 +1,19 @@
+
+– Email: Nairaericahta@gmail.com
+– Verified: false
+– Profile: Joseppe
+– Plan: Standard
+– Next billing: 28 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (ELO 1436) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1791545568	OptanonAlertBoxClosed	2025-10-09T11:32:48.122Z
+.netflix.com	TRUE	/	FALSE	1791546031	nfvdid	BQFmAAEBEL9ebNBXX84sVBAyfoPnCHZgIk0GOb-jMK0QE0Q4R5L-XM4sAw4r12TvUdofqlZWf5bwkv5_qxzmoZZd8Z1Xly8DsVMTBQqclmwgthqbYMJFxloOiu30R3nA1kzWBcTH3fId89t4De9NpQXEiSrpmOg1
+.netflix.com	TRUE	/	TRUE	1806080954	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA93rCxhWXObeuD5hYqvwiFrNzneOtMGQnjIB2Rvxl1lsWuRqOmU_RD-pDy33vl8_0vFUI3z8ZvOR8SNnKQN6NX3vwgfurSXt_xWCpKNf09xRDqyWMrQ9S-XaMCER7pOfNeORbbF13UbOh06l47yEuJJKSeVTvmcgrvYJBypujfDOVRnRzdTuQ__2KUurmuilO8NnilRZlPPHNXsqddFXVnJSQ8rD7hRwbhzBpNPQjgeWV2DxDPygetpou8nrcdYBhNf59LnOJ-REeyjG9H8mISfq_m5Ug-PvZy1HKvjzi_wNF2k2RrPl09k1iz9xGrPduk4cA48WirJHxkH27FtERQkqdoPJz2T264R_2nEMGv0hVC66FC3Gxtd7SlSQlvc4riha0l4rm0g_x-T6kpXj27gzeQRO-bHDlNJ9BzOrD-jRNHlVu9gRDt1hNbwh7iL5Cl2Gp8AAr5qCDyJxz0m6BM_SxNucf6srxdmDGo31PR3q1ai9SfVDUD63aPh5sS7wXPBTFNuhf-ZyBewn7Y0odBWzY7nN1Sa4V5Yi_hgGIg4KDOpi6Sgpm19hOguIiQ..%26pg%3DB52HG7XRURAANI6LIGI7L5XWOQ%26ch%3DAQEAEAABABTtMXzesgDbo9o-KeWb_jEngHcZhAPncyQ.
+.netflix.com	TRUE	/	TRUE	1806080954	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhuBFyqINmtnMyM6-HqPFmvJ6Q6CmN2RA.%26dt%3D1774544956500
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	f28c9de6-d742-4c6e-8ca3-8e38ed0ac54d
+.netflix.com	TRUE	/	FALSE	1806086751	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+15%3A45%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ad51d12-5507-4273-be5c-1115e779946a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSE&AwaitingReconsent=false&prevHadToken=0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: 2018maria14@gmail.com
+– Verified: false
+– Profile: Maria\x20parreira
+– Plan: Standard with ads
+– Next billing: 6 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 9982) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807988420	OptanonAlertBoxClosed	2026-04-17T19:00:20.736Z
+.netflix.com	TRUE	/	FALSE	1807988542	nfvdid	BQFmAAEBEBByEXctAUVijR-sTJzTUJ1ghDqe-qkiomL1U9xzjGFuS2zUxqx1wmz3FlJ45xwlkKQ00YCnkk5Hs8fYlRKJrl_qVjapb6nSOwp3W_nT-uDaq9PKHKRdUy6FRLUg-jYP2PctM9h5s2LIdqhNv6WQc7XE
+.netflix.com	TRUE	/	TRUE	1808066766	NetflixId	ct%3DBgjHlOvcAxLFAwevRUFJDcQZp5iAvsgjnPan4MziX8mfX9zK9MrKTpAyzckc93PIXNgwkulTxabql_hWFFlbijFsDHLcwHH8GYd3nytqZ0fbEdPReVkvdi2LLo1-JJg7HPPWTX4fPE-VspalN1wOHfT8RMNspOgs3v2DthO2s-mm2kjejyu0A4E15csI6wkrFXSf4zFVHxhUyD-IRC21zipD5p9HOdUBBxWyKgn-vLUxipUxxKqzcO4gFmvl_y5JkF_Wwbpy6xYmExY6UbJzQ1ZlD3iGR-8rl7MBR4u32m4BVAfF7XgbPTG5FzmyFFs8_G6Kd9ijHJxY8MN5jlR0s6mhbPfLlt30zu-lzHcBbUBTvZVuwtfdxSBE3UvbMgrANm3PQOEEZX1Db5qRKrj8K6yhPAjkQD1vTh1ifutN7NNOo4wN8c3Glwu7MrcqmsFFtb65Iw_KdsWZUL1oCo8gr8vxga1LrPXckhd1oRCGS3HKi6HummLlYAe0vzFgPSbTZEO7u3NPZwqzyJP22G7QhMExbzCOjcPud5WPlFEfaSkwnYOf4wXMTzIfx2JVFMPTR-wjyL1ztPwO6Q0NGG-Am9YtcwyWnXa2EnzJRnW92RgGIg4KDCfqfVc6curdlf-wkg..%26ch%3DAQEAEAABABRaUUCFIFqthhFiMGyb7RW8Vja7_Qn4APg.%26v%3D3%26pg%3DNIJIRY46L5AFNHNQATVNXG5ZJY
+.netflix.com	TRUE	/	FALSE	1808066767	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+13%3A46%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8d85257-c292-48e2-93f6-0e6203b0c354&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776452342194&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRO
+.netflix.com	TRUE	/	TRUE	1808066766	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcURdJCAehTzeGZZPlqcl_uSc2n6c8SJg.%26dt%3D1776530887812
+.netflix.com	TRUE	/	FALSE	1784306767	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784306767	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

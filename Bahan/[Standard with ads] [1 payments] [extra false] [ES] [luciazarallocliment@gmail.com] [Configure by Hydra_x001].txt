@@ -1,0 +1,20 @@
+
+– Email: luciazarallocliment@gmail.com
+– Verified: false
+– Profile: Lucia
+– Plan: Standard with ads
+– Next billing: 10 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 8611) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791898526	OptanonAlertBoxClosed	2025-10-13T13:35:26.942Z
+.netflix.com	TRUE	/	FALSE	1791898541	nfvdid	BQFmAAEBEGl-BXexT7P8fJoTlM0ld8xglAlZB5Z66MUFzeP-ewtZntNjuSNs7E4sZwAH8BrnXSY76JjDNkwNLTuRwm12VjQVIZCOAmu1xm52ethkHJrNfEHGl0M2yZKBRl8Q_Q4BaLBf0Bfi6IfUJqHjFVIHZBPc
+.netflix.com	TRUE	/	TRUE	1809128938	NetflixId	ct%3DBgjHlOvcAxKqA1MAg-5kOObEM2AJtuKJ03e_2F7BnujXN5WHPo1_K1TRkvt2AbP8C5JCPxZuWRC6ugU2glDwXb1wiA2NzNy0MLJbqfoqYJniKUiWCgS7jZ_xfdHy8HvgfQkZTsso1EhmjcCtRLyA4ScnKT83KnDCoq9vWpiQKZ4-_zv7dP51xOXOwW33tz_E_l8o6UIiufgl5EUYRByKf3ju-oR3hWzShmRhdiIlgDcjxKNRuQD7ejr1dOed6NHUKiB5dciXE-mc3gOHU2zDAA-0YKj8NBmU5GVAezug7fcKEzu5wss579PkCi7TupncE7XeuSCRzJ_BgvJDP9nuTwtPITmrHEoBclQNJ7StDZ4YH0XJQnhqCckac4ooCK8buPNFUbWpX-EoOQ65chwxbHsBGqWUZDgm5SuvQ6JMLklTZ0GM2lCOOfEVQt20BkvQfixFpXHklVHZq86jC8ZCbHeWaTweCaoZWm_SyImAYg4VDZFN_vNUdKTDR_iYSihpEPsIzaFlY1c14TQPPNDVnQ9TZJIwnpJ2cxd-2k_7WbculRe_yyvb7cTc_RNlHzhNIgYqDBgGIg4KDKNBGOy1NcbSeOz6lA..%26ch%3DAQEAEAABABR13rUxQ11QUVNuXMux32X33k38mS_eT4Y.%26v%3D3%26pg%3DJSRAJXAOCJCYNCM5ZE62LUKFJQ
+.netflix.com	TRUE	/	FALSE	1809128940	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+01%3A49%3A00+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad931da1-a182-415d-bed8-5d31cf4f1fb0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BMD&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809128938	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZeQ9g9aLhYGIeKxcPQeXoIDVOG77Wiwo.%26dt%3D1777592938863
+.netflix.com	TRUE	/	FALSE	1785368940	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785368940	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785368940	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

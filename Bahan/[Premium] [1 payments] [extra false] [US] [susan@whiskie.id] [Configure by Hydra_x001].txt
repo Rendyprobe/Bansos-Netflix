@@ -1,0 +1,18 @@
+
+– Email: susan@whiskie.id
+– Verified: false
+– Profile: Saya\x20mama
+– Plan: Premium
+– Next billing: June 16, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 5468) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794653812	nfvdid	BQFmAAEBEKgLEmGtLnUojihYevBUjDBgbOKyF5HQFWM2SUOyx0su9SNc2NL-oE3dlx4xe1Zb5Hz_GdhCY1m1qY-5w5fFdmphjkB4eBQY13JohPHsBq6GMPsJxzSyPidNjwSdTRoYTUD2K5lsgNjRgTCsXgAggb4v
+.netflix.com	TRUE	/	FALSE	1810699495	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+13%3A04%3A55+GMT%2B0900+(Waktu+Indonesia+Timur)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=53d1fa99-c993-435f-8b45-c0965db6daa2&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1810699494	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA1RZesKg8Am80X-khU4uOGO9iNT_rwa4d9GQ5VQQ4519gMBgmg--MfgvWG8rnKzX04spU2Ukom2wBgSuWtyI20Y98d3V08WxI0r-N6yPl8po4WgauhpUxQPDg4Ub4RSwSP8qet6wrAeVydUB6ujaYGg-3fRlu-RIiMMBunQ663GKJvz7YNalYvh9tcjJsEu-3VJpUU7evHEO26RP8YG-UjGlE7GVVxYdtyJ6gtQ6MYtTWVDtfKMGScWVNe4zck1brawIkRS2YaiewEIIJ-rp6-SMikFG0rAOdV1S8AOL0HOAkwGTXNzgNGZPVjGGfvYoVKFa2WtkIFuXgZv0cSlLcCpDw-kbP8sTt35R4pNPQKokLl7PVHw_bLg1ZkVqUAaOHVL75BCM04yUuMVLWnPsDmDzS8gv5OGt5RBKpO2ZCpveuaQvazrW7Qskiv57bO9Ysm9UBJyYsnP7VqZbjiHF1OhG3WFCQMp_R1S3wCH-OAg0G32aCW2MvfsqL3whCReLn1MKa2_XEdv6VNxb8mIqh8av6djUcv-1tydW1RgGIg4KDL4_QHm9t1B4C3h5fQ..%26pg%3D2AN7PKR3YJFK7K7UOVBYZAPYYA%26ch%3DAQEAEAABABQwyroC4hUb_C5_C0bVhB3i4yt25_Z38RA.
+.netflix.com	TRUE	/	TRUE	1810699494	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbPve1cxUTvkGedD0eAYcNRHGCxG4YmGM.%26dt%3D1779163495480
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	2dd1b3a0-15b0-493a-a982-777dc98ebd50
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

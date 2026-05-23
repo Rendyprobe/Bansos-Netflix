@@ -1,0 +1,19 @@
+
+– Email: carlosrocha763@gmail.com
+– Verified: false
+– Profile: TV
+– Plan: Standard
+– Next billing: 1 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8844) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1790517811	nfvdid	BQFmAAEBEBNRBgWQ1vlnPTcyW6SpHy5gRwDvchCKa6qnUjVco0yWdsYhsdQaOgo2ytDrxXk45dd1PEvb2s75XIb_NAjSBWxBZIONZYZ-tPj69RHt5EENlg06xp1PdYQ2asmo9I5XYgNnl1iqzlMGblAE04ksc7Ph
+.netflix.com	TRUE	/	TRUE	1793549490	NetflixId	ct%3DBgjHlOvcAxKABHoNpCW-NkktI0amwLH4ixogdThOxIP54OKYyb7dVdBoMqRhzDrcjJ0gb-SDEzQFkpN5ajKu_vstkRLoZwnCV1oG2Ww9ke5OEjOq3zHl3grZnxdN63Y83oK-089vTXucVxXxV74aZLygoPVWypZNqMRNM1PLKOVs3l8n3xSjymy1jkNSvvlREf7FghZp9ZnThRbW-7vx50rku2Z_wqu5p36pi8QfpHfocdp1QNtYrP0Hl-Y9bJlpALnzuDpK4hKywXKtcpubwgl1d3A--ZTjFLesJAd_G3kWljpAb3nDG1vX8mVshQgA4nHHwx0HsmNv2Q2ysGQ_ux4hHZVlnidwFMyIjVnG5r1H4dT8RhZ856oxuSsWsB51Y9TSspW5YoxwBfPNprqMe0InRdwq0S6ni1_owX1wYWHhrV_jNhritoQPx1EB43fwd9d45S1dxttM4KOIq_F5FUz0Mt0iURMhLuZtH-BPfFKVveanOk38rsa5W7JBAuVGHwXy3GYW-mzz2hn4cWit4w74BmoiyasbATved4WKjz4zMtmAaMyCe5ucMTAjkKWYyNRLXOqEbRlg-WmYLxNbBa7zodkyGjodAPns8pmysRrHcmEzVXxYnaIghQAyBMcTovNIxpMuCcGxbbohkfcuU8M5udtusgKEC3mDu25cCpL_76d-frE2f-mEGAYiDgoMKpQxEkJrLHyYcQ5-%26ch%3DAQEAEAABABTciOLZ_bs-i7fwCthgKI-QrfAyli-BBI0.%26v%3D3%26pg%3DKHYVYWMR2REIJOZSRPAA7QM5BI
+.netflix.com	TRUE	/	TRUE	1793549490	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSA5bX84HJrgvZfrfeqsAcv0PrBHqLSLYk.%26dt%3D1777997488941
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	a149d9dd-c50c-40c0-b101-10be9c459ecf
+.netflix.com	TRUE	/	FALSE	1793576288	dsca	customer
+.netflix.com	TRUE	/	FALSE	1785815381	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785815381	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

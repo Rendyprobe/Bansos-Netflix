@@ -1,0 +1,21 @@
+
+– Email: natacha.priolo@sfr.fr
+– Verified: false
+– Profile: Clem\x20🤟
+– Plan: Standard
+– Next billing: 12 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 6381) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792436813	OptanonAlertBoxClosed	2025-10-19T19:06:53.025Z
+.netflix.com	TRUE	/	FALSE	1792436807	nfvdid	BQFmAAEBECu3PbJxhn3LnV_8IkeyOuxgToXpmivzN_tIoBe7ML65PB4X4vx5H8txaYrDbGballw7LjR1RM4GU9spPYrohlp3DX3PvzlL2UGgyOYdA4fAjdzDrhtuJSByf-KxzRN-QaVXW9ryuY6jJP8Fa30ppknb
+.netflix.com	TRUE	/	TRUE	1806327767	dsca	true
+.netflix.com	TRUE	/	TRUE	1809088705	NetflixId	ct%3DBgjHlOvcAxKFBPtBzU6NmhIWBgGXXL0FWhF91IPDJs-6_f6I1ekclcQjuRMQzEOWlSHgWkOHfWW1QFNGZKDulNzREWz6oSOrBZmxIwhfLFjZAziDj3eqvgp-E_H852xRbbpPso58RC4Z-s4wFnmn-EhsLBdenJOf1cNv3MTo_kkSGrOnP700h0NfHImDLA6WXhElRW5TVhv53EAERuLChgI6XBiXVQ4m2HW3s7OgSvkLjVamkE6UsZj3onkflEWBZF6DkwrjPJ9iPKzQTuvsQbIS0GuR8qCqjl-UmBZjlNh3JBI1C-qQi6C-pmng5amZ894-qwZ5H7ZedMu8HNLwCVfYMejLpaSXgv6--UQisdfznJX4cjAZoUun8YzYJpua9IQ7GkgLafN-HHHv4fKZtO0vm-_vw_f_6g32oH4GMtmWb8HU4PD4BXBtWmdnyZ_zVEpssztbNNbMgL6uKQ1jvD5Iq1ai1fTIpwayS-YffueZdTmuc0yGJBj7V0cJXAmmwX8oSETQSY4LE9lK3zC23Ck_TEhK--uqqSW8XiZgOPLmRLtuf29Lz-j9H7rIau2RRJlhdqCP9mSoe_lZVtdHOqN9ec108Q44Op8EaadEGwFFSvtfT_6DSYmPKGMcV7Hm1Ruwr8meB5GplFOOj8gpwyrTDL3Z4FdQhMUwINSSEyO_A9-T10UCwmBwyc1LkGUYBiIOCgz1XPA-AU9x4f9Wt0A.%26ch%3DAQEAEAABABT2TGN4C60YucmTI5KRqJmSGrJvMi-MnFg.%26v%3D3%26pg%3DAH4RJXUYFJDXJP6WVGXM35BCFM
+.netflix.com	TRUE	/	TRUE	1809088705	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-fbFjJsHM_H48HXD3oeAdgkwLPKvUFMA.%26dt%3D1777552705636
+.netflix.com	TRUE	/	FALSE	1809088825	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+14%3A40%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe7e0eba-f87f-4bf2-b1d5-d68b51b1f425&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAR&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785328825	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785328825	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785328825	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

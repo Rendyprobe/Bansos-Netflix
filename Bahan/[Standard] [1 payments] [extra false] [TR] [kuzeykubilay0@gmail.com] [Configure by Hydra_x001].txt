@@ -1,0 +1,20 @@
+
+– Email: kuzeykubilay0@gmail.com
+– Verified: false
+– Profile: kuzeykubilay0
+– Plan: Standard
+– Next billing: 29 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | DCB (TURKTELEKOM 0665) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802443293	OptanonAlertBoxClosed	2026-02-12T14:41:33.375Z
+.netflix.com	TRUE	/	FALSE	1802443348	nfvdid	BQFmAAEBEHsC-1rvSGZnMscJRuLjNWBgzDb0BW_6Abgmim-1vMqmgkcwa6UK4bPgJLfNT1cIs41slu1xSHjKPOz3IuVGhJL0BLo5yaZolcghRH4faJ6SDW5DPMJwqsXUPGMu8bM4ooAhFyA-XV3QT7Eo8kwZFvrd
+.netflix.com	TRUE	/	TRUE	1807360128	NetflixId	ct%3DBgjHlOvcAxKHBNx0pcXKRcj44RsNRz7oPCpDQko2ZJEduhMCE2ZX0VSHarxhuyggsqB0oP4LrwXsHS6w1AlrURd_TTFKmAWDKzd3aLkMS1LGbr4XQRAxq5FjukPRoqadhWdDFA8VHNP3AMycyn42-9mgyCyWGkWqShGqV3AFwPfw-5e9puZUwySNBjGaYwerZy93ww4-cuXxQTxpbZxhOnvvgWs_hDv6-wZfXZy87RiAYI7w9NRIGkPic4wxo9uEysHlHmr62NZA3vY8ptjN9GoxC4xk8a2RURfAxegLATvBA9jgJhwBZv6MgaqYsftHdsQYAgads6zBoOKQUbfl0JEdvKY_533DI78-pmM9bdv6skfPQBnf-Jf-MMaiC9dytFvydAdNMye5d2aShtEp3GQFOd5r1zqw5mo6AJs5iKtIk-fctgqLVApEU8Hh2TRfsHsULf37_o43nruo3GAzQhVg6Hyn4gPqqLnWOxwPzTdld-noNEZDg4m9ugzKAMtuy8xXkPWUvfrEsSH4qHrISe3RchOr3_vZUDOAqv3slJ0oYgtBwbEKbYRZ02WVYC7hCZkVx6saot4JuCPCl9rdJUoENC5aaly3vkdGEM-HCOvXsgQiD8Q9WYdaL9Q1KHvHfX_QZvJeD8zqrJyAT92CD2ylKNe-yoWimO2aUAUWI0X6NnARC_zKsbYtx0AhAojKnBgGIg4KDFRJ4Av9NigE5Md4Ww..%26ch%3DAQEAEAABABQwoj5vtpQTFM2MjSrFetx2JaEIvqg0W9k.%26v%3D3%26pg%3DCDR5BAI74RBBZJLH2UNQAGXHDI
+.netflix.com	TRUE	/	TRUE	1779602109	gsid	77688dfe-1062-49a0-ac43-365cbff83a5c
+.netflix.com	TRUE	/	FALSE	1807384711	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+22%3A18%3A31+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28b13b7c-9330-4230-801d-1047bdd00d9d&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1770907271263&geolocation=TR%3B35&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783624710	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783624710	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1779602109	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

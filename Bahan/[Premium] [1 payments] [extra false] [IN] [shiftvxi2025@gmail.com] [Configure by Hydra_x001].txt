@@ -1,0 +1,17 @@
+
+– Email: shiftvxi2025@gmail.com
+– Verified: false
+– Profile: Manoj
+– Plan: Premium
+– Next billing: 3 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 8***@ptaxis) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807885300	nfvdid	BQFmAAEBEE9R80Yv7R0ljWoglq6QANhgQYjQRpjcvxB84BlP5_YRTjs76P0MIo9gvOE4vQNXpVi4NPLwlw_b0RCwIoVUzOHCieRsBayiYq_UMmHk7_R1uxyt5hiS8iaC7gCpyOpOhYY-GTyFeZdXC1-SlzTf-Cn5
+.netflix.com	TRUE	/	TRUE	1807885315	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA3aHHWcCvV1b_6C5_AIG0sce9IbcSQMySb33EzSOKPMV7Q6VWWxViuzXVUqz0Uy8sXdebabKBXBrQd-LW680zkB52k0jFfV3yMHUbZ__nNjDw0YSJtGGWjkcMjrpPyNfmpT8-WldmfWT90d_p3KXZb3-0qW-1aTUB4euXojBmGCBIcYlA6KNeDJRzHWQ5VYiFyTveqCX9_SkMOY3tM2kUIkYxZeIzjQuAQVNRj1ewwRodSqJ7tVxYzpDJtz0YHF_DZtcDCc4hn1ZZ6fKoElw9VtRcauoQQtCVZlK3VwaelSXP9aPMq13tCNerFt3XOszpDDOtqfsiFbmU8gYfeBSePBa3yc_qXkgr1ly7UGcbN8WtHTdyvDPwcHmICHDcfw38b3olz_fgXO1khjO5FmR2HEY4zD1Kk3LaIes2wBLaYpr79N8NQabP-fo0tNiT_mgX-waa1G0CcbQ9Segr16gkFjfxGEkGdEaVPRNzRBW0uKydZahk_eqmv38fYJLJuSxwGonNe20C1v5wKWCE0tkSMGIFqMK0IZOZkEYBiIOCgw6Zzini0oPgP2JAfY.%26pg%3DTKXNG4VT3BENZFKBJBTLOD66BE%26ch%3DAQEAEAABABREtZL8PCc7L5LAQkOgqw2NrPlcIZADmag.
+.netflix.com	TRUE	/	FALSE	1807885317	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+19%3A51%3A57+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea52e7df-a6c0-4436-ad02-6dca3f3c2718&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1784125317	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784125317	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

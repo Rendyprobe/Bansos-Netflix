@@ -1,0 +1,19 @@
+
+– Email: gustavo.moreiralopes@yahoo.com.br
+– Verified: false
+– Profile: Tavinho
+– Plan: Standard
+– Next billing: 27 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 7655) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2025-12-14T03:46:14.987Z
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEBjpGx1cIpLATkVQeBVc8Z9gP3nwCdV4iEL-_Nmj2GNHG7KWPEndk-O53ObRo8Cmg7xnQxxFZTiSgcfkEVSeiOpP7_ZQwcGdX6s-fT-ybg-U8KpZAl5oEihSJi-VqIL1eKNY1fvdhxjFlsJCHC2ObjrB
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+20%3A15%3A49+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a2e5a653-cd46-4430-b6d6-06107e6f0ee9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxK1Ay4sT8dOIIhFxRT3XwLa_bXg8PlEsIbTVLw2HJFi5Vy-S1_ctw7C2pT7MReUGAo4-I119x-S5Tn6nQusWAtBjyR7i5hcv7MSdHJhLt_pMFNXWW8dUUgVcojCkjILqOCh4S7hnz1h47iWbHROTw_8aoAqthOkXEef0ro1cChyLDzT5HfxsuZHknSVjR9nIoYbTp1A-4s0zWA_EmbXBIOdJG8_vd0PRXpetMfYjKzdV3R7BY0rXvk-wfXazYm-FAyzeZjeazYfs-HilN1zx4idveTdYDsAtKNRrc-fnkkwHrS9ZMMbyniQWaXgHoiRsgUiHJSp0ZGRmWLDPTS3LcgYxKMD2geH7CqyxoGyGtWsaGk-INNQHKGq43DdRgm_DX_jnFtIl8aJm6WCve4igvT1bgg7Ho2cZKYxdRkjNcDaru_cKZgm0miKQKf3zQLVOKvKySp7FLLvLh5NUhA7BszijpbGwBzejDmdqUFDxJ1h_ISXad19vXYaFEYsCbBYYfHyDP2AoAt8EieApEPzfTJs8sex_TtBMzzF6p8uMuQ12-UO6xHS1WzDFTtECPzN2qxSmA1NzbyZGAYiDgoMc01_99mBtx_bvlGD%26ch%3DAQEAEAABABQ1aRujVdU-ZXfU6HvTYKGTAsqVaZI4WIE.%26v%3D3%26pg%3DI63EGAJAXRBZZOEKDLTVW4ANZE
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRblu2hSrw4eIuC2L_6L1FDRdpN4UqkSBc.%26dt%3D1775518732606
+
+Follow: https://t.me/hydrax001

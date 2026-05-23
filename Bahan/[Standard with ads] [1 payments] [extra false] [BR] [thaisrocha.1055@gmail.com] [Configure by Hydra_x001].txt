@@ -1,0 +1,18 @@
+
+– Email: thaisrocha.1055@gmail.com
+– Verified: false
+– Profile: Paulapereira
+– Plan: Standard with ads
+– Next billing: 11 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8386) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798246903	nfvdid	BQFmAAEBENFmkerGMMsfQVx8dYW7Wpdg27GHDviDCj0kr3lIXVqAe0Q3d16lbr-0RsiALUGzC5NQ5IRl0Q5LsBN7LZm7fpQyt_gLrD9p9rmzGrL2rfj7fyu3r-yYFnV4XEs6K843ltcxmGPor40rE9ZaQjfjfprI
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	92fee997-8f93-46de-8cf7-bfdbc6a588de
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1798389572	NetflixId	ct%3DBgjHlOvcAxLRA30YJ4GV-MV7K9w3csNYrAHEjVYf3HIUfhaJILBxJwZX6iJsCQCFDd4E0McKq_JAo2KzZsp-D93HptNiyjIALuMLicGuzZEK3Dmib9IDWaOyGIjw8QbO7H0b8emp76waLX2klimpEVPvqzC1uM_B-W9EOpANVz0P5GbH2g7rdkuSDGbKCR8iwAHJFWNukPmHPYCnh8klZir-okoFSSrLuBv3nVAYOalJE3kJyGBw8okQtYVxMOBhJ7CBgpiqQPAS-iHZRtg8vDjirE5fzk72D6QDdnqpiybOOqYdPoGEBiLxO1GQNxDcf5wWIn6t7iR7F7XqxXBLZ0YR5Y4HtNK8BNBwnT4b6jru5tOXAPr1Z55B-So6S2ihGqwmasQBUWdqir_5stVqBus31nBrenSbzNQ26u-gyWP_9LlqHAjz29EMZhR3lD5NM83QSEl-211tcVe0GY2-lh6Wo2FwyqyP7Fydkix2xHpMJQKDJJ3v4mwJacGihavWOEa4kwbVJQv1RnRtveFliobaMQCgcTZSlz-EUovKmX0yT5095wGibJqDS0-1UA10lmj8JyLN4-T0Lv4hFEYZlMDC446_wCO1D6EATemdcZYOsZJJ57WkmqWl7hgGIg4KDFGeQ1HI4IS6Y9ZrIQ..%26ch%3DAQEAEAABABQzgvxDrAeWJObrgsZM049e4tcfI2pHQIw.%26v%3D3%26pg%3DG4HSYBKERBETVJR6UWUSNUZCOI
+.netflix.com	TRUE	/	TRUE	1798389572	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQD6zyvCwnmHvGwO4ASretL2cx3kn3wPyI.%26dt%3D1766853632430
+
+Follow: https://t.me/hydrax001

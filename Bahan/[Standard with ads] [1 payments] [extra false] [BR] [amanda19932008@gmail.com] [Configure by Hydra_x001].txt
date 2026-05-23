@@ -1,0 +1,16 @@
+
+– Email: amanda19932008@gmail.com
+– Verified: false
+– Profile: TRENT\x2037
+– Plan: Standard with ads
+– Next billing: June 14, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5412) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797903542	OptanonAlertBoxClosed	2025-12-22T01:39:02.682Z
+.netflix.com	TRUE	/	FALSE	1797903640	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+22%3A40%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34b8ac1f-79e5-4bde-863c-4d6e39ab7d58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS
+.netflix.com	TRUE	/	FALSE	1797903640	nfvdid	BQFmAAEBEMcWK274txupt9sWcgRcP-Zgw5HFuWcEWPmNqkQuixOKkIqcKoKnKy9qOhbJwFS6TEoPWy_vqek1nwySRoeufasSCiOy5UTIRL1evFWU2W3YOa1kOoZiTLsExXNHC1SqhCi3vTKWnfJ3XKw0HYb6pgUc
+.netflix.com	TRUE	/	TRUE	1797903640	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeAztP1NNF-kkvLs-5EVHkqpvOW81sk0EwR6qpTeIbGJaVK5BgqEGtYRREFxDm0nKdcG-hGK0Eu5cbPPoesw_Ql1vJUAAY7NayXeWfYS9SUlMvningHzXjrC2bRmRhQTmiziwpz-MoquGuxpH5YxscjYEhsOSi_uC7xZ7GSyK_yTQBYPY5gYdygHlaBrUD4SvxvCvb3DvsBBgzfgXdqjrNS8k_2gYs5FfGVOiIFAtkKLn5P6H1pQ37VgTDHDtr4fvJkYLEvJSbwhaKfov16o3efpUKetiEwf97TRnnDCFp2zyyMxNC6Mxgpa1ZTASlR06UnvQCWpb0d0RjsJWRK2kcMesf0eLcVAJj6ktEqM7uGle4UPI9O2nDihJ6kMdJ5VJJbqSj2xiLPs1wORTLOG7gPwsIawkBOuXKsdvUA3qDp-8lqaL-bt5nYATFwUTn6Ai8H-QZAPN2kLFc6Ufvgx8kbQallc0dInjA2qwxjESsQyPR9JEooUfs6mzj0CfPP41kAyq2coRx-a6bHrA0voOAjd5HMvEl0KZkPX514LXFZRgGIg4KDNIuIV9rmNgLZbNqgQ..%26pg%3D7VVC6VY2YFHJHDABOM6IYSCKLY%26ch%3DAQEAEAABABQx2sTc5gnwsHyKul2rN11YGA6yLXJ0Yik.
+
+Follow: https://t.me/hydrax001

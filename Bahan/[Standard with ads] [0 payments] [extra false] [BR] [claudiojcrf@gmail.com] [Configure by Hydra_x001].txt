@@ -1,0 +1,24 @@
+
+– Email: claudiojcrf@gmail.com
+– Verified: false
+– Profile: claudiojcrf
+– Plan: Standard with ads
+– Next billing: 20 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797380671	OptanonAlertBoxClosed	2025-12-16T00:24:31.522Z
+.netflix.com	TRUE	/	FALSE	1780831535	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780831535	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1797380709	nfvdid	BQFmAAEBENB7Et7lBeRUEE2lwVaRmgpga0mE_oRd3cAxJQ0p_cMxH_VxCaKjiFlTSRBE_yi1h9BP8eyTJTzNSwIU5gWeJ4nh43dIvrkGVBIrUD71sYvUKvFBzB-Hr_nXLftEdKbC8Bb6AthzKIc1tVwBnpfkK9KU
+.netflix.com	TRUE	/	FALSE	1780831535	firstLolomoAfterOnRamp	true
+.netflix.com	TRUE	/	TRUE	1797382453	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6ArhvoIhVQNyeNsjyEkazTE-aRe4naxJMH2nAiNgDkW-DkBa1U-xlYHngz2a-W11yQ3A7IVXE_WROHlno29nEoS_yI1NxMMith_wvcJMo4pJLv_QFbb3FHZ36mnco49fIekchh7xi7YvhKWYAzkhtNBj41auiLzrsUrcA62r2ycKNHo3iuN_RfaB_2fZV63TJq8Me_zKGYgUJPFMMpYgB0dAbyi4oKMDN0uI5S4ePr7RFh2zA2-XgiQ9LqUu3LtJO5AG_Vg6TUE6bNOePoDdlYNsfAYMx0WVMGnjgSMxbrHDtEmBa5xuP-vEmWhE37zAq1I_1KL4nQ4n7OXQGLDcYrAgOdC8BUbzkkq461R9TlVAiozQhWFLWwa0PiH0tVuImm3N-TXwzJxaIGYm_tsOHYLaakkOZAbXiF2vLqIyqcqahiU2z3yC88HvQ7FlEmJ96Bo2s62sCQYE5aSry-7woqjk0gb1peFSQv6Doa9XS5j1kmnEWljjypBnDjRgGIg4KDJfUHZ6hw3Xb3OxEiA..%26pg%3DDUMWT6MCIFBSJBSPCHOWO4AW4M%26ch%3DAQEAEAABABRowKAzlgOVa4MCnXdBVBE0B29y5mdHNnI.
+.netflix.com	TRUE	/	FALSE	1797382441	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+15+2025+21%3A54%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab3d21ce-6fca-44c3-b255-d340ee5019b4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797382453	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiphTWVcxog5RliOE8W5rO1ILCGZ-QmtA.%26dt%3D1765846458125
+.netflix.com	TRUE	/	TRUE	1800406441	dsca	true
+.netflix.com	TRUE	/	FALSE	1780831535	flwssn	f9032184-4907-45dc-b2da-f123d4060b20
+.netflix.com	TRUE	/	TRUE	1780831535	gsid	6598fc39-58ca-4401-b597-ddcf19921194
+.netflix.com	TRUE	/	FALSE	1780831535	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

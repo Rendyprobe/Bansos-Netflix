@@ -1,0 +1,20 @@
+
+– Email: JOANNEBARNETT006@gmail.com
+– Verified: false
+– Profile: Doodle
+– Plan: Standard
+– Next billing: May 31, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 6641) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	493fccf4-c471-4993-87b0-5c88911b260b
+.netflix.com	TRUE	/	FALSE	1809633900	nfvdid	BQFmAAEBEF2Fn6TFddhS3t6HZidVx7JgoaepZQ1qsDkE6ECu1NCSDoHxU6OeJ8Jdpb_Wh_hofKTDAFd-c0SfcudJFShGfCzVKKJGkcPXuirJff7ElqFrzjebc0DMlZT97RelH6_64zlZzfDXV4Crv0_crrC6FI4K
+.netflix.com	TRUE	/	TRUE	1781798731	netflix-mfa-nonce	BgjRuOvcAxKVAQXE6YLTKOXnfO7Xy_ElfpF40rs8hu3FsUqLzBEfLIb9qnX3E6gGPZ79mZS5mVMgRo6Q96dm5v0IYQuFtQKRJwghMY2X4lLx1VWEaIDzl5Iw8xZkbUDqGhL2rgOMc9Vkmy8I5gfzyJsJk3NveNhGb5vXKp-RWJEZgmyN34i9LdTMaC8tVrbUwzBT-p49aElf_frRr9JeGAYiDgoMG8XEh7X5J-iqC3vA
+.netflix.com	TRUE	/	TRUE	1809711392	NetflixId	ct%3DBgjHlOvcAxK0A44mIPIY5gRNalu8Be5T2KBhpfmA3riYH-ApFjWGXVvIHIERhga77dp8Io6XhiWFqUwQrp7d9TF2l__XsRJwdYPdbcC50vRcW4C8S0LOA4B_GE_vmYtvNpGYupvy8eZbZvkANSRq8pGeEm_Wi2N8XWnrmvuRjLPw7FI0EUpyRF3gN6VvNPfwi_H51nZp9l_c6fIJWD-GL0TiECKXXRsR2GX0WerYsC9LjWTeE2BoBAuTB9LwI8jPNDqX931IIV0FqU3czI16pizipp7nMXIT0aIQr1yx9NrPLasdedOSvmc2P1TvExHdPcgkVSU75B5KSpW0D9GnGbevf7_qIuE9Ik5RkGuIWGnL--Y_cmMz_L-lqPacHkidMkAytrEEtt0LnyJQaEAuO-6LpwFZzOOGsuN1VcwZNgDeuo-rk5xsY3W7pCDyjOFoyZHiKZL2VoK6bIq62M5HcCB32amtJ14YmDuDS1Y_YFzgaTmWgQeqYtbHoH6N0SOIuBYNHSkCIYYFt4i4o1PIgQ11XKjWXXpW4xrBtTC90n8FOkqr32YXrG0S7wjc68I2nYIGXLvC3oXFJ3DefWoYBiIOCgym3Pag-682vnniNfY.%26ch%3DAQEAEAABABRz4HSDzOqxMATPZTlIdwNKCUThSGDEHTU.%26v%3D3%26pg%3DY6UFD3WLYNFLNOEYLGSVCFT7FE
+.netflix.com	TRUE	/	TRUE	1809711392	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJwKiXe52kZdPX_0RWJgrCRIDWZmrc9oU.%26dt%3D1778175434852
+.netflix.com	TRUE	/	FALSE	1809719207	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+15%3A46%3A47+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=aab0ff52-bd4f-4eff-9623-c857d8c9e0d3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785959208	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785959208	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

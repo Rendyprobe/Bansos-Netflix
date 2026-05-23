@@ -1,0 +1,19 @@
+
+– Email: 4mprintings@gmail.com
+– Verified: false
+– Profile: 4mprintings
+– Plan: Premium
+– Next billing: June 15, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****61708) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	39f980ea-cab1-4612-a915-495aa66bc685
+.netflix.com	TRUE	/	TRUE	1806548217	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA7ikWPDi0cDr0E-aYFGPpH4SxFKkXfXIT59xoNs08gpCsa57KXkhlIgWP0gtmiXuK0vigFPZKKMnT66deNu6OrK-IiXG9TdtlfwwkbRbLOMmYAHJ7_M5sldXqH7V3zgJKmANy9ocSfvLieFAia9p1MUZiiixIr5dCaiA5iP-YYPFOE_i356HiQmHnk0rtCD4l9kBywFET_5YABsLS5e_xcPVDuAtrwNOpfS4A-X75o4dxZ81NkVxOq30zqKLpRsva-BzbR74gGvk-L8OU8GEAe9qdoRFlzrjKSAr1TaKUqK2ziXFrDDt_TZJORjuPcw4XA5J8RBFWAz6MPOeh6q41Of4lXwowgcKfoUocgViN7srKJpbDduhQIHykqVMOXk6qDlPBxwXNtEntOj7CigiGIxemAh2cs4iXI_X7akojv_vxsyxiPd0W0JXbQ51XgWMIhW2zuKs72S6GY6_BcE5VGvanpBF9IuDRq5WfQg4qM4Paxl9nA3eYVfpWgps2KFgRygLYvYXYkGjdvg1neHRhcaQ9398G0HXRDycYvBbAusYBiIOCgwDI4OnuBO_EhR3pjo.%26pg%3DBN7REHUVNNH5NOFYVDZP7XSP7I%26ch%3DAQEAEAABABRGZkxYphsKU81pCckwEKc_MRD1fCWpaEI.
+.netflix.com	TRUE	/	FALSE	1782788219	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806548220	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+10%3A57%3A00+GMT%2B0800+(China+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39ff4aa5-53cc-4a3c-9790-77a189f138a4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775012213636&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782788219	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806548213	nfvdid	BQFmAAEBEIGJN4L1L9IBKLJnoe4XNQNgr6QeR-QsVXq5u-QbOqlu9OjkusZc73-0KKbgBnj4KBaireRKPzcIjYBJRadGWvxZ70LG3l0EPPvn6tuimkpRvVBvGRm5C3y60WB19tqORPJOHXnrHtH4NhtemxvcClWl
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

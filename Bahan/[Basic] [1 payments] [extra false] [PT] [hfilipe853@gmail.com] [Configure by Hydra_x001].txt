@@ -1,0 +1,19 @@
+
+– Email: hfilipe853@gmail.com
+– Verified: false
+– Profile: Helder\x20Pinto
+– Plan: Basic
+– Next billing: 16 de junho de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 9414) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807368952	OptanonAlertBoxClosed	2026-04-10T14:55:52.455Z
+.netflix.com	TRUE	/	FALSE	1807374379	nfvdid	BQFmAAEBEJsJk0CSinUrns496xbtLn1gb0gUIEcXZwtZgmiMxB8BVELE8ie1paFMA09MKwzQshReqLybJafXSQnMc2-dolyFEuL6c_txAQR2E6mVg6Kl9H7XhuSsfVqK3C5TnoKKXGY89n27m12bbSHQLgDQmUV2
+.netflix.com	TRUE	/	FALSE	1786096202	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786096202	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1809856202	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTT-queRdAGO8ouN1g3METmbQ7jk6ceqII.%26dt%3D1778320322468
+.netflix.com	TRUE	/	TRUE	1809856202	NetflixId	ct%3DBgjHlOvcAxK8A2-hbLXsC9a4RD-qFoB20OcI-cBRge7l05lmkQHi33brC99DR11iUIXK5GkJT0RzJb2H1AlZE5v3D1AlOBcja5fjLU5MClfa_FTK8CSwEZSqCRj9y_6zRubH_mEeUkJeqlS3d3uT1jucHqE8h10OfHOv80Ce8E-StcLKi91aQSzH-HKRHBZ7V00ZzQdVcyuQdo4GOJ0hzZDEF3T9zFdd8LvVONqaZdoTELUgAil_hHiAYglKN4MCh5simwXeGC0yLTSuDEAQxQQt8kjtki-kovC9kZWRWD9sNjaQp1NdnH2IJiGwXfjgG7qSOUYfW9rX2ATwMIBp2D8xuc9Y8j1sm5er_bt1JrLnZE0L768uKg9kzR_feJd9Kn5zb_9UAgb-1Fg7m9O9B4HmdqaPClwWYn3_fWen3qs66JCuuEmute-p5vE9_xMuRat4dy25_sv5CWG0Ew5nK2KStGzq3txFlIYAVRuFt-6CSx32qwg-4KfwldonfEgepDvMiAqfIPsu8esL1tjftg2JftMa4LhrEzwex2b_fjd2V4MF9TBuS88tNhx0F_CUNCDvEHdBHNV9J_80eGII4A07D6DWwhgGIg4KDJ5OBo_9Ybhm9EG5dg..%26ch%3DAQEAEAABABSp6l5ewgwFaC3u9hNinYopEj9A48uKtvg.%26v%3D3%26pg%3DFVCMQ5SMXNFXTKO3367BRUQRQ4
+.netflix.com	TRUE	/	FALSE	1809856203	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+10%3A50%3A03+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2c602697-ef2d-4d62-9f67-5c1abf6ca95d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1775832952921&geolocation=PT%3B13&AwaitingReconsent=false&isDntEnabled=0
+
+Follow: https://t.me/hydrax001

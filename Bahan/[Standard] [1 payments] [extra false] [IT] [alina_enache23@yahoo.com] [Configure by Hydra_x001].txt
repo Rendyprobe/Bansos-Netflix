@@ -1,0 +1,17 @@
+
+– Email: alina_enache23@yahoo.com
+– Verified: false
+– Profile: Stephano\x20Paraschiv
+– Plan: Standard
+– Next billing: June 12, 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 2316) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1783103483	NetflixId	ct%3DBgjHlOvcAxL1AxFSc9aebksau8l9j58sjMig0g0huHIOH-6I-YOs2p9uLlumNIXXF1Bh0LpB2CRxiWro7a02MN7GlBt691oJmikDg8NNkVVREAQ4IPQNC62LtitPPB0sjHlwBiKm0TYW0MAF8E_j3thFDJ6PAK_9l3Ku2odvj4NCSxQFuB6hVZQsk9uQiEesW2fg8DOYr4_4OlccYhC_XOK479tknggyF7yZ_YRkAeazug81rhIXEuLH1Z-RI-RWOwnDP0d4fCH8yERQuIi1szGRfg6nclsJ9iHRb1VEf6s_CXfaBOrAh0AWEwfsflqv6OQLBJ03wQEhq7LV7zgOo-fuNl8ppHE9qfdGsLHddXwPM1B24ayCPD3uG0SovS-RvcdyfIo1gCrkTAJEqoy4VoXHQhEgB-feQMsWz8VU5YZA6L_sz8BKN_3Hd-yRkmHHZXvxOZHa9xx9t8vgyvF3Sgb8-LRq5oiXJvj5A4zm18hCT89USmyyT-XwmU1TdJ6ScMJ4WXBhlA6l4m94W00D_rt6_fRVlFeYNwQwfFpkjX2uP9_095unYirVS-pRvybNdeEFsuUPs5VIkKJ51Volkq3-kuUKxTDBQakHnIIpa292bB6pWr5YIDbxYbr0Ncw9c0iwofxkGZhQW8mDKkyxe83GRTkkTOIkUWsXgNb-cRgGIg4KDNI3o97i5dHMWtY4ag..%26ch%3DAQEAEAABABRdbzLU8M6bZdgz8KujIzigWmkHaP1flho.%26v%3D3%26pg%3DS3XWSS2XE5B37GNJPH76KMMXMM
+.netflix.com	TRUE	/	TRUE	1783103483	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6CNzIaxqJwM1oAyM2vx7CsJNIlGpnvro.%26dt%3D1767551481592
+
+Follow: https://t.me/hydrax001

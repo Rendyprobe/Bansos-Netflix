@@ -1,0 +1,20 @@
+
+– Email: ptitemag24@hotmail.fr
+– Verified: false
+– Profile: tom
+– Plan: Premium
+– Next billing: 4 tháng 6, 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 9356) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	dsca	customer
+.netflix.com	TRUE	/	FALSE	1786095880	nfvdid	BQFmAAEBEA2NbpuL3pXPmFUZNKxCScpgBGji36uvsPke_Gvo2H97Gb9J77b52pq0avTmlfw_1sqSkyf8y-KGCXKZ7yc9i-l0mihO-siUnscdepWTI7OBgJkPVY47daZs28QYA_GUYzu_PKYe34tAy3kVkN1Bx1Ds
+.netflix.com	TRUE	/	FALSE	1796734337	OptanonAlertBoxClosed	2025-12-08T12:52:17.999Z
+.netflix.com	TRUE	/	FALSE	1805749944	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+22%3A12%3A24+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=caa65a2b-40c0-4194-a132-a28cef855012&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BNAQ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805749946	NetflixId	ct%3DBgjHlOvcAxL4AxpyR-Wi96Kg253W-Ua9RTqQrmwCBHHHaalV52wTS5y5Jjektusoe8odv5-VJOrIxxDoaOK-SHDUQMY8QOXW-kbSoILjiL6Vho7r9rM2Ere7YTNoFcyqG0KhZ9GlB2Y5DqxDGAeo_5k_FprUvpXiV10XHT6IELruUbo751ee-xWf40ecW7b5yUh-nUM7wDZ5nHEXEj3jwvPX2oP1biic6_nnqT-9puLbZK_aRmdQHdEf-lSUUVVoTwxvmuymPT4mSdMGOHC5RHukKyNBuYkifBEdEmQXwfCEtUMJS21XrKuaaJVAjDZF7zEEQTNKaqolzlicd80Sb0D4jFR1TlGD-S5vL1Xl2tVnhYXcMmcQxNw7U191wXV032CI9rkXFr4gHoisPZ2rde4DkK6OTX2Gp1Rd9Zbdf6xJJ0FMxGEnWSMiYKJdvu9beA12gLjqr2AUDMNGiehvtPu4iNcwwC0EIrxG0RdCNGzLt-8ZROzSpcuDVjTTZOgY0R2oJcPKmc_r4wrU2HJF7VzrEaGCcnRA_6iwGF0qJ_vcih1t-2rr0TK_tEuicRBWJasBHoYegAWsYwVBOUgtgJ9_AXtKtKa4n_8ZF43fJH5lfa6kspMKQiHe6uQFNJdyIt5gq4jR7wveQ8G7v_tCgdYuLRE8XQMi1ZvOCkfL6FXL-BgGIg4KDDEPt6fPR3GtFiafTQ..%26ch%3DAQEAEAABABSa-nQOJxVcSMYI6_XshNBdNvEaaGlNg0g.%26v%3D3%26pg%3DTMZ4LI52ZRARFIGFQEPHB7YXGA
+.netflix.com	TRUE	/	FALSE	1781989943	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781989943	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781989943	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

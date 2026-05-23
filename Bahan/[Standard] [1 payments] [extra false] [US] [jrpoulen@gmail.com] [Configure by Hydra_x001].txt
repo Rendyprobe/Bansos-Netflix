@@ -1,0 +1,19 @@
+
+– Email: jrpoulen@gmail.com
+– Verified: false
+– Profile: Jrpoulen
+– Plan: Standard
+– Next billing: June 14, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 6183) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796618863	OptanonAlertBoxClosed	2025-12-07T04:47:43.991Z
+.netflix.com	TRUE	/	FALSE	1796618873	nfvdid	BQFmAAEBEMnsY9Mv0oe0VLxmRf_QiDJgvn4T1ZXfJA6ersowje-30f5PVqzQTKt0dMQ-GCCnFtTwWs_w5WMEWKAtC0DfUt4b6kUk_rf3j-fvCvAa2uBDwnJGhE-Njf5mVrJcLJW7ZANyFfeJkk6rZ4Ggtj62Fg7h
+.netflix.com	TRUE	/	TRUE	1805086263	NetflixId	ct%3DBgjHlOvcAxL1A571ga2y5U7NXHkVcIE1S77ZKOwo0S3DLnChe3Z7kUW5rGLY1xdJJ5osC1e1Mp7kK-rZcTxUtt_C-xGLl2PjslE3aN9pi5qje8nAbForXx2JCvQNTe-62r4D4uKUQVcbAERhYkDKLGBw3dNgopYZ6p7tsvwUYwhfexo_LPOe0vBjZJZa7uqI_3N2Gntf1uKpUWKYXgTsQY47KSDTNvmqPhJV5nPKQKVw70fAjvvoNrFgHCMEreUwM7CxGgwy_xlzro5bxOsbJIvsPQZp-46pk3HmdAdOHece1RA5gMgE9_ar3kGYUfX8Dbxm0B4jhwFxKcyxl_2VM8JqPsBzSK4l-37aHZ6xu3u4LNREAsl0Y_3uHGTcXFNHf4XSn-j_WICxVCR1jnIhM6UWHlZqs5_5MhcID1fXOjpPvPZwCQE5lHWJpjl5scXieJ94svhKGvrE7tTBhNa-T9ROb0-ohgjMUPGP972DJ99KZYHF1tV56_rDjH7d6LrDzBnWN4yeSHhMMHeG-agZY6elSw_zCDPx6bKlD4J1WCqXnb3oL2WEjV9uhVVWq6ImEUm7bUCx7J8qGz8Pw8Mc-3CNiZ40CmjQP0Uyct5dmuZpFbdyVTAJKMKuRWOWhBN6jkPNB_ymcSEFthSsScHmLmKs_ZwQYTfh5Q5uYZCw2hgGIg4KDN3Cs9XlPeSPnd5uzQ..%26ch%3DAQEAEAABABSH3X9Ahk2iv1lmhJxX8LSREBkFLK24ADE.%26v%3D3%26pg%3DPGLSG2QPK5HYVDTMHZ6D452OUQ
+.netflix.com	TRUE	/	TRUE	1805086263	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwkQS9vVPMfCISM4zFJMypkiMFwxhyUVo.%26dt%3D1773550255693
+.netflix.com	TRUE	/	FALSE	1805086284	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+00%3A51%3A24+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92c52ce6-a5a6-48b9-8ec6-7597182bff73&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=6&geolocation=MX%3BCMX
+.netflix.com	TRUE	/	FALSE	1781326284	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781326284	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

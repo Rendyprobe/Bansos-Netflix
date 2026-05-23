@@ -1,0 +1,19 @@
+
+– Email: santiagopietriniu@gmail.com
+– Verified: false
+– Profile: santiagopietriniu
+– Plan: Basic
+– Next billing: 20 de junio de 2026
+– Extra members: false
+– Country: VE
+– Payments: 1 | CC (MASTERCARD 8717) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804879138	nfvdid	BQFmAAEBEDwhNQwaUX0Nte0140VtSoRggb8tfMiwEjy3dIrfED79d8y4og6_I3VLyBCsHF2hsuWv_hJIsd9qOdL0vOgJ3J71aZBTcqnC84BMhddFC6DUJjZrNi6aSdTEILFpONzzi_JSRdXOQDw7MS0BTmD_v186
+.netflix.com	TRUE	/	TRUE	1809793248	NetflixId	ct%3DBgjHlOvcAxKLBEisoX71-W0pww7hjS3bLhDenRM62nq_cPoF3CxUmdD1DoINVZAi3l7Y4QOm7FZ0kjdVLfKBlTMnbzg6xGKb_W4Bo1Uzjmn6ynXwjj6c2fqCWHL__31kJLso9GdDCFT8h7lU-Out_hK-Ffy8KYpkDHubIJzHQaceyYqJNtlo6lVSyg6NzNFiwPVfPoMhujBTXljA6vdYZuL_ZjMVhRsr2FWvvRsHCgMyaTPhlubAir-B7H80N1BphXx59oWOeVqQhXEoLirO36xz7-uLWhx2Rd-uWI4_Sw4Gwx5crQZfIiOyOJ5sOc8WZIGmsEjcYq0IHndot57tJ-kRkjGId-5vsbFlluvOStUvY2mDYa4wRyf9r286KsPEyLhoUYJtCeEmTk_7Y6O51iPH-Ebi59LkzaU-i8rXNcVHPaqvKP2slqZwTck5NsVNujOTD2upoDdF3ex2BCquTKg3IYckTh2Fr9gqaeRbQq80lACCAIWJ-6I5GDcnzsSMoA3ClZEApqDQqy-kAno1MU8m9kItg1hOTDri2vV-r4mR_ElT1VAQ0s3fY9HISexxOBY8Bk-uxGQ_thcU-YsCEgodo21sUePSthas8XbGkhqLpyuxj8y55dWnDRqFCAd_u9Xo5qh1tF0oPAIUebu1aVYd91O0EX9A31CgsxsOHESWzD1jOJDslMa1wf-AIAW4b2Or76kYBiIOCgwXUFL3FqYDMrvnnzw.%26ch%3DAQEAEAABABQFdJe8u5PNQsnKW4jpU-T7XKCeqZ_T4Fg.%26v%3D3%26pg%3DJ7LLAL5IKBFLJELNVK3W67DUAA
+.netflix.com	TRUE	/	FALSE	1809793250	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+12%3A20%3A50+GMT-0400+(hora+de+Venezuela)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9dbdc294-8ecf-4ebb-b2a2-0e686c5852d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773343107831&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809793248	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3QFs5eUDNCT1RXDycMOyyKPotVmtPeAY.%26dt%3D1778257078135
+.netflix.com	TRUE	/	FALSE	1786033248	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786033248	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786033248	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

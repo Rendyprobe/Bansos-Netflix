@@ -1,0 +1,19 @@
+
+– Email: xixixlxl@naver.com
+– Verified: false
+– Profile: 김미영
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: KR
+– Payments: 2 | LG_UPLUS_BILLED ( ) | GIFT ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1784520904	nfvdid	BQFmAAEBEOjvSv5Kw7ifCg3QYM6TghRg7h06vZcQfjzh8gzIJ0qMtoN9yen-aQrtGBLENMOo58uxyxUL6PXFelk2e61NXwYJkKtaPq4_8Gqkr5UtYAGwmmfiE856m_D9Ml6r1yLb1lchj8uyVzud7_6ACU_ewWTL
+.netflix.com	TRUE	/	TRUE	1809835223	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA9Rt25fs95C_qJkz6tUT3xKN4PXFcC7DYm7fJmBnXKTNJ2dYJhaV519u7HvgQHdKW_IacPIGmoxwg78xabLDpqqsZ_HexbEBHayORaDlUkRnJT5AfhaPo0B00ju5f7b7ZNmY7IauIwqakTztD1zyAdGiLGd2_0FRqSF9t5-7CppKl1RNFbLeWGtRu_sZ8nM498d_K2SbOIY_O3uxtZKvecXHHm4FeP2MO1OAbWsVTT0KmxQEG0F4n_M-B0zDqOFJvkmF6VEOW32NtGLk29HZKuRw7CLdIUnT598ctK0m_tv16gNwEXKu98BUQ98MceMow37hhsRL3LUbRW6ylGwHYG5kkUXI5iVCPRTr1PGpTgiEkVFn5NrbMCqM3UICGNX6ArQNb_YcfQE3gV9gxeiJJt7kbRPMlJNLPZ3Sj6RfiNH7oQx5zJLN_osM1SKALbJPCgiJ8hOzAvNWGVFkRS-YM7bNX1YfNwnhoDkfb2ef2H1Q2B4-YKNGGMjL60415QrEwdcN9y2dCcTh8MXfV7cq5sLp58ybpHIwjOBsev8GGAYiDgoMwARZ_8hBWBSGF8zC%26pg%3D2GTBUHCD3REBFBHWVIGLI7FZRU%26ch%3DAQEAEAABABRT1_-uIm-UjP8_d_kQ4vYTUcF2E2HgsWY.
+.netflix.com	TRUE	/	TRUE	1809835223	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQboDEEf7idy7EX644kDFBjF96_qAQjaP8.%26dt%3D1778299222087
+.netflix.com	TRUE	/	FALSE	1809877017	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+00%3A36%3A57+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=677554bd-4be6-421c-8fb5-b7cfc829d758&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786117017	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786117017	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786117017	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

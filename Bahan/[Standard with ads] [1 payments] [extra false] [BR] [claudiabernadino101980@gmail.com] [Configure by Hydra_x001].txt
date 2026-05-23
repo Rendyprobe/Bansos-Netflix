@@ -1,0 +1,21 @@
+
+– Email: claudiabernadino101980@gmail.com
+– Verified: false
+– Profile: Yan\x20Lucas
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1780957696	OptanonAlertBoxClosed	2025-06-08T22:28:16.454Z
+.netflix.com	TRUE	/	FALSE	1780957826	nfvdid	BQFmAAEBEBGUCCr_0YK-7J8pzIEb_1Rg1hDHuQ9lwHlbzJFlByhehpxqSiXzsqsoqCh4br-nI-yg4n2eaTDV_msU7AJ0riGOwgxJh3lI-GKkWPiLtlzf4nX6YVVwRq2kIfb6dvesizgn26Yi2XLzB616e0vWwN2R
+.netflix.com	TRUE	/	TRUE	1810142188	NetflixId	ct%3DBgjHlOvcAxKHBEvRbj6URtNETFs0PqnFIJgIG3ZW5GlYphuFCUKevzCwm-VsWajQnMlp01jk3dXBXP60-6jbLHKJ2Q0w6IBvapHofvuD4Aon0JG5NiBoQhR7JppzfDYTFqZ6qn_bvwH25wwi9QWLa4I-3ocdO022et49f00DttxbB6Ac2WJTFkI566JN6LQ9cUbr2cwxbwHsbjcuIHQyO9NVJV2vv-ADea-ov0wibO1L1tB1GjQ8ZVqPi5xiRs-eUZ0RgjbEDhzqa9zDNIKPg-wFNm4EpYyTJaL1mk8A8ZESvnXqAssGPwTLstYiGejhpv2pXA0NFXnSy1tnbq7y6enjXKBcvGLnXxXo4ZuXqGNw87X6XMTW_5xdqlBbHrHGfi08XWez47OiGHPGDwct6G6pIqvxaLtd-B4Lphmvk4p3w2Pb2jBNi5cxwk-ucb2nLL-rA6kc50U0zIPkTEgBXaiqT5WaHTU_cRrhETlpRvRQituYzhGLennKlWCiF5x6JE2Rs3HBigUlP3Rhx4ZfOb5El1Ymarmdvo-vRtyWGvTRVU0v2bezU4KnP63HjFIKjEQTxNo7QfyWP8AafSq3Mi9dMs4tNG4c-5okicbSNbScvwEOcZYWF2bc9aoukZjb8YloKlEJa8_NSCS6TaqVEHAElMA8KNoRe-t9kVXVuba3z5ori42pLgaIqFpgNJygHxgGIg4KDBCHkm84h_W29sHYrw..%26ch%3DAQEAEAABABTuRufR7QNBDj3B_Nv52IvX1mv0cXhFQOk.%26v%3D3%26pg%3DLCSEDLCP6BA6HOGZDEITMQZEKY
+.netflix.com	TRUE	/	FALSE	1810142191	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+14%3A16%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5790cb42-97c1-41eb-ac74-a7dca0ed55bd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMT&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810142188	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4iDu4YJCQjUbxniLfgvZV9G22o0f5vcE.%26dt%3D1778609954344
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	d0581c3e-a7af-4ac2-a525-737f0fe565e8
+.netflix.com	TRUE	/	FALSE	1786382192	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786382192	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

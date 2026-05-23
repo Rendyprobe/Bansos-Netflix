@@ -1,0 +1,21 @@
+
+– Email: paulalovato1982@hotmail.com
+– Verified: false
+– Profile: Mom
+– Plan: Standard
+– Next billing: June 6, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 2406) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802227473	_ga	GA1.1.1122106041.1767667474
+.netflix.com	TRUE	/	FALSE	1802227520	_ga_4Y3WKF2MY1	GS2.1.s1767667473$o1$g0$t1767667520$j13$l0$h0
+.netflix.com	TRUE	/	FALSE	1800305600	nfvdid	BQFmAAEBEAild1UabBxKycW7dn2nsRVgr2aM0R7IbdCz17DOwAMbWM8SBHjHtLggNOc-0IsA3mBN8sTvnYSLkucFq_HWIAIEIN_YctEABCAr0AJRYyvNKcCwFOsdDnB6lLPEMTxACXMc5e4Wi04oe8wlMBftWiF5
+.netflix.com	TRUE	/	TRUE	1807059196	NetflixId	ct%3DBgjHlOvcAxL-A8fhc3nSuzQur_TfzPxHXzV-mCJtqm9Mi2VfUFZVJcwbsmP7FPv9Foz5UkRMMjEYjzem1F3mIv2XkrV15bGThWkHv8EQZN33SppslvnRqQuNaM1wEhSRLB0RcYZ52aldmtXNuvAbwPyNWaHvFMDDCI6PwPSNZN-estx3QkRZHMujptX3K5mysn2q3B_31DIDvjYSXnQv9B3Aoq2_yoESaL0c9_CiwyVlM6Dr9PxStthNzP7Tc1EQDQGYe_M2CpCBwH95pBs1oBTTAK35_PcoCi1W_9dpGtodaaKDdp-3Z1i0LKZRZeeIJ-decIZvV-5lvU4KlW4HWMzmD8T27TzlGpmtAGVHwQssH61VEmIax_9Sd9qUCB79P7dOKdmdxfsHHzBk9l9xMYgpHRfJpxBGPGA9Xnp5JIA717cxO5_0lXYdf2XGBTzMbAB-kFFq3NY0fpvtdFtHpm2A7cW7GnFyuFq5GQIqGaDjwOq-iEThh7CWrGBSmfSWWJJ6Cpr64bQ9G4Atk1Rc4q6p5Uzrv5GK1oxI5tQg6flBvjfvoGpbBqVUwOBKWIAhRK3It93RF27dpU_-nfwhR7IBdB0Y9fGQw48zzficSXRHDX-nh0fOPNWd4WlpDG7kww9tCpwlH41r3MFpOMpr6wggnmVbKya3ZRYAkZ8K8_LYA_HWa36QIBgGIg4KDHRfzbxVbW8DTQDzdA..%26ch%3DAQEAEAABABSW1Q2p3ZXOedZ8BPIW5jip7xIMIhJ6KEE.%26v%3D3%26pg%3DQET3C4QYD5EHRBSVYBPETVMXFE
+.netflix.com	TRUE	/	TRUE	1807059196	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5aIUjQ1Ra95yp6YN67dQoLfGKzLc9hco.%26dt%3D1775523196045
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0de14b5c-66fa-42ff-a814-88bec3826b8a
+.netflix.com	TRUE	/	FALSE	1807074413	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+23%3A06%3A53+GMT-0600+(Mountain+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=131d66ff-010d-4d5e-a0a8-ef71643963bd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769490358780&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783314412	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783314412	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

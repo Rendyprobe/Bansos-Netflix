@@ -1,0 +1,16 @@
+
+– Email: lucaspipero033@gmail.com
+– Verified: false
+– Profile: Israel
+– Plan: Premium
+– Next billing: 5 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 1853) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794074075	OptanonAlertBoxClosed	2025-11-07T17:54:35.629Z
+.netflix.com	TRUE	/	FALSE	1794314757	nfvdid	BQFmAAEBEKqR9cCF2ZPfJuj6uF9kEc1gBc33iyN3R00BKffrUFTtH6fKJHmFKXLDEJu96ayMmGXMjJ44SlkTKT-kUWdMc0aeUDzLf-Fu0ExCAaiHNPB9Ex4LA0zh-rbRh-XZ2EVPvtk55MuVFlAzk7dZs7siWBG_
+.netflix.com	TRUE	/	TRUE	1796841097	NetflixId	ct%3DBgjHlOvcAxLSA_zx7j7C6pW2WPjSb2VqetvJIkrz1B-TME076edAdcuVKX_z-CwRyFVmheE8Ul7_0kmM7rHjzEOTf-qIB_brqImqreYwT2gUoLHQOJO_yv-oV8kivZFD7w9NrGR7nB0mPGRyJhEKDPqoITjn-apKoUGq9-A5MKzLBOwQ3rZGPWdV0QhtI1bY26JwAjg89jzGch6eQpK80eToc6YHmGqDk8BzflHSAcy2XZHstmw_qBqrZxmJF0vTOabF17Me319Z0CIxfORnYKLTXb3A0JwZGNTt15omHs9yzJsyDNcIvWv54G8sLCGOMgf8cBlaE86y6sl4IAe6rsp1xJIj8jvWCr4pVtXdSrCceORU7MqXGc9PN2Hek3YJ_4Okcf1GBHeAZErMHJ0dIAJanbsgL3MGTdE-DOkwU0DbM6U3TCToCHM0s1iz1uys7kMu-FBoRUME1SgnfFgYojDUZp9SIv5b4wSb-txbYDMBpR9U1z8TKyPSoXsdi2dzlBRrq2rhqib_AJsVssCQP3u0hC3tZWCcSkaM8h-XI3FThh2Mhrq7inBsIVaKWeSBpyuRIVG23Dd6JZ0cKUc0FHtLNcL2WIgPE318v8LyM-84-Bkk-8LcYTZGu4UYBiIOCgysuWK8oEnb_BaZU5o.%26ch%3DAQEAEAABABSrxzmjPIYFWgUMZhp77R0Z7VRKA9Xs-is.%26v%3D3%26pg%3DTEFPPOXVMJGEFANSO2SOZDJARI
+.netflix.com	TRUE	/	FALSE	1796841107	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+09+2025+15%3A31%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa3c918c-2eee-4f5c-a80b-7366f9fff11e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BAM
+
+Follow: https://t.me/hydrax001

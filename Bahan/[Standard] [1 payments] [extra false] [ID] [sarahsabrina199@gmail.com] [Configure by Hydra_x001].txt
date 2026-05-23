@@ -1,0 +1,18 @@
+
+– Email: sarahsabrina199@gmail.com
+– Verified: false
+– Profile: Sabrin
+– Plan: Standard
+– Next billing: May 26, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY ********4977) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805644729	nfvdid	BQFmAAEBEGkdVXmg2f9hdqpD1JD27upgKQksDITU6iqstE7CqhqigiTe2ivabGQF3Ltcf6I6uyz6mpMZ-c2NDP8Kaqt5TA3ICPRnOg0DlMNjup6idxQNu74LeyXg88bqYskaSvxDZ4E75IbTUQlr8uyHyrFp-k8q
+.netflix.com	TRUE	/	TRUE	1805784368	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA1T-gW4UCPUv5F0SOk_tDzWlS4vgJ216s6zg1-nLbi0nIMXfbmTK7KnaVyJnM6HYCIOGSghJHf05QPADEGpsaDYbbqlFvJ3ALXTiQ66698vXq_ixOT7SulwHoukH1OScKMxRwHaNBrZIXFwOnddNRP1MV6lyQhQSYRh6WR8BKvSI79HSo-tVPsbic-012zWdE0U0PNjqRu4IsWbe7JFlq9rVXoNXk8qe8RupZ8IjnpL-9DBAaJk97JNOo2b6qeXVp6EKalr8QCasb4jzFfoRWZX5qO2CRhyorbea-qQw6j9mz41vABGp9iZh7DJIVlMngeDb7Iw6BJQmqYk9qQAG4D2TBzeBNzv2kYHcwbq9whANXe9Y6XFYlUSDW43QajdBcl3HG1ipHAjNP3uioWlJgkQQo5Mfy6glSCYtFfzXnOEM-ToZs-NvdRXq_mRx30ioLO8GMHsHsYXGcbSQXV6b1nJDqOuA8gheb-69Ujw9MC6kacz6t5HF9i0n6ezQqPWXpPTgYnqme_gkX-R_0C-EHM4NvUrtrRgGIg4KDCtzPB3i5xY58te4cg..%26pg%3DMKSNZGA46RDVJFPNA3T5V2S7FQ%26ch%3DAQEAEAABABRCglg-lk90kd2CX04NYfeaMadOI0mBgDo.
+.netflix.com	TRUE	/	TRUE	1805784368	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIoau2W2MKHCxESTxVt0Pg_ZPZ_2BkBIs.%26dt%3D1774248363605
+.netflix.com	TRUE	/	FALSE	1782024369	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782024369	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805784369	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+13%3A46%3A09+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d4938f05-a841-469e-8d5a-667a3135c913&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774108728544&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

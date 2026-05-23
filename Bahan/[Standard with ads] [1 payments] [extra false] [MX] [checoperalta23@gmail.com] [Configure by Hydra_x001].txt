@@ -1,0 +1,17 @@
+
+– Email: checoperalta23@gmail.com
+– Verified: false
+– Profile: Ari
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800938417	OptanonAlertBoxClosed	2026-01-26T04:40:17.700Z
+.netflix.com	TRUE	/	TRUE	1803962439	dsca	true
+.netflix.com	TRUE	/	FALSE	1800938438	nfvdid	BQFmAAEBECfkuzFeQXe21v2DXGaGXWRg_p4VE8VNUIaHoqZUOBAtOYwTDKEgUwikGZ6elNL_fipOsvRueQEu1TJnZwp9h6mueuEJitbkrzT5Ny_I5lBMXVJpFqbLyBOijFTh7kIbi8n-HKdH0NXfeQa8OeO4u43b
+.netflix.com	TRUE	/	FALSE	1800938450	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+22%3A40%3A50+GMT-0600+(hora+est%C3%A1ndar+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa68f46e-9fe9-4ce7-b931-2f4a2e21e063&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769402417944&geolocation=MX%3BMEX
+.netflix.com	TRUE	/	TRUE	1801191137	NetflixId	ct%3DBgjHlOvcAxKSA5ZbM9iam2y_5SbJ8yleO4O7Ti9vBNgVainQG-iwxUDxQF8MLkAjSez_CVBdId1dllT4gqOvYc-wgMMUFkgwJe89z62C4JOZmamT04Z5KWzGLuzxqSUUAngQLz9mK4Eivx0VMHf-ovHurW1bZ8LN6ZIDna3iu5S5FHhC5ZsIJw1q2dHqa8VfeK2jUzvvAuomZxXbWwoKrhPMjfyPQnWSvVw1q7iADbwoEtUfMvFTG-rt2SklsBrkBzM9cQ1zOk_jFy-kpNnnt1qXkIpNNPPRUt3btq9j-cmfEgIlCZci4F3IClhZFBC3hgroAzLzWbGZEaaQm6WGXNzogalzst8xUVZM6W6K2nrdvSaIQK2qZx47Mrl0CwGfopayN20H4iuOn9r1hFiH5GpRyhg753QA8V6RrVik3wqatxNOqFeYzUf--mK7zon2E5ruA9vldLDuqME0jpaWX6wY9nbqCiQZBpvnuT6GlBqCpPVeGDSR6iY7bfZK9UZ3ebweqf_ES0HXu2ill91CR4Kqr2Q5IJTqBnEPIRgGIg4KDDG-aP6z7HyFVH9Ofw..%26ch%3DAQEAEAABABR4tsVi9qBOI1hh6waOoYskwGksHGmuvYU.%26v%3D3%26pg%3DI73D2RLENRD7VANW5GDKSAXYZQ
+
+Follow: https://t.me/hydrax001

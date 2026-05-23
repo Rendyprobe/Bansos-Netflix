@@ -1,0 +1,18 @@
+
+– Email: focusworaphong05@gmail.com
+– Verified: false
+– Profile: Leeuwenhoek
+– Plan: Premium
+– Next billing: 16 มิถุนายน 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | MOBILE_WALLET (TRUE_MONEY +66*****3776) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809268567	nfvdid	BQFmAAEBEDIP_PmztxlelqhKe7U05YBg7DOCH8--A8jfmeqX7ZLzeHHWCyQ3eTo9ZGcv757mCSWWuudBxbUtE5jceaEOPWfICdYMxgjo7woc5wIEs5uh4z87ZdcGHjZ62UxApTDRPUk9avpjXZdWVKoACWR-ltiy
+.netflix.com	TRUE	/	TRUE	1809687763	NetflixId	ct%3DBgjHlOvcAxLTA4NM1ffzhM4PQb1yFSNEgwrYbckZpYMkUnHsgw806JaOr0AsSw3Q_qOwlEaumtqNNwqh-Gmlt8VoE0aFk6lqcwd12zZ39vTe1WWJ435fwnIm-TARqkgh3mSYnf5h_hY9EWPV7PiRqKZLoSmH-KM5usgfMNVozYBYpEtQgV5YqGJ80-bY1CgwyHJtQNY8wDnCJN31JGYGB2DdKlhvxwpcuwh8Ux8pXXd8NvgGoj7uJhFVLMlTKAdd-pVPkt1QTwwQ1YcBHvdg9_i_bgqAUqo6bWht9pW5TJFDt0ipjVkOrOvVLJbO0-85ItDY5VvozmovCTlq0dEtOmsNSD4hmg0VWSp6SojX7Xk8TQ8MuGBZsEfU720bcpOR6Jo8ZRWuP27GgjCTl_74GCtboqgtBIheUb_LyR5441dHHtBvwarSUYIQHp1FngelRUZU023GDfMRR1Xv0nK8N8Y5L99_cH8tqUOhVLDO0qGEQEC7epLpABG21y_ut3hpHJ_JjvpWECZXzG_hIBxDuGwWTiY1BC2AMQ3vzaNvhUEZjsMpR945yqOO2CeUcagFjsx6CwPZsJCcW-pLNBENeVMnp12fEchkUJrV4S8uJrRzy7ZnCLqVOwORU_sQGAYiDgoMPv1e_xrZMMPpjVbw%26ch%3DAQEAEAABABSigUtDhSV5CDxlrCVJ6i1a6wpCJP1MKPI.%26v%3D3%26pg%3DVN4TKH2HGBG4VASO5SLFZPY3OE
+.netflix.com	TRUE	/	FALSE	1809687766	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+18%3A02%3A46+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=255e954d-efbb-41b7-b850-b0cfdf69a52e&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809687763	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSj6NIJf6Id4BP5IQVabe5euYKVku-nmcs.%26dt%3D1778151763319
+.netflix.com	TRUE	/	FALSE	1785927765	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785927765	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

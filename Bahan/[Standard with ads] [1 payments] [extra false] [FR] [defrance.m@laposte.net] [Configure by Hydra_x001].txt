@@ -1,0 +1,19 @@
+
+– Email: defrance.m@laposte.net
+– Verified: false
+– Profile: Justine
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | SFR_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1799200954	dsca	true
+.netflix.com	TRUE	/	FALSE	1796176954	nfvdid	BQFmAAEBEOJouHh5w_ayhQdr68cUIM1gsX1KBYE12BoJlxoCsOYupdN61Dj5I6NAdSLDN3jT91WxU-er7YGXGLTBpb-TNgHoVkYYNqyp73OMpO6Qku_lDEO7PZ2lHpfF1IhEh78nxymis_olj9MYlrKkgH7UuslF
+.netflix.com	TRUE	/	TRUE	1801862120	NetflixId	ct%3DBgjHlOvcAxLoAwjEwJ7ao1c30KtME1KgPAPQx9uvERZpaIiQ4C3xQmhQwGIN1Qptpxhni4Cq4hMLsh-tBQbHaFLO-RkMrm_HCNontMtOctMrB6rBOdN8PQ-g57pJ1LRJ07me5HISQmoqF0SuOv20expmBv79MA_C32queHeLsV4tg0a2Wn5ow7bZ2k4ij_pNHpA5xij5IjzIUz43s8bJ0e6NV61mhasPshmp78zW6isPMNblBCL9nFSA1qLfCEwwgDoRYY5xXoAI8PKSGCQPcAkUJs7UcvgybBIeFGthHCCVUdEIiHXYz4PkPG7Bx-_GTCzirdmvbMjlvf8Zn3q526exksftxTynB-WHdiWZzhoKWRlaxhWmf7W9IG8b3sRMoSZH4DGzrF3VdCf3iUhkJnsyv2XOogNFTatqgfK786FIwNLznph5YzJ7Q1Lhpk2hh1DYoEZoBFbO6V-kSRYoJC5FJ9lWKElI9DPKQasrQ1ZmlXY9maN81sUkk76lOiVbEoXwQ36QQtYSn0MJt8bOr0wjBQJ-6Vrjj0QOnRXo66rLFhkUJoQXffo6mPIbQtEmGK4PjgZeKLol3Skm6soinBoGCVHWPxgIp_0PIZCKJJOs6AXwq92WC3-ur9YI4W8_oprTe-gbiPeyqOZuKrvxaH-AGAYiDgoMkQyrxl0d6VC7-0xW%26ch%3DAQEAEAABABTZc0HpNSKYpnb3BcBKfA0xuLzScP-Q-C4.%26v%3D3%26pg%3DZDX3H472UREZPDBMDA6HE2YPHI
+.netflix.com	TRUE	/	TRUE	1801862120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjBHklBGuYIDONDXY8q2tEMgJaVg8pJQw.%26dt%3D1770326114815
+.netflix.com	TRUE	/	FALSE	1801867200	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+05+2026+23%3A40%3A00+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f59adfea-1ccc-4e05-ade4-ab83c764dec7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1810342199	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810342199	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

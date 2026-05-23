@@ -1,0 +1,18 @@
+
+– Email: cedienessa@gmail.com
+– Verified: false
+– Profile: 유
+– Plan: Basic
+– Next billing: June 21, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****32393) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBENCZQt0hvBFrY_AfRt72h7RgXy4a1MXtTr8drWRwA_G3vGbp1VhvIh_3xa3I8uVllQ9Vh8agTHLuKOrM_7TsXquxGpCUQZvyU9xn-WTBSZqIeJP0FaAju0CeI2x4gUz3Q0y2TQzBcHlMZ7X4Bn6N34uH
+.netflix.com	TRUE	/	TRUE	1796616182	NetflixId	ct%3DBgjHlOvcAxKUA6pvh2g26XCZcx9OEL0tI5zumG65QeQKG7C9P3GyToHC3JEjj96ONM5DTerbG0ie3-ayQs-f8ytL2-FzIenZmTpWvmKs0dt-Ln6sqTqdN7224xY_QoTGHlxX-Wtz84ZLRGEyLujiFdP_rFEHDeHpoUox5rYIN54PuSQTnx3W2WkjVzilDhpqwQRD1XSfNY6Paq_PNGYRFYbrb7AY_KzrGRlZ49ZkQsL1VpabbsehDdP_FJ4tmdXUF6XSynAs3jwSXKCIxa91HQqVzyfFr7_OcQRGCIqsrgRf0SgkbdqsRFELg2BrwZlCNOUdjHYcytTjApJF3MSm3_8uuJNEKw3c1xEHuDhpj0Xt2b_KfzTIOOzZ5LEIL6n4JVaYBCpNUkKENlvpOxi_hHty_5eGznAC5zeADzgzZbwVWZBZBx5MjN-jFabY0cSW8eJNhmYhnuVtfrPL2OOpTKG4TQFsCjeAZLPH7NzX3DTEg85WTgt2euQqcDgWCVkXoCbU1HPSVkpsF_r_4efFkFFTW3qfD-p7Il8wbN60GAYiDgoMC5ULUiXkyh7bv-6k%26ch%3DAQEAEAABABQI4OSOjyF26tp8fRxaNuS9WH6VTNK7Cls.%26v%3D3%26pg%3DFEANTOTOXNHHROHLFNI5IOLC6M
+.netflix.com	TRUE	/	FALSE	1796616187	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+12%3A03%3A07+GMT%2B0800+(Singapore+Standard+Time)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=93ef8c53-fa2c-487d-a4f7-0a15a84d79bf&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&AwaitingReconsent=false&isAnonUser=1
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	ab0d44d6-fb25-43e0-9176-47c8c98f00ee
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

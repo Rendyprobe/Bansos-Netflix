@@ -1,0 +1,19 @@
+
+– Email: frlangfo+son61@gmail.com
+– Verified: false
+– Profile: JIMMAKOS
+– Plan: Premium
+– Next billing: 25 Μαΐου 2026
+– Extra members: false
+– Country: GR
+– Payments: 1 | CC (MASTERCARD 5199) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798886692	OptanonAlertBoxClosed	2026-01-02T10:44:52.697Z
+.netflix.com	TRUE	/	FALSE	1798887106	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+12%3A51%3A46+GMT%2B0200+(%CE%A7%CE%B5%CE%B9%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a531381-5c61-4208-aeea-211a1e7fbdd5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GR%3BI&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798887104	nfvdid	BQFmAAEBEP_EK1sn4THj5ex7jI5imMlgbA52d_s3eixCoz5AyJkKIfjR16uRQgKPvO_k7cDyhbipvUOlMqzH0oNHIT65fXwDA_VXnfsWdc4nmuDBxQVtCLib8HKq6vK8qotTm0C8kba54Fd27Sru3A2ckvvV2bUM
+.netflix.com	TRUE	/	TRUE	1799776818	NetflixId	ct%3DBgjHlOvcAxK4A58-1PP-x-xNKzqcClGacYkLOKnNECsMSoo0dPiah3thdfv44Q1pz3iwoA3dv6mXHnGoca4JQ0Z7CK085APK2KYZB5H6-olimTyCWzgumCezLwhcAwF_gDQwypYF6X1nhDAVakzmrve6-pAQHGp-8GL9OvKa_enyeL6YVM973oN6KGJl9-DgEz6TCjA5AxzNBD9C-_rkVf_xFgc9Qie3nFZVkuYnZ9S3qUxid1-G7r5D0b6i0azSA9NmgMJDRwiP_Dyl2fQw7EtOhHEunQQz0SbAplL5u7w1UYFJlNUnTEEXPp8shONNIaurXfEDYh0KLGGUhW4ItDCn21YJhe98IscrKh79eDuZOJwtNVxKOIyaKn7impiE77YgrATCKqbHVYFJJuzhqX-kgl4bBepEIIejTPUBqru3NCQ_FlCwlZn5SzhiTymMJOCM5a9F3amx2jgaeB-npZZgXzRkRRFKRUd3Php_3hCI6hH6JBwYPUR_oHtAtecI5L5FELq3UQ9NGZdaG4SSlW-bugo7q2JkikZQ-dttdNiMtCKKOihW9TSvCyErUonnbr1JzFj57KlI5Q-SN6Ocn6ZiGAYiDgoMoOzsyuZ_DQ3kV0pp%26ch%3DAQEAEAABABSHWQUWIp3_T3-A9Sl8_SoW2C3RjrIP0pQ.%26v%3D3%26pg%3DH4R323WBBRGELMVXMM3LTOLF4E
+.netflix.com	TRUE	/	TRUE	1799776818	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJVQJQv0v8jxSEUH_sHWH0sjYiGUgsJXA.%26dt%3D1768240818346
+
+Follow: https://t.me/hydrax001

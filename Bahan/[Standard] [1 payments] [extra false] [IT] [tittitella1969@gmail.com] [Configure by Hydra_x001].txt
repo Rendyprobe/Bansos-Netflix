@@ -1,0 +1,21 @@
+
+– Email: tittitella1969@gmail.com
+– Verified: false
+– Profile: furbuf
+– Plan: Standard
+– Next billing: 18 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 4356) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787379240	OptanonAlertBoxClosed	2025-08-22T06:14:00.066Z
+.netflix.com	TRUE	/	FALSE	1787379329	nfvdid	BQFmAAEBECnqgMEJXtc1vwklQcL3AThgQWpmeDuwTJZUz3I7bwaMTi5UfrvQmyOauwSsSjUOY-DJzfkONGxw7rMEcmlBgRZaIhPZEWseroP2_hIh2SxzAIMIHBbCzS_7ZpyhMV-e8H7rYICzbjy9zwV1I1bostG4
+.netflix.com	TRUE	/	TRUE	1801258382	NetflixId	ct%3DBgjHlOvcAxLpAxQDDKxfY1OR1PWv7_NaPIbc7OZuaeRM0_y5N-aMSKFRFv83t-V-TCkzd5RTOGxVBYN4bjdcBUmb5znrSmY0DK0LV--EMgVSAYLPwtFsZz0S3Dk_H0FUASAe02WGwWj4HUkiqecsRFHMphehkZqXbfxLTZYxjSX3R0XSaSEv-TDYHLHVkeV3APXmTHd9LVnAMf4CW7FoNflSiW4XTIXEOxlt7ybYrwfCqYV7uwOftvu0fFMZ7QEm0ru2rg6ksUSHxxB1_KSi-uhKRM_KRPm09t245dhVlINEEV7beNffY-LYAmY3BS2b_HIOII4YNYOgnhVJlNYd-6ZRFc9tFDrU0UI4tcmCLdf7PFzY0aGzNBwVgEzDRHuHfUCqU08dG_Tmv9RmiqYQMKuz09bGfetNWvWdxYtmtqfAuUGUPo9G_NfNFxUzjPMk9N6tiqp6gMuYzwJ64l0Ic3r_yogZWUuC8BM4Ytg2VG77c6E2hRms4Ba6BKnMrVWNcek1uaSLOOB6dTy4LUIDgvjqH696q9Vco-oroTR_C9rH63vg29604hI00bCoTg0tk5Cfe2PuNAzmJ72spbw9V5-2dETXgUUaZLGJglbyFrkKcNUOnqryYTsZhPlNpLkyIWrMnefXAOu1D8R7b9kTDVQ6SxgGIg4KDOgqNISouq6VIalTOA..%26ch%3DAQEAEAABABQYKcDDjZuigbx8DVF8z3zA2v0tDMrA1G8.%26v%3D3%26pg%3DWGP6HJSGHNFMDHN5FGPE37VBXE
+.netflix.com	TRUE	/	FALSE	1801258394	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+22%3A33%3A14+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1a10b64c-4a30-4485-a043-5f9b6b9972f4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B88
+.netflix.com	TRUE	/	TRUE	1801258382	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvnvtp93Rwo6qvyZUzOOl78gDZiMvCNkU.%26dt%3D1769722380199
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	05bdd6d1-5f3e-44e4-bb19-16c516d3ec6e
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

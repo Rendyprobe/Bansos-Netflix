@@ -1,0 +1,20 @@
+
+– Email: samruddhi1422000@gmail.com
+– Verified: false
+– Profile: samruddhi
+– Plan: Basic
+– Next billing: 2 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 9***@ybl) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066583	flwssn	41ddeb65-e36d-4723-8b68-e968891b04a6
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	70d7eadb-2c91-4e9f-9e01-58e60bb3a794
+.netflix.com	TRUE	/	FALSE	1810232111	nfvdid	BQFmAAEBEAlJBWB9_AQNG64t_0_OX15gES_Cxgnxho0u1XYlzD9W9EKFSKz_BGS0GVybZQoi2epGp4cYOBZwmXMuTMIj8DhnQgisAPdGWi12vrlPgCZYHkLmMQsrP2qogcRjUGpn24bAkevPW_OCox2ZWkFUl6Nx
+.netflix.com	TRUE	/	TRUE	1810234744	NetflixId	ct%3DBgjHlOvcAxKyA4knQw9k_JWvDw8Ue0kScCMsTWdEhOjtwL9fAO1ifPjWXca0VQQYJkoBPmJ-PP0-TFxyv_u_s2MtNQUUMxw99C7fxmAc9r7bCpHfn8pINQLCMwq058d-79F1C_AsaUCvYGDpMq6-SRErKukqVjhAIivSV4iJms-KknZYz9LME4JT_unhYVqU8EyCmozTnJpHykT9US6K7j7QU1kh_HSOifRtPjvIR-bXSYHgrZENDeLm0j9mHJRpwTvtThplFY3-DiRPr5zSF21KhAxyV0BZS7cTRriMvJOuauC6E8-gHiey9aIDtML2AgKUGWnOCfIs0JLv6pXcwznTNs-ZfuBu6QwU6XOJAAwgkjuxmsQ2tv2gn8SrXyxklMObIogyggSYLejJ-4CqI_brzKiyhlTPsLxHE6UsaSS4SqFowwmY85yagdpIVWxMQbKW4Gi9ci-RiDQMnDnOgL-gROCwAHcpLcaGT426v2JuuGxiEpKK0P7EAU04ETXFYVC4pjUtPI6TJ_70oYIgPPZvw1B6hkQT6ixwJSJsVzicYfIH8uPZArhTw5T2tc5A02MHLfXeQ_vT_A2dGAYiDgoMSrVArnt2gUGCASKF%26ch%3DAQEAEAABABSXfgfihc1qOslwSyV3yvmSd9bygW565r4.%26v%3D3%26pg%3DDJSECXMAUBFURCAA4NTHVQD5EM
+.netflix.com	TRUE	/	FALSE	1810234766	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+00%3A29%3A26+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=354361a9-060e-4dc2-8e58-e269bc8df462&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778696045185&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786474764	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786474764	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

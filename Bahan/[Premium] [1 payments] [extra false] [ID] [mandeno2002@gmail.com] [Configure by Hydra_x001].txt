@@ -1,0 +1,18 @@
+
+– Email: mandeno2002@gmail.com
+– Verified: false
+– Profile: Aldrich
+– Plan: Premium
+– Next billing: May 30, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | CC (VISA 8465) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795250082	nfvdid	BQFmAAEBEFP2eMVIl4nJLFa9iGIQKWRgpIzwtTmYMugj_YAtKRV1_kMX9rR6Q3RTpi9EixGSEzi_a4PU4Fk1vsqPYQ0K-FIb9cFLjVS0KQSVQI9XjuvHgbV2G_cjpTRKYKlTrrH4k3XAOeP0USPrDChPmt_KoIie
+.netflix.com	TRUE	/	FALSE	1797120509	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+13+2025+07%3A08%3A29+GMT%2B0700+(Western+Indonesia+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e3c47fe-27e6-46ee-b45a-9cfa45d90f3d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1803433763	NetflixId	ct%3DBgjHlOvcAxLoA7zntG1U1bsqRH0DXper2TMi5bYE2-4s-nibg9XZ2j_bdPZgTbG0ItztOXkg-jpsHGDYm84eUQP5uABzOPkq2v5_f5iy6fQa2zCwB85et01vwonDI7TpRBwZqE5_k0hZj83WZZ3cdnXsVGaPkfG3Apn_DJd0crb5p2nHlcgINLPVTwpYUhGrXOiYoiaY4QEwQcPtOymL_DQclgXGfQH_VqutfDhCNItV3-c8FmvxY9lKZrPxgsx9JiCN8mwuhByOqLljnmm0_guuhsXSDXaUWxMW94UI4Kmnn7Fl8ij3s8YuvWfRBDEgPYvHarC3bHD4i_2OpEny6QSMmYWvDxSTHlqk_tQPTYSLe7GXcJP4d-qZlb8cLmhhQQ0DqJkrZrkxkfNWJLn2J6qYMuePNE4X9oEzDMKZF3cAt53yL_cL85eMtndNC2hGGwT1sMZ7MHQVtLW3g7ZsF8n3xKHpfhno3Fs4G2cAD2UCC2DWhAkc5qhd0kuQb9yTxVfDFYs4WBic-6jwDCePwX7fPd--P0T151AeEdV5vIaJWBWoTiN3N6yg2tY6aOGwgOMG__xZicjdSxRUdulGhnEMO5MTgjYUXVA1uK6ymlMqNDdMAMdK6g8Ie-ar1kj_EjB8dQ44Hlc99PUnW48Q8W3bGAYiDgoM0l3J3AvPaRYGR308%26ch%3DAQEAEAABABRi2zRc4cswVF5YqScH2A0ha-jmzrY9E3w.%26v%3D3%26pg%3DOIRXNOVDLVBDPGEYKWO2NI5AGE
+.netflix.com	TRUE	/	TRUE	1803433763	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTh0xrKu0mCAdgFegmLaeLnY4xzuE3IR1c.%26dt%3D1771897762087
+
+Follow: https://t.me/hydrax001

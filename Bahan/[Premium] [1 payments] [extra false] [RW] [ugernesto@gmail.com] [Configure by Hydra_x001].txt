@@ -1,0 +1,21 @@
+
+– Email: ugernesto@gmail.com
+– Verified: false
+– Profile: Daddy
+– Plan: Premium
+– Next billing: June 6, 2026
+– Extra members: false
+– Country: RW
+– Payments: 1 | CC (MASTERCARD 2132) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	4bcdcbb8-b9e3-4088-b8a6-e0a5edfb9b83
+.netflix.com	TRUE	/	FALSE	1790586497	nfvdid	BQFmAAEBEOxNCB1a6nSejh0FmXvVhLBgvUzza_iilnIaTydz_fvD2pzVeo_oA0YnpioZFn5VUEz98qfQ5Ha-rQvtcIaMmWYJKq_MrbyRmBUzMrC2IjWQPi9Uob95uT9TGV6k4gENzWNlFUHp7WRQzTJprAv0a_0i
+.netflix.com	TRUE	/	FALSE	1790586534	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AtHviyRuVh9OZSjWfkpvxShmKvPsGz5mjqLVSSMwr0RwVbEYwf0MRiUiAUFYHNvstgXpiBIT5rByWzWN0vLiFnOSjaVa-vklH9y9Y8VyrMeyDHoa1Aq3wa9WBxkpSDtGNA6FNHHcV0UjyVXn3i8nrEgjiVdyMq7J3pLVBTtUn0q8XnoCLQvizRZmLTT3dQhHL1-eDW6lK22MYA1hIj_zObIoT6lTmZPaXzg3_mW0fJR8z-qZ15zccS_N1KztYt_hWhlO_FX36g_fRR-IA622kJsgXbptk32IPTwb3yTFPPy2gsAncs6id_EaorJiwzMmnp0xUeg11MOZvDlk8fvOKReo_LvHAmezJzWgXI1KREnG_H5Es_f5XbhAY14iOxhwxnwuhPNo57pv0Cu5sz9GcRV4a_YXlvjT3i21OItNjmTgHveJUUMKh6RPKxQs85HqRdilvfOJ4FLTHrxD7UNiNsuQsrv0_j43tnoLM8RzPLOAfLVFbyVTUYGPGAYiDgoMf3OYAp6zsF4v_Eiu%26pg%3DJ3YJRGNEVFFPHCBACIJBICN4BY%26ch%3DAQEAEAABABTBBk3Fp-yUXhfMGJMsWGIi9s4ZVlmMkw8.
+.netflix.com	TRUE	/	FALSE	1790586534	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDElKXy0CGTUEHnIJn00YBcQo2n8rSApg.%26dt%3D1775034534102
+.netflix.com	TRUE	/	FALSE	1781798731	firstLolomoAfterOnRamp	true
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	9bc48a02-3978-4838-b2e0-8748e739e554
+.netflix.com	TRUE	/	FALSE	1782810593	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782810593	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

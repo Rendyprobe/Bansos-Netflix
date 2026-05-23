@@ -1,0 +1,21 @@
+
+– Email: fabriziogiuseppepalmieri@gmail.com
+– Verified: false
+– Profile: Batman\x20\x28Ciro\x20scrocco\x29
+– Plan: Premium
+– Next billing: 25 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 5876) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798219942	OptanonAlertBoxClosed	2025-12-25T17:32:22.899Z
+.netflix.com	TRUE	/	FALSE	1798219948	nfvdid	BQFmAAEBEBJDTeeIG88Su015Jw1yVdRgTgIT5a_r1XvtOuxiaHpMb0Z_vsfwYIObyuriiY7w9BtiYAhVwdIlH-sypkngx9T3yjmpVIDZZ76EW8gjZvghi6cgrBT16Mxd-3C6AcWgYH7mLapcGXY72s910Qrkz-4t
+.netflix.com	TRUE	/	FALSE	1801244083	dsca	customer
+.netflix.com	TRUE	/	FALSE	1798220089	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+18%3A34%3A49+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7687dc65-635a-4ab1-b194-aea7619b372d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B45
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798374466	NetflixId	ct%3DBgjHlOvcAxKkA7foCyONj1pHh32OYy7nM8YSfX6dqnUp58daIs0huBAQMP8Gvuf7I3ryLPtOSLP8M3dl-p6QJxfDy2Ia2GMTRn9PtoBI0qApvQhjLgEgtQmbSdQl5w_hdBE06wz6hvBN24H2NQM3j5XLZovIbVzsGtCZDuapZGvJHkcuwno1pjwTxkb-ObZopnWYc0RrI5gnhVgl3es3QncEA2eSg3rEJTYsJCn_HjHoAMWuOtRQB_UMBb_e-eQ45_NImG0OinxnGsiMdKdLAbuTn1eQcQ8cpqoFUv96pzmKSpqv2z_8ureXCLdamuSubbI2E0gG5RZIWimeJS3vYP5PHC_rwdE0VaW2_U0NlUf8j8OodO4X0SufYX8l9rN_29Wh2T0jF9HWQW9RLd8TR0ymgNHIswWiiiOZyZ6Onvqs4Whyc9GmDWLbRPcGYLYwGGmRUvzueIl35GABts_XpdHqCkM1-_eFxPe3u1vYmjF2X66thjmFGt6ZR_LnRR_RPg4SNKtb5cHNRahLV9mYvmgVnVbnxBqhRIqeL13CDuwnpAFIBX4o_m6moKC8CxgGIg4KDDHO8aeCBN13eWtqyA..%26ch%3DAQEAEAABABSbVb4EagK4FF-ZnU1Q9wOFAm9IasS_v-0.%26v%3D3%26pg%3DGIXGLFYKVJENPD4UUXMBLRYMAY
+.netflix.com	TRUE	/	FALSE	1798374466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiqpN2C0bND8WDPK3tp_T7yvX8fa8t0u4.%26dt%3D1766838473146
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

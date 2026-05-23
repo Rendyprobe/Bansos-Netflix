@@ -1,0 +1,21 @@
+
+– Email: jeanzo@hotmail.fr
+– Verified: false
+– Profile: enzo
+– Plan: Standard with ads
+– Next billing: 25 mai 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | DCB (SFR 7818) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-12-26T02:21:30.375Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEHQK0Dai30ZPVdsIkTfxM-hg3E-zJjgAjdn4nVSjJga7X_ro7HkdoEAH868894VldBPQ0-9JQrF50ciY5T9053MapTmS_46CoTZN_lnXku4zug8M6Q9Sfbo482s81BukOK_39T0edJvg6pShGqsArWlf
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxKABBcyTiJojslvN9Dm8B5aWPduCslW7V6ZJ8tqKLRg-SZU4816HjgC1dWs-1gHFojne89Ty0bMpwTuvtzdFyVd7Ppu8HpFRnuGt-W9vDffJAcnty7cjxpYIlHSL77aN_2uzNYwbt7Av6YYZDggfJbEr23TQQ6O_Eme_wOW6Sr4JcRk7mD84EtaWHpv9P-cpljgbJrSbkLe6Kat4VimKmqWjlptDxtPviIVqyHpooM5-V0pk4J3qxVVVy7mKt5xJTvYfPdEnacv4CvTZMnA2MLUEO9P1tyBOqbVIMTotKRZo_e9VSLiPYKcPCfHrxBpRhxA1dHbtJ154PmEJ-6f6cReO9wUphq4CgOKDolTJg7NMyFkfuO5jr1VydNWgKz09FIudxc7d57EVrqCsci_FMrubraierOaeYP4qs5J1V6hgb_YtPQwwvdrOa_dVXThZrtDq8T8f0b76J95HJpSxHEobnjON2TRYzwieCb1u4GhYATPH6AeNkczHJnmWJK-E-XcfqJ1ZqUIpZiiAwpA6XeyV5hiv0inRWbj5uszZG1pp-qAswBJBc2fWMZAiRloqAM6mAiNOpp4Psws_G8mW4HazEN3Y3aCVF9-IpkcutbSZRo63wLEqrFtyY1sX_UrWGCXS57irGFdsJts4i6QbEQK0NL8QO7SplT4cRUkJwdLv9vvGAYiDgoMvK_3ouwKve27rQO3%26ch%3DAQEAEAABABRDyCFI8i8Qh5oGkuF6gyJy6vv3Jzs2gvc.%26v%3D3%26pg%3DKVSVWEKXNZF43KBY6ULPJ3ZVHQ
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+21%3A51%3A15+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b25219a4-b0ab-4df0-b717-02c13241f11b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BOCC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQU-867X9ersG4WjvM8A0U58R2Y3WxcYRg.%26dt%3D1777405898732
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	edf5c135-c7a9-47da-81e7-2677290fc58e
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

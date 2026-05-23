@@ -1,0 +1,19 @@
+
+– Email: aariznadeem69@gmail.com
+– Verified: false
+– Profile: Aariz
+– Plan: Premium
+– Next billing: June 14, 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (VISA 1788) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806659460	nfvdid	BQFmAAEBEFjV0Z0XmZQS9P0Bnt67ZLxgYipZCZupZQm4W8X9eEwIt0MpKaJDsKtyurnPA417avuHkF54if1WOdO7YBqIg_-r9f2IGWyucPOf79w62A3jXoBgQNtJG0abYmDJWc7bjOEUGaGXgOsKm5NqjcZw9BNA
+.netflix.com	TRUE	/	TRUE	1806763932	NetflixId	ct%3DBgjHlOvcAxLLA6DY9pXszsSQCeNx6dRcLEzOvKs_24KRRMJO3WM0gpVgzM5EMAnwt4MLNm1BM3zo2avX8RjEK7OgtvolbQruuyBkwXUXuyxZdDnWc4mN1bV7I5kF8auZ7O2DPtwIyDYqFZi3YO3xa1LkalxP0LRmgBmUdPnfTE4iRTP-wnJYs55FE2guayEjT4o9tXWtwcZV63fG09UYzxyrcY10Nxb4aFW9egIzN6kwcOHULj-4ORtrnd0tJXMGPn0vOZvo70eyZOUGLxUdzAYCkzJtAPcCizzyBRm8Wb2oRSrmtw90sVwNiN4v89qF8qurStQ8RSWR2FjKdUlHSIgb4wwHvivbl2ZB5e9udbsS2Z5_3dSWuI5d3El2fyKXJotIdkAzsbE8oQhxMDue6gV3OXYzF09SJ2sJCrEo0jpYTTQnr-Hd9Zqk2rBidl17PsVhV2hv2fG8x3x8AZppv1kLWm0Mc7z0l5A6o1-k2ssOtNukEfdcm3McgVRfwHMxJFEwL8JAiyPH9s_hoIhnup6x1Loq_sqYUs8iUNRF2kG9dQIvOLDFuxeANrH_sOIjXoD6IF1-FKp0EiNRfm7QgA7JInsIZt_WKEIF_ijRMxC2yzcnJRgGIg4KDAYTCeGe_7wARYjJbQ..%26ch%3DAQEAEAABABR0ghJBK5AO3C1nUuNKj0i0OOH4cwjdxGo.%26v%3D3%26pg%3DN7UWSFHWAJE7BKBIT5JBUEAVFI
+.netflix.com	TRUE	/	FALSE	1806763945	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+07%3A52%3A25+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b52fe58-b001-46d3-b37e-31f7238ba353&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774812260397&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	6de00e85-4218-4af1-8c51-092379c02ee4
+.netflix.com	TRUE	/	FALSE	1783003944	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783003944	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

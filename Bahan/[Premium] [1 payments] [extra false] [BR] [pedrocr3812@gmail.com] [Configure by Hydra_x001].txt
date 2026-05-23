@@ -1,0 +1,20 @@
+
+– Email: pedrocr3812@gmail.com
+– Verified: false
+– Profile: PH\x20⚡️
+– Plan: Premium
+– Next billing: 22 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8121) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803273487	OptanonAlertBoxClosed	2026-02-22T05:18:07.294Z
+.netflix.com	TRUE	/	FALSE	1803273483	nfvdid	BQFmAAEBEA3CKpf1_u3fdEPkjbthxDtg_TllM7nH4nwXrhmQ3N7SnAEPqKr_hKk6MoEa6xQg7ulaT5udVpMTIlSXeAB54W0y80uDKRIVQaye9n-4ukNHIUbo9tqTCJWzNKNavFi3VabCEcUUmzPATOUW-veGw5Sh
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	cc15f3b0-ae53-470c-a243-97ba54bef8f3
+.netflix.com	TRUE	/	FALSE	1782773223	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782773223	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806538852	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlBBSMOUdFmY5jRJtMAbKvgdyqG94GfbU.%26dt%3D1775002852706
+.netflix.com	TRUE	/	TRUE	1806538852	NetflixId	ct%3DBgjHlOvcAxKQBGIRzgrqnGIfND8i5AhlK2rlc8l312HKwoGHCVrgY6U9TVHR4RbU4WUSy-oywMRhdSttnb3omOOxmF6TUmTKYTzTlfop0GRgPhPwVIbHpywd5PkqarnRvJtcmkYOdXCKirJEagbzKddrXAwiUSmpS4UYA-MSP-uaaid1_Fm4iggLFNcRUAWYzY4CYc6mraQWdX7-yi3q42WHOBAx-yHfsHeb9WVsbwBF1ujboTpRaxRerjo3dAGzosgK9SVTyDe0Y50_PCIhEZagG0LI-ErV0AQDOGrpUFxgVvMiXgJyiiEi9YZ_Vu9NeaihIlJrQ2KgkIQWcael6HOz3nsAO42D_MedtT_s11TXv8GlGW1h8e4HhVU3xyHBEcDR_uuBbxn8RxVlluZ_E9KgQMvOP2a-2U4IbissqDOC9xIaANC9yA78zr9QlrkuwK2q3n1TxSLHicYio5aegAlHeVftGVhV-fCw0xslqIEltQxfrkE-E7UksEZb9QPgdqMNjEvs_RWgwuwkd77SJy5oCJBZs9dyENCkBVHv11KuVRdHZFtUpU9zWyY7Zed2lWJO8qm-hb__vz42JA7C6ATgB-SwVd_dTvteG9cmgu0K_puqq0L7a8_8HIDN0UvoEyPhjYR_Qw9oEWGfk2pRMfwKR4Z1h6QM7aLl39GuVrsA0TcA1cTvbb76Kt_GKUK47-ke8GwugY-3ZxgGIg4KDMaOAgW7Ivv5TLVW_Q..%26ch%3DAQEAEAABABSKSgaJs6HUtIE6eLLlXSznyTyKWfwLoz0.%26v%3D3%26pg%3DCS5TDOZHBRBD7PPS7U2JDGWFSI
+.netflix.com	TRUE	/	FALSE	1806533223	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+19%3A47%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=38051111-5ee1-4132-b2ce-b53bb991216a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771737487714&geolocation=BR%3BSP&prevHadToken=0
+
+Follow: https://t.me/hydrax001

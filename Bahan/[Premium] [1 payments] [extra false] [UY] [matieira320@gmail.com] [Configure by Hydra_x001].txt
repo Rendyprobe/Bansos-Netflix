@@ -1,0 +1,18 @@
+
+– Email: matieira320@gmail.com
+– Verified: false
+– Profile: Justin\x20y\x20Manu
+– Plan: Premium
+– Next billing: 13 de junio de 2026
+– Extra members: false
+– Country: UY
+– Payments: 1 | CC (MASTERCARD 2938) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805675449	nfvdid	BQFmAAEBEJmkOl9pvcLLLWr8Qu29WRxgj9yigaQ0OvmfS6JpdU5X9Iz1JaCVxhctjsdRxdiAS28KBr0xrO5fu3xpQMnxMh7DgIFyyLK9DVKMPlNPcEB-xP7yeGgu5JCPHbtLiEK0vN31Ju7KcNTgZUPH_ra2DIG7
+.netflix.com	TRUE	/	TRUE	1807127911	NetflixId	ct%3DBgjHlOvcAxKLBLgTfn1AgSD8jQAXfYrBHWrU-molhBBkwxke5yb9rBlrQNKuRObW3zXZBPMDXd0NtYLF0GTB2SBqKg71HjLUh4gH4g9b8PAvARYPhfGuMBT95c2douhjFDFKtuvp7jqCQYsuvqYZx1eGjpL1HQ2zTujLZgf1Xc0dbDMiVcxZZ-14Qexg6DwX_UjWLXiYldxhWJ-UIW0q4pczHI8K_frAgA0iZcmbv5LlkJfslqlMa6pLMOWhMl_43pyXFllHrliRs1WZvd7A6HLtZHZJb8ST5ig7z-Ht2hoKZmBWVZUg1PTvuRa_c5TtstMStvTxnrCxCw3yA8Tnd3OmfITFZocEbQEx9Ou_lunw06FVTG7BMDOArAMejo3iWg0wdliiZmgKsjb9jqhGiiShKbMvNhEg2vuq7kS5RFaFGcTO6f7FxmLmEki_ROZOjsC152hMqagcQnchwP00vCjxlHJMv6YXqOspbc7SVQOPWukj8TjcdQVOZ2oXrhawlfGnRfgoX1ObbUJSDMfNL5IOtRwSgsDwrLsQBs-6HSkSXKvKEvfqq_0gAzVtW--KoI8h26IN7fbeJF-L24eU0w3Wb9M_o1PzIcsNDNoy_S0Bu8GhYvWJDCZzLP2YtR4LVnQMJKLXTxrbb39azXKheqNg6ATM3WHMvXHaooDLt4swpxjkeMipguaR78mSfvYowNiIRiIYBiIOCgw91_sAsQD837wwU14.%26ch%3DAQEAEAABABQwnDNVHcSPHpHETBGWvUikEgm9uJhlDBQ.%26v%3D3%26pg%3DR5ZCOYT55ZGCTJOSMXTIWNKLUI
+.netflix.com	TRUE	/	FALSE	1807127915	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+16%3A58%3A35+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07619fe8-692b-4337-bd50-6bf8a582b818&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774139376831&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807127911	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjDLfx6Wyc2mzVlMGa1WqMKLulZln5TMI.%26dt%3D1775588315553
+.netflix.com	TRUE	/	FALSE	1783367914	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783367914	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

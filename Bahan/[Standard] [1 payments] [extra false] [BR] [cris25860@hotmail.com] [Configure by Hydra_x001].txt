@@ -1,0 +1,20 @@
+
+– Email: cris25860@hotmail.com
+– Verified: false
+– Profile: DuhziinX
+– Plan: Standard
+– Next billing: 30 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 2920) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1786928864	OptanonAlertBoxClosed	2025-08-17T01:07:44.824Z
+.netflix.com	TRUE	/	FALSE	1786928898	nfvdid	BQFmAAEBEHA2JlkTskUtZd8Heg6BN_5gQfHk8razn-jsfRC5Ahqu0otnNuq2mSeT466CsY-E6Jw9z4aFiA7qihhSWPXo1IqR7jXhx3tHr-OqLKujA_A_uqWcQlxCdx_4iRknBDUVQO1mUXZohyFx6jJiZAl9SCjt
+.netflix.com	TRUE	/	FALSE	1800226238	dsca	customer
+.netflix.com	TRUE	/	TRUE	1799795161	NetflixId	ct%3DBgjHlOvcAxLpA1sV7jGUEapD-hkwFJxV9ZaQmh9w4LjvgOC043btIIgylk9TbGkMU0XHBF07c0rIUO4BMvFCwC8YYcMJbrb77pCS-u8bmEGH_mFTYKKS_TjT0MfRypLE325j16Zv8yYXuWU9LrIlSGK2CVWr9wFnXEeKCEkOOn5MBB8ya0d5zrE1Bu_VO1EjiKAdpGWE8XoNaD6t8V7sPTLHif635ufac7a8JJlRjqC1_W_C3yTl-wKQF2SB6-X3DUa_vc6F-dWTSkdgtS2amcVO8_-pW1Xa-O5enCJlQhjf0Me4-0YKBXMI-tY6uDoM1psSHbVa8VUBlly47re1IkWGY3SlzHA4NMB0Sd6z37RXfPAehTh1a88qEA4bNgGhLGlMdD_4_Dgn3uMObzsGgwE-bknKrYSs71X7D667-ftYX__UCNXwFROAzvMWyuLyT_WIJELLKoslZSdgv_Xx403lHrEDT7VTK19V6XAt7unpcqbqzVGD3j7OHf76h8o_XtWdzB5pzj58-mKWEsAIaZ36Sip2bItChjDZ7l7mqkaIOvk9NpjIBt5BEUnhhKfPQGSK-KJjiL1j9gjs0PJ9YrzBCAYydaEriQvBOTrtSeVusOxlLEMFp8LiwBsw3bT6mOJT_jge6Mzb5hqvopPfrdqr9BgGIg4KDJJJera3yKYME4WiIQ..%26ch%3DAQEAEAABABRXPfTvRxkishq9Lhyyx_etp4TcYF0R8WE.%26v%3D3%26pg%3D66REVKOUEFGNVNRULFQGGTT7I4
+.netflix.com	TRUE	/	FALSE	1799795166	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+20%3A06%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=20112901-b6c3-4cfb-b9bc-fad288b6440c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	15b319ee-77d4-4e95-be2f-0b96b829944a
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

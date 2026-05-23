@@ -1,0 +1,21 @@
+
+– Email: shadajju@gmail.com
+– Verified: false
+– Profile: Safiya
+– Plan: Standard
+– Next billing: 27 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( s***@okhdfcbank) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809714456	nfvdid	BQFmAAEBEJogOpktUW03b69d1DewolpgJiIIqh9pMl2Z-7VehX8wCGGr77PMP4CQ-R7OhWQsiWgbnp40Sz7TGEng1rTwV2l6rcuhbZn9HTln9vMLzJkm-GTUf1A8gOLr1fGXt2mSEX4ypIUz_rcs15qtGTPF6RRd
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	2073ec85-f3dc-43c8-be52-e3a3280d2d95
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	11715888-41cd-4240-8080-5d0bec6abb1c
+.netflix.com	TRUE	/	TRUE	1810318364	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7tlCkChv7iVy99ZzJlufnLK8TH8Lj-m4.%26dt%3D1778782365205
+.netflix.com	TRUE	/	TRUE	1810318364	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA-ant6eFe2t-b_k-p0SHm54DRktktTeuiMxgpQi79NWrbOncUxUHT6tQ2Ms-MSGg2X556KDeC6YfUwdkGSi85fWl8a3VukgQxRj2Ce0hDpPhNwyfv8h6fNL2B0K6SlosEh1uAZGTcn6bm-7v2bawwcPDUE_UbxoBho4GScwl5-HtAPjRnXZWH3jMnGPnptQpdnuTHRhTQxA3J5BE6_bbbLluadPyYPbWNtnUAzmFsoEHhHwCfyt3PEiD73eozbB2Z6hiOld9qqtvjfAoK3mwVkN0BFjQW88-bZd0k6x8gw5-XySbjTYkhvcX-Z7EAdmqhwgahKVzrZUkF1q02IDzeccwYgSY0aaamSYwU-qXbRLMHHB-3zGJMzAkyzPQQQhsRRzfHR_hSVG_qyNzavo3cZXq2sebFvymuelm-VmhjNg3x26hCDSXyjp3A2D2L5QT5aydThw_WE-roJM_cCwPoYVHqp4VG5wZeADz6cVVysEvrRcYAVaoRe5AZSbqcJQL-yMCB4yyMJD1r3ddfb2XvUcuCCWV9xgGIg4KDO5Ne8k8PdoSDtQePw..%26pg%3DUSJOYEDL7FBYZPZV4S7HZ2YAIU%26ch%3DAQEAEAABABStDtK9NQkPxxspkhabXlz59pcyAXJgMEA.
+.netflix.com	TRUE	/	FALSE	1786567196	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786567196	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810327202	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+02%3A10%3A02+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3c23d0ac-6e6b-40cf-accb-0a692be28820&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778178456662&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

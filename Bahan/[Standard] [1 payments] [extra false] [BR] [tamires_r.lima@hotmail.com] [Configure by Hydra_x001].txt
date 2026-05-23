@@ -1,0 +1,17 @@
+
+– Email: tamires_r.lima@hotmail.com
+– Verified: false
+– Profile: Koala
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1784339320	OptanonAlertBoxClosed	2025-07-18T01:48:40.285Z
+.netflix.com	TRUE	/	FALSE	1784339365	nfvdid	BQFmAAEBEJ2HRE1i1u5nY4vh7-dtp2NgasWaEPVWG6YCwpyNNYMr8CAHd7rN3-d71TXnnaeXwDhzaRSCMTbv9S9D2WBlP4VtyP2ahf0lu7Rw2H1YvIFGhOcfj58P0uusI196-LDr_JwBqZg3zJ37fX0z9eXCm_pw
+.netflix.com	TRUE	/	TRUE	1788108584	NetflixId	ct%3DBgjHlOvcAxKYA0ZJ7PyPZgAf12ysJhLo8AFhaR1UiE5eq3ShiMcvrinVIzrjnbJIw5quf8njflxZ-3RXdWjsP5K-9cKELy-7guYVJ-RJEf0WKn6ZZec6LVLqM2Ec55V4ChMCXTejhoIksEgTWATGjxZXSaQOsfptvjUKzBoXmjT3ifxxNHbBAlXG0j4b3fNk2F3RSneyXD22oJRVse0dvtJptuteJcW2eXiQrgK9Gu7T4v0xd-pKxHk0vjslRApxPfXWe8jI6gO_v00uZvDhGi2-z5yHzL-zCexY2Q43_GJOXfJlMhf5ORgVtyhzR23i-OOuvuP4VJFC7RfP4hVviLhYOW86y8wcrNhtrlGS366PS-clPj0oASR8cURN_vfCB0zHPhifFkNQTm7xDTWEGShHFD-MeT-xYlaXgLqNXxB-Rc_--JYp5g2vdBUoJQwXjv09ehlSrbplD6TBIVRvqLlvFMxyQPtp-cAXZA-Na06kb12P38yktzJn1gyan6Yka0lD4W6alqFJv0z_09HfjETYc-ORi86raDCi3faWGu5ohBgGIg4KDKcLosJ5rWEoIXWfoQ..%26ch%3DAQEAEAABABRKiZzhkYfQkB9CJdL0YP36xuTmnwi5vNw.%26v%3D3%26pg%3DTR6MXZIGBBFXXNJ6QCRCG6OCME
+.netflix.com	TRUE	/	FALSE	1788108580	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+30+2025+13%3A49%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c425d31-c920-4644-b45b-92f0026fa5eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788108584	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRPp7H_8gLSL3cqR71LeRny9VN9jFh4tw.%26dt%3D1756572573741
+
+Follow: https://t.me/hydrax001

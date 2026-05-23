@@ -1,0 +1,18 @@
+
+– Email: jfermoralesm@gmail.com
+– Verified: false
+– Profile: Zeta
+– Plan: Premium
+– Next billing: 6 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (VISA 4917) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1801613002	dsca	true
+.netflix.com	TRUE	/	TRUE	1804523690	NetflixId	ct%3DBgjHlOvcAxKyAzJzvMuiKc8-dIbDT4h3Uwtytcp74ZcDadD6k2FgBrOLwVs77m9fA2eXKb-ylVZPOmQgruh2vwbmoVllFFko4lt4T2ZYfQDDLeDQVxe5sT2qUOBm1oIQhS5HStOoRhAEUnuID3ACbj6C0tXT-FlUSXGt6W46dJvBRY5jZ2B68yPbTYaRWDa-ZNMqkVTEfTjQBXQtMclj4lDJpB6XJSxjiYtVR4nBps9SVo-gRAgo2wMuHr4zVtpX4WJxdUpxAd8_Njta69slagE3QW1neKstFeQTyfhcAv-J4Gi4LaQFwRVBNVvPgo6PMtuQyF1ErV8_Ui2WmWw0zBQvUUBQSNPvrBAODn0pXpZXvM_JV_Jlv9DpkOKeHc8EWO6AlYDAfEiXpnk9BWaSSGiTYte0sETztfPYZx_EloKwHAi5J7dXUe-46IXM-ZVSbzuZuTc6S0TIPEGD4l677o7NdqMS3sLzwLUeU2KQTn6CwVS-MjnPxxm0MJHxuYzjH-091RAQh36EUssuT66eU_o4ru_iUAPB5P51vuLoJytoRoDxgzuJLLZuKn3Jg5LYxbPddYACu0QPpOsWGAYiDgoMc3EWNFLukkvT1amW%26ch%3DAQEAEAABABQxtHuTGABTNaXdid9Y3B9R1pSIxJm1W2M.%26v%3D3%26pg%3D5GQG7TPGLVAPJIHYVDBMR5PXUQ
+.netflix.com	TRUE	/	FALSE	1804523700	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+11%3A35%3A00+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fc774286-0ea3-463d-8ea5-54f0445f24ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804523690	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSkTS38yyTJ9DbeIP89dNLNdoBi3uyxKjE.%26dt%3D1772987991799
+.netflix.com	TRUE	/	FALSE	1780763691	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780763691	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

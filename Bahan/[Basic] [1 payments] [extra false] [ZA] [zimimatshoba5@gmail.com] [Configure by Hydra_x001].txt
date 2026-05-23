@@ -1,0 +1,20 @@
+
+– Email: zimimatshoba5@gmail.com
+– Verified: false
+– Profile: likhoss
+– Plan: Basic
+– Next billing: 3 June 2026
+– Extra members: false
+– Country: ZA
+– Payments: 1 | CC (MASTERCARD 5925) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807385976	nfvdid	BQFmAAEBEPpRKg8sHpfxciBbfx9oBO9gC2deHzIOFQ-sH6HwwSaCh4ch2tKuoDcCjXI6FZQvycIi8LEYN29QQNPabXOc0xobdXa6wc3UjhvGJgMnDvVvWgcWchVU1-OjtNkhSmvfCupHOiZ9gu94ytOcxN-bXhV3
+.netflix.com	TRUE	/	TRUE	1781798732	gsid	11eb7329-0e9a-419b-834c-7cdb375a9dcd
+.netflix.com	TRUE	/	TRUE	1808419519	NetflixId	ct%3DBgjHlOvcAxKFBDDY8VyZTTohEOG6lYwDmLRKnoxcPq7LBVYDmVPYhcbjXL7EXQlAF5fO9Czaw8-ZKJhCR4SOm816CFXUqtD8gP7Ksz2MfIJiPb2a6tQxTmBvqEqauT3IGpjfzVccdSE5xvY4qmHqNZBgWE1GfJEnt_Fm4UvYu2G5xdm-rbCR5I3RnnQNDbc-r1xdCd58a_cQ5sFTeO2gdReY7ic4io_zVS3EVoRQUGlH1x7YbDWm1j1ZHCgVZRiewJ22gbXtAc6DEL9Xk3-PJ8QG7e-jtSVDzQrtQObqlwRXLULpW5VWKENfMtvRLDfD_deeTFXHY9Ilto5uOpWZNK0rAhZpxJeCp-gIwUSctfKzpCKQJFOSglCnmg2wMOHEAyLXkU32NmPMNAaQgGNCTmksAaDNSqqkrYVUUl_s-0QPmWTwA4eW01BXjloGmp1P4WnVqFwkiKPUIfoH2WHPFNE7iRGRvZInFTLFHgswMe8QVwWz5byy-NUlqpGbDTKtf9GSlbj0Xz4Vob8e8gVGfTjrYZV443cXaXvjdhA6tA5mBTW0naUrUfrkX50CUa1Xesz7tkgdbnk_V_tlC8XznmZ0Snf6TCa-nUTx0WCuWka5RBorGfUCoEC3IPbnB9P3J3ngmhy2UlaUvN7B5i316QNKB-JrHfvEHAIS2p8g84Lm5lkjt1BMv5AJ1UIe6woYBiIOCgyiESW0yCyEa_tHs9E.%26ch%3DAQEAEAABABSYqv7Y-H6L5jSmBWs8EP8gF0W7GThvbEs.%26v%3D3%26pg%3D2XWBBNKVN5HWTJ63KORBGWNENY
+.netflix.com	TRUE	/	FALSE	1808419520	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+20%3A45%3A20+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73512e4d-efde-4a89-b6eb-05a5ae6bb5af&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808419519	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1Cquh4CQ4kYv8cjEZHTZhVCyg2AoJwao.%26dt%3D1776883517298
+.netflix.com	TRUE	/	FALSE	1784659520	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784659520	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784659520	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

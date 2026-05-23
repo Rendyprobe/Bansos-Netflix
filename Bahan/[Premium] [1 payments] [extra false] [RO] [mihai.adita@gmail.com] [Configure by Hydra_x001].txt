@@ -1,0 +1,18 @@
+
+– Email: mihai.adita@gmail.com
+– Verified: false
+– Profile: Diana
+– Plan: Premium
+– Next billing: 8 iunie 2026
+– Extra members: false
+– Country: RO
+– Payments: 1 | CC (VISA 3348) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-04-13T21:43:27.707Z
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA761rPe1uA8VySFNqUJtXxwIU6x3WHDKYEhyXPoRIF6NiX91rOy6Lbx1dL9iQDr-BxKDVYRg-EB88tC1NPS-KTZVgXandlbEG7pJ2irJQ60bd-xV-6_4tEOEAfgxZThHqbVrxRQ6siXKN2EC0fRfyL__H4bhn6kyjNmahee9L9gLZ6tb9qDNtwORJ6H8gqOxhjqdbJcQMylb3mHkMTkOVa9Siwil4ehx1m1MtCzqOkDRcuDGnxKsueFUwW90CXMRxEH4xb1M6mrXarFbgyqzoKSej0deiHAisN2iWFrubXJvGd0AlS56EhJQfuAvu8QPJiocXh7Y7GYhaSbx9140ltbCpaXV3_pCC0VOsDZkVRO5qQLHuY7B4RFd19A_zFIKJDk6oPxCTqPtuc2H2ajue3joyjdqZnSBNyV7qREVIvgxMKh09CacIc87Qb89lBstkkcK2pBdgYtua7nPQBqtG3y7sITZr0DYXQylo3QVqCc390oyH84SwTEWV8KJzxbRdjbZf2DAli1eWChuXc_in7WhIdT7onQYBiIOCgzM_c66S1KJP4wc4XY.%26pg%3DHON6DZPGABDRDJJU6HMXAHKEOA%26ch%3DAQEAEAABABQf6xe7YoRMML8heilR5HLwQw846jOGqEk.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+00%3A45%3A35+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb418b6b-ed94-4e3d-97e0-6d8a83e41bef&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776116608078&AwaitingReconsent=false&intType=1&geolocation=RO%3BIF
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBELrPl0BxA7IMiwXZFCDdrcRgvy622b8r3mdgVE_UnvkMgjf9qMd7lflzL2uKstFLIlrpqq-ZEDop12GOrsDHVntgQyoMgHxpclGYIBpoBGLyBq8Dvmm58YSJbe0HmLnJ0yrkt2OOIjqQpDfPh_oK96Ge
+
+Follow: https://t.me/hydrax001

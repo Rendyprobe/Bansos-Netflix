@@ -1,0 +1,16 @@
+
+– Email: dduplessis679@gmail.com
+– Verified: false
+– Profile: Danie
+– Plan: Basic
+– Next billing: 9 juin 2026
+– Extra members: false
+– Country: ZA
+– Payments: 1 | CC (VISA 4745) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788791662	nfvdid	BQFmAAEBEEyppFJpvpNkNy-3jyz8Ijpgb7Kv6UdCHmS4R2fJT76cTYrbU8Fm4ZZHcMfIIpq3OKKiPKD18l-liyq1M1mBAn5i59QZyxvj1HhNYrR_duKScO71lJ6b5cCvkcbIa9Nf-LCSWuND7DOSayFoGidpU3os
+.netflix.com	TRUE	/	TRUE	1789023270	NetflixId	ct%3DBgjHlOvcAxLAA0sM1KVbD6wlB7TkTxvOQZWW9lntaBHAILbaTQoXYl4eadgN8yM6d5Hq-bx7sdgvGpQQGZrDFFU2WX3GY1Ehzf_vh-DMG6iU4VsKXXZ2WVlA8AvqWyJSLfr0uoEEQEufrB73CG083DFnWtXw6zYDSKH0LHSsUNPEqroyKs2rDLFXTcRH4H5yo58_RTt-_X1p4pJNktrNP2PtHOsV3_b8kUBZDsO4UPzDk6sNtozlIV_GFGPrAKnyiXiS0EbkI-XAyk_Lko0U4SbZiTKHOO_AaYYQu_4wnKSopUmwJ7D4sX3mNr9lp4WhZB3Yc6GkBtdptpUedR4vm-HEMz5VpUVdsyOjNObhMPHu6NwA2kUGAnTxvmNj0c4Xy_1LD34uuUuvImNVjyZ3eHRy4G_Y8vJQOTsyGbSNvXRsE-wHKGkHyxY381MRHIwIJgMEQ02gKK4Q3FZsrNcpn6CzSGvTNWoiUJ1Aa7qoiMFBA0pZ9iHqp2NQxxM-L-quHAq84xcT73Gzi88hs4vgheTqkxsuaHQZ3HCPAQzJw5L93lKt8MJIw6giTBsHXalh3_PXeVpGVnGOsVEBFEAfKnGCSJ60LWRuEvoYBiIOCgytnrXREDpa0btPov4.%26ch%3DAQEAEAABABShJOo5woplIP20RWra-DiB9EPWcTQLOE0.%26v%3D3%26pg%3DYH3NWMHGHZDGBNODAY6YWFOOGA
+.netflix.com	TRUE	/	FALSE	1781287143	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781287143	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

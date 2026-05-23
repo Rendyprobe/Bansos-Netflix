@@ -1,0 +1,21 @@
+
+– Email: lepetitburot@gmail.com
+– Verified: false
+– Profile: Alexis
+– Plan: Standard with ads
+– Next billing: 5 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (MASTERCARD 6762) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1793719342	OptanonAlertBoxClosed	2025-11-03T15:22:22.755Z
+.netflix.com	TRUE	/	FALSE	1793719367	nfvdid	BQFmAAEBEKH5dktoKWOLoArm_VPg9SBgAHPDEqJFKSRYe8IDHvscvooil2Y6mwwsR-qQQh1HHNI6Mvnow30dZtbl1En1CAfqOflrklttp4PRVPzMJLOXhVuxDXMPvqVoaQsHpv5czJwK02v6TWp88sg5qWFJJV0H
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	33efe830-9582-43cb-ab4b-c5e3170666c4
+.netflix.com	TRUE	/	TRUE	1799786268	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_At3cVXmJwU4siljEgZ2YTcLvYflN8Qdv7TdnDuNv_74TJNL1KTzZukHCgCVcRTVFie8kkMiLOIbu5O-rPKxXWMw6Y-08NweePNQOmg74s8y7RwbcZRGAe6rZyvxEep7Q_oBWebWBzi5hoX0iuXFri5cymbkRN5Gictt7cRn606vPfP5zvWrw1HPO9eOQNSFW4x6jdasdj3JTNljzGPhnn_ha5hoFsRcB-2KcxBnIfZoUas7zJraWAYVaefZGeMFOnXCo8q0VXqEtiFnEZsfF99J8QOfMHJ1Hj-rHqNX_P3HzJ35q4bgoyGeguI1RDGKDqrPWIeMl6e79t3pdkk0dFiaZsrqT0BwesGF5qJoSOvKMulJ-B-a2DqxAFquj6D-TttvsID0F63IITlUTcmvsxl0WL6BMKPdhHubQk-EUEjcgGdSLfhDd4-bizDdQkrPsISh69cPEPe9VB6al4lp2Q40EGuw9eX317fIJvsmw9cJvl68TgY3fJzwd9QVRJQtbGAYiDgoMbvooOLLZua-7XmHF%26pg%3DTV6EU4J7IBEJBABEWEB7QLLQVI%26ch%3DAQEAEAABABTPoeH_iD6ce0jAhjjfB770H5zY24FhM_g.
+.netflix.com	TRUE	/	FALSE	1799786268	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+21%3A37%3A48+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=abbdee54-6cc5-4822-8ec4-186e4b654550&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ
+.netflix.com	TRUE	/	TRUE	1799786268	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0GJkLoJrNv72E2nbsurmgikj-SmFY_1I.%26dt%3D1768250268896
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

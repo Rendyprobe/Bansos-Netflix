@@ -1,0 +1,19 @@
+
+– Email: purwanti_arijanto@yahoo.com
+– Verified: false
+– Profile: Pandji
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: ID
+– Payments: 1 | TELKOM_INDONESIA_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800243809	nfvdid	BQFmAAEBEPimNstZkSfM0IH__E1Jb8NgW4icBqspGJxNHRi1LaEZa0iN40zhCAsCdTjhKAjzjHd5CphiM0pcJme4DeWgEszuecGKnA1rzhOhYBOvt4KkpxmBZcSkhcm4ELblTEcgWAxuPfXygsprXbdYZd50xc0s
+.netflix.com	TRUE	/	TRUE	1809652002	NetflixId	ct%3DBgjHlOvcAxLoA6I2yeImW8VyK6khMM7WyZR9e5K5iFfGraagHnMjE2aIrZoDg0eESScx2ZvwYT7kknVrKhG5H_DB4dH24nUDwCTcJm6TTv0jSwSt7f_prSAP7QYKuBxV86DQmcyiFaTlkruSmQ9wWyxOlGnaeRz2FsA56ylnMxieW7VJLJoQyrc7FyTa-2F1MxlzGs_876AtqdFaVv1Gqk7Lk-PA4EBXC4_79nQUPd9devrIuRF1a4sB7p3Nt2ffY75gub_PPd2H_vkNc7OrXbmCeKnB6AImbumZ9daBsgBSS4w-90_a3O25DB4crEJ1QJtqjva0MgV1AH6mCGR04Pfx3IsNKG-U12GYZVP2P3A0gZot3mly5IfcS6_9g-Npwfw50C5Qc1hz2Ajr1c9P2KkPPTd_t4X82Zo80GmSPtgD5WBQAvMCRAGFdxqe4dOcChICl1FAIzBKYqkZlPdEk0-5ZPw9MmaKSPetfngGhx9m_Q00wvjovJkN-fIZ83rlTaWd4UScFZ0U2dIyUuHIv6Ngzd71aiPQE3N33EYDDmPSrD2LhWTcVhNEZLnMMutceTM8sbBUoFgPnP-uJ3vM766jB1Zv23-nHHPCKI6cp0cR3itZdAlu5acI1k3ihJrg0VemipcG-knzYDT0teefcIdKGAYiDgoMHjjnVPIpMoQU5ouZ%26ch%3DAQEAEAABABTks62fRpnt0K8Eer8UzCulYcOhKssHz3Q.%26v%3D3%26pg%3DERKAGFSZX5FT3EWUSLWKISRZYA
+.netflix.com	TRUE	/	FALSE	1809652003	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+08%3A06%3A43+GMT%2B0700+(Indochina+Time)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=a4ae7107-6856-4e9c-a8e2-2c8559ae3c53&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809652002	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTezYjTZLNi9XJzz08I_l9ipx-JeqtxtbM.%26dt%3D1778116000668
+.netflix.com	TRUE	/	FALSE	1785892002	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785892002	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785892002	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

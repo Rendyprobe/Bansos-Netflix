@@ -1,0 +1,19 @@
+
+– Verified: false
+– Profile: Felipe
+– Plan: Standard
+– Next billing: 4 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4797) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802558770	OptanonAlertBoxClosed	2026-02-13T22:46:10.106Z
+.netflix.com	TRUE	/	FALSE	1802558786	nfvdid	BQFmAAEBEOVgI3lylE51O5FqGs01dItgQCsgbpcljBH4vpyKtT7CE9pSty4HyUX3c3vUpZyt6GLwDHPj5jh0yDudAYsA-2oT7mH2xDro3K0Qd6unR9FYcJv91KBrPeeTapiOwThldp6uwzZrSn9gSbC49Tdy1WA6
+.netflix.com	TRUE	/	FALSE	1807328022	dsca	customer
+.netflix.com	TRUE	/	TRUE	1806703645	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA6ZcCoqgHDzttC-Iimdm4brYiHzRqWga0Q31BkCgzBpVAm2xyN4PNNSfHTOoF5k1dGIVWqkmqtaz7UdujGBBA1ai_jNJ23tXf0CE-ORcdeBiLXoGmKq-WgaJVjIkgt6CavkFgndRXhnOSyquoTiGH7pyW6BcmQVcFwgh3RkRJvrEbzNx_QQxVK8rUOfdUxjk_NDw5pOPsbDoiIkQO7oFGzbObzoSiyOnf57Bfd-38_5JK8sqXQWwxdvljYs4EUSLKW8BWeA3AKrZ4T7JwvpCvQ6E2-F2zdw2GGLdxWolAqsTqtZZ3Or_75hTsn1VISDk-GPT8LLqiTAPCQlqyRKtMwB-Ig_NE_ZBt1D9P6mkYodhlz1XlsEVEWex-yLaHFsar52inVxDacHaCeCtsqxuH5aYwiMVL2paHHmjPSDuHNpNPP7sglsxSm0LoqfwEUyGUvtt0BI8fSbaoQpmLBAtCdyvvqTQnK7bcfcYYdvrwxM9Z_Bh9eNFILmhFgw9Ev2yq-uRdMB6RNR5cPta_ru-Zlw8o2z_wMWAxB49GAYiDgoMXgwWln8iv_zav4yF%26pg%3DJXKCQNXLTNBRHCEBWDDMZDTYQQ%26ch%3DAQEAEAABABRmB1rIfUi2fil_PBgWnc66sTXsk9GZzvg.
+.netflix.com	TRUE	/	FALSE	1806703652	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+19%3A07%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88fa4d38-e03f-4447-9fe4-433ee4674a77&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771022017909&geolocation=BR%3BPB&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806703645	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8_jJf2HqCoO-pd4tpocZagA1EuiyXkxo.%26dt%3D1775167668556
+.netflix.com	TRUE	/	FALSE	1782943646	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782943646	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: vedeshrio@gmail.com
+– Verified: false
+– Profile: Veduuu🫶🏻
+– Plan: Basic
+– Next billing: 24 de maio de 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 6***@pthdfc) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	036b2d75-dfc2-42fc-8f7d-180d448d966d
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	a35f8060-8131-4f1d-b30e-0130e9aebee4
+.netflix.com	TRUE	/	TRUE	1805254908	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKOA_hiLGN6gSVIKHgJs4GgCkoZFbWpa-BvSxbUvjVPMWfgJBza0oz80oCoOPTWxupvXcFY9cZhVDS9-X1uDzNBaKkO9G4uvohJ56q2f2ElhRp6QtnAmjcAj-w9BqTlH8ghEBk4RGNDmYprgiqXJ7fF_LFzhuNk6DsWmRTVbxYLMRscnbVns2fRgGKVoJntf54Cgz3m7B0EzTemOPICjCCbDTM7YkqkxA8ujKw2znfy7Kh2UH8JTU7x5a06fRi2Eoc66ttf-PARQ46fN6xZC-NiFOoqFNAyWSsuGcDVo0zPScSmKZIn1fe2HUlPyNjsgk_8blMYo_V6vYfB4lZ2PdXd5nAyFObjWF6cd758pLhWsOE1il4CrfOgqJgNU_bFJll0cq4u97C02JiAM3bad_0IPLiN81XJM1A-uj23uryCuoPSfDpcrO-ZdH7RNSn00DJ32OX6McYsFP8UqCQC0s8etanR7C1uG7NymJtj9wkor9ds13TilcuxFxH6ohv3bPytp3ij13PbRn0DIl3QG_8tGAYiDgoMU5hlCKlOfOw03sLw%26pg%3DEJMQQP5S5JAU3MH6YGTFJ2RXPA%26ch%3DAQEAEAABABTXm0CR5LhQQNFEsgEr82FrPCLn5-ScyxI.
+.netflix.com	TRUE	/	FALSE	1805254909	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+09%3A11%3A49+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d8886ed-970a-4486-beeb-3cc62c05d345&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773718908472&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805254908	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDCwZDz1JTISoUXnR5yfdknT0-IDqrG_8.%26dt%3D1773718908324
+.netflix.com	TRUE	/	FALSE	1805254908	nfvdid	BQFmAAEBEL0WlRsyKIQ3t_bkBJWVftpgMSNxMFdqZtD8L12Ih5Wy7_NOWUVodNkebdD6eCUnoLc1QIzkzvMOl7wCJzQ3oEiuOmTaIHErVe25xFxZwLrJcz5Wg2-ahSYHhdaKI-Inm46bwHnokkDEZ0ekKKe22ApF
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

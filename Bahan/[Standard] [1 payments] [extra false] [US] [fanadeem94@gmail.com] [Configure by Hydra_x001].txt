@@ -1,0 +1,22 @@
+
+– Email: fanadeem94@gmail.com
+– Verified: false
+– Profile: Faraaz
+– Plan: Standard
+– Next billing: June 20, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (AMEX 4006) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	bcb0cf84-0bba-4255-906a-a2d498da7db6
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	31a193c2-4090-4539-8bf6-8fe328c95cc5
+.netflix.com	TRUE	/	FALSE	1797734371	OptanonAlertBoxClosed	2025-12-20T02:39:31.661Z
+.netflix.com	TRUE	/	FALSE	1797734374	nfvdid	BQFmAAEBEHnZYjlH6kg5nj-exKrxO9pgR8ShnKDN7pQ_yr7qPdwFx_wtCx-PmK8lvfbTS7RQL39_Ed96g7Qk7ptYKGed7L688lUv-9WFEeoyFmAIyMr84xuvC12hGS6MzRgZJq_mMhX9yxNRAFI9NuzMQd_-dOQB
+.netflix.com	TRUE	/	TRUE	1797734377	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYVn86QvZPQipg5_g12T7nl0fRPkgXlos.%26dt%3D1766198375112
+.netflix.com	TRUE	/	TRUE	1797734377	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AtTtqIDR_bqqoWTVDA0jcVAv9Ltbhk7VCOKTCwLq4k4gRjh974XBOyWGZHsVH2PFMydAk5HJ35mDM7BzgaVqi1sTEI8YSxKwloS1Gv94-UCPbS3hw0i7wBpDzi4OZXKhpUSxtIatH5_IX9RIeg8NvjwXYa23y3Fx3lCTMbwOzSv9cN4nfAsI5sRkjeYO--VKHSznLnZQHZnO0IhukkwhqlpOHH-cc9YOYyKuWTrmVkbVTDAcM-MAXozYYcwFtFE1heZWa1VxHVBX7LFdrir8q9QFfvCnViuCCNynkiLrK62Ly9sJ9Z8RN8FKaNX21R7alZQJmNsBSJua7BtqAVi_Eko-bjZJBoAi70Y_pv86XsKZo1bDh8kvW7ZaLniNkCQrktASES9AztvRysWpLPUkbb_1dSP4M-ULGCT1yxnoro0oRooBz74C08mVcSROA-oT85Ud8OXlKINSbuhE6qe1p1QarV-WrbS-iOGI1sYewYkisbYyZcsN7ijGCP6ffRgGIg4KDK9MPv3PQDAUhGNMIw..%26pg%3DQKS34KG7KVFYDA7WCKQOTPOF5U%26ch%3DAQEAEAABABTzAbVlAG0UliUKewS5dFBOz9zKiTM077o.
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1797735804	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+19%3A03%3A24+GMT-0800+(Pacific+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e718c16f-d4a5-4e60-99b4-d005121692d2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BBC&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

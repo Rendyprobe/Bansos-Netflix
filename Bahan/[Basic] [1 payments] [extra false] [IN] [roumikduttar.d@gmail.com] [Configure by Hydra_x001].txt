@@ -1,0 +1,18 @@
+
+– Email: roumikduttar.d@gmail.com
+– Verified: false
+– Profile: Roumik\x20Dutta\x20R.D
+– Plan: Basic
+– Next billing: 
+– Extra members: false
+– Country: IN
+– Payments: 1 | RELIANCE_JIO_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804245920	nfvdid	BQFmAAEBEMh2VQ5LeSYCCoRJMgrE74VgPWhIlVgtXIY3pqIMIT46pc9lTcrw7OBKof6XFv0ldOZfvHoOzIKHi5bP5L3HfrGYK0yucGdKjhG4WUxsNIJ987ATHn2HMWbylfM8gnGEelVoYWm9rs4Zwc5DE7_S_epw
+.netflix.com	TRUE	/	TRUE	1805891406	NetflixId	ct%3DBgjHlOvcAxKOBKbc7yN8bwlE3Ca8PBrwZAvbozY3fULbeapWPP20j4zhnSfBSQZky1CTUEypqWdvAY4e8uVQvToxMbmN5m0OSnGXdjNKyvy-VL5MCxYNPWi_NdD1Cv1m_StWyIQ7P1fEZbMNdut-5GLL_nlJnv6-DRRER7PppkZJMcCEZyI7rZ8FlzVFtSKLE3P3rWBlYhpM_pYZu7AkyDQFEepmD6h47uJXHiCds_bO3muYZT8UlZhx0ejZhyJojHwcBDXWUgjjgGHpzaEvjJIijedkAxPM7hT70LyTcvgto_jz09zvvNrORLK6wcmCdwaEUoWimRc1Y3xW8u2vfTCYCyet3MhzKkTS3R-K91dm6JBM4ACxCCi1vv2k8xUhWCSa3AYoP_8J6xuRg7BTbLk_F79ek9jtts8sdXyDCuuUnBroG2UNo2zKg9Jc1c0h73qgdbcZ6Hv2QMo1k_hbQ9I9ITtyiZonJIe_J-J97Tve7kLublPdBa79p4aAl2CUu3Otz20nWnBcXo5LSk2OrgndhksLP9o0l1O4pHqtPahtKVxqgF9Y55-PxuyLmKCiwEa1By6RoARFgf_p-aoxkt9GjxJV7o3V7DqYiN5BMMksE52lpWyWbCj7Llf_Vm58KGzQ5eNVkVtKVlqZvd2CoAAn7CawYHeHigTVcjrZUCsmD1zKJnoIgaNdYxWQgxe5RDOmO0FzcyYYBiIOCgzxrklptTTkH4fnwOA.%26ch%3DAQEAEAABABQfbL-F6Imv_4IEE28IgfGq1yp5qJtYjkg.%26v%3D3%26pg%3DUMHV2DNPLJFRDIQSM6SDTYMWY4
+.netflix.com	TRUE	/	TRUE	1805891406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRAfTvvQAHF_DU99rAc9IiI_p0u7iZO1HE.%26dt%3D1774355406712
+.netflix.com	TRUE	/	FALSE	1805907785	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+22%3A33%3A05+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06a98b42-6038-4e26-b4d8-dace3408ee39&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782147784	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782147784	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

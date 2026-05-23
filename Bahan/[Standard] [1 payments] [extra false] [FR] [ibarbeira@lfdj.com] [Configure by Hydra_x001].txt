@@ -1,0 +1,20 @@
+
+– Email: ibarbeira@lfdj.com
+– Verified: false
+– Profile: Lulu
+– Plan: Standard
+– Next billing: 5 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (MASTERCARD 7353) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEARX8BlhiFXv1Oht25Y_IjVg1WtWZkzJ2OmT-c2AZiheJf41uYtyKmCv2-eyhmkS0AYAcTZCXRwluaoJobyUAf2r1JmogTot-mZojlQF1LhVSEgcHVbTV-o5Ruq3NdRqoZyLvH8G2apuwvn8CoUFGXbu
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxKgA5wmdBjM3HjDVsBelOqOoFcYlHEas5MfBzfkHtziW-9yFMxctWGLiI3U00HoDrOOCuP3sFYZuHKQ0Jkwh-toHhDe2gfts_hKF2-B5JnkNXH4F7SlAIw1o_7vmGh_FHBkmtaOfvsq28yf4WJOZ8rUnI3e1VVzrvMPyuluxHzSWnXVnRJr1JefrIBXBNI-Vv2iqZfXaGcEEADvuhgifNZABZvKq-awhUkheqej2iaJMQFEIPD8FW5q_nzhDp-_17J2V80WXz7L3Aez-1I2FRQR6x2XDhcbd3y4IKp-2nKLMO2bSS2YkhbpAbfUWCwJJaVNs9V0pr0izuqIjnppmpGO4WB29ijzE6XCZ3Sl3E6xSff3mnkCA3Cbg3475U6YlGRASnU7lGxbNVsgPCdq1xafivo7kGU-mC40aue077xnv0M23qTh35NdC-BAI7dgXnjmYZl3IJYWDgdeA2bpbbK5oZDkWYnM5oBMWv9a6hhINyA_bz4h2AFF83SzH9wwnnrixXGD7s1rkbpMJkxRsiyoKGySEfg_9-GK9Estj44MfXRiGAYiDgoMgi53wufgFZYEOIkJ%26ch%3DAQEAEAABABRyBQn7-Aasf-ojPsE_HPmbTqh80ujk-Hw.%26v%3D3%26pg%3DPNDYARXCUVA7NIUKMSALOHGZAY
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2025-12-29T19:16:52.346Z
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuJVokbuj9eCoh29xsd6C3-apZC6PzfjE.%26dt%3D1767035796440
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+29+2025+21%3A37%3A57+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ddea0829-8639-4892-b836-3a42765ca9cb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	FALSE	1781829575	dsca	true
+
+Follow: https://t.me/hydrax001

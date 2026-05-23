@@ -1,0 +1,19 @@
+
+– Email: carmenanido.dosil@gmail.com
+– Verified: false
+– Profile: Carmen
+– Plan: Standard with ads
+– Next billing: 24 de mayo de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | PAYPAL ( fe***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEAyAOzJrdGmdqAGuXn2n4ex6NJfuvo5IPySd1ZKXklm6XVYoSAHjZ1T7BhXQWiyWWuLqVfvAu-2dTKaJe6rJByXKivCMqQchea85kMX8M_NOkkrxFWgOdWYmcPT_naZC7srMr9ABm5eHfqHW_YYEDugw5FdxJDoGnpvv_b-naJwLdZbYBY1rXITD7vEbsa7StODUBHDgJ_g9TMXOpbph6lIhpmQUhHJjqJ4nHN4kfPDHkh9_hG_riLO1OGXfo20R8G4l48Z4AX3bHyI0TG_6y2V3JHd2kbBfiNLLHeUdmbNwXKzOnLiNZvNmBCX67w0GR0Vdq3ra_jFhYCl3CJ_7a-i3VCyNHsBeWh1fEHAqFHnkKGYCcrqvCC7Tms8wQQtDf0mon2FHE0LvflcYTvcropEsrI_VNtoo504Sbx3p4ByechmNpm5-CO2FgQ-VUiKHtCd0o2lNjagxbLWlZqLDLnY--nbUun-82IlpfPWn4ZmTXIUK1bnkRdWmHMnfXaDuvfB_n3_kYBiIOCgw-0eea8_L9NlVDNK0.%26pg%3DX5SLPW6YCZB7NH3HD56PQQ2ZJ4%26ch%3DAQEAEAABABSO1nicDPowiFNs4r9qSvlAw9wLAT7Ohss.
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-3qqJXzeWMjXOgMxsE-Dg5jyvW1UoAIk.%26dt%3D1766601319335
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	90294e1a-cdc0-48a2-afc4-b3a21ff30f95
+.netflix.com	FALSE	/	FALSE	1781798731	nfvdid	BQFmAAEBEJm4Lv_l61hjFhEV5h3MaiNg4swsnt8ap6nxGGDdTo6Yoz0Dlqe65Mn0FvN6g89ZUGJs67kUsxWkm6SWC_aIPjSRoNkUKBu3sQRvBiam48NcTRxHmw2xwUTbqncf4kwuUnhRuCGJm8Ya-hjpbKl4kxrr
+.netflix.com	FALSE	/	FALSE	1781798731	flwssn	cc6a1b1e-8de7-42ae-947e-042dd05d0f4f
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

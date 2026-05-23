@@ -1,0 +1,22 @@
+
+– Email: m.caroline.santos2016@bol.com.br
+– Verified: false
+– Profile: Visitante
+– Plan: Standard
+– Next billing: 21 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5197) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807482709	OptanonAlertBoxClosed	2026-04-11T22:31:49.960Z
+.netflix.com	TRUE	/	FALSE	1807482867	nfvdid	BQFmAAEBEGBAd2QNQLVhjQPZgWaFtEZgvvG-JsTWOwbg4cSH6uI6Ct3g2RGWDreADG2tX6-4dqBx7bq_hfTKdC_h1Ax1PP8MCpNa59XEtN7ix7RML0hi3r5NDalTFCsJC8UAEkgG7ErcgrUnwSW-S_WpFfx-3ZTS
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	68ef3a2f-d872-4688-a2db-5a960c0dd6dd
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	c0759550-408d-43ef-bef7-ca03c12b83e3
+.netflix.com	TRUE	/	TRUE	1809874731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9esBJ-dVIJ-jWbnmw18zmI8NxnEnfBlU.%26dt%3D1778338732327
+.netflix.com	TRUE	/	TRUE	1809874731	NetflixId	ct%3DBgjHlOvcAxKzA2AbWeWf0akwUPmvh0cBX9d_XKg1TLrVqy7x1lPy3IB17pO01EYCJcgbTjXBs-gIF1YMAFXWeXHa0VCAnxbQwynSZsUTNu7oYAo6OVgul6DeY-Rxzbv5NtZn7oWzsB_GJZnLV0qKITkXxAWQ5CYvOAt45zea1Ej-eTJ10XpoAoY16mfAO1qWrWmpbApDvL_yoN5rsoNGvT3nxfsll2V5THCr7unruF4dACy6sooBFku8wqjjnlfVhXF-UYJB_Kubq4azGwL1UHxriqt_5hxwtVE6qXdOWZbEGYsbFw_C3pEDWVyNCPIqnko0uXdmExkirGf6OqHXAcvHZGnSjJClUKNHLO8odngN0s7B7GQeUB2nocs_acvLSWs4VfUyp0RmaLA8f-NKdSDx-srB4tEES9XvJZhVZZ-lS-aMvGt8LzZmzgySnL1u6tOqCmk9Dtl3AKwWYGSWzVo2qvMinT4kyY0McGKntV6tlaM9fazoi8Is5LrXuOWdlbpIOzCvsT-IjRKpinfmBMRufX3fEHr063BFfE1MDe1th80IgIycCOzJMkg341jYTg7agthDil-FIfHDhhgGIg4KDPnw3iHJmVqN4OoX_Q..%26ch%3DAQEAEAABABRWXlr7nfB-YhzST3GTiVaLeiLJWNR69dk.%26v%3D3%26pg%3D24X227TUHJGTNB4JSOCIKLK4TY
+.netflix.com	TRUE	/	FALSE	1786135027	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786135027	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809895028	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+17%3A37%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7decee53-cf34-4bc5-b48c-d9adf0d810b0&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775946630770&geolocation=BR%3BBA&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

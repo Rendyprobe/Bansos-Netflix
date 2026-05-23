@@ -1,0 +1,19 @@
+
+– Email: vicentecensi@gmail.com
+– Verified: false
+– Profile: Yan
+– Plan: Standard
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 2488) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788561037	nfvdid	BQFmAAEBEAmJaDlblu1zo3cZhqVcpFtgXLzVNx79dLannduz6-Bo7Onrfnz-QOUHu-zZW31yP21fn4Pyat4sKlrlLTjGSaTfuoneXsIlfMT55AVxPrpzICZD2Bg9OBzJBnK81YNAeUPsbdF-iLszVDRhhP2qJtKb
+.netflix.com	TRUE	/	TRUE	1793582560	NetflixId	ct%3DBgjHlOvcAxLlA3b9dZqqxK2kGFK-JJrFhAuiN1vLBvbCEcMn0c0DfhOnGMHC1oFQdOgDZwHIhxxQFt26tD-RRa6gmEpQVYB25CzoJA3Pumn0tfU6ltWeztDyyHP_VTd0SbJgmXnMgKXE5o1tgOOW_YkMQuspl9df7VLVp3Xly8gC6Hug3Xa_FP1gwtXPuDr9s32x-wqj49zvQEe1lbYNGT62icIbtG4xb6uLICG0xc8SNvm5RfMoRxjMQoQrqxEmtqX28hYhW24-m-MlBy0g8c9NZlZH56CxxXGusFPNgUiClDP_0f1-Jnq3Io3Tw2MUZfxzt-7DK6gi1teRD-GUo-StmoQm4_Glaw5m8IZ-5-08F9MTf4TXdj10u8Ya6z_4T0jdp9fy5TaEZMk5wit_8SI1UtLfBY4CJx6KbcgaydS103V92NszGFx0ekbTR3b48THmeuoZYpR1R1krV-NSNXJ9cJZM1mNu9Sm4jvY5NJbrjyXL8NgAh7sq0zq5FfM_RoSULPYo_Q-wMYnpBl2Uq8L3PlLq6pB2Er1IpnoqY0ELPc8uclaT7iFlnOorbKC4urCQwMx63-48y08ToF-wUH5H85faQ_utrbH3iEJEh4N6eZd4C2GDvD7QnjA6dZ1hfA32d3eIURjj-x0ViYLHGAYiDgoMpR758kw3IoeN8fRb%26ch%3DAQEAEAABABQfupUEiqHcRSfSil6r6RH6suge6Ubq_N8.%26v%3D3%26pg%3DE63LDLBJZNERJFPHCJSYYQA6PE
+.netflix.com	TRUE	/	TRUE	1793582560	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLAP1Wor7D9xwTNSYR1BKoIFDsfAkFotc.%26dt%3D1778030558652
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	b8f3d1de-978d-472d-b7cf-641af90ef8b7
+.netflix.com	TRUE	/	FALSE	1785806560	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785806560	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

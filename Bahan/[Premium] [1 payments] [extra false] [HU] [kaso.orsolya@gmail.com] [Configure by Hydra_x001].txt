@@ -1,0 +1,20 @@
+
+– Email: kaso.orsolya@gmail.com
+– Verified: false
+– Profile: Gergő
+– Plan: Premium
+– Next billing: 2026. június 17.
+– Extra members: false
+– Country: HU
+– Payments: 1 | CC (MASTERCARD 0755) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2026-01-17T15:02:29.175Z
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEJLp_RF_TCB49MLe_U4ncMZg8COqZuezMIRl2Y2fNEOM-BzBby4ujC0IXCFjfr4p1e9qMwNG3Uf5b2F4z4r1NLSNz9EPdcepP1gXwEnxZtS1j18Qlim4BjIB3ZLB3oRoZtQhMZtUkE-7vKlYrsvSpoYE
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxLlA_vnoGVWtt2K8lj01c8Lne0krnuTobJWQ86VEx0hndXyfuuxSLCddv3kANJdZd3CCf7Q3N7YWl_v0TjAgMV4pcr9oNBt0PAm3kILQnmkOXyrlU3jdcp7lNBVhg_5jBKbKC06v4hPw3nn3pWRlPv0LEwtRshQU_3Wgppye2ljYGfolIWAYrTR5RF-rGhC0esEbOriOpxoPFET5ap8IqQkGOuDcJiETzdohHSa5-5v-bkHIEiddt7LEls5CVcFSOz45mX3wfIhZev4D01K9_S7xO7y8KrynIIUal2hWm4wT0OT9LyLdF9jI5mWhhXtSvqCzj3h3SIcnqMoyi0_hCozDwk3QOKlLehyjEJ4QKIYYJbq6Omt8LI9eZ_ckyCSR3wF3bVzftUJKHbeROVPYdpumbeuvQuOY-DnzHLNA4_IKcY18P-nleZdAnHVy0-1MBJd-eZWk0f4red1BdGXH8PYU9jFS0J3D7E6cl4FWUR2KW37Lrms6GJ1IFIx0e3SNfbey87UHhtlThZ9D_97chszfjaiSblPBC76rkAdkSJP_jqXII8puJBkqP192JHcs-8xJsmzHiDVcTKyehdde0fcc64LystboKnmBVSo2tbGwR1Vm26KIW7p42Ax0MSYRg-wnfXr6HZvGAYiDgoMFOcEKVPWjvF0v69N%26ch%3DAQEAEAABABQso2u_OzuOosfAo_1hg1CTX_zoCANzT3A.%26v%3D3%26pg%3DPJ5BRCJVW5EWDEX7EUYJPNE3K4
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1R919_Dnmq90EsXYUwiIe3gt8Nze5sCQ.%26dt%3D1770708825011
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+18%3A52%3A33+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8859e11-3756-47a7-b707-8e9cda805b48&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768662149623&geolocation=HU%3BFE&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	ab860313-a10c-4feb-97ab-fc463d558a15
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

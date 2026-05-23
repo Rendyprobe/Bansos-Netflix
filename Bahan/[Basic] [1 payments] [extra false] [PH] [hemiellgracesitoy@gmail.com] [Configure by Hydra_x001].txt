@@ -1,0 +1,18 @@
+
+– Email: hemiellgracesitoy@gmail.com
+– Verified: false
+– Profile: shanyuh
+– Plan: Basic
+– Next billing: June 20, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****86571) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805180577	nfvdid	BQFmAAEBEE0-TWwOMtjXis0Q1DVDJuJg6B6UJku5ihr0eYx__Ihg5ZlyJBlSfGOc1MzdEpLRM7GuCeB-GifX7mVNaqS9wQq0UpcZkRn660p_4UxJMJqnv7SDJzmY-1s0WfIx7RtllCjkXJ1vTAy2EvZdlEOBpDhl
+.netflix.com	TRUE	/	TRUE	1805856684	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWAylUSTaJpyr4ZPdUHecgN2-7n0wwgKiMQPO0b60OII_LZ3Y1Fq_rcQ5Bva5HgeZ-0s65SuNZK8L4XMmekPDgQGnYkhHNuMH2k56g8OG88WFGlLRXZ7fpXzyBOG4KgZpej_PWn1rheKfAH6KJDca_lmM0lOn2_fXHUswB5yURbUD5_ybvgd4WoItLYb8zCugwslRYJHeklyTlSio8DP2sXpH09ZVPtnXLMqQ2_Ywk5NZf28DWXmvWuXik_r83glwVVprQGRes47Rwk55moihVwzG5Q573q6dNm61D-otgR8cGWaDWC4rh04ui8y2EaP0dZvSz1j09jSIxhzP_fsJFTBzhN3LuCNxkYPkNw9W0YvfzmNXRgXc-ughYttH2OY1kBd8j6MTTBJTXDoxnq40SwmSVS3D0HlZx0fMQ1onTdZ6KBkFsp7551gurrDEgz6YzP00XLZushhiMhzlIsR-VtbnI55HfHaiTkthbHWpwkDYs8zdexMr8LitsZtmw7YCrQNaps4Cn6JxtPecB1mmz6BkGpx_5_rwYBiIOCgxZftl5rLDrdE2datw.%26pg%3D2EJ4KKAEFZBPDIWWHMNVSTMBNQ%26ch%3DAQEAEAABABQSuM_qJJDeWduIT8J5Ig9ZYeOp1-SvApY.
+.netflix.com	TRUE	/	TRUE	1805856684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVml5okgPxuywOhQqN1ak0klVGQ_VcX_o.%26dt%3D1774320675162
+.netflix.com	TRUE	/	FALSE	1805858378	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+11%3A19%3A38+GMT%2B0800+(Philippine+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=99482c8c-fecc-42bb-b050-12f0155edc67&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	FALSE	1782098377	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782098377	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: adilhakim2323@gmail.com
+– Verified: false
+– Profile: adilhakim2323
+– Plan: Basic
+– Next billing: May 31, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********9612) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806467336	nfvdid	BQFmAAEBEMwfA95yCKaLAFRZ4inpWzVgfXfpaqW-OYGYFJjVXFAnGKthcHbqJpKZwwzLxh6a54Yw5li03TZUq0ajNIubRYTD63m3xlpw9imrNkc8B63lzuzhogV-F4HmQ_1JjHKqbgStalWKjwG2ykepBqp5Bc-S
+.netflix.com	TRUE	/	TRUE	1809064062	NetflixId	ct%3DBgjHlOvcAxKHBIq4lM6fdrsqeAZNxufMC4WS4r6bVdPol7WgquZ1KOYm29CMHV2fqtScYXcaBqeOkUwMm6jc14p4j1gR623R0yrv2XHhDOw_5Z_qRa8WlRX6MBi746bs9-QAjKsQ2TGtQPkxwjctBQxos3igmTlh47oFmspGXt2Sf_euknTHYsJkQPx-YdjHntB9IgtFE3mfJNJaiNq3K4YYW8k4c1miVwUzhVjMgm7IRDujCFnUAzNduzbzTP_E3JlZzqyp8cfsXLClKerZtpcI8eRklkdcJY9S82kc7Ex7Gwkm_ljaKZaVqDJAb2PnkfSS1gaX2AbCT6mQcecCGFn9BqU6Tan57iaouVLX_gIzNL2IJyfO3QJzcQSC3maWlLCS-INxuOkMMlPggL1KYqRuW1el7e13_SD_Z1rAqlcbFIua_abU9LPceT9uEpjmZsUmeEdNkLAtMrZPQtsfwSus4lwHEYnRzQ3eMzn4ERXtNeumLFCv7rj77-SsUWVxh-n2D2aKcsomBvUp3lrQQYSvi8l-BqmI3XB5qILGlktf8srORBW7t8wkegoc7_T8Zwz2FYq21KXE466FMHaVMHjUcproUM95GfDYG_w6KwHWeMwAlciZzV8sIFtFgsZYL0kB9_AxnmyrtYn2ReouLbcjVW9o9FlsmM3XnFDczDEhHlGLozJGxqjUNk9lI_fkGRgGIg4KDP8txpFPzBWGATN85Q..%26ch%3DAQEAEAABABRFK-leOj4Ak9D4LK2KIF3aFQ1bQw1bTBY.%26v%3D3%26pg%3DM6DPKDZQC5CK7N6AXVNYLGZCAY
+.netflix.com	TRUE	/	FALSE	1809064065	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+12%3A47%3A45+GMT%2B0700+(Waktu+Indochina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f15b8aa-d520-450c-8ffe-7c44b4a65fdc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809064062	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_i7Y47931lJLwORz5KEcbQ7hIB-oXYQI.%26dt%3D1777528060539
+.netflix.com	TRUE	/	FALSE	1785304062	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785304062	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785304062	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

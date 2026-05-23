@@ -1,0 +1,21 @@
+
+– Email: la.francesca@hotmail.com
+– Verified: false
+– Profile: Adults
+– Plan: Standard
+– Next billing: 24 May 2026
+– Extra members: false
+– Country: AU
+– Payments: 1 | CC (VISA 1823) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805446566	nfvdid	BQFmAAEBELjfluDmAnUJNHxLHnTKTFFgLLiC0HUnMV8BTSJv_N8A7FxZBSN0iiJNssslPBoYgYXuZsUmpsLnHFrWtjcyTeyIH6fWgwo0E4bYyhJe7pJJ57No9JijTd39l4gv3UAqTW9O73dRkk26XjsLL4dDZAve
+.netflix.com	TRUE	/	TRUE	1806787207	NetflixId	ct%3DBgjHlOvcAxK0Ayw0ICQjIX2cw5bSMRLu-7XHfLU094lXpaNI7Ls6gX836GmV-5c7vZDFzvU7ENIua220sy_zwSB8WhGkDSTjzvam2PPTg7CQz7EbTp4JkOjO4_Lpu877YDKPNn21vG_ZUDTvnFzN318iQ5ecFy0EMvAy6siM6qKel3gaGd8foSOvoNztO31zmvLgkt9u9pCSAgi3UpzxoxjQWlt5WOTHJZXbxo4PbmN2ncOuF_LT04R-82quTKgmeeUs0ayzdz7yX9RNz9HqLfn1KJmmrWVp9r744ijdjQwjwco5rzy6VOY1d6g6dpU0XBYrfPHBtaAT0FxKDVEJkHNVLzXi5f2GUf2Sd_eP2hSRb56nfEXC3k1C8bOjwrNb9MMuvar3YCJntqrEDBWnZcaDC5jOUp8CzrSMGE-3uXHVZ9l39p_WdUeGCRtopxScx-mWWP-7Q_Zn9CQUaFUPNMH94xAfKWgCStSZvMY50t4AcHYU_pKmpztypyhMHNIoNxZQ_F6qcSwzwsk3wc9E9pxQ38BHkS7I4NfalhXw5WcYrmnQgS6PnYp6v5EdjBXDP2Q_9kok3uHXdiOVBXkYBiIOCgx-M0e7qYfoDFhlpAA.%26ch%3DAQEAEAABABR3aVI_8yWRO3_vz2EKub5BYeHvLjNVeLA.%26v%3D3%26pg%3DZAIQFTIR65BXPIHBVJFE6R7LIA
+.netflix.com	TRUE	/	FALSE	1806787207	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+08%3A20%3A07+GMT%2B1100+(Australian+Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa77c4af-4b6d-4662-b131-29d1eb5a87b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773910492488&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806787207	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBjHl8AgIQEik94zDyChpbIhv6G_1s7fU.%26dt%3D1775251207477
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	3fd9404e-fb5a-4ca4-8fc3-a69f124a57f0
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	5fbe6a8b-9397-4170-acbc-6b51a4ce4289
+.netflix.com	TRUE	/	FALSE	1783027207	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783027207	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

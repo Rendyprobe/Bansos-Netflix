@@ -1,0 +1,19 @@
+
+– Email: ricawasingan49@gmail.com
+– Verified: false
+– Profile: Mars
+– Plan: Standard
+– Next billing: May 28, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (MAYA ***7532) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798609007	nfvdid	BQFmAAEBEEP3rydDrKKhGhRwWqEg0ntgrHpvPM_hKJzuoqEa6rgdh5SSdRZQyLF8ON2MLvKDpPbNhjgwZCUDXM5mA2m9YCoAskw3bPyl8mNXXBHUOnV4lyXUtY9yEc49WhLlyP-G1RRHa12RgTnWD_1bufqKJtW5
+.netflix.com	TRUE	/	TRUE	1807923818	NetflixId	ct%3DBgjHlOvcAxKCBFIQ0F5AhXcKNt7vKrCfh5mGyBal6P4H2--xlc93zy4SxZMCYcaWvFm2QSnO3qxpAXNzD0EAAbW_A_wWQ4adexU5mOpOdtxlrRqxWa_XEaxMXow6bpgqxBmnn8zbSxD7ZIjZv7F-UXYjiJtqJuAXYejDjgWg59zoPPm7xJk8lyXMCAZRYY2HXc2csEjt2jh9vfAx9iw1QQmFCzNmGnEPr5Lva_uZDFeFfn0VcUNW2qJYcdFzFhTp9AmCcD0TOquqSjTmQ1Td3gEvdpKQaZpSCk2e49oA8nV74p-quyG1Hl7evSizz8is0THbBa7wlhH9IDpY36M2Zlg4MqM-rzzR1IOxzkpZJFWXRIqhaxN6b95g4Vne0tKOR9iIhy4Cs8BS3_zcbJgepNc5IgLNBa9-v24N4yxy1MKewT_ma-JeCGwYobFb9MRG16PgdjWXujzYZGG37-RsAweofakrcHZC6fc8_ReFEh-jfrN44yUo4wtO86vwx7TFqyMbIW2djEjIaKUdYkyWQJjwdr9qAzuYtd_xLlmVd0Dz6-sbpFJ6DOLjwf6kJUKT_Wrj6VQdp763FVdLyizmuijnfenBk3wqMywKuF9fXLImWMnwR5DdFD-JgK5aUHcxLm6n--wzysM52hlv_Oy_uH_XZzyeAx3fB6vRxQnly8lkIg7FaYG--Ex1t6YYBiIOCgwz6BsbQXTYD6Tr1FU.%26ch%3DAQEAEAABABTDnRvF5ML843YVmTUXVrVC-npQXBntpDg.%26v%3D3%26pg%3DED3P66Q2CZHYBFIRDXU7GKUEGM
+.netflix.com	TRUE	/	FALSE	1808114756	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+14%3A05%3A56+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55f16b01-66e7-4e42-bc2c-5a3718bc8be9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	a5239682-cd0d-4f0d-ba9a-49f907b83814
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	8e964468-2e93-4fed-9445-79795abcbbd5
+.netflix.com	TRUE	/	FALSE	1784354752	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784354752	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

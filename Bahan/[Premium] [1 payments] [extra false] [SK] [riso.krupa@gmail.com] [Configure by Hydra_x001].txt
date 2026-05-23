@@ -1,0 +1,22 @@
+
+– Email: riso.krupa@gmail.com
+– Verified: false
+– Profile: Artemys
+– Plan: Premium
+– Next billing: 21. června 2026
+– Extra members: false
+– Country: SK
+– Payments: 1 | PAYPAL ( ri***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798512236	OptanonAlertBoxClosed	2025-12-29T02:43:56.410Z
+.netflix.com	TRUE	/	FALSE	1805731635	nfvdid	BQFmAAEBEEd7UvbhK_hSRnmNMoO0XH5gwhFQeqYd8NMice5GFXW-X_ll8e2t_c7sFvekKuk3EU5vqEiwGW8DfBx7HNiZMsqmfrszgd2LlaK5CciAvWpn2BhOSnufMHxVKawd-jeGoEaNKlmCctgweezMR6LgrStQ
+.netflix.com	TRUE	/	TRUE	1808401503	NetflixId	ct%3DBgjHlOvcAxKDBHEoHda1YYr2i9EzRYUcnnWdqYy3BoI3SFXq_YoZkZ-BkUZIcZqT_QR-bqHyhZI4gRNi4uwmhjWjvHHRhX7XvQOzNrpdFDN4_BGpu4mmdrbRu0Kft5YkqRThJ_rMHoLRDiuugz-No6o186gnt6EdujW7JTdd94xMHadMfJQe_PdpVZQSApl0eUnLf7ILzzsc0JRZA9S7oWoSInUtEmBJqRE36BmeSBHIB14pkjY9iiHpn15etHuseSNqB8x5REOGkwCmBuHjpz9wFO2VbtyHwM9DR35A-fruRLhmp9LYuf7PDwZH0DkF5F7OE2VJDwyUPbQR-hZAdoV2kOSo4s3_ZrvmLrqgs-f9prIgLqJ0l3Dgj4v2O_s1ZNmwXuTQltT-HoBic6KFsyChUkiaTO1KPs5UV_0bJrRM9Sm1o5nsR3CJ09rwoNwvWXveHWYZKXZhqLR04Bcbtt7G733_kdn6L1fVNzzDpVL17hjLDW8in-e-jykVpdtzOglIkovorxUDxN-LjKUEZ90uot11LLFLdEj2ZJd7XJsCKPINPcCL4hs5MMn7zzIZzrj-u8wcI9UwBnEwRIiofAlK_kjPOYADIe8bdY-2wxnJffgwYENEzJdNJDFcFLy8eErjHSLtXIKFYZsfdkuXT1JAy_OQVSl_MDJxcW7W1ouMsjaPAHCmbXQ6vX--GAYiDgoMhu2r-hIxT51dId1e%26ch%3DAQEAEAABABQbBNFUggfJNlAEhoPrsWzyZURcr3ot2OQ.%26v%3D3%26pg%3DK7T2HVF2WZEZJPHEQIUMLLYUXY
+.netflix.com	TRUE	/	FALSE	1808401502	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+15%3A45%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=608a2560-ac1b-4000-b8d1-aeff87db55c7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SK%3B&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808401503	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSd_owUkJrYL0BJDKpfYU8BywcyLAdVqFc.%26dt%3D1776865500780
+.netflix.com	TRUE	/	TRUE	1810122435	gsid	1afbd678-2f0c-4060-abc3-81dc3786f549
+.netflix.com	TRUE	/	FALSE	1784641501	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784641501	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784641501	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1810122435	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

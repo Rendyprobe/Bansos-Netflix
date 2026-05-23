@@ -1,0 +1,19 @@
+
+– Email: jamesfletchera@gmail.com
+– Verified: false
+– Profile: Neveya
+– Plan: Standard with ads
+– Next billing: 11 de junho de 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (DISCOVER 0776) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794865044	nfvdid	BQFmAAEBEEUEd32Z65041jLqF03Ri-RgdgMr5m6ZGeMSXOu6AL7c7fC6uU16uUbc9Yg15qffvfphwTlHwrykPMEMkwVj_46PZOUr0MZ-Rg6KQWvhCTa38qvylSFs_yYZp0XK_-4-kIdeIgJxoyFxZ_9IWoYZsD2J
+.netflix.com	TRUE	/	FALSE	1807825800	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+17%3A50%3A00+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b7b9ac02-f4d0-45e4-aef7-c9d8d9094f6f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1780396284	gsid	dbfc9606-43f1-4a7b-8cf1-4ba10d0b1fbf
+.netflix.com	TRUE	/	FALSE	1784065799	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784065799	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1807900693	NetflixId	ct%3DBgjHlOvcAxKEBN5VA5XBGYa4YtqKnZY6pcGvOOknPcUQAgjpuCsnzBweu_hoMJ-xGg2CeAUGDTgGC9Bjct4PZ46IXGGkzG5W4VzN_WTVk6OB9xtdAMymVUzrHCAR1fMLRVj2we-T6JLpu84_tLs9wkHxeadoqpd_1YMMz0W0d_WZRpr8gNiq8UgKeNAVRtAQ1BiYgglo1VEHVi7fbS2DDVaTAnEWNe11KlhH9xO7GGIkKi-LrEq-6ri-66s791T5QQTgrwPwuG3SmD4cOkCozIUmscNxkemD1qb51DAW8dYVbXq585GJipPT44H7r6Dra3owxFOjDTRb4m0qGqleEddCJ93OjEDotAGE3RAhI7l6MZVct9g_bbEOfaKjwEziNjo7VZqAbOykZdHGA_LEcloBiX-9xKE-Nogg_9RARqAbaNxSoppzYwZ5uwamDzZLT92igYN2kTkcP3oKi_aLgyKzRSYXGSqSG7MrPaxAXdtM5gLUmc_Brop2cALGi2ru2mf53F-tbhWGQ3uDCxpoE5pIuN7qUnTLRlov6A1cZDyM06CZmwyfP9RuMUzmhIiJ-viR1odhJDY2A_M7kvvNmFWySczZ2_ayxccvVXX-vQKalWWxnhmxCxoWEe5rWbBTDsMv78JHkv7NcZn6ZKYQ5TBy02bYZIqYWUpwy-NIq9O57lAyBTEDrbKUU_uoixgGIg4KDOJ0n2raF4iIOcLcVw..%26ch%3DAQEAEAABABSe9Tt2KOZ1D0Bdf5lmTqOUYacwBPxMVRA.%26v%3D3%26pg%3DXTOF4AKLJZH3NIDAKRVWYZXZBM
+.netflix.com	TRUE	/	TRUE	1807900693	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTWfA3dZmeOC0hWiU3N-G2KRdncyPI7FRs.%26dt%3D1776364694082
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Email: carlosjosuepargastorres70@gmail.com
+– Verified: false
+– Profile: Scar
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1806880290	dsca	true
+.netflix.com	TRUE	/	FALSE	1803856290	nfvdid	BQFmAAEBEJyjYjZXKAW4vNX9SAck-ylgT7gsnV_oJFP7R55sz_qsLl4knePbyTo8_4hg_vTqb2HUbVIGJ95InZyqYBRZn1UeLg8KmrjEfLaAaVxjt1E_Qc3Cys5blqPaq15pdNvo8TPmSy-Z_Uvrr-sZmFSv8fwu
+.netflix.com	TRUE	/	FALSE	1803856561	OptanonAlertBoxClosed	2026-02-28T23:16:01.479Z
+.netflix.com	TRUE	/	TRUE	1807908548	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTAyQQ7iA550SRhGeDc9JRnkR9drY-w-5-h7JBOQIoI9MrFRnjwNb1UVa7shWMR7m65ya1ITaizYplA4Wu0H99HLg6KVbydpVPZGpm7vlzxsM-wIocHNxRkjjDEspspAATA0W47ANWLpp5RwJhWZaiIHbwjV-rpEPrSvG17uijY04UI3_EqTuJsnl9zCWU7S6IUVd4AnVZmk9YrkPqMNMifPVX2fHv2DPOyf51yr4ZcijsqPL5U3KHtAJHGuOeGWN72N4qgvZwrj2POWJHOPOfBrEjwP3R-dcmUMvJLvX_BFFr1IX9F5vm4wVqtaOBij_s3eLA0eUTrpy_7XKQxLGMSzrxIWy1gR5NNWIzJwx-TlVTOpAOH1Cmk6-kOBXijG2VxFTmMsUxJvAtWmfHN8_c0IvZYkIb2FcdVUEYqKvmBjV5zB6TCne_8PVfJbXYb60rgEgGOT1a-GxMmArY7CaEKl7pXoe22RF3xmGUMWQHGPe99lTDOvy0rNxoDD2ABkD6i-i0Ea6mx1xhWQhXGfevkPfgZsAYBiIOCgwvv-kis5-iEIgd7ks.%26pg%3DGJEP44JNWJEP7GGYKJUBACATXU%26ch%3DAQEAEAABABSRbR9MUHvi-7PU1-8_rQQppUkiYz4zxSA.
+.netflix.com	TRUE	/	FALSE	1807908548	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+14%3A49%3A08+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8d1f6857-2242-46ed-adcc-9f7e40abe2e4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772320561771&AwaitingReconsent=false&intType=3&geolocation=MX%3BCOA&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807908548	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYzyuzUjB_cvfWwtEudjKEeCQQiCNDP0k.%26dt%3D1776372547434
+.netflix.com	TRUE	/	FALSE	1784148548	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784148548	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

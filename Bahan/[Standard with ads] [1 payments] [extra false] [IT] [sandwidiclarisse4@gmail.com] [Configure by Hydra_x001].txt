@@ -1,0 +1,24 @@
+
+– Email: sandwidiclarisse4@gmail.com
+– Verified: false
+– Profile: Clara\x20🧚🏽‍♀️
+– Plan: Standard with ads
+– Next billing: 18 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | PAYPAL ( sa***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-09-06T18:16:01.861Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBELgfQZWbe2-DXEAfM-nmWrZgIqiCzp-eBVFbIPyZaQbchhtMnfliY4pFHNSXtKKlioybaTLG3_DXbPghdBjx8qmRqFqb2t99SNqHl2vps4U1wQWovMkpNB5QUfmRSvpQdolDJmitqRH0Ls5BCm7gtonM
+.netflix.com	TRUE	/	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKtA-cj0XzUCJIt7ZH6ky8_-CNXa4H4Q40PLPa8HrwQKqU8gbZG3XBZuoGZ-ztYjw30VbQgivit8zuqcce7KDVhoZJt9A2xFDYRDZudCXGprHDlfYBilv043nw1jfZMcVlw2zgat2uZZtwkb2Q4o9csgVm9TC1IYJTza00iwXZLDEOBYivDH-C9ZLHFvRVDQ8cHR2sqAe099dy6vmdaomyC4RcPmyDNqblonZmO8Rvb6ezE-TP5hRjzyNyZ3h82zy8EMgJgW0CXhpOP7pXD19MowaHxuo6sz-VRfVouwEnEiLqPRz8p_qz8OaNdvtYQqeoFSi52TaOmwt-fA9Vd-I-S4EGWZ_zqIU-MgMHOz52oBDJMVi8iBW-b9FXe8Er3jS9G2ACvU8g3dJ0vAzsWxUCwJ660aqgIrKks-n1yDdo3KsP9iioRtWJHG1epC419HrRgEXn0PR_30AhRsg1gZCqKQKmcSJhvRJMOIOULC8sBNO0kiTJVhsUwCTzD2FOIIsuRbbamY9yCAYUKDOS9r8goGp-g6f9dyTZcjv03QIi-dTmyMaLggEX7KiEW5sRDahgGIg4KDKXuWbTMAJn6CZSSeA..%26pg%3DDSZMBSSOONDK5IVSW3LFMS6SJI%26ch%3DAQEAEAABABQMvNJDkIaL5M50A2ukCeEaXkbm6fmUcJI.
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGHOSS7EAKa5gg7DIzyj_oQLA8RKa2VTY.%26dt%3D1777218161470
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	3c87d466-848c-43d1-beec-b3d9951a02c7
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+17%3A42%3A52+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e73deae-fb19-47aa-b3fc-020c45ac9c14&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/title	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/va/title	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

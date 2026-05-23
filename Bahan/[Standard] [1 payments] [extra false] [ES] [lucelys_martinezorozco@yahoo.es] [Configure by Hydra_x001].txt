@@ -1,0 +1,22 @@
+
+– Email: lucelys_martinezorozco@yahoo.es
+– Verified: false
+– Profile: ¿\x20._.\x20\x3F
+– Plan: Standard
+– Next billing: 7 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 1254) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800468730	OptanonAlertBoxClosed	2026-01-20T18:12:10.041Z
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	788da896-4ef2-49b5-b075-307b29d2b596
+.netflix.com	TRUE	/	FALSE	1800468731	nfvdid	BQFmAAEBENbmoGSSHJdiTSSL8h0BdLpgKSFC6NtSd_DMz1rjfoy37ipvplJRYLO3z7seMLE51h6mcb_rL3y8exzZbIwnWQ_YHxTs-2PKgTs0dlg7-DdNxEVVKJWoYo-IjQbSHEYzrTk3rsGk-R71kT5gmIIlRouf
+.netflix.com	TRUE	/	TRUE	1800548972	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Av6oT_lRoZAyrCfaSZHT2rDhhdii3SR4lIy4goWqBpZosmszYAq1o8J7DFE6zaILnDapzRonk-OCzDA4HZvekiLuFqJUPUEDnOWINdCcFeyGBiXGTMux-HyGl6eb6n93oxNSaM5aFPoeOwnHdedrZTJizYsw3pp6JkyGHR7UR515hiHXy99m9E3FhnVMGrhhDENaPH2pc3SGWBXVlI8VAy5kYv-lXo9JakZukHI6-47hft1kgAelJyIs8Jf0bX_NozW2Vfbug9N8w_E_Mm8YBPyI4v81sEtdoD2FUunMAcvXZfv59DM-rcD46fOwT9GFJ1CdQLQ9tM_Ca8UQPq7W3FlLGN2uRQv0RJU6TSsJfVFGdBVMvGIFubKP8MABAFTo_QhYRcfzLwUe-n9eYILIYlixOgkap4lHvHfbY_yqtx321vt2lJUK3_dMKUjeq5WQH-QEMED7NufeZVRPXZkMUr62bLI3kQp6Wg04Y-4S6sWk_pCPv3nfgD9Lbf94neorGAYiDgoMEBMyzrlul3IWlW5b%26pg%3DLEI6CJHYM5AFDGX2VENG43OD4A%26ch%3DAQEAEAABABTcfts9ARLubvj3pIwpWthQ6TRmJN1yaRI.
+.netflix.com	TRUE	/	FALSE	1800548974	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+17%3A29%3A34+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d5f75b15-aa58-421b-9907-45d2f7901eed&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1768932730381&AwaitingReconsent=false&intType=3&geolocation=ES%3BVC
+.netflix.com	TRUE	/	TRUE	1803572968	dsca	true
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	62e952e0-d694-4044-b780-bea9e7d93029
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

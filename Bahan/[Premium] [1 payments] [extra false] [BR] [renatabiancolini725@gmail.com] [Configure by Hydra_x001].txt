@@ -1,0 +1,18 @@
+
+– Email: renatabiancolini725@gmail.com
+– Verified: false
+– Profile: Renata
+– Plan: Premium
+– Next billing: 15 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 3107) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781302498	OptanonAlertBoxClosed	2025-06-12T22:14:58.798Z
+.netflix.com	TRUE	/	FALSE	1781302545	nfvdid	BQFmAAEBEPRTVGfl1YHiftBjZrlokHZgSzADomldfJl_FhvwBmrIc_RrUqPGFGB2rTua15-fwi2e9DqsWnfaJKDPJHJQddoePxz5beZpAcrLwgNUcqP2Kqhzby4Jih5RGcFVkCH3i8yAhmrtmX1OEfl9tD_mIvNf
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	3b4d3471-8e5b-47a6-bb2b-ef1da8fc6bd3
+.netflix.com	TRUE	/	TRUE	1805247808	NetflixId	ct%3DBgjHlOvcAxLRA0d3VR2InOhKLWMj6WVwoZ_rk2pXBkGeOgEebCHwc0iu91dCliOofWCNdVWF1O08vNqC_sNLmoD3snHIeRkv4iMdpjzcBrGAqvlWA_kNlHOxYKjjGeEKEG6k16z2SOSw-arpFthBclMHBzqGzXmxGJD5R3Z0rDX8hfOYfE-WkFlV_P3-0lr9_FPYJ7iWBXK7t03vROEgIpO4A19KHpLuvyMHLaylCjtupnUNMmSSljrpFkWRotUcdHgHO2Cvk5yj4XqcjFwibVdYqAT3DEinW5y9Jr7XMAfpZCbLZ69UAuJ1QVW0ETVRDjWCpqfepG-VfEGBBog6045pBZN9mKhngU5uRe4evSNZPNXiFECgmeu3ybFG5aWNYJ2KVeYB3nGYc-ZKquxdJgyc9zpoiGpV5mffpfgWWFqKJkhmJg5Ai3VVL-mRjp8zI1meXoGwvEsn0JN6dzWglvQzeod8s-kYm-xWEFZFXVZy0XJIfR4QDqNWcfRwNL7LpF0TGMwCTjCcOVYMCoK9XbD1SA7RpL1bF8Txsrai_VfxZ3arhXbqF6vPa2120a-D2awfFX8tzTAZ7drCJc0KwzcUdaq_Cl3PVGuFIZ-mjpDQlIi_AAMwwD6snxgGIg4KDE807_lLAfx8yp-pOQ..%26ch%3DAQEAEAABABTb10YkmpEPKON4Fo-g7AWX0s0jlGBfNhw.%26v%3D3%26pg%3DX5SRAP6RAFAFDPCCTSU4UYDMKY
+.netflix.com	TRUE	/	FALSE	1805247824	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+22%3A43%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=021cf2b8-9c83-45da-8d3c-005437f2b516&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	9ad4c03d-ec30-4978-8264-02a9aa6403db
+
+Follow: https://t.me/hydrax001

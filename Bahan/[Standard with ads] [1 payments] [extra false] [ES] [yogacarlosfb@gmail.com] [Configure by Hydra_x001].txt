@@ -1,0 +1,19 @@
+
+– Email: yogacarlosfb@gmail.com
+– Verified: false
+– Profile: Kailas
+– Plan: Standard with ads
+– Next billing: 6 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 9014) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEBshhjrWosS0VqW6zeikIfpg8YNSau5J8s-VEnavlr-cOtx6pHQPAagu3N6R_oEVjxVqRbZlOAc5d0Fam3Pmg9L8UozSwcFcZXyZXCDRv0NkZDGd2tFflA8MMbWHWXmdwgM7zT_tIc7uvpaieVE2rkFI
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-04-23T13:43:01.412Z
+.netflix.com	TRUE	/	TRUE	1803999613	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4Aqpy1QNBYwbkJ2qKdS6XXYcvBbvsX5S_2GrUHWBMSk6osxMkRKeeXQ_syceh14sjD-SAP94alwFUDzKPN605M1AOsaQq7Wwm07n0UImm6wrejZ6gyrEmoAZz_VTL3SSxjU7qAv9IDroiMrbmmQsJOitWIbbgKIc6rw6UJsvJtaZ50d2FvfeX4NpX3majRuD_y_XDUXjKiD23AlVGQW_FNqVh22B-VQGzqddCWMGG24cLe8h3zNF77sJEmPm8-qpaP9GeqNaP97ipsDRYsv7Y2DP4f3r9J7Wd66p_0kFFDEtZTke6F5x4szcyA6O75WLGTFdqE1yG39WA0ajxJKLlbp3lFATSDHXRNRY0eJlrvAPKMrIO9pAetmzG6IiqKA4HfBiJuNNy9l1WRH-6hyBXsQIrkuNmsyxpDk8CD0Ij9eIE5EnTRKg-M0PZLA2wWQZAD-aTRJvRTFtsYelbLztZZlMPUpRxdFYFfd4_X7_ZNUD04vtCOwSNk88YBiIOCgy3PL43dfANeZ3U2Mw.%26pg%3DDN3WUUM3RVB6FEMR7LYVMR5YXU%26ch%3DAQEAEAABABQuZLdVVWi5ATFdCUb44wzMotlf6wCC7iY.
+.netflix.com	TRUE	/	FALSE	1803999614	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+16%3A00%3A14+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=91ff12d5-a283-48f0-9c81-a98784013d38&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1803999613	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfwy-3AtW5G7QlOIXVABhsN_AN3WojqiI.%26dt%3D1772463603672
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	db0fce59-cf8c-47b3-b036-59ccb1c64d9f
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0bbd8581-fce4-4716-8c4f-627d0303e214
+
+Follow: https://t.me/hydrax001

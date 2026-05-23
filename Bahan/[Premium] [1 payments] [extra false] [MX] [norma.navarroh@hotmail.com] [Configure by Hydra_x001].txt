@@ -1,0 +1,17 @@
+
+– Email: norma.navarroh@hotmail.com
+– Verified: false
+– Profile: David
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795904394	OptanonAlertBoxClosed	2025-11-28T22:19:54.037Z
+.netflix.com	TRUE	/	FALSE	1795904384	nfvdid	BQFmAAEBEJ1yNBztu5efMB29DzRWqs1gwmnvfRhra-kyMo-2aoT1XfFKfIkInxUB1z2HH2EK1DNcJlbfnBAOK5xg3IJ_tQ0GWLaOwDt6o5GRxu6H7PVGK8iEXIvcL76GcnoAUL1Ozk-6uYLsde8z4VqZuE3kTYLM
+.netflix.com	TRUE	/	TRUE	1803226061	NetflixId	ct%3DBgjHlOvcAxLmA2STDDJp_lT5iajCy9wiUtTmSDWVybD7wQym6CptIHTy7M7y9JPlLuayu-xzG0G4yocXFqaJ7uHoqtzg5BG73ytCqIuN4ZJBn03ZWAlq78qMWDeDttfvDD-6ISKZR4VIgAl2Dh88Rh-4ZFNjH5UuQBtg0cDnDg-eosGZCMdgUEP5pq55W1BYlaNs2SxhYZVriBH00d03HRcBQGDcgFAeG5y-kqWTj7Hg50qjgkAjzP9ELOPVFllBor9Vwp2yCwgvQIKfHQ9jDPidZYAfE-tBGv4I8Qur_8P3FVqHDyHWS7YV6Dg-0OIWsFGjxWbFUOtbaMH6q5qcOk9ARnIuNKPWpF9QyKIFKNbQ25EaBstCVOJdisiKW3YJcVdmAhtwznw5RT2Hua0SPZTn-zRDQPgNjP7g5AA5tIzDJc2YVieVjc0EI1IPB1QuvcJeHJqNA9yIOkYtPdJQbg5KIiyhRuEFYzu4I5J_hfFU41rnEceBq7m-wE_SwuLCJgNzMBbVh3ZpuEqUaGI5TAh3LAuGSAPIacEbbK44ZJc6n-Vp_wge--aKm9vKGyWaNW4eDMaNvBRcLwOnhqQzZ0MPdnadQ9P1vxfjUPnlvPbEiFsug0G2Y8LP045GVJfQf6tuMgqEi3jF-wIFsCBS5RgGIg4KDMSgISlaY7wkGvXPyA..%26ch%3DAQEAEAABABSekuvO6VlKcyynGE9ZQBZHWf-Gep0a8mE.%26v%3D3%26pg%3DZLOS3V433RCMXONUU5Y6KS6OS4
+.netflix.com	TRUE	/	FALSE	1803226063	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+10%3A07%3A43+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27cb7b7a-ddb9-4dc2-8339-08024793ea39&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCMX&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803226061	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiMa_6tvmzlUH4kvlUgJWM0MRrQhC2h5w.%26dt%3D1771690057235
+
+Follow: https://t.me/hydrax001

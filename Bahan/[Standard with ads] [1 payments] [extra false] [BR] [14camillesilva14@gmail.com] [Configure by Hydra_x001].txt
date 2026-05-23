@@ -1,0 +1,21 @@
+
+– Email: 14camillesilva14@gmail.com
+– Verified: false
+– Profile: Camille\x20e\x20Gabriel
+– Plan: Standard with ads
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 7046) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802122615	OptanonAlertBoxClosed	2026-02-08T21:36:55.385Z
+.netflix.com	TRUE	/	FALSE	1802122665	nfvdid	BQFmAAEBENVJI4NKm9tv_rhjEeriqW9gSNkD9xEcucObvE8ZgY8jNixuoFfq1enw0RI3Itoovs5ZxzH3kV4DPAVIaEypAISiKPFo7jXHrHSfuZnxT3tGOZiRrWJSaSEUR0gfCTMs76bLdUeCA0RzWHOeiuKoAvmI
+.netflix.com	TRUE	/	TRUE	1806755438	NetflixId	ct%3DBgjHlOvcAxKPBL8bTQqlwOMa3Ie0qaScPr4wnfAOW0zvZWLvct3Q5iIdoNU4BDNbb1ui4hUCeiWlhgAkDEsRxnqxD_XAmbRY2klkLjSZZnae8ShoH1Tkpwnrs2kwH82W7V2rxh56a7M2TZ_j5Kj6mpld2EssgfSQOBp9D84th2KaW3RJRaiBjRR0JIpqahRq3uiRlUwU4DpLD30bGYK0lbuexZ_FrNl0PRzI3Ms8o22Y6KYioXqkgk78kVstGSae-im1nX6EUIj0gXWuDVXhC09CbWjEw8X0ga1revxPoeeiHi9Z_RtqxR7KqI-9CTtE1UTBGAMUpABfIDvkFjHeKKhhyp3sOuIjvODvn3yyraRgX6j2bU5FXgrunsGehp1mhz-2V4q83ALlfY-5YHJIW9_RZfwKUELrzKKFp_zPhBkrdRjyNbhtlWhR5KFNt5_SdIk6qsbhvaZxM6BlFqnGsTXyPlVPC6vqp3cGd7mp15Zsnlrgz3J0FArqcOz71wmg9c7wUiP93EGysoLe6NwbJ1g1euENoctM-VI96lpNzPbdoetD4m_MwWEFBxL2MjKMQNxK3zk9W0ryGHBuA35GcFQADUvHV57PGHRCvglPhSGzXrwdZCC_duilgGryCUcRp3WpEtuJyx8-xui8DA694sPcHZpD2o2_LcGosXuhtRvEmpZNyX_4MTI3WlxuONoXgsGt5BajIid4GAYiDgoMbHr0nbCrCd8I5UGA%26ch%3DAQEAEAABABRs0-_o54gL-8Wiq89XE82IkpMwvAdnmgI.%26v%3D3%26pg%3DWBXMLBTHAZCYZEINHIQWIYBDAY
+.netflix.com	TRUE	/	TRUE	1806755438	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwd-7yPoyAXHm2EBaiYEHza4o0evLuGgo.%26dt%3D1775219441992
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	b6b6bd7b-a493-4e4d-8705-299b2320d061
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	2260e39d-ac70-43ab-86c9-a77ad31d8b0f
+.netflix.com	TRUE	/	FALSE	1806779587	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+16%3A13%3A07+GMT-0300+(Brasilia+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8828b56-f0a8-4607-bc2b-bc2b560822a1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1770586615907&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783019587	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783019587	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

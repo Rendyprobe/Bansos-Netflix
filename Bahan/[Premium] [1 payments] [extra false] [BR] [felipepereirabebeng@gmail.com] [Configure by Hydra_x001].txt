@@ -1,0 +1,19 @@
+
+– Email: felipepereirabebeng@gmail.com
+– Verified: false
+– Profile: Bruno
+– Plan: Premium
+– Next billing: June 8, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8454) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792450683	OptanonAlertBoxClosed	2025-10-19T22:58:03.029Z
+.netflix.com	TRUE	/	FALSE	1793055768	nfvdid	BQFmAAEBEAsis0eXTAj8Hg-wXawYq9xgQFl4zpdYXWmE7Q0DlBjvOF_HgAUNeMt-wt3IfFZ-ENIgk7g0ACxH5_oHA3P8ntlhSYB35z1EwYdaGe0-p5F_W2JiSO82vovSw7HCLkEty9LAO_UB2-UclhEQDuZGxuNi
+.netflix.com	TRUE	/	TRUE	1781637296	gsid	2057d3d3-f728-45cf-a6b3-f18b8318fe74
+.netflix.com	TRUE	/	TRUE	1807973856	NetflixId	ct%3DBgjHlOvcAxKDBI-U_b02ESVO4fd1ALCDSPxBY7gmyTWyV_PwExNDca8_06I4dNq4_ofdKV5hqiaupJGImpsA2TNmcPcA-fQLANtkoqx1QuJ2OzZfQB-eEbWTlJjd1F3b6W1xn7l04pnzw32RhuSy2V47IU5e4MkPeLfu_48P_xhZsMHgQjeiRq7Ss8c3OsrzU4PWWWxHm38snBdqytObPBk4lmeFzvhGTmJaDKNRf6KLNdNYnbsmBijf1HJoH6HpTNxjTBVf4Avy1_CxH5Yx0xbToBnzJYY0Qp8oduUM9eV3zJQV6roZtmDEKYEiHxdjMZp2JsbW3d4jnWsNnzkfhR4zqYy0M6_ArJpYKCKWZM-ZjwT-6ueZtP6epsNs2rBiyHa71fSnP-Ro-gq8YAwPHGw71qB92_oFQmj1fT9q9W2X_PUw0GMy-RndozYDyV3-Ietk4Hm2oQQGXN-KYoUVIUUcGKUiaqGsv0uX5mmKc4iHmO3cZBj_gy0Lxfm_VaYlXiKbE3xImqibqRj1AkCXqCI_VnwRxH9t00TbPx1FIlbGkoBL9Qh_QOa4T3OrmGQMpFEQ5RhWh6ghlKhEJwMAfvoSCuCHldDKurDdb60HG5RFDWCtcBwu792b4a8BKs4L48FGJNVMmq68SV1lGwUd8W0Quf88ZNDoEjlrm0eluV7sCu76-kiH9p15o0CKGAYiDgoMC-CyPCju3QFgmesq%26ch%3DAQEAEAABABQp31bZ_qTIOKvAXrIGxlpsO1CMgbpverE.%26v%3D3%26pg%3DFESQQOZD35DQ3CQQXLNBP64K5A
+.netflix.com	TRUE	/	FALSE	1807973859	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+11%3A57%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b4164ff-69e2-4de7-b5f3-697cdbeb74af&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784213857	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784213857	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

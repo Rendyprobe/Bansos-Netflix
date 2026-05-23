@@ -1,0 +1,18 @@
+
+– Email: shubhamgulati46@gmail.com
+– Verified: false
+– Profile: shubhamgulati46
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: IN
+– Payments: 1 | AIRTEL_BILLED ( ) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1805715663	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+17%3A11%3A03+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4469fc42-5641-429e-ab3e-e04edd6cb738&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1781955662	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781955662	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1805715661	nfvdid	BQFmAAEBEBofSqz25KPXUhBDbeGmBoNg_Hg0dV1X7HicetmS0dJOJVSkIN5bdVt66A88UyJBTlvQkFgFWl-ROoCls6XNKIkdNsFvsi9cfDKbd5PPMiBqC7nmhRj5aJOr0HeigQCBo-Bhsy2u7zCsGW4hmWGQIw_j
+.netflix.com	TRUE	/	TRUE	1806401757	NetflixId	ct%3DBgjHlOvcAxLEA0USY9wd-VmdD7wj4weC5DIWs4dAGbJyUInc6Jh0tsAon0-nqRegcXPCnjo0wm31UvD3mPO28AdDP0K1ELhCV1JciLK6LbaQdafnb4_pm8LAq7_XqeR6YgryCaVhTL8zjfqrI3fP26yYWbRI_mVCfxux_AbGTl6KRKaYbiMZ-AWnxZWIfTjmpqOt9rEloIIkzp7_blZQKUWFNUfKpqS0m8Fe2BPPdWMXW1rTp-s3CTpR_we8bi8zhaZih1n1yQc5vIlOxV7muFlYkg0EGF7CjmV418NyyWPEt7y9ixYS3t9DH0VqY0n8TWY4pq3ImzwQRo2W_2T0k_RoRn95eSL4dbbfJe7vX1RWAteft-zwO79m3h7w1sXHNirJrQjQhBN5G2TUxOTOH3JeLos8jTre5MBX-amA-WccgzEI-0r35wJWKxESf57SbLsSN-EOu8By5GnkXzXoKDpxcMtgGoohMCMW5YZv_p0hZiLCviE1-hwcl5KD-qQOVP3QruSJ-HwMW-8lkdsyXgfZGLy05VcHDvVF73vBhuQGvrecguvS1SEQQadQ4eFQ_8nH2PAyEtjzts_2rGBt9Q6OpRCL6UPq_SuON_i9GAYiDgoMSKSM6bridJScU8wG%26ch%3DAQEAEAABABS792w982q1t9dVJIYN8q3-GflCzfpY1_Y.%26v%3D3%26pg%3D7ZBCTWT36JHMDOEGD7IAIWTLEI
+.netflix.com	TRUE	/	TRUE	1806401757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjzUg6jSxpUY5xJGb6rJZEWUpqh0xd3pc.%26dt%3D1774865757725
+
+Follow: https://t.me/hydrax001

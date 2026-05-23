@@ -1,0 +1,19 @@
+
+– Email: copi29@tiscali.cz
+– Verified: false
+– Profile: Lukyso
+– Plan: Standard
+– Next billing: 8. června 2026
+– Extra members: false
+– Country: CZ
+– Payments: 1 | CC (MASTERCARD 5323) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1804345057	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AuYW9IPQX70XZDbXT6UR4T2AiwHTadJoTDr0-9dBL_5-UGVxMDDyiM-ortuMhcIMZQud0G8YpWQJBpQYvlHb1XcnCEJS7vkw0p3cgYUBOkN6az_WAYY3bGq3BhgbJDf7yv1wUuFqCx7p4Byybo9PQmIUi0qxHRozJcEL0oBV9kwOm304UiEN2kOdbXVaxuakOOrwH6QFkyPdBKHXSTYYWpwulPoP3dl2Ddls_ZJR35GFdFHjmExcoHfOeyV5jwSpE9bY5ZT5oY_s5EbKfz2xp1o0hUOA6pILvbdKp0TZZAFP8eelkMbR2KMKCKsSR0B9KTA3s8_AyTt4Y5j3n3QmJ3UnsjcwolhwL3sCvbdSxGvUGb3aL9PChY3bABVUMS374xhXJs-2XL597L0IqY6J9CiPPPj6E8g2AdjbO-wnLd-W0VNpIp1HjdW10qcwlfrQ3c6GMGagkFrds1SLY7I8JP2Gwa3bu9kIHfqoWFN9LJzXzLB7EIdDDpiMD_9yixgGIg4KDL9PpkMiuQl7pDK_6w..%26pg%3DEUNBDKQT5RED7JWF7NUYX2YXMI%26ch%3DAQEAEAABABRyrOkZOpzC6OsclZaFCsqCKfPCJ9JF3K8.
+.netflix.com	TRUE	/	FALSE	1804345052	OptanonAlertBoxClosed	2026-03-06T14:57:32.443Z
+.netflix.com	TRUE	/	FALSE	1804345058	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+15%3A57%3A38+GMT%2B0100+(st%C5%99edoevropsk%C3%BD+standardn%C3%AD+%C4%8Das)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36ff67d7-a04b-4eee-9b85-4933058ce835&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=CZ%3B41&AwaitingReconsent=false&crTime=1772809052883
+.netflix.com	TRUE	/	TRUE	1804345057	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStdgjy1AX0bBaWAsPPs9E7AEqB8Xb4P5M.%26dt%3D1772809055972
+.netflix.com	TRUE	/	FALSE	1780585059	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780585059	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1804345055	nfvdid	BQFmAAEBEJmZOaBK4tGs9W08Slpoq-FgWyZB7_m-yeXR8oxIVWrbIQ5cjrlGE82Ea_WSSTD7VYRjQRtfPVmqOgqySDchjc4gsBaY6i56npwWYv_vTwAm1bfJWOdPEimRmNMfOfUmoyE6o2voJUtzveohcSAxz-4O
+
+Follow: https://t.me/hydrax001

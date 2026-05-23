@@ -1,0 +1,19 @@
+
+– Email: jl2665691@gmail.com
+– Verified: false
+– Profile: Jesús\x20Lopez
+– Plan: Standard with ads
+– Next billing: 1 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (VISA 1227) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonAlertBoxClosed	2026-02-16T05:34:30.165Z
+.netflix.com	TRUE	/	FALSE	1782066568	nfvdid	BQFmAAEBEMrJqlMw9ZVgQSF2tGh7B8dg8y_aS8GJFntRJA0KlyUCl3wc2gr2l_JVmrZfveVIxz-yf7hnCBrPCUs-_bRWdwXJqJoZPn6PalFltRorYlmwJBKZjuDY7kG_WANnMpipWH396klnjj-oiahHwE9f14Gi
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+01%3A24%3A19+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c977af3-02d7-4df0-bd29-401dab7013fa&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771220009092&geolocation=MX%3BBCN&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782066568	gsid	b4b33c2b-bfc8-4b7c-a4d6-e7ccd0f94cd5
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	NetflixId	ct%3DBgjHlOvcAxKKBNAt_38LQkhaaqUFAKN-pYJIqc2qIgxyv7LLjdzLdq9USmKtaEW8FAW4G1j2Jo8ShN-YqFm-K55ayidbLUJlB5cK7ZSSV5WOEgrZ26n_Knraev4erDsPmTM0mqDJmtmfKYQTAEVik9dFFiaPlS1mk7oBPKiPewP2-Z17a7qGmRQZgpHjMLrild9ttTkx7GcoCN0SrynuP_kH19hxHgvVKvYCKelNJzVdZelVxyEyKVkgchT2ajo1UiS5yzPCEbKx9MkKHjPdVq5h1o7v7q7f6Zd-PLHzMA0GzpKMdsupstGHRr9bLYLZuWAKuorO3yHQidsFloS8svJwFd-Cvwzbm5IOCNBlN1cKTRK4ujWuQY6kJplIW2DuspUhKx-TNvKRk9TuylqQyc6AtMgldR_i_TKO53j558g-ukoSiHHNkSMsuxzFe9jkm9pAPEyl58gdTheR2FRTcmYfg_i6sMBIQHgCa0ZIg68bh5Aza7p32cAPM7czsJzJaUfwmfKqTZdxK18UfSfSeZX6U6Lgj_d3Do4Pg32wpxXxvcQx8KiVuHQ1pZTjugr3bgkktM8e4jXOehB5nFTHSfNXdTReYhNx9nBRz6dTn-qlOsWRATF-iuaINhJQ6DvFYwbekOc-HtENnnm0-Kz5QOarX3O34nof60bRa-bEUEJSG-mYkIcaRfdyJQCwvRd6-oygUBgGIg4KDEN8y0mVtV79rQVrRw..%26ch%3DAQEAEAABABTGXbpzazgmP1qrAEGN_fkCYy8QURrYyeY.%26v%3D3%26pg%3DKIXWZLXPSJBOLO437VQEB5SWXA
+
+Follow: https://t.me/hydrax001

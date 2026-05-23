@@ -1,0 +1,22 @@
+
+– Email: andrillidafre@gmail.com
+– Verified: false
+– Profile: di
+– Plan: Standard
+– Next billing: 23 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0459) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2026-01-04T02:52:18.524Z
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEJlpGD3ZhjMwcpYqWUh2hONgscVTymo-7lsug0hEXBV21XV_UmCfHOfJRcNDaqjKTn8X2rDjF-1ohOkGkdIcJiA-7QVYtE_KJ5nL8OnIJUO5MLzZA-1TDD5IefM-QhY3YgpP5Wzn3EatmkjKcUpeA6Ua
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxLgA2VSzg9xev5tYoVKvcITdn47JMHMksr-N8WyuV0qOsi4AMUmo8v6IUtM7-pI3T8PffJ5PEGXYv6kEFyE7JrA8b-PZwNKksAvttI_blFTLcAxiiyVfKWEz0tHJnNkBmEKYVNjG1DnAIZELKqttlGVyIAynxP2FXlOUcqwOC6ijwSLvMgRdUeQs1Aj9ACBaX3xhmItqIvyui44yQLvUBVfVEwpU2R-TpF0Pbf_MFPUAViVEmhgFiW_iri_yRVfYjNPXnAXgMPzQpTn8Mrwzwv1EplO561aNuzuiCUToNIAGPByyH9Lh6izHIOuZyNyfTzOyqJxtD1T1mwjDNXhZi3YHUkMjZenfqrzO7iM3WGQ6MqIqsB4aZN_tAO6Hhl8kvImejuxOM0G7M0zGgego8ggYpAq4tGW2xNANotIvuDxTo-c5cUOcx4JimXPtI-K0DaEB5JRY-iTKkrgJAMOTXWld_AB_JsSznM-nPy_WpWGEhp0Qyo12cB0i6ZZJ0Hu_DVe-5U9FIRX4qGZ31Fx0FOyoclH7-azKwqmkrlXEy9k8_RpqhDd2eW0o5PzTuf6gOwRU6b03O9NMYF8CAbXIIWecytTbDzz-yp05ve1JphxuKlyiRcTTodIzWfeipQ7DXInYhgGIg4KDELltI29PJ0338igDg..%26ch%3DAQEAEAABABRZn-Dh78C7c1axI789EkoGrt620GALtjY.%26v%3D3%26pg%3DYEAL4BHXBNH4VFY77W6FFJE6RQ
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+21%3A48%3A24+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a05e72f5-1a5f-439d-8e95-83bb1c64b07e&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSllNyu45k35FleciH0djS3nxOmJZXnNS4.%26dt%3D1777682902838
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	353fea81-57ca-4391-a9a3-4b97aab8532e
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

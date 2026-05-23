@@ -1,0 +1,17 @@
+
+– Email: rosabalsamo@tiscali.it
+– Verified: false
+– Profile: Antonio\x20M7
+– Plan: Standard with ads
+– Next billing: 22 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | PAYPAL ( ro***@tiscali.it) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794339964	nfvdid	BQFmAAEBEAKYGW5p6rxyShAZm-hrReFgijF4yZmA7NouivcbgWoApXZapOZKt49kiSRhoU9aoWamJR_Qd_N1zPVd-V16r1nPJB3o5pncFh1WituMhrDBQ8ceIe_7P62G2GnfvfG2GJ2Kz1S3puzax-QEh-yPW_Yn
+.netflix.com	TRUE	/	FALSE	1794339977	OptanonAlertBoxClosed	2025-11-10T19:46:17.267Z
+.netflix.com	TRUE	/	TRUE	1802387075	NetflixId	ct%3DBgjHlOvcAxLnAwLLJGAiiEnxgqy5bZl8e32uev7bQg-ranamaOKhuyPqt3avWzUbE22CBcSpW-DNIkla5gEwMQFoWOJXUfhHCakOkNmI90VwTcYJbeSmdgNTvlLjjsuxLLvW6FNMcQzSnnoY63GryxXGiRZ1bpAeCrPBgq1nds67lVHcorzJEW-4UQKLbWv9QulpGMwTHDkc64zbWCq_as2YcaYGNJLuTBC8v9esV0PfKaOSdLL33msalokU22FM0oNWjgp1Ka0aaW1l_Ik6nnKMiWNmpJMRQJxduoW5EFGcBWOWY9aUz1i7RBjmUH1HJJWvDog6mCGkD--RixH2CLkfHsp_txoFVzFKmxtZ4uQbfDtdSKDWETDQQD4qnsTnCDmpiNkfiPICQqUYo6PLASJmwPiC4LvZ8mCnW14dxLw3USXlRJ4aN-M8zm71oePlO4q5fkNsiITqSPp9YD67xN0apLyeoPG8gAJG0UA8SLaZSGGEagClENMbYD8bxu559aM2LDhQaPUirSp0uW01OovgouyIGmcjKrfw8pajvQGdXC7nYnVs8cW8MF0a2oGbl1FXd0RJjE6h9yUbz5b8Qlb1Z__cjrPLGgRRioIRpylFGGpKlXRtUW0rKSJQGLgEBY75FIXM42l9XYkNYZhBJaIYBiIOCgywohJ_0byH1_VALs0.%26ch%3DAQEAEAABABQYnU4yby4GrHLFBlr0SXyPRHN7XPUWRG4.%26v%3D3%26pg%3DUPMRHWUD3VCE7NNLCGYFOOMHRA
+.netflix.com	TRUE	/	FALSE	1802387077	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+00%3A04%3A37+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=300c8cab-96b6-41fd-beda-4ce1fe465f7c&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B82&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802387075	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxceKMhD-hdarPID7ScbL7MqbGprfq2SQ.%26dt%3D1770851074416
+
+Follow: https://t.me/hydrax001

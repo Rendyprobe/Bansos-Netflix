@@ -1,0 +1,20 @@
+
+– Email: shrivastavashubh2009@gmail.com
+– Verified: false
+– Profile: Shubh
+– Plan: Basic
+– Next billing: 4 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( s***@okhdfcbank) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806731453	nfvdid	BQFmAAEBELzNfff80B-WITc5j_A24_VgXUCuhL0kF5ZeooVdfXvph2q2NgrO72BqIcSOO5DJjKK92kTNXAS692waHo7dmd-5ddaRjB0kVJ2n3TXcyIuIm-PmAb7OEsGPBMDuKPsBiQ9IUihIJdBUTpQ_u-0qOUee
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	7f49e08a-4d86-4de7-8f8a-8e8ec0ade236
+.netflix.com	TRUE	/	TRUE	1807956466	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA4tZPdI7jH4VXE1t9jmgMmzDW76fW5-_EyTyk8DfjCZ52HAnWqPIzuy86xfaFBjEcWKP7sQRN_zVJPRgPEPIT6IZD0yEaMspS_xO8TGbDrXrWHhrVYMHDAp9xURlSTnhd0Fbuoo8Ml9xsH-WlPnRHE08A0A39RXxXXzAep83u7uNX-KUOZJZZkebspQIfSoRvhpy9QuDh5du6ZkdxjkCx_nP7Pt8CmX2wFnQ5moMU-Pk1-dEJnvkXwaw2QZCPMw7Ie-TT3ELeGGhOvc6Ulh10Jktf0jp6G4UCJv3neEPOh5EI_9y04DTgjk6QeY7H6RDsYDIBKK-59IMc7VJuzLmSM5aDMF21_nyKimPU2gRBKLSxNGu4aNHa58x6VY7EeCVtWNGQVralSB7rObVDZ5zCm4PYvtcrKQPSDZL0poMpqTSyJm-2v0kuEHQ_QPkN8aKR9O6PGNoJkG-eBJbVzO4WgXoqTlBy5M1tZgQQyT9xYUN1Pt5Eh0PqBSMkOy4E8aNLT7lcHPzMzKC0k8JWNwgjSdKPA4aGAYiDgoMkv2G5m1H3TVQHWw0%26pg%3DAYYXSBNFTFBHFGXLLORZ7OUYS4%26ch%3DAQEAEAABABR4V3vNwypWm2GL3IeT67dUexoWMGLsdyY.
+.netflix.com	TRUE	/	FALSE	1807956468	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+15%3A37%3A48+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ec161b6-4338-4225-a500-f56812a379e7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775195380745&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807956466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjplf-luB2xRDv8gKHNKWdlsrZisiCDA8.%26dt%3D1776420468016
+.netflix.com	TRUE	/	FALSE	1784196468	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784196468	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

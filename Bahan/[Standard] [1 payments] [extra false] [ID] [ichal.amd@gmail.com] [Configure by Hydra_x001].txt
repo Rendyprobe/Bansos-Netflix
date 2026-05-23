@@ -1,0 +1,21 @@
+
+– Email: ichal.amd@gmail.com
+– Verified: false
+– Profile: UmaruChill
+– Plan: Standard
+– Next billing: June 13, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********3649) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807687808	nfvdid	BQFmAAEBEONPyjUEOFs-t8ofUjVUeWVgNyL_51HSt8i2ypBDWsv6gVEH78-MtT7nC-MbAWSxA9WCPXrgxhk338hLLKOuHi_EaJ6rZaYiEDaT9EHUxWVemHJtP2Vw93glIawBDG-pDaQF95RyB7eiU9ln4bEym2y-
+.netflix.com	TRUE	/	TRUE	1809714507	NetflixId	ct%3DBgjHlOvcAxKRBBSdxS3C1l3WZRQDZcv_RVx4t864ysuSBn2bXhOtEfRtW8Ccj0XcAGHe3XHRexZp9pbU3K4SiwhpBXqlUAjUdtEZCicvVf6X2F4fITvlVxUS3RqemmNAIDbEoOw7p43OqVz28VXwPa-APWD8-3x4Per2BFnhQvZUDvu8fa61ZM7RCybBAktFLsTXI1UtlEAOGSw65Z78_7kZ8B8PD7mKNJDMfqWIag5pmt3Cu-kJpyJqDRvpWbZTeZya7WH8KErm1ZP3zICqZ5BljbuZ02Yr700i06wNT4HejuhYltGuMwpvWUQS4GptIKu6Y1M82FZ-g8Kc4kc2FwRk56t9C5slZT7kOJEWnIoGwftUeRZ59Xtwu6JaNngFsSAc_Ap7QJzIGMQHa_clrVZVR90eM6qTZ-zeLgKdC8bEJZn1cQsukvVgGrrJ1oWt1guDJZYGf6jomeGygLUcUT_QvnDmlvbXum_-TM5s91wYWfqO56STiV3TlwuYDl7j6YPBR8Bz1SeBwFqGZCNbcrdcqKs-BsFMhcrrlo0cRbYh-F4onE2hmyQE9dVgWHql9fl58EXHcFlxk0NM8qjPC4IRMr_wegutHBweLrmr9ybjB1rv1SxqYh4cpkL-7fFe6hBbsQwWc0AEMYAFH_4B2dmbrmNC0G1c69T2Dy3n2qX1L0GzYjnIRAA7pmMk7H3UtXWZZVoJDgtzmtMYBiIOCgwTPWcPETj6SmZKo8Y.%26ch%3DAQEAEAABABSIyFNzvOBFqe___W4dDFnw7EZjnrUYd9I.%26v%3D3%26pg%3DDG6SKVEMOFENXIDEVAXTJEEQYE
+.netflix.com	TRUE	/	FALSE	1809714509	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+01%3A28%3A29+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4898e973-8e33-48de-8d6f-83d1aebebcc7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809714507	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvUNusr1bKWkbPCNZJrYCamqeZ2GFd2EU.%26dt%3D1778178507754
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	e36d115a-a063-4128-96ad-e5a41c16f975
+.netflix.com	TRUE	/	FALSE	1785954508	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785954508	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785954508	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

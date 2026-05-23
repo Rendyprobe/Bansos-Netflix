@@ -1,0 +1,21 @@
+
+– Email: alpinia97.fc@gmail.com
+– Verified: false
+– Profile: Océane
+– Plan: Premium
+– Next billing: 30 mai 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | PAYPAL ( al***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-07-07T16:27:13.950Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEJW3qTqdalRqc1sywm_Na7Fg6JpPycLBrbww3boa2OfWwfS1BF746qYUsIMOfAH5fo8aMut_E9T3bhIBPHTVPJc7rVFpe_QABe11GuA1hQvAUxvlnl_eGLelGY3yicdY9RMReMzZE4wGr4LS9SLEuXT3
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+04+2025+21%3A22%3A33+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd247b3a-d624-4a94-9774-54905efa574e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxLjAx_J7gEiw5twkv-RZUEMBYpO1B5TFUn9mK6S3T_INzckJU6524Co-Lu8Ds46EX-gn58eN01uvdNf4eludqa9aqYbXra18YcBS6BfrvO7WnBKQblYPfU0ypNSNfaAlPW31erfVoWxWpZo1QYJ-gRmkv8gvvRPdCS5BpGBJlKq5qw_aWa4_PnPARdNY40JIsKqy2f3d6h1hqIV4hpwdOLICIdCdbR2zA36_bV1ynLjLJTjm6hRsoG-YVZe533NX6zXYBLI9QU_lUrxbQ-D7DrGRjM1gthMpmnEcsRW_mbdjELeb0ATNHYgQeah_7ZnJzbh8zq9rRZMeyKxeC0BLEdMji22MwR6E4qcnS53VlUcWTcp3mYH1g5JmyfCrMPLJOvJ4E33ZP89U6hfmZgg0TMh-wwHcwboPcum5Qb8ESbim_XGDHuPY2nLp5VIY9of6uobf07fsNW8zkBAmnq6Lx3jOXfCz710dUMWJ5DjUf-55p8eKsLRhGi1960EPzMr0H98_y7-4YiUA5E96bjRx3-FmIBqJKTSbubjU1EefMvYCTFshUcGdHGa4mZRtTma7c1lUBctmAGpZNrqKX0ZJBwFDfmMxw438JrDEnDcBpKcwCob603fyaiXnjGUp70tVk8KgXn1phgGIg4KDMV-apUDtuX59v0w_w..%26ch%3DAQEAEAABABSuZodbjjuKXbYbMYAqNcyYcmJGLINOUMk.%26v%3D3%26pg%3D7YACJLML3VFAJEHX2NJH3LZ2PE
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDumKEFj9f-JDprmbAMJODEXu_wfYF7Gw.%26dt%3D1754417584766
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

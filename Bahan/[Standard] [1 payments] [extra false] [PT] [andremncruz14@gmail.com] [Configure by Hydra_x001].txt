@@ -1,0 +1,22 @@
+
+– Email: andremncruz14@gmail.com
+– Verified: false
+– Profile: André
+– Plan: Standard
+– Next billing: 16 de junho de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 4599) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789428565	OptanonAlertBoxClosed	2025-09-14T23:29:25.911Z
+.netflix.com	TRUE	/	FALSE	1789428561	nfvdid	BQFmAAEBEJ5siZEpcoTiRPfBZzwEZvJgGrKINcAVgo_RZsbfwvw4pou-bi9C2sVqWK5ABGYjOovf-0Jq4H6AZsXwbhfiGJHGX3t2ykdyZUgLdMSITqj9WiYpdqLhq4h37-WdWXwhK5t7PPOpGaBVEpdKbjj3RK1s
+.netflix.com	TRUE	/watch	TRUE	1809648001	dsca	true
+.netflix.com	TRUE	/	TRUE	1809731699	dsca	true
+.netflix.com	TRUE	/	TRUE	1806944741	NetflixId	ct%3DBgjHlOvcAxL7A8dOJZNqJwHs_7Dv5KoFxQhDXhpTAW084ZEEXnsLclqBVdsXpwPDLajGHTlF_nvw9gUMmZFgarZBBX8B6zgD94t8NWt07d2sdJmWacjJdtJDRTt3JjChxzu8bAY2PN58oWhLEp4b7TcXvMr5U8MYUDcrtJCmkv3yNRI-TNIhxdHpXRFvfBniZCVMNgNCkCrgYtseurPjZMtc_fErHa6Og7SiojAv3NOTBMffq5EkjqC3JbbEdXa6HwLdI13zYV-Nh3r90hwNqcrH85-V3meOMmu3YUv7JdRFCIknBXdA0Hq5dXIy0RbmkqalJJ78ffO_CYgnpeeyraDtj209af3pL45mAi4o7rvl-EjKShU7ZBU4N5Y9S0k_RhVncMiQKN-OhUJeBxWRihz_Azlr3kh9wUrtG2hgy8qFCtMKxARnyEz3D1hZC6sYDGO34DMdbqopEIe8luQa0vIV43b7n9OZuTDlQUssmJW7vC4gPP5PwO04wm8pdWZR7rer19-_zOKo9f-OMBv48Q4YJDcq9-poWcu0tMyW56VfAWXFDOk6Hl0oa5zGpXZItAO95PrIy_KJ4EjZO5TnBhisSsIFqnKViVhgza0EykKJtbqFuZz_WSzNn2XaqAwMUSB47xYVw3NsyAjibjWD6c8tcCpRmM4KDHbn2ytsxkEmaPS9XBgGIg4KDA5NePTW8CfgVlMJ1g..%26ch%3DAQEAEAABABQnck0VVCtWSYGN7tnHQ-nMZUgxytMKly4.%26v%3D3%26pg%3DNIIP2YRY6ZDVRMMGQKWLBWO2A4
+.netflix.com	TRUE	/	FALSE	1806944741	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+18%3A05%3A41+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4296ed2c-c1d3-4f3e-a1e1-f4b7a9e83c88&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PT%3B06&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806944741	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6ixa82AzD1wlGo5q1XtFzDsT76lzuGR0.%26dt%3D1775408736242
+.netflix.com	TRUE	/	FALSE	1783184741	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783184741	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783184741	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

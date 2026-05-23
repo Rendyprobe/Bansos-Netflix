@@ -1,0 +1,21 @@
+
+– Email: FamilyFlix963@gmail.com
+– Verified: false
+– Profile: Leozin\x2059D
+– Plan: Standard with ads
+– Next billing: 21 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0514) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802910515	nfvdid	BQFmAAEBEI9YMjw3Q28BcvtoXQy3NyBgCgb3fLdtxq3ntrrPMuEqGSzfNynW8SUJOJ6lAYUNSfzblUL8ISuSfskJRsmM_vo9lMgWsFlSgtelFbcWhuZaZx2f6wrzLdbVILGgFtuQn_tzMbsmhZT1QHr6ilNTOIxD
+.netflix.com	TRUE	/	FALSE	1802910510	OptanonAlertBoxClosed	2026-02-18T00:28:30.155Z
+.netflix.com	TRUE	/	TRUE	1805597209	NetflixId	ct%3DBgjHlOvcAxKEBKuO8WMHaMK1QpLQ5eMFgrv57a9trmkK-xa4v2-rvl5Qk-sfdMyh66NZX0JXsmtdLfgexVrkqVhifTxjc-XUAQ5_INHFPKXU6XeYkO2wPF0uS3o34pRe6lMiiJVSDwuU3XVlskVa7vSObr3_xrxOPnB_bbVFBO4er8MLXXKIKsTET97ZHDq4Pz9jN_SJWZvmWrnzxhit_z4uD1-iEqm10-IQ8mZmfjF-Jw8jSpN7RSU6P8HVg13em0173CXboV7kzODXe35Yi5770iuv00Xg4omKwAc8ifuzWoXM_SXaXx0xUgr-GIl_Me6QvNR2mcexngZ65-avHsVhaIiL9qIfXOBVOv7DtQ_o7WLKxUbtVVVUBEgvpb4cLGsKvMQ0qPkpHBh5uEuLOwxho-X1yWm4aAAgNQxH_aLX_qOPHgvNquVdyt25zuZfAC6xtXUmj7WFFPd8DogklekP5LZAVUKpp_bcZa72EaOBO0G-GbgR8LJ1bHTQl6FskX2gmOj-x_I4fqgvEIaIIzwNHcWFCUVBUZsh13P_Oyf1WbWads956tv-6tjJ4ovej_GFIxjTHnSsmLYPBBd9Pv49OaOnP1zxHKJMtP9zQTYj0ip7ltL2dDZsqAatt-9udHQDORbQWD7ge4330eNWTBU7oNd6PvxeDHJIXg6W4phczyLDSGsI8zV1MXMZOBgGIg4KDL3H1bNkFWuR-Q-IWg..%26ch%3DAQEAEAABABRz3733KEWSIQ7rcLiuxkBLzJzPbhbeJzw.%26v%3D3%26pg%3DGW4VD7GMZVHXZHXBI6NCVLMVFA
+.netflix.com	TRUE	/	TRUE	1805597209	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS61zTEjKszyhftu1FPpU3wBcKJOZ-2Fcw.%26dt%3D1774061271061
+.netflix.com	TRUE	/	FALSE	1805597210	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+23%3A46%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7daaa8a1-02b4-45f1-a7cb-518599507952&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771374510699&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	edac83c1-69b7-432f-80fa-20f6fbc00d26
+.netflix.com	TRUE	/	FALSE	1781837209	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781837209	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

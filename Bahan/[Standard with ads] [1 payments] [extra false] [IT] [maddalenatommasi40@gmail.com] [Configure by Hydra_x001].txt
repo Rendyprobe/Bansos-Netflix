@@ -1,0 +1,23 @@
+
+– Email: maddalenatommasi40@gmail.com
+– Verified: false
+– Profile: Ciccio
+– Plan: Standard with ads
+– Next billing: 12 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 8236) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-04-01T21:42:09.506Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEBxoQUgDoB_8FKUDnIHj5UJgZXJnL4NxDxFI8jB0v4lSf33V3ifcqIpw9B0XrEiPiHuQlw9ZvdH83Ma_KlvRwANLBCjF5yN7seWHd4NGCUQtEk4tEH8sA7pLwA6EqK1GDiZd85ieiO9jWY3-6VYg1KAF
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	11992f7c-a112-4e15-a85d-f0b8958c5ebd
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxLMA6B25QbvrA8HstQCIP4hIyekP36EUZI6f0uvYC10a8TvegMYJP2Rw0x7TrrEZZ5IUZpeQlFeSCeI5ZGK9tlxHC8zgNR25kCo5HFcNZvbr7VtY13NcM3YzmEhtgkMQd9Pp5aOYKE2lBqaqNSVUb8Kw252XpVdkDPcj_bit1ABJiMw84fDbpZ8usie4LSLy8l2sAK15v9a4SQqcxbW45fubmnu2HsMD6JMwYxXCvATurXN30Gm1doT0Ta1gaqpbBiuL_WgZfIg_02acjAl4MDYLMYT407VOFiGjYezHaiy-ygvVrUYBRQW52GTqyVdVS8hSotWUJ2DA5EKNU_AK3xJrrpkzPL1v3ziSyzP_SQ8p9SIOjYfW07ejnQDeoZHabmKJOvB-ltzrvyDHN_AF9yClorCwmS-PlPVsDKHeNiuL1vhy8fAmSv0g903bkpp52Ri6REktpSqnDqKbDck30xzjk2inrES3w1ie4sF1-auOfTT0AtjaEeos5ZIFTngOiTgFMeHMUgtPB4WI46DYzX7EH-F1MYD3qSbyVwOAwFytVj_-w3wDGvICwb99Iz_Ck8t8A6__i2NrfTfY-wXOezk_QLkcEwgYt-AzqnLAicYBiIOCgwJMCPHRQBQA7CAFLU.%26ch%3DAQEAEAABABQB9K--7z0fI506Mg28teh0Wodgxpua4lk.%26v%3D3%26pg%3DFUY4CQUOKFBTLH66623ACVF2UY
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScVEMI2WPovwIOXRjcqGeiXgu6tppXfVg.%26dt%3D1775238436086
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	c80875fc-bd25-475b-af20-96575f4f78fa
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+19%3A52%3A53+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3208c18f-8bcc-4220-8cb6-c833db138f48&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775079730207&geolocation=IT%3B62&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

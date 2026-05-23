@@ -1,0 +1,22 @@
+
+– Email: rayltonsilva999@gmail.com
+– Verified: false
+– Profile: Ray
+– Plan: Standard with ads
+– Next billing: 5 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 2195) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796523803	OptanonAlertBoxClosed	2025-12-06T02:23:23.456Z
+.netflix.com	TRUE	/	FALSE	1796523799	nfvdid	BQFmAAEBEDbfWRUOphNG5NnYlWWA4_Zg49B1DtzuhQbDnvm4n17Q3n-pMNYq6yHD1pZPa0FCGHglokfcPuFrsfcAbEa8g_Pv-lLxF_0gUb2NvxvSFDB8JK_RaUywp_kGY2TfdzQisv0j7KmXVP9YUmXouCOMDcSr
+.netflix.com	TRUE	/	TRUE	1798765754	NetflixId	ct%3DBgjHlOvcAxKSAxg6iC6m7-jGyq8haSmAA3YoNFRrNIcyGkbwhclfoPwbwpjXsUdMalj0oOZeLO_vR1yjjk5GdKirtzawRp4bcw21E9sxBfFxnnZgGK9s4crtYBB3PF_YwFsvPrO8BI-5hQpo4p_jXI0O4uZYf-nX0-V5hPgjWScCf_JcDDeMBFOfmUFr-Ci6n6l2EtwY6eLVPYQ_bgdvMa05ZtFnKkXsK7YjUmfXRsoJ--RWvC4k6MBG5PbCELvAG-aX55CrbVNgfm2cvFpFYpbOeEBuSnFDxcbBXv1lDeJtZyk8dxb4vUtwCMKFUJQRYfKfgq6plbO_XRafZ58jKQ1ycMdsTmuJLP5rqrSypRd8HyakdcaHOH2H0E93c44NRjRExzFXZCZsXjohgZVQ8bwy-5t9LIT3LVpwk_noVsQCrAZXqrLrP09l6lZgVQDjiJaGbiagsyUPMVcw7HNF_GfvP6uDTn-SMUh5cuz5f1Wh2hCcvzahqOZty3IPNq7zMXR1MP6_OJFDndDr_l3Snair8Cp2rWDkvn2a4xgGIg4KDAv12HdCeRtVgC0C3A..%26ch%3DAQEAEAABABQ9yFbz7LDXih9cs0ZvrC6LOWqxVSYibNU.%26v%3D3%26pg%3D3SZTNBO7C5FDNJPHEOV6M2INOU
+.netflix.com	TRUE	/	FALSE	1798765755	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+22%3A09%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3fa5b26f-3276-4261-9980-da622f99aabd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798765754	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSe50uKMk_NckqoXrXID6-zCR9OSkYxyo0.%26dt%3D1767229755232
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	dd43744c-04d4-48d6-b09f-d43ac034783e
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	6d86d8ab-ac53-49d0-904f-73d205a49b06
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

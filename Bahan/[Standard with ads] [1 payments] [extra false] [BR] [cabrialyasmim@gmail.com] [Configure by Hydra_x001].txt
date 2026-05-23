@@ -1,0 +1,22 @@
+
+– Email: cabrialyasmim@gmail.com
+– Verified: false
+– Profile: Flavio
+– Plan: Standard with ads
+– Next billing: 15 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5987) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804988676	OptanonAlertBoxClosed	2026-03-14T01:44:36.983Z
+.netflix.com	TRUE	/	FALSE	1804988679	nfvdid	BQFmAAEBEMdbPrntNLM5I-dK8HmLlaRgJoQQIw15uXUbz2PYdnCwrOG9vvG_V-3MqjkkOTTh6s4Z6pcVLVIwOCXiB4emKPhoHPg9TZH1MuUWUTvWc6d8EKSPnBipU2hq5LvUk13_5sYMeuclVemnYghcujBaINAV
+.netflix.com	TRUE	/	FALSE	1809479942	NetflixId	ct%3DBgjHlOvcAxKEBHUsWPB5PvtIcvdatF8ATi1kNvmKrJNa2stPwxv33v3usIViD7dUfKtoyXPkru2DZiqXotVq5CNKDLoEW75Fd8bAsxMSksvfA4WNonOQo7DaM9jiUXq_hxUv_qJ1ymO1qYSQEvKMEjMHNtNpeqVXUHoGH77YXNb3yoh2S-D1MhPQDnRP2B1gRacVBJ2CR6rGcb20ItLGC-0ClWD-cktzMeWs-KNqQBf8BSDt8-Cx0LEODVk3j3yZKaN7veYb25p6XQgtMng0Fx7zxXfBuTa5CPp9YmGViaqGnumtU3r_B8AFv8BdCwTIhdonulMLYxXPtxgh4PFhvkdiskkQJZr0JlD3V0NsXCf7LRWay60eHqBbrpEV_SUfZ00fadghTQz_8ZO_-RsH2gEbQooSlnHiyNqC26xatxXw12xunUqVMfc56XoVMCRphUMjHj_jRkYnyh6TOYanm23E_E70hIU89HynW0eHCx0zIwmNxyXSlmyxTFQPbqb7FCE6Y4Dk0s51BhhQahtNQFbvNwcaEys8jGSzCraMQKli_DnhHakUKEaFFcBoY7i33oot9K7rfNrzy2ILTRQ7aCnKMgGFoNyy6Q7at0UWKegf8ym9-X-lBtEQDPjsah_8fYYu8aoFxmtT-XMrmA9RV7F9K7C0RlOoXqhu7PDizA-O6IuhwYz8xvKUyUclvRgGIg4KDH7wbvYPAphGurCFvw..%26ch%3DAQEAEAABABQIuY3FePolj5c2OTBk5WJEWGmoiIweNZc.%26v%3D3%26pg%3DKWZPVO3OEJBKFFIFVDE772DX2U
+.netflix.com	TRUE	/	FALSE	1809479942	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVqJn7tjG8bLqtjfYfi8eyj8ab1Kf6gEA.%26dt%3D1777943943187
+.netflix.com	TRUE	/	FALSE	1812503942	nap	BgiuuOvcAxJJ-SXXOi8HSNv078Hl-JvxK7JEYCjYiBwhdR4DzE8zxgBUfikLq8xmTfz6rvGGP8S8htdD_nUvHUEU3yLiyHc2neYq0np4VR-4ShgGIg4KDDnWVu0-ekZMr7hkaQ..
+.netflix.com	TRUE	/	FALSE	1809520392	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+09%3A33%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0181ca9a-014b-4285-870d-eb9f89d2c694&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=6&crTime=1773452677678&geolocation=BR%3BRJ&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781445295	gsid	8ac2e845-072d-4dc4-a7b3-c52f62f418cc
+.netflix.com	TRUE	/	FALSE	1785760392	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785760392	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785760392	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: rosariorusso@blu.it
+– Verified: false
+– Profile: ྀི
+– Plan: Standard
+– Next billing: 12 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 9357) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	a4a4ed23-d607-44bb-912b-0856bd010a5d
+.netflix.com	TRUE	/	FALSE	1788216584	OptanonAlertBoxClosed	2025-08-31T22:49:44.217Z
+.netflix.com	TRUE	/	FALSE	1788216574	nfvdid	BQFmAAEBEF9IzCIIil9C0V8OIqZqYPlg-GhdFYSDxYZcEqhfpwpFh3uKk4qPiX10K6kW9BZel2P48SDR9Bvhu6cveqZl-KCv4Di6QdO0ofsjVI9Ez9Pri981bUY2i3dZv7vLem1ljia2jzIroFxNTArtqOuZDkNg
+.netflix.com	TRUE	/	TRUE	1788265781	NetflixId	ct%3DBgjHlOvcAxKOA3ur1uUeAyVTVV267WyobVEw8ZojLftRyQUYLOPYKkGNO8zlihHzFHC1Y5OAFo7Dq9L43kKQMz2nl1L7rvpLLkd1gxnnfq_Y7U2aaA23fhIu150nWH6mp2Per30TMsZUd-tVHd8TbbDQQXDnA9QQCXjbvxrL0CEfiaU4hbkdz7TqAlSQ60p1FsJfUqONxOUNmlfsWVWQhCV7uLDeiovWFzSuZXWTw0FSLs3tIx8zdsLrTBYv8JVmTSsbKSDtThVLSjQi3X5-XMjPDNVehWOhr_OHGydDtxI7ToY4IZsa7ZdAJkAeaITtgU4lrSYjBlI2ITCa-87kL0LS2l4iAxtoH_u2VDR7G5IVmjVAz0mvhPVkIzRH6vjsmKQlP1Sserea0XF95y6b_oJUhfPIWGZGhPugHxJCn0ZNS_Rw95uzM3QZ_QcjZ33HkMz6oiVV2ICjXq1pkl1w-xSD1LCxOBJICUqTFRBC8VD3TY3PEiaF_WfYtn5vJ1F093DCKWloMaURUla62MR2_od4FvxscajkGAYiDgoMpK26b5cwuse0RVUK%26ch%3DAQEAEAABABSnmCu47c61eZ6rNzaylWnZzo-GB-ylRVg.%26v%3D3%26pg%3DTYQO3DRVQJHRJPZVEK7RIIYUVQ
+.netflix.com	TRUE	/	FALSE	1788265783	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+01+2025+14%3A29%3A43+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4a364caf-a677-44d2-8351-5a0d0b667a78&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B62
+.netflix.com	TRUE	/	TRUE	1788265781	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRg_hgZIwVG44sxP_9Ibc-3RwY9VRmdv8U.%26dt%3D1756729781628
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

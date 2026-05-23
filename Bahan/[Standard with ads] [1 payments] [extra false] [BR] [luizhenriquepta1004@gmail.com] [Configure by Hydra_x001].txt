@@ -1,0 +1,22 @@
+
+– Email: luizhenriquepta1004@gmail.com
+– Verified: false
+– Profile: Luiz
+– Plan: Standard with ads
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 6774) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799025849	OptanonAlertBoxClosed	2026-01-04T01:24:09.510Z
+.netflix.com	TRUE	/	TRUE	1807220034	dsca	true
+.netflix.com	TRUE	/	FALSE	1809975423	nfvdid	BQFmAAEBEIhJMx93tuxW7Hn65SDtqt9gi9K3fQcllPSx7mPZyRWPu0y5sux_y2bpmzjyG9TKDMEFEvn4RGU2thXxaIB8u_oHKaAU-A8-fv0qy_MwaPqpr8nfphiAn0u1VGnAZIpn5l2rBbxaN69HBzaMWsc6pLF1
+.netflix.com	TRUE	/	FALSE	1810160474	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+19%3A21%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=624645dc-9766-4203-93d9-9628bc522462&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786400474	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786400474	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786400474	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1810313857	NetflixId	ct%3DBgjHlOvcAxL5A2p3ACEK5pN4l8waEjY6UqD3OstJSAfKscWdrZo_kJ85l4N8WUUprOshbdZ_HznM48sE6wtJjloZR5xqoHFmVh0QQuRWMThS5cYisn4oZ4uRXVgiYUhCRg5q0W934orJGFLVjHm0Y9GHE_BuNgg4nvQ7qI7odP8gZOUaMo0SH0RFsQvAwqnvSkx8vlirerVKhg1lBC47_DFN0vothCtRGsUyAC1HZxwCBaOVXSbj7fFBNx8GTQpAHL4ZUzRZay1npBtVn8JVzKLCOmvrgwzOaOKownvFhRoCO23ztoTsMYq0-5apGMufwZIfJrUqpz768WM4pa1iMz867jUMRH3K6ut-dEscGJoG5ArYrqYvYoI3_uVk4sZCWXOTI0JOLhMNkLXDQfriSdbcw9hmqBR6ZC70kW9f9d9kWCM36LKTvrxFDSiM_5-Wyb1eLjLeA6PPErU6y_LZUbAobuslpSCBdwyImSP0FmG7UddGbMCfcdf5c0BEL_8bM7bzBYQmJcH5468_SFR35gvf-k8td3rmgqEBemftwb5UDkGottCDLg65pAvzzK8Jpcghc7qNci1YHPf1AorYtioWLmGoBOaqCuRH4Zu6Yon0zx-XYIOoshS3_dEgWLxTBagwRaD6xlK-qnI8xQaMde_CucGSk8onEmHTjWXhq2H29WkYBiIOCgxy__PSMaMh5P5pvzo.%26ch%3DAQEAEAABABSwCh4I1YdV5EIzkJ19LMiUCHCBBVlia0E.%26v%3D3%26pg%3DKNEOQXVS4FBHVJ3QZAHIERNOQU
+.netflix.com	TRUE	/	TRUE	1810313857	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJqz9HOAlNheZef538JyMKJRxMXAfmIes.%26dt%3D1778777857886
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

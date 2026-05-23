@@ -1,0 +1,18 @@
+
+– Email: joserenatinho371@gmail.com
+– Verified: false
+– Profile: Marcos\x20🖤
+– Plan: Premium
+– Next billing: 9 حزيران 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 7581) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797512064	nfvdid	BQFmAAEBEM-5EX281IgMYyQQj7J5KMpgE5tl9AqajZ6zHmFS5rYo3j8KPAzcZf8x0ERf7I6_NpY9BNxhRVGy7W0zmE__Dvju_sMPgmdOGJt9TFDd4LfEMhex43-i6aRLjdd4lvkgglg5ePLdvEz7uovODsCxfznR
+.netflix.com	TRUE	/	FALSE	1797512081	OptanonAlertBoxClosed	2025-12-17T12:54:41.000Z
+.netflix.com	TRUE	/	TRUE	1799341051	NetflixId	ct%3DBgjHlOvcAxLsA_pBJiROk6Sh2Jlo913GTAXgOEo5tsx51E1Qa6pd5CQyMGJ_5kbWPCcCJ619wcdU68Hu2TJTvDWJ8Tac4J02n-oKTgeSTiSaK1Y1OYhTQKsHfSpfUYPpxyQ6SVsHoa-CoHgpJtaRj7RjivEyeNxleb4tRnjB2Pcctl37NbFqhQA1j2PAmgyob8ndPAEq2qyLCyAPDsrhCjSDLkAYVSw7WwSUt95c7ftkvlBNlzx6hWvYIoK0E1l0i6VNImI8v8HdFXMxGjrZ4ivfL84XmQScDUVvxu1vXBtosDwwcw2uMRrRM8UTCPQneZ1WvXymqwCE3AKFu4m_bxsZxbN9QbYjywoNiZDkE2if1Usbjw7PNOXHj52Q6QTy045djLfRtpdMxSuPKJj3KAD7vAlCyQYcSoPuOcF_9MvwsE1sTcXEYLpUw0445tzseUe3liDnnGI-zxiioxJGAnEjzzOhqyUkIYiNsASavDPaPRWTfQPwojlRcodcMQZMp3dqYJYCIgspumh51F4yyKtU2RXqBezyqo9G0qol8zWe0ekHMcWjXBfgy59ae9mM-F5fJffEf8IYPtwDb0D434hZ4RHSbd0fXbLW7KlRLUnZmAfcObIIBQce00NFrIBlFmGO32KeOqbtWDJPUYyG_2UGmyO1ohgGIg4KDJhJ7o5WJJ4Kc20aVw..%26ch%3DAQEAEAABABSEtBGfcz0tdRx3n3CcJ9Q6Y-FufaiHrsY.%26v%3D3%26pg%3D6GETQ4U5KFHMZDSN5BFDXEJXU4
+.netflix.com	TRUE	/	FALSE	1799374395	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+07+2026+23%3A13%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6dedb25d-21a3-4058-986d-1884b4a43ff2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BAL
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

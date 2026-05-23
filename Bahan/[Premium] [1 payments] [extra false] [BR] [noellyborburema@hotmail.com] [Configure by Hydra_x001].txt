@@ -1,0 +1,20 @@
+
+– Email: noellyborburema@hotmail.com
+– Verified: false
+– Profile: Marianna
+– Plan: Premium
+– Next billing: 27 May 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8994) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788559487	OptanonAlertBoxClosed	2025-09-04T22:04:47.203Z
+.netflix.com	TRUE	/	FALSE	1788559469	nfvdid	BQFmAAEBENNQ0VxXIetLt0HD5b0sJoVgH0l3YSm9_py_lJf9WP4SgDUpGznJ9brQIQjxWlzi05unaZso6Jb0Vhm0JxyI4JMeN0MI39W4sPh8vFUA07otr1z1V-U621p-_QN-DfBWmA1umC5rBTQ6ROZDlUAeiLtE
+.netflix.com	TRUE	/	TRUE	1805039629	NetflixId	ct%3DBgjHlOvcAxKEBLK6IaH6Qfo2IXjeYvhSwQXTs945tVLmHMMYEMcAjDqV9nAt2oJaz9QfxIMujXk6Faf5nhInv7F6TItpE5ZNlb9VDvqcDfuNVjn48Z7W6yabkBNK1de-dgGKJ3I2Cgzl3XnElUUOv4xIfCfiY2iknvrcvrI9SRorWrgWOYU5HhifXRd8oNHpoOmpYN2POfynQFUt5Xr4OeT988zvop33_L_gmWwHTQ4nA2TqqJuA4lwM7rmQPC8tkLyUug0cuRC64eNWLOE--QIMjdL1wbfNhXE8mgXJkUpm9X84lAqdtlx3Cqx3zflBbKqufi-VMzlAFZLYu7RNAnmchTu_Uh3YvWKJWLzrRKpDxI4Cv-2-Wit0ND7P2EFeGWtkN-lmLlG1UjQD1C0DHwpLKf-q5NGP7eyA1khvb3rGuzfIkEW1VbDmLPE8Ld1UCnzlfdZPQDVTLfC2hIdvJ9cLw3_IRH386i5oAWJUjZjrMD6YdaGtR3kB93dtoLNfNs1lHzghEM_Ku_2abEXB6CSglvN5NRNNAXCYwu-uB1gEybBmA5tp_klW42tY9fy8FI25rbZgh7n1S8KLabqId5muyIEoEvqj1ol5rgip3bkTaUMrcoTX6GiYuw_3WDOHuFuY3IFoRAH1mU2IasHRwo_48L-4TD7Ki_TRg96gFGbHamOnUPQs9VTlLZB9WRgGIg4KDH_zIb6vctywQLYxkA..%26ch%3DAQEAEAABABR6UtWZob-AmUFe5rYggUX61PD_IB30vvg.%26v%3D3%26pg%3DJJCXBS5O7JAK3DWZMCOAWXWAJI
+.netflix.com	TRUE	/	FALSE	1805039626	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+12%3A53%3A46+GMT-0300+(Brasilia+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3edba4f5-5bd9-46b2-9fa0-5b3a8055f3d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1808063625	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781279626	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781279626	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781279626	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

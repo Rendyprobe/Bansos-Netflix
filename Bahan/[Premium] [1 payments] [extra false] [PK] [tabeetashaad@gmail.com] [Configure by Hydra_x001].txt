@@ -1,0 +1,19 @@
+
+– Email: tabeetashaad@gmail.com
+– Verified: false
+– Profile: AALAY
+– Plan: Premium
+– Next billing: 18 tháng 6, 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (VISA 1259) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802959175	nfvdid	BQFmAAEBEDXcsCELL2_4nqs8LxjycJRgqUmeyzHYdhQc1SacLmwF4UixV2gmY8QwQfYTzXrKyVE3vEGBJkYOmMFk1tkyrx1C8mMG7FWyeLJJnaXHiReoDB95uJpnT-Fd_W8ur9JniqUB1ZlGgl1sUdwMmG1phePb
+.netflix.com	TRUE	/	FALSE	1806607323	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+00%3A22%3A03+GMT%2B0500+(Pakistan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ef2787f-283c-4b73-94bf-40b0b87c05b9&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809113555	NetflixId	ct%3DBgjHlOvcAxLNA0BbKiREpZe9qxp3juetX5iR6VnoyQoth5psrp8S0lWSTXVW9i5ILNOm_1rdbIeUNnMe0VvaLKy9KtuT56oqgMxjcPPmZI2y-5EbRMEmz2vrzROiM9O7Nqo9Xd6PdsRTxJjkKrH6ykUtv8qu1gZXKFoGhNhoauupUriGVhF78s_hxzZAFhLxaeYZbS1uuTAcX6w1mQ9Cmm5gBaqZEEVi4_5HfLrDXIFTXXWJQyPNAxIsEie046Ehjnhr2F1Zet9JPaZXE2iLpbHf3fB83NUfmUWjXuDkAhJaNvCnZnM_GTrVz5WdhbPjwVdYeihqLNPLDn5pFyR2bB-8r3Wd80QN_HebWPtzMRLL39OTrL994snB1qtJnR7bLGOTL5a63MNn7tDCBdF8cur1etWNFKCe2DFe0B7xpA0Kej6fA_qQaGa5sy06lWeyZPlRt7CHL6e8zGt8suTfxY91SPbQQ42XUQISLHEWOTJLWDXP1rK4cXbY5QKxVFTH6afeNR7f6c_A6ee5cjHLtjWhluKZ5Pgp0wgGNMoMeC5-op77mo_NNAr0AycpjuEKlvKXOpnD9C6MrNdRwXZx2ctU7xv5Toox3bznB3fWif3ROJRycEitGAYiDgoMAqM8k8GtbHmnPYL2%26ch%3DAQEAEAABABSqrBMFbq8PXzcG2DU_SjinYBh0tAGKfFY.%26v%3D3%26pg%3DSVO65TK5GVBVFKCG253PL4Q3IQ
+.netflix.com	TRUE	/	TRUE	1809113555	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0IuuVdfKjo8vTCmdI30aholo8ERmjGHM.%26dt%3D1777577555384
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	75bff0ae-27e5-4c4b-94ce-085a93e51007
+.netflix.com	TRUE	/	FALSE	1785353555	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785353555	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

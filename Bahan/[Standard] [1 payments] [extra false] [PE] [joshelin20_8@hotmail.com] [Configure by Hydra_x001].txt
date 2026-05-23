@@ -1,0 +1,15 @@
+
+– Email: joshelin20_8@hotmail.com
+– Verified: false
+– Profile: Jossy
+– Plan: Standard
+– Next billing: 11 de mayo de 2026
+– Extra members: false
+– Country: PE
+– Payments: 1 | CC (VISA 8651) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1802446293	NetflixId	ct%3DBgjHlOvcAxLdA_2enynSJ050YJHtI75rn5nEEF9fOTI3rwUc-glPbwN7TzZxk5lPKML6nUmU3eNGg3gJaFlPFGUz8Zw_jqW81pyW3hQDhubdYxLjbgxzdn-BzaqiAjgh0q8YYRubJm25OB0S0TZSmoo8nJkTYC9WmX24K-L4tQEw9N518FFOwi-CZeZ-fpD9CPj4yCdemZvKdsv6-EBJH1PARvxCO8Xlmfd-ZN2mDt-DUpdR4jWB9Xa3HFwwjsnU6OpboHwuKESBWMIWAxMF_rJKq-5y4Ui56YvQt1LM6rqhzvu5_4dZaur6mX91EjKFclxKdTjStnDIwt33Gpzbyrjy6h3bf1dNdfzH_LB5KiXBDuMdCX1sjEVNyfEpUnsE8dqtMH0IFMZ9vfmDSYoy88GnS454SzTbDttW-VF0xd8bDL0TVEaVPPcsxyU_PkGBBkLX_ORLEQEIKqvImtZtJ5EH2CPxXbvGKQ4mrCn2mG6KuuX0Ht4i8A6Bq8YzBIsKqybQLZzERxj4X5NwFVwlFM7eJTBlpVbWIl6Vb-6HfAXz_gadLJEFAjWhX6LWMmo1Flwo3r3Vf7828yBVMZwMPMmpOzzzTDSkNttz-CqFP-4M5rSix86R2e9mshY1lj2yK4XEjfT9-hgGIg4KDC9R8fovINlk3BUFTQ..%26ch%3DAQEAEAABABQzmUiNVWw2qIsOcCvLtMPgrKI9Zfv2JpY.%26v%3D3%26pg%3DUX3IMUTWO5GETPHE423CPPIGKE
+.netflix.com	TRUE	/	FALSE	1802446298	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+10%3A31%3A38+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=393eec90-9a59-4fd2-ac14-eb514b0d06e1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802446293	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8nQQf-LnKUfftuKGS2blcQ7ZLpjdyIcY.%26dt%3D1770910291911
+
+Follow: https://t.me/hydrax001

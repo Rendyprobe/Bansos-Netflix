@@ -1,0 +1,18 @@
+
+– Email: ivanacalado@hotmail.com
+– Verified: false
+– Profile: IVANA\x20C
+– Plan: Premium
+– Next billing: 4 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4961) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796912900	OptanonAlertBoxClosed	2025-12-10T14:28:20.526Z
+.netflix.com	TRUE	/	FALSE	1796912903	nfvdid	BQFmAAEBEB7Gq9DXQJCAtFg6lxqES9BgxCjjogYOpcyTIYfdESyFDzzcc0XeIm-QxiIn00jFpWRMR0kNEbjBL3nST9Mfgut73MeotuujbaCdg_mui0OPPv_IYdd19jJfl4yd7I2nXPRDyYnxJo_RvBUB2O5bvvhn
+.netflix.com	TRUE	/	TRUE	1804789663	NetflixId	ct%3DBgjHlOvcAxKOBMsPGLyMbe7N5AwmNcRkxznwGNIDpn9O3IfCb2xUuEDIJau0X4EwZKGfDVHa03-OgokNITjtBidJ5mTAf0_kR4wplaTV-A-NfRtSH3SN0rK8wVbPeA9m3QXnrae3rG2D7IuyEmAZhttlTDfL6AVd4dPYp1BaRDFflKNycfXefNfeCUO4Kr1z2cifo7qXyWNWEF1AEPxHrqYlfeRfRtupTBVnOUuq-PAd7C0u-JSEFIlH84WSZ1_xrKaxYk8WOtUcsPfSeAwEEQwDUxSY94G66swZB_89dgRvWDg8QPcndMPPjQX4s4RSvbDn-ezRMCVurgxRoqusFufx5heHyDceIPjkNEOZnpzgiPeizFNUG9OLr8nAxRu86JNjeLYvtZYRn9kbirJ6smt9x92bZBnABsr7gQelAQzFUHIh1umVdNz65nkaWMF0nqU5yO3YfRHaSimD7RV7MlWBkIr_oZyeazZzMFgchNZnrVv-tzE43utr4YV7zvfAWyrp-pPvKJTT1gP3o7-fLZVHvlb-Ddv3ZoF0aE_qyUnDgku5bLU6fvCUCp9kxV9Qbn2dOpeuPbqIV31myBIif1-AkRIH83fRJLUfJqAwQKJC0akZEQvRb_WQlbKK5tvlZ0e6_36saApharxcJ30A7_yANqcGvasuUE5rV1dstFLHorgCVqco1I2-oGS0hCT9NM6xKqDsUEAYBiIOCgzz-Mq41BlM3rn9u_k.%26ch%3DAQEAEAABABRYZ6srU7qM3uwnKzhpIwfBdUb7XdCBZxM.%26v%3D3%26pg%3DP5QV47XOPBHAZPSR2DKVEQ7HHQ
+.netflix.com	TRUE	/	FALSE	1804789661	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+15%3A27%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1012a8c8-059f-4083-912e-33adddc370b6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781029659	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781029659	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

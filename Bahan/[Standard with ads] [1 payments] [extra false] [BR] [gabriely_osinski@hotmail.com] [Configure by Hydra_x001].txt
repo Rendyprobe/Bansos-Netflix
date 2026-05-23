@@ -1,0 +1,16 @@
+
+– Email: gabriely_osinski@hotmail.com
+– Verified: false
+– Profile: Infantil
+– Plan: Standard with ads
+– Next billing: 26 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4399) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785802594	OptanonAlertBoxClosed	2025-08-04T00:16:34.439Z
+.netflix.com	TRUE	/	FALSE	1785802432	nfvdid	BQFmAAEBEJ06x3Vhnl3wEp0QUbCqE5FgqWN8FxAoskx_J7xX55v8w6nJ0WFjCKUXTuRsPw-Ho3jkl257QxlKG7K09oi-dEg37jZuUW6HWT2zV67WMf-l5ILOCV7s_9aiz0c5chtmzvres3-xPAAeX4v_WTY3Gacj
+.netflix.com	TRUE	/	TRUE	1795370597	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AqiGeM3fGPzLx3mbqgLq5hHtTzfBn-VdEoLY9i7wY282wuUhrXs5TfDKU6LygM-xSvz8wWWmU2oicN-cdWLpDn1WLoCqBTMKLIFxEwnLmIQSnXsOyTpjy_7vW9HxtkXkY5FHG0V9Xz3ZhOyMaXkIyejws6kgIEuu8hVkDPpbGJf2czMvkd4Mfsj8AGYJVDfcCiytjsAAWcQl21JXrmcGKeVvsFa-lch6YjuIImoxv6i2DHe7ePYqE6UNvF87kXalSsx6LLinYyynULTrg69ZNLdyhyOGRNcPGTmnz0FY3czPYV37CzxJoLTZXYzK4ywYdnBQ9XQbou4dgeH6e8cPQhRUVSgzlJIky4EcrrPJYAPHa_UhQSddjw2CmF9YhDb4RVg0FLhqujGSvLmdrmxOGIt-TbHATk0lIoHhbFObmAJzbqs3qUOprSi5LHD7I1MJQBhsQ4QmoALtvtt7MV8bRLtt8uX8hJkeQyP5GpEhMUDePq06E3_AlyRrIxgGIg4KDHufTHj-4F1MdxzyQg..%26pg%3DUMIILQLC4NAYPC6526FBJ34RVI%26ch%3DAQEAEAABABRIt2XSaPJrholl75UWEbjODwNXCi1GeNg.
+.netflix.com	TRUE	/	FALSE	1795370599	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+15%3A03%3A19+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b9e0456a-e3c3-445b-bab0-afac47138e44&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

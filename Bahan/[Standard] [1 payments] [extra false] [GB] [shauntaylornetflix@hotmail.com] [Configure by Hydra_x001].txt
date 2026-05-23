@@ -1,0 +1,16 @@
+
+– Email: shauntaylornetflix@hotmail.com
+– Verified: false
+– Profile: Shaun\x20:\x29
+– Plan: Standard
+– Next billing: 5 June 2026
+– Extra members: false
+– Country: GB
+– Payments: 1 | CC (MASTERCARD 3742) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792309213	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+18+2025+08%3A40%3A13+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3ef1371-67d9-45d4-a45d-5ea6565e5801&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1810323219	NetflixId	ct%3DBgjHlOvcAxKJBGIDp6G3_lMzEnbz36WJmbSEZrG8V0SVoEHoYkmOu5zMV1spPJXJu67OPHp1NXVOAVidJlKcoqXTGeXPAQPgLz8ITUrQ4LMmKDuYWBrj7OARgdMIuPQtY3bN2t44qkQftzsuV_dLPtatb1HkVMweG65c4BVuNTpYR1jBenpBAQK7nTcO6NjbEg8PzHiDRSVDsAI0Mqjf6DkuDVCRJLeyPU07ed1h-4nNpW6TftUeyJsNxASnMCuJbnVvh__S_00sbEaB1U63uVqAgkm5_MEsO3F0f7MpXm0hz0iUF818Ea1a9kmol57jjZm0my1XkKyfBg9fCZbtqnhiZhhBykmYK25ZIVK_hl1XzhclRyIrw8griGiJxTeLjh-DAj-8f_8Wr0YWoGogPHrazWyTg6xdy04NmFALIaPnKrAK1TdQuFqSQFdkRQXDFC3t5_UssWAEsdWAwGdvXns1MSVQQCmddJYN5AU3gRr6Dc_GcM4endHWkRFoGmpqtI6rUU13DeAKoDRJgichBQ_DUbJUBFm-RG9ELyNVnFXMlkkmL4ulLyBNe1udCuD14P-uOqp_ic7_CXWOto1PAaxC7PkPY7uI-VMm-6pbVK2To9IdB0pQcjBTcb-pEKqIzzO49EIssjINaV6C0QZQOpuZxdFmTduQOdQjg7E6t4Pl5L5Uo_fX-JiY3qpgJMrvZTgPGAYiDgoMI2xrUHGq1PmpveWt%26ch%3DAQEAEAABABQQwJ2uxlkUNjSbOJXjjc1lgiu9RgPn6RE.%26v%3D3%26pg%3DS5GFB3O7XVG6DDXQ6KWZ2G4K3I
+.netflix.com	TRUE	/	FALSE	1810323219	nfvdid	BQFmAAEBEKVY1tDJ0J_bBPq2g_KTvHJgWUWq6Benz3JNEaQFaOVVYYpQl76Bkseh-BCnKB3TXR95YdEIyoVkyszzqE5QOmam-G_wVLtoHwcTVEi3nogQ9ZTbeFiLpMw45oCNbXDhw3ojzODfd9MPlB2G84ko_tws
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

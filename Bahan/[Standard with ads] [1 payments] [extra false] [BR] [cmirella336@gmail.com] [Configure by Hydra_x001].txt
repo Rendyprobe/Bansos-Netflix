@@ -1,0 +1,18 @@
+
+– Email: cmirella336@gmail.com
+– Verified: false
+– Profile: Fabrizia
+– Plan: Standard with ads
+– Next billing: 14 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0405) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801438817	nfvdid	BQFmAAEBEEXNdolC65SRZ10AtGFFUBdg44HhjPSw7JS4DWFN7BRdF8_F7Awfr6CE6Zl8JFaWwJsDfaq3LkcNYrSrYthO_s45x0g1ZvVoj2xgCdrkpKK_1miEdx_AVe87pSfhyDVDYo20nIgIQK31fUrhT--08rkI
+.netflix.com	TRUE	/	TRUE	1805250229	NetflixId	ct%3DBgjHlOvcAxK-AzWt6PGF-rPE5wK5ANryZt3IkcR04imXW1Gg_JU3Ji915Elvuu6BJ2CyX5EuQ_HRtMtO82p-mcrCAXXyRdHFgK-pxYCNtLdpWYNUAmVJl2DHLQdC_oDtmzj9cx4nK99J4FPer92PEdg4ty1hV5cdCZq7atAVQrfPGN735Vk8x6rppMgzhpPH0tmCB3DhmnMw8Rg_WPqXF_JCTg88VlAFfZwFUhaiwCbY33goKUIdsR2Loh0iuRdrESSmk0VofgWGGC_gvzk3PC7tJtn-CocfCI5fl1jfvEZh5HFtyJ2qgilEy--hO2tLR1gbYGgjWrVJrpEdjbTBFYWN9TYXSW_K0apGa1Pk0iP9tcoWk5AkRG8Ueyx_RV5uEmbxuOeI6te4btg5_ymLejdjc78eAbpGeZ-VtWnZCJLoZpDEzVuvJB2G7Tz-4yhg7aAH8SO-XW-7wygl9VPbQcEGhJu5z5ShaS8P6P2DZh_Fn3_rgHsLUXLetDBnYTs5MUoe3MhCWRe9VUoQguaHSXGGKsC2Ev85utxKwxwqWAkIoYYlhMd7iqUaY4_RmXTarVArJU9FUCvGkRa21pNST4qztMnJc0aVGAYiDgoM6V37xm-7QWDhjVkj%26ch%3DAQEAEAABABQ8EjUB0tgFglHG9tubtkryjVZdGfIxDHs.%26v%3D3%26pg%3DWK4IRWDEMJDQ7KEYUA6SEED23U
+.netflix.com	TRUE	/	TRUE	1805250229	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFX-WG7coeXEjns5fOaRMF5ezeIUvJXFY.%26dt%3D1773714227774
+.netflix.com	TRUE	/	FALSE	1805250334	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+23%3A25%3A34+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=634edb23-19d3-4ade-ac90-941eec618021&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPA
+.netflix.com	TRUE	/	FALSE	1781490334	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781490334	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

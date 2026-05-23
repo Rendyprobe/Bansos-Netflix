@@ -1,0 +1,18 @@
+
+– Email: celvinanda.octiawan.22@gmail.com
+– Verified: false
+– Profile: celvinanda.octiawan.22
+– Plan: Basic
+– Next billing: 14 Mei 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********2023) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782559667	nfvdid	BQFmAAEBEHxIZPHvcmM2NSQVEx35cKJglr2h16d5zCyXlWwJbeVo0D6oIqKSHw7VjS0U1hguFOK32ZOJjOGIpnp3BkqkdsyL9lo7j9A5GkzoVtfPKsymbcXG-yUbs8XAPYPT0RttowtcJ8D8-vR0GfF0cY82xQKF
+.netflix.com	TRUE	/	TRUE	1794400182	NetflixId	ct%3DBgjHlOvcAxL8A9H62-zpq2YsnGBQUIqiyazWuCpzP9mRL5lj18WPKAg50N8OsywE49l5A0-EMa0y6gMz9zrp42fGxBv0T9qx21PQUzPvjpjTzZ-HU9zrL9HRi30jhM_hsT4QaO-ARmFF-YrRYQ6PqpcerbmSZAsVj0ggXX-s4HUu8jPiJrLJfG33sxwMCNSzcRBpVX1mRerQJQoVz8tJT9Lu54gVJy6xYBQw9l_RRX9BlBeHVw90h9X5JhLdJNJDpOK1QhCRHyZtHJO3IKrQpoP2EM5EdVSf2pA8w0v1yLnWYC5yD3uGD_GMT7cEb12eegS9WwG5APwsgYBW0ZCkE4HgBwNVBLASBMW3wr01e8qYiuI0n3EvJV1zH19YZZhtSxwsEVBMQC9gIU1V6AaB3llb7-lUjIF_kbQch3HYkCfYtMYsEoJ3vjdUUzABBhG9rkz3lRSY4sZZMnA5Zb5p4PFRMRG7UTI1da3KT3utbkffET41_EYwM9m38ZWB7E4qAxmiiSrlylKZWskmCsEpzorJyTlGBhYt-lMgQr79HnGKJ42hGL6kHIypPDcDVbi9jx-dPk-0YlpQSny5Re1coQCVJFp04h_hcdScQ7bq_P8N73xPdQcwdNzUXbGsKGPhkt23EkegwgcXW-htivYGMQBY5zCAfg7oKP3DYcXQ-aXZCaItMfoYBiIOCgw2bwoHPv9AL3tc4BQ.%26ch%3DAQEAEAABABQuncPkKyvX-p9bOdp0-8a217QBX_47nJU.%26v%3D3%26pg%3D2IDFLYXQUFDX5C5RHFN74VAQEE
+.netflix.com	TRUE	/	TRUE	1794400182	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQXYsDD5a-8oFPUYAlwUarl61PfpbQOAAQ.%26dt%3D1762864184211
+.netflix.com	TRUE	/	FALSE	1794400191	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+11+2025+19%3A29%3A51+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7c52dfca-3a30-49f1-8d67-efbaac1f6b64&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

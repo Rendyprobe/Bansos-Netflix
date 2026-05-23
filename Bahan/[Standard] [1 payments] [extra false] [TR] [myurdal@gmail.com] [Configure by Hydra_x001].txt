@@ -1,0 +1,20 @@
+
+– Email: myurdal@gmail.com
+– Verified: false
+– Profile: Alicik
+– Plan: Standard
+– Next billing: 30 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (TROY 8703) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807800353	OptanonAlertBoxClosed	2026-04-15T14:45:53.751Z
+.netflix.com	TRUE	/	FALSE	1807800357	nfvdid	BQFmAAEBEBNWS8QZZryvLmqEShTCTaZgYe8zCXG058DeLSP4p6IclwSp_ESyzig_kvPo2Ncr6g8Jl8KqtnXFF8J5NAWrZnNw9bdGdRG4n_9ABsvytcfwxOtsn2Y7UdJpIMarAQkwFiRbn_MjOho_S5TpsCtKAD7T
+.netflix.com	TRUE	/	TRUE	1808488347	NetflixId	ct%3DBgjHlOvcAxLOA7Mv-AeQA-hXzXxb0Tm7BhEzE-akUjsSIqhuLv4LtX9rumE5nJhM0gTSQsv0l68bzcEViyVL1j78OTQU3VaxZofPGgNBuq89M_Cdc7n_LnsQ0tcBoU54pflSr4VSj9ItAtNkLFPDzTqBzQN45nq3vw95L3CKXsCa3oNk__nYoCTY87fYrpJ4dsPj9GXDeNpBRnCns7wm-Eose23hDum_2Fw0MJ1RpuNKV7u_34N9vFT77qJE4w8BurOJ75j9-ryKKictpWsojzCerGQX4JN8Z9bJvOidA05h5dcvfab8FikOvVqwqB22_hJzed5IYCemEMTN8kTIHUwpgBXgmB_KndboNZ53-xBtK-b6IDaW5qjjK4tAUsbGtSpJBvmk0k9rm4IIRGZN_vJ2HFKVufg2WDahIImK12OJ_kkYyypBuDAigyH4mjpGa9pJZ2ubeq4pARsgMe_oIbLHa0GghbNb_QQ-zCcAX1DJPx994Ru5I8zXSNQhFQBfoPSKF1SKsGBDFSUZu--umO8abSofApTF88ge-kKI9H_7nieR4liGqiUvu1U4dD3_SV9qRBFUDwbGIG0X0ylqjs12kZOfVpYUIOLeZoyTievUoCisJOCT2xgGIg4KDHawJSQB_nM95I_zHg..%26ch%3DAQEAEAABABSrYSyTFVx9WZBor1Qi6lxizC3h6HRh4u8.%26v%3D3%26pg%3DA5ZVGV52OZH6NBA4SJRNQP7LAI
+.netflix.com	TRUE	/	FALSE	1808488345	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+16%3A52%3A25+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bca8538c-5446-4173-b232-19e36dee97ff&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776264354363&geolocation=TR%3B33&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808488347	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGTxSuFECSPFLZRo9wtHVcyamaGYb-QgM.%26dt%3D1776952371421
+.netflix.com	TRUE	/	FALSE	1811512344	dsca	customer
+.netflix.com	TRUE	/	FALSE	1784728344	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784728344	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

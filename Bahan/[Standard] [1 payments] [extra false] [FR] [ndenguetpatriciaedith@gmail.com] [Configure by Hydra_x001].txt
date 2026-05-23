@@ -1,0 +1,21 @@
+
+– Email: ndenguetpatriciaedith@gmail.com
+– Verified: false
+– Profile: Patricia
+– Plan: Standard
+– Next billing: 3 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 5738) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787582937	OptanonAlertBoxClosed	2025-08-24T14:48:57.816Z
+.netflix.com	TRUE	/	FALSE	1787583026	nfvdid	BQFmAAEBEMAze-cprdlAedDk0aOtMcJgR_KbKKRx_gz87cVT-fxR9Y1AtKFNYkNGsaWuK7fpZosxfgA96Y7SDKQGO9tsDm6R0gAUSHiDu7auYwttpRqFv3jug45UEHXeXNNJDabcjRgtbnAV4UXbpNQnlZuOPG-0
+.netflix.com	TRUE	/	TRUE	1809120344	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA3LyxWV9WmcqQsCt3D2-a4cVFx3YbbSzXlXwEP8P0U6y-fDOQ7DkMeBPiipWOy6fiPw3g3PWzPvOKZYPOBvfXcKt1j-VMiOYunyfxnSUvzPczteFNgwwhsxziMI6bzzXcis6RqhCKbCoueYJ1_y1JL7IZf3l3qhmlOq2nUmyyxhmxVZNxM8L2Si7Q_f2vmoevHQMEbdREDquD0WWHLI2qo7Wx1ica_ju5ZzMv30qMYnoDUywsIlHoKnrO3kFAoBRzXahxLaxFwsAZHeOK_6kLmkdSKymvWfDyWGM6TWEPpSu2OY7F3pXdlX-2sr-y73AqEyogXnTKighHHInNzy6ymnQOu69UXXFhW-ferY2PhMMNBK1d_0P2VXJv6Y9DDr8RqhNJ0XmVWKjvUMK846RZYuiiqkozbTjZz2P3jYpofkOdmKO1VhPwHt3csJ-UAHR5j5gYEvmS7HxQFIbJwMTw13dga5m3GOZpYhijToJs-FQGUtYV0oxmy5cc2D_YIITbFIQGjntEAYhDwU-y5dqVpkqPTa6Ph_RFoepymTMqRgGIg4KDCfj7eOUltBT891Vjg..%26pg%3DVLLAJ7VFEBH4DBJZ4VPEYU64CI%26ch%3DAQEAEAABABSCNhWWWoi2puH5JNPnlcA5XV_cHeTnlZw.
+.netflix.com	TRUE	/	FALSE	1809120344	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+23%3A25%3A44+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c700537-d636-41a5-81b6-5e35383d6f52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809120344	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmc2qV_Czadjt5YFM6IWUKOarvtP9Ps3c.%26dt%3D1777584343749
+.netflix.com	TRUE	/	TRUE	1812144344	dsca	true
+.netflix.com	TRUE	/	FALSE	1785360339	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785360339	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785360339	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

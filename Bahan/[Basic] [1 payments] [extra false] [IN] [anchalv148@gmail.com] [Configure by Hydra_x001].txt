@@ -1,0 +1,18 @@
+
+– Email: anchalv148@gmail.com
+– Verified: false
+– Profile: Karan
+– Plan: Basic
+– Next billing: 5 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( a***@okaxis) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805084519	nfvdid	BQFmAAEBEDZIyHYkOU0aR7GU0PKGbPZgs1ZJs43gHy7LVDIzD6nnr5lOeHBhiTHuI9EWmF17Uis4iXSWWA9FgRp4re1iaEjBlnHnc9hJCv8aPU0eqL1S-WS61M38KHaaPsjOC6RjWb5wNtPobtm_AssPl8db0BI2
+.netflix.com	TRUE	/	TRUE	1806859533	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOab1WHhLGfWalakykR1wure7a4zCnB7E.%26dt%3D1775366765758
+.netflix.com	TRUE	/	TRUE	1806859533	NetflixId	ct%3DBgjHlOvcAxKDBCAt1JpaX6aol_W1ZxQttQump_-bogYpa8MOQngT4eN9KF2H9lf_C0vbKbGJmaLZgYrQEaVWrqzy4HYErgWqQNLjzr3_NSgcvyEhBSgiRlX8deHeEbRVhMMir1UBC-leJ6-IuMLtr0CC-P-1WP_WWJAUvAaRGgpvzGYRnoxHW1l2fLrk7wbgbBS5rbw7sKofLkLojbBPLSy8d3jYP01hdSSU_tQZRF2h92rMO6hYn3-Sp-9HvDpniHOSU8WUhqukMPrzbdrsIRS9mrIfFR-x8Df8K1DsY0r3rRNFsJSfe0AGk3rhiMHEN3ss5NvNBIHFHNkhqRGrA3tTQ-TjUcfG_NX4C6N3CsoHmMSyKdfO01eA2fcrfivR37GPjgDQRKU8mYvzP48PnKdjIOOpoqg_5qRI5HELDIGtPVi1ooEAXY0UyKJXFRoUhdG7bzMY-kRw9gH_xKUpYO3gHUZ1KSLsp0QQW5aJLecCbPHhFVFgTXENAp332kVToIfa-koV4GLmqT8Q8MYYDvFoa-cx8V1WXuy_Amd3iv8d-LTSqZnbGxX_F0oWfFP8jylxbK6MwhRlkzkOFb1t81CXXVvy0haBhKDVLHYljv40aKXm86b-UYwGGkjApKizij76_jhRrxsHMA8R6Y0P8htiu3qHABTqmRnoWVNXGInShu8UyGwnbEFSzSIJGAYiDgoM_SiSOD-ou2wco3pW%26ch%3DAQEAEAABABTI7nOtkP09Agm0Ww0HonV7ITBFFUDqIT8.%26v%3D3%26pg%3DGQGX24YOOVFHVNFPXDWZT7NFFQ
+.netflix.com	TRUE	/	FALSE	1783117436	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783117436	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806877441	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+03%3A54%3A01+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c19fc4de-93a7-4af7-aa25-f4dc67ea72d2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773548405332&AwaitingReconsent=false&prevHadToken=0
+
+Follow: https://t.me/hydrax001

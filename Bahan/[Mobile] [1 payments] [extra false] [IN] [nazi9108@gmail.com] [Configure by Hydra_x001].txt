@@ -1,0 +1,21 @@
+
+– Email: nazi9108@gmail.com
+– Verified: false
+– Profile: nazi9108
+– Plan: Mobile
+– Next billing: 17 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( s***@ybl) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791313301	nfvdid	BQFmAAEBEDcRp6q4DauYGKwb2dznVqVgL6AvpabAQttN-2QqKsHBhhcddiCA7nVzDjkxhDoKEyWoWqR9TnNRncBNVeSqe227xtwYZAAlGWPO68Ijbq8dzWCzrfGQ3VBf5dXIWmZzpASbADYn7AxDBXEMex1uDDy0
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	9d9d0dee-ad66-465b-b310-070f28bb43fb
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	077bea5f-1f2a-48a1-ad00-8952277e695a
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1792049166	NetflixId	ct%3DBgjHlOvcAxLUA0aG0-Rs8xeD5pnv7ooU0imKB23-glBynDA75HPQ7e2myK1HUvcjS-IYUSPaZ8wDCsaslbZo9kvmA5RS6CpD0NFGjFc0IdrSlpDRlm3ctjAuHoXSJWps0BkdauqMq8IGtlaX9FUhR2cR8ts1cms9cBThXu0CJnnUU4IfkKhwVguuyGYAhQ5fTSOyrEcqzbS4iyHodLhlQrXIPM1HVDxaJozZj_tvpq4xSBLKpkzzoMTq3F_y8EmnNMt0CMxY3xP6tuWNp8YiSJ_6Lv87W9BqTR6BRDi45VNYJaHoRlBIQhLsgmGO9mwG4xzAuqCZUjTCkhlWv7cWhMhe0emczramAgNPEOteZSfhrZzThESIo7XHwgq4NiKMFrh-YkCC4TkpYxa4r7VUrtzVx2zzrsj3Jd2kp_Qj0_GOiWatFe5tMKknZOQWgh3sAUTqqIxa97ZHvjGasYiJ2tT2V3o3_ixUqTySMqcAyUaPYkXFqGUp09um_USbiIaJpEm_hZcU04XT8U8j4_TvhOfoDz8LPjvRSU9fz3Uni7ctX4iPOBXVtP1rnPExpI8dDYLyeLgjzos6wlk4ieFiBVyd7ISivwdkOh4a3xEHpuz5zJDhjKLqj63JFmGlABgGIg4KDJHtyk6oVYxRH76g8Q..%26ch%3DAQEAEAABABTkD4g0vW-N6FWKkjWaj-oP9kPSPbe3RKE.%26v%3D3%26pg%3DRHUDLDUF7NCERKRGLHEVBIDFSI
+.netflix.com	TRUE	/	FALSE	1792049163	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+15+2025+12%3A56%3A03+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a96f6e50-06d6-4848-96e7-2b64d8f876c7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792049166	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIwOVauWhqeMwDhIZZB3H8W06TfmmxRnc.%26dt%3D1760513163564
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

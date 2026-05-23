@@ -1,0 +1,22 @@
+
+– Email: kfr@hotmail.fr
+– Verified: false
+– Profile: Carla\x20la\x20meilleure\x20t\x27as\x20vu
+– Plan: Standard
+– Next billing: 12 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 7710) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799879341	OptanonAlertBoxClosed	2026-01-13T22:29:01.404Z
+.netflix.com	TRUE	/	FALSE	1799879379	nfvdid	BQFmAAEBECwB6qMavE8Ak40KydNqB5NgIxOsSrC1J0_4FVvGRUltFWxgOiOCqs4vzD0ZkASJfeALF8uDh_wzAI8z9fcUjyAQzYLZ02PFRWumGISx5swsNYlx9d6rumu9RZAruR4qF3R41UxstLG8MDvHMmfivmkt
+.netflix.com	TRUE	/	FALSE	1808507485	dsca	customer
+.netflix.com	TRUE	/	TRUE	1780396279	gsid	b021befa-5439-4a0e-bb76-68c999c62027
+.netflix.com	TRUE	/	TRUE	1808119744	NetflixId	ct%3DBgjHlOvcAxKYBKJte2Byr8qk91-FsIWff_BJ6U7C7OPf9mdPlpM1ri0O_0P4Wf7IJ68-KFuvvp8r-UTXmzqI7pIt4CuHKI8eMnCmCRNZFkW6TKQGciRRzz3dpPXTheadKpe4q_Ds3lIQtQgTUhYINsPNHA3OvcgT_BWkZAD4FoIYG3chA7hqSpKQPkE4AoFKDogDPLDhVVVwBAMPSDDbXQu_EooPbDtOv_nm4ZPrQ376m5v2H8ncvB5ndJDHgfJjvQea0AFoJP4tj-EkpvjGacFm3n7QvT2nyzJ0tGXVl8iB9YO6SwobhmaXx801bcHxA42rRhaEe7QN9gwvysXEx_sWmFwpJTKiLL608H4nNAYUFK1ORWeL_xRGnWj2ZrkZnuME1HyUGHfGcFD2wujYJgAljXmKSTPw0E38Qsa6-GyF5MuIVAmXZH-5oQGB1m0Jh4VMlwQpckxH899H1OlGyxxJSl_tBy8_i6AEv-J2R2sa65PvMGKTF66Vm4_atLr0JYtRJjWyLaQZIkIX-Hw5kYAEIG76ZbUak-EAn2JWOugdGXp4sVPiskVM5lSDviG_lizdW2HY9y1ITn1S2vQhQ9hC1Gmg074itmJS8eyd9oCgn_OErqefDttVaxRhswhRb2HB5ER8w1UJBmjav9wcCEvwiGhzgjP34lYv7Pj-DTIqZcrJkTVyB7MGurIHrW8RBqkGyodPKnEAg0akCyG7z41iGAYiDgoMX5LRPPDRMgcKavsY%26ch%3DAQEAEAABABRV9IzJUU0bfPRcSpoRC_CohRbBvoCUB88.%26v%3D3%26pg%3D4NPL7PU3U5AVTGLMLCHFPB5BBM
+.netflix.com	TRUE	/	FALSE	1808119748	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+09%3A29%3A08+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e1309d2b-d898-41dd-923a-344e92007bd4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1768343341883&geolocation=FR%3BOCC&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808119744	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSyIyUjR8GPkuVV-2ntorE-pn7__7qPuGU.%26dt%3D1776583744423
+.netflix.com	TRUE	/	FALSE	1784359744	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784359744	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784359744	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Email: djchicosimonelli@gmail.com
+– Verified: false
+– Profile: João
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1783649355	OptanonAlertBoxClosed	2025-07-10T02:09:15.639Z
+.netflix.com	TRUE	/	FALSE	1783649850	nfvdid	BQFmAAEBEDzgiB3vbBysHE4ImpvfygRgze4_Q_Feo1UfzZRANkVFpTfsuOAqkvh6pu835IIMaesaadp0tEXE4yupwAX-i25EC0cu4wCeT10tNgDJPKvExs7PhJLX2CqVl-6AE-YIqf3XeQBwRgS244lhIWrpEHzA
+.netflix.com	TRUE	/	TRUE	1809918613	dsca	true
+.netflix.com	TRUE	/	TRUE	1809058586	NetflixId	ct%3DBgjHlOvcAxKDBE_HN9a5NwdCSFDK5dwQ1IpMasJzAzv5ID7cJf45P_qSmNhWMQweTdx1Nvy3VlOtDotjNs3YTLkiWsbQD9_ncuoVMXgs1sA7LeyvmDGuqG7COrT43qnUY9eIKGMKjo7OC11oaLZXeVuNcm2K1XywNKU3Sx1jOKA79b0a6wik3rnTLJTx9m4kzihnkLi4kg8aRVUVgkT5YL_SfSapcS8PY9AqlBm1oHT7qDfmW5racvtTPy3r1_IOw748y5KU8WCbbgnPKtR9cJ0juhTCdQ-tra5UmDtRIkb1hUq3pnz_14HUcTvoOlB_7kcLXWTQB5WjYXv6C50dYcbKV38QONgV0wy0o2IENd8O_zWDOJGmn_UoAP371q7Ngok74j3z3YwUEFOe0Kp1sLbVyOeWeAbfCq_fb-JOV9Lp8Q1RNo3xephovr3BcQugJjDwDDE6-mtAtuT_rznf1K2waZ3oTn8SwM8hhhkfT6M3JQgMAb0NfbdiJOpZBYrvOEElv7kUZyZIMqnzqXCADbfh5lPzN7nhXLAg09IEJvDt-NzQJyO8TPk5ZQytLJdwk3_dHBjBB1Mj45Nk6oOwxQ1w_RillapS2cJQ29BjjPvW0IWR8dgCNbA0aUsuX9RY6A0JlJX_RF7J4qOPMZ1KixtcidM_AZOcvFjWfCs2QQGIcf3EBTMzMeUGHKcEGAYiDgoMeJnNAdxserImd95K%26ch%3DAQEAEAABABSFghEMaVjE7JmYRsTq0Z1tQIJjsrkjwiU.%26v%3D3%26pg%3DAE35LRVO7NFYHC75OYMMLIWPWE
+.netflix.com	TRUE	/	TRUE	1809058586	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4QYdlljy1t9dndVbsjc41vGO5UdfEAzA.%26dt%3D1777522586623
+.netflix.com	TRUE	/	FALSE	1809061874	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+02%3A11%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d0adbbb-f56c-49b7-8ac5-168cb608c128&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785301873	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785301873	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

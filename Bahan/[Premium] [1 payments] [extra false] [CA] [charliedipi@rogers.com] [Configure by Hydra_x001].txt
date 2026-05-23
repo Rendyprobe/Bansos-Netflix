@@ -1,0 +1,17 @@
+
+– Email: charliedipi@rogers.com
+– Verified: false
+– Profile: jordana
+– Plan: Premium
+– Next billing: June 8, 2026
+– Extra members: false
+– Country: CA
+– Payments: 1 | CC (VISA 1052) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEMfjeRXkO_eyKyoiKQ8-8tlg9317xCt-LOzvWMTIAOPsxxMdiyVXOqzjvfHupQp5DcuKo3FiWT0HzKXUme4NGxBkTP5BLgjz4I21l8-tC5hxbb6IU117If4G122Sr94YwLr_JaI1RyshRXqXCwVZqxE8
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSEakchjVlqe_WOG49aE8D1Qrn1Tybyg5I.%26dt%3D1684258482702
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBQAOAAEBEOc76zARdiBO8EgaAvpXWBqB4NA2jNktOs_CrskCFZX1wcJbH9aiBRFx1RSKr4KG0jRn0IQh_fmuK6YeBe5tRDuEHXF7hmvziPTFR1qermcPQYpXxrKWFuMBAEY51xRvHZ0TIFIHbkN7CquoZn_98pMmadroSNup-50h9QR0-T8ZPYrNTskFH2iMLXv99YaAUcQROCFV2b3BwerK6q6xFhsWYFfswFXI7OMH1Yk-seGd2ntBAF87o-q1CZOgKZzCqbh6z1BtFfzIC6qZGTV0qpoJThmB9mfkvncfNzUHHOMsEKhft0aIvbO0AeTQuSs1ISUorY0rt9fNGTTjHgL_7leitPwDRK_OHVHOV7h-jeCm7JVD3AY5LfX-MKlVlFy5uqAHngP4FviiVDOfYZrVtBsRCFzekUZlNTluz8DkclQbWCt1o_Pv9pJ8zSzTbMNZkOe5ZCRhLY8NTtQOuZEfFZ89VcMYO6pj2zCvgEGzMhOO4kz2nMfsLNr-qCuyHBUBDRjvAy3pxvUYh5HbxKO8u8hiWJdDJkQVgiUZPWaIyC8YG4addxtWvnFyMmiOvBHnAzMrwDoHsz_81gqMFxDM345jpIcHECZMuG0_wMLvkTnFDUoPcI-007Sii_bp4vdjnN0fU0lqzQ9f_61MHtgqRVINHw..%26bt%3Ddbl%26ch%3DAQEAEAABABQo-j0eiTr9S6I_4O7nMr3qX6kntfxxmTw.%26v%3D2%26mac%3DAQEAEAABABRYQrFwns-VtvG8HsXyhQt0ccwWoOq47og.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+16+2023+13%3A34%3A50+GMT-0400+(Eastern+Daylight+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=605a4c1b-678d-47d0-8b9e-607ca043f40b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

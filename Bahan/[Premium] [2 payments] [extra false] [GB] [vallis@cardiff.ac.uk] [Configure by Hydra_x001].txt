@@ -1,0 +1,19 @@
+
+– Email: vallis@cardiff.ac.uk
+– Verified: false
+– Profile: Guy
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: GB
+– Payments: 2 | SKY_UK_IE_BILLED ( ) | GIFT ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1788549389	dsca	customer
+.netflix.com	TRUE	/	FALSE	1807586487	nfvdid	BQFmAAEBEL6NtFg86xD_fovjgjxMkIBgl7S9ldOANlcx3rorjX7R6onHkStKKSh5Cvxrq_lXtbSBXpj8WAKyNTQ3bucIW2BoytnKcs2BZVQkiY21eI8kA2HuRLTsQNyK8yx_G2cZ5ASYcM4R0ldNR7oy1_dU0QtA
+.netflix.com	TRUE	/	TRUE	1807586487	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRx34oiKNhRZGOqBrESEhmLVio9X63dvs4.%26dt%3D1776050490032
+.netflix.com	TRUE	/	TRUE	1807586487	NetflixId	ct%3DBgjHlOvcAxL_A9km83jAluFNYipDXWe05OQgwBnxTKXAFavvLbCjT92X4v4s7gufE08M94rGXHuITLcDZRRHKh6tRH7rALkyFhZ-9L8hUpIkXGCKb8rabBKUDmxr0JceR-Lasw9Cz-F5l7CsJkxBpqECT2ZpC9Z4akrnRDa9kMljrGhdGgKmG05cRBQwO-P3LgLZr_DmlKzhvE5rdbx-xQaTXV170uAqQBMiZ_oP8HEAviz8AvVHr3sRPQgTFeIwvQHSCBEdLo52wIhVxsHr2x0yuBQTqggZHRqP7P14LOHTQOH9MI_TH072XDNFED6XN7obyydNsg-ycKdbKUXMUVoSEhlYhKcMt7n62yLo1vPVDZC3vYZ_H4Z1_v7eEaLh_KcbapcJdVU23lnU8nCf1RePz1czogyG-tbsX52GfLNERxyvwmxMns6Vb8wkIKa8DGeSABP4BtGP3kvFCUFZmjdfsdFky2NnhJ-vyYUXd3bNoRXYqMDc9IAkpMVKCoUvt99rvI3f3irTMR2x6j8gHExQiX1GOA39THJcH8cLSiHl0kb4Q-0J6WKrv7PAV6SJGcRIX24bP5VQj9phKrLV1Upiu_fOwg9PeHPCyBQGZ4W_YeHNeepcmyCnEg9aHL3juOqwqlMgBp382Cff7gbS-d19E1noY2x_frLV8OkF5AudW_d6tyPG1REYBiIOCgwy_DAxKbZxy47dVtc.%26ch%3DAQEAEAABABTd7ZI2cI14nLgXTcjGi-nKqULc2WfzgR8.%26v%3D3%26pg%3DTQAKU4AEKVD4XJHU72W5JUUYQU
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	f1e999d3-6bc7-4320-b558-8cdebc57141f
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-04-13T03:21:33.472Z
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+04%3A21%3A40+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&hosts=&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&landingPath=NotLandingPage&crTime=1776050500712&consentId=7c9e7d23-954d-4e8f-8a34-a6e2f8816835&interactionCount=0&isAnonUser=1&prevHadToken=0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: karandeepsingh94938@gmail.com
+– Verified: false
+– Profile: karandeepsingh94938
+– Plan: Mobile
+– Next billing: 9 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( k***@okaxis) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806763205	nfvdid	BQFmAAEBEMwsWZ-95js7fIbTYGYlSo5g4bTP8pggIRtowvD7jvfLkfCSbsYoQMCKpSWRSXUkIEpTlovBQ6jg1JIxgKNu3cxIvKyG0pxHD8ABxH90jbo6GVEEcaF0EaOpiWstqCN9UB4qzxk5pwmqdaJWIx3rrSsA
+.netflix.com	TRUE	/	TRUE	1809487755	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKnA_PutvVdi09LNdESFXzKwDVfnj71iAZKDPCSL7mg_NcIDsvq1aGd2t4VE0-7s-5VgXFZrJoTXYobmi1w_P7rL-scJtYC2PXNaSjiH2USbDDEwRZSkzJ67lSJ_wjV0_hYNO2ie2SN93_1rEcebzUJ-Z2fZ5QLQxzNcMTY9GPZX02vG24pyRiP6T5TPIU0lYNCM32DlhmN2pjG2fQx22HlxW7bk_gQIf8OkZsh7R2CqejW4KOJd8N85WhQt60ayQB8lT5Uia5f4buhkuWUrHu8q9HVRE048NFqw8W5vDSWrznnGoiy7lD0gxPNzDbLJlDJWyA1Dw9L0hhixzGjIi2rWBrKBSFYS3yW_7GLree4pizgCo_g3a_wU6z2YXPLLutEc2s4fCk28Bj36TKRSdlfHoN5DUG84o9tt4TWcwVXQiiZ1p1zWbpk3jiCLQO0fhAZ4b5v10oeRcAA4B1inGFiYJZIyUBV8vpmiM487tDSe_FNWiUotxsggW4KWRecOLY-8tySR5Q4NtAI7c69Jjw45pe9nVGSE_T0paeS0zb6-esNipX1TT5RhxgGIg4KDJQtWN4SjKjTp_8GNg..%26pg%3DAQGC6WBYPNABRAPDAK3SDOI7VY%26ch%3DAQEAEAABABRbEUzwUZYjSauysvZlmZfBXKGx-hDXT1U.
+.netflix.com	TRUE	/	FALSE	1809487757	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+08%3A59%3A17+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c66aa043-c099-44a8-a177-e5d5e847fc37&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809487755	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTymootc7qPoBfU290hVluuMoccGpLY7Fo.%26dt%3D1777951755285
+.netflix.com	TRUE	/	FALSE	1785727757	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785727757	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

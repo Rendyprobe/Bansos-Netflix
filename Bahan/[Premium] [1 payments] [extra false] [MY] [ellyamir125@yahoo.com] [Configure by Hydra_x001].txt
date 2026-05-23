@@ -1,0 +1,19 @@
+
+– Email: ellyamir125@yahoo.com
+– Verified: false
+– Profile: ellyamir
+– Plan: Premium
+– Next billing: 9 June 2026
+– Extra members: false
+– Country: MY
+– Payments: 1 | MOBILE_WALLET (TOUCH_N_GO 601*******40) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBELFfleOXxqSY_NDUfTAYMBJgE44Wk2NklnGfpFaBiHbb_jhD8ie8x5Q0rCu2TxrOO0mY3cmD-izr9MstN7TmgGp4rTd7FJI9MoXbMh7xmNHNuO3pPMps_61JcvY3b6K8hhAuHXNNOZQBLenItIio-R9j
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLQA0LoBN7ptrX4ie7OBgLccH5WLU134Li7KJxmGHuXyrseFYZwsYNDVNScZyzvEkgHjFQZZEA-VabxMgdES31wMk-QsHxk4pWougz5ewIT4BNA80oKb_fukz9FXW07UnvZCTkUZWsK6iaAmMKdTl2oiMjJ6DeU9uNoB2DnYNP73v3XC0TEkRmnDMjp9OWuCniL_hR69j9zwETF5X8cnjFElt2GptoPl3EEjOoGBbEYCXjOB5Ui5-tuggXXxcxlK3OSngUvlD-g-bWOAsEG9MhZBl0iHidvHlgeYwxGbLT7og7fEUgDZ2CPBYHnOFjSWuKvgR3OgLO63SS4YT6I01EnVQYnKL8lsExhI0JPjafQdkj_ElDT_l5zMWCk0OCY1j7os9FyrMsYyfyLnhqIr9QBM1rtNadPDH4E-SNvv6lKfhm1UCgKtKKF1fbmuvPOp_oZSNrU7vjy4sWQd7_1u2sz4EdrNf1TA3-26JHBj5_soB5JF2ifZ93PZsPET50xlEn7_PuhA72PNYpbuso51h4RafNSBV1BeolEP-Lv0FvcIEQBKYK3721eTXUpDZeTlundJlBH9NonblDxQtq9vuUACxXmeTQzlrrFTMz7PqhgH-FRGAYiDgoM5RSKQ_ieoEK4hvhs%26ch%3DAQEAEAABABSbekio5YSXICy9TkJgseT6HOjUxqFF-YQ.%26v%3D3%26pg%3DB334KEOBMREPBLZ7NHCYCDNXGI
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+20%3A23%3A59+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d511973a-cfa5-41f7-8cb8-c8eb2252f712&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770824011479&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEtL4HibrKo9tDXPIryc4cpvvR4CoImC4.%26dt%3D1773145434500
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

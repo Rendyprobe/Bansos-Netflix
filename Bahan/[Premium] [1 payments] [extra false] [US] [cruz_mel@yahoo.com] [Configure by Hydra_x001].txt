@@ -1,0 +1,16 @@
+
+– Email: cruz_mel@yahoo.com
+– Verified: false
+– Profile: Jewelicious
+– Plan: Premium
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 2108) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1780613734	nfvdid	BQFmAAEBEJhOSc0ZNeqO-_HdMWB-2sVgtGHDS_m5hBCSir2I9s2HULO1VbcdVw2t0tZ_3W06MNfj5BvaECFOyZ-5F8wVBeRJ0srb_9QrWgReWMnd4m_-1Jej_VQvpzdkP1swMwD7cejHnf7dbhyk4npScjFPqYbK
+.netflix.com	TRUE	/	TRUE	1780696532	NetflixId	ct%3DBgjHlOvcAxKXA3-xpZBjqTy9HlKSqN5Wm_TedGW8yj5JC5JZfD7wwFott_PoSyMiNusAVzqDk72bddZA6sB8JUXVYXTxEfMc0oeHJVqlJm7GPBWCI66Y9GZ99FTF-sOiHOZgYCrrEOqlnpcpcVQckSU5ViHC06nSQ39__-qHEhI0cJbxUkTRpw5z9SbUC2pzanl256duw434yHEUTH0wVPA352MenXY-yDNEvWvaZms2qPuQ6d2IoEqqiNIa5MPU2Eqb6Z1eMxs5OOtzB7tg1O2bxPpme30LTg8xvoXxNfA92C7U6bQg97CpdduGu8ufhBLKsXdOb09sPFsSlExS1qwOyVtfIEkhxV49MpqAdGEdmOFoYsNcErg83NYdUWgc4RvCmsJDlALM-BhLk_Q0fqghxFvnhxN4Brn8A47wOcdFc6uuKOkmZUWAErSj5BIbRj_9uK_9N2pGWVoUbcP2oOut2cqGV1WfkXrTG6cvRD_yVFd0D2jG-TGcvT2VpyYxT1mRIKJmy5d1SllHfSRXvd8ImC7BQMnvRVqmAfz83_0CGAYiDgoMwIFiyNMJL9g_n_qe%26ch%3DAQEAEAABABQkojUZyYXpJOv-_aYNskaEZD8YPEqM6Ec.%26v%3D3%26pg%3DB25TE2HZT5AQLJYR4V4OKTLTFA
+.netflix.com	TRUE	/	TRUE	1780696532	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSw8YSGzMegxozNN1RvcEn4WMs0wCgPXuc.%26dt%3D1749160530033
+.netflix.com	TRUE	/	FALSE	1780696640	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+05+2025+17%3A57%3A20+GMT-0400+(Eastern+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0b60d2d-c2ee-44a5-9660-c392b0702908&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

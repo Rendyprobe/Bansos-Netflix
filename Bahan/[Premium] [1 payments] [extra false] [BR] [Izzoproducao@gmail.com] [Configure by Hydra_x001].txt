@@ -1,0 +1,18 @@
+
+– Email: Izzoproducao@gmail.com
+– Verified: false
+– Profile: Tia\x20Lella
+– Plan: Premium
+– Next billing: 26 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 1270) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEN6Bt-wR0WOuXvevaWy1ZKpgpQreo-r-Q-QWOE8OLanzPT1otzqp7DNEALXO4RE1JRVJsbsQkFB5bEZw-JZ47cQk6G0FuAsux8o3fk-fHpgkgQD4q8q1Yc9dzuDDQKzRmXs6h6K_KV53upwd3fSGjHHJ
+.netflix.com	TRUE	/	FALSE	1782066567	dsca	customer
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2025-12-14T21:52:08.751Z
+.netflix.com	TRUE	/	FALSE	1782066567	NetflixId	ct%3DBgjHlOvcAxKHBJmBbmCl04HJspJQe6XFObT2PPrycKIKR4LY0zqCtAXAnUnU6tp20B3h9zfwUBdutEZ7mDVwQYDaYzDE2WPjB9W73ZzMVwF86Asr8OjfI-SRT0CvrGWEme29pwABoqkNBat8HZl8BmCk-k151OuRdGh32mZEwT7kEA8BD41yHTWP4jl4G19ttTX9maPd7mR2pOwLXveL9ULmS2GQSMYDI3B7gY6nTeHWdLTRtrLJ6hvF2NWt0l_sZWzTZ-UCo_wTENpRPO-R1RVHfGVxAl0UIALWG5b_5yow0T3dn-gWll6Mz2SC9BgFSehItHfkdBpIGvCiQAovyfUud2JLv1mkanABEzfNuvWaqGhYVwCRFRomdPp66YtKEVWcfh8CbMRCJNWO5RdZb3wM5RCnUWz2DnHHOsRh3p4To2nWQ1IwrxXsYTf0S4M9KMKH4WmxSVQYrzTr5QwqynCm5ppO6TJHXSmZ_68zLnGzhxJ90FiXjPjowYxb9UP9TEh9ha13wkQz9ar-a5vrC9qbMkcBD9a5AW08kBlQs-OL0kXEV84OgbfDgAQ2ayT_P1UCBCHSDGZ3K3Yi3y2xmyePV3yFxR7KPNj1BgMJqRbBoXJ9BJLBb54vJsx0w-dGCB3qt6emBo0XRvR6n8_wLiutnFXDv8Du-lYq43s195B1QezNByb2YIJGrvr_XZemhBgGIg4KDIIkBJvixUWla2NpOg..%26ch%3DAQEAEAABABTg85AZq1vbDa7nH2aapkf1x3TuaRyvIts.%26v%3D3%26pg%3D5TBFCGTLGRFJPJXQITPEDMAZAA
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+21%3A24%3A37+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33a8ccfd-d0a1-402a-8d34-9ede82edfaf5&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PT%3B08
+.netflix.com	TRUE	/	FALSE	1782066567	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTD4Ax4ZDzzPEPsN5qHnDEVg_LppoM4PHo.%26dt%3D1773955462021
+
+Follow: https://t.me/hydrax001

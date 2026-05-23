@@ -1,0 +1,18 @@
+
+– Email: rianaalexsandria89@gmail.com
+– Verified: false
+– Profile: dala
+– Plan: Premium
+– Next billing: June 21, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********0501) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787490400	nfvdid	BQFmAAEBEAHv8BmmvFr7pbHDWjLynI9gqo9gWSH08fsYLm8_mshe5qrgjMZHQQKg0XXcrGmM6VwUk9FojCcr_VnSmvqJ6tWgGK-Wcfd7mDMZ4vaeNe-5ZI7wDGmqrydCI0P78-3T4Ub3GynFu17hGsw87ITcfTrq
+.netflix.com	TRUE	/	TRUE	1800773183	NetflixId	ct%3DBgjHlOvcAxKEBAB5Dy4vAODIBIox70sCop1jB3Esf2iH5752WktIXCaSg8-iAAYtlEJ1oNdQu3xkbuHiwM7Jv-rSGOzUa8R7otjWZ5Eb81ITUIQvczo0FomejNJypMp_7H0kFENaj4zVJwMniMAsXbHhCHRullGZEhBb0P3oZXyluHrQi-C1sOOSbipVh6Ym5xLn2bQfmp0-EI4ljkYqKBl_0mpkMbAD8GrBVrvV8FcGu3EqkfjKueKyYDUFJ_81LOglcR1Qdy-IYI3CwtxZliZMCmOj4EZPkixu0gB7Q91kv9sQl7ee7CNJgMiD2y3dEXyuz8F_SWoZOBdkJs-bvWdDtzc51t8ziWAvFdgZkeRXzsk4AEN8PWP7duTNlMpaKih5dXM2vXfSU5OzqlMSJ880Jvs17xNr-2X8PoTPo4RTg9Rw2_XZuNtaMDNXCnwqKf9brmpy0OWlTnFYoAKfnYXWI9z4-uHrCxT1PWfY7F5wvg1wE5pVT_kg7IaHiRC455BzeThfLoiNfM388f8g1tUXItjPlV8rtNHdINVMaFtHVugeFbtKsDXzlq_xYQomMjQ4wsVtrFcdwoh8sWH-vlxxUoV7fb1jQmzfZx3MUUwyouRmHzFSh97v96Dgyq5aHJ5_EtU79moWEj9vQgm0x7Bpyx_Vo4d11xBXsEUgwLjjG1FdV577FbkGZqJDwhgGIg4KDP0RzJYE9X_0Bd-AHA..%26ch%3DAQEAEAABABQ1JtzrMgLFEAcqo6o7qc_cs-h2-0IImo8.%26v%3D3%26pg%3D67OYWQ7BVBA2FA4ZGOUOB3QF5A
+.netflix.com	TRUE	/	FALSE	1800773184	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+13%3A46%3A24+GMT%2B0700+(Western+Indonesia+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=23280add-e254-4462-b092-0dfd069f7d71&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800773183	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4uVlbV7R-KIUpDKJm4JjRNbqjad_4Lgw.%26dt%3D1769237184441
+.netflix.com	TRUE	/	FALSE	1780205556	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780205556	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

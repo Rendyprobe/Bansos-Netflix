@@ -1,0 +1,19 @@
+
+– Email: jadenfb2007@gmail.com
+– Verified: false
+– Profile: Alexis
+– Plan: Standard with ads
+– Next billing: June 15, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 5289) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807509147	nfvdid	BQFmAAEBEPmKdukEquSFE0gQhJW2XxxgH74vRN_hVNS3R1eus3hwmM4r102-ngtSxJ46_etM3DgA2B_2LGaSPRHK67zrQWFh-RDLXg0AeGrKY3OCY7_omPRHNxu0mrvYuvgonIPylv25Vd4Geo5EUjoCMniG0pAy
+.netflix.com	TRUE	/	TRUE	1810227564	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA5MlC6mCTMLdeSNz8IgLZjjPiMC-sH3oKEd2UvvCxgZuXGiO6Bb8atFWHORlXZ6x-1EDNHlEaJ6WudweryOmAiDOeSftL8pYdnyQ9P6IHNltC0czwRqW-zPjvu-KkjAxu7dWqR7duCrJKlLanwJUKQyfgBIzE4S6OqdI010kRtjT5kik63fs6SchV2P9Y7ZT5Iq_bxfsc98xi47_0iX1asya5uMuIjTFsQkxKmK2gnGIN-kzKJsL8Qy1KfIl4V9Tl38ObgByoG3gk3XhKqxOzDGd73wzgeJ7N7a4bUw3aiM1vR_h9otZmyCT0wubPZKol1K4q5-3TgWnKmAcwwWqfywww8HVIiQqk_vgFbBEdrVvvM8AJ1mxEbUPg3UXReI63FesHsv7GQOaQgwrLvjcoKyTaSeAaKOinrdyW1kneVAG-UtlpJePZQRSOdEyy8_pJrSo1i9OfnGdUvuy42Sz7_UtusBlYvlhHImSpV31_B8LTyUEaim-btf7s-JxiZb3-uyl64Fk4m_sHV5SlFDFIva3zEd0sxX4KBgGIg4KDGg6qM_7Q80dAC0BGA..%26pg%3D2KF3QRG46FATZPHFDAG5YISHLY%26ch%3DAQEAEAABABQq_oceuCMhJIFTQu_VTNICfQLDOc624nc.
+.netflix.com	TRUE	/	FALSE	1810227566	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+12%3A59%3A26+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2e13a3de-625a-43cd-b6e7-2bf45e85be56&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775210989395&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810227564	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSYiXWLhP3UGD7tGNR8VnaPphkQurxKVw.%26dt%3D1778691563186
+.netflix.com	TRUE	/	FALSE	1786467566	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786467566	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786467566	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

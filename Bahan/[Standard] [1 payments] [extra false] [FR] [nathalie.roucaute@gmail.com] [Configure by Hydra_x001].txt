@@ -1,0 +1,21 @@
+
+– Email: nathalie.roucaute@gmail.com
+– Verified: false
+– Profile: Evan
+– Plan: Standard
+– Next billing: 21 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 9073) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2025-12-06T20:00:37.516Z
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEA0mjVg7dboSmc0ygYyRW_Jg6I9Mvaq23FvopprGkzPfpNo3vqbzNsHaXKvmvY4Ur6Ve8ZjlKjI88HGEmPxeoGG2XtQ1fDZNn_Brp0Mv3_6gyzr9k2w6s8oRbv87X9w4socRppLu9wXOHDKlNdchjA5v
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxKABAaRhw6fm_yL0StEOEtFfxunuygUIYfCSJZCPurGsXBsRAaWnVziiuFaoe0Nkc9ooJYd421A668Skj01pHdJgBT0aVp8rrTkNm_E_kgpcHotEJ7WYVN9XTMm9bWXZZrJabkgQpiE96lG0LflxkKi5_PXTOkrL15mpD-al75sWADTWK3oMAZUDKgnvNTuVm8nYVCZ3H43el6LMEVr1i5jlmSgJ8kkFjJLOyL-VMtbObUFxBBPKORSwriE1yLQP5IgV4MmPy17FNBexLCuOpg9Zjo7yzX0EeXjkCtArxmdo8aUEdZYY1AlHVw5r1cTnTcjgVXUn26x0r3iFRsfx94S0PEr7xfvGbxYVDldzEzLrIZSAxtl8zJ8TG2qjJC08tLl9EpQY2JDil1wRKTQjLglBD37LlVNnB5gi4Oajq1-0JI3NBdboY_C8ZS70iltbE-kl3vEgmlwPkpQXC8pvIviojV4rA2_PfYSHGPm1ue3K4nkSTfIlZlG2iUF2y8z7u2CYUHi-q_LEqacxo9ru77fLzdTnKRQuJPl-xErCwwupXE3kSV1MkJkSC2muEXtgp15ceiLoaN4bGgtlZm_joGOvQNkl12O8DLA69gx-yLJg8T3_nybpHLni7nHDyMfGP-l2UWIJr1uLJjFRYddTA6f3j_GC44dRfrI2HQk6ciklMkFGAYiDgoMymrdS5zcmbdXyek7%26ch%3DAQEAEAABABSB72xlsn4QnZh-TbidExwXlLLhy7H1fqE.%26v%3D3%26pg%3DUJBKAHVWD5GWNCB5B4YINISYSU
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfFGfsHgBGftXTGLMwpHqdbHW1PnuRhAQ.%26dt%3D1774427194755
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	5e770a94-a009-42fb-b2aa-0caabdff0a6a
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+10%3A40%3A39+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f72a359-c255-4d2e-ab6e-372904c371c3&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BOCC
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

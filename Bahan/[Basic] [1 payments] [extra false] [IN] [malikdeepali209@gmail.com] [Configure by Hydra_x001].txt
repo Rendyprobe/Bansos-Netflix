@@ -1,0 +1,18 @@
+
+– Email: malikdeepali209@gmail.com
+– Verified: false
+– Profile: Smt\x20new
+– Plan: Basic
+– Next billing: 12 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 8***@axl) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801469859	nfvdid	BQFmAAEBENAcZ_wNujyoTzBTnoI6qdVg7tmsrzOn7ji4CPTzAN7TR4TcRzqwyf78re56eXgDF6dPA_3DrRU7zcC8LAw8CKUGwDezxArkhga2QaFXv3BH6Z1DmttHFUgSf6SSGJbEuF-IHmTU7fXouPrvTWGl89fK
+.netflix.com	TRUE	/	TRUE	1810493531	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8_gMdNltJIXRt2MkrJ6v-YsfWRUKViS8O-J1DmXwZUypfe6lZoXANH70VBKGjwmo2U_LupsfV88bJA8qJlg4QHS7xm_G-kHex-I1SPvBMrb9meIFYZLnMCFN11MtnT6WCx3cbSH-HfBr52CVdGvqzsivoeUSI8wCkcZTD1wZ8Tb2_2GXLhrDMxOhzhBkKuJFrg8aELbdBKYgX_oR8Kj63L_G_iz3a6wX0BysWGK_E27Ngjuf_ikxQmbXkUPkqS3wTXpk8CvCN63uCKVrfPa4_giB8OxFj03NYpd0oY1iGsYdFH6pYfzjqOAGrN6Ta2jPhnZ69zT2DgL3YD3ijY__EBfpmO9SCEpKCkAEqqssfThfzuZzGKmffrVaU821VLUsiy4YCO1r7S5AoToMqjsauW8sJyHvAe8BRucEg_cggTBzPARJ9fCj4jhDUiGTEpcyghzbNJLvo_DZTMO_iR7UX5uF32LSmL58zYfZDzEOQdlnLEoxuhld1X-Xi1QJrAtAKQnyt-okd-MFonGZ6k6oXVjBrP-4LwyOa0YBiIOCgycLRHzNGmxCZR60DA.%26pg%3DOEXGWVUZ5NCRPIHZSD7VMBHIEI%26ch%3DAQEAEAABABT8MFltj_ML5gWBbkrL7J1HoGWCCdRVHZk.
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	37b9d97e-6701-4009-899f-2a043af0fbae
+.netflix.com	TRUE	/	FALSE	1810497324	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+01%3A25%3A24+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae076e7c-a3c0-4f81-92e2-4d377042020a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1786737324	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786737324	netflix-sans-bold-3-loaded	true
+
+Follow: https://t.me/hydrax001

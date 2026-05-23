@@ -1,0 +1,23 @@
+
+– Email: zarinamutalieva9@gmail.com
+– Verified: false
+– Profile: Rimuru
+– Plan: Standard
+– Next billing: 13 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (TROY 9838) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	69f55fe3-27b5-44bc-abcd-a3414dcc5695
+.netflix.com	TRUE	/	FALSE	1803213346	OptanonAlertBoxClosed	2026-02-21T12:35:46.664Z
+.netflix.com	TRUE	/	FALSE	1803213405	nfvdid	BQFmAAEBEOVB9IWWXrtVNSGZSihZRY9gXEJSGI-oLQT4xomnNm48TtSSHgDTTsI6q9UjLU0Fp4N2MD7gUUVTDhcioVjNSQwAXKdFUzWUCW8ytOlnNx4K_yjN6ctqTj82WxkdyVN1mJe_AM1R4ViBeTP43Y0_cGkk
+.netflix.com	TRUE	/	TRUE	1803213414	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AsqN7hQVRWLO7w4nkU5xAfpQhlJDSBwK8M6v9z9FdAJXtKnzITKL6_7SN7232Er75CGZ3X5GJ1pGcn1448JToXjmC6VCO_ePxlp6SKGFM9De3C9mfRM57l_BboKpTogfOVF2gEWynUVA1BRDUUze01rnynLT6Ip-yKEoKrzPkfAspMFcN7vApTnkW8d_V0PW1_P5Ew42xpHMLNORXtUFrAoJeiup7YPjFueCbvARKjhzDOfdnOILBDmiNPiG8mL15cMo6sIkrlY29p9S2AkxCwt71fI1zNioVGX8PkcCYmwQ9SPPGHI_nLSZYZXFYCFp35-hfRfW6Fy6NJ7ry209rIBvBDfvnfkgOysAA0O0uwc3LFExKTZ8wEfkfJIjSI7HYXOX6I66Gy5DRpPWcQEvOdSsWIR0F9kLXYGtgKM7GWRk3FGVJgLGLWCBgQ-1AhYcb8lYAZbewWPIsWvM0gauOv0VjsXuaJwd94GicX-m4_5j2BPNrSkeJd4MAxgGIg4KDBHL87weLn6WVMoePg..%26pg%3DPZVWRM23QRCUNPLDG5YDU6HL44%26ch%3DAQEAEAABABRSxySPRBvZOV_b6kHQexcwoJRW9SjhRJU.
+.netflix.com	TRUE	/	TRUE	1803213414	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRn1vE6Htj5AtMoldQuCAeszTwGboAo5T0.%26dt%3D1771677412086
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1803213991	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+15%3A46%3A31+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e07d8f44-46f7-463e-a9f2-9d8defc614a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771677347047&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	897b93a6-013d-41b3-ab29-7b82914a9158
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

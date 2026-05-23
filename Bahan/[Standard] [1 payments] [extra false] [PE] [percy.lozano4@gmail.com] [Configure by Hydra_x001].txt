@@ -1,0 +1,16 @@
+
+– Email: percy.lozano4@gmail.com
+– Verified: false
+– Profile: Mateo
+– Plan: Standard
+– Next billing: May 30, 2026
+– Extra members: false
+– Country: PE
+– Payments: 1 | CC (VISA 5081) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1780103941	nfvdid	BQFmAAEBEKzLxaQtBx5vUS34eA3ite9gpEvjYM_dcaO0VqvR8xKni3si3srTkkZFZr1sGTC6ovUCm57p2lh2vg5rmRCDzUCKz5RmzBKY7A5zSQofn2EEChoNyxKCqAi9XdYvKBaKbzbMixSAST1YGs8E6lsRwESI
+.netflix.com	TRUE	/	TRUE	1781489905	NetflixId	ct%3DBgjHlOvcAxKNAyBaMQ1N6ivXNSVvWyWLBNW_iopM-jjJM4CoJutru-BiRjUIlO0OfKzdOLFWhBtHZ3CVMLoWjnjPkR_tJx6MELSqyyXvfAyDWMg7NgmSO0MiKDvIi91apAbXpRIzT2Dr11reFscxEWIHHi5JCHwGtTCATNaThLJ4ZBZu3bnM_xJFJ1L3-gRs-YY12PpaDlsuOb5OZ_C_wnbeYZLcKEGaP0gWQPSjXnItE8qOEkReJTnJGQC1O4TiACQT0gJ_qiMV0f0PFJVusyvz70CM2_LmQQOvT-0m25nADlR2NxYvF5wwM-sVM9LlV5NboZV93LHLOQ4jHzk8osarOyisLZmmKq2eQy5Yv2-vz6wit_zKo-kdQlwlcdNRHg878imqebLrIQ7TJneXq-CEPbthvxu9sMRpjMH6C8DqXZ6NR7bd45kghpJgUTzjIOC1qrke-K2dxaGrm6tPHb4T9KsGcASGZhL1mvi_4-IbSKfyaqCYFVTLv0nILwO1QB3kXTD8Tak1eFSPv3gKsuxpDTvlQycYBiIOCgzS2Lj7CSpBvr_0IRk.%26ch%3DAQEAEAABABTygUodL3uk0d5A4x2K3A8dzh_FjtSvB0c.%26v%3D3%26pg%3DJCY2GTRBZFDJ3NBEBZ4ACFKWWA
+.netflix.com	TRUE	/	FALSE	1781489910	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+14+2025+21%3A18%3A30+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2846a092-c0cf-4045-b441-bf14155c084e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1781489905	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTTzm9uEatEL-7YsZPyJy0bABUeWQ1b9KQ.%26dt%3D1749953905883
+
+Follow: https://t.me/hydrax001

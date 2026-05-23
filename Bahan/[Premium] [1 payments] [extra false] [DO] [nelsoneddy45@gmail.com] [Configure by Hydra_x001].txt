@@ -1,0 +1,20 @@
+
+– Email: nelsoneddy45@gmail.com
+– Verified: false
+– Profile: NELSON
+– Plan: Premium
+– Next billing: 6 de junio de 2026
+– Extra members: false
+– Country: DO
+– Payments: 1 | CC (VISA 8994) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782352034	nfvdid	BQFmAAEBEOSAz3aprC9aRyp9VyFB6BdgXdeux6C7-jUSHiVvloyR6szHz0Y0c_SQAiM1GbrkSGx8PCmzn2LJJSNRthCw5g4izSWTB8UC10wrogzaoaIHr4QytKtu17rWKu6YHHS7WqekxnFHsaGwTDh8ZtkQMcRr
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	07ecf74a-c3e9-49fb-9df8-8ccc47a6b1d4
+.netflix.com	TRUE	/	TRUE	1810356890	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTocSR2oxrjnARuL-7NJxTh5ewsAdqnNF4.%26dt%3D1779107662774
+.netflix.com	TRUE	/	TRUE	1810356890	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA03d8O-hJi28Hs5yvCngK0Q-5gKYC__FJmA-SHPH_-TwPtOUyL37oWu28ABdE5zBY5w_-HW8bON-EV_NHWuAQTbsEJRfSityKmHNbob0nUtlrZjjIs6fqoMeVJlkGVw4TxF3bsvCJm0v8fJal1vwOm8zwBZSdeLCELMJ1fSDxM9Uo5t7fKV0FswparhG5tqnk1ozlOtDFb2atjTZNdhJOB50_hy4ck-VsFnk1A07o4Zd-EJP5ApYXMI7Nog18E--x7Q4EJbOy3FtswAdCPvnydqvLFTSiWefqhOmwkpze12XkFiYqFS7H95XPk-ef-TOSPWBhECkTWXE0zIbuCSBpgeX0y85Q-hUFRgfmIi3evlvI5t-nzNP5ZdgrRQEkmRCmKIaGiY0iTcrfB3fyo3ZZ3IRYis-1ApTY_xT4uZQ4K6KFvzpqJjvdHjpGVyfFFuCl5-3dm6SH1MjEXrRmip2OYeAL1O4_mvi4rRZ-1Wlu2RFXYC89P1VOk4FSsce2wwDooFPeeC1TNaGgylISjyh-_DrRrp2oQxsdMFWdBgGIg4KDD9y10hvPY4EugcEJA..%26pg%3DZ7FQTH7FJZA77LI5NZFRSIAMBU%26ch%3DAQEAEAABABSTleAgJXKbOboSsD24ribzCQyQvXjxL9M.
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	f044a590-3963-495d-a830-ce167a1a8d8d
+.netflix.com	TRUE	/	FALSE	1786597684	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786597684	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810357685	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+01%3A08%3A05+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ec6432c-908e-4716-b984-19a5d03f39bd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+
+Follow: https://t.me/hydrax001

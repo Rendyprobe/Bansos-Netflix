@@ -1,0 +1,17 @@
+
+– Email: nidhimishra39908@gmail.com
+– Verified: false
+– Profile: nidhimishra39908
+– Plan: Standard
+– Next billing: 22 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 9***@paytm) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797585579	nfvdid	BQFmAAEBEJU4cyzX74Y5arWCa1PBYpRg8KusqSYPMttZSqFp7db-HdeUNJ1DWZ3pR679GlhhB0NFAfNveJBjCGW4S5XlUcDpVRQ2oMLgR7b9GsQV9eRA90B0SbrhyaixMFxyDeAH71TKPFbMwKyz3RN0Vibjj-I2
+.netflix.com	TRUE	/	TRUE	1807794856	NetflixId	ct%3DBgjHlOvcAxKOBN7Lu-R1bPGU6e92KyosFyhcj__J6m_Ameq-l590t18ibN0VfzcFuCoxmlSnDV7ihYJnDeBHU3eC77FqYiz0C0Np_EkJ0m4oItyknzwZRNdBEypm5gi3WZy-A1TtI17IUB8wbmdpn_PCE-1Rc1mQcbaqdifJ3gh--BwAPUv2aVpfPsitdaArbNFZV3Igotdw6A75Hqci27EX8-631VmKOV-BmfiiPl29tSBK2B8hHTZbs2pBnQsDE5rWy1E-AIzjojCM3f8rP4XOzxG-NUWVQgygdXIsTFoHP-Nkih-3zCaG01BSZ5QA4Cqq_m7agLbz85lCeHobEVcMcSDRK1IV21ngr4PjL-mh5tjIl8EbYS4w88xYIsRv0hVp_QmkL1CxaIkQkbPCtVXxThclcTPdcBIzBkJ1_SEmiU0dW5NTB_aLldtdKVFRzpx7w4XRWUUkKhVhZ4qMaJuQycUAhrUWCHpYd4lKy6-ZKVEy6aDj32qHkTbyieFgsMyH5jPqNAYw_691oN1k89Fk8o-aMueOI8YD3v15TbmzMFn1WWCTcMtzC68Lk6M5aQN-vPQguG29AfBE7N7KjCtf-RFwQzjwwLSo5iSXs6Jbt0HJh4H069taKc7ei1_l1emLfRb9Z3RSUQ18q9BW4jKySYCPDQbNgDMv3z_og93H453xI3ePRVmQp0GvT8_FNyAxh_GmrgIYBiIOCgyFI7vnCd6JmE5KTMU.%26ch%3DAQEAEAABABTJc0HENF4Hhf8WU9iHl4Rex8877Bqbq4c.%26v%3D3%26pg%3DJGDKGKRNINGQBN6HDLZBV6INLQ
+.netflix.com	TRUE	/	FALSE	1807796946	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+19%3A19%3A06+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=29132304-7f24-459e-84b9-e8e0eb834bdf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784036944	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784036944	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

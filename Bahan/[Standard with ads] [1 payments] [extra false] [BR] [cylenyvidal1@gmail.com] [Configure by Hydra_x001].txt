@@ -1,0 +1,22 @@
+
+– Email: cylenyvidal1@gmail.com
+– Verified: false
+– Profile: cylenyvidal1
+– Plan: Standard with ads
+– Next billing: May 23, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 0432) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807803846	OptanonAlertBoxClosed	2026-04-15T15:44:06.668Z
+.netflix.com	TRUE	/	FALSE	1807804029	nfvdid	BQFmAAEBEC0mStK1zD0Orlezk20Lu3hgfslftrqL9Kg8xUU__w4KzlsNI2pSrGx7GNz87X3W69kby_5EnGG-0g0XO5zr-bPkio6hnQtrrv_8verwajIjZNid4nou2H96Ab1LUPuvQpzZr_RSm8Mh9tpttZapkmk7
+.netflix.com	TRUE	/	TRUE	1781445294	gsid	fa2eecae-1ac7-4c28-ba08-2301ba4c96fe
+.netflix.com	TRUE	/	FALSE	1781445294	flwssn	d8e51f84-5898-4a76-90ef-767bec962d0f
+.netflix.com	TRUE	/	FALSE	1785177339	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785177339	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808937340	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+15%3A35%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33fba0d3-7205-4e04-9175-60b134e41718&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776267847061&geolocation=BR%3BRN&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809081912	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpxKO11pekDfuaCECA4bsCdtuwTSKJd1E.%26dt%3D1777545912434
+.netflix.com	TRUE	/	TRUE	1809081912	NetflixId	ct%3DBgjHlOvcAxK6AzScJno4KFSZtzLoQHRp8Iz_ich4BJwdufyrCSURWhexmLDoy1SSOmoSaWe6VizB9uFyVp3JcYEyO1gtui7f5lfhKTIdbSqiS08iCvPQzkvWJtMLB6XpJKExBsSV92Ibce-MULNAFVHtBzYDGNyxA51aJXBJJ5pVHw_HUey3V4xbpBd9xeyfHYdx5lLa2s8a6iDYRqP3KL54C2W1NhY-kXy3iqk9lwIxhjSWlGiKaGQi5506QyQAtJXQPUKTSBG0CuMnsXvW6GixnNJqR3z7IQKxOkIzeqW_zLky8iUMuB8tIo5dncdQLjbJjIOd_3w9ID-E6JqwPq9i3CgqCBuc2tIdFmLiJ46oP2XoA3LZNo2p1xdqqP7YSzbKFx_Mu0C-lu2GKidwySQVQq40d24_xLrdElazZ-pxsS7tUv-0yN9tLDy32rfKPniDXXrHXWEZ3falwZ6zOv0Dbl0ARPOzmy0lBmsq-hMpk24mNu32aWo5Tc3STQTgW6KeM8RGjFIxJnvTyuX3k0wFh6odAyQ90z_gmYmBpW7pezxjy-f0NM4E055zoZyqQ8nQLW2C0kHRWsChUgp8RL6PSLwYBiIOCgz2QEW-HGBxTLLcNnQ.%26ch%3DAQEAEAABABR4WS3DtBK0R5Q3X7YHj08L38G7bbYcmTQ.%26v%3D3%26pg%3DAWMMTQOMK5DSXMXYJHXODYKZSA
+.netflix.com	TRUE	/	FALSE	1781445294	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

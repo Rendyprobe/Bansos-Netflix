@@ -1,0 +1,18 @@
+
+– Email: virg.cros@hotmail.fr
+– Verified: false
+– Profile: Gte
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | SFR_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785272069	OptanonAlertBoxClosed	2025-07-28T20:54:29.543Z
+.netflix.com	TRUE	/	TRUE	1796512804	dsca	true
+.netflix.com	TRUE	/	FALSE	1793488803	nfvdid	BQFmAAEBEPGtmUlwM9Q9HWRrVKyGPcJgNY3-nkwxC-2jvdoJFi6hfO0MrgNeTapoiLs4qmFXrBB0SE9c3QwIZ3K_hknjOkbxeC2PpQz9Ih7R4nyHVx5L3dtGn_LovjtsmDa8TtJxJik95ABZArnxkG0h9yWHt83B
+.netflix.com	TRUE	/	TRUE	1795111012	NetflixId	ct%3DBgjHlOvcAxKUA1XMHKD9O5Qq_WhXEBtZJ5ykDh7qp3ITnDmxrabYy81DuAs_GcEAC58d-vEkGihD8ToF-lFlAfZ-B8J-FSv6nZeupw7Y7LzkqZwpfs4jweg2KMkM6ov2GQ4ZUi-VAspvO5Am3V8Nx_3YGQqOHEBsufN3AIp3kMAVkYhfTQFmVH_a18ryKzh59OjfmLXHtUWmA4JBdd-WaUhXVIKmmG9Ee5sUIEs8DtwMrDExs9L5fSd1UaTwJ6ioVGky9am49Ysv8LSofxnfdTPQQ5GCJGj7OtllUQrGg5iJJjo1El1OnHAFt-zn_pbWcH-1ZBS9K0mEKWxZYflt4xk31yUjjM7qF6wnL9GRYZOuxAns2tbt0UKigztJorCesu-VnlnX9HECLhM0-QXZVEfPBX_bmqOOqK8A1U4zDnAa8Kv9pSvZKbZamIwwtfwYY3Aswc1yTQ6Lub8STTSTYRLvrfJT2mrrFe07JaxYLSO-PhU6n-XxRYeJEGls3J8Y_ItenP__6H2nAKrP1gJ0dwieDUHUvNWGZx4JvE5JGAYiDgoMUMDoBqd7pgYbTYDe%26ch%3DAQEAEAABABQvfEW8XLGytZRpLE6xI55kmsw01ofknQU.%26v%3D3%26pg%3DADBMDXRRBFB73JKLX5KMGZNNVQ
+.netflix.com	TRUE	/	FALSE	1795111015	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+19+2025+18%3A56%3A55+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=798edf27-3818-4176-a456-187f23f65086&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1795111012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSCDswGYcySJ_4nq90wn64dwoCPbYRVWG8.%26dt%3D1763575013944
+
+Follow: https://t.me/hydrax001

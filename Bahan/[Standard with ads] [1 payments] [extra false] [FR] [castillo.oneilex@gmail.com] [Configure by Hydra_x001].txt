@@ -1,0 +1,20 @@
+
+– Email: castillo.oneilex@gmail.com
+– Verified: false
+– Profile: castillo.oneilex
+– Plan: Standard with ads
+– Next billing: 22 de junio de 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 8139) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1783461348	OptanonAlertBoxClosed	2025-07-07T21:55:48.162Z
+.netflix.com	TRUE	/	FALSE	1790107783	nfvdid	BQFmAAEBEABFD9i0-Ln3M_tMJlD32zRg2MGM-Tn8w1YLaNgGQp5MYGkqBmq-gSMgJOMEqT_uNRDsh6k1wu7ssccchkrxmmNUAkZXb94G3F-Vv2y0OhnMnWSxvuE0yv2b8p1aU9u8oruGrBcHLuEAqSIP0JE659Cr
+.netflix.com	TRUE	/	TRUE	1790176614	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Aqz842hia4gkpQdXZHje6ofh9D7K53dmt0OOlXCJQzcGaaK770UxOobOZvaFaRTSLZedUIBuf_2_3fNmRrBEBQhuQzXun0TA7ReqGjNRXilfWHktjyGcDlXTJkhkJ1xf6BVFJdrsg1U48vu4RqhXTFsKiOioXJrEDYCbF1WQgc8N6LVAXXPynxcy5dCyCndB-NCldxNUT9KhtGSmgSAEQB3U1u5dELs4eAyqdC2d2X2BwlJFHSEJ-72XqVAC_2vMliKugOstBHWu3I7c_svoVExYD-Q0zi9wkENA6qfx-fJZuzGGyvYbe-Wttg3PgE329zU5eJ8_FBjliJvUDOpCm8lmfPOri8uwZP_jVgvwu3gUAOrS_To5gl_y9pq0mcrA9kSRgEainOMwsuZF6F4a659VtIOPa9hCLHzKZVjtbPab4HAJ45jRVzJpFF6kFYVs6sS_TXYXqdHYY5mYwOb94oP4-WL0xCAGRJsJwgTCtnMU61IBU8gddf0QGswYBiIOCgwOOY6LqdyPeYRWS7s.%26pg%3DD7QFXMJNKVF3FHKVL5LGZ57HG4%26ch%3DAQEAEAABABQuMyuq0QN88mHmv9ORzZ_NS_Vt46lCwGI.
+.netflix.com	TRUE	/	TRUE	1790176614	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQAkZ6PBn8m6rJI-3Tqo6TmMdyWIJpumvs.%26dt%3D1758640613584
+.netflix.com	TRUE	/	FALSE	1790190789	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+23+2025+21%3A13%3A09+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=afb3553c-f6b0-4898-bb7f-e5c1edb92471&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BARA&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

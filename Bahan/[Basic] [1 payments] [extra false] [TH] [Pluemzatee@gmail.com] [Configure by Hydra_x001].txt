@@ -1,0 +1,19 @@
+
+– Email: Pluemzatee@gmail.com
+– Verified: false
+– Profile: Pluemnaja
+– Plan: Basic
+– Next billing: May 6, 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | MOBILE_WALLET (TRUE_MONEY +66*****6716) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789135703	nfvdid	BQFmAAEBEGkWFXi5Y6-hcZpIDhIyz9ZgUKpgcN5_l2anuMHvBjg2l6fxtNKCthedo3O_0SHhAj7vtZm3UybO7W-Ik8zkf34oZq34ofIAAyPd08j8ykVa46t_uY3eQkk4VDH-5Rzzw88i2YWwRznNPQoQMJIBmT5N
+.netflix.com	TRUE	/	FALSE	1808113409	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+12%3A43%3A29+GMT%2B0700+(Indochina+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6cbdec51-da36-44a0-8dc2-d90592651836&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809031681	NetflixId	ct%3DBgjHlOvcAxKDBOjOzvxFNHxL4l-rNmczEG8M4iGe41O0e6ApEM78lqYdc2TnOpudVp9WIU-k92OH8O1ha2pjeokzFpVCYXouYJiyu3dVgPkWEcoQRkcwTB5_mWFzNF0N2ABOA1jRFUsE6d892DgjJUl_8MVdevyLp4bm52MjRQ-2XRgjrF2rocybmkFuhgnvXnlzcFewyfhT5GzPISLXGTqJCE8GzYzhLWVpe9P-POIOxm3sSTNziaDRZt6FHKoR3Obgqa86GWI91m2EW3XZe4u9SzZhU_ecPbLbvPnEyve-GqLTlJmFJuXIn8qQBb_GyDEYkYmRcHCuvEf7sglqI8-ug6M2oTiKHaWSg95SUdXSSLvuEUfFEhv41gmihYCBj4GdWsGxeD1dzvI1mvC5xJ9WDZzbaUgYsEw8C6wZma51t9s5LiUhWqrmNpwv0MPOlFz284ftzGF8LcBcQWw34gmqDXMbPrtbpqHDPCA16RTKgc-A3H8BBOWZUzdvcIoOFt0Yz01qPk9lqnzZuXK-2KmbO05jxuZ1mo9YS6_w-BOVgMtT8XDXhWv7phVGaiNGJyaNgP9opqhNetlRK-bD9XZCJVzNZPc7pigPqFGd_G3r_5dKk4q_x2VtFo1aA6lFvU4RLJy72-uQeYVIkJJGOQrA_auJXea-AiHQ4i1C-BXebLzCeX3rZ2Jfy8vQGAYiDgoM4qpEyYBsZ2hprDKe%26ch%3DAQEAEAABABTdz67DEImPJjq74SPI-D66oKHNYCdeBFw.%26v%3D3%26pg%3DAVIPQUF3HNAJBFLO3LXQ3PWW5A
+.netflix.com	TRUE	/	TRUE	1809031681	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSthdKdpGsYrd7zzF0FRBx0VOcC7PfQhkY.%26dt%3D1777495681099
+.netflix.com	TRUE	/	FALSE	1785271680	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785271680	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785271680	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

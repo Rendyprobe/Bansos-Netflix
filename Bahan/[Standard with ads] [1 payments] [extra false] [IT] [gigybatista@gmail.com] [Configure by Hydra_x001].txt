@@ -1,0 +1,22 @@
+
+– Email: gigybatista@gmail.com
+– Verified: false
+– Profile: Samu
+– Plan: Standard with ads
+– Next billing: 29 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 8488) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802126429	OptanonAlertBoxClosed	2026-02-08T22:40:29.569Z
+.netflix.com	TRUE	/	FALSE	1802188264	nfvdid	BQFmAAEBECZO745_NrNP7DNhd8lQ4yFgchaVHVCykSojhaqHzdhhF5mJHQK7SjgXa9MAu4ZCQ1sofNedXkRkiNdWcN6KEOQaEoetXT60FBdoWyroyx9nwE3lF8BDncRWUL41G2S4mkznTMrFxlalz3cI4MwSa7xW
+.netflix.com	TRUE	/	FALSE	1808078680	dsca	customer
+.netflix.com	TRUE	/	TRUE	1808339853	NetflixId	ct%3DBgjHlOvcAxKEBDvNlDm-u7lnHJdGUDIde1jvBIZPOhIscdp-4bmQyGRTUhslzXyH0kwXNgXR4cFECsGgOj9elOlCNy9sTXV4ByrWj3b1Dk-g7zgb_X4RCtROf87OkKiQLSazYReTaXGDt0_LAbw5u1fKpDC1xGF-fs_uulBfxBi_llxb6GN00voM40CidEq8vT7GbaQPNCz8I_1DKW-wA6scsjIuJwR6IEZkPKEX3tDsRCS00HzLVlXMNvu7UdPkWXTwNl3uO2Eosr8javpdULMR-4HnGitlYnMLFx397kdiorD8Y_xCmN8s4ggrZtFH1V4GteBgSrlLiTfv4EfQLR6m_3Mut5m86hVE5Kbk-Lfe44h722S2mETkkGzHJAz0xJjvdyRoZq5MaCs57ulsvDdAtjnx1d1njfBUve_wArPPLsV9LPnCLTWsDLk2k2UQ6GvQ14siWY_BcIoAZb1B-76pbpdlRnI3I36AM1Pd07X65cr-yQgM8WOOHfqRv5YM60D6fhlh54c_zU4MyaWCC3SiB8XINPEPcAcNYoZ9uV01eQV8C29NXhhL62-3dmG7SK79RooIt5yy5Xfeh5ythq24aovpU-Ax5shOrquYdFhtvCydyFjGOT34hkLlVH-B4JI6JoHfBuItYHH50Tr--GEZdWbUuttAAxn6wcWKyMrfDs24l7dyHGQiYjG6ZhgGIg4KDAzJXDxjvB1TGh7clw..%26ch%3DAQEAEAABABSNu0f_W0-u-NKxsDBCsxTpbXD-naIURJ0.%26v%3D3%26pg%3DLLSX6NFHJZEQNFJQU5INF4HNM4
+.netflix.com	TRUE	/	FALSE	1808339854	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+22%3A37%3A34+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63b50dbd-7c82-4ed1-991a-0f11904c7caa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770590430126&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808339853	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8g_CTDLcL4PfwL1T6Itl7zA6MaoDjm9Y.%26dt%3D1776803853926
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	d08c89b1-90e9-492d-a159-a5b172303708
+.netflix.com	TRUE	/	FALSE	1784579854	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784579854	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

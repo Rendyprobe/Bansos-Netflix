@@ -1,0 +1,19 @@
+
+– Email: sergioconstantemoreno@gmail.com
+– Verified: false
+– Profile: Prenda\x20❤
+– Plan: Standard
+– Next billing: 2 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 5969) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795395838	OptanonAlertBoxClosed	2025-11-23T01:03:58.654Z
+.netflix.com	TRUE	/	FALSE	1795396052	nfvdid	BQFmAAEBEJMKeRo1sCdOjhk51r5wljlgLtQ0BXarDjpbCuhvhakoMuvkOKe_alnztxzxYws-_DTy88y1W3o3K7L8D9U9ru5ehzH2bG3Mr6VEIGJJjKHh6oEq-qf_Hq_4BQvM3f2TGWmpvf4EsOfEx0cKLsc3AQeC
+.netflix.com	TRUE	/	TRUE	1795473276	NetflixId	ct%3DBgjHlOvcAxKbA7ao7b_z1RI-0k5q3_Mx502V6xF_UnbkjA2uHvNRC-aj-antyGYfwkISzG2iDWrN2TbMb7KBE4WEV_xefHBoKv0Wf_oJQ884CGa4GAzJtxo5Lgy5A2u-lvP5KBZ60m46J5LduEAF5UsTr9hEEuiflO2Yf31seyhanB0skI0wRQb8iaCwqchRrDoyfs3ATaghvxng68hWn-SSE3xOAOQWpWozVgq7c_Ki7Gcmppm2f_XFz2TKkhui-0gkI7cHQCnDt1tQvcc4vofEV63bn9Y2TEWSYN5w3IpNcAguzOLPu5ohzSh9g63nvTFspg-HEGquQ2aAICreZAxDMHxeFLdZDHTe6ZQ7HnjIOXsD9hlcyoNtpgChnXHFPdiNJ_O2tfpuZdUEhEdGNebjuSxa0vgP_BBaKeGnFSdMyYTBRgQ3P6qYjBI8qKxf1huV8ZRnQb67ujvloJnW737EN5OB3o5BN1CMlc-FPZDhFiR03d28VeZzIJemAtyF9sukTR1Cc_a4Pv2lfOscMhTGfHcZj3feUufqjrrgWG53WgGFWRgGIg4KDF2GeBzf1kHkv6vo_g..%26ch%3DAQEAEAABABRE2wxZ6igj0NbXPShON0JUoNv2DdMEjg4.%26v%3D3%26pg%3DZEH5QETBENF37NGPJP5QPUT4GU
+.netflix.com	TRUE	/	FALSE	1795479905	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+23+2025+21%3A25%3A05+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76bda860-8691-4a03-a356-62261e4dd225&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066583	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066583	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

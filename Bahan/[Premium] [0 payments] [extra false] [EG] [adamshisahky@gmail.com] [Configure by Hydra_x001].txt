@@ -1,0 +1,21 @@
+
+– Email: adamshisahky@gmail.com
+– Verified: false
+– Profile: Shikshaky
+– Plan: Premium
+– Next billing: 5 June 2026
+– Extra members: false
+– Country: EG
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	53a6f4b0-75cd-4885-8424-990bf6eb9e78
+.netflix.com	TRUE	/	FALSE	1800038867	nfvdid	BQFmAAEBEDkSIN_8QiOJaAy9xSGVM99gNWTzhTeCnCT2veWjai1ImWFGpp9TOPAzMcvPGnp7L4BBNgwYccrwBZfd8hYYHv0vIabGCvezAlmOy-BVyv7g2PZ8RBMvzI0Z5DZXBsu5yOrg_RPuJ7kmpm8Ruo9alX99
+.netflix.com	TRUE	/	TRUE	1800039163	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA69Pe5t_fJH-vtiISxBawZv6q9nZoQc55uOiW_amwj5SuZyc9Wwxnkv38dLb9PBjeSCqqUisA7d5BFd7lWc0Qvyondb2-uPozO6lsRGAoZUDD8hDRUp6QO291qZ7kRp0vDb3eQVjb5CXTg6yYkP9S4RgpGpI2Q4M6VFI2NeJCjMiZfxxZgItgSz5PG4ADc-OFd0HoKS5eYOqXGhHZfIepw3f-fHVJ3WXT37P7r6RqGo5FD7pa2xcFRegLO-wtXIPAzyQRi1PaZcmkzxb8xIl_6uBMsxmzkMUgnR5IUzhzYtCsyQCEFML4WkbFsNUwiAp6hyddoPwFRQrmQ8iXdsT1FYOMgE2WK0cg85hhzHOJegGGIddbodYon2pzKEExJqlrOgm5sci6ukHd3LlZsKScAJC_RUOYLN-3WdAw9PFOVUKWViWhBBmdMiM2rE4nS7bIjqY1A2tNNquWcPN0rzskyV-QmZtthgurHZuslXNRNyQFMbRbNNO_7vFR47fdIharNKIglSeJU-y4yCrKa5WNzae-DxEuakc4h_J3xgGIg4KDMeoYwHuD_Wlg40pTg..%26pg%3DJQAJEJSIOZCC5LLNGYIZLZPKSA%26ch%3DAQEAEAABABQ2bh0m2nCo4dDMxc2eaMfSi2qA6V0YpFY.
+.netflix.com	TRUE	/	TRUE	1800039163	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQMRpGQC66ySSkzZSLA32xKhyDbfQMxIBc.%26dt%3D1768503164619
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	f74b471e-3a66-42af-bada-f179531023b9
+.netflix.com	TRUE	/	FALSE	1800039183	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+20%3A53%3A03+GMT%2B0200+(Eastern+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df776d9d-a788-420b-ab5c-b9de5f11e9c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768502867726&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

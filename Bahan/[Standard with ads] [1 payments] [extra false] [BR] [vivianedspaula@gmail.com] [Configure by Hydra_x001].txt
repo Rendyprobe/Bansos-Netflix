@@ -1,0 +1,22 @@
+
+– Email: vivianedspaula@gmail.com
+– Verified: false
+– Profile: Guga
+– Plan: Standard with ads
+– Next billing: 25 Mayıs 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8725) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796765415	OptanonAlertBoxClosed	2025-12-08T21:30:15.242Z
+.netflix.com	TRUE	/	FALSE	1796765424	nfvdid	BQFmAAEBEMoZp8PEPKVMHDAHvBumhdJgn6O1_sbEechNUHRcV8VUJOo58gnyKKrpSOV-3yuPJwer17QRZXyjq4WOPTg43Wifvp4VAEuguhN9WVOfzc9mGHXUlNYKUHV3GJLLyxL66gapQVYh9owJd3Ni3yFlBi2_
+.netflix.com	TRUE	/	FALSE	1799861802	dsca	customer
+.netflix.com	TRUE	/	TRUE	1803953599	NetflixId	ct%3DBgjHlOvcAxLhA6WZU7ReV5lT0LycO3Rw-UtHCj8sYsdLYbD5f_mtUqRklIcZHkVDIEZbahLOm7IwKqkViIFyNjzm1Y2O4w-sTiD4LXqMq-s7Av26W9Ve9F4mnlXzey6QA_pogAzw39vEGry4d-1kTlloDl4m3FSlhJv72bExHrGc48VQ3-u7I7skIdSc667-0fxDvdgvwVX81j5zmDsQt6Yb1GZu6srFs-eTHjEWcpniTMPrPrLkqaxQ--bv0I1KUXJ18SVVaFEr8zWKjmenC5nw2tbdKKshX4yCPiiDUDzz79rhzg9VnLjZoGCzi_l3Q9YgmP_J0A27_bo3ZtHaIES7ZmL8RAiykmtdVSSsqc8W68pJeV8Pc1Pgxn6cQCZjew_r5S5QUbGkT6ZKADb2VbIJm-WS4xLa9tHqUL7ua9nZ4_iPkEGjlLMdEpHjOqpqCtNk5nbQgHTCzyyyIhYBGJYgXqhj-e9TrH0MK3ZnxmZQUJtnpkxlr0K1Qqd6SIN6kEqiJP_aciGcgncx_uVM2NAN_NAg9Z2DCm19nd96AG7cT4xWRq1oLkwIsW2TaFr8pLJ4uwE8kHVh83ii62337GoY4vpUJfghUoUQN0ThpXYMK-40HrAs6i8bt1DvFx1O2iKnaBsOcEVEcNcYBiIOCgxzlDp2b2C-aBZ0il4.%26ch%3DAQEAEAABABTPvoPPEwP29LH5TrBk--RF2Z8IIoMmRaE.%26v%3D3%26pg%3DVHN56BCN6FFKZBBINL2ZUG6SCY
+.netflix.com	TRUE	/	FALSE	1803953602	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+23%3A13%3A22+GMT-0300+(Brasilia+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3b91cdfd-7f47-4ed4-a0da-bcdabaadd7f4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BGO&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803953599	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6vuh2Ec0hll1tlYVp2wC0GZTEb2redls.%26dt%3D1772417598688
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	d564520e-d1b6-4745-a22e-83b717f0a31c
+.netflix.com	TRUE	/	FALSE	1780193599	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780193599	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

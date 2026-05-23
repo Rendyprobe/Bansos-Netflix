@@ -1,0 +1,18 @@
+
+– Email: maria56gatti@gmail.com
+– Verified: false
+– Profile: Rafael
+– Plan: Standard with ads
+– Next billing: 5 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4844) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802232481	nfvdid	BQFmAAEBEAXDrIBT-87zsAoj_7lBMc5gi-pXmX9z0nd-VEMLSzyxsQFcpwxnr71OPgjY-cbtMA-kmmPUKrMVfUVdOdIW8CV9iGDiR_m_3kX9esFHpUzCZcAs-CkRUpdIJMVVDxxR8DHeM8LyDCTzpEG0EWIlWjOx
+.netflix.com	TRUE	/	FALSE	1802280724	OptanonAlertBoxClosed	2026-02-10T17:32:04.375Z
+.netflix.com	TRUE	/	FALSE	1810142531	dsca	customer
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	be5260e3-0c83-4f33-b9dc-93f06ef5a979
+.netflix.com	TRUE	/	FALSE	1810442145	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+01%3A35%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a65316e3-899d-4d72-908b-090e28136290&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1770744724809&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810442135	NetflixId	ct%3DBgjHlOvcAxKCBCNnG4tHgxzyoCfsqWVn6lewObOc0cswx4CMlEfNk_bAt9GhXlX_Q--gDy5-m5RjLgfeFzdYay2Hkg4hu91BF9C6bGQyh-mT0CZMQn4F95_HscSaywZXxEs2ipyaT-6ac5cwLo07ziX_wFzDYRxNzFa_uu5YKaain6A44z8hDsPm8uBXfnLyqDAlWGZ4rDE_jmkINpb4we-smD0W_r09Wk8mVLmRgfqUlD-NATsT6JU18uPGFD9LqR7fQWTj_vZwUmz3wn1kie4TawWwMA5CM9txzb8avauw7DtF6sEd2PANV1j6Gh_VGEVB59z_y8hDjoTHsbfSWzcii4kLNeri8_umJtd31QTqIk-wVNZPJKYTvWgCBPyHCK287WQXm7krUM6iSSJYXHbRE5b_Txg8xBYfioNrFBdl4knMdP_Iu_LE4KPGtFFAO9T46EKgzY5lkvvvw3Y-FbNSESJqFFS6vCn38mJMgvrysk9_nDxbRVehByUqGV1E4tYlE3HS3dGlXmOTjATABmVl5jf9xCWZCa-9J9aI5vcIa0RTSiUjqARx1ML0aFxKBd2sSxYt7W1okxaA71XbD2Bj7O2GEQTF1efgfyxPZCMx_IPtB0JLrrOr9m_lsdQmyQH99E8WC9FoMrGSqt_iCVI-NGwfT28-vRKV3pEFz9AT_pGssf-OlthgLXYYBiIOCgyXbsVTBj0qWoOZc0U.%26ch%3DAQEAEAABABR0AgXlQVxgwln4jpcZRcauvvGQ7J7VWFA.%26v%3D3%26pg%3DQIKKFXGHZ5AQDKAKRMNEOK4FRM
+
+Follow: https://t.me/hydrax001

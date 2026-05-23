@@ -1,0 +1,20 @@
+
+– Email: mug.areeya.2544@gmail.com
+– Verified: false
+– Profile: Speed
+– Plan: Premium
+– Next billing: 30 พฤษภาคม 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | DCB (AIS 7385) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803291175	nfvdid	BQFmAAEBEOa8fC_ypqh_yvahRxZGm5lgM_tmjRI3P3-Dcm3wf-6sxgxCfxXGKmftFAcnHiZg0PaEsjvhJTC5kWA_2Fhz5t9yU0QXhX5Ge2A_BJSiUes_NrrBAm13WSbwrXYYg__eXt-CHAkreRnuY2yq7O4-p0LY
+.netflix.com	TRUE	/	TRUE	1808116205	NetflixId	ct%3DBgjHlOvcAxKDBI6GMmvNEkYKQhY_OZiBkDF7W3zXfwcBXi0xUMyXRUF1n_h5DP6J_DVKQ_yPtNmOnjJ12v2dHsCp-kpit7NyMBlvU1kYyu7Cp2AwID7btuNeQ1D3NPhzuxrOuXQWOaV472ib4I1LOIJEY2NEnYFsTNbiRt5nlFMC4TUvUzcqU1CcTJMWgzMyk0mM0A7dGQHljwV0YTBe7jlQtHJ_Hnd-B9jq3GiAU07FBdJ9-PJi0MLDLlqKVngufmyr7FxbSG7vL3Grj0H7Rv-IIchiIAXj6SwASna2cRiiOh6ABzk7RbPcrUMbEtWiYuKuCgaqxoosQrIpyweginCsE_FrK_L-Ar-VmwsRbdW46d3YlB_H9rFIuXUBPbCmJQdyhMLpTDMMlPeD-5Ld8INNEwPxBw__7O_s4WZY9KfVjPJ7ppH7D_wWds5OE24HaYVHGFH3kmg35OnuDyM1x9APYFqI6S4Rk6KUPWK-O_7o9NM9Vzi0RxVrwQ4rnrTmUOxaHs_jp5YgN2odZuhlDTG8HQv6el-xAXSHP8DLScPN7TvMEXtzgTsFodj0HJelKjlJqHp5O6U-61USUyEqo3Mwz1pW79XtKIBf6G8YExsqL-UzpVIqa9aALAFYL8rcY8YO8CyAxVtHiQmbCEiESqgDl1lFIG4KrhDw6DgIRp4O4smkZeUjYCqqglWrGAYiDgoMCQAvvangOYVCqRtq%26ch%3DAQEAEAABABSSRXCLpc4NbQTYN6LtACzdanROONy05OM.%26v%3D3%26pg%3D3JC2UC6VCJHGXPMKNGSEQQH5FQ
+.netflix.com	TRUE	/	TRUE	1808116205	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQXjfQG_J9kCJ-jACRcg-vs53luICCXSj8.%26dt%3D1776580205526
+.netflix.com	TRUE	/	FALSE	1808143183	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+20%3A59%3A43+GMT%2B0700+(Krasnoyarsk+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=195271cf-5187-4728-9378-db1fa12a6748&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771755172165&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	ebe28e00-d85e-4708-a6cc-6b5209350666
+.netflix.com	TRUE	/	FALSE	1784383183	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784383183	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784383183	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

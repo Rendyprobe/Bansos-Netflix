@@ -1,0 +1,17 @@
+
+– Email: jairou1092@gmail.com
+– Verified: false
+– Profile: Sharon
+– Plan: Standard
+– Next billing: 10 de junio de 2026
+– Extra members: false
+– Country: CR
+– Payments: 1 | CC (VISA 0065) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AuwkS_piRJWtVHaBadPRxVBdkeEbMscJ7C42HLzUu5qsF_Wk8IpTjhggVRn16-OrQnORj20jDOcvA1bjbbyIa30OdCum2sEZvzH6qyg_3q0Os0LTxOL1k9hadd0JaaSPzs7mQKPH4eMPa3pghOIqpQ0XND6f3PtaMC8YGNUJrwustHdpF0NReEXfPGgG74rJU6fhVM_Ytpof4Kknu5pO2I3H92cRRmsEGMgu6-YPnr43uBV4SmSEX9ic66RImbEZpIS-n_B3BSzOQ6FB1o_fZVKY8PY4Nt8tlk2i9f5MNuuMmnfokDY-61DM3M_Sj0bVyVTMeTXH1yTaISjsVY00Jf8lGh7WA5muPrY96qP99hT6n_bHCFymWflCgJmILaiRN--F58TOG-jr8PxoJi6UX2Xx9SqQJ2DKztGY8bvgrS6Dwp9NdhG2G1elFo2PYsPwN0TGFAO9XzWSVXWjhPEv16Rg5_09wJg1PYaOqBnpAXQ70dKcpPYnYSgYBiIOCgzkoa0vCVI813p2C9g.%26ch%3DAQEAEAABABRo4PHMOsmuayzxEXOXyo-tdaXtihnCMnE.
+.netflix.com	TRUE	/	TRUE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTj3KAcEXNpqMHYZ--LiFUvFn5dEWckZ_g.%26dt%3D1739136348834
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	69b907ec-ecad-43a2-983e-be15efa7dfce
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEOEzQNe0M0NIEuaGl6uxcdhgYFf-5KuYFAtxXP8G0Okh_4WjS6ozj1QxThYgfhj4HiSdLlQQ8iDHUl8dhBOb6g0vDkdDNc69WdV8CLWYpIQ1uEjvHBYRX9lzQ5f5-oMVL-Hixufd9fGAP8O__kEFBiQN
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+09+2025+20%3A17%3A29+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a45b7ba9-269b-4ff5-a89e-c926c2120314&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

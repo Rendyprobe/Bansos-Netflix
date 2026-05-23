@@ -1,0 +1,19 @@
+
+– Email: sofiano.auger@yahoo.com
+– Verified: false
+– Profile: Lamasse
+– Plan: Standard with ads
+– Next billing: 4 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 9531) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785807975	OptanonAlertBoxClosed	2025-08-04T01:46:15.138Z
+.netflix.com	TRUE	/	FALSE	1785807972	nfvdid	BQFmAAEBEGAClZwaT9dzgs2M57zsDd1g0qXXoaiagXV4yxlFu3_EZeGiIEdy_mPpHQ2l0CNrmG8JFtCmpgIsTA_eAG-0gMNQ-Xz5OEivkIYzm85EEGVx0EDI5jgPc8ZeP_DlncZim3rbOTAJQuOLIHEyPjdULXQ_
+.netflix.com	TRUE	/	TRUE	1802680560	NetflixId	ct%3DBgjHlOvcAxLiA3beWhNSKD22Gq2zR_Z6C2Fd7frWO2xoQToA74J2IOR9uiEtQL2DQKCQHikvxBG97LOs6PE43pzSkZtlwhVD8XBi44s95VTJwHfyoD7asj69umKD6IDsUy3tDo8bYU76j32q4YYXwz18Jnf7AOQmCKCmf9WI5q_XTDnJxVryF7XQDHt9_O03ZLc-V-nu5J7J7h-n7Av75ECUQyA1nZy17BFEqEd6wm2lfYF53NBuKBGlITL1Fv7mGa7dsR0irSF3bij0UOEml3WFYP0_r7pKnCXXCYNY_b37RSscEppSAq7dpI1Tp9fPZjLYvk1VCI8PQpJo57P5u8FEySVMpkYze12RwZC0KU8N4vTa4XwDoYeENGVj3NQlFvj29jww6spj8S6ZWSsdDgzoh9d2fzx9cS2TxOJfof5Hs7RDl-8iKF337Nf89jjHU1b1UXQAk__L_P1ZIFm12NZqrN1yc9bMvlShtV4F319xzEzWwywhXhGHi46J0VATROu0nTmfVN8Ynv0cDIFX-IyfMB76IRL3een8JYlsyp557hsvjxyOFEk9XizAFrZjXav1ynj57an0HCy27Pt1azzGRJ6QvleO1GbJy4BmwuTXiVXLyejG-3DCjmwiqdZ5rXBfYfWkqPj53O1yGAYiDgoMvbUwO-Jxo0Bq01a5%26ch%3DAQEAEAABABTX3ToG3oA8G6SgXIMUJ8fROHzu3Q5UFmI.%26v%3D3%26pg%3DLB5WUURO55FE3PLQLY7PU5FKHE
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1802680606	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+09%3A36%3A46+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=90d52673-ba90-43f2-af25-f3924e63da1c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BCVL&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

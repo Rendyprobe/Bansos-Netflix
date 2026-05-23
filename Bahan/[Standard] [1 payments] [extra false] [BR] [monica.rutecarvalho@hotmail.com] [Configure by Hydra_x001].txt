@@ -1,0 +1,20 @@
+
+– Email: monica.rutecarvalho@hotmail.com
+– Verified: false
+– Profile: Mônica
+– Plan: Standard
+– Next billing: 4 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 3398) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2024-05-16T16:24:39.537Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEHuJRk7UVruYGEmMorixULBg_TsS9K-EJDc3uRfVt_buTQ4x301iB1wW4ZtQCLKT8pXRt-VgWWEJMn8tcH5yDzcUmjenJriVPYVUNkMwmbwMoaQ_u9tZNtyoSMHQvY81EFFiUni-8FW8__MNk1hgaBxk
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	d84356b5-964a-43d7-97d8-7e8627504581
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQQeRjP_fkVetwRv6aKXAWe_vjuwSmyO8.%26dt%3D1725550183788
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxLfA056Gtg8-DdN3MWrp7arLhIoF7gkwmTSrl1mvUihwN2NE89QkVcplJcnhVc2I3yqOJCKJ_LjvpS2cDMyRd3n0CH4fg1dIeNSde8sSzP_yi6qEFqAGDQ2wDN8gMNe0znakAjTZ8liAb0bcRh8tqJoejIww1QkbTo_UNxt3xvxLsiMW8eZRA6BTtI8I-FW9FZYkUv-wK1SV-SoNz5nPsfhdFUBhMv6U7cd-EFaA-pW7CyZHHnSIE8HlfAVKIce3xknKGjS0vWi9OGoQbVOYzcdGYv9UYyZJok5JgLuee5HCTiXnocOXl1VGib8xHLE8W4bghVfFGiCiUFOu3-81ZZfMG0T8Aj-q8BhEwRn6x_9biqDI2k0lJbT4_0Yub7H7j1PJUhDhJTaAFhmSobZcm51DsM8iEoqE0a1luP5yKNsErw9tYtgA3vXuuWpEdQdeR3OWT1lDKVjPx4M53p7uSDyBr7AhWCt8vq9neh6sY_gvvxcLcyeYBVDYO2gNFGpZAcucPaE2CAY1NIjv3YdhmHpbUfW9LT2AbhF0EKQjlHYiEuSs1xmGQnoa0FKTKqoZKqXvE21ODbIBFvtTqs2tqqn-TQ1rvDKLeJ7KdNLAzfaK_-32-rGrY6gPNB8SPREOl5DGAYiDgoMxke5tJa_p5vrTPFk%26ch%3DAQEAEAABABR_dfd_SMaKPaNs_moKuhLb2JuwvvZgzcI.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+05+2024+12%3A33%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=042d569a-3945-44a0-b101-4d7a609abdd0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

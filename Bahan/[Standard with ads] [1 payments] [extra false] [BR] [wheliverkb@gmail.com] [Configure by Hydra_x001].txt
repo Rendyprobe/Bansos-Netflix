@@ -1,0 +1,18 @@
+
+– Email: wheliverkb@gmail.com
+– Verified: false
+– Profile: Janaína\x20dos\x20Santos
+– Plan: Standard with ads
+– Next billing: 19 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 3129) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802558781	OptanonAlertBoxClosed	2026-02-13T22:46:21.009Z
+.netflix.com	TRUE	/	TRUE	1802558855	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA3M1630ZQLVU67hC2wsSUGkX_cGisDs4VYrurEXaP32u_cXygEtNzBwGXUfw39KDi2e78ZxSdphM1Jbqtfas6O5HjrkFahz4jtZ1B--mT_mkQ_kyXfYTtHHlc2OvfQpnYYyyiKWYa4EwDiwcxajX40DHk7vnNFFy52j8dls3Ofj3DbT3ybXcC36gyFKyVoKMc0Xki5cgddANy6ZcD20RXcWQ5BV_HMQo9m3cBFfZmMbJRe5NR56VwJ_3_4vkNYsiFPbNMFv-HSd0d_9JqwsVKizuC76MjFttSlOW5vZbpSeWqI1R3w7WS-5s72a890tZi5Zpkeffyb6UScBc-lGQkGs_MGHJuB0A5C8x9yn19ooeLfkfDRIR0Ljz7k8ipaTl8jBpu5Sen4ZrZbUqFhjRctgJSa1Pr-qOP_LLnPoWKKTZjhIz7ZHIcmajCqcHXAndXbZr-KITnYPvpUaoWjLSDa9S64y1cG1FRoKTI_BM4hKEBpMr_cw-4lLGFPfJGJ8aLf4P0aX1PaH0axEinKHCnmY0S5QYBiIOCgwucBMnylMegimBq9U.%26pg%3DPVCHSWJMBZFY7EPWRCVUHUIYRI%26ch%3DAQEAEAABABTZ3pOBCf_VGagCmTq0zT_AM8MoyEkPqPA.
+.netflix.com	TRUE	/	FALSE	1802558856	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+19%3A47%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2fb2add-dc74-47b2-a03e-a326d8a19e8d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771022781478&AwaitingReconsent=false&intType=3&geolocation=BR%3BMA
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1802558855	nfvdid	BQFmAAEBEPb6zqyhaYupby52Egt-iW1gsaIWe4t3Yi6mRTQy5b7gLcbZG8FHg_Ii-hixtpySbIxnGMMyzNfzAIB0zo3b76hqN8QSpTXLnRiZpkIvpVS9rfqy-f9TbR5kc8nFjNiwMFI6owRkfhiQngRZZB2Wda4p
+
+Follow: https://t.me/hydrax001

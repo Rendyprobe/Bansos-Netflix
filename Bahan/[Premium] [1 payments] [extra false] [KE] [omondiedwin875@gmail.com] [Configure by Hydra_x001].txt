@@ -1,0 +1,17 @@
+
+– Email: omondiedwin875@gmail.com
+– Verified: false
+– Profile: Rozy
+– Plan: Premium
+– Next billing: 26 May 2026
+– Extra members: false
+– Country: KE
+– Payments: 1 | CC (VISA 6535) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805299000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+18%3A56%3A40+GMT%2B0300+(East+Africa+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=649ae739-ced5-40fa-87c2-76dd3231f26f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773762926065&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781538999	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781538999	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805298984	nfvdid	BQFmAAEBEOFyDpotJva4DzK4Em2K9SZg1RqxQ3nwoqhXCyhCSDiLJ94qceFehGiiNGGzg3OnB8uK1EAE4rreOWO8kppKYuNucuGe5IlEOgwKueDkZMVqy6ULyyl4LlqbGZeZnL3OfNR81_O1wxnkAofMr2RP1DIp
+.netflix.com	TRUE	/	TRUE	1805298997	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7ArvoOL55OKQG1mmgFJieg1HQ8V7un6FCQjIbGCjwWp_2aNKe_cyOBW3H2eaHoLYGFsLSsyx9CrctHVlwL1UnfE9pu_7aQ6XxWJ1d6oWg8tT2OsgeRl3ZAz6mGQiD725fFEV2w0AEx0a-Reiu5YgbSQjrU45UWcp1Z_NuoRqEtS2pKFkYYcr4ouDr8hr1O8KJLapcUkasMB4BaJRExTKy8aRT0htIKR47m1CeYUfNnZuTinqIT3nsLzp9uWG3PsJuxKRmroW7mB4Bb2VtHyRMBByYJ_l-ogY3Wn3lwGTyKK8Bc1sxsZdX7f5bzoPw6TBAimTzY2cN0juKAeIw0qlYtRm_4L_IocLk9aVZldkdS0oJWtnR1Hu7TffEtXFKblF0OUuHsTdaw1XCUBlHP81jVPOKoHEHm7wv_smYXEjCDABvZFDN-nMDa4Ci6Izd4aTqOlBo7QEErHNqVaEi3NFxdqIVAJDeFWwdNfKeUPHPhoXGnTmK0c9s7oAXYUoYBiIOCgz6jri8mT38phNDD1A.%26pg%3DSNPDTH76PBCURO32JJVP6A5NG4%26ch%3DAQEAEAABABToQJx2ULKITUK1w_LVQ-XEM_l_CXKvr64.
+
+Follow: https://t.me/hydrax001

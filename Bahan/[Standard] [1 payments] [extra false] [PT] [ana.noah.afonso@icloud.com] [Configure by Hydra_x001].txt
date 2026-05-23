@@ -1,0 +1,19 @@
+
+– Verified: false
+– Profile: João
+– Plan: Standard
+– Next billing: 22 de junho de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (VISA 8882) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807476929	OptanonAlertBoxClosed	2026-04-11T20:55:29.772Z
+.netflix.com	TRUE	/	FALSE	1807476975	nfvdid	BQFmAAEBEGn-CS8v7vdmzYxSuKxJckBg2zO0nkQinwYg2TkiWzWO9704SfWO6Y5ZmgyQ73kRo2TO4HpagEjbXG6XZ7DfFej5XMkwV-Ye9q5WeN3klqrT0syjYjsgOGkZJ-S1-tAMv0LYH4ZjeIQR6JI1pBFl2STq
+.netflix.com	TRUE	/	FALSE	1807645258	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+20%3A40%3A58+GMT%2B0100+(Hor%C3%A1rio+de+Ver%C3%A3o+Brit%C3%A2nico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0bc74998-0c40-477f-8255-d98907a84edb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1775940930241&geolocation=PT%3B06
+.netflix.com	TRUE	/	FALSE	1783885257	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783885257	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783885257	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1807711613	NetflixId	ct%3DBgjHlOvcAxLjA-_2AToQUXfME9eF-lG1mw7bshXLQ0u03zGLGV0Xm3BpVtGq7ynyh3Cl-rRmh9pk_FYyK6PomZsMe1M6YYJDaoFyUeHkNenZGeCpFlJx6M75POXPf8nMEWenq6W-TxZGx8Vd8aJVfRQNnnGrc5ea4z75_1A42y0GWgXbAsdUwGQBRzyWYaxuggWKNs49nTZ7WTimdxgtJ-od2OSJh5IIaLNb31wpMIx5jCyp9Yl2h2ubVWAfJ4vOpznk_9fwnPi9VIVIK8Syy4OncgjqKMLDFn6WsMf_qMszkSSxVwvKvhU0ZTwku_j3QINkXxLC1QqyFRV4JmfuZOYYKVvL1PDQnrBQjavt-SVEjYdUb-ZsL-2xFbdfbpKXXJHoYu4Z0nd2js25CJJcLBLsZg3VxDp-6umVPubhCipYgdHUnepcUAJtbKw8N-Ue7u6vmoRf-uU9AbeUS3iMJlR5xR9bQ60LKKmBRaRswqN0KdhJpMnMxxjkiF4T_VUd2niTiQ4Ek3B4EcW20L9NCZlg_SRcAbBFM-pG_RCAolMIZsRR1rXwG7KNiqPnIXnBL8bUY4-ByNjg3A2xyjtd-m9NYEedyBRxQu0VHVxs9Oa4suRk_ZPtkv-1sUyaRDQtgfOSly6do_xe6Hs5fxgGIg4KDAiCrfosxt9FVEi0GA..%26ch%3DAQEAEAABABRag7M130cB-q--ipaALKq1b9ZNPo22uxg.%26v%3D3%26pg%3DGPG6QTFAKZDF5LP6PMU443XHC4
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

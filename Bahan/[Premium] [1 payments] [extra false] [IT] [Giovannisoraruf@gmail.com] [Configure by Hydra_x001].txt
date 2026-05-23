@@ -1,0 +1,23 @@
+
+– Email: Giovannisoraruf@gmail.com
+– Verified: false
+– Profile: Erik
+– Plan: Premium
+– Next billing: 17 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | PAYPAL ( gi***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796662862	OptanonAlertBoxClosed	2025-12-07T17:01:02.957Z
+.netflix.com	TRUE	/	FALSE	1796662975	nfvdid	BQFmAAEBEDM0_YXkrCCvv6OufPOkn1pgh00hCPGJB9YpdzslcDc63ItXcvMQpVKgWFfP2Tz9rj9fp_XoRn7X9mH0OjrVr7-5TXaLQoQpPEAYZ1fmOprwpNyJPGI5cobPtJlIIYdioh-qg5q-VckeM2g-jmmZGDkx
+.netflix.com	TRUE	/	TRUE	1781445298	gsid	6ec1181a-88fe-4cd5-8075-b8d4239ec8de
+.netflix.com	TRUE	/	TRUE	1798140765	NetflixId	ct%3DBgjHlOvcAxKrAxPSnONCy0Si6n2e6ub4taiyf46y4e1tGJ4SZjc6N8JZG3Qiz5Bc4lIEgiw8RnnZKE4AWSwmd7cchJ38v6YcL64BB_AegQJKjgpJ16xFW7zEMYTy_-MpxOMUdQWHE0XE_tn0BtW6pfdECZ9gtHBOjaCLkCcnhkRiOdeRxUu9--qGhrcvmjHxMnAEdZBrwNNnb_RV1mSxa4IWSI-i4AoCzl9P_DeEaOARg-L56mnr1Wvn0SAZuxpbYA6LCYQsARqgMGyzWbnsId_M-Ks_kbHRA7PN5ge2xdawXfKLatcsodRvfOef9thMwZnR13r3G3UKGeTyUzHCNZ11MsmWalj5Yog_5jmJRq6s1H3oa4iidKHHLiz4yiYh8HKjSEmb3aRfnj3_hUd7jgs2xfVqbD8JD14go1HuztcQzqkdgl8O64BCulYy_wUBoLZxlCKV_oXZp1jAj3kEl9tLMxZW-xu8PCsnClM7IxyvMrB87XswG5nedDEfc40GdyfjdsHhcICMIsuebl1iS49Y1kp4WcVT7fFb10kaqri4TupsFEnh3RgnhKBnnw-Py3mchK4YBiIOCgyBoLTniHOOAh4ExDE.%26ch%3DAQEAEAABABRtx-CakOFj8IO1HXRayRCJFpbMpT7ttic.%26v%3D3%26pg%3D52RTK6BI3FFPVISNQQ2NB3DB24
+.netflix.com	TRUE	/	TRUE	1798140765	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3w2CvmXmFp4MIGA8dO9JgWTshZ2I_1Ag.%26dt%3D1766605233036
+.netflix.com	TRUE	/	FALSE	1798151189	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+24+2025+23%3A26%3A29+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=578ba707-f9e1-44e3-a8d8-3a3efb30a36a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B42&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1801175188	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781445298	flwssn	944d4684-357e-4307-ad98-5fdac3e2f56e
+.netflix.com	TRUE	/	FALSE	1781445298	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781445298	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781445298	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

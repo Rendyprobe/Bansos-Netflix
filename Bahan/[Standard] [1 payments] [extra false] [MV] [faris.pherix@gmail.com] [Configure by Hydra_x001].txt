@@ -1,0 +1,18 @@
+
+– Email: faris.pherix@gmail.com
+– Verified: false
+– Profile: Hussain\x20Faris
+– Plan: Standard
+– Next billing: 26 May 2026
+– Extra members: false
+– Country: MV
+– Payments: 1 | CC (VISA 8737) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1807918896	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKoA7AI23kv-1Sk9gq-LR2kXC4pYhcXB2lZ-36XLHMSrxCUVJ9v5g-p8meu4tqF1SJsYj6sc0vWUHDGaGIq6tZQUyJoTYmkb3u9jp1oe2fKdZs-zx4Yt71bau4ObZCPdNDCL55G3QCGLz4VLoNouKgIq4kghHknugqFPxa3IbtkzrelLir_j057Qwl6mMOIytdjsh2p24sszxTbrjQLonJ1YnM-3ev444MQ4N3uBUZqE0V_pyb9Gu7lJ4-6sglAISmgkiRXozyanYN_yG8xjTE93K4HifinqFNkK-xl8DKH5PXbI5iM1ohmGK-9BwcUt1gT4mDN7D69gniY6JtcHW_sdiH6lfHq37Ci7SNQcm4mQPPt7n9-VOD0jkIaM3MEC6TLyrf438oINidwwzbp_zhZJcHk_KAsX6l4ntL5F3v-2dTOxFPj3dv0UnM2yAI5-AQRlOwcgJUMV5NzLT7BklvupuSs6clnN9kZFaZLjoZt2T0YqUunZimNOfBXOdnAs8HYIRrytCDoR0d68wu4boCNJ20FTel11MPT5LlxCCCGz70aYabnUWojxsYYBiIOCgxfWTtfg4FGzNtyhVs.%26pg%3DUUKIZ6J2CRAE3OE3SHUXIWPEYM%26ch%3DAQEAEAABABTTrE59tND6HxIyDdprMozq59ezHRutuJg.
+.netflix.com	TRUE	/	FALSE	1807918897	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+04%3A41%3A37+GMT%2B0500+(Maldives+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=255c464c-1a29-445c-b8b3-a38fa768993f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776382895692&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807918896	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTyOpAvzck33t1BhiH0YUZSHUG77OBaV0I.%26dt%3D1776382895731
+.netflix.com	TRUE	/	FALSE	1784158897	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784158897	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807918896	nfvdid	BQFmAAEBEOyBZhhvMf8SU5RQPJyXLX9g8_yEvDr8y79gBPWcTcNQctFjs12_puLewlSYFOFPeLo8XJ2auMBMme07cfz3GZuUSQlzwgxes1ewcBUGGtydgU6TCvJWTKZraK_eFiKs_tK2_bwJmjXmOMUBx1YOi5aM
+
+Follow: https://t.me/hydrax001

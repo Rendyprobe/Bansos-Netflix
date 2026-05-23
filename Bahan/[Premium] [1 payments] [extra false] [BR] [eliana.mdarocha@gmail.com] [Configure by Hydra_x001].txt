@@ -1,0 +1,17 @@
+
+– Email: eliana.mdarocha@gmail.com
+– Verified: false
+– Profile: Duda
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782241911	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066567	dsca	customer
+.netflix.com	TRUE	/	TRUE	1789999652	NetflixId	ct%3DBgjHlOvcAxL7AzpFHPMlGzQ1nQ6xagSd7cPZ_elPYZeBzCaKeBqbgMFkJeZE5iZ4s_hCzB3Ui69tWZsjub7H1s0xVeJrgVrM_BHY-7Em5-2R4szwNOzyjMNms4iYsOFurm1Bj58ObSzfxlsN5Y2TYxcOwqgyFL696cuLUwgiQjyMWaqwMI0S8St0wQHvyauYlkZSUUnM8nHmYL2jnKLwAOEnzlXSLN8WRMml_r_6mIfFYsnsH9Vy95DMDnjxyLAtOc434oQFW_dVc2U0o2WlufdPVMxW515VMOGOQZmuDyGwV6a5Cd9nyTs6HZ-c8uOFjyX9DL-nqcRw5N-f-ekqj0MuqukSVSA0sJgXYyRjmF7ZdU0CpEwAEbwKPiwMGR8X-e4mdRVpnEQi05mf3vQqPAEjQo2jz1gAKmOekZFDdnW84KdSUG0CXPl7cyQhPR53CmseULrWwASmTKfAGFWBhLHeRXBYPrdJuOH-lJXWPNXiVKhlVIoc5d6i8kNQ0yljD-yK-qFKyPWkl6_egYeXBXzvjvB0sUIIiEyeWwPvyr31Ch2KlHECcV7lDJvdMylqKHv2xbNh-NYHT-6zhHCXvpurI-NXDNt1cZx-dXA8YjzQ4UwHi5B7mtTSZGuxuF3iey-atPPU2R7DWr6z-mZy_q8sTm11rGP2hjTJN7Wbi7rLIRqRzRgGIg4KDE5NfOi2ndHMSMMI2Q..%26ch%3DAQEAEAABABTVY9wSlFTKz9GvhEUQr4m9qa0EvF0n4gE.%26v%3D3%26pg%3D7W66PCB4M5GPDOCRVS3AGTAUPA
+.netflix.com	TRUE	/	TRUE	1789999652	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_aw9h-D5QP2ZIY1RSvj-aKAY_bbpc56w.%26dt%3D1774447652629
+.netflix.com	TRUE	/	FALSE	1789999652	nfvdid	BQFmAAEBEPTpiZgDkenZ2VnF9rfRArZgRo2Xq0w4RLSko5AUHnL_3NB40J9g7dKjMHz2ls_RcIdU5GesqvAu4XpqVKH0SyIuN95UweUKNNF1yYfT_Rbfd-NrOARwcWhYV2J2uDNWFbfgBx_jw7Qsiy2QF1mOHTfU
+
+Follow: https://t.me/hydrax001

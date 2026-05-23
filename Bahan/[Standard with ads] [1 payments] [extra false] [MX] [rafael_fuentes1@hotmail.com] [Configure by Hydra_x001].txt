@@ -1,0 +1,18 @@
+
+– Email: rafael_fuentes1@hotmail.com
+– Verified: false
+– Profile: Daniela
+– Plan: Standard with ads
+– Next billing: 8 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 9675) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795493917	OptanonAlertBoxClosed	2025-11-24T04:18:37.345Z
+.netflix.com	TRUE	/	TRUE	1798517933	dsca	true
+.netflix.com	TRUE	/	FALSE	1795493933	nfvdid	BQFmAAEBEI2sawbfjfJmeHJpRciVzCRgz3lPckTc1QAxbiUgHAUy-EJEj_UTG5qbE-CJSVFq4jJHF5kTi-4xF49K7_PFOcLaZYx7oB9RZgWWIx_PFkVPGDU5fg5Ra1d6W2rR0BK3BCRnbvZF_Lz5c6VAAYeSBkdO
+.netflix.com	TRUE	/	TRUE	1797819371	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Apx1F3q4T-UZ_-0Xbi2VNa01_9bjbztcgFliOAp16YApO6ctr_UiisJQKYfveFqIidb7eKniOWGNY4Maiz81vFoGAgG4bdURjjkFvlay7z-i_CJ7lh1q8V1HMaj_JpfPp1pvjgI8Oml44VbBvbtNJMhxSXf_GvRhYNa-IPFS0eE3vZCYsNK77XRipyHqBw94eG9K5jousHrQ5CBDTJwyb-YCSlIZWFAxfh_rjCMcdr2w7fVOuJEBS-3S4TiWCWznkSAKeM5YNtOs6hZvo7PnSu1N0YhG1OvZS7DWa9qJ3yxWoeAHTbg4oS9SofLWKNBM8Yvw60XdsUzwOOpb2fEs7RNJVSq0AXwghd9JyNZql0XuDQ4Ma87kTPM0TYRxz5FuBS-eTJH2gtyZnGHRss_LZ93jByMkm_-t9g6unkQhFUt114T1N7ERwUIwbSA4UmD843St30EVHT1jaYb2BX4a4v7bW09xXcQ2PKJe5QqiNP2j6sDGQWRL1jXiMhgGIg4KDGuomOMwyk8e5_huJA..%26pg%3DX5YWVNAKQNEVJMSADF5LXBCFOY%26ch%3DAQEAEAABABS8UmstbvIIrv4-en5A6q0KCrXLU1QUQQ0.
+.netflix.com	TRUE	/	FALSE	1797819374	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+20+2025+20%3A16%3A14+GMT-0600+(hora+est%C3%A1ndar+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8788dee-ddac-487f-a156-3a4959d9aaf3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCOA
+.netflix.com	TRUE	/	TRUE	1797819371	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTqLN92NPWwlXQaW9WlltZG4K3cHDNR__Y.%26dt%3D1766283371216
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,18 @@
+
+– Email: rony.santoso.rs@gmail.com
+– Verified: false
+– Profile: Ray
+– Plan: Standard
+– Next billing: June 15, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (GOPAY ********3817) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801121937	nfvdid	BQFmAAEBEPtftWZcahH6S488dSxDL9lgn5ugKO87vMOB9tRJTCfp9fRPnmwWQYoMpyfX8CBHiaLYH1H_awT0sok4XmWs8_UlaiiG3TSQw9w3-JqDAP7lWp2y02u8r-K6p9_e1utYu8iiOAnUAQ8bgSldRtFfMxq-
+.netflix.com	TRUE	/	TRUE	1805007941	NetflixId	ct%3DBgjHlOvcAxKBBJqGpYot3kVu53Hx5PI-9CciM8O0_ZuCNm0LMFMAZbbZvQEql_qYW5YvDsEhFZZFUqdYZKNpN43_t6O6bpZPy644zAPZkyfP7pg9zJDe-jKpNV8-8gK90lmMbJclRUMC-eVWc9EU45AkuVyLsC4gILYZBfmwjYyIjrmNnhgHA4sN3MzscviPUg4PKnXtCzTQ-mu2KUSx7IXr1hnKRX8W_P690nQxYE68vy1rC9m6Rpye7jXwj38A4mT6V1-FWW7z70AgQajQhuK6UaCigOyS1QW3BJef-LEK6SZBusiXovQ_NEy0ub0WDaSDaPvOeCrG8Or2yj7ilAPDYpQe0wGRorX-uojaJocRd7cg0yenLO9VAUUVrpeSELzD5MZX_XoiPGZNMvNwNBlhi5XLfNYIoHSMaxfyYOV_nwNYD0OjrxIbd6W3aQO2yWYRD4W45s98lyi4pMrBQGvsdk3pH77uQWrV9CFcCJQsgyiJrEs8J1v2fyTOHMbyJpDt-cxnRJcFIhuQG7_0XidixNlMOnO-dNnXq5Nm3RoHFa27oioHXTKvAT26qMLDyntjHDHtTAAqV8Ojt87KHci9I0GjvkHP0MOgrwWCMwo-q-6BXFyTNDkGqarukMPhaIupOfvZPDSr4N9EioTw7mys44KEP1qJvPV2ABTN0VQMFRGXo5jmYKnbMhgGIg4KDP_9i844Yi04T2rXow..%26ch%3DAQEAEAABABTeYoVDHzkTECTrjYQBSO4fGoDMV6480FU.%26v%3D3%26pg%3D4ROAAEYURNCRTPDCDXK2LD5DFA
+.netflix.com	TRUE	/	FALSE	1805007941	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+02%3A05%3A41+GMT-0500+(Central+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fb3f367c-a75b-459d-814c-b82087ec4824&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769585939352&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805007941	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbj5CgDjyN8nEbidZ6Sib71NR9OajNHhE.%26dt%3D1773471935192
+.netflix.com	TRUE	/	FALSE	1781267943	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781267943	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

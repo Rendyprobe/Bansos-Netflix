@@ -1,0 +1,22 @@
+
+– Email: lelagadec.franck@orange.fr
+– Verified: false
+– Profile: next939
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | ORANGE_V2_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-08-09T23:44:26.262Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEJCqNDne20emMfHcyuHWrWFgvCgpD0XQQbo8r8LJ77O4_MEClDEMOXsdanOB7WogRziv4LR3fNPKZEZpKh1APjLgCGE6DnuNmVm53trHMjpQ4UrkN9hB1KopvJOyBIW9p3PFOJ5EG0FeJ-1BodNectFQ
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	3981e420-075d-439d-ad16-c75bb9f7805d
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+23%3A23%3A40+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b9d1c6b-195f-4a7f-b5fc-65fdb0d4a0e0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BBRE&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxK3A0iMLFYirVDGqIuY-bSyj92gB7x9BE3JIZzFxEGciCKmJOB4FmS0yGrK_GN_YKTunhqSJmoSKqQiYzrWp2B8SmvEO8Ydi2s5prwZqbqM6RqFePtUsd3vf1TmziXnx1k05ikNLPV8z6tgBUgCA8v3ktY5PfGoXLkkLeaLLhrK-fXjwY8XUjYzIRFNvz3b4wB3J03kTZnm785k0t8ZRqf1FvFdlT1e_QO6Ogx3koccMrFG5M-VhbUvO1VQC2CXXkRa89X8-CnzT35I_4vRhlGDxfcE2OR-yo81PVFEtnDTZYDlAAccTG2KEl8oY_XUfwZj8T5IqnY0zHUSY6LqNmCgFtUeiWg_Tzw0q1MIjsGuoG25LK5sevCepelzRZUzolVXcr5fyaY5sel3JIr01VT0obIECYp1Ycj3pJSwZUps0Z1s2b28AwkpA1k94EYT0pb-6fdV2-WiX7fz2YiAlRmOFeQ3I3Xk2crXE8TbquKVIQa0ylpGu6YVfppTsOHrPjFFpVe_Uwi2X83cnH3sAOAd_nrXtfbXJYCeSUIbbHr20QYT4IGbLZIHvd_jSpbBtpB-VBdj6vU_jKMYBiIOCgxyTdwh2XCbMI884Vc.%26ch%3DAQEAEAABABQuLe8ObCOF3QPtbdWIHbP3n0twLKcFytg.%26v%3D3%26pg%3DRA52WXXMPRFMZC47ALPWCROGRY
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSN00FF19oRY10nclgn05ETGOz6yfbcMeU.%26dt%3D1776686942612
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

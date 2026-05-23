@@ -1,0 +1,21 @@
+
+– Email: rodrigues.titi.33@gmail.com
+– Verified: false
+– Profile: Nancy
+– Plan: Standard
+– Next billing: 1 de junio de 2026
+– Extra members: false
+– Country: AR
+– Payments: 1 | CC (VISA 3858) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	afad8f88-dfb1-4f7b-a03d-4fcc86043d9d
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	f22403ab-75d5-459b-b16a-5f776e77dfe2
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA9bk_7L2b9BNb-W6mU6wvhT6xYbAzurqxJNx6iUMgqvGtt5eWnDIc17Q8x11ibcfTbu7L0SXk_-59cghHVgdBb3Yc7_9rFo_0zvgnUO-O3hoDcBG2UY1dzRGQGNRZ8TSO4hv9aO_ZlRXA8TCdoWoOhW6UnZOZJej4xPdXDR3A_GA6AnY-8hJ2A2qnqMnAAsaJmeyVv0MOFFjpGmcd6QEFv6mVeE_BAXqde0Jt6vCifC7Tqmq2X-56dLrdZWjSD4pbx2uTW1EGXeVjQwsC3QLh8a9Ts8a6drgHjR5jT668umMOazkG44uB24E0TrIRAFjH7FlkUflDGkKz9B11QzMbErUKJLY1ahKIX-luMn9BVp6_oguI8eJ0njPdqThW50MzYfk6I4PRzqBUcx8FVVBS0MtNxkq4y0BI3M5m1zGd6gIAzKa5tXM06auPqf9-U_wYRWowMj2-XRtGhLYcEK-iwVffuo9w6M26iVXeb3rimcyHSKpX94EIvteSMdtPmVV3GcXwBgGIg4KDD4s7BaTbsxu5gxBZg..%26pg%3D4WEVAZE6PVFRLGUA6GOUWUHAJU%26ch%3DAQEAEAABABRMyVd9QrRuyOe0V1lRsiHypYPa9cTOtHg.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+02%3A12%3A36+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4cb701b-edf8-475b-87be-e3da3f3558bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769231555480&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTy-rFvElFEVugrqlzBn5ra3MuWT1GIRUQ.%26dt%3D1769231553826
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEIw2PdB3hOxqfLyq2cVff0VgN_vemi8z9JTtTgcDK32ym6uHj0s2tCrz09D4V0omR1xF3oJqudcZLJREHA7ar-A2LungOG_deoZDgVMTdi7reM93U9yBfxT-dVS9NIX4TFDEjaSC4Dfog3KpmO1NVeWC
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

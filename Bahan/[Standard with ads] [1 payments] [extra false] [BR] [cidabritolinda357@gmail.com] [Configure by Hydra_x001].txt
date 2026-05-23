@@ -1,0 +1,19 @@
+
+– Email: cidabritolinda357@gmail.com
+– Verified: false
+– Profile: Raí
+– Plan: Standard with ads
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8583) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806785554	OptanonAlertBoxClosed	2026-04-03T20:52:34.202Z
+.netflix.com	TRUE	/	FALSE	1806785690	nfvdid	BQFmAAEBEM0GTZa6rSQ3NyDieYNWePFgtGjMTS7xPoSwfPyxYSfw0EMBR7qPbmRDtMjWmjT9GZi8RRE6lPDVRIeSRKjDubbSw7apEnVoPgSCn8CBndToYtXseLGlKtC-sZb8TE1gb6g7gUhn5V4_jH76GrdMr3b_
+.netflix.com	TRUE	/	TRUE	1807664158	NetflixId	ct%3DBgjHlOvcAxLIA411jbYdinB2rVx4pza7oYiaRZT12zXLCbR_FBD-dbtky5o6Z_AVInkiNoRoVTAP0pniaseX3wwDwRPm4CRkzM_dH94mSeWkSgsu0MMuxvljRvAqH20csMJF1KMeyUQ-WTKAKZ2KNE9bw7tmgyh1PxXtKMjLBfnqfWfewOcg4zLUg3yMXqtVhBXCu6oXP3bDREbmbKVPqKorM-u9yFehAYenWbQedK31Fnea-nNXVSO5uMn9WwnYIohZNSJ01vQHmcDo0uP5eDm1enlqPMXuVu6n6WeSTKmz2V_uvDUyc28sub2FIydO5jgh0OQAmhjTfktNbXaAgCM7a9PK8I2dZaJVscUIYqoo4lRDeBK2M4q_NARi5N0CAfDas3CRS40slcC6ex5PrxR54WgkNx7CxAj-MO-lPNgBVlZD0c6WUanPYJ7ZKsj7WiZ8gdr3q4y9m1kOlY7diBnxB9wzrOiGcyn1dBolg3hXUpFcOE2WGJI6y01Xc_TxQ2lWkOo793gOTQy9YrCL5oD1TyqyBQfS9mrq9mvvmm2Q8WXgR2Muees3TtR4nvMOijqD5yQaFVdXOLfy77ZXmhMNXGzYlg8OlCeTDRekDjmYjRgGIg4KDGGrOHElZ4A1pEIipw..%26ch%3DAQEAEAABABTp2-FUHQiCfQKy1uxKa00-ju4ThA6xOQo.%26v%3D3%26pg%3DPFOVQTERXJD35ADSLZSPWXSIUM
+.netflix.com	TRUE	/	FALSE	1807664160	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+21%3A56%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8a188da-3927-44cd-b694-3c5b58ffab68&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775249554812&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1807664158	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUUaLxpLY5Hp3J6-VzK_4eNHQKeUFXA2U.%26dt%3D1776128158971
+.netflix.com	TRUE	/	FALSE	1783904159	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783904159	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

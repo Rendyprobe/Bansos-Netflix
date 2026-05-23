@@ -1,0 +1,16 @@
+
+– Email: eldondesouzasilvachato@gmail.com
+– Verified: false
+– Profile: Kleyber
+– Plan: Standard with ads
+– Next billing: 4 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 7658) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	OptanonAlertBoxClosed	2025-04-15T13:43:40.979Z
+.netflix.com	TRUE	/	FALSE	1798848857	nfvdid	BQFmAAEBEEkp3Hp3MOj6XBNh7iiynRBg33rIxO6GsgjyuX294jF9ce_MnIv8gOplOtV16W0NjReg3Ke4h9CpduG2jfKVNIrcxsanMGuNgYMbDlCrIyHmerjfAFbZ2tAKIgm0XQFGov7tIoZV_RVkAMulowt0svQr
+.netflix.com	TRUE	/	FALSE	1798943748	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+23%3A35%3A48+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f8be6fd9-e307-4849-9006-7b4fd15d4ee4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1798943748	NetflixId	ct%3DBgjHlOvcAxKYA1itoIY5sSUfG1a9uiXJwX1EXo3B_Z7JuFQx1mUqXShRyMPPnwITh2VqVtP0HoAsdYavlEQYIPJFqHOMI9YwmUpHrrqolGd1MQQcHXdmhU_h2bbUW5cLwB0h3IdVgzoMLGyum-dvCuzLUhN490_PuruQCwDlzv-ll0X_eqGTSN96yYatHb0WGMsGpBnPf8uQdMwrVonmAUrj1qBEaTEsHULxcqnGecK7J_FKCs4-dpBWHZwf4BwTZ0PvKhDlQedACmFBnKMxs_RFxB3Uo3ecfXjnuGYiZtqw2tVRgmZae8MeyiBUVUH0VEs6Jk2C100yfCkPFL7lznW1IE9ogDLa_rnSNCy_Xh5GuHaDsQ73xVVQS-d4bKoabp0kEsWHLCYks-bAbS-9LOg1DBFCErQPFp0AjQAW5RrAilFKZmP3ngkpH7JlmQqn6MmYSq9N5uCE0-tITmZrR7oYxNDxUZC_DZF7pDBTcUwlg60bouUEjFVdBVHvC16isCbGjUO5ozgNnEAXpGA6r0ddVeeibuC6IjK90SHz_T0bdxgGIg4KDL9CfZaghhoEOQQxYQ..%26ch%3DAQEAEAABABQnt3eR_MeY5rbyHV0sxGrxMMsw8IFVWoU.%26v%3D3%26pg%3DD6UOMBKJFZFAHA7UJYJ3JHPPCQ
+
+Follow: https://t.me/hydrax001

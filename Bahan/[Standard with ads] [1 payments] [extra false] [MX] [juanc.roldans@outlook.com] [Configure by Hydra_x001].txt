@@ -1,0 +1,18 @@
+
+– Email: juanc.roldans@outlook.com
+– Verified: false
+– Profile: JUAN\x20ROLDAN
+– Plan: Standard with ads
+– Next billing: 1 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 6143) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	d659adb7-528f-431b-8474-a3602caa2aff
+.netflix.com	TRUE	/	FALSE	1794203276	nfvdid	BQFmAAEBEJcDo1XMRvg4kDTcqof_rkVgW8OmUFCraiLjyVkvZXTXyqVUBVzZDWbTlHBDXw1XaPaxC0KdLZ6nggCbKcW1aVWltqrap1x1Emepx-w9PNieOmY2zhtVTIuaUN9il35FASo27YgzmR699nczq76e2gwj
+.netflix.com	TRUE	/	TRUE	1794203277	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJA9wSsXRRc9ztl5usICrKspDMSz2HUeU.%26dt%3D1762667279024
+.netflix.com	TRUE	/	TRUE	1794203277	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA6bFge59Ys22EuVv0NbVMYw4Ke86xaGPsQ4rlY-yA48eEPbEEfGbw0ARLv22JPjXiEDBJmlQlgG68LJnQc0PhjJzp47pMinvCmSxe2IiErAmMWJH63q9xQ3Oe1V8vHGtER16XUI82qhWrzFLcrfTXiHYoI_inKXs5uLuhcg5z5wtkPI4AvN_XMNQQ5gXCwN4XOMG5Td9Q5zm9JDUsOMf2VbhH_i8awXMrBOnXuKTGr5QmH_F40hJi5DoHUCYrbFu9ROtMizTt7xvzk6XUWiUgpEdaHHEdoT3Qb36KlOpG5_a1IPsZpmBz9hz8SYppM4RGADC2NM2LeTv5iXCLRMHjn8jayF1itn_8iu8Ev58TGcLs-vo3H5ifrumcW5ykeK2ZVIyDRlpkPN6Ddem6Mf0xiP61Xxz7nRPm7D2Xe5gTi5FSBkk1-wxcoTPVZTfJiEjGXVUcObArAJSKW_Wt_3m3YpkNKklr4deeUuRqlUIzkaAdRvRd3B_cAE7Zf01i_6_ORMKwQzRt8daxc_3czzbJQS5NIRQd9EqrR45tYQ_GAYiDgoME3BhKu9rllu6lTrI%26pg%3DIUPMKOGR6ZHXBEB63DG65RTTBQ%26ch%3DAQEAEAABABTfo3kCR8DK4VSSIyGZ6NGog92EKV3MTNM.
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	87066652-f254-407d-b3c6-b73809b490f9
+.netflix.com	TRUE	/	FALSE	1794203454	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+08+2025+22%3A50%3A54+GMT-0700+(Mexican+Pacific+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e65dbe4f-471d-4eaf-92ec-8e6c028cd573&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Faccount%2Ftravel%2Fverify%3Fnftoken%3DBgiUsevcAxKjAVmZkwtpVLLzf5afZqu3hAY6OVTIKUf%2FHkFMyfJ%2FxUIyk%2Fmp0TdpQyAjBc4TA8CMyy0rgwNWpEsJ7UGnLhA5qlxV86UDXt30KLvIIug%2FWzRJDiDgYrQ3uRpBC0lZVXy6eRppeyPc2qwTMIHkRE3EgcsPz2%2FOUTbkVI69K9JuuZCND8v8NQtI2FEdwwdTg9iUYHRYrqjhkAb2M9pI9BqLh9iyPQsYBiIOCgzJyCcGvG92%2FqFQe68%3D%26messageGuid%3Dc0416131-19b3-4bc9-978f-6b9696b80646&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+
+Follow: https://t.me/hydrax001

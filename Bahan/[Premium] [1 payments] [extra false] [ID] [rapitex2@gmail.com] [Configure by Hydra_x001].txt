@@ -1,0 +1,20 @@
+
+– Email: rapitex2@gmail.com
+– Verified: false
+– Profile: fendy
+– Plan: Premium
+– Next billing: June 3, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (OVO ********9294) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEMAnafbuYke7qX5dlj8uoo1grhYOExMPxIBzjXX1-uvpikuDM-qcFcQUTBZQ9x-dov-cbyrkNAmeqt9XReQSlUuzucasP3M2d8FtZmwcsj10hUAK_E46caV6Nif7IOXKs7eRmjf_EmiAmbb6vVxbH8r9
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2022-05-31T14:53:15.658Z
+.netflix.com	TRUE	/	TRUE	1782066567	NetflixId	ct%3DBQAOAAEBEK79Y-Zq7Pws3FHkHGWJesaCUG6_5_AIZIGvfp6h2jj7kdbASKKyJEKfPDnpjAlESQ1k0wrZgpLked3UtIfreW6nMueF6zVxvnA8CLBFHDyHOyNhVrfPIZrRip88WeKzGtqc0_vNkYMQ-7lsl8yP9Wge-myK8i4dDdbagx3yjBZmxmG37O8aeJuhTFMep39Atz5a97CZc6bJiwuszSifeZDH2m_EaYtSzSr2HCvpEIdu5R-7eCiu4kyPFn88rJs-Q969lguZ0YUskLVqQwEqttCfV3Ca6O_lmcS9X3AdHF9sIkwBvObEK0pHNvAvfHqmFOjdCCR__5bSzm3w9NaWMxTuUhwlvaupcm2sCmjFfCODhOCORx4YZEFA0mkMb2R9LyGanWWSn3B9ejWQVQy10P6vx44IjEKLE3BKP8_uU2a1TmuFU2IMPRz8O_TUIiDY9KbKILidPxq5fhwgdnoVdCjw0NKAUiRaAfO71erqZm2G1KxY3G29OWRROaDIggl1w0GBWcO261pSB-4hT-A-l_nWldFoQf2uMaZfBk7mBqv-VsvYxQ63Jcw-K2vUGmmOdT8Ld4Pg6UW0FsDV4LkqpT5FJwVvAKvbHe8KeFaE_vImIh09RlBsnSYtd8HLrdTLIPH_jIX1e9SHvwXOTOAeHyuc4YFZ9tMeyxgJ7CHfaxxiRHNzy-IcBxSNsbeZdP-B15g4H5zrvLjoxVPvYhsZEKRR_dEopA-rZcsbp5JElKfninjO6QQ-oaPITN6Kv2ISXwwD9xwGYWhfJ1q-U2O1rkmBkiOyAcJ_r7b-XYlujOixeR8.%26bt%3Ddbl%26ch%3DAQEAEAABABRM1_6qH1jt-UocVVY1XVMNu22AttIjZpw.%26v%3D2%26mac%3DAQEAEAABABQgfIlHyudyQ2WJ9YVyc020DHPNFZ9dSYc.
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonConsent	isIABGlobal=false&datestamp=Wed+Nov+02+2022+20%3A14%3A28+GMT%2B0700+(Indochina+Time)&version=6.6.0&consentId=db543cdd-b565-4037-ab9b-1f0f5caada17&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1%2CH52%3A1&AwaitingReconsent=false&geolocation=ID%3BJI
+.netflix.com	TRUE	/	TRUE	1782066567	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTKzE92Kbi69zebSz4AAjHGlctK-ffqeok.%26dt%3D1667394886352
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	1a1f085c-eb0f-49bd-8dd7-7ca7bdaf2565
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1782066567	memclid	f523207f-e969-4a5d-91f2-cfd29f0a976a
+
+Follow: https://t.me/hydrax001

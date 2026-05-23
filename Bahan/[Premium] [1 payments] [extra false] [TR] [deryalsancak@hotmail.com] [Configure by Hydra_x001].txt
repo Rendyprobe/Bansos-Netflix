@@ -1,0 +1,20 @@
+
+– Email: deryalsancak@hotmail.com
+– Verified: false
+– Profile: Enes
+– Plan: Premium
+– Next billing: 23 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (VISA 1455) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803927049	OptanonAlertBoxClosed	2026-03-01T18:50:49.483Z
+.netflix.com	TRUE	/	TRUE	1803927232	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Aq_VoGOp3RTU0TEB9hSjoW8p5bwu5m-ZAwPTbBnMYVRr3vCNxg1vd8dAixkfDmdASFMO2iPzPDzrMrC89eSNYkAW1lh6Hy0zPCQX3XZ8tAXl4AoM2FWbDp53kZp-BHJ8kDl8aEU_PaopD-S4-PATqw4GR2VtZItnog_ON76_Fnxqz_TvrNn6Mtc163vUzaX2-lv_xH4bOek7MO8iexZxYpGY0t4HBmWUY67uPEDbwWLm4Q7sjYOo4zSjyOk1sM-pVCSB4uNzycZko-5VHjzIFddMVe0uiS3_bwcbb_JgAa73L4vWpbsvn-vlxED78i_Lvz-TJWHlVFWl_fZ4zbQ2s68c8plS0yoLksVB-5akgmP_Y9OxIP8i3zitCVmOmOdjk0GcmEE75KqoegfcxyRKvC1aUYBhfnrl4tpiRyKdGYSLDgIvQcqI8v0zqT3LonfHWEQ6ZesX_CyqD5hW1PB92qH_3XAuKN_dBP8KvuGv2oexCVVJKkRKCT5PSbEYBiIOCgywjh6iuwubKAkf-GI.%26pg%3DEVWQUU3GTNHL3F23FHA2YFK6HA%26ch%3DAQEAEAABABS_qt3r-R58A9n8seGyupqZLfiK33PNvQw.
+.netflix.com	TRUE	/	TRUE	1803927232	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTx3ifz1_ZbaG0gLBMOQ4fY_nQBeREHIvU.%26dt%3D1772391233356
+.netflix.com	TRUE	/	TRUE	1806951225	dsca	true
+.netflix.com	TRUE	/	FALSE	1803927225	nfvdid	BQFmAAEBEDotW9epNdbNt1I4qUfP4wlgzgHrzLgpuCU35vN7D4y8XGSR5E96lk029j-b-9pXbExmVNQQqDNjjkw7x-NYmj8ZItGWl6pWXEdYN3pqj9XE0pRQfJdI-GAlLsfRlwD5T09OLbO4WNchinR7WGhdMVdN
+.netflix.com	TRUE	/	FALSE	1803927340	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+21%3A55%3A40+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=422ca4f2-980d-414b-bc5b-cc697b7b7f5f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772391050049&intType=1&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1780167340	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780167340	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

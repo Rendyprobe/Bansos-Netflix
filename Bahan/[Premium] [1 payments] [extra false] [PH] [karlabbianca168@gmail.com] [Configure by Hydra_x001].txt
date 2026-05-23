@@ -1,0 +1,18 @@
+
+– Email: karlabbianca168@gmail.com
+– Verified: false
+– Profile: J
+– Plan: Premium
+– Next billing: June 17, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****15019) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806654948	nfvdid	BQFmAAEBEAV77rJa2l9b__pMaZcZs1Jg3WAkVIqKE-hk6tM_nwY9mxs9mdP27zeRy6YndhpHAfzifooESTzPS3pQxfFY-UkgCSQs0VoCoS99mgcYIgPq6sdTIZ7W9hTLpKIbMr8RJqMFGJD-pEVo2Pn4HLORDVlv
+.netflix.com	TRUE	/	TRUE	1808973704	NetflixId	ct%3DBgjHlOvcAxL_A6q6-vBeoLJdIY2WtD1zjOBzOEJyARQpsJLbSHZ2DhGwxyssXRXwf7xNSIV4WxBk8PbFdefUJBLqkuMx-29eEP-csO4oE8rMUR2FAhTEVdrkPy3xZ3Oiz29vwxpugmxLKELOI8KHOEIHX6ASDGZIs9A-sfBdvkGcsfp3A9qSg7kMz6Z-4agq0fhmfrkBtq4bGba0OoPI2es7MGM-2L6tSrhQ2GI3ldofZQbG6S7rLQK90LHM_VS0bca4unu8MKlSfm_On0hAb9Z5MjDujK-2YIJtvU1YrquVaePaLijglNsxbnz_zr_vu2IfwjqAa-eHa8xPILbAbMDiS97cfKLBE_nD2g6gcOBgbRB_12FARcC3EszWKaNUN9PQTyH3VlQ5NQEAHjeGk3mB0mKgG0B_ljbHpcZK-GrfoPu-iPkwWLVi5W_lf0e_3pfM_5TES_aqhFKghLzKM969dcJqHNIIV8ckIiQ57_FSVX7-MI0tuUXNzLBacXkwFuil_E-YtYXeF32FM7p2IW-Ne6rc2u0pjePk2DcFajrx-FQP5N8YGrBPFdpev_gihfExJbEa5ivmfmBQ7wy_FA7_fxPnVB7Uuuh1BKaSGlJc2FywOWxYRFU38eONf4-y-trB8rZaQx07YRxsvpUxgOP3ZqdcjXipLq2LnzOFhu_xRNFWu6lRwf8YBiIOCgyjLeS9czWAdgK2HNQ.%26ch%3DAQEAEAABABRi1zd26qDRL-iyD8mZEHOnnAPq3Ir3758.%26v%3D3%26pg%3DKSF4K7INZNGCVGYYSA3BHD2O54
+.netflix.com	TRUE	/	FALSE	1808973705	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+12%3A41%3A45+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d01e542-1b2b-4b1b-9cb4-8d413cd8356d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808973704	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSMncgtj4_6Bg7A9QA_bTssvXDluHTzAv0.%26dt%3D1777437703794
+.netflix.com	TRUE	/	FALSE	1785213706	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785213706	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

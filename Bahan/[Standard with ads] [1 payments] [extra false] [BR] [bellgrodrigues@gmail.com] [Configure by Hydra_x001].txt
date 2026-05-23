@@ -1,0 +1,20 @@
+
+– Email: bellgrodrigues@gmail.com
+– Verified: false
+– Profile: Belldade
+– Plan: Standard with ads
+– Next billing: 1 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6501) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1796932051	OptanonAlertBoxClosed	2025-12-10T19:47:31.811Z
+.netflix.com	TRUE	/	TRUE	1799956058	dsca	true
+.netflix.com	TRUE	/	FALSE	1804365685	nfvdid	BQFmAAEBEMlN3hBEoUEVFu9GGNSDUvVgzB5ywvUQgQSuFG14ygxf2ZRkOiDd6vDN_rXmAVHC3WP2vJ60LtwCLDSUSVbgvYHcrvzqNMN02YshEsBLXM57q8oj5QzczLHJ42WCj_xB3orb9ZaYOvdqC_QLfAw2cA0j
+.netflix.com	TRUE	/	FALSE	1806732879	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+03%3A14%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd754494-1e6c-4434-a19d-08fda090ca98&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPE&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808689457	NetflixId	ct%3DBgjHlOvcAxL1Axlat7Lz2lVKb-WsC6ScxZOQnjvREUvXgCFrMopH3J7hqhC-nH2-Zc2hhK0CygZ8I9zU53OzXlbMtbCp2DYswDWpyjXbI1MPyaEMKlJHVSJt0NOpzeq5yXOY5-sQi1VlPLNtxG1Yg3x4SDGBfm7Ggvd4sJWALdIispJxoB4ADy-SBcseWzBviu_N99acfRMfQ2xeQThf_lT6Cl-aIBKxXMhHqYcqfQuQNai1QaoRU_Eb868AIJDi-xJrOGUf_tcstYfc86Wq9iwPrXFpMtm8AvqJkLac_b19IOc4ngMUtx_PuuNQxjS9lzHQrHzUPjFqoO2Nb6M8HwEASjZZK25kxKolX8q-jI5AMSXmsTM0obqm5SL0-2_HD_0RCS69a5TNUr5A-xyGl5ZRV9CTbv8-OwkasotAztw9r62Ks0QOU17T8YenLlALkyfmYAV97JzuGoSTDVEpM72fKNgRz4FkWPa49EJEYhBWLrIBaSjVafjHvN4xQ1OCms9--Mjb9PItZilJEM_-f4hAn6F0hLUheokO44ncvpdnpQgyBIxjKLV-xusCaOvQ1qrpO2QKAIfvH3HgKBky3EpoduHs97VroUry-su_pmhnzKqxTaAO2rxdDcXxBeehb2N51DSQJkYwb9GaGP47T-2ltJ1LY7lmgZ8cCxm4cxgGIg4KDHJ1csaEoa9dgcKsuw..%26ch%3DAQEAEAABABRbI13nv1mzA1lmSMlfP07qXmH2LgfuYsM.%26v%3D3%26pg%3D2JVNSESUYJDSNMFVVWHH4C25AI
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	5095195e-7f2a-485f-8ab2-d135dcd6bc7d
+.netflix.com	TRUE	/	FALSE	1784929457	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784929457	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

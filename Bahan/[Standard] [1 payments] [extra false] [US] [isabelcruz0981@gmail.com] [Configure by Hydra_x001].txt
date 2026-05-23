@@ -1,0 +1,19 @@
+
+– Email: isabelcruz0981@gmail.com
+– Verified: false
+– Profile: Freddy
+– Plan: Standard
+– Next billing: June 22, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 5641) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AhQL2N-OcBfs5sW4wiXoT1l-j5TAt88DPMUpwcAAdIaTtciUkwO-S_k9hBkiYFTJOKRqlk5dFsWf8x_OnD3Cf1pc8CDgujLVZ4BMg8zioFZRZrAKFsoBiHE4we9jH6F0YyiK3nw_gi1mjjlv942du3WIVKic1q1BRXAsc4t5VVFMZ8NT5lZCpf1WH9f7yAPD65cyZE-UgMrjs8s7CaCEcEXzWICC2GsqXWS0jxgQXKIDGdPEkXCyyo4DOd_PgYa1kwyetgobuTvuTZXZGZiKetGaYn_OG_Ye_ZuX89xOa7PZZA6a_AYG9t_rPGUhwOZitHkGN4Dq6v8rhFFHyTkArHgsXizw8FjmAoj8JQMUwW-SOz_yUGTZD5Mq1HVxE9hwtnTYRhxnjKQwLCJLZfJOOaahrLGfkeRkMV5Q3BL9qumrLfGogkb_Rt0ACerRMp2MyHC07zd7XaOx0s_W-PbZ7tiWfH6spMxjYLbzJ4n96IOyLokqQbhkGAYiDgoMvZLYAuUlIHbUUcBg%26ch%3DAQEAEAABABQjS5Iwbgvd0FFUc3p2oPh958E_cKLgbQA.
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	56523653-e678-4de7-9a18-bdf3b8c26189
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEL4TI5-BbKpQHJ-Dm3sszMpg1M1YOCiNbJGgFXwU4gn0h-fgD5kbsksZtE0CjPkRZLrbKMatA-yd9AU3V67P5wBe9KqOsN0n-8b-HpDrcAU_4xdTM5DUm4FNd2kkky1qClvOFSLzEkffRLQ9R5LseaV-
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1cd64364-f9b7-4362-b626-712a66101703
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+07+2025+20%3A52%3A55+GMT-0800+(Pacific+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc801b59-7002-43df-b877-83ee47f210a2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

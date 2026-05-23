@@ -1,0 +1,20 @@
+
+– Email: debashishmedhi77@gmail.com
+– Verified: false
+– Profile: debashishmedhi77
+– Plan: Basic
+– Next billing: 8 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( d***@okaxis) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807252571	nfvdid	BQFmAAEBEHeCgyBvlD0OA8RQIr14nFpgptEQXGb5uP50L_Bl7QbaClqv2AiHTsIcD-KLbUxwXdHU56Z6C0TlRa_AWUsV6H29Ggx8tQXDt7mKFkaAM7aYfNPcYrkP03zh22mDOiJqohBERf2lzJRkSgpISPCMCU39
+.netflix.com	TRUE	/	TRUE	1810124860	NetflixId	ct%3DBgjHlOvcAxK6AzFnJzcw23jVG753_neoJNcz3csdeQ42jpdUhtpmSONTXlsh2Kwt1r-8TwlaUdL6PppD9DfHdFAVpeyWjMOSQwzo9OcfFM-gGdKOLRIa5PFg3Er45_XXsImt7qHTJkkHNnT2rab0Nq5s6YBGDHumP6GSKDb4PyHMJg-LgeTvDvO_xJrvYHJ2Lfrq50E3m0rKK3kOAykD-9aFChoSvDnOb8whSkmio7EfKKdJZVLFC7QlRD1w2l1aLrWh-sL5It1uzKhrr8DWWft9jPLW6VaQ8KMSZ9QHR08rZm8IJ4K44rpxnnFtYpdc0ynXg-d1Dqxs-b5ytK5sILWqKFhoH2FxxQH8FhAJrKOj9fMlr0DdheIlwvw7ZuavCEzW8DpmhY5sexHZTHp_pfBkguCWjJDDkxN85HySCi8ll4mdpuUCkAjql32ll6MzSkxPpbeMWoqZIYB2loIFxdHm-uE5y40do_vp6WrYr8noHGTQEkxaY_Tg9tfo2jCchLeI0xCMNGtAMS8LHRAYTy-LMVrU6uQiQbhEBhoo7Vt0lnPAaoCMDntfQrJ7EmtkDSaA9C9439TjYLVGyL9bu7U6tlgYBiIOCgyblGJWZccPhn8UfQo.%26ch%3DAQEAEAABABQhDlPRvEH6d92L4E8mWkYTcf8Auf7rMlg.%26v%3D3%26pg%3DEME2JXFJ2FF45FOYXMHDZYPMCY
+.netflix.com	TRUE	/	FALSE	1810124867	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+17%3A57%3A47+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9b8f968-83dd-4fa3-aa37-0cac5dd4ff87&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810124860	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSH9LuQ6_ttKHial_SJAMsLRvACaWr4pt8.%26dt%3D1778588860416
+.netflix.com	TRUE	/	FALSE	1786364862	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786364862	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786364862	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

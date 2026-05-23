@@ -1,0 +1,19 @@
+
+– Email: henrique.martyns@hotmail.com
+– Verified: false
+– Profile: Julia
+– Plan: Standard
+– Next billing: 15 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 6102) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804556069	OptanonAlertBoxClosed	2026-03-09T01:34:29.652Z
+.netflix.com	TRUE	/	FALSE	1804556060	nfvdid	BQFmAAEBEOzA3jhCwtb1QFkZi33ZjuFgtxMKgCAWM_OfQvXLtfzxCBMKZcrZCCR0bVpKOzLXwDe6vqRtG8vH1z8LvFL3H8RgQQ003pd5YKQpw0fcP_AXUBUNzmf0bh-oEwlWG8LZGB4HS3dNdf7A8nyRDMxQ2Jic
+.netflix.com	TRUE	/	TRUE	1806951972	NetflixId	ct%3DBgjHlOvcAxL_A66rPgzutar8X2H-WnqucfBb2HhBjYkCE39_qKnkg2jjCaAMGnAwes7aXsRCx3f_TFage4ifRd30p3MlsL_b8FgUEPlwmApjF3buW34HHRI9c72sM_3W4MTEGZGzYKfK3ggr_LWgOSqaxEMO00xs20BJTABCXp8L1Y6RLcyNWGhHmlOJGuTV73Hddl8sMhkoqjCwxy_2d-3ryBEx53KeaVErt926xA48G-NfXCNqddc1K_SlQdBeeNZWh84GgAM4_Mmv5RxwTO-CMoqzxV9RuVHCh3PWle4jYXkJgrY5HX31zPpz7rdAxi03Gpcd4HvgengG0PYbSoEHe1FpBQiZ0lxCWovljz60VB9vXnM1t2jS_bNOT1rNc8OrXHebf1SjcjMTQIqBbPExILNBo9abwY3dV2-mg6em_Yppm-_jhBqJsAWdHVJnuYeiLa8FPdpANYvCjhoB5Gm09gV-lk1iuV6vB7_tIErCUExztJfe7xC0CWT6M0s4AdNWe5gYtVdsrWrET8KqJXwVR8M4li9UPg9VCkA5RVPUQ1uvPAcTFPfB2EZsuYw7COF4qB7PZ9YSUykBEc9MHJB-59OtdrV9pZJ09v9HOmqhX14zav-nowrWx24iaXljwDzgD9SxjNu5uv6L71X4MRRWku-YeQXnSy4bletnsUc7DRqgiKcz6tAYBiIOCgzg0Wmn0VP8alkXel8.%26ch%3DAQEAEAABABRp4Pbihe7VsTwKabwcNGkfY5QQLxdK-88.%26v%3D3%26pg%3DUQWO7J7GFZCJDAG6FHCPBOMYBM
+.netflix.com	TRUE	/	FALSE	1806951915	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+16%3A05%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd1b0497-a1e0-4d04-8f3d-0cace33db938&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&crTime=1773020070072&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806951972	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScS6U5od2fZrdeqaQcobEZBpNGziXX950.%26dt%3D1775415972047
+.netflix.com	TRUE	/	FALSE	1783191915	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783191915	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: petersoncurso@gmail.com
+– Verified: false
+– Profile: Sabrina\x20santos
+– Plan: Standard with ads
+– Next billing: 2 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 9393) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804463862	OptanonAlertBoxClosed	2026-03-07T23:57:42.144Z
+.netflix.com	TRUE	/	FALSE	1804463936	nfvdid	BQFmAAEBEBYt3LABtGm2RY9ak0E7ko1gd7dB69QEo-PB8Jbk4mJGImJcvNb1Ny-TluZI1U_UOXJuTGm0d68KzyIPznIGy2VAdWaDTzhFcByqrTqcjC47dcPzJ-m2IVzwICGN5LuWzqySQ7vFj4Pt-e6SfJJV1889
+.netflix.com	TRUE	/	TRUE	1804464058	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA_PWoV1OTx2lx4DTi-lwmNgtaYFzvHfrCnMAJrBdAbb8rPtl7C99IjICHSj7Xua4Vo1zZf5XnudkqlqqUhGxtGBByquWLRRYe8L252cVyTlnf_aP99Ar9QJmlozstmdSPxC2HhGFY5kZJQ_sr_2mtizWOnfsD6fpBPwvxpnNvrXvw-bxjg9PuFQ4dSnJDSBT1gVUxEMKRzZF7aXZDZcd0XZEmHF9y4C5h9cDukuVv3BhqRILbSflXGy-tt5S5p-ssTo4avH1cB2eHKv3UAwtyTFt-9Bc1NcMob_QMoU2222EfRleD0X7vCK3cKC_GBEtO75jusu6s7EaAcKbdZ4yedpzLZZyeMygxXwGlBxep0yBCuoQ97e0lon2zJ7_rtEc5sgbKl7VaFJL233kXAB9-kMrIY9_rbtfSUtih_vavBdsQBrRMIUlHjTlus_zOHiVx9HfbH3kQVl9Xjn6jtKZRVsLKIEILKiUVje7oJgp47NPPCQgs3eF86_GAac83kYpQfCyzYSJGAYiDgoMnKmQKJhtsfmtWP8I%26pg%3DVHALI5YVZJGTFJCY66ZRKQEU4E%26ch%3DAQEAEAABABR8NARwkeVIwtYmfbuCADAuW4Gn1EibyXI.
+.netflix.com	TRUE	/	FALSE	1804464063	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+21%3A01%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1cfa784c-0847-4b18-8c13-4d4856e8fdad&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772927862581&AwaitingReconsent=false&intType=3&geolocation=BR%3BCE
+.netflix.com	TRUE	/	TRUE	1804464058	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcRlZQFRQ8xdUI4iqiNmStnAhFaqSFfM4.%26dt%3D1772928057280
+.netflix.com	TRUE	/	FALSE	1780704063	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780704063	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

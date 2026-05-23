@@ -1,0 +1,20 @@
+
+– Email: diego.cima212a@gmail.com
+– Verified: false
+– Profile: 𝙳𝚒𝚎𝚐𝚘
+– Plan: Premium
+– Next billing: June 20, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (ELO 7215) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1808784837	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKoA6tQwk6qhvtDxSOifCSzi5WwdZmpsKR4mBjfNo3HNcSBJYiqQGXhk6s4R6Xl0jSXPHoXegZRR4AW34Zkp7mLW5jvCXFizzOtQ1EL1ljT7Fj9TW0OLFM7fHTk2gPYD6xYgy1L60WhvJNmsN7EGwEuCXiWCHM1cPK-t0lewj-UlY1ce45oMonsRnO25BxY7ETlURohyhAAqPTV87nzG2SlsiCLf6Q1covWOxoXUXz9XS3LbIiNpLKVqjQDCXRkGHd0Bpt2uZEkBFhaQmuaJqmG5u5R-9Sa7yPVl3dfNi5Aiczp3F4JRDh8TDiSo4WIjcF7N1XpNfzoOkoXODCynakYBHi7rKxj0Ocdil55qHG1K49gcGNRT1yTE94kAiLK-1XYuFiFXfM_4jKrwoodA9cZS2vvCv1rtzTHOZVQqR-_1I1A-ET2YFGH6DVj_Svkc8YrE6wa4tlt_JoEyWEci4FLwtCYgm_-lKkPBNLT2RjI-mp2eZqVUvjHGugCyXhkDBuVlsMoyFb1PZviEfxk66x_Gdnc81Fu5FBf-I9m8-gM4lGYkqVaNqZJ1UAYBiIOCgzURScU1lUHRaNQtgY.%26pg%3D3JMUI5IS5BGRTG6WUYDVGEMDTI%26ch%3DAQEAEAABABTaobulQaAV4ASKCTwpgyJ6OKqP3tCCTrw.
+.netflix.com	TRUE	/	TRUE	1808784837	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRFzPmCkzniXGwfy8Xb3ibyg8G-OWFEJk.%26dt%3D1777248837755
+.netflix.com	TRUE	/	TRUE	1780396277	gsid	34b66480-842c-4dbd-8c45-ca836700975d
+.netflix.com	TRUE	/	FALSE	1785024838	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785024838	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808784833	nfvdid	BQFmAAEBEE5LGmFDwjP9HMXNdY5FXV5g73PzEZDelEysoqYM3Dw-6L77-qbI7D6fstKrkwkVGykeeXnbdh1xWf1OWAVTYylcgcTZ_GA2QuMjkcY5RbFWN7i5MZIcMdO4x487fMs1CPf_BPKRus_AL6h1jO_Y5SKX
+.netflix.com	TRUE	/	FALSE	1808784844	OptanonAlertBoxClosed	2026-04-27T00:14:04.087Z
+.netflix.com	TRUE	/	FALSE	1808784844	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+21%3A14%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=64f3b171-8725-4667-b197-2781311d42c8&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777248844799&isDntEnabled=0&AwaitingReconsent=false&intType=3
+
+Follow: https://t.me/hydrax001

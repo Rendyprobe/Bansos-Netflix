@@ -1,0 +1,17 @@
+
+– Email: lorenzomagotti2@gmail.com
+– Verified: false
+– Profile: Lorenzo
+– Plan: Standard with ads
+– Next billing: 20 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 0207) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1790625238	OptanonAlertBoxClosed	2025-09-28T19:53:58.364Z
+.netflix.com	TRUE	/	TRUE	1799781837	dsca	true
+.netflix.com	TRUE	/	TRUE	1796980315	NetflixId	ct%3DBgjHlOvcAxK0A1Pa9sDy_W0ZCHGc5ZL0rDwfqp1ZxjLGm-YC1e6-G3EMwl4x_4XtcAvWk_TiSzqKa8u_5dMyh4aw598P99nOc3wQn1klHHLxUB6iifjRZrJsTX-ELr5q6eFF1Btx3C3rOrrv9yH64QntP50nM1OvzVKnigXsldOqycMVJYASlXDrAidTAzjHnECXitTp-LB4jbacFO7_RjHKecN-QjufnrnJ6zrU2K8L4nF7nRLxc6tHtMFH1v5PFe5mBNFKcBs5zEsUpIXPfxpLnTzqbDFDgSlS4MH7qIDfVMfqbiN-MG1Mldcoq6YHeGVt9pbKcaCp8cKbJkIIM53ueh-zjILv3b9DYU3CyhlgALC6mNH5KMVdeJfSqLPGxeHeN4vHSdRdFUVklVIs-ncV8b_E6cU9F5YKypPt22trpGAVxZmD3j3CqbONfP3EMkbng-kuMnbwUsbhNvfcAUETvAN7QWHIUchh3PExjS9VRdyVsZQGMvfqb62qrgg_sq8cNYPBmfIBdHhVvoBpahmUEDZMNvZVOqduqnpdmJ1_dKW2OzNRWd_oXVk369c019u-4KdK57jAskwSJacYBiIOCgyXebRQjlifqxWfcFQ.%26ch%3DAQEAEAABABTNlfTsrN5R3TDLZVG8FZF_Qpmyp1pz5-k.%26v%3D3%26pg%3D4SIKVGWTVBFU7GGT4KLNXZLKBQ
+.netflix.com	TRUE	/	FALSE	1796980330	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+10%3A12%3A10+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1d6a89c-f5b8-4a19-879b-2dcf4139730e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B25
+.netflix.com	TRUE	/	TRUE	1796980315	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVJgsOBEL_x7BXp4dTLndEqWvhhPst-NE.%26dt%3D1765444323708
+
+Follow: https://t.me/hydrax001

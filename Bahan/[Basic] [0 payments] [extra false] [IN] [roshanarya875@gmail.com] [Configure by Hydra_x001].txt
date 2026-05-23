@@ -1,0 +1,16 @@
+
+– Email: roshanarya875@gmail.com
+– Verified: false
+– Profile: first
+– Plan: Basic
+– Next billing: 19. Juni 2026
+– Extra members: false
+– Country: IN
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791199948	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+05+2025+17%3A02%3A28+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de6575cd-28de-4b5a-b85b-761c1fc922de&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1791199947	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA6ey8F-xYsyfyxgyqpKZelpBJAaVswGoUCsUsvkpCxA5dFK3bXhV4eHUbcN9KV8H8av9e8wyxcu-5i_8E2FkqOcjZptqEHJZRdhxokL6J78v88CIH_xKn35tmPzoAO7S_q7aQYe6o9YSP20_r2XKf4dW5WEoxkWGn2E--r1pFXN56j-TedHtnQR_ZRr5MPo0p7Dldk3JgmTk9RmrhjqPsu_6qsS-WXKQLXzj880gVXWQxpq5rgchPeEUWtXdscWueRot9zf-zNd3wv5ApqnaMFzaFJL3TvPE2Pv196udYFmtjo-9Vr1SMpIa0yIaZ9qjL_7IsoinnkOwWnOPVoHMWIeMGxkZjPMt-uFT-cMniBBDLifUrTO-Ize69GU-STyjwjMc8wgh25EZ-1C58ecrmNvshZbBjyVE8W9bpKMthCSZMjohMW4sKRetu6xs9oTwwnvy_SWWPlnME4U9S5z6OunfIDt6tPiqd3JwEkg1X2lE3YMdDASw9ZMP2tRO3XEAOEUQ40p6oW5QeBgGIg4KDI9ZveToRbghbXpqhw..%26pg%3DEVVVMVCQERHWRC2F5TNLDVQMUY%26ch%3DAQEAEAABABRHV0PuD_35AbZqbIW3Cn6_dkbfADFx4qU.
+.netflix.com	TRUE	/	TRUE	1791199947	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRjZUJE35rxTyO_J0O5AIWmTZ3ABUqlMoQ.%26dt%3D1759663946517
+.netflix.com	TRUE	/	FALSE	1791199947	nfvdid	BQFmAAEBEM7lCewePBtnZk_UjFNK9qtgbzGbhPigJgcCQOZ_mpM6UtwO5KEWIXqoI1CSF6ftketokESN2LNEUucLUYYLlqrs5o8-dddZZPxIKPXQWUhz6P6FdtYnEqP3l5LjEc3ZBJ01F9pkaTtUIG7Fr-ngRZWm
+
+Follow: https://t.me/hydrax001

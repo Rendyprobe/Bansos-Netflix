@@ -1,0 +1,17 @@
+
+– Email: ingrosso.maurizio@virgilio.it
+– Verified: false
+– Profile: Maurizio
+– Plan: Standard
+– Next billing: 27 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 2546) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1797771903	NetflixId	ct%3DBgjHlOvcAxKeA_Gsr5VLGXNJcWPbwKouiaYxbAh0F8QSvlGQiQ6-5YqVFkrXLKhfNPQigxh-r5mmUtq91r68rPtlhjvyRP8wITiNWY9XY4y1To48mUJ97KyZo7nhqgW_aXBV1TsBBGb0c351kwDwHUGTd4xgbTpECC1yerLSP90fpRn56o3ZZ_3GDHpyd8t_n4ihxAdaRMdUnOax1HyZJz2jJfBJNiXXdj0HbvPVW2u4l9nPjwBe6rgtrvtqSoWo7k2eqfqhS1X3f4JlHx0O_ub58U4GdDxccmEChI62fAHE69foLD4cQ7PiEpEiQg7In3poduk3CbD5LNio8-4p0JzD-id1YjtMNikF0frC_GQGYSF1vatETRLEZTO9eaEOg1mlUkWU6P4T0H3FeovbRwlKJ9dqB_YPUoGeszmQBfoO9Cc3HBDi3dHQvC-_BWYUtA2Oz3Zp9K_vPd89-qqCPrazDZ8q83DV36x5pd722-TO-5IGYUUh8CTi9SXB24qnrWsVMdOlT9-SYvtbk1kayWY7W0gILuvMbxifU1zzBFNbfStXJ1wl9BgGIg4KDJ3otwTYDUCzR7aung..%26ch%3DAQEAEAABABSTdXiDaQHHnTLU1TAQwjou5zvgWKgszm4.%26v%3D3%26pg%3D7MVIQGLRP5HH3K34UNEZAYXEA4
+.netflix.com	TRUE	/	FALSE	1797771906	OptanonAlertBoxClosed	2025-12-20T13:05:06.664Z
+.netflix.com	TRUE	/	FALSE	1797771906	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+20+2025+14%3A05%3A06+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7e98ca3-9ecb-4daf-aaaf-b08086a3f10e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1
+.netflix.com	TRUE	/	TRUE	1797771903	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSk6YUsGvAVjZflsjnMecqXivXzhU0rTKw.%26dt%3D1766235902936
+.netflix.com	TRUE	/	FALSE	1797771901	nfvdid	BQFmAAEBEMnqKvXazR_fU1Wk2iQ5GQ5gwuJLpmZHYS87vLh-Ny6Vux_W3puXx4kV8OUcv_Y22cmIUD23btgYenCIBMp9tav3uD5Q-fztffD63hwJR-W1di6sSA-0RF32bstzc-l9Ryf3V2PZuWzIBdtSxG4j4AmL
+
+Follow: https://t.me/hydrax001

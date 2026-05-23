@@ -1,0 +1,20 @@
+
+– Email: pedroemillasilva@gmail.com
+– Verified: false
+– Profile: pedroemillasilva
+– Plan: Standard with ads
+– Next billing: 1 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8732) - Hydra_x001
+
+.netflix.com	FALSE	/	TRUE	1781798731	gsid	0570745a-01c3-49d8-8517-b6447b5f8967
+.netflix.com	FALSE	/	TRUE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpAyAYjYjfrvz4mNJU05j18WbZAQFZ12vJKm9mmtyo_La7G2yRu3oL4bkF-ByywjMBkPB-CmKvC8cQ6dkx9pkGaz0Xrl4HP1of98r9tLYXnzHdf8nEykWg2GMYLCtGkupH2076gMqDEsdBEH8B76sno8YLT1i88Ze_rcjlZVGeLSVWLlNqVy_LrIGJtDipJE47zJNKBigdwI_K33M_f-NN_YckA07qyv1lVbTXGz2cFKLSrt0HT62AjTcGIB1XXJaXqFoE6ajj4X_qBsg8VzoPoLElLARWVDYVD483t0sBFVO1eBxM_O8NBO7WgLp6Q_YTbEiOmuN9YH5_Fg9aFzscy41fMtVhdEldwiBvRwjZCRUkz7NWkkVctI7ElRdrmS824eR5JCYqY3nuj2rf0ztJGVkSMftQDOfhChm0TcpPuS8gbdMwc8YAMJ963X6tkjjfsZhF2QOgmNvEz-rI6nwykjnqzs1VRM1Rc0DWwZqX8--mvs5fncWxLXnhk2b4BuNYeZvGwvwTjJadIlNO8qEZSWnsr7Dntsq2_Xg8cMa2EM18z7LQD0E8xUilGAYiDgoMuBGWsb9Bz0ZIr04z%26pg%3DIFMCFLEAZ5DWLGIS3MUSWAL5GA%26ch%3DAQEAEAABABSporbcudYzxvu0IQOFiC1ALJpcHUBI-gU.
+.netflix.com	FALSE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4ecqORL3vggw7x9GeBT4fp3uwnSpjQ5M.%26dt%3D1774191827474
+.netflix.com	FALSE	/	FALSE	1781798731	nfvdid	BQFmAAEBEJtYxqS9uctPibCpnAyKKsFgqVGvKfs9VWTuYiOFTVZ8xF-4JOSr7pNytMwVpuvBc405zJE_Th-UlJIPB_Om2gTG8W8rASumaMOiZXkw5KcXDgPP5lWDYXMWKMBfofscuPLU7u--waN2JKwPMs-mucFx
+.netflix.com	FALSE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+15%3A38%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=880c3c9f-2f15-4832-bdf1-ecfc189a658b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774191582112&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

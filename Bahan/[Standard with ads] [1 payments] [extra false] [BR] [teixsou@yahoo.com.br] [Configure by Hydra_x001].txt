@@ -1,0 +1,19 @@
+
+– Email: teixsou@yahoo.com.br
+– Verified: false
+– Profile: Nicollas
+– Plan: Standard with ads
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 1075) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799504374	OptanonAlertBoxClosed	2026-01-09T14:19:34.107Z
+.netflix.com	TRUE	/	FALSE	1799504377	nfvdid	BQFmAAEBEIGPqKpwrpZ-z2_s1SnRwXFglj7aDTiuNEV6dc9o0HtgYh9SPUG2HeI46EFDPjHayuTI0OGIrzfPjRLIUNGqlkhhQW5nfs6q4AcDXm69MPyhAEzT5-RA7dvdL6eJdzaqLi-kJmh__4dxTuW6ifuGbSo7
+.netflix.com	TRUE	/	TRUE	1807824272	NetflixId	ct%3DBgjHlOvcAxKCBKtM9IBTZLSYetQPTLWG4aZoqISWkrq7YUh0eGIWsmZj9ABXqEx_ciGTp0arLYEt1U56zf-2FayPRVlHqst1V1pbYip2T0TjrSI2FxIRnO_vk59amSCtBmJAjL5-zDYWAd-8YbgsY90-0oUf1_Ut7YFIyy5b3D_iyCKDdmjyMAWVbIyu5V8I7dC58NCDOmEwCIjYzsukvNsdXTq79suSs48J3JWcp4aeEvpaND0uqAZyIB-rRIC4_sRi0j5mcW_sJ6nC0UdTIHpA8QAXxO2YgRl5zseZdaHerteU41-0yJUsndtkCoN61ocm4GaC7fZwB-izkKAGqNMYaApI64-2PXCwn-u58oSgfEGdkSrC5tkbscRX-tsACzfycxZ7g0nGqUHSRLezInKids7-Ay4Mh4fWas78iimrk2LWBW74p2dripo845PpIZmKZKshWzHCdpY6XNGNB8ui248mlYuN6W2pCUQQ9OaqhxejvqkGH0V7afq8L_6BZf5PLcwAXrjYBYn4zFdfuHdBTKDM-3hZDXsBmSAx3-qXEDuoZ1b2jJDZIanqF2FhZCn3BYLHtgK4zHgc-7mILfL55AX_lkxjggGWoWMD8G0dbcBIDr2VAOUjJMvSytf6WawJLH9o6sG6_L8Tem48uBXyEWqNzGjaVRkDMWDrWgyssgxlg-P0XJzUxs8YBiIOCgx3_DCX5dlwKQ9PPq0.%26ch%3DAQEAEAABABRjBT-sMJq8Kf-VdSttW-ADt-iOWgzeI-E.%26v%3D3%26pg%3DOOCKZF56XVDCHCLMXXL3J3FVDU
+.netflix.com	TRUE	/	FALSE	1807824280	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+18%3A24%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6055733-fdb7-4aa7-a159-f637e7e7a982&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807824272	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSkTAtTRRR01bUBFERHYNzF1kjyIAaU3k8.%26dt%3D1776288521889
+.netflix.com	TRUE	/	FALSE	1784064280	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784064280	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

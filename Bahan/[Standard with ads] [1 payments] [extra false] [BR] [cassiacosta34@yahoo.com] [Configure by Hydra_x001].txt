@@ -1,0 +1,21 @@
+
+– Email: cassiacosta34@yahoo.com
+– Verified: false
+– Profile: Dudu
+– Plan: Standard with ads
+– Next billing: 18 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 3364) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805577419	OptanonAlertBoxClosed	2026-03-20T21:16:59.057Z
+.netflix.com	TRUE	/	TRUE	1808613385	dsca	true
+.netflix.com	TRUE	/	FALSE	1805589384	nfvdid	BQFmAAEBEPHzV9ZYzNieU-Hbf4LnP31gyU2EXltWTKi-CkFCzmWTMG9j5VarP0GhDSrLG3Y_F-SsF5Wuq7LvTxOIHMscqpKRwInPc7lIibNzaAWcm1fVdpibaU6mHtLP8OSBUbjaJXI_D7OmmMuWP6nyjGe9ZQiV
+.netflix.com	TRUE	/	TRUE	1807501558	NetflixId	ct%3DBgjHlOvcAxKCBEC10x-yGUCfVB5hl0eI5ZT5YdtEdekVWrXDor8sl7hYn9Xgr_0PhPMxBPvAlyKsQCZC9ztUV2O83qfpDpMQuFRAWPwvhhtD761BzE1paWAvKJbSTqRbVqdlTktsrECQ_7NOHfzvWiLyc52E-iF37EHtKXqjcqnvFAEQ_GA4PXWwc2mHKuSq9DY9HZMND5-rMSnRJjDU-Kn2_vRxrNgUgqnOQEwaNd93xQvSLl4hawFDN3Mp7z04bUIVq8Lh08JFqjrYh5w3GfXd4EeNfzaXub9Gml9DyTOTwyOexS10RGESyWdcTgHq5MMdLGersT-Mg7F9dnG4SEOozxHkVhwwr-h-SRPy3uBoUOv2Pf_UJJIFbcz7FNdbAmgKv2pzmbrwbUkJdXc4ovCRM0ThTi87NfADq5EEu2pjf5wy7AjebYZUBwAprlHkqosti1x_J0TtuqNCoJjFsaCEPzNHcMCGcwZgrAn-zTp52A4piNw5iaqFLUy-g9Upwv4WxeTLNFYA9R2F1hABKQ81-5WLSnSegsRjzK16v6lOai4ONtpY0IsGL2yMSnXQ560Fh1SGr0PkHg1XqtALqHbluN-4kKO6L0Kbs1ossNs2BsDdMdSNiX102pzl4U-MD6H1-g808BlKucdvXIXs-UJbiRlMsJfoiZcGzG7Tsjspl5N6WTY5cREqPxAYBiIOCgxL1rvyJQw1UOPRyvY.%26ch%3DAQEAEAABABQnakmay2rqXBceQ7SYwEjc3M6vwRoQriQ.%26v%3D3%26pg%3DD4LR7ODKLVA67OZ4ZMJVG3MUZI
+.netflix.com	TRUE	/	FALSE	1807501559	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+00%3A45%3A59+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=10f5c602-9bb9-45e8-a80f-65a08e565fff&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774041419262&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807501558	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQk6NBuhL7inORjMwyyiVywK3cLBTImVtU.%26dt%3D1775965558122
+.netflix.com	TRUE	/	TRUE	1780831540	gsid	a0857064-d073-4696-9474-e82390a676a5
+.netflix.com	TRUE	/	FALSE	1783741558	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783741558	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

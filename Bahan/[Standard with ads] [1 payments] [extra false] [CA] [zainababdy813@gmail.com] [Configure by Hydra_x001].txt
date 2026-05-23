@@ -1,0 +1,21 @@
+
+– Email: zainababdy813@gmail.com
+– Verified: false
+– Profile: Sky
+– Plan: Standard with ads
+– Next billing: June 4, 2026
+– Extra members: false
+– Country: CA
+– Payments: 1 | CC (VISA 0477) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782760413	nfvdid	BQFmAAEBEHwn47bEyntxVt2W7oZ9oLtg84id3D8iI1IAhBTkOx4QJHGATAOYfCic4jmxhgC-d4IJtuA-_pLhwgAvN9s5c6_2GjO_xK3b7wcbMHsvGsTi_CRGpkvsEEFgE3I7T5h33lUbrPMymScF2b8lmAmgTB6l
+.netflix.com	TRUE	/	FALSE	1806007419	OptanonAlertBoxClosed	2026-03-25T20:43:39.118Z
+.netflix.com	TRUE	/	TRUE	1810158932	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA_rxncwyliFxUaGM0KPKvbEdAAcSifhUZFLoomMr6Okkpz0V5UQ1vsAv-b-sPRFE1NwIBfUtU7tE8JqBxL6j1PTRIY1OEjvNbPXJ2RLP8nGuwo8RPKmBa6USSgpp-JK4MFJ0gnTeNwQA23sY9F_ncxd8q8wb6kVnH0ENidVEMN1oqEzBQkjfFNIcjuxmaxxWO3nZYJ6cOdIZdFlvU-wcEZIbqR4pZEynkYMtFK-FF-KP9QoUvqt2237Ux0td25GuSJHr7S9qpMaAZGK0TkWunAG4Di_z0j9KK3mI9N71mDaACe3yE-fFuFh09ETmDilNcpNSq1YS04cAbo776zoW7icRdO3DypMKFAMa1UyVtw2xgwAYoBbmfFV7RPyyQa-vCLqVRBVr-katwq72BscoioeUPLVnPUf37xS12UIEoiAsQc1HWFEXS3UH8ZrzDf9LuZMVqb1IuM0fMOMNycdCek8eJQO1gL98UcOkSCvnhm1mRfnAeqZXp8j2ZEhqR2RFgKx-XKzqVZDcxwJxfrjDEpP1omDfmRgGIg4KDLRv9SFF-cdbizQ4Qw..%26pg%3DC4KWORNNRFFNFMBYMEQ33M6XKE%26ch%3DAQEAEAABABQEih_SBNKesk2xb9ONj6_FDXAzuYKhQ1g.
+.netflix.com	TRUE	/	FALSE	1810158933	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+17%3A55%3A33+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1c2b41f-aaba-4ebc-9011-81a8341b701d&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=CA%3BON&AwaitingReconsent=false&intType=3&crTime=1774471447568&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810158932	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQd9gdNr8Tm01uFlqqQLKOMP8QtSrwVVQA.%26dt%3D1778622931612
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	502e0a44-b8b5-4ed3-ad61-08a862085ee5
+.netflix.com	TRUE	/	FALSE	1786398933	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786398933	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

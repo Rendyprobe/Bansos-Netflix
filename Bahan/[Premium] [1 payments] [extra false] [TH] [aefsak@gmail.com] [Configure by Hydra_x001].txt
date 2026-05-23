@@ -1,0 +1,15 @@
+
+– Email: aefsak@gmail.com
+– Verified: false
+– Profile: Jew
+– Plan: Premium
+– Next billing: June 6, 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | DCB (TRUE_MOVE 6614) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781762194	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1Ah5mHhgIMwz5GcvVyL9jRcjg3klduaQcuJv7ed9dS2E32GTY2SvhUsEgCfcxoEh-fb7UVyPKwMfsWoiKn7-Us1AeBeIEGVvVi7LCFgNNq9xL6kYo_oktgrP-d6OfLWOY1OtmZdp-QQe9ReY2GVaG6KzxPSOZRQXzn9igaVqmimtyDCjaNd_bKFXKxRJJtn9PuQMgTdk4SAt4gekKQ483r-uzGdC_g_cKlBpfJxqawf5soCerdAjgeIlc3hJs8nvs1Pvm8kKcTobwxP38kOXSzanLgB2ou1I_L_gC1EPA-qkzZed_O1IbHwT49wOSf7myXdm5hYvA8_7UOSdL22MNapA1OaYMgddr4hF8Zp9IDYw5vUJMf5w4YB2BtOIJ_niwtynMEov3EuGkYDvpF7ykY3smks1zhnL_CIzUy3H04cLvoyBbUXHuzQ9MND-NTU6qEitEljFpiT-RjF80_kjMMGj_q2vGSWQARniwM3f3eMCGhgRF-y8YBiIOCgz1TurpmF4E4qoSa30.%26pg%3DEGSDBLUXXNDUHIVOZDIFL2AB5M%26ch%3DAQEAEAABABQK7DN-gofLDFqKn-jlsimnt-wXkHpwVtE.
+.netflix.com	TRUE	/	FALSE	1781762196	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+18+2025+12%3A56%3A36+GMT%2B0700+(Indochina+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd977f92-9158-4478-a183-1de8367c42e7&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1781762194	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSMqnTUVSCuN5kke5PPpcKCPawzpymrmRk.%26dt%3D1750226193281
+
+Follow: https://t.me/hydrax001

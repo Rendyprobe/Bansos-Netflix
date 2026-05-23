@@ -1,0 +1,18 @@
+
+– Email: hks@null.net
+– Verified: false
+– Profile: Home\x20tv
+– Plan: Standard
+– Next billing: June 1, 2026
+– Extra members: false
+– Country: JO
+– Payments: 1 | CC (VISA 5201) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1806266698	NetflixId	ct%3DBgjHlOvcAxKDBDKy3-TbjO2B55SBG1tIjE9VF-w5PVI69Tn_Uc6iSlVeE0OexTBH2xHv0i19tTXqytQ8cOdEAQ9EW1P5vqYn_CQa9snvYl40M2s2DqswF8WdmXxa6VgoEgxhVhjNJh38QbsKE3dHRvZ8G4AiMTR3_HhMTke00RGVa0VSpuI8hs_tdXIswKQwdFpkDgMU6cBbizrqk-cqMMsWRUlNze1L5GTvsMSYVB_gde4N9j2QmHLBIU1UwhygW1IEwB6hDN-BuMTNs7XE9sigkNfSKMsMu2pIgmfODaMviCUuDLeiGagteNQy3zrkSuBsDehaxTvlkyc3diWv205yhfst8muBNl2cIM1xlm6QPT7j6hKSC9K6gWwX-NCjJJNo-0DzRHmHN_tY1fzDJh5UEoD2vNhCaICuxQQe1WzcAoppUayJkDJCxFU-kYG_LcvtfvMdW0MHsd63-swSNVLf_ZkfHaU5F6nBDx6-RiwBc2gmSFYS-UQDFT5VIigsThSwFE4J_GcvnsM42dTDFlNrGowcWcYXlCdAbUH4VxFDt9IMi1sovWb3kkSjYsm54jFeS5jKgTXJzWP3ZTlbJZXxy9fNUvvIwCWSJGSJk2B-uuHfG8opUqg639e83C-jGcqNhJyL64ebUVa9dgO5x0Xdz7raIsJjA8TZG6snpZ5Ale11DjN11y5cg3M5GAYiDgoMxftam6p2RqHGJdBC%26ch%3DAQEAEAABABSR-7qzkPeIZQzaxFMFJS8aUZG8nLbEKfw.%26v%3D3%26pg%3DKITSUERVORANNKZLKVFTEE34MY
+.netflix.com	TRUE	/	FALSE	1806266697	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+23%3A44%3A57+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=503f044a-4118-48b0-82b9-200c4df58328&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806266698	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpFRRW39Rrqo-oaL17HCwWRUufr5B81Kw.%26dt%3D1774730697626
+.netflix.com	TRUE	/	FALSE	1782506695	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782506695	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806266695	nfvdid	BQFmAAEBEJWw8aAgRYeam2hQccmndp1g7RbBonkSSASZzeuWyPLkF4KY1MDQ1g6jX0jv5pui3GfZVQVdncfF9kX-UpQUGM_vXtTT1XT03QI2cx6GHeFfrxvQd_65avfn2WR5qVGdAiXyZlFmnwxAbPzRcIR-2E3N
+
+Follow: https://t.me/hydrax001

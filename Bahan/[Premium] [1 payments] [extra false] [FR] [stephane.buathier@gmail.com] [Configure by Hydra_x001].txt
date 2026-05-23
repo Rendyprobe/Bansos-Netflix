@@ -1,0 +1,22 @@
+
+– Email: stephane.buathier@gmail.com
+– Verified: false
+– Profile: SHADOW
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | FREE_ILIAD_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1783848430	OptanonAlertBoxClosed	2025-07-12T09:27:10.656Z
+.netflix.com	TRUE	/	FALSE	1783849852	nfvdid	BQFmAAEBELfZEp6f_drv8gR7br_nKDxg85ByfYDOOFpFNnKJMaXl5Toxbdrt4EKPFSJsErQkz6n8WKLc0Rbu-qpDS_KjHsHBENI3ZpVpMSDFOZVdgNh-aQqh8_qQuBvNL1T7fHpD-2fR39RXumTH0vo6870uebwT
+.netflix.com	TRUE	/	TRUE	1806314557	dsca	true
+.netflix.com	TRUE	/	TRUE	1810062148	NetflixId	ct%3DBgjHlOvcAxKEBAux1jvgzB-gluFu4q2jD0e2KZ3v0mYsKEWka-Okh96434dh6ypviVXo-MaKOdC4e0xfPHolYbFCgSuSgOWLvlIRRbGaL-vCSd-JGsJ9W4Zg09Hte_FrfHpAsqzJQWvuiS5Xt-welbQttHL0i5bTBdljceiL150BzPfToS9Mv8az8hXVDQPMtIqbOgmn4w_AEaIoSmES_c0_nz9EaslnEPYXJS7k1Zwz6U6f2Jv62vQj9zXAPQMPh8WPzpcEaQCyff4240q8aiFJecCL7jsrEqo950QSCMc4aFkGjy7tR8CQbS-ExyluAQVdCTdAqJh4q-O4w_M_QLH19YB-qtNJ0Tp4Ybis5xLXjXHOgVC8ryzR4SjeI4gIvQIgK8CtUWDM05uvtfsDNTs2EluyflbdGGUF0Tgb_l18cPGzzVNj87AC5ZdwhnJLQMGMxhw57od2d60SIcnp6XOfei0BKLkZu4dGUM5OFkexsEtHMlTQzxTAmMNOn4CLklpP-1cqODT_egKbVYe1PCGMUeh8cA73yt8olViJ_GUa-pgul832IbdMyvnuJ9Siklvqi94dL19SIiM2rIMANh1a2VkdXMg6xG8pzFDMjz21NQv5NGk6E_7HRgzJFz3EHzO4AWojXG5sbObVm_z0f0McmNJI3NbXRIc3AsxEgzSsoMTdIMQAMTQkt4NRuRgGIg4KDKCj-qQGnMyvGD-Bgg..%26ch%3DAQEAEAABABQ6VFKTisthzEkkYNY864bZGijaGZWx46k.%26v%3D3%26pg%3DVA6QW4GA5ZDVFJ5XMSDNGBCNAE
+.netflix.com	TRUE	/	FALSE	1810062150	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+21%3A02%3A30+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13a79e5a-7411-4a28-b5ca-a123171217a2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810062148	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQlutg4GXb8AbJribjwLDxSlBrdTnOgz6o.%26dt%3D1778526149520
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	3f47dee2-271a-44a4-89dd-722195622a39
+.netflix.com	TRUE	/	FALSE	1786302149	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786302149	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810064852	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

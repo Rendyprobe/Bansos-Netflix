@@ -1,0 +1,19 @@
+
+– Email: veronicab.nero27@gmail.com
+– Verified: false
+– Profile: Nics
+– Plan: Basic
+– Next billing: June 19, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****36265) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792649223	nfvdid	BQFmAAEBEM9wAhtJyk5ONrZSN8o5ViFgYMpeamEh1kiR_4vJhgPXn8To3_RODZJ_TLHco4b-HQ4SIjdsoLJcL7jon_VRuTKfSsAj0JmSIC91gP6IbK0ndylHQnM4J1ybj1hL7Cs3FNUBsreqMN40rt67HhNCcQyR
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	a7dad77e-3c65-4010-a8e3-f34f74ca6cc2
+.netflix.com	TRUE	/	FALSE	1800776546	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+15%3A42%3A26+GMT%2B0800+(China+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ce4b4ef-261b-4106-a57f-c476b990d721&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1800776532	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLvAlTxsxZn6Ld4t6JCaFgnovBAQwuKoGmNVS6Kzf6ekASsXKWOezKgLFDKdrTV4wbTy0QXnXWuiSMZfm5YbCeMJDJsFvTNJNNmLWfaprV8nCqK5aTbM9xwHE-2BluQGs78NhaZImGDfpVVslAD85l7iza1J6zf8aRedM_u1hULAHfThOtLuQwvJoLZwjp10i1iuNgNlUJi5EyPRWqcOHvN2f6XJJXF39EEAH10wqJ066HBaqF2y52kC7F9mGaTNuGNYkF1nl6g0nS8foBZidD9TMDkSbrFUJCsR2NNd9nJojA3J67w0FwH8pmujIZ1apBuodcRuYVm9DVlJJNmu5PuKrUd9OFBOyq8E5SzqrfhON2NDPWPEkx39CO4iUhB8J5MCEccCg1VLlNhfB79gxhi8zYHBfWf6gSxbMKWTAo_E5OmF2b0cU3hIBAvE-wjhrFcweNeSG0hmvPx5IrhdrSFdcw0JsNGRijggzdQWbx8JIoYBiIOCgzRaNzgcnegNtUQ0gM.%26pg%3DH5CLX4EYMNF7VEWJUWJW3CMS5E%26ch%3DAQEAEAABABTvHLGJv9PGbUunGYgfTO6dUxZRP-uyZD8.
+
+Follow: https://t.me/hydrax001

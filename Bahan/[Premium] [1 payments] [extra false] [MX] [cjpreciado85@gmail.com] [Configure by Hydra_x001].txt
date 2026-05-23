@@ -1,0 +1,21 @@
+
+– Email: cjpreciado85@gmail.com
+– Verified: false
+– Profile: Dani\x20y\x20Miguel
+– Plan: Premium
+– Next billing: 9 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (VISA 3252) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808790378	OptanonAlertBoxClosed	2026-04-27T01:46:18.009Z
+.netflix.com	TRUE	/	FALSE	1808790387	nfvdid	BQFmAAEBEKJztsjuZ2kvI5LamNseDZhgxyHDaynrjQCN48cJ3pt2VmQCNJTZq5fn-vYUbfvuGZZKFfHELGMxDcmfuqeNq_DGtA9cr9pwk_Lq9xO99284FBoIZUg81-kj-46XDcExCglQi_Eb0nseOLWSv4wE2VK9
+.netflix.com	TRUE	/	TRUE	1808976800	NetflixId	ct%3DBgjHlOvcAxK7A2QZ7obQrVljzqB9Cub3m2K3clJjeHMjc0ftY0UxM3ErOFcpe-2YucRIQJrPpR7WaCL1y42I6u_bMNyC4s4QwhGcZU96HRbEFzZpVuojRoSfZPzj1aoTFyD4YFsmCXGqqqm34NwcHYiArwapyrwf1g2CTv_aIgg4aMzcnEwnl9n_qIteuWIzWFJFJoXXsghSxaud_DQrBjzSoS5l5SZKKpA4sh4vS6avmSJKchDGiGjPZ6hELZZ4c8bolEmU8TXAEmRywXLx9rvLyE5bROxwr1kizNsKC3CEEi_zJ0NEWa1BYnZZXMUgVzTU5ORrJ1Y9UJlgghKPzTJQulbi-QHyK2MEd4TWVbI3rh66yp9MnQAeivP_zQSO6q7VF6IwC9Q3w1wsjxo_3oGwsD9CVhg43m7VxWiJgWse2BJRCMzo53rX2ZI4GcZbf0u3M8zeR4x7vg5jRnDhcvvb1fQaSQW7m0ItsCXkIjmDRem-eZA_Qk2ZfARe4XeLTTomLnB4WX4GtcYQauVxosy9ndNA_w5NHwPTerfAa7iHQCYvaLHPE-5LdYTLVH93p3D4eYv9IXE--6B9eac6ge5rUGAVGAYiDgoMWd7cYdLp-DCbpNEX%26ch%3DAQEAEAABABS8UE7IVM25T9HuvPETmcfp2R3hyH1DMY8.%26v%3D3%26pg%3D62CDUCWTKRHNDEWIXSJOS37OZ4
+.netflix.com	TRUE	/	FALSE	1808976804	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+22%3A33%3A24+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=df1faa04-aff1-4c86-bd9b-b1fdc9239887&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777254378994&geolocation=MX%3BBCN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808976800	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRW7NNRtC0KiKV_k-Pj2bOlM2vZ8s-NZhg.%26dt%3D1777440778947
+.netflix.com	TRUE	/	FALSE	1812000802	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	fd72dde2-30c4-468d-9bbe-e6dbfdf3ae86
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	18ad45ff-e1d0-4abb-b843-4974ccc751f5
+.netflix.com	TRUE	/	FALSE	1785216802	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

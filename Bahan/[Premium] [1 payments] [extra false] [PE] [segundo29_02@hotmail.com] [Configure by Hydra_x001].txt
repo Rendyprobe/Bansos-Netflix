@@ -1,0 +1,16 @@
+
+– Email: segundo29_02@hotmail.com
+– Verified: false
+– Profile: Jesús
+– Plan: Premium
+– Next billing: 17 de junio de 2026
+– Extra members: false
+– Country: PE
+– Payments: 1 | CC (VISA 8222) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1783279819	nfvdid	BQFmAAEBEJZmD33GIb3zWp8mxF4JlzVgguSFgPMry-07jGiYn6m87WopZ4-nx-zKPXYb0IkisZ968RCthSaMq2Lp7_60xZDYsKqEp9zXmtvNtY6HcPBvf2tTDiWKyS789yZHis6gPat1aFja9U96XUrN4T-WakB4
+.netflix.com	TRUE	/	FALSE	1785861091	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+04+2025+11%3A31%3A31+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75b8a656-e623-48c5-a220-ec16893f1689&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803249100	NetflixId	ct%3DBgjHlOvcAxKXA9aDowKR6hBzq4N7leUTP6j8y86SsVXhWbsB4XJ0uxU6FLZiXBKBP1l0TpkN2kcieYhLH8m4Tls-9AS93X6Pq1Vxyw3kOQXYMqXl43RzrmS0j8_l__S9EApN378Dm1Z9CiEyZKepK1nKA5mFNQQkti1lDJ1Ek9R0INoJbS2dRg_ZXV3PddUv538ucwWTTcukC1fcgKMP8tKWYBy-jAODcXQkzjlqAqRlfUWsF0ah0Z3nIS_kQfnmTi5zqKJ-CaHHjTyUbm4H8iN4X_pC6GwPCiGK7XrIRzVzRqHq_u49JEoSEWm1BGVGpjWbJu2Tv5hGP-g9VSYrwlG02Z9Tt4UbwW_TT4lrKO7oZkMk2FoIbahg171AeiZ7tYxLegvnlbOpyvzOyMPphsLkPZCLmYkXhPrh0v14v9cvg-MeILiSNdFsorMubjkRoCu4zF_v4MI0EI4N0xAbXzl45fPEIw1ei7zyjF0xPPKeLzI4aJIG1bJ1J-w8OVa4nQv6t4Vz5FSd0VA4gTqYrOqhxe_DBmiXRKFZ233ZDnkIGAYiDgoM1_-BfhUfwJoIb_iZ%26ch%3DAQEAEAABABQtdIwzChHJHiRemnSQsG6DeQfA95Q7rxc.%26v%3D3%26pg%3DT43KXHGK5BCUNBAOX3ORTZ22VE
+.netflix.com	TRUE	/	TRUE	1803249100	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZOnM0M5g0ijKPEpJ9op1l7W9oqHMWX94.%26dt%3D1771713095950
+
+Follow: https://t.me/hydrax001

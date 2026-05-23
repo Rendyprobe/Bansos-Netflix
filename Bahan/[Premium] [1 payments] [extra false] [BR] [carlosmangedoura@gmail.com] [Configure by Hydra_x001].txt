@@ -1,0 +1,17 @@
+
+– Email: carlosmangedoura@gmail.com
+– Verified: false
+– Profile: Pedro
+– Plan: Premium
+– Next billing: 15 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 3010) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-12-08T23:47:40.773Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEKYCL0qA8VnueouFQpkRUitg3PIbTrNQ7h4vvLS4c_cN8irtIgojbBGwcQDbTLg-D2Us1M4sEh34Z6RRAMSYO3AKtcefRdktCTw22l6_A4ZKjrM9Ffh92KobGyLpXlMQz-WciShS_Hu3yX7HlAUcZtib
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6ArSgOQAg00yzkYs0xYKtgPcK_uhpFXRYVc1g99jPFvJsh9qsvJx2QH54j10IizmoXhzJwMmk0nmywuqa942drD-EpjduvqFR1C0CnHaPAsC1nU7Q2p7zE2jZqhSONiwme0PgadXjoccXnl-99to4MOO0DfcX2hU1w9A6TMwy37kaSOIuvdtQShVsBzmOQp2G8trKyMTchngtKeWPFtmi40HCoE7h30xJVlMheVlxkE_4TtG4FH39QILcK2rx1OM7otIfyxb3e-Yk5uOuEiASbvZO2YxDd7MpIbGksnly4hEmRKjdF9aGE8NENjABfg7Xc8Nt6zFWFvYtxi7ek5OORrVF1GQVXZFNwjFMSwL2CYRzWoYsfhWLFLDAK3Rkx84wW-w464ZzJ1J1jQDfHqOSDJyewT1RCJIVCsdVYRAUsR77MGWPxuzC2kua8H0eRxWNobzp44E_D_kV-WZoMuo3Ml7TX_jkjupu2PCgXtCM3Rf9-6xpizT15JihxhgGIg4KDPHIWHljH-MbBfgIhw..%26pg%3D7LZL6CZ4IBDT7LNU3KMMN2HXJA%26ch%3DAQEAEAABABRLjxSYfCJkbFeP4VAQXipnRiPX-LTYwXU.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+15+2025+12%3A32%3A33+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=998008e9-0fde-4fd4-a734-61a66d0e87b4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXPEAsRGFOX2-Vnq-pOj5dl4EaiCazsVk.%26dt%3D1765812752041
+
+Follow: https://t.me/hydrax001

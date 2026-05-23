@@ -1,0 +1,17 @@
+
+– Verified: false
+– Profile: Ruan
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 4164) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787721846	OptanonAlertBoxClosed	2025-08-26T05:24:06.860Z
+.netflix.com	TRUE	/	FALSE	1787795590	nfvdid	BQFmAAEBEPx-7j2NjzNI6KFvo4a8ULBgj1ClvYlQoOzV_sXfgl1m9DbHHybQMND_rjsouQ9zyVAq3fbdZiLinemjUCJqAMly938TEXaTrVg9jSsGNQbgf_--fTnh1RJ99yjz2DicTnjJ-q3dUePZl7s55FaowQBo
+.netflix.com	TRUE	/	TRUE	1806555458	NetflixId	ct%3DBgjHlOvcAxL-A0hl6aPf_jDOgLK03fNwivvwamCawmkNQ38gAmXo1Rds8El8qUfmZNqRCuJtVbqQM1p-A1WBXanEjZ2Sy3Oxz0iAwUHAqubVgwUgnwT1s5kbL6VHpF36SOrRDuV5baRAVspt7iBuYhVaJ-g1qPnRf2u0kXXPx33eQTSaIiIaP22DfthcjDX1MqzDUV0Emeqr7WG6Cufkv0JWUOHXAuszpfFLIGT7aDkMJ-IX51JC-GqRbr01YBg6eRdvXehGkk_-YD0SN5IHagB1gge-O__sjjiQkXvWGgImn1Cn2fwcm6vZOm2-M0rl2pZ-9MeRUh1QfMbCioTU3DF_AgUrff3hEUvwqWjfgTvIEOzEfskS6u8t90MiItgH_D3PC-315J41vM_EPCuz4ZAVk3UlvmkaBchqLx2lKGYx2FSYkGYLB53ogVPDX_r0PrHTs-7f_qbKLMNcfm8cm9XDGdDhVSCTT6Jp7g2SZA05YMXvzw9Qv2utXzNlmYm6DREE5jV83PKvSMiFtEMF4BmnlYvzqZiM6tBH57PQRrIdaNSVwevmpLzo_2Gi9mZJeG4TmujLqm4504rqShWEnygXo1vsRu3SM04KXbSCVIvRqjhhRMRQy909Ejq26b03v7pB2XGWv4NOVYHeB-Rp-rVDChOCcmuLknbuqkVpJG14fiH8Rw4qnBgGIg4KDN5Oo0WL2585Uporew..%26ch%3DAQEAEAABABRNeYpuu44eTnz1CG8vidbcxztc1epB2as.%26v%3D3%26pg%3DIQZRSVUH4JC43F6JJNS6MCUF7M
+.netflix.com	TRUE	/	FALSE	1782795459	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806555459	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+01%3A57%3A39+GMT-0300+(Brasilia+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88cebce6-f7a2-403f-9b5c-ad3582ee9b6d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BES&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782795459	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: petoo.boy@gmail.com
+– Verified: false
+– Profile: Jeff
+– Plan: Standard with ads
+– Next billing: 3 de junio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 4455) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803922921	OptanonAlertBoxClosed	2026-03-01T17:42:01.729Z
+.netflix.com	TRUE	/	FALSE	1803922931	nfvdid	BQFmAAEBEBQHf7ipyDOwTSCCK29lwApgp8C8QusjT8Yu4HPgTAh5TR_6D8UeNW0Sb7ZtGwKnj4Lx-r2skW1qW0hC1m2py-KtuMdcNfsoXjhBL298Q0uWvrhO8BMXvViJpLp2cSbPWqPES5jVWA4U_Y3wLsS_OIFL
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	2f2227e4-9bc7-4660-bfa0-9020e36a4b42
+.netflix.com	TRUE	/	FALSE	1807141863	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+20%3A51%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=30636f1e-c5b3-461d-b7e5-2ed014bf6bf5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772386922568&geolocation=BR%3BPB&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783381862	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783381862	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1807191039	NetflixId	ct%3DBgjHlOvcAxKHBEtBIjJIlOikmmK0PCxyQxUb_vQ7hQ8BY-d9j8p4qR8BiMix31B_1HyUV6Ot9ha9u-OFpOPyJp5os2BAiuF1KfIZzrb9HOseaA-2CCpKT6XVZVKCeeKDid5CeoOD35tr90naDxc6_lyyrMECCzsS3JXGkF6jn32bPLvJuvJMYIUTAOdXi-9oexbbHb8TSkwmBXV0Kdkvfor5hzt4Xqfenzw6tyeE2DTBBmBlM8krcVRGsBx1QFqaSCs5nNVtLSZGtgnDVJ-HngqVRifMbgwiYQjK8_gKRy-5GnO4l8bb4NMxMBdj4LJhJqmRXdVASRVYkhH4FcY6nfQ8JUIizbxMWN20YEGJVe8miijEf9Q7Kcjn3ShsnP9J1LuTY6-RRZkNOfdL6_-E9MOjvGB9zkIWvCqHHO_s_OMsePqQBfbVbBxljuq6RkKQkpn7I7Tm8KAcmuiT0oP3BpoMPmomRko5MiUeM4weRP4D8ujwvsyAkkZ0KlxfI2riNLVUgD1WaMdWa8haOsQZB1q2IIXm0soDOcl8LPkTKDZVj1tkglTk_KZwm34q-plbcMKFWsHE4BsULQLgtFvBesNy_xqMpYWH_mTGwbrlO4FRATnDvi9mVecYJP4vimF-6bS9gx6YfQscpxwW60iBRODkXY55MBdtEejMh49Suyon2q-gnYEUolYljae4qFdmxhgGIg4KDOZ1FF6s-SHl-kd73A..%26ch%3DAQEAEAABABRaElTE-g2P6kieSOYKbrUUC1M-hY2h9BI.%26v%3D3%26pg%3D4Y3HLHAE5RCQLBH5BKEY2PGTMA
+.netflix.com	TRUE	/	TRUE	1807191039	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgzWOPqk-cHdtTVptL08FqxCBMwfpph3k.%26dt%3D1775655036150
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

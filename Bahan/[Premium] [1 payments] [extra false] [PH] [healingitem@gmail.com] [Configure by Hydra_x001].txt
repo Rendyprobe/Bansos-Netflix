@@ -1,0 +1,18 @@
+
+– Email: healingitem@gmail.com
+– Verified: false
+– Profile: Lajimolala
+– Plan: Premium
+– Next billing: June 22, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****80383) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1790667710	nfvdid	BQFmAAEBEFk492xDf_gm3iW6fvtPF35gSdiQ3UPsoTlmMPMChtLD4QDVrfOqDI3tL-4BNhM6o-muuSptpUsGE3Y-QHEk5aQqJYoUQQjikL6kr5vwP-eHejQHu2z_7AMmkbxbw5ssNOSxFBD4P7TR-HSLoZ9M0OPX
+.netflix.com	TRUE	/	FALSE	1807523665	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+17%3A54%3A25+GMT%2B0800+(China+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89b98e59-217e-4150-ae59-b070a9f87355&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807853575	NetflixId	ct%3DBgjHlOvcAxLsA4YMz53SjP7NK-51RRQLb9h75oghvvELMsfdxNn1anKYNlG_fwn5El9G_6iRvsg_0A65hHSAQw4Qspzsuvji4lmho0SzXA6SPfQT-kxY1bmeLUkAr6U3Whj_FNR4Eu10AmYlhaEf09uLBNi3SAYDV6sGDhkPwrn-mBdenQkpjw-PI2myd0teq0SsDDlxlorK42fnaQnUsBxj3wp3eDZH__X-MLNsWqGX2LsQkcf2ZGT-qlI0XZkUJlQcxcWkBpLOuKFGYkMTI1O0a8jkt81dJAYciOn7_6e491jBE_csJ7sB_2sntAyheInT6xa52-TbIdjXa8ym6RLcuvPg0Tq6QFJ7sEvgqdBg4RRcAQWcTNXhk6IOX-5Duq63ef-b2jBbR-7eANAyBvvE2sFKbo33rcX7M3jbytKQzekIfqQ0qvpA0yNafWAgecEIOfAHCS-QZN4Fu6xXS6NHxi4lOUsRV5YGZIeS0SjSg9ixKksuoJY0ZSCv35OcnLNQg_vov-Y-bH2ge-06Qu6DEYaXDAphbI0k5Sla7OS25HWtujPwZENePaKJgbBXwwH6ItdMTqFyrrXt1Y1fGfqDq6_AwrzHiIhXHH4fED86xXsVsiJZGbAYd6KmABDySfDhAEt9Pqut_qGGL-KQpOqI8z1ubBgGIg4KDK5FwniSFdsij5P9bw..%26ch%3DAQEAEAABABTInPMs_BPLHj5dSj_lgKKLdV_VEt1gppk.%26v%3D3%26pg%3DZR35MIJDOJAHJMQ5REHUYE53W4
+.netflix.com	TRUE	/	FALSE	1784093576	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	3c9b600c-a3d5-4f05-84b1-84a39d568b61
+.netflix.com	TRUE	/	FALSE	1784093576	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

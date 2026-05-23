@@ -1,0 +1,18 @@
+
+– Email: shandikalucky@Gmail.com
+– Verified: false
+– Profile: Lucky\x20Shandika
+– Plan: Premium
+– Next billing: June 3, 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********5814) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1810278951	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+14%3A15%3A51+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1083a5a0-0250-4050-ae36-83c333811b61&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778742652751&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786518951	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786518951	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810278950	nfvdid	BQFmAAEBEFnkxlMhbtrojGi9L-3q5xlgGYq8j4C5K0oO9-IMUMbDAOLQObmRIIRVx90uA8w4tl8M815H8ME2Xx1rVpJxjAcHrav_HgAvl_eKGhfPOIwDN3OWdrHNnTV359GQnpruccIwRxJjVTABVOD-2e1-kKzF
+.netflix.com	TRUE	/	TRUE	1810279089	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA6lXzMQIlD06_VGsdJuwAdPmjikh6P0ui5MXhfrMO-KfGNx3mrhjB1o7ZK7GH_qF2whbr_t6RF3QOGv-lkB74V87a1mQtcQBFXSs1Xg09bz5KAJtkSBlEIq3SHTgAw8tN3-Pxrelv_R378lloHT4ez4Yrg3Dimz0itb72Z0NMKaS9baqgMo-aZWiMrNa9SKG1jSh5u3-U-9IAmB01Jk7VNeKbfLWDi7gLnVICGZlZmPhkxN1Pme6AF2zOqD4zBegMd6hcXr5gj9vB7uBcLbsK8cHP8mLSbgKe4Zpnr1f78jhPjMH23qVITLZ17fz7WS3GEjl7nY3r86WvuMW994GWUdeNzPSYIntWbK7QecoyUYoFgLmH6PSurDhU8_OtImotbF3_rVOqpGSqauW22Wl4Bhgq1ITQDHgs91sVr9kLXhj4gmhrGO4IujdKVkH5p3SLMgJ173m0UHNZ-6QeEne3dyGz3Jt_U5bhqMdlVHVxt4splXF6TJRf5lmeLeRdUrw8xfHrMYD6Rzl8peLErBN7FIkiie5CqdZwxgGIg4KDHNhBcS8YSrablrgMw..%26pg%3DVDFMKY6WZFCKPFLRQ3ZHONNC5U%26ch%3DAQEAEAABABQaSW8xYgJHq21zZamAnxZ3YcQpDTj9USI.
+.netflix.com	TRUE	/	TRUE	1810279089	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQe7hrdP7DrkQMGbAC2Br9GVWa-WVQblYQ.%26dt%3D1778743126854
+
+Follow: https://t.me/hydrax001

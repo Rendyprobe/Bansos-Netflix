@@ -1,0 +1,22 @@
+
+– Email: ibrajim82@gmail.com
+– Verified: false
+– Profile: 😏
+– Plan: Premium
+– Next billing: 2 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 1494) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1780396281	OptanonAlertBoxClosed	2025-04-11T21:09:55.861Z
+.netflix.com	TRUE	/	FALSE	1796184634	nfvdid	BQFmAAEBEFay5YusPcBkP3EHY00RczpgHbE8beIAvGLKcEZKgnkB164l8cW4O0k7d5EyehZWB535tE-cBY_3ShB0lmhjHwtdvPJ5ID3C5CLyouIIjSZTmuhOGxznPLlcqYVIOeiMddmoxY8kJx0m75qrqp15fvTP
+.netflix.com	TRUE	/	TRUE	1804080413	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AghnGszr0lOq65O8PwEnyp00Lta-wB5-EijmC9EQPxqhD8tqikkB82XG8yvI-zegncqIhRU4EnG2Fxr4u2adoLLjPQc9ouFuKCRZ7jyAP7tVRMayQGkPonNTKAANrnE2OlV1PDl_MDwGAo8V-WeBT0tKdELkrrJTcjyJ-_0XUiVBYunKp_M5QdnNQM_of4UD7-8zWw7RCyVOAi3rntTg4WNF7Td6CixTUYo_Gb_4TL7l6HJYBOnmJFoGcCQokd5LrYQYHvAyrnbhKbMQJj9dAmVcJH5KH8hvtO3hmnBbije7ABHNxKKezdkmPg1VbZLbDKIqVCQXVYLnM_UHGBaGTp2vSgwLAZVgLvRgX57o_CYWLGXo3_z-JDGjhJX7xy3i0ODf8OhyfpSfYEudnb86wJo5r_RJejG4crT-8piWK19bYIFPn8ctuNmRbGPHaExqm05XVMzCh_xN8sA6yhUEJlDeWPT7IjymEkN25JCfAyUUN6ko9UfI0mn2GKxVJhgGIg4KDEehlTNFM_2mAbhNmQ..%26pg%3DDWKK7ADJNZDY7O2OV33FAWYC5I%26ch%3DAQEAEAABABQMoYIEyHxE-mYt9EekFP7c9HLboon0G2U.
+.netflix.com	TRUE	/	FALSE	1804080415	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+14%3A26%3A55+GMT%2B0100+(GMT%2B01%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f417762b-7c3d-41ee-bc5a-24ed1570f717&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804080413	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThLRR32FvBO89eR3f4Nxd2eYICZlMeVwE.%26dt%3D1772544414243
+.netflix.com	TRUE	/	FALSE	1780396281	flwssn	1087132d-b441-4b77-af3f-21c236e05e56
+.netflix.com	TRUE	/	TRUE	1780396281	gsid	1889729d-c16e-4af7-bb21-5d1bca41a46d
+.netflix.com	TRUE	/	FALSE	1780320415	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780320415	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780396281	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

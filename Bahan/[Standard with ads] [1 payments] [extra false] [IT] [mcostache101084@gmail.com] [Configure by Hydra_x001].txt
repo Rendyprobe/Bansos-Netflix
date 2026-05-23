@@ -1,0 +1,17 @@
+
+– Email: mcostache101084@gmail.com
+– Verified: false
+– Profile: Mihai
+– Plan: Standard with ads
+– Next billing: 28 maggio 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 1174) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799617225	OptanonAlertBoxClosed	2026-01-10T21:40:25.299Z
+.netflix.com	TRUE	/	FALSE	1799617225	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+22%3A40%3A25+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44ed658a-44a9-41a2-bafd-a65b13dc1f78&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1768081225929&AwaitingReconsent=false&intType=2
+.netflix.com	TRUE	/	TRUE	1802641225	dsca	true
+.netflix.com	TRUE	/	FALSE	1799617224	nfvdid	BQFmAAEBEHPUgut1YC0jzIQ9mZ4nkutgbD0vwRk2vjEkrmgbgeWOUuOhtiqD66_bvOcLMt249o-nLZ1yEF2Vi1u2TEfUyRUZGv3GIxxtGzEGArnUTyKsJJUnbp8QnKngK-buS9WaUyvB-JcOm32tcVO7m4daOSWK
+.netflix.com	TRUE	/	TRUE	1807290389	NetflixId	ct%3DBgjHlOvcAxL8A31zlT6SYIG4PktCGqfx2oOm0VL8tPoQ2lL7FKFuJEgMbuAWitF165eW-v2mPx7n5oqJ3icR8lXeCbjngOi5b-wVr8Lu_AWv0LszPCxNQmleuSxKA5dmpUTkKmGDZKisuGaQaYwRoc8YfsqQ36nwMJVOe72Bq3Jw4Ke9cfNGF5qUSGmOXNA3DJ5pBEkCHRRqwqqvf7dUSNMg6nyXc9wDoEv_UbXc9h2tbGw4QFXo614MPG5va9pWBN1dyrhspTJlFv6kbWyFe8aZdaSfinujBnK6QB4ADP8B76UZ_BCvakL_CFW1Lm14pi-xoA85-BnluecqxhGpSDlqBnyom8kBYvJqAwUZHjVoYANY8f6FelX1YPYfJj6_OG3KpMEwrJYk0T8cz8UlDccI5NlSnkX-5FNipH45Dp435cq-1amNdqZRBEME9QI256bRvQSCrcTWpmQwcwUxyNBDTTlzSgYmuif_AfRUul2e1jhwPQgzMzgvn7RiM3dQZQE3mduxYygJ0Oys2DZmIqupO9-J2qIeZQgHutAu4nVnbxu1WhF7kdRLbu8jYCa2A4Pt_dKmk3oIRZeyjZuDjevEJ08QgbOHFCihgMREYGd19KRlNC_5XFnGx7mo_s7dp6l863c4vHwa669DQIq_KTefo3qX9wtVHwQ4DJJ85lvAn4tyIRgYBiIOCgwrhQla9lpvwSI32DU.%26ch%3DAQEAEAABABTHEZRHhaGtHNVee1otOmUc5YFuCTQZAXQ.%26v%3D3%26pg%3D67AKAPC3ZVBQXKN22T7QHQUKRM
+
+Follow: https://t.me/hydrax001

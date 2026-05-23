@@ -1,0 +1,18 @@
+
+– Email: crislainelima.farma@gmail.com
+– Verified: false
+– Profile: Cris\x20Lima
+– Plan: Standard with ads
+– Next billing: 11 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 8291) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805913156	OptanonAlertBoxClosed	2026-03-24T18:32:36.576Z
+.netflix.com	TRUE	/	FALSE	1805913365	nfvdid	BQFmAAEBEBNcBYFVLXH6zux-3l0cnxNgDRsKRQPZVreGvmcYAznJv_1GR7GuK84v3lg1ujD6825pEPhpnA9upvcW3wBNgfA-zhbSGtAsQ-hRMF8cpc-f0IJjTvIjB1o-tseObKzSlWBbjMZvV4eDX9RdS4XbkDOD
+.netflix.com	TRUE	/	TRUE	1807129928	NetflixId	ct%3DBgjHlOvcAxKMBKAaNA6bCG16qN5mgwQcRi6TNmtNITqqSS_DoL6QR7O6UmLa_W7iK8znmlPkyklysB19d8gCkIq7iYSIhBbZ2u_Y6OCi2Pti_JbOMdi64l-lUYkO47dzObpTL_-cSrgzUJtrPgiuQ2LheGBnuPi2UHuDHn2CvlIkyiGBhrAM3x7mFaT7P9ybO6FmfZcyzAK1tuKQVahqiB9nXB67s53lxmmjIWN7CnlYVFd9rVoh7I6mVarVOplbuJobaPO7pjHyRzJIPzCV6YrT3mDrQ0B1OM4V2il05VL2zLUywKWJIVsyUJE10Ftcwf0CDSiRPgSXmYG7KgZJ51oYt7f9XmXKlB1_x-I8f3n0EXK5JotDlNW3Xolq4ktFAynndE-QYU2EtoYFnLE8DjJFqlUE-EFjhzuhlEiS1hPexzB5iXhJLGih_vEVWSBR1A7AOwfsa2SqDch6IGBDa1sqzCNsshgbBIeigKrx3T7UEIZ6dLYTBkCJWz4TtkuBfGMnwtDY-fmJcycuzfMEObd6_u7LPvR1k3khySRkuxReBKkG2LuXwmS4U-rpwopArnnM9RhG_XkYeqNBFFnLI1PqodK6-x8KAg5pTAgI0WD1LS8ZTE59YBMkgLGJdbukhMvHEZbkQ2vX1v39onHj_WuwJeRWR4gwoS-_1y03UF92F3HS0fkF3mxrsAzPCw6sGszaE64YGAYiDgoMMH3t1HwZkNX3WF8K%26ch%3DAQEAEAABABSPRHeDvyshqp8GUla0Ag4FRzuK2TPy9G8.%26v%3D3%26pg%3DD2J57CSBHBC77ARNDCUKALXIOU
+.netflix.com	TRUE	/	FALSE	1807130023	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+17%3A33%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86c10d6c-a6ff-41cb-ad7e-4b7e4a274b6f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1774377157060&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BCE&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783370022	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783370022	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: doris.surmion@deped.gov.ph
+– Verified: false
+– Profile: XyAm
+– Plan: Basic
+– Next billing: June 11, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****22353) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1810032173	nfvdid	BQFmAAEBEEb9whSGQmlAu9maJ5IFMLVgZ9kUso-LkY1fDROqxTEI1b5HZ_YT5p5UBj5n0Ttd0xy-s-CNOVoL2rPZUYjvi8kbFq2DATnw260sbJuc1IoowVRs72rB9EAKQrQXCNytJwyiVFhNULDEOyHkAZgARE69
+.netflix.com	TRUE	/	TRUE	1810163497	NetflixId	ct%3DBgjHlOvcAxLMA5yYSJrGMTNY2wUpxhZrLMvk6oHLTzmPpIvSR9h2QoQdeLCtl0T5X1hJ8TyNtfkDVu_6x4ztwTEKWLNDHEGEBT5GWo4DB9V8ddeJD0rbsbIWg75Lhmn3zILh5ltqvwBEs-lcg364ZqfyGHJTSH3KmBZdnQz_1hQ1k1Eqf9pDxmDgQV-iSB4n8O01hPeDTiI-xtZ-lfNGMN2P9G_-MFtaUdx0pNwReoC-zJu40lKA1dzdGwz9huwykPTiNBx2bMoRxU2EqD_3K3BMB6zir2EJswK1s6lKb7wfsZ-gBqmXaZhNyS0xFFJ0zDLZuK89yB1WezW_3F_SBX8rHVDWzLAKMm_vuiAQnnWM-1Zc8ZSwMGAljbuArTtMmSpdB2FjFHBCxbaV0H5tnwyh3GYv05axUyj1-wQWfvhIQiCcyHGGxF_K-UVqtMkjeDjp4-j2DDKvZBQY_K9o4HVT_X1nbU64oZ-i4Ij6bwHLguiuw4lbWUhAYcFdyAB0pL1AanzBAZ1bIf5ETKl60-ms8IaKu8JIwl1q5K2lNT_Ge7-ef21ny7-IJ03Tv2nFbcxBIm75Z0olihb-T4QqeHvdcuMVRmVISdniK8Z-3u-YrkASTAAYBiIOCgx0qFG_FQdGn5-kG1E.%26ch%3DAQEAEAABABQ8eB3jj9DabSWiFm4S8cSOrrjfzuGcUVc.%26v%3D3%26pg%3DQPIY3J7PG5F4BOOZW4S5EDPJSA
+.netflix.com	TRUE	/	TRUE	1810163497	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbnrmI72VdE4u3rjKm_lR76HT5LUWQWZ0.%26dt%3D1778627494964
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1d34d0b9-8544-4aae-8c8b-7e749cc88b9d
+.netflix.com	TRUE	/	FALSE	1786418214	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786418214	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810178221	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+15%3A17%3A01+GMT-1200+(GMT-12%3A00)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d7760846-aa35-4b33-97ef-fbddaaf43d11&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777250992502&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

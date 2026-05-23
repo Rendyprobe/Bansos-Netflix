@@ -1,0 +1,17 @@
+
+– Email: barbosa.andreia19750@gmail.com
+– Verified: false
+– Profile: Anthony
+– Plan: Standard with ads
+– Next billing: 9 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0417) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1793636930	OptanonAlertBoxClosed	2025-11-02T16:28:50.413Z
+.netflix.com	TRUE	/	TRUE	1793636980	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AhrSXhj6ubxU4ASqBxYUQamHbpHVjek9uR4-C4Ax8tpIOyDXMAzocfj-gL6BktlmH89eiZHw-CSIstEw97pbFU-gNCfLUpk10ySXdBmzYmU68kAnR0SAzXcbJ6R6d6kqQOBrHIFaw9uBjqpwR-l1qobCY3wIFS2rlGZnQU0syM2cPTQ2JmW_-tP308HrrwskSR0fp_66aIuE-BGzbhWV-dsw2W7KPGyPRpj4E-JBNf-rDaFLVHnuxnq0sgSGODBVleCKzTRAphOEmI4o1rSCZUWUhA9CFBbmIY42BwfZ2EiwkJJAXJB_SjBK2f5mIctci12vc3dKeN39NUQ_fN_M6LeabbRPrbqObTInyfidXFG-Qw1OWDhtXSkfUPuB2DxzPNFFlkxvN77pH1mmD3FnwZQg_Da_FQFm9XCR7DSm4ozS9n2XimxM9mSX2ZvUuL-tpF2JWa3ULo6hhqHGpp9tN2P5lfOqNqlCcGeQZMuXHPLbu0vKRYoVLVjDyjezdcIYBiIOCgx08n7v4IjgT6J8v0c.%26pg%3DULUGVPS3KJFMJMMALSOVCUCHEA%26ch%3DAQEAEAABABRhCzdQ_2DOF7hsyyDRkZsckTtqiL0YH1k.
+.netflix.com	TRUE	/	TRUE	1793636980	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTqxM5usRrSvoFxOnUE59hR4Dqh-iaA-MY.%26dt%3D1762100980013
+.netflix.com	TRUE	/	FALSE	1793636976	nfvdid	BQFmAAEBELnKtR8EjiehcrIC1p5OBUhgSqL9pE3bq5tGKr7SjiOHutc5Dw_ibOnIrCfV7jECmCWjxQit-ki5CEmKQID27aTu9a6p53ln6WeiWyEhUdFsWM3Krc5WWfrqXjxZXZ2EOGO2lmsig5JF-RrIS2XwHm78
+.netflix.com	TRUE	/	FALSE	1793637033	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+02+2025+13%3A30%3A33+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8997225-d33e-4f3a-827d-d1e128870749&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR
+
+Follow: https://t.me/hydrax001

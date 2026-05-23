@@ -1,0 +1,18 @@
+
+– Email: casiasgior@gmail.com
+– Verified: false
+– Profile: Gior
+– Plan: Standard
+– Next billing: June 16, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 9497) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1779566546	nfvdid	BQFmAAEBEG93qYk5hdB-6VUke4VQ9pxgxvz3K4SbRJgz0Ugf2AQ63PsoXl2WqWQVHrr8xi0nznCOZBMfaQM73aCkawP6olCe78DwmqyrnNWboohwOAkBfB8bH__DKNu9PLhDQR8iYs0RYvOVlSIN3FTOw8_tbTlF
+.netflix.com	TRUE	/	TRUE	1808519138	NetflixId	ct%3DBgjHlOvcAxL5A4hiyVBx__HWoaE2rLVfCWkGUJjy53CPpK5YZD6TdONLKh2uo0qMM13qeMt5v0exkox5gexTLS5tcCpV0JE8kNSGh2yl7LymESHs05Vy9UFT-fi1Ay3UYlBoAyyiGr6Kug4AEwgdaP68xg7emkVfIsDX9BJisUpvD_LpuCVnnL4LaTQ4UUqzKmXYMG5FUD8LMMGNmfW-w2uAJWrZ-zj6x3Eb2Jaz50Q3HJSWKYqYGOq09DF3ey9sfBRN87eupXfFY3QywqZqlIRGNLYnWFZEGTH3jz8pOaVkBXGI88UjSKZf1l2jHwhBN5I-66IFdxYR0EbqSLJXc4JDAEAhdvudze_t6aX7K1NJiQXsOdZjWAsrlik4jKvCtZgO_9fElxLVM_UJunj-pbcEm3q06eN1ILTcu19d06fEyxVe95jfUlnjQs6JP6efBURrrcfYdRRacbbYXU39Itf25ZlpOdmwhba1ue_WeQwCVdE62ZD4jfXCQCx8Z6znR-a1AULvPgsqQqBSQh6xkuRUkvCvoS5iQ2jO-0HYMQMDIvulbgxFIfvldg_WvZFOzAGATkEUiBbnGDydaOJjP_e73TxbJwvb90YoGF8nf9MS1uldI3oSctxVilql42M7gxNBL4-gfbkU55d4b5vOlL-QaaQU8wcOkbHF2GERSxc7KXAYBiIOCgymuedL0-FUuwKv9kk.%26ch%3DAQEAEAABABQb_XYjxoQUwJUrF8vWZpR11TSpWXSlVjQ.%26v%3D3%26pg%3DOAUM6WB75BBMRDHFXSPCJROEPI
+.netflix.com	TRUE	/	FALSE	1808519138	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+17%3A25%3A38+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7775eb2d-3da6-4624-9853-70f7670df2b1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808519138	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSd-5UkPNgIq4eKs0ORnR5Onc8ek6sS8XE.%26dt%3D1776983138853
+.netflix.com	TRUE	/	FALSE	1784759138	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784759138	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: sarazuccolo14@gmail.com
+– Verified: false
+– Profile: danvi
+– Plan: Standard with ads
+– Next billing: 11 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0030) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805821550	OptanonAlertBoxClosed	2026-03-23T17:05:50.511Z
+.netflix.com	TRUE	/	FALSE	1806712763	nfvdid	BQFmAAEBEIfVJwZgmnI8DGG01op-pgtgwp8HC1hVak6Cx8kZ3dLYDWatgmWSBtGVvQ4oMGTqwpljJ6c2AhnrbKXEj0lnGmBxU-gzOCDSkgAgA8xppMu6VQpw08pqDHjnbicK3VczJ2Dnjv3HHgeajmBYHE1EtygH
+.netflix.com	TRUE	/	FALSE	1809833030	dsca	customer
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	aebe2047-2e8a-4bb8-95a5-f877da9180a4
+.netflix.com	TRUE	/	TRUE	1806834390	NetflixId	ct%3DBgjHlOvcAxLNA2DFnjTAMZ3czIpHh4fw1dr99EORasd_R-KHp9lcKTrwUCZBPUvCTS8dna8djh_BxbEMeGin2RRvZgX8ukvjduRgFxueF4ftolW81XglCpgQASuSXyZ-ObQU4njeiocboQiu_3hjlFVZQZArJ9SNfjK-kyXyS_QHbdCJ61vzY2U4OiEREE0OSJzOlneza7m6wiieyCIgInuafXds66F0b0yHoMEY3SB1pu6Vsdy37FuelOmgHFAbKXBCXU5vgm8bj_TzPLVB1l1qaQ2aVDQteB0_Zdfy_Zpu2tHLUiTMyhJ-JuJ2YKbo0vl11CjFM6BNPt4EvNW0bldfBnEJyFLhALeQqdptz4CGLbs1TLTraVKWqkbZs-P4TtlKUBrFBNVPGo85sUpfeKPDuddQFhklPUBajlcrR6uqGTP5HFdnam0oW3sA2_K6KAWVXjyRMD-pPTsSkvk3m1f2KhRFHsZLh3rUVDr80OY2I1-dA-8dCWx0rr1xFNfmGU9AwmHyDo7k6vHv274cxWvkY4CGuchiJrzAHf5kwdKoGrwMjEO3pNovmDj4VpCsQlapMP2UdfoHLuMX3IKHd4hz4GJfh4pFs15U8loxMMwMmc2LrZQBGAYiDgoMiFSDqkO6CToqhnDE%26ch%3DAQEAEAABABRcK76GvmTIKTXeG3AIlQi04BUpRJOl4kk.%26v%3D3%26pg%3D44BSERU4FRE7JCSZTFH7VP7Z5E
+.netflix.com	TRUE	/	TRUE	1806834390	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRn--ejsNm-dBLKDTa7ymtrhtd7rhO_daM.%26dt%3D1775298390857
+.netflix.com	TRUE	/	FALSE	1806853647	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+12%3A47%3A27+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1a49d26a-3e8b-4343-b3d4-7c88a7f48c88&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774285551050&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783093647	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783093647	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

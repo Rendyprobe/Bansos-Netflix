@@ -1,0 +1,19 @@
+
+– Email: mariagrace.eder@gmail.com
+– Verified: false
+– Profile: Korean\x20Movie\x20ONLY1
+– Plan: Standard
+– Next billing: May 14, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | CC (MASTERCARD 1033) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789780241	nfvdid	BQFmAAEBEAkcAtHcqb3zuStLPy6Sk7RgpfYi3tWgKWmEhUkp_fkWtdFM0-uqSJcXTcyFZHdwJlBy8HLMH5eeWf361LFBzq3DMBdIJjmUv0-ekzXcE-Dl_C-RUfdVQaYa2hv7BV6uqCeFUvtOkVYBurG5645_yJ4J
+.netflix.com	TRUE	/	TRUE	1790231350	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfjYEH69Ntii5MrTid47prt3cV4wiO5tg.%26dt%3D1774679354583
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	b79fd8ed-152c-412e-95bb-f524c8beab0d
+.netflix.com	TRUE	/	FALSE	1782460901	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782460901	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1790231350	NetflixId	ct%3DBgjHlOvcAxLAA4XAXeuJSsxyED8AEcM9Os8_yMeH-vjjIBowxxKb6SNOOX3Pa6L2LTzIRuwp7WXoI6qresSrwZdh_GPYuivo-lKDZdhO7NeoJr5jXRvp6S6Zr2odgYQpadC5vP01bZxOt4tkHAexdUR65eXF6xImuAUEDFDoPW_VEVQW28IgfOcu_CpAp-SEYDRVPjkGAUDN1OtZ0360YjFfm52Z7cIc17IP0OPFrwN4l5mD2YxbtjDlvC98rpyBFxNVRDbz_s37vH1H96vXm8WLtFoGxpvBHr01MFe56E78hqNwgl-PDoKI_X97e0vDUkCDMisaKjtKvWoGib3bbm8vRW74yzbPfeB5qUO5QgV0WKo92VWoA-inMEBJMPRNSzEeHdhYaj9LXe_BhW7sSN7udk3E2nV7-SsBdo6Y9HwL0oFXSBHJcSArkV908Dbeh7ReHWFAdpeDGTWpmSPqtuzy58-TR_IHzXwraP1gmzxcj8sYUyG40EY0VbYoVMxPyB-J8TJ8VInvGsn2Y51jvlZZ5PnD1SXH_NGm9jK2ByVTdLDzIDEi9Yzi8AJBMj53RxF_uHvDmOCt6PXyczHP0dSkGoYAZZVT_HkYBiIOCgwmn_HpbJywJRwZHP0.%26ch%3DAQEAEAABABS3UDVad8cxLZ0_O8XApmIKreAq5c0i8dk.%26v%3D3%26pg%3DPVMFHICFY5DXBHQTUHALZ3DXNY
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,22 @@
+
+– Email: carlamonique534@gmail.com
+– Verified: false
+– Profile: Edson\x20Benício
+– Plan: Standard with ads
+– Next billing: 19 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7950) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805608230	OptanonAlertBoxClosed	2026-03-21T05:50:30.456Z
+.netflix.com	TRUE	/	FALSE	1805608516	nfvdid	BQFmAAEBEB_YwYTqTNZ2Eu_ZbAZvWNBg-2vHItUaZG7OObe6fAbxm0dtO-G3waeV0VujCjcKYIyT-pVoD88kxdXgTHHYsc6n_QIXhbq4y48nYsy7hRb5ZNV0HrCKOTi70WbpCS0ftcn2PCjpY4no0-llj_LqB9fD
+.netflix.com	TRUE	/	TRUE	1810255427	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA96AGCLWbm5zYkc0QB3mL5wLfWEVAr42UMWVhSuVfzpIXuUDoLNgx4IAJvRd3-080zfeUsX8jBMMBxiBWvP6hakcJ_w42kzeH_5gtPUfvkopdQa-zYrOwdTidIm0j2fMKi_AtcuKrWLs1Xgja2fcIUcr9Xgjx7TFV_it92yc4TF1dbWmRkO-5cyQjNL_Is_PNvv88JcdT-7QB4KU5ZmOV__a_iWzvqrM7EZKoF1cNU_3rucZHDEIvOX0BqDqdEFtkcoepjfkXiyrO3vBOe8SMjM3IflWOHU647wjsc0Ay-lt-_hJkxCDoQUGx8QzejcuNuLHZt5eZoRu3cB9CEoeeV0ajAXpc4Sa9FvejwPsOH0BcCZvLtnumC_-KxZsUWc1KG2YScOfEX_zwxiHIPvpaBTCJQXcjqmyWLN-ftUxYkT4xpmMG3x7UvxaOvPaN-XjEmpO_eKLKSHHBCMuxuD8cePJmsmrRpkFYkhrfGolkDDmm17Z6Ow4NWRgXOeD8TURe1cTv5FE-VtZ_EjV1i-LSb-vNMuRkgozqrBRT28aeGNcmlYYBiIOCgyZDCnvNbXQRSrrWLg.%26pg%3DBWCIL6CZDBGYLHBZSJCUM5I2IA%26ch%3DAQEAEAABABQ8jTNPcSURy8EldeXHGg1LbruiDeH1b6w.
+.netflix.com	TRUE	/	TRUE	1810255427	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROI0qkCaGW3q_AviGPhk1fqjVEaLqBFWg.%26dt%3D1778719435588
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	a0f1fa2f-8d1d-45ce-8c3e-f835accb0e26
+.netflix.com	TRUE	/	FALSE	1810288247	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+06%3A50%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a642467-4a04-4b3e-8b15-c8fc723edfce&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1774072230937&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786528247	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786528247	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786528247	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

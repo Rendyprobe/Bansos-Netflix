@@ -1,0 +1,19 @@
+
+– Email: victornoveloordaz@gmail.com
+– Verified: false
+– Profile: victornoveloordaz
+– Plan: Standard with ads
+– Next billing: 18 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801002167	OptanonAlertBoxClosed	2026-01-26T22:22:47.329Z
+.netflix.com	TRUE	/	TRUE	1801002395	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPA_ypLAxaWRElV3IqupHyX1WcoEbnernTsfCy5W656aKm4bv_pxMFnt0UUnbz5njOmFFH3sTfgNWXOnyizzxbF2Oh_m9fvO0inT__6InUA6F0NMBQPqP5WKrQZX1hQF-BqsQ6QQCNIkny73LfbxmUkjI3XNfhJzq3sLkBA9nYygS66yVvl96keVz3RGv7YqhGhA2gevdlGOJefZ57xqgngbUbLdzeOZ_GGQtlQHrhDFQlCj6hgxgrQGXS2VJWL_9H0vgSzTGXVpYZCjlgqQ_L0moe7eACGJnhNIxiIdMLdUa4psDMcHAfA_D_s1qxd53EA4xPEDGF_u2G_jNMn4GoBAQJr8SvQxYxtW3qrWsUYqZMeyRhV9jD_5oOBGHk7b3twPeoWOfWW_UgbuVv6Kv06cvBJSBdTzrL8-TMpWHTT0cxjTxQ36JTqGPylMEiwaDgz2uMdaJO7jX9Q8FFjgF20iIoi2uAqTI8nU_2LIVf1JOCgS-ozJjwQzq53eylblfZFpmolNSNdO2c4rUnPlX_iBgGIg4KDD9sdZwsnwlyeop-SA..%26pg%3DNPXSJRZW75DJXF6NSO4C7FG6YE%26ch%3DAQEAEAABABRme7-l7bxipb2r5lvuHi6e6cIWUeMS2UE.
+.netflix.com	TRUE	/	FALSE	1801002397	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+16%3A26%3A37+GMT-0600+(hora+est%C3%A1ndar+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6871fc4a-c644-4cc5-ade6-7cec287f41ed&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1769466167817&geolocation=MX%3BYUC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801002395	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSS1qnfCiMsdt-4xmCl7zV_OKXVouA8sUA.%26dt%3D1769466395737
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801002395	nfvdid	BQFmAAEBEIBVBXRR-sCAMUVPkA9LvApgpylCF40QnmByhbXPIrmPL0s7xB2B_dCI8LmHvHecHw6U6Rt-2jjLOswSL4PM-cAW6VTlmjYZsLnYoOC_Pl2k5cmcFkaTsNsmRFTNlDGCx6YwWhBt-zYr4GzXWkut_1d_
+
+Follow: https://t.me/hydrax001

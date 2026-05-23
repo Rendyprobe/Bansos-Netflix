@@ -1,0 +1,20 @@
+
+– Email: costaadelma16@gmail.com
+– Verified: false
+– Profile: Ricardo
+– Plan: Standard with ads
+– Next billing: 2 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 5719) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808241875	OptanonAlertBoxClosed	2026-04-20T17:24:35.023Z
+.netflix.com	TRUE	/	FALSE	1808241913	nfvdid	BQFmAAEBEJcc3THa0qfE8WyTCkDHLIlgRoicad3rcj8WxHqkzPh9-ks0V43H_AwB1NmdgnS2aeKZNIrzM5MnkPVh0APgq_xdJTIzoKeJZYY0EZ1m10_srh0nlhm3DAN_1lRWYA_69m06j4LM-ZpPZMVn14fj8SYn
+.netflix.com	TRUE	/	TRUE	1809801122	NetflixId	ct%3DBgjHlOvcAxKBBPKAYtSYQp8NWW3EuMpMBp__bQob8DQDzv5YbXeAYyPSxqArt-8FxRsKvhQqsBSA7_PIN6D3nSzdymOxGEessDKZgU6FAEHdlbC3CSKZnd1YjYiUaDaV-V34X38Fb5ZKZxsKax4Uv1P3Xwo5BqpeeIN85IrEQZuYB4Acd-MkziuSF0T2bfG9h2jMCwKJ4jhDFhsNPfiIyht1vbLPNjgezEdyWNEmqjWuzbNAn8Sy-5qw1OivxUmwc7yywmKg_uXGqraiijkKDHguxEbW2IbS-b6gfp2e2UtY5TEnlh2gJYuQT6kdvDKa2v9iy4HMNmZ3CLZ0tLzAFyOZtsu2_zchsJMa7-HmTyOR9Eep6E39tu5NSae9G10xvVpMN5LJPbACjNto8RD6ylsV2VieG0swpWAk58yfKPfhFlxu1FOCjVk0LA0AgTpJvDkZc6_lMuJwlXW0KcWTOUivfi-OkrJrFWgmhYwoQMVRgWeYItZIUOSZYp4FwhKEqSE44Bxj9mW9_gfyQaZ0xPIsvFPAcAb2uxatyhMAX2PohLhnTU7ftRNk_NsaZTzW_KtsuJueLoYmBRc1O9jW-mOpapbWxtWyPx4gImWTqL_0WFbWe40FIQVZcfP7cKRLozbPswzjq8rAxw_xjVo9nX_2AgynhdrUTM__4HeGzFL51gCB2BnrzHlPzxgGIg4KDHgncNMtsXxFZz_2xQ..%26ch%3DAQEAEAABABTWYEuMQabrSiBiXqT1w-crMM9qMefQr8g.%26v%3D3%26pg%3D3I35FHBYKVCMNAYNFI3JF7BZ64
+.netflix.com	TRUE	/	TRUE	1809801122	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1AiLpJADDd_1-iBNjWBQSbntMsffbUeI.%26dt%3D1778265117082
+.netflix.com	TRUE	/	TRUE	1781445295	gsid	2c442094-cc23-493a-b982-3ad24a9809df
+.netflix.com	TRUE	/	FALSE	1809840150	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+02%3A22%3A30+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=94449a49-13f9-4fba-a7af-a73fe4f7fe8c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776705875391&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786080150	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786080150	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,23 @@
+
+– Email: deborah.fridella@hotmail.com
+– Verified: false
+– Profile: Deborah
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: IT
+– Payments: 1 | SKY_ITALY_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1810406955	gsid	7c307dbb-5ef0-4ec6-891e-6585c6e3b16d
+.netflix.com	TRUE	/	FALSE	1806172306	OptanonAlertBoxClosed	2026-03-27T18:31:46.108Z
+.netflix.com	TRUE	/	FALSE	1810406955	flwssn	46fdb1d8-7ee9-47f2-ac97-d30958e72e75
+.netflix.com	TRUE	/	FALSE	1782412571	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782412571	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806172630	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA30NIf_ihHi2A6welKQEFgFMBeansXZu1jj0K79L1WYJmW6hgueIAVAI62M1F6jHmcFuqA8QgYRPfokXEZ0JHcrvGPVahQ1Jx13D_C3tn0F6e_GPm9w0X9FSOD8OppzYY7DLUgCcSkY2cJZQD2SWVhYCgTSl2-ctV6RQlljypEqaGBtqfHyo8NYty3pe-lTPy3Q07GeSnYLMGf7AxpNISlabwLOcv2Cq1rcf7rseSKxCaxxFvPHx0uPBLyVA2Qr4s-xIh2uQKKEnGUsFqPnjpqzCP7Ry7NVueLv7kgA-FtzDQmKnBnOAX2grksNzJduZryuVEiBgY2lE_9dvgcqSXOC4fJ_J-j8uKIM6lHJzooWKyG2miaYxhyaFmZBn_Ywu6HZuTZDk1rP6t-tEY_ITgt9ugG_lP-DoMDEvEmMd04g3qE5nrIgKeMAuTNn-URyJiDzb7-nF9SQibJONNsArhkqfajrKRRTIHtfermWLmRFzpv7WJnOHNaJ7nxunnqHtkI3D6m3vavPkYuoXK9EF5B_fYbapVowJ7B6iMLIA578iGAYiDgoMLyMsTH2kuoSNB_5K%26pg%3D3NLKUHW5QZHPBDMXQWARRHTWBU%26ch%3DAQEAEAABABTEa-rhnzBUGUstBAQ9LN-2OkT6R81Pzmo.
+.netflix.com	TRUE	/	FALSE	1806172630	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+19%3A37%3A10+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5fee58db-7951-4b92-9ea7-281927e15a57&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774636306504&AwaitingReconsent=false&intType=1&geolocation=IT%3B36
+.netflix.com	TRUE	/	TRUE	1806172630	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRoE8CiVHkohjkQldBr-3SSeulDSk7P638.%26dt%3D1774636627377
+.netflix.com	TRUE	/	TRUE	1809196630	dsca	true
+.netflix.com	TRUE	/	FALSE	1806172630	nfvdid	BQFmAAEBEDdte8fBJKDTVK8eL-w9OVlgBazxx_U6Z8x1PzBpCdp-VrXFG8n6hba3KgDpxC6OEta6ZZRP_HikHuAnJJ0jsYU1PcJ3aEK937-4sYvpPfOCiaEWtvU6rajLBoyHDIcZR469e-5lGXxCTKFdv_gbzyWf
+.netflix.com	TRUE	/	FALSE	1810406955	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

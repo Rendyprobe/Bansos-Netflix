@@ -1,0 +1,20 @@
+
+– Email: marcio.gadelha.santiago@gmail.com
+– Verified: false
+– Profile: Alexandre
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785267943	OptanonAlertBoxClosed	2025-07-28T19:45:43.297Z
+.netflix.com	TRUE	/	FALSE	1785268022	nfvdid	BQFmAAEBEC4avHhMMLmDEEyvJfYXmzlgBquMkSHPVo_xaW_6FMZUqEoTjEvuGTLtnLpwZPJHTXTDedMeIvjv0xZXiwUefyTJ0REPGK0S9FQscQGmTovnKWGCzNHIkYxWGAwrdZelI2QDABgiB-bde-tJQZZ0mxV5
+.netflix.com	TRUE	/	FALSE	1797617876	dsca	customer
+.netflix.com	TRUE	/	TRUE	1806688029	NetflixId	ct%3DBgjHlOvcAxKFBNSLJmZysnjc2GYIQnmvqU-cQEoKnEwaAnfvBYNpYLEsyhZVj2gdIs9a1qTPK_ByvzTIlwmasDuobxgZU_qGwAQsNIqfYU13_3LidxrljIFnuJ38FAf6w4kDiVrvYdavtag5dXb8i5BfbDQQTCdPjJU3jzfoaIubnXRpyQd8W6Ry7KwmipTO1jgo-YLfl501Dn7BmKLAe0j0lg2IoUrdossvJm0LVkMVtOLLAX5ih-UOym5JTlBOE5nyaY-d7-rl-UqKgihmKjkB_Pjdg_fI1CzOdvSCM36IicwlJR2kXkv6qROON2VFSIWvVRSlprFNmkWtLbRsbaFtBrz4TjmP0saA7Td3eJTI7K243RSLT4OZw4J4U8PO-REif4amZP_XxXcqF0U_DCzl55pAUygqsKCmrceSf0qrAA2FJQsAoxmFtOT7rrAZ4nJSdDiaYi0pR6Y5bMF3hzcKZ7JOpNw9ZbZQO_Or_mzhV5ysjayw9JPN3PTucMCYJo_1Hld0S6CgZ0wbfa127B2-GxtSOO0ZknIDzJca9f3oxzHpINNPbLqOBLQp0W8oY7UwKY-EhpTGfQ17TyAemoFkhfpsbMHnONwV-tumaGbsT0ugOvosd-0P0rJGvxlplhnDo5l5G1sptWAyaYv2a6KgjbrjXtoM1buRApeaOJI5FqqRhBHWCiTorxZZim0YBiIOCgyI1GBLUg1RgufI6Dk.%26ch%3DAQEAEAABABRVMx-5RKrR3ANfxwIygZp64lQnd-6Rj78.%26v%3D3%26pg%3DD465BQA7TRHV3PRNMOD4TAUWHQ
+.netflix.com	TRUE	/	FALSE	1806688030	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+14%3A47%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5aa4fab-2049-466b-9797-3232d90d8871&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BGO&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806688029	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQb07JehvevRBdbEDGDIriYmJ1vr_j3vPY.%26dt%3D1775152030569
+.netflix.com	TRUE	/	FALSE	1782928030	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782928030	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

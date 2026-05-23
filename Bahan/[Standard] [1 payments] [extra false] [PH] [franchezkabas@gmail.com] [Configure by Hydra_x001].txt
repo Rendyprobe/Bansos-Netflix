@@ -1,0 +1,20 @@
+
+– Email: franchezkabas@gmail.com
+– Verified: false
+– Profile: Neneth\x20🫀
+– Plan: Standard
+– Next billing: June 19, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****00487) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782733309	nfvdid	BQFmAAEBEJOhtC2t0AWw7TqJ0MlK76dgmGId5XL0o7ZtnWnnPyGs5egP2Wn2kiSGE7prrEIe3M6hklSqKDLtDu-MSOzYk2prc17qKo0O6JVbSCNTDqZHyT_7xcD3tdkS6zc_oAAnfZQjdaZOmwgHet4QpMKrQjI1
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	ee86f538-a195-4746-8a50-cbc7a16198bb
+.netflix.com	TRUE	/	TRUE	1793965651	NetflixId	ct%3DBgjHlOvcAxKJBEhOZOc_eagdI02sHTlh1nRtNmjw26fJnTchua5DIZZ75SpyoZOtW9J2xRnWseHnDxB07sMvHz0_2tm4EL7UQcbgXqR0HSL4w6dPEgVXfbeW2J-yXCYCvvdyPSgaNNNY0lJetjAgCyp9goJty_42yorQj_UTeKVvVIDynzyuz_donuLCPfm-JbChWnSMx6EAAv5HDK4YqihKoOfRdOHwnpBDs4GL1QUwN60cUlTNjkwtWqYj_2UJQM5yrUeW1N1rHsyjT24Hp3HAU6-20JqlfFcke84EUV48I_7cG3d-_CdCpR-ZzT12WOh4DB1kHY4Nh0T23IACDKrAw-0E4CeIncjiKQfKHuazlN0a-dXyo2bYd0fF3ZVvcQHL50zylLKuB-xKgmtI4zQAiMalimjUQvjw6LLWxGQHuOcUdpp1pOyT_o_zFOcJRU8gXIqdW2NWKztaNdixFZqMElVpaiOMnSsZz2cqu2fPPHB7KEb5vwyHVgAAwckc3nLkDfX99d_rVP4EwfNUNCaqVIEn9PEW4T5lBdPTd4YyWquj3afvAQxE2e2yS8EZjpRphQP064LVjAw9TMZP_t4Md76zdO_NcGHRD4fDJ0o43CGhzQcf1YKGUISKurJKfV0OFc1xSGLj4yFL4P3S3Y0eOgXB4PxPy3O4onnYWFwbzTT8psNyqyBWjEotNyMffejUGAYiDgoM8ghgfUCbclQUm5s0%26ch%3DAQEAEAABABTSgeWmUOZRTmhMmMO6g6bNmMtnA0v95zY.%26v%3D3%26pg%3D3QUHCF4ERJDS3L2SUO3JEYTGGQ
+.netflix.com	TRUE	/	TRUE	1793965651	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTENzt5wyGkFhPPKl2-_vpYtjdPt46sI10.%26dt%3D1778413857345
+.netflix.com	TRUE	/	FALSE	1786197731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786197731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786197731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

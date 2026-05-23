@@ -1,0 +1,23 @@
+
+– Email: amandine.flavie@gmail.com
+– Verified: false
+– Profile: BagDad
+– Plan: Standard
+– Next billing: 10 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 4590) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806194875	nfvdid	BQFmAAEBEB3pjrMpuW_ufFSqPEqkqohg_6MuvgOBB_DJtWq7TuITpg3zavCvcncEDMwKTft66fETRU5xKHj7RGLRQElgFUp6S_MNIpnd9xl51-iSZ0SKvX2zzSP7UJ3J86TbKzw5TAwN7ZFFgHoq_5bq4Zk7xEk2
+.netflix.com	TRUE	/	TRUE	1809218876	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	3007929a-749a-451c-bbb2-ce2cbf7eb983
+.netflix.com	TRUE	/	FALSE	1806194869	OptanonAlertBoxClosed	2026-03-28T00:47:49.621Z
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	75e335e4-1096-4b08-93a3-f958e4b89139
+.netflix.com	TRUE	/	TRUE	1809442411	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3SIHS4uZU2LJZxc_TmG0cooZAr2L_mXc.%26dt%3D1777906418570
+.netflix.com	TRUE	/	TRUE	1809442411	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAygOwmRelGLeqkXzxuTLnhpPHsw0bXC50Ccz4s37uj6VjShDZSNlK_pxM5emM3TE5QrCef3aqLwxwIKCHfqPIcDXRXRn4m4AOMdPIjWHBR1nx9pRd3UuvXDchxnBBKr614KcV-UsYrIsT5T0R7EZx-8zLIh6-cDJMqR6Lz7IrQciC7dFwKzg59JCklN1RTo8lKDSMXFD11lK_blu2iuJIpKuGlhb3I9ckLw-u7kKlYBRvEcXs_h10yyFwmQIXbBKtMFuEmDfZ7TVe_JGY6pf-X14mofJdBC5Hzgyf__7ektp9DN5dig5Y4L7IwGRI4EOlEcWHee0bzMzrGvpYJgs530MmcouFp2VG1xzPHIJwyDmpu6I_W9E5o86TJAzlkRCDHT7uOjhr6nBZuFjy_dAYebY3y2PwclfIAtQOQT5LZ-SYzy-cTl4zRABX6z2LcOcJ_XUv39Oa7Ztq7rMiK-IH4GKbl5zPmUF-SYviY4c5hMYL8ZiqHSS63KhQhtX11uiHEA-zY2v6IeKOjOdBW3weRn5jwjcnzu6c2zuGAYiDgoMsplM70n8DvD3KMiX%26pg%3DIRTX3OFUG5GL5NON2DDJDH324M%26ch%3DAQEAEAABABRM7cGLqzV2khGePAGbJroif4bzhjbMec4.
+.netflix.com	TRUE	/	FALSE	1785686237	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785686237	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809446238	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+17%3A57%3A18+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=97832044-940c-482b-a7a2-1b9d50edb274&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1774658869949&geolocation=FR%3BHDF&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

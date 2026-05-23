@@ -1,0 +1,20 @@
+
+– Email: jaxonville95@gmail.com
+– Verified: false
+– Profile: Drake
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: US
+– Payments: 1 | VERIZON_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797995258	nfvdid	BQFmAAEBECvJqKV6-bNKP711p7vHbuhgMdP3IIChRxGvJN037GuAKz4YFUlf8wnAKijKhMcyNCPAtXrfat30qwz72Nq5baS9sY9TPcWULxSFDS0RUS4_NhgvNDPUEV7cige5cJLQb7ngDlOGNMPHvhUwyXHBl5eq
+.netflix.com	TRUE	/	TRUE	1799633201	NetflixId	ct%3DBgjHlOvcAxLRA3J0gjfehmYU0V6JZVLsHDRuiENbb5u7LEOrPaxxJA9wsoZxxwlAgLM9lq7fLSOwWcJLroRDfAw5jfQMeOBL9J2X7eDfONMF1VxccvBoKHZWRvwEN3NrVrwSjIbhCgr3c0ruqRmb4YXLcjumhoS441iKoNTUJrf5IZs4gwOc86oM4EaWaWH4n6khdf2Xwnzhto80ycBaMBh62GBe0ItGzZ3lHD7JqBopJF3WaUeKZl9gAinPsFOJcoUIB7bu5bbDwFyLV6ixSpNuILEcqjmJv0kR4d-YFCKRP_EHDI4dD9Bu2Z9u0cfAg5yXBM9bUfhDtf_42akad7fBfE4Wm_kKGIqzIgv1A1nFCNFOWLUrc0Xu-gAf59MBhFl7OvcdyODconUIxq0ilMaNYS3NjK8eNslanCY2VGz7XnDpRsuwrRneIzthi-9Rt1JdSFRyAq3HPFimwEBbx8FG6Po5_zGxP3Cew2BJbJGT9aNwYUc8G5B0NIDEkBd7-NWVXiPueIYZEPuZZnDxC0P1MOx-BkowjsMYpV7qDhvxBeKJKhzGznz_PDYa6kaKrdGol4aZFZ7rPBcIcD2Rddr0hUvSANAfpuX8h6gu4zhAjTC3rk1lgaD84BgGIg4KDA1HFT3qqY-RGvS48A..%26ch%3DAQEAEAABABTlOn5HoDJN5Gr-T9A-3BzwJuP2msOs83A.%26v%3D3%26pg%3D5QUPAJSUXZG6LJYNR4URFNCUY4
+.netflix.com	TRUE	/	FALSE	1799633202	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+18%3A06%3A42+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=951b2929-efb9-4922-9844-0f224ce0a894&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799633201	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxmkjvxBqmdSFJgulWodoFBtAi3sF1lmE.%26dt%3D1768097200306
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	207ad91b-b6c8-4860-86b7-0c64ea714aca
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

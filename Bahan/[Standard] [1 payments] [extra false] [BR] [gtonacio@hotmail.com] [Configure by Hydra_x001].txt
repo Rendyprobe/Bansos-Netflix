@@ -1,0 +1,21 @@
+
+– Email: gtonacio@hotmail.com
+– Verified: false
+– Profile: Cauã
+– Plan: Standard
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8351) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781141563	OptanonAlertBoxClosed	2025-06-11T01:32:43.616Z
+.netflix.com	TRUE	/	TRUE	1808183383	dsca	true
+.netflix.com	TRUE	/	FALSE	1807576071	nfvdid	BQFmAAEBEDMj0rutHQqEMWd8cmqJERVg3n_34mXbqc2WC83ULXijRCzXCT_8AgrWjs00YNeajE6Ke1moWx3lxU0e8raeYSDWh_e-LiJ725EuO591_n5Ppmaj-K26g2nZZzPbeRvtEF5r_AMujQ5JPSWR1yyYrPBi
+.netflix.com	TRUE	/	TRUE	1809744842	NetflixId	ct%3DBgjHlOvcAxKzA4TKJ82rJGDbL_i56wZAbt1PjGpgB7vYqVfFRJam4jroLgVsHkTNsHrltTGJAM6QtCm3UgAH2EsBTR4lmYzvcYuC1jshlOCkdeT1Daasi_sNsWxCx0WgeMHKKh7TVyEUzE4kFakPM_jr80yGDHvKn98jTWBcDtTbl5QI7BlTPv8Qb_gN8R-1jIniOQ74q3S3fwt8dCqOYZY9Ka67jvC-0czLjS9ScXIRFVQdkqudZUdsfsHhtYjoip2da61dVAcSvsOtudC-tPRmdmmw_jkcdwLNZwSeKUMxVG32AkwQo1e8JrMqUsUyF8o_Hgq8P95ho3stZZoq1hn3Ms0am1AmUOdAK4q2KOfihB6HJLH2Av52TPq_vpsPtKYitUdGRwiYZI9mtQ7gnj9HPgE1dWBasCamRIMDn0kENSwkXk6TeYwnpog0_d9AJ3RaJ0Xr8QgZ_F62lmzi9RkqpTeMynnN74RHp4KPtksMOjR7r61q5xKbVkeyTPC8hZ4DliUq5qSYDR1fT4CYttWkWOegGJTuBnpEcuk2qJ7SglMLDakoblH1lWFQuNbDhnN4jFSWHao2qzuzjRgGIg4KDIIRHTbjiuVNP6_I8g..%26ch%3DAQEAEAABABRUVMPXHSwF9DxK8lBO6TZxp9usDhUIk-k.%26v%3D3%26pg%3DKUQFEU2JPZEAFNVQRU4BJYRDRY
+.netflix.com	TRUE	/	FALSE	1809744843	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+23%3A54%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=99fa786b-5376-430c-9881-7186759b42e8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BBA&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809744842	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0hUG1rEdxJ08cIj_Hj2XU5d0rpCLS--8.%26dt%3D1778208842188
+.netflix.com	TRUE	/	FALSE	1785984842	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785984842	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785984842	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

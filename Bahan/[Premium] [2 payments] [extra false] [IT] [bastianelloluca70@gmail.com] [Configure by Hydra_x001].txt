@@ -1,0 +1,23 @@
+
+– Email: bastianelloluca70@gmail.com
+– Verified: false
+– Profile: Luca
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: IT
+– Payments: 2 | SKY_ITALY_PI_BILLED ( ) | GIFT ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806968182	OptanonAlertBoxClosed	2026-04-05T23:36:22.267Z
+.netflix.com	TRUE	/	FALSE	1781445298	flwssn	bd2e0f1b-bd3a-42d3-9c7b-5d0aec33d503
+.netflix.com	TRUE	/	TRUE	1781445298	gsid	17d7908a-bbe3-43a2-a301-5bbbd90b32e1
+.netflix.com	TRUE	/	TRUE	1806968217	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA0weto7uYsCj62eiJbWA7yhR6iYPwlFczuBr6IYbp2ifi7byY345dnkkg3BF3jUFny-j30RPgvQqr265XeXORaz_KNFcNSVAqWgRJFGU1RPF8H6mq5VhjbniyZqwHoo0kaNpuoT4AUNqqdPH8qiVh3lpyFzHdwsSIsyHZLyYsCWRhkJ7VQ1AtRAzENRlc40-PAxolDP5mw4iYX6hMUwMVpRbLCohu34Qzm8tWtbMjjnt3Q6yzSBKNmTKaErqWh3u3UaQUjInYjbGpDSzeAfbj8YrreR0s2AU23-can1TyLaa2ZEPKpa6Aul0rfmjO93MBPKGwYTT8dgtWN0MzavXbGXN-zox56jSddWJBP0h1ryNDxZmeMCuCKtVnJ1ZkwrT5GJ6pJZQf5cBd2tAV5NeX6MqezInTvilHwpabsAjno9uxTD54kvWzeJzQu61VujQaG7-BMy3jDVwvawq-5DnenShyiEN3lDcC8MDT0cqg7ePFnGriO2KNau0ZENpVfvGTaTNfSUTiK0kX-RcdGp912akV2cxnm7R0JmQGAYiDgoMVRjPFN31-FWeBHOr%26pg%3DDVO7Q5EFZZEZ3F7VZBXCP5RM2M%26ch%3DAQEAEAABABRQ7BdqFfU-YKd997TlNh1S7Ud_G7Pa5NE.
+.netflix.com	TRUE	/	FALSE	1806968219	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+01%3A36%3A59+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42235e54-1641-4854-927b-30564af8e9f3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775432182676&geolocation=IT%3B62&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806968217	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQlk0HBCnS_Fr5dwD9btsA9GKtLKSjabKM.%26dt%3D1775432218791
+.netflix.com	TRUE	/	TRUE	1809992215	dsca	true
+.netflix.com	TRUE	/	FALSE	1783208219	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783208219	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806968214	nfvdid	BQFmAAEBENlzSKJ60M6oZYdqcgnUWWJgKsD5Qgs0qca483UgZKbYX6H57pBMrR2AYpE93sn4Nrcg8AANKKmh-Mi1vFuaMMEDLI8saSgf72ysBv0mY9NRtfNFcAvT6SHRBiMusoAyT0ScvDRnrYumcGmNpm9q3mNy
+.netflix.com	TRUE	/	FALSE	1781445298	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

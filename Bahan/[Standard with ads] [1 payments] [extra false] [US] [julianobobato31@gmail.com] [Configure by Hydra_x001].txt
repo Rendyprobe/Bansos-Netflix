@@ -1,0 +1,19 @@
+
+– Email: julianobobato31@gmail.com
+– Verified: false
+– Profile: Victor
+– Plan: Standard with ads
+– Next billing: June 2, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 9172) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791838451	nfvdid	BQFmAAEBEP0cW9hGECf7RvaZ2QN3pG9ggnn0OQDuA-omFPKSbZUPzSPv1xu2q1pLlastVy1qLyqd1cL1hMB-1qNUax8hFJGCf0oF9Slsqat3mAnntWTgVNJ1xhiD_hQnbnRXlXOlw1uUFEzJnttEaNX7gWJRybUn
+.netflix.com	TRUE	/	FALSE	1798665425	OptanonAlertBoxClosed	2025-12-30T21:17:05.929Z
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	604c78ca-5ff8-488d-b678-55674af5ab7b
+.netflix.com	TRUE	/	TRUE	1806341780	NetflixId	ct%3DBgjHlOvcAxKEBHVONLJGrPD_f5gHFTTKIQNDwE26zZSjE9cmjmMjKGpKOskOCG_WV033B9eEVf64PAnsNsoc5f_tpc9X3WnnzioYcYFb8wB31pzlALbn1Vn809aC3yivsqL5cpgGazoTil5AjDy7G2KU_m0FV15a0uRld1LcVYT9NKklHjJUI1YgXPwjfer6bkuMH9KIusF5i27tQmIxQ6Te2S5LWxG8Kw59wHifRjHXRIzJlOMds3ePnQ9IwJYWpDYa9MMKltYzDOG5hj7Sm0y0bHhreptWsTQ_A8rsXyRk3AJdDh44BwyW5vDssPJ243PX3HLN6auECqXZTFExfuFAY3WcUoThXgygAAIi5xHYYYZnmdNyCgzhyGETlJS6PoTYh2rSmS50gnxhNlC4i5Yf6wZNtkaJeXLBMk-K16_smay8AuVveF12sbxbYm8_w-OPnI2UcFZMzT_hHSCGZNkU68MizQz5q7KjS97tf_23dofw-Y3bCGBsnAz9E42qwS9bNo_IVYyqS42ZPc_ej0bVqCQWhXZqtW8W1JdigWFyoLLa6Fyhx5U1jLA8eYdxMLg0PnksVI2HMRakE3Tzu3YdE_JoV-nkzp3JrELCsa8qcNEo3t022zD7FyTCJXEwOzsP6X8o8EJQYBAqnfEcFp2LhtX4OgqhQ4V0KUGiZgb6JSTr1v2CjNuLAusmdhgGIg4KDNeP3vt6BIJP0K9g1g..%26ch%3DAQEAEAABABTinrPgO7mnoToH7eJqx3sPM0rVUrtrHPY.%26v%3D3%26pg%3DHJUIUO66DNCDLHXJMY4F32TGZE
+.netflix.com	TRUE	/	FALSE	1782581780	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782581780	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806341781	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+13%3A36%3A21+GMT-0400+(Hor%C3%A1rio+de+Ver%C3%A3o+do+Leste)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a93bf6d-e80d-452a-90ed-4b099e6beac5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false&prevHadToken=0
+
+Follow: https://t.me/hydrax001

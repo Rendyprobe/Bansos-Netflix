@@ -1,0 +1,23 @@
+
+– Email: russelldevers45@gmail.com
+– Verified: false
+– Profile: t2
+– Plan: Standard
+– Next billing: 19 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 1894) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	e99853cc-1dd5-48b1-9f36-ccf5f5a2198c
+.netflix.com	TRUE	/	FALSE	1802120635	OptanonAlertBoxClosed	2026-02-08T21:03:55.475Z
+.netflix.com	TRUE	/	FALSE	1802120659	nfvdid	BQFmAAEBEFOssXWw9eyqFcvfsjUkQoxgMIjAcWtqbu8phDA2frjEYdr-ERKfUlvWgaXV-cNrHi35hVSkRnqLQMoWJusRqZIYOISi9gSoPTWQajweDZWxLiYMZ2NU86h8Q27mFvV_tFkpe14S-c1pAeCr3IAqAfMR
+.netflix.com	TRUE	/	TRUE	1805144660	dsca	true
+.netflix.com	TRUE	/	FALSE	1782415726	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782415726	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806175725	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSca4F33nE1gAAUe5652Klv_Pkw9iJkfmA.%26dt%3D1774639711586
+.netflix.com	TRUE	/	TRUE	1806175725	NetflixId	ct%3DBgjHlOvcAxKQBGr80WG6Z4H_YMdvcFj1FfjEwOWakcnoNrnY58FTVKfLgXCx8LOyKSLdBy0L1m9OiNtiIY3wiXFxh78KcvmJiU1SUFhFnDYHFnRIMXg_znns-uBqiccTl_tL79olzXd_C3ANFujTiiN0FMb2P-fpxGriPK0k1O5Lv5m706QtPTKWWiCNGZZLyRHLu2ra_ybC1SE9o0rPXrYoa9PO4jDRI0Eu7tiK8KcNw5HNeAzoqgHoiWV53egMypfbJ6jROLbvO16U4XnhebTM5s7bNiBYHfWQUILgKW4bUvg3LEhIDc0Sa_iq8v9ew4W-FLNd_LREgjZ4yLRQNTNLelvXIxsjc0ANrgfIkPt4i5oXwHpsNmKzikOZ9M0Zp1pvtUNQDnqSGMsFRTyBpYC7hsD76LOeiugPPfji99nAeDy2rM1Dc9VySGRz3TTnUp_8575bcHPYYCNUV31cN1a6XPemvLAS6o4JUdq6Pr18-XqKz-1GJqZ9zoiSOa0lqFXs2ZIUmo5anSm84fRTfruBnxaWSstDEEjDq0T5hyU9AozfGFcdT6e4mumqMVn6ZWurb2Xy2X2QpsSv5jtdZ1Bk9WoM98g3bgPnu-zonv0ql9VdAVWHNisyXef_cDVDy-hHKoJUBM-vj5LHxYQ3NUdR8P-a_q-zxIgGYsTCvraEwYbOj-Prxz-4CgVS7QgZeDNnNvPKBmfCcBgGIg4KDNa7mQHQnJwFunSksw..%26ch%3DAQEAEAABABQc2BQiXGOvivYKSJDMdoGWasqJIIHSSQw.%26v%3D3%26pg%3D6P4J3E4RIZDYRA3MAOCDQZQJAU
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	405b4557-6439-4823-8934-c22ca4ba0771
+.netflix.com	TRUE	/	FALSE	1806175726	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+20%3A28%3A46+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b915f1c-e9b3-4c91-af5d-1840a7bdb155&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770584635834&geolocation=FR%3BPAC&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

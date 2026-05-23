@@ -1,0 +1,22 @@
+
+– Email: bkdelao@hotmail.com
+– Verified: false
+– Profile: .
+– Plan: Premium
+– Next billing: 12 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (VISA 2967) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1806121434	dsca	true
+.netflix.com	TRUE	/	FALSE	1806034085	nfvdid	BQFmAAEBEGDbpmpJ6AJDs7hyzCzrC9VgoiYWtqy5WPKRYe0VyNBmsOaCgCto4Ka0-O5UCx5nSdPqShA6L8b_fP_jdihZM9HHB20aeSH1kUgoTwgl0TXYD9WGob-N6OhEmvdzBXmP8BUW7W1OAwLJtMPCxYwvd5NH
+.netflix.com	TRUE	/	FALSE	1806821362	OptanonAlertBoxClosed	2026-04-04T06:49:22.395Z
+.netflix.com	TRUE	/	FALSE	1806821362	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+00%3A49%3A22+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7518d702-d461-4c28-a56b-054d27cd2e03&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=MX%3BCMX&AwaitingReconsent=false&intType=3&prevHadToken=0&crTime=1775285362703
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	a8ac7d17-38f4-44f4-8742-1088f98ee5ce
+.netflix.com	TRUE	/	FALSE	1783061355	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783061355	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806872287	NetflixId	ct%3DBgjHlOvcAxL_A6JIdFAFQxpjxG5Ux37KJMf4g5pgc9RxgZADmjuNz4Kb7r8l0LFN_ZFyB7veL1stscWaGGd4VINjk5cbHt-hwY1sI31GJNTNvBxokFwDbIMtHZ9MzlK7fH3ZWMUIpsDxMTn8yNfdfo1r-FAUU989PIfDfQi2kNMyLQ2B9AnHSBVHgsaXY2NTUiLBAal5RO_6pO088pLo1aA23ggQ4s5lhhNSpYiVXVf478KlTlu803ouY1pxHZHoUuqX9lo3DuaPbfOdEeWfRhNCGLe5K6Awd8vxmNTe9wbIwWeWqgdGYEQac-DBtUeP4jBYMzPfBZIrMvROEzSQXKj7Yi2Duk0x25NFRQZQbFJsJ0Aya0q671UICN-5n7w7rUH2b98mAtK8Pn3uGzERhaoQ-cmHI2uB9_nKgpQ8qcQBxZ_46LdTd99Ykw-2Uhb6I110bGsHoi9o8Hcj3mcavEai72hlqDoJCN5gvsgao5fZYgPL7S_2hPoykuOtqXBZgiTZoMXoTtxGOfpfImsqT8h1py_7rbXh6VlOXH7JEH_3pzEFmwLjlFtdd9cEcaCcgNDgkvyM6Q88pwmb-Fay1PeooddPI-4lGtLANRUqj7xliFr44bwZP9Dx9jNRtpq26_eBAc7y__kz43oKcZIrnZ9DA4vlnagjwtsbUsKtNgSNYQuI9lW3bcEYBiIOCgxP1LeBaduJq5Bxanw.%26ch%3DAQEAEAABABRJ9PFC-ebmK15R-W6Oup07pkCoUm4MVSg.%26v%3D3%26pg%3DH2ZVFMHNKFBDJD36QU5VUAU76Y
+.netflix.com	TRUE	/	TRUE	1806872287	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTB8MxcVv_rcwGnqde3Cdqx5747bsy03wM.%26dt%3D1775336286652
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

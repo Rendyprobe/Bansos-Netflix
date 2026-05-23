@@ -1,0 +1,20 @@
+
+– Email: pedronunes.rocha@yahoo.com
+– Verified: false
+– Profile: Pedro
+– Plan: Premium
+– Next billing: 3 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 7432) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801651546	OptanonAlertBoxClosed	2026-02-03T10:45:46.457Z
+.netflix.com	TRUE	/	TRUE	1801651572	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA1fXe8hIgpm5fa27XVEkEEqPgZoOWUdGUw0oKBeHSc47-VpXhDA_T61_A1kcq2y2eK0Z1Q_MERR4PK4zAhr_hHpDl1eEX9ibHD7qiRr077aABdwPaiyWcGsbL5aIaoQEa3Rc7W6KDjKfw7oTWxRi9WqcruzCpZVYEDu_aUNqgbvKcTUNDGiFaMUOgt5fH2poFXJgFWJftrUWRT0ca0M_HySsDupD3hPGKIILUSE5qPvGQoA30N_IaeUSy4x6ZzxxtLa62NMMExYxW8K7wxmdBbca_Pqb1JijFFNh8h9pOrXVY29aRrphLAkrrnDakGSXeUJshfYrUY2V-z-7GmFl24NNI7B3U_e-QITdy9Xe3XxtWY4xOWrkxfENIJzh4eBuB5j6VgeMKhX9tTAUZsQC8DmsBUpKj0Kps_u9_KTiAayaNaQx7ONXMzzhcpazguVcpxu5DQ2mKz7wsKLsTJGUU5qPW-er-mRtAuqCifp96-jBetSsd5CodZOuNulJN1_xFV1fuH6anGIYBiIOCgyZXeszwokngYwosS8.%26pg%3DDEPQFT5HKVBLPJTIFSVRSHHOCA%26ch%3DAQEAEAABABQkYrtLJYbz_rUoHUjhpK-3LP7FXXDChBE.
+.netflix.com	TRUE	/	TRUE	1801651572	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFjqylVf6EQCLsyEXCOdrcp8ZWyxyOJ58.%26dt%3D1770115571314
+.netflix.com	TRUE	/	FALSE	1801651572	nfvdid	BQFmAAEBEMd75EE-b0hDYeSF0jaov4NgJh2Vbiu4ILJyn4V7SJdJ1b9SRiaNqzQkySJBMeaJGZeAC97KQ1RKgCHI2KYynbRvf93mL-dCCYHews026xm5xvJVNSZ6pZNdt9Bk5gtQ86BTH6YIz9JkdJRQWJkb-myd
+.netflix.com	TRUE	/	FALSE	1804675729	dsca	customer
+.netflix.com	TRUE	/	FALSE	1801681796	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+16%3A09%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=635255b4-ee82-4e95-81e9-fce59f5859bb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770115547045&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/br/title	TRUE	1804705795	dsca	true
+.netflix.com	TRUE	/title	TRUE	1804705796	dsca	true
+
+Follow: https://t.me/hydrax001

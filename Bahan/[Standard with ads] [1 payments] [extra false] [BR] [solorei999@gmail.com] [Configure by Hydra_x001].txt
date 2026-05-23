@@ -1,0 +1,19 @@
+
+– Email: solorei999@gmail.com
+– Verified: false
+– Profile: Marcos\x20de\x20Almeida
+– Plan: Standard with ads
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 9099) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803226579	OptanonAlertBoxClosed	2026-02-21T16:16:19.918Z
+.netflix.com	TRUE	/	FALSE	1803226584	nfvdid	BQFmAAEBEGNTB8_hMmTGj30licNB0yFgaA95nTiZyN5QRRFPzpOpqKg8X5V5R36xBpLpmap8YrontiYtJAC7_d_k_KowMtggcSAWFjRvgKY1AYPAkm4eVOGPPgxtuBK8Ktwag3vQEdf2TYOA1j2AxERtUBGFiTqy
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	617e8314-43cd-48b9-9f1c-1aca6923a3f6
+.netflix.com	TRUE	/	TRUE	1806777792	NetflixId	ct%3DBgjHlOvcAxKYBPzWopgyunHrSIu5c9xlEBjkhLMQCBlZFJpjFxD4roavQRPwh6jwTe9g75N7zOJtGGc859MMIOtBeu-L31WtsKBCOY7LP-gG8Mh5Gkx5ApzLVkDnb86QxmHoKtguMtURKjuWVR_vT0PnATyaVxoT3sDgaJJxOhbJY8zCTs7CaIu1VdVDKJivKUSbqqPlEDOVx4vNZimbI-dZzgJJXToKTT-FpqMU1xL1Xyx1oXDUJ6YelU37wUxXi9TC-mAExNKbXuliOK3bE7egAb43D6ZGnFFZcIQ9z2On6kCiS32s9YgP3UvpyL8SEePkVEm9pVkqwpyMTybCWi7MyF0jBg5BvJT8oVnKgmuA75Y0SIh3pzUInIsbN2iMOX00aSe6Or5uHyK_q-UIhxDWAnJblxgn6VVbMrHxjh8Alq9AJBidQcfvV1DHenYBtZHfHCURS59JqGgok2RsV8osHL9nFABw3hKcur8BIb8LM7CcJrAp4j6kpXayrjekaC7eYzwxokWHbxq643Ze5L0Oi8xZHp6mBvgGoFwVQd92CQNqhBAwGZKrLVLTN7hLCl-6FP4NcHLPNdbYqkJMeSforp3ltD30vTPY4E1Gt7S5OmU4R2WFtg8UTsM642cWF_JG0N_tqU-Gce6oZPE52VEaqNmiedjxAMQSx_Xnbz9RSB9UQZRT1zl5wgO-oikeL91nqb2PyMTxnuWFtLbvd3VKGAYiDgoMQvfaVyZDYG4R4dzo%26ch%3DAQEAEAABABTE5k9UJza-CyJwfV19rDybl5gDs2v2K-U.%26v%3D3%26pg%3D73U7QXKCPBCKBGIIF3EDX5ZSLY
+.netflix.com	TRUE	/	FALSE	1806777794	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+15%3A43%3A14+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a69940ab-9f24-4c03-9e9d-884d39acbe63&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771690580364&geolocation=BR%3BPE&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783017792	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783017792	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

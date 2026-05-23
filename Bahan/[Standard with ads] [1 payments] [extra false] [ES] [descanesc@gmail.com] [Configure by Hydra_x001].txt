@@ -1,0 +1,17 @@
+
+– Email: descanesc@gmail.com
+– Verified: false
+– Profile: Gael
+– Plan: Standard with ads
+– Next billing: 24 de mayo de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (MASTERCARD 7055) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785598619	OptanonAlertBoxClosed	2025-08-01T15:36:59.375Z
+.netflix.com	TRUE	/	TRUE	1785598639	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIPO7o1GoE0Xw0u1-hI1GbwH9PplE9ICY.%26dt%3D1754062642829
+.netflix.com	TRUE	/	FALSE	1785598634	nfvdid	BQFmAAEBEH9uDJrTiLEHevOLnZTKeQxgnBJaqAROOFYBj9w1n2UdJjmLW0hvaowxbTXsdHIQWot0RiCxMFBSx01NfUEKYZU51qvlnnzHngSYWy8tyrPEA2ldJOKENiaSvosTgEllnFw64hcd09OPt5OkwVq4fHPi
+.netflix.com	TRUE	/	TRUE	1785598639	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AlzvgQeevOv0q-VRXBVeNrlLtDV8i9SpjbQUMNkjER-dTVLk3aDESbRJMxf-ICPhaWAxxSxeRw61Hlsw8u-vFv2J3tabTVkUsD-k1qH7pY-1S5N7Ljv4h2EFbOKZAdX_QZoWTTT1IAIomFRaWKhE9BaWj7Lk1bQtIeWD3icvq_CQRUmTkg1tfT5NqA_CKpuuqW9aOl1PRqq8AVoliepsyM0Gs5F9cONVjnv6rL4NZe2gy_C2RazaZT5GFc5Ju11PJeGPPRzb987jmFHqiSU4UMavePjXmMSeeZDWe5cGU0VIvWfcLu4T97bAnDXeBCou_i94UL21RSomu6YSKtMubrrWb08ynLMXHliVWxyxPLhFMM8zC0BU1cKzFmBqmpMsHdi9-1Vki9c0So-wx1XT_Z_t81g4bynKfJYSGa3AYV4CTJ_PhIc_q1a5rfF2LbyOo09krmSLDA_vJCGySF_Rn_arADewjAscuVD92R308pMBCsg-AUzGXQgYBiIOCgyjPqg2H8L2iqvRw2A.%26pg%3DFISSSGB6HVBETEICRE6F6O4ZHM%26ch%3DAQEAEAABABSFRscDQDVCr_ucng99TJ3BayodAryHbcY.
+.netflix.com	TRUE	/	FALSE	1785598691	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+01+2025+17%3A38%3A11+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=954333e9-84e8-4fc4-9014-514d4fd08ee4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BCT
+
+Follow: https://t.me/hydrax001

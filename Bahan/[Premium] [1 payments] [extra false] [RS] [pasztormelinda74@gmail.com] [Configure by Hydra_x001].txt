@@ -1,0 +1,21 @@
+
+– Email: pasztormelinda74@gmail.com
+– Verified: false
+– Profile: Zoltán
+– Plan: Premium
+– Next billing: 2026. június 4.
+– Extra members: false
+– Country: RS
+– Payments: 1 | CC (MASTERCARD 6513) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	6dd68f88-46c3-4b63-a644-5658f5ce2890
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	8060b33a-7a1b-4902-9511-ca199381ba5f
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAyOwEjIifWOAlPxwEXZA5n9WOpDWlsUzUT1JnLrnrAsd4LJ36YdeWr9H5P9kaN6wd-gMhvMSpoH-Cw7TJmcOPSV1Fj_tj2G8uIUysnC7brLmPvtR2nqQeWUiY0Ua8UKxvCtBoCGNbnNCeeB0Ux7_VxHGVMBPlaiWP453ftuCZx0EaMMEESosNkgb9sGBrEpWoYtWukBdmdplIAyzczhdC-4yups1RD6jtTV-vxJze5WUqnxIDH8Y3XjzTR_GcC2uzR-TxkO5KEIHwEuwrY1KWmWkI3E6-7oqF8DGvrPzBv2-bIivUDGUDCOQKlw-tpmIdfuYusBIScD2J7ggiJcm2fmwj4sooY55sHyq6o61ZLuMSySBVufsxqKjEyPIFgd1aecsKDct3kq1cSXylOg7QimoWGR2_T4myF5WN7OdL0cVv3xvhd4-UqLFhAMrZiicirBIY12jYPBs22ksxndWEOb-pnr6fXdqXQmMtSfi36_qxjPaiRFsCbFni0_O4sn4EzGykVFt9UeJ6BlL2fh1GECqJDsiBp1C7RwYBiIOCgx79OteKVnRjOf1sO4.%26pg%3DD7M5CCYNQBGKVPVOVFANWYB76U%26ch%3DAQEAEAABABS-Ebg4xAd7AU0aOMAu11biDkhtndf4gRo.
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVWlLL99tquiwCSKDUJg2qEIDeBoG4iJM.%26dt%3D1776458293469
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEOrff17FnO374zQfNn4gfEVgzvfRxEHQA3O9mQg063MJK5xOOMoYpyaAWAZiEBlv-lyu4R0LjGwCyzWTZGmJDUzsX_9DV9irvmgm42_3R72OmF6bQNRw_y5zvId9as-8Awl_Ul4bAK-hpcyZ20_pCycG
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+22%3A43%3A55+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2568d3b2-558b-4de9-99a6-e3c3a3a722c8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776458220714&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

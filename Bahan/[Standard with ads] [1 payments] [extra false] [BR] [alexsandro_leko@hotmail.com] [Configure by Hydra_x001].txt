@@ -1,0 +1,22 @@
+
+– Email: alexsandro_leko@hotmail.com
+– Verified: false
+– Profile: natã
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1808887256	OptanonAlertBoxClosed	2026-04-28T04:40:56.840Z
+.netflix.com	TRUE	/	FALSE	1811911292	dsca	true
+.netflix.com	TRUE	/	FALSE	1808887292	nfvdid	BQFmAAEBEL57iSo2MiljwGOJSQyosXZg7ijY2cJWFrPu4SmKShM1d2LWPDNbGsFvmWjWZSzVddyVGn9MfrA0kKcypFFAdvzjFldlcEyMYj0xiwqsrU3jJZvvMxgOWeLDHneb-giKxW0yLQr3wgZs03x7cZWpaBtK
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	d385c746-afc2-432a-9104-3a19b7bf8a35
+.netflix.com	TRUE	/	FALSE	1809440657	NetflixId	ct%3DBgjHlOvcAxKDBHnMoyzAnQXynaCUxj5o6Wkvwp6jl4OggxBaf3o5lgwdV3aU1vNfxbgYrRKP-HgksfFthv_Xamb7r962s1sMvtiZKSwczdAj9sOKVDIrByo09VLkXjwnmIElEySWg7Y5H5Hoo75jW1-yts5nUFDVx-BTlxg87TAZEe_zNfTxb23ZvE-6B4QzRj-Iz36Lxqzc4dfboWrJ_Klawgb13trRYU2zNwuc_kFxPk-EHrS_4euPCDUEJA_ZpPe7RWzJcIDcyEZ19lAqlRz0aCtiXUCzOA8T5nVYflUEie3T-HJZcKrqjo979P6dguMea93Qy7bjTuNllvWNwpWYwrVKIHHZ3IncVPxDpgByW6HMQUTyiOMqHRNksx5aPOBEmnAwHTwUvq3mnpmqnl6HSFgb-duHehRgtwVKCX_A3G7IQ3XvwNgELXYnz7APietdkvW78vTwvGzMtQFWrKCER01eGPRn48ldsTlUafxpyzdwMnHjwu3zEpuWYFgLW_J3xgpCydSIY6JaQZ686K8K_lts3UwzqivZ8PK_qKrjA5ZYVEKBWLYe3Q75mui430jt8Fmgh5mcyF5BPJ_Jdm4DS-SIg9aNalwUf7xYUyK0X57Ds1JPs1zRghedlg-S-D01tMScPTjH8gSBAQ1YubSMowg4fuGgwhmWoASgkeGKrk5Pxihs1rVYMK9_GAYiDgoM6ZnlCTYUeEUIpDiF%26ch%3DAQEAEAABABQaxR-7PUpluaErr8hiCd4NSJxIKm5meU8.%26v%3D3%26pg%3DWEBQQ65QBFBRTOLNT5ERWMJIPM
+.netflix.com	TRUE	/	FALSE	1809440658	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+11%3A24%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+do+Uruguai)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e05032ab-5aa7-4844-b259-7b6e70fea293&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1777351257298&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1809440657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ5cUSuEydw-e0ds3UFhxWIyEvaBMuhbrI.%26dt%3D1777904657533
+.netflix.com	TRUE	/	FALSE	1785680657	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785680657	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785680657	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

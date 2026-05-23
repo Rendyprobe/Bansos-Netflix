@@ -1,0 +1,20 @@
+
+– Email: fernandacaversan@outlook.com
+– Verified: false
+– Profile: Leonardo
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | TELEFONICA_B_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809472866	OptanonAlertBoxClosed	2026-05-04T23:21:06.247Z
+.netflix.com	TRUE	/	TRUE	1809472986	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA-tqiENdeiBqnJse2i69HEIuy2bSXr0b5_SeV3aZkiCk8u8x51gB5ktEqSfDMHDyWdN_rmw4lMu7aAT2Yh3kXdHZpboclC4VroYJ2FuJMtsazMflF9cwmKwHA2n2q1cLGjzzWilgiFvPWNlPtZ9g11FP9KLcF2KRdh5raRfDqeIC4d6lnDbrs6glthaj5Ip55Txh_xBAAnH7a0BNfynBwuSdTgo-6nXnaPlX5HUu3f9AlCFQ492RwYcSqdwPwJk45vWYevQbGYyTpY0LpcswayWpmUyd7OJyMCJ20QKfyrLAuaGukjn4or4Xv3Wko4-H1CWe4PAru-wgOMXDJ0Wgkw_k2qY2HW8NIrCzqkWWrprXHMOVVnnKfh-CnOEXJfC4_SyoCWv-e4pEB0jPZkZyoFbjWt_xeV8_o2xLMOIq_6gSHiItfImVfdAdSpmxow1IjWJegSKxw_6wB8UevO-esyXrLMb9cYRzfCYzumO8n7BdrSX0Acpu1VHHeJ2gYWlC9T7m5pxcQw4qpp7xLvKu6BuL7Y98Jao6KyGw69UYBiIOCgwtI-aX-_5pEhbfgbU.%26pg%3DTEGGZVAHPBDM7AF4OU7J5OUFJQ%26ch%3DAQEAEAABABQF4hPYfSONWa14FydeIBc6vEkCN_DQ0O8.
+.netflix.com	TRUE	/	FALSE	1809472987	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+20%3A23%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f98b3e73-97ea-4ee6-8a28-ec58365b1b52&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777936866646&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809472986	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvuf_IT6SOguCdOJG-9NrutBoCnOq93FU.%26dt%3D1777937112071
+.netflix.com	TRUE	/	TRUE	1812496984	dsca	true
+.netflix.com	TRUE	/	FALSE	1785712988	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785712988	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809472983	nfvdid	BQFmAAEBEFZ9M620RhCO77PltgstDDVg4WjS89IT57RX21OFG1mFlDMainwGzeSlw4rWYJ-YEJkqYozi4OyKlX4cbrGbFoQoUP1rmoa-Ek0pPQp_R_ALr_OeQhzHdp2qHmK1E5apjFYehmdwHGCIPplZ3zBLVltc
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,21 @@
+
+– Email: nlv1981@hotmail.com
+– Verified: false
+– Profile: gabriel
+– Plan: Standard with ads
+– Next billing: 19 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-04-08T01:52:43.040Z
+.netflix.com	TRUE	/es/title	FALSE	1781798731	dsca	true
+.netflix.com	TRUE	/title	FALSE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEDiReFeTbv6ysqrbPHpHrolgyvrjATNncOIt4pj7wPNvXX1DaouuxVNHHpjOz4cRaMa3P5rsd7K2VV_IbB6SZKZ_tiyYFr3DGkg_jeW40mUrVa7J7hyqzoSyrAVDiy9U9RMixW4W1zp0J0mzydYtfJ2z
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxKFBGG9Dpstcae2dg4flOQa695Jxd60tEZzS-Xt6hQSgtC7a8f6CdLKltmGW59qR7Xu58TB68Gs7onGuCWy8rb_VFCv5o6ttyb3EcBKcCoWKauYNJKjHaZeAQtrYc_4Tyx38UPisCFhK-7Ge-_IcPMlW1UpmtZ3sJv0w6HWFAMkjErV3QIRDCnHYad_RCxgUcx_GaSP-RnOBg09xZP-T544n68G9rC2WybWcGurUZL6dOaLAB7UxSCgAHNFBZR3avMWBRRB-RrqoHPHc7o9DI7a0P_QBsie71EfIiM6mHrAEgTxhiTnzZ0B_3lYSW-LTUsNdLWgDMdZL4gLOwMyv2xMeaSr2oEXwhMeHEpmGFnyuDTL1b2Q7CTASjDBoI8GhbBkbD42Kn8uEVUbqzaQum8NO9fU3EH7ugcy0RMW0pY-bcLNQKjRItQDc1EgopbbPKxIrdL_mIAhfCCKn-8ZGgb_JtxiDsIZWJE5RvolQN5xMRk2i8UcHy0qh4ppj6CcWGYfyoCCFh9yn1f1MLFw10_G2kzwLM-Nyxk79txAoNWmuLPAry56L_bzf5mil2b4O6N8_iIrAMbvlt8wLNQMwF1y-Gacdjn9tJSbe08FmdHU1AlkagAim5wLiXRExxwoDfvUs3H-h2DFDUHgSzxjRhUIqnh75GI4yghbh0Z47U5BtTDtreQV5sQYBiIOCgyDeRa4Izei9xuOR6s.%26ch%3DAQEAEAABABRcfYRV3mOizLJA7lRutP84z_kJtvZZ7hg.%26v%3D3%26pg%3D2HDRHZUJUNECNAKLQOCGT6V4HE
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKn9-1LtNfXc69WKdVByY7Msc2aLflX4A.%26dt%3D1777899231235
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+14%3A57%3A09+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6b43e566-f722-4ee5-8887-4053ee16899e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1775613163446&geolocation=ES%3BPV&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,15 @@
+
+– Email: rossanatidona@tiscali.it
+– Verified: false
+– Profile: Simone
+– Plan: Standard with ads
+– Next billing: 7 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 9541) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1786579849	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLzAnqCQ_3G5GhRJ90vYtPm5z9T6bpm5Lwe-xInVdCOez22EjoYcNkikO540ygJtVqg91JGlWi8wj6K-MIaILgMMmWo0-4cywNcgd7VsjjELkil2FiaD3iSgze3nSOBieJeqgJIRLKd5MFf4GT_uEqEFFzwyKNhwgPVn3mRxB3BxKn6Px7FG8k9wfdyhiLt8Qyk44NJ9THm_EfS0Iz_FnRWwcmavKQXuqPK_cFqDMGMnrETDcXKnzP2QSF7jKCB2o1baCbTNpULmF7Hj64Y_BCTBn6pG64iOboB8NKsWX9ydbIqr8rXUiV2msiosEkVl2kRQYoVxTBfOC2EUcfC4fxI_YhgpGKl8CrhpQIcCtKBi464R6dBQJ5NwS2vU-C7XsgM8qR0hU5RLwyAPvdwTKUZHkZOWfhEhj9b4yStgYQ_X7qCuAka-_VHvwVg70hLym_YCuoOaZM6M2bh3L1Drtz8e6mJY44JIJIDPS1aS5fMpULcbFHmGAYiDgoMjwIxthqHiYL-dps2%26pg%3DVRLMERIZRBB2VF3E5UYFMYVXBM%26ch%3DAQEAEAABABQ2bAxXu0C_D52zr-7nM29lzAVqhzfYZNk.
+.netflix.com	TRUE	/	FALSE	1786579850	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+13+2025+02%3A10%3A50+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09952e81-1c2e-4875-9043-af5f84b64043&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B82&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1786579849	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6DalOHlBb0xZo6s0ywYjWg6GyDa5A0AE.%26dt%3D1755043900076
+
+Follow: https://t.me/hydrax001

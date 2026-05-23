@@ -1,0 +1,19 @@
+
+– Email: netflix.yujra@gmail.com
+– Verified: false
+– Profile: Familia\x20Yujra
+– Plan: Premium
+– Next billing: 5 tháng 6, 2026
+– Extra members: false
+– Country: PE
+– Payments: 1 | CC (VISA 7393) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	585c75ff-93e7-4984-938a-ac3767faae18
+.netflix.com	TRUE	/	TRUE	1805989977	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA-HPf03scjQ2pMgTejykA1q_zu4qpqPpkXh41GllqKLc_oJqwwXvVFI8te_HNuM0WyHgj0myUW4PQloKPtzhsCZGFNPE2S8GXa4RYRbsTB1AnVHm-Fx9ZxMfcSFoTC8SpQGD1v_1mav7UarhC0xcfYI5I84BXIfAYity2EOtrmujt5uGX5w2AlrJYzthbJeo08pRXh6GwfVggcEB4tjBDS1AAHTaYRV1XI6dGR6KrZMSAoGLUNCVBEQGSnTDgJT10FC5UI8VpvCGqkB7ShyDtQ_ehwriH9UwkuQGkZa5yd-ewV27vKP5rH4-0yjoSdLDA5WQcT4xGngNkv--Nh26XeNzXv_Y8MFrIbFsxa_YxuaKibHe5VCqmB-ZDlEMe-C8OVsG3VfZYZHIlAVKvh0B-y9cgsjS5whNRv489Cm2uOEb3Aiv9WvJGJqk9gIfHM4gJ4lx9bIlsF7Y8Ob2dmhbYSopLWYe6xK0kCSMmyr9amuo1Y7fXUmBIivVHB_NgXoEYk8DqJ6AoDxNV-IqVJBwMQ0jW7AnMUGEiuxZ1vuYNTEP1M1MVXyF323wGAYiDgoM_OJIRZMoXAmkqEPB%26pg%3DIIAXBG4M6VE7XOLGER7O76VIHU%26ch%3DAQEAEAABABSfzR6WEbIdZokb2AKm2QpVl_5TA5EycxQ.
+.netflix.com	TRUE	/	FALSE	1805989977	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+10%3A52%3A57+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d7651c07-55f3-449a-bb7f-04881ebae775&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805989977	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGms2STbotNAFp6fnjAuWHwveW6qUBiKs.%26dt%3D1774453977299
+.netflix.com	TRUE	/	FALSE	1782229977	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782229977	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805989977	nfvdid	BQFmAAEBENNf0lGMCou84wNg2kGliwNg1L_q1Ix0ZklcpuyX-LeydlD1ZGTkq5XAEAqXTxTlpgfMT67k8bmhg04JNpDNln0U0zu3-0Gg_hDxTVsc6gfsgYvtoO_gPPF2Sb1XAIDv3GzyTmtfonZ2bkoaJiVBYSFl
+
+Follow: https://t.me/hydrax001

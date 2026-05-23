@@ -1,0 +1,21 @@
+
+– Email: valeph7202@gmail.com
+– Verified: false
+– Profile: JESSI
+– Plan: Premium
+– Next billing: 31 mai 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (VISA 2221) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781011316	OptanonAlertBoxClosed	2025-06-09T13:21:56.051Z
+.netflix.com	TRUE	/	FALSE	1782144216	nfvdid	BQFmAAEBEEsWrxNMGgVv6eCSGhQF_2RgFdtg1TkFWhdmimzmr_OkzG0eHHnHiA4k_WA-eLhX3D6AYk686YiKnFMm7dttI8R86HouW9sWP-rAMZ9kalB8C2iIw3fn-woJ6QbFn3FrhbvyBpS1-FDumXb2lVP7v7Hc
+.netflix.com	TRUE	/	FALSE	1799790719	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+15%3A51%3A59+GMT-0600+(hora+est%C3%A1ndar+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16cc93dc-713a-436b-b6e1-c3cd6cd93764&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BTAM
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1800044153	NetflixId	ct%3DBgjHlOvcAxLoA8AWJdrQM4RRgDYN91uVy-CRBEw9ca3RwF_2QgiHfb1qsG1F1Kvm3hxLv3ZVzBN0wjfgjOf_RuguKAsIAcFSzFnlnTysPF0_z4C4URTY5f8SZQuuGsxeIqr3TBvgniXVXw1v90pK1cErV0mofV0WRnO9-keq5flXtfspXxDsOA91Gl0o7OOV5-8Tp8oWitl24CGMQhZ0CeIROYV3jyywhXMIjt9sSllfDr8dljD0QOlkcTnOtmudNAMaMMdXLHGp1Nfd_y2U66nBWyqnOJO3vhPBbe-UtNGU7vGLJx4r2TO6rWMyp5pJ9znYfqYUjJE_pLpTNS5FhCVpRXpXP5QgyO-8WaRoUhfxkVeasWtO3rPfZe8D8uGsp37RmnBmtDqcXULo3HMsGS_0i8rcidgBYjR2z-xFw1q2r354z0HpyI7iI3ONLYn1RGZc0fpZfIwrFGKWTKm63z1G45r2hHdA_jkr1s-TT4zyJ22tAEJ89-lDbO3j9lHO8UZCmxQ9dJcuPNu49d8uue0wjvEu2S4HDdY6bqZLL1DANqRf15I01RFIYwgrX0ZfIdW1cIT0iEt530-qmBTCw9QupRwn7nz74WH1j12sEdzg67KeegjJB2dt1lmRQqvwl4dH5iEI1SET1Y6rygf2k8E5GAYiDgoMZJ9PQFkRLy-CQ9ig%26ch%3DAQEAEAABABT27sRz8jnv9hSwXIrNW5tvtnBg64I0HtE.%26v%3D3%26pg%3DIKMUR726RVFSHKH445JJRFVE2I
+.netflix.com	TRUE	/	TRUE	1800044153	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRrD7eUfG17pW1X0NVOtropSfv3OyujCKE.%26dt%3D1768508152596
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

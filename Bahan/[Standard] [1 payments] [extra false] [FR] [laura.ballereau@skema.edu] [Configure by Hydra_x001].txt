@@ -1,0 +1,21 @@
+
+– Email: laura.ballereau@skema.edu
+– Verified: false
+– Profile: lolo
+– Plan: Standard
+– Next billing: 20 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 4471) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-01-05T18:36:48.701Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEIGBjSoSHNzUsDh-aQHeRXdgUAhAievN4D08Ws6Veci8ddfSkSa_zHmBpwAgs_TaUQeLypADK9RPrzG4VhHTJeaMWoYyZGQniJXQur1Ro5qKlViZNGicr9zIRXNXjooFaYozXO5EDrjLx7FvpUva7VrF
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+21%3A01%3A21+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=19564a55-5eae-4a25-ae69-59aa16cc023d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BNAQ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxL-A17F7h98_aDH7Q6aS-umvdgM7QNfm87lyklOoLbiC6x-CM2hGjlJQy2A32XopcvcprQaYZOu3T6LIlKHKW0iBLtWEuvxtl-YAe0FVXIHMtXsAuzd03rSJ3xNztgFkC_Nn7sBPsVBYk1G-C82uct79qOiPw4GtbVfZId8RfjPrQjrXHr7Yxkg5DN_SCEeIyKIo2CVG4wHq4omaPHeh8B4drD2ndPvbcPyNw0sHcdZ_1aUp6FLBLYR4GQssYusH16vyxsf714ieCqrnquDvTOw7d2K5BogbL1sbJOrLHtKZ7_KqRyZ9Vks2wU9_piqS10tMViAG_GTqWVrxwjJzc-iU8p7Tjr9D77hozTKMcajfaHJv65CL0gHyYcWpBtH41gZbphzcSUSDK6KoYCkoKquPZwd-gELaYWfauuH-dg0_SDrwxFcJUkOphy_JS24HlwyYtjLUOY0AmN_hRsZi-DVb8EJOPyyj6aZn4L8_-pqu6RJvPugzbIH-cPdpB-ChhKPNU6Zr96AwrQxUDq83C3QYOEhSuGxsfEUYBHTFMypBZAGk6MulV-jPp4YLyXOG9XUFkT3_EX1N63XWefUWqlONqQUCANMe1wMMTSbC_eGvQCGj_YaoYhqtmghcZHiF6DSnW8dA5fqTTs1PLxRFnoqWTmo4motvlZuUoN-vw-M4RgGIg4KDJ8_LZ9wmg_0IQPMEg..%26ch%3DAQEAEAABABTdb0J56gH_HnD0vOsILj0PXBnhpdcm1rs.%26v%3D3%26pg%3D6KZQC2HTDZFHDB6MOYMAKIOVFY
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRuHI3BW39CrgB4ZSpzUHCSiMJ0SrUCiE.%26dt%3D1777798966416
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	4009d80b-6f2c-4060-ae00-1dbabc06bc69
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

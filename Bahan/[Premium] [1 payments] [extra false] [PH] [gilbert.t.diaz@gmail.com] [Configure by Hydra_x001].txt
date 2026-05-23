@@ -1,0 +1,16 @@
+
+– Email: gilbert.t.diaz@gmail.com
+– Verified: false
+– Profile: Three
+– Plan: Premium
+– Next billing: June 17, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (GCASH 63-9****03935) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEKKMz1CJ59sSH8yNI4Xwh_lgL14zd0WruL6PLlhsuhEBT6s_9-YGNOZat4kz36rviz0jJewCSkXoNWcF6zxB404o_bLPm3pOsKVbxV6z1ZAwV0aK7aBZizzK1vCmHEtJty8fSeAxM-VbhteaAfpstynl
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+30+2025+20%3A33%3A31+GMT%2B0800+(Singapore+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b06f5f16-ac19-41a6-874e-ddd7f9f4ed92&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLiAymLYeBicFKcPp8LrhBF5SfnXNzOT_I2Tq1SEJ3hSAYqljSdXq0K6EZvBmcpHxMbeplZS6BxrQw8XIuVa62biHpbbgtv_mwZ79odc9QRa9IrF7mKMcwTs2ZDzTNafWh_EbBmCKh85_RipOsUYQishpxYYA9jH4m9opqvTdmD9a3QPJz4oHyLkfqe3FXVYohTnV6WoOn7rdxYsCumw00w9NlIjIcJTnE1bI7IYHOywiiW--HxgADIoucKtEP-GZJlH8lGIiWx_29J-PmStgzrJ8r2bswYlSNGbcN48YxP1x9PG9TXE0AY_489dyIAdP3UWFLfGOtzj7kv3Y5jiKuFmawPnmxfvgy4pQSbCo11iTGY-RGsbrdNj-9s9b0QdS77f8-KEnAATxRhWR397e7wS358P5uvVsI52vgaKQPNn2N-EjtUb7A3Fe9V7dC-qYNxIBuIfOMHwIV-8f90wdFGaH6ZObkS010HCmfDuikDhy7qy_x1oqDal3CeORC9GlA5zlLrqOPWfwj1TNqiDgtnwlL_wzlz_BnZ2pZa-4LB_5kVqkv50K9fBBdvLx6ediXo1atjDZFnXdm9bwKDOB9LHUBhl5wIrUo74Y2Am2CiwZKhdbGBWdWug-yuhtUayeBCXn1nGAYiDgoMuvvcB51hGOkgfPqk%26ch%3DAQEAEAABABQPixVi7twOiQlmzkIUa3DK4R3o6uuiVgk.%26v%3D3%26pg%3DUOS2GQSD6BFN3HTGZR5SISTIHI
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSujkP1K9xbeiH44NfkU2equZbUDVLUWTw.%26dt%3D1764551865724
+
+Follow: https://t.me/hydrax001

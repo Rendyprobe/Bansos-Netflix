@@ -1,0 +1,19 @@
+
+– Email: josu.loor15@gmail.com
+– Verified: false
+– Profile: Josue
+– Plan: Standard
+– Next billing: June 1, 2026
+– Extra members: false
+– Country: EC
+– Payments: 1 | CC (VISA 5748) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805839748	nfvdid	BQFmAAEBEAfPbsJeApOX0_6i0KflrGdgyx9NF0dHF5OOb16IO2VnAdSCo2EEaI0GHi0xblqqUlvwThs-nr745OnVIPVxG5IAEBNncgVtWhjc6In7Q8yuFSbZ9WvGKyUh_TdzfHWo5T5gdRGTLVf5hgI7tihMXb-z
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	dd768dc6-693f-47b7-b5dd-66b766863a49
+.netflix.com	TRUE	/	TRUE	1808190354	NetflixId	ct%3DBgjHlOvcAxK4A_M4H0sw9_18Pd8AlvFI_fReL2u_sU8p9Fnh3RUbWPIMhEdAijOnbcbxP4s3Wjiu4qXy3hP5H9gJRvkaXhHHDlWFs8TziS_hey-YVDBmK46bs6ItexOM2Cl5pxVYSF_aGH2PNYdIdjJPvLHSzNEZkPsMjgq-dTKjD4y_oz-M8Yn81uTtBX-67WhYMLTfy43gQ0dPC5pVhCdLO0jMjVoF9nDAqZxzzSFFT_95PqJYG8f3IvtOqtssHFuLZMrshCQzuaW25tb8wUgrmHuO8X07G6kFsX5mtIDcoHWm4fc48rGnFSfnyjPziGc31odx0tyRCjqjF1zEuvsmcPc8DSseLHpo6gueKkFCtu5q9ekUfLOGk-0ni_yjgmlJuA7JvvHpfXeI8b0nVbobJMQ2K-SJVjnTMaKqfPyBMLdcMrFK9Od2gk6lboO3iOht4Ghh1BnMBP35x-E7yazx0j0w_0gv2u-yuhdGKP3yQGZczqgARKDPgPgGOQvJ75OAjljkpqyTD44NB3FkHTq09EIlIk6qEKwkasT8lkbsdFvSW00DhEXpNlhsumewYUiqr0sSUdI3sN20TffQZgGHGAYiDgoM0KSb_FegdA8vhAIx%26ch%3DAQEAEAABABSLnC4ASHRdQXKTwRgkbPX0LtiZzEVhnpU.%26v%3D3%26pg%3DQRFCNSYDPVBIVCOCEZIXKNU32I
+.netflix.com	TRUE	/	FALSE	1784430355	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784430355	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1808190356	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+22%3A05%3A56+GMT-0500+(hora+de+Ecuador)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=712b490d-ce44-498c-a9a4-9a4131822489&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Email: jenny.c@hotmail.it
+– Verified: false
+– Profile: Jen
+– Plan: Standard with ads
+– Next billing: 7 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 4352) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2024-04-28T18:30:47.913Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBECK6s0I_rFnAt-pB8lvMMFJglLtYwlXzVYo9uDNQTapqB7-Pv6AgjrnobziqzZdlo1GRXANe3qoDeNKfpkE1p0VCD_W6tR9N2mXrVwz0UK558h-XV3lFYN-mw3CuBGmkUrM9nI3nkyHpuQqUUfYseXef
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	48ec99e9-6f3e-40d1-8710-12a3ddb32b73
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZ7vkureVpMnz8dfEgsEfvzsPu79j-FG4.%26dt%3D1733350569839
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxLkA26wevreoCwXIM3UIwB95JuilHIE0eTfNJ3SZq0AFFQWSnJaga1AzmOqmZAtSejm-ZxXVKyFm5rNvXfW0tFaW_bDhcwY0RwMUr2rDuCsn3Bd1vplzQvbtOhwhOh7V2BAM1dDXUqYgLgWP5dDHH-bxL_8jM7n7ymhgsY1UazNPEVtyo49z-ew4M5FaJcT9FjfwK222fPwg3_0P4DicvvjFAtCg2eOiwbI-QjNr8Jn6l8lF6ulvP63RNqE-jTbqpPU37Unm7QQgXgOHzgAxyAljzLHkquuf27JfGEDWXFFNgIoNMxR9O6qbXAEo7CxFnECoTSqyiOCJB6TSz1io1gcyOom0Nq_aP7hsT2OAd0XO_1PDs5ZJB4bPXcm6jp49IMrYD1aI9GjM6CeUFhutThLT1dkSJlqlmLXXaLmNFreX2DdBX6e0MPDQN0vdh5XJIHWEN93oHM2j8X6p6EWof_pFP_sRZVPOnzsVJZseBFO0otK16efjVlcxqA9XA8DnaPgXRpFrw7_eH_2F6bMUPc7yRoji1I7UxQYtr4CI-zPST6hW9Jzq3hxXckuGmrqpS_ssQ5oRfzmrD-tXlvzZulGhiG379lOEnIRgNVQzN351QZu52-1cMyD5TxlILAwKiooJyzkPMMYBiIOCgy2K643P41ez6sJkyQ.%26ch%3DAQEAEAABABTATJx7kpx-7ugxktSpp4eUdhEnrYNzZRk.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+04+2024+23%3A16%3A14+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1792b38c-412a-49fd-a1b9-848fc292b296&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=IT%3B21&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

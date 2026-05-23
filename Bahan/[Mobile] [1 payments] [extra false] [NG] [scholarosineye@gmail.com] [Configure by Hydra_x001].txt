@@ -1,0 +1,19 @@
+
+– Email: scholarosineye@gmail.com
+– Verified: false
+– Profile: scholarosineye
+– Plan: Mobile
+– Next billing: May 19, 2026
+– Extra members: false
+– Country: NG
+– Payments: 1 | CC (VERVE 1904) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805478077	nfvdid	BQFmAAEBEMKWzbLgI6HxWZ70JAMHxX1g2Zh3Mz-khvy6iegYnvbyXCueCRj-reQcBEPHsN7wndm1ZVOgHu-1hErED74rWsONYwDu0tubWEq80FdlTkfrnmPsQMzKFCTLHsw1Kg8_2A4-ElUnKWjKOXiOG6wUVdJ0
+.netflix.com	TRUE	/	TRUE	1807364907	NetflixId	ct%3DBgjHlOvcAxL-A-3KtvHwjHjMwmvrSkYvqJ4zNmGVIVVVzNd03qgir7aqezqRohSQEtg5rYyhOFcX5iwo4AeBo1q0AN7mvl5HiEMu0CANCQBJInOzMkDq0Z-BRVgSQv_mtU_pPyh6ZRHKSxUXBcqXor-NlcrEMSw7_W1c37y-Hs9QI0iNiVUG7k_x_QmITLrGFXp6pfrgb27fydbez4FDmxT1Q5tbINqPjBgSeLxEZwSmqlkBC-xHMnTnzXKHWHjHf3jPc8NekpxJALojV1nr9ayCwDeHd6MSwTYHGxray9U9Vwy8pYyjpe4alfXssPiY-0pSeQg_CiW6GCNgDvYdosj2JdJ03I9G98D7A-cMVFovla-6MDOm_JD3yFAx47a-wa1AToZUqzzUXKc-rTuX2Lx7KrnxwwEE2nZ9ea2fagvu7KLmH8wjezz6AfrUWntNN-eSNL5a9GucJ6qITpR1X4H6LcfAR59LOz7sXaTm0vISp2Gf_hSLwkoV1p77p1CVqYunjl4z0sRDEUJNY3vME4C2i8Z-kUx5xeYfAY-1yCI6QMB1U7C_q2NzlwJ21IYMav4vnUtSoPyOicC-1eoPJeMILSOK3OU9HVlu5UFV0UPxoVYpjwlI1QTZz9fced7Z01bBFIXnGvRplAVc_lE_ec_eYiO8GVf3ZccM4SwDgCfgKR3X_L132RgGIg4KDEyrjD-IT9cZeR3Csw..%26ch%3DAQEAEAABABTMsCieSEVRmTcjRSOSRScCOqYAcwXpKoc.%26v%3D3%26pg%3DM4EVBURXNRDWNHSWEAFNSZ33OE
+.netflix.com	TRUE	/	FALSE	1807364925	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+14%3A48%3A45+GMT%2B0100+(West+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ff8b318-144c-4a54-a3a4-7ae66d8dcf00&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773941919974&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807364907	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3q8c_IxOjTFOwrryZyILfT4sQAVEH6EE.%26dt%3D1775828562428
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	61c7e340-9f9d-4c98-bfa2-50826babf0ca
+.netflix.com	TRUE	/	FALSE	1783604907	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783604907	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

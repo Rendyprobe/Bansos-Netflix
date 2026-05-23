@@ -1,0 +1,22 @@
+
+– Email: vania_marisa7@hotmail.com
+– Verified: false
+– Profile: Pedro
+– Plan: Premium
+– Next billing: 28 de maio de 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | PAYPAL ( ti***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1791826230	OptanonAlertBoxClosed	2025-10-12T17:30:30.366Z
+.netflix.com	TRUE	/	FALSE	1791826395	nfvdid	BQFmAAEBECLLxCz4aewISS0sQC43SSVgUk2Sx3BnNO0_jt-3jovzVqwqS7n_5Da1qSQA4w8NG_YAQB7esV-bzNFz-PSKf9EvJWTyYzEV1YcADaXR35CNKxzIGA42vFII8RLYQsEdkXcuoQUbTPGbIXCWFu5OjbBC
+.netflix.com	TRUE	/	FALSE	1796413995	dsca	customer
+.netflix.com	TRUE	/	TRUE	1810411768	NetflixId	ct%3DBgjHlOvcAxKHBLWDHv6sPiE78uOc4MvHY3DPdQR8TptzJchcwPMtg5hDQmuF6g68EFD2AvJNfEafDcqHqVor6wT5RykOFYL8dh8_m4iOolzczbMVk-fUi671mcBLm2gkQxkpXcLFsnPtegQ8LWPRKk9PDl1eSnIOMKoF8M4YD123ajeuv2dORP9LLHvTzwYd0W2zai8Q8S6JAjJg8LH9quPIF5HNdI7SddAwzhB7tp_lhLSWG3bkYZyi39Gt4dZukskr00Av9clYeFbQOPwre7YhCg7ftzeNn0FQoH8IsUxzgSsWAwKFaJYgcYEotxMb88juk6o30srhpZ9Pid6iSSDeYoOUvKIGzBsYLSv7dF2lazMS8pG50CGn-8rDw93Y5NNUTdcmETQMCCI2qw8J7zsHFD1W2Y4UXTbmLngly9eI1KYsG3tERo0Am5TsvGSaja3RHL-TL7l15meaw5tuy4ZgBcP-Xi-gktQszcdP03Yf7yvIzuIUzgwu-rGBdvXy8qYm6X0mZ1xOhkW7wCT3No9YdW1UsgxO6xtkub5KHROd_4MzsrDT1zlf8oqslZpZEq-imy9UYKGLY69ToWkWS3XZiEwpilQdu92UJs6DRw8q3Noo9_OCgEdCoFfwSDPwDe6rXwp7fq5sPGUne26J_wdzV9GCSN3LR4tPT4gK7UcFUV6CuIj6Fjb_mhN1sdrPgBgGIg4KDODxpWCCLv8pkKH8Hg..%26ch%3DAQEAEAABABQo0_WoH7r1TFJC7JmI_eHeFDgJRS9lDSI.%26v%3D3%26pg%3D43TJEKLRRNCVHPQCXL6WHFWG4I
+.netflix.com	TRUE	/	FALSE	1810411769	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+21%3A09%3A29+GMT%2B0100+(Hor%C3%A1rio+de+Ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6c27ca4b-de2e-43da-956f-47fd9a272728&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PT%3B10&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810411768	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTB2V0VMlMnfvNFh5iXDOwEdoykg4qmkkg.%26dt%3D1778875770205
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	642ee1d7-504c-49e4-97d6-b3bd880a3a0b
+.netflix.com	TRUE	/	FALSE	1786651768	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786651768	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810486850	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

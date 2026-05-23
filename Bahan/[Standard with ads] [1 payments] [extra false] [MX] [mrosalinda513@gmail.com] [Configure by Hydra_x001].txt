@@ -1,0 +1,22 @@
+
+– Email: mrosalinda513@gmail.com
+– Verified: false
+– Profile: Lalito
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: MX
+– Payments: 1 | TELMEX_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803546968	OptanonAlertBoxClosed	2026-02-25T09:16:08.249Z
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	f0f2d563-b80f-4ca5-af5f-29c63643e174
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	c23740d8-22bd-465a-91e9-ce44f1bece53
+.netflix.com	TRUE	/	TRUE	1808975361	dsca	true
+.netflix.com	TRUE	/	FALSE	1805951361	nfvdid	BQFmAAEBEHpqJZ0qy3UgrqYdHzTO9b1gV4LExUbJOMDINUsFro-oGdmD-sA05RVGYoFRF7ZbexCG71CVBYB6qbiT0POZhJEFJtElwybsk5rjGGaUoCJuOXxCegg-CCHwMsfGwByuj6CrdUFTIQuX5KNp5YGsbYUZ
+.netflix.com	TRUE	/	TRUE	1805951385	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AkSZF2xfc2ziC5vF_HLggw7nFQ7OIrDeGnBYARO8lexGbKwemsN7ekMXBvpeKZkNaMxHwg7n9oZxyry75td_9uVCwEKyBe3V7PuLod_KEmmgXWVNEfsPM-Y-LJioU4q8ketucC5iAPTgnERJV52Qen1RcI3rgJ6BVEewY2PNlJ9CeCwtLbAZYSdmhasENZsv3OdPdT02NZltQC3lxv1-zOwhbZ4PjZv062cJksPOCWLSK5MoFE5mPpjJOvQG-UFBX1qwD3q4YeWFruYkg2I_mkjuMkWlU9HD6AE6OCVLaCR3uUuacPjZeLKtmedD2HeIIxXPdbL4uGEHL9nHpx6SMDliHOJ9CJOFXGEDNGiMbQSFOf4xoEN8ROLDL3v0r0u4gInuP21_FZvscS4vVT_PA0V6A0FJEtrGSV4jlPQJZHtn08zUZn0wHYJBkTk1umOFwF7icEg8kGukFXLYEEOUC2zf81ZLLNCVHOIMTiSCv9N67P-E7ijo-btqgVAewhgGIg4KDCfL3brakLn77GxZZA..%26pg%3DBSNC75BTZ5GUZEJYESR6EO3R2M%26ch%3DAQEAEAABABRmC3j8BxwX06fImQhBXxEQ6CAlQONLtqA.
+.netflix.com	TRUE	/	FALSE	1805951387	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+23%3A09%3A47+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ccf54986-41f1-4167-8d6f-b122f73a6ef9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772010902121&geolocation=MX%3BGUA&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782191387	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782191387	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

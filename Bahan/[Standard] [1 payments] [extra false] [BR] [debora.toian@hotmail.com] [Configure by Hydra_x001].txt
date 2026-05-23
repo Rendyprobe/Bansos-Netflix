@@ -1,0 +1,17 @@
+
+– Email: debora.toian@hotmail.com
+– Verified: false
+– Profile: Paulo
+– Plan: Standard
+– Next billing: 3 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 9420) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2025-04-11T01:48:13.672Z
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEK_Y5CSeMqZKjSS8xRueZm1gFJwv1hLbWjP3h7vKBkLH7xyUlJ4wblDvaaMxxmufwu5DcL1n8ygcQ9a7qgPkoaP5uSs9MtZcYYN3baGclXwUUQs6dgrfTzGMwilYcLOOxAQZetB6uVuFHXo8XOvbP8qt
+.netflix.com	TRUE	/	FALSE	1795408026	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+23+2025+01%3A27%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=93bd2436-4103-4112-9c00-df9bac501c0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804206721	NetflixId	ct%3DBgjHlOvcAxLmAzsr_zLUGAwIfXTbZwG2Rq-QLRwCCgCYVoC3W6Goqvc_aMFJjSdraEgCwEL_ESux_AujgwWBve46HW0y0LQwlMaB1huUuQ_08ReBPgf5tBKdijU4_ADtQzKoAjiTSjMZ5lU69IQVPjJCIvF_cBTHGFuU8n73F8o-XP85l84hmPrRkMskNOK4tsdekG-iSxSyOymtN5ZHb1xmfM99Bz9xkCyKnEf_aL6VYiwgkrAXfKRzuQg0aMpw_834102G_6mOu6qkA4AHvd36KAw_jTnjq-zBwwcb2lzxe84jKIRV1l_c_I7RXXnd5ngaWLFw79iAfn_WcRyKSggq-ZEFF6kxu-4RIhdP-pAo19sQ7uCn5aV19hGbJ8QUE7JXinuKTwUs8p_CJMjc3trgvbocNdeve6a5GCUV8JoIU2jth5jlqxiAu2way5iqpCDudFRWm4vmrY-lFKL-0nTRLFaQUGK212anxVvHBwK7VbVRWcGo2EwTlA-35VpFcE4yu6sLKA1ONE0Vmci_0X0AFcyivWJme8uwSl_GCgsPZSHKItwvVhf_5twkpnOHzLCOcL2rUejssrFOSuM8IFfEvLnLCylKtT-DhWQerrZQW1nCAPQshHgP3IXii2_Zdji6dd0V2_P1r8VOXWqFtBgGIg4KDAaAXMQBulWD0kOZdg..%26ch%3DAQEAEAABABSGE8ZfQnKS8L_EAHINkdBBCgFppJf9Otk.%26v%3D3%26pg%3DQQZRUGWSIBAFNFPE6PTKVZDPHU
+.netflix.com	TRUE	/	TRUE	1804206721	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3LjQZL4sPswpi3j4G8GDyeUN_AuKvS3c.%26dt%3D1772670719239
+
+Follow: https://t.me/hydrax001

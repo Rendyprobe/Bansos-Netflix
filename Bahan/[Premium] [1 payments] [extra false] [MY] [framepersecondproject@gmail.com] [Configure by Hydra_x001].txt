@@ -1,0 +1,21 @@
+
+– Email: framepersecondproject@gmail.com
+– Verified: false
+– Profile: Aiman.S
+– Plan: Premium
+– Next billing: 1 June 2026
+– Extra members: false
+– Country: MY
+– Payments: 1 | CC (MASTERCARD 6387) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	e9e297ac-83e2-420c-aad5-f6d1be661add
+.netflix.com	FALSE	/	FALSE	1782066567	nfvdid	BQFmAAEBEPJjC5ax2SWAqlbJi3TEfrFgs4-uJmj9VRDABny-6JDuZmDn1x-RasLVMA_4IAKDTEippskhNBPmPlD-5X4MSTPgQkss3GD_wEvhvMFuB8W1GOIMxQ76DZSLew2PcGxUzVI4v_0BCLFNHbj7r7JJ4w8m
+.netflix.com	TRUE	/	TRUE	1782066567	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAzaOsfkVt_nIYJQKJHM9mNoXsjtJ6UXEXv85TYDLuFAfP3uKEeZgMkasGk-K0Kjcj7HWFQ-J_w0rZ16AGCW5pI_H-uJ977XZ5x8yGKwkUZaQUlvV9_jbpiYUPWb0BQ-4Dp7ULMU2C5LLMRXvJMYpMQJDzvrlBpWuh5jX4yVVbkaHX9RrEJVIq7PzDNt6cZMTSqwNp-Bl0gJ1KpstRhmH8jV-bJobnken3TkCF8oQU9HYD8dIqEHtfN2LnXvSayrB7GsGZzCS-n_encNcEetIoIO_HGhTtt816qx6qGx6S_cXn32xSWTFy7anqxAAfix6Wa4sx-rVYg0uHYlMQoOdBYIE0w27LqtC5DhXU1WlcZyNL-tyn4Cx8Ut-LzqJQD8WFaBK4f1cz3sbTaoMTI_DFREJtm8BfZqSykETjiAtppZ20X8yTyDndtGyFNz0MKoBFgh0UOwthHCjRzIMAmJc_vViWk_DDU0XQVTF3Qp9ZqvvwLuU0ohGADMzaZ8eix41fRjMoFCf9_EkJPwnL7nNfBlxfM2JGAYiDgoMAOhRdm0c75qCzzqX%26pg%3DCQ6OETE2INGGPF3EDZ64NMM2VI%26ch%3DAQEAEAABABSXiH3vpwgqs37GVj0PIO7reUctpIjWUFs.
+.netflix.com	TRUE	/	TRUE	1782066567	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRREqN_T7qr3c18jYmarLe3nIRg90guXCo.%26dt%3D1773912482309
+.netflix.com	FALSE	/	FALSE	1782066567	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+17%3A31%3A15+GMT%2B0800+(Malaysia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=383960cb-925c-4b7c-8679-8c588d409998&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773912350981&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1782066567	flwssn	1e637f9d-531e-4765-af33-2e5d722c7ce7
+.netflix.com	FALSE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

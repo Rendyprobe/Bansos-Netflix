@@ -1,0 +1,17 @@
+
+– Email: Mkatiaribeiro@hotmail.com
+– Verified: false
+– Profile: vivi
+– Plan: Premium
+– Next billing: 13 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8701) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809279055	nfvdid	BQFmAAEBEF3yD09IjWRmNRUaPBJ9efVgZizZHlnM2HfMQydnnm6p9hN5ruAqG4rtB3GAXzjS-APHf-ru8qX8eWC5mwSpr9hW5_BCVrX8q-Qme1P9ULecKX6Txsf-Qa4tuZ4GeCNVI3Kotl6GkzAwY8RCmhZIrxZq
+.netflix.com	TRUE	/	FALSE	1809279064	OptanonAlertBoxClosed	2026-05-02T17:31:04.168Z
+.netflix.com	TRUE	/	TRUE	1809907739	NetflixId	ct%3DBgjHlOvcAxKyA2CWwk-Jhpg79p72nHr7FcB3XAsxIKOBXO4AWQVJ829u66QXZZvvg9hNhwA3aN3m9vQHDnyE9hmh7swAlI-AR3feQhIaOyH6rhh6Lfe14zIAEsj5509GQ_SlQH6VF9ky2LCVd8P9D8Prkwuys03tStf1xuG7RLNZqAOYEvk9yO6nxVUbgv9kVxTKqKn8WbQ1qsOvnv57KhK_2HA0x4ef2CiDe3FbyLaCNDIJ7TLryFho367MVzKo8oPY4ZeujK_3pA4K6ysuC1SRL3J17z3qoiMAC98YQRs4QiAir8MagEfVqcKkXQL4LGHU1Pky2Sr2ZWt8-0-wKPhjDE3Wj-pV_BnXKwwZeeXD5-Oi8jM-AcIWngyCgTmDQ3REtsXtFNzZL05jhJxUWbP38tvxUqJSROG0vPzmGWlwapO-Bev7e-Cl-UGrj7vPBYfDuT5aHYC2w9vcCdyJKRI9os7r03LSPWb1it9vxlgifTXrwd-LGK6wEDUsZ2YZGwqLaRXq76r6_vc2VVyHcCmcVhjyKI_rF689BdZvPqzZCu0I59wCLnphP-okzafrLkV0_Rgwu68DN-ODGAYiDgoMMvcknIGvFW8eFOvj%26ch%3DAQEAEAABABT4NTfAtxW6d08rJ4J9u7WinkLNfVQ1nl8.%26v%3D3%26pg%3DUT2ZEQBV2VHMFK5ONTUXDVLJAI
+.netflix.com	TRUE	/	FALSE	1809907744	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+21%3A09%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c9a129f9-1556-4bbd-a79d-120bbb2c513f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777743064654&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809907739	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSW1ozNLqKTv4yFUsuIRNOgvZ724U05Rls.%26dt%3D1778371859900
+
+Follow: https://t.me/hydrax001

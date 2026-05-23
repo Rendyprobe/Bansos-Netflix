@@ -1,0 +1,22 @@
+
+– Email: deniserebello2011@hotmail.com
+– Verified: false
+– Profile: Mu
+– Plan: Premium
+– Next billing: 7 tháng 6, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 3386) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809028828	OptanonAlertBoxClosed	2026-04-29T20:00:28.457Z
+.netflix.com	TRUE	/	FALSE	1809028928	nfvdid	BQFmAAEBEAXxmV5z7rHcD3cNLuQ7g-Ng5VpOa9eRw7UZd0DToYVCo3NVtpObcoWecGTWOHUMPlDU13V7JZVTQzvmz3Cj_rCMqkx-C7yWDziLgPUOZMQ6Xzbz8e37gCB-A9UAxIn0vSTwD1vKtZ6YH-ufyMIH_ESv
+.netflix.com	TRUE	/	TRUE	1809192291	NetflixId	ct%3DBgjHlOvcAxLIA2mXp7ylGoMTL07j6WDMUQjNnZ45RLtQcipM76vKnoMtJvK4x7vR7ijmULWMrJ1rBACzNx9kVvyvxmh_SHsiacLylBxjEmNAnv_v13Ik1ukf0csnF5IbJLPax4n3jtUXj64weSqRhp5B8ZaMAdUVUuX4pFbGBAjKJ2EzNGeNy3p2FuwCZ0OEUMNTRV9PToN1s_EhNb-rugl9skeq0HxaNJXFvzmoP4v6GlsJzS335MI4eEAF99-EvzjcmnFnSTloGCVyI9iB8yvoPdCVk0e7N99Bx7dyVKcSvFpI_rJVkj7I2bj6RX42N6njFkLbzXz_dL2CJG14fszH6KqTewwVa0LzABRo93YnpulM3dwb0nFdK6jqnVGUxg_FcEaZzhTh2JKTfgKQk_doXdzUUYZ-rPFPlb8eVqeVhgEL2kw3a-mZtlyl5ldi9T8JxLiY_yZYSpCD3zEYQhW5vuF_8IN0kLVgFrxqUPUqSE-6euEeRnCu99kCPYj63PP0h7StTGyLq2jvt5ck2u7Msod8WJ8bjgDgpav2BCVsuHVzN9beXkxgvKSww1zODZmn_zFVIFh9ljEYtwtHQvYCWkp33e8UnWLkNlYQRh_sHhgGIg4KDLJovU0-PvjrYWu0Iw..%26ch%3DAQEAEAABABTzNW1kHCjR-5NfIG158rg17VKxvqF6p-8.%26v%3D3%26pg%3DF4Y7SITUZ5ABTKQRSDECWP4TRI
+.netflix.com	TRUE	/	FALSE	1809192290	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+14%3A24%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c771aef3-f6bf-42bb-9ba3-d3986510c4fe&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777492828941&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809192291	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFLAp6DrXsoCgfEtaA2-NWRK4BuFAWonI.%26dt%3D1777656296584
+.netflix.com	TRUE	/	FALSE	1809208781	flwssn	1eda8e9b-1451-4e8a-b6bf-aee44871ab5f
+.netflix.com	TRUE	/	TRUE	1780920419	gsid	6b2945dd-f194-444c-88ab-99aeafa58e36
+.netflix.com	TRUE	/	FALSE	1785432290	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785432290	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809208781	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: hari.indariani@gmail.com
+– Verified: false
+– Profile: aydin
+– Plan: Standard
+– Next billing: 30 April 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY ********6143) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEOwWSDBWgKaSH_d0bnVPUVRgzAOK9-VLfSHLiIB4vKCAQ4aizY5wEFdC9OkJ5Mgs8tZzdLYgBpWl1W1Q7IKqq_BjYTbiDwHIC0Tb6u6cNH58nI_odXcLj42p3d603Bm-rg2u-TC7Bh89hGwOa2L-M9NR
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+26+2025+15%3A14%3A18+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=299d450b-637e-4372-812f-3e68e7ae0569&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxLiA5SSySPvf7EaEvluMmcyJU9__hoRS7H-Zr8uJj8EDtMWseD9fR9KKRwCQeGVYUo5M-lWPaKPr2zdM1l-RkJIwxk9aKJCZVtg4rwFc6H3ddhOq2peaRF2fi-ZegYVUsR6l-K0p6KqVq74ZQ2RZN-nyppatQWtTV1biJiypcS3wEbOM4tCQX4tWhchQRAY5pix5qP60VwTpTCcs-lJPjgcnky8I3-jkZddWKvr6BUws507niX122dVNymsNV1FvbUz9HGdVvx83kArguLu6AlLxZ0gN9WZnuEJQ9cO95sJpNcyoUM2IMqTaZzF5RFb9lhatPQwXJ4oQRSLoaFZF6B8Mz-2OkTi_2EBrUUZ2Qq_NUuw4WJxOmkLrXIOxWkhTx8QIjxyrj9FfVPNOAbHjhDFAmQInPHwUjOyCVmxXhnmx3sgTNwG-ntvMyfSL2zJvpQb-ua8dwZtiSDX07chfrGAfUfbZMh67z7dLRpi-VMXzb1BOyatGdYIdnsw4i891NCQGI6yWqK1BXC8rGMn4t73dbgrW1RBRocOXDQ-rC3DPcybj9pSmEfoi7gDp5q5uJObFGm7sVYhPO2snBouzXMEfQpBSV4FZbZ3DuELhOvvvLA-_OMqaCJe7FDxORbnIKysQ1wwGAYiDgoMryxVvLyvo8W45JZX%26ch%3DAQEAEAABABQZqndDkssvM-D4r4ko4Q09oslJw0DyBDw.%26v%3D3%26pg%3D4O4EXVJ3PNC5BP6UYPFELEW32U
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTI4Xc2sWItFivetbM1oAloFtwsIdg98Ko.%26dt%3D1764240405417
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

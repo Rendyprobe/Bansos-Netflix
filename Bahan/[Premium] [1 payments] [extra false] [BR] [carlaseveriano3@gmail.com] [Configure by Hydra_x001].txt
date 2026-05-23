@@ -1,0 +1,21 @@
+
+– Email: carlaseveriano3@gmail.com
+– Verified: false
+– Profile: mk
+– Plan: Premium
+– Next billing: 6 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 1345) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809566859	OptanonAlertBoxClosed	2026-05-06T01:27:39.215Z
+.netflix.com	TRUE	/	FALSE	1809566891	nfvdid	BQFmAAEBEKFYm-0QbAtbY5dSa5LBijZgR2tzI7LlqEWO7cCj2DFXwWWiNRXo7OO_BxY_mgOHCX-Hfeb4cCq-M0YuYfvIcDlLRnZXsHeo1Bshd8EILdrSsm6-e-i7tiESC-7y3QkAz24AnL2H1re5sYYpYqkC-i2C
+.netflix.com	TRUE	/	TRUE	1810050641	NetflixId	ct%3DBgjHlOvcAxLIA2iKomDcKyDaPeWlOCPRvH4wZgwfE6oYDC0NuzGF1AsqrEl4yPS8Ioy0NpxOU5Nxgii8qudWLlwX8ZPW1DCCIDMROmaoJAxBnZVk6GSZl7Sx8BsFQgaJeyjP-TmJollHzcQARRAAlfVaqPmG2JHEVo68OnkHnWKZ7UJg4_YPA8Qd0Rq2k5JLoQdiG7wBkZF6cSBecgam-TLHaEOJrMdYBez6IoybzQWWr9sOlG8ZvJDa3V6ScWv90f7qm10knAjeLI3U3s0ReIVkElaFAMYAHgR9Hjx_x0wJg8MWyQTGlpxERbqfy1UpGPSEqU6FJ42-euv8Dl27GxeE-7Q3b0piOtA623r7YW7ANPFX9et-y_IY0yrYqVaSFshRGoVsbZtb9PPB5TMe70nkI9vEVPHhB3VUYe7XMSccICg3-jrj6obq0Tx21zDP20VtfqhC5b57aarkly_GJEqW5aCv8gKEOyzErAq_yOFEgD_EgcIgVsjdGjAccPF_ep2dcgdTiwDAu_FHfnuSm2GkIxhMqX9td8XEBoq9i89rWGn8XNgPjruZsoS_jeHHxVZ2BuaIGmS17K7yrlgzDFN600nfOHDXtB8votdQE5fT4RgGIg4KDKcGA3Bi1CG9sKrfTg..%26ch%3DAQEAEAABABRlON-6nKJcijw9NPDn2cfYAtcYEtW8KuI.%26v%3D3%26pg%3DNHPNOU2NFFGCDE53ETL3K6A6II
+.netflix.com	TRUE	/	TRUE	1810050641	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4JBRbMGpY85udapE6HBBF2quQVUQMnls.%26dt%3D1778514642726
+.netflix.com	TRUE	/	FALSE	1810079423	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+20%3A50%3A23+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=df494a3f-546f-435e-876e-2dddfd69a468&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778030859582&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	e3502e80-e0af-4774-bc0c-8a0b4411ef5b
+.netflix.com	TRUE	/	FALSE	1786319423	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786319423	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786319423	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

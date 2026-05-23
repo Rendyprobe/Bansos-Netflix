@@ -1,0 +1,23 @@
+
+– Email: vcamison@hotmail.com
+– Verified: false
+– Profile: Candel,\x20macu💵
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: ES
+– Payments: 1 | TELEFONICA_SPAIN_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-02-28T06:50:41.887Z
+.netflix.com	TRUE	/	TRUE	1781798731	dsca	true
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBENtlakxjCVViWiARRd9elHxgY_gfwxsdIQVemh_IHXXb2A-UDcVvyQRIisvEvNZ-p0KbzSz4G2tGGDo6S5ZcS7kbaEtM2l7SayodpZ-OjyYGvvdrvu1_rjEp9ZOXVGO8DxdfMybfP7W0WdtWiSOwlsv_
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKOBLoHZYuIuDduocPtKCtIbo397mOi_EupuHdreQ92vX9GelZM5nEjynT7ManIUioALWbtF-dt7dOEYKMFNIJ2FZVsV9SbBa9mcAINZBtADwPk29vHzCBMb3Ly17MvLzdWPiRa2xj-X7OERhqClGW5lA76qdjoL2wqSMoq0ds9RCZtUa9y71e4ZhfOvIk9oK__hO91Lh6pNa_dVuYvqdwYHTKHgGQpZh_v5l3oaomcb0MG6EqOP3KY8FDtj_lI3mjeNQ8rQHufFgzHKl03WQcN6_WTZGP3yCxOaCrvBZIes6uWfTq4BYKsXEiLI0G0FM44nkws27GjdgVM4iHyolze-oxZeD6drhfFtRdv3WwIyhFxYlRaR8sRRmiOnldiXXLAIzBkCrwxmbf6OiFNolH8up5-ZI-MOit1O-5zgIGuw_Jw3KtT9svLQ5eO7XbDbL91v_5cfvXbUBx74HqbXtdWz3Mtj39fh758RcNEbAL4krRjIYBF6sIIBpogCjykzPQbh79TCVwRgpgfslJcSDnnm_kBDlSc_Z76KMx9SuLm-hgLoB7IWBpZ2FsdpbG1a8vx2beBh_5pGkvi9i39RvznS1jYSNMlO6mstTbsU75Ger2SqoodEFr7y8WYPM0AVQ5WRef5zKKu2S_rPnf4ZQLCxccvJCZUmGdZAN6Q0t8Tt63EtTBS2YqZrpmLWCEVaqMYBiIOCgzfv6azBBKf7wmEGwA.%26ch%3DAQEAEAABABR_ZAW75TgIlpS3r5CvDJsJo_EY5j1mkqQ.%26v%3D3%26pg%3DBCGYVGTBZREHRIMM5O7QY3ODVI
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+13%3A24%3A30+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab7db666-5fba-4eaf-b5c7-6e302a62d29c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772261445075&geolocation=ES%3BMD&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNb2bk-5AUCAdjYwkNTIXCfrDFKaUQLwQ.%26dt%3D1777289069301
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	07e86537-2f45-4c7c-8216-5bb62cd960e4
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

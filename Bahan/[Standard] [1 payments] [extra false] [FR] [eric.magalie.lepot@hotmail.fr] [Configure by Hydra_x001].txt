@@ -1,0 +1,20 @@
+
+– Email: eric.magalie.lepot@hotmail.fr
+– Verified: false
+– Profile: Sarah
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | FREE_ILIAD_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2024-11-15T20:45:57.594Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBELWqi3YGbqza-i69RP4pOWdgYzz-A7vewLXtV-cJLNkE1IVmU3K9JvCt_WHx7kVM9HM0MxyExvmDjXXvLxE_LYrPzaJ2s-3LjsgTmEO55Ki5_IvBk_QYTgs0lHg24Zkv7dpbZ55piJbR7DVxrL2TeWNp
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	8c130da2-0515-4281-bc40-a23c0c879c00
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	1a943f20-2bd6-48ae-bf40-36daf4817f7f
+.netflix.com	TRUE	/	TRUE	1792099782	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AlltfnjyUn79hSMlHp53z_ePB2z_-JAdopeNsilHXOqZQ5IyCuWGzdEj2k0qcPNrqGEfyNHEUfjyO7xWVeq7eZwXICkRm1O7j9UPsXXGgPXpmTRQiW0SLGTkZFGXGSlh3xrvSIkLWxw3ezQ0M3BIgpvNZdIoFybErzNsuZTl8SVDwXAA7ySQIdptk3-zIUsgF0ieAgd9yIAiXZtoeXQBncrduYEZsKrDIJSgjXwGHXNV8nFrVhMPrs2WUA0XvR-QCZaK9HXfisqqDr_qZrQtKoxELID9CCHl7G5J3SdCyoUteM-G7bqFful5Pc1LKpevQcb4Nkghb_1Uir8qrqV3QJSJWOI9szvxTrOjdQ8sQtj5nJH6buVKxv1kP_5Dl_uqk9emsqVhbOD3IpQjPCOSY3HLhiyT-6G94Nzc9EpNUNmhF23eS4TNqR4AAPlgCZ57B5ILq_WJnxguThfkAXDUoBKSyLCqbmKCskQ5SqAqphHJUXHjrt-Rrr-GJWaFd-QYBiIOCgzrdMwYpvYXRCyV6Wc.%26pg%3DQ74WKKMCSZDF5HHBEZ42GCMOBM%26ch%3DAQEAEAABABRbrJ3wfBAE5NxwuSJ8MevnN1UlXe0dk5E.
+.netflix.com	TRUE	/	TRUE	1792099782	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSg4i-Q1VtCZwuEd5ctUH9c3qr7PL4pKx4.%26dt%3D1760563791169
+.netflix.com	TRUE	/	FALSE	1792107685	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+16+2025+01%3A41%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=170273d1-c298-4bc2-aa43-564ca407486c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

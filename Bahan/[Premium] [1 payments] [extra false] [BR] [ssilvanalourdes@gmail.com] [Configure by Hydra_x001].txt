@@ -1,0 +1,21 @@
+
+– Email: ssilvanalourdes@gmail.com
+– Verified: false
+– Profile: caionchefe
+– Plan: Premium
+– Next billing: May 24, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 5059) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805604624	OptanonAlertBoxClosed	2026-03-21T04:50:24.515Z
+.netflix.com	TRUE	/	FALSE	1805604634	nfvdid	BQFmAAEBEIQ1ZvowaLZRJ_Hk-kWBRuxgDpX2WLS7E8U6kpiedw3dwHEywp2Zz2nWAiqBXl5wZR9Y6Eak35dFWxhTTBKu4kJBl1oyBy7Vg0sdsFd0IzhYTOSXLnDKJyOrvD8HXJSZu47U5RZe4Zps7kRz7j_etvkL
+.netflix.com	TRUE	/	TRUE	1806239878	NetflixId	ct%3DBgjHlOvcAxKIBEIoSKT4ThFGAKKtB_BcN0H-yjD10WKxeC1diroS_4rPYxZXiG-azdlMAnDwQBgag-j3LkiTIvEJGNJ4cSHEo4cWbhD11lVBXk6Qf3c_Zete_2YJ8sDgRz4S3FiYMT-UJPJrMc9pJX0RVaj4gvLBzrXnt9s40xVJMwyGgks96TDz-N3XGRo1zbBUQ0BDYP9BM-k1guBXTLYYfXpJ4cXnFl7KjcO7yoJNFHNMVs_RXalSkT87wn0i-mr6nuYWz_P_XFksGB2zYE0WJqqJFeEmrNg2SAbLOu2rbWf5nLPL1MaeWvrVpxr7F-zcPmWUeQMDwCWciO5o93gifpVelNntK4cR9mhj6Gm5cR1y266Rmfw7xM-r2ywy05_-iMA3bZ7m_nDEA91kaR_lcfZcjp-RKwd-xUitfTJesVnAcR64hG6oh4O7fIuruJsOTiH1KLywqB_jwdc3ZWBdE1XS4CA5TDTZUlhTHM7u0_8suIKQaQdquvGTPIdpPVEIVM4LUeZhyW33DlSznBN55frpD9VN__lsv6A0MI6SjxMgt7kRwqFQVZqYDmHzqzg8pJZy5LwJHM9lQsnt2Bb05XJ5PXObRURSl15nkt-jRidb4ROkZ9eIch6bz7gB3Z31VOI15cHt_xa9bODeIw-GsOVvikhBJoPX1F4ITlMPmUhT3OtiV0rqpO6B_8_ACTEYBiIOCgzyrirtoAV8oBO8Lns.%26ch%3DAQEAEAABABTQBkvcAy-Dh_haCDhKAxwRAS7LLe_HZow.%26v%3D3%26pg%3DNBBNS2SV5JAE5AOXSPI66HESPI
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	97d0a0e9-19ca-4583-a31d-09704eb82671
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	3a8011bb-92be-490a-b52a-387b62b13667
+.netflix.com	TRUE	/	FALSE	1806243832	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+11%3A23%3A52+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e68fc29-358f-49ff-8587-6b987e0d637b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774068626641&geolocation=BR%3BRJ&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782483830	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782483830	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

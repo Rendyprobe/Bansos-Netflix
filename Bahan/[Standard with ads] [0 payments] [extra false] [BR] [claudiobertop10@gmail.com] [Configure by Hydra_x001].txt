@@ -1,0 +1,21 @@
+
+– Email: claudiobertop10@gmail.com
+– Verified: false
+– Profile: Bia
+– Plan: Standard with ads
+– Next billing: 21 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807235253	OptanonAlertBoxClosed	2026-04-09T01:47:33.453Z
+.netflix.com	TRUE	/	TRUE	1780831549	gsid	a4becd07-2428-4b98-9ca0-c5dbab1bc2cf
+.netflix.com	TRUE	/	FALSE	1807235339	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+22%3A48%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=444cb7b1-6ba2-4e33-9640-fd9c5b4b7411&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775699254259&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1810259324	dsca	true
+.netflix.com	TRUE	/	FALSE	1807235323	nfvdid	BQFmAAEBEMLS3VAVps245xXFkpb9z6hgAe0OGy5Fr9_A95F6Hika88mw-Ql93A7yewILw3svyKwUiTw0ixBrrlMmbcvFxaQaVfgovwy1ImgB0zSj2urqlNGRdM93OmSUl5OEiYXShkSzNfvpafthHhmfDbdzn31y
+.netflix.com	TRUE	/	TRUE	1807319554	NetflixId	ct%3DBgjHlOvcAxKxAwteHTQq8dasRbvAjHtqq8xnuYDJkrG8AVAvtTWNKTokS8SziSMwJbyJ0TexjNPKCEQdQL6OiLGpyzufh14E6eWUnBTZi0iXw-3trVYsiIIemCBH5krq2eb4M_r835J55QRzDZuakXdhVRV-ioFrKP1bdymjbETVeLbnQ4wnBBnqK3NThOgdZb7_x6CIFLH6T155ubKzZ89yYfehsp3VqBGis_pPStOn-27tVrSrlhH0p98FqB7OfbHqZ9g3kedC0y96pxsoVxCvQR9OpRtCnzXwTKNCK-qqBMkCT_Ra6itg0Sn_6BIOwytU1wxzor4Cz29mAxR4aI0pxEXUMfKQHKBYIq45uRwhgtXZ4LbjzdnmGHCHAiX0HKtVUDtcqHu92TmrZuH-CTGuLcihh14VVKl8JUYZTYuG3g8BdiowSjxFcpwIvCmyc-RjFs8JpWOmgMl-PwzEOuhtHULinBQHTKKycTAt3dKpgudCktom_ezn6zxZp7Sos2nZqmK7tMWBEIVjUy0moO9VP16nZarRfK4HpzaF8ggCw2Z64GjErpi2FQO6VsLa2rszEQ-VDwNnFMcYBiIOCgzOf0MmYAmjaiUJ9TM.%26ch%3DAQEAEAABABQFyAlOu0QkrETQSyL7R1dv6BgeitzPpds.%26v%3D3%26pg%3DKSNLR4RENVEJ5FCJDQJEEEV47U
+.netflix.com	TRUE	/	TRUE	1807319554	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZ1CRxFJiN3HxWXpyZscB-q507nMsgH70.%26dt%3D1775783552196
+.netflix.com	TRUE	/	FALSE	1783559557	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783559557	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

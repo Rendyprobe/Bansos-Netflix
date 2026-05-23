@@ -1,0 +1,22 @@
+
+– Email: jorgepieras@gmail.com
+– Verified: false
+– Profile: Jorge\x20P
+– Plan: Standard with ads
+– Next billing: 6 de junio de 2026
+– Extra members: false
+– Country: ES
+– Payments: 1 | CC (VISA 2510) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1786028510	nfvdid	BQFmAAEBEABjDRyUZYFYC_5xU7n85PRgP8A881cd0oYQzo4ZxcGgpR811DNI9WdMcI0hT8UvA4gPPjJVgecP5nfhbJBt8GKt5kLDH-RotiIeXdmO2oOsKkuMCkqKcSGxS_qvix__Y2LUIfZKoD72TvJLW1s4sBAM
+.netflix.com	TRUE	/	FALSE	1807136269	OptanonAlertBoxClosed	2026-04-07T22:17:49.173Z
+.netflix.com	TRUE	/	TRUE	1810212869	NetflixId	ct%3DBgjHlOvcAxKDBGvPx2qB1gn83j1hzdWQzyjoYBZiucQRLUMh-9v3GhQG74qlAXx2CmE5nU5qaRP_1chCOyPRPRM1UmFILtOr16IOzFsO0YiOvfuaX-jsn8eVp0yWgqPIkkinMt8RUBWaRtbnE_2o2jwPA07_ZmDZivM2TD1-EaCmyhjB_YekhepAjkYd00UCMsDgP20TvjARBQthJdM3hxADmWBn8im7T3EaI0x_eh7KtYfkxYVpScWXqIGdmtnohorHumiWW2GS58-MFpsRgXQIw_j94IQKSQT4uHkjDg1y-1rjyPzFiwSw9k13SxC4mJuNZDkVnZviyn3mzYGrXqzbuMLiO5s8-DjO5goZwx8VmYL0ldIbCg9xXbTXsTR3Rcv7FMBUNcdk8WPkYXQhdsk6jg317ApvXUlCM5jzkJ1prmeAEg43fuz5qGk6yEo7ZYk1_9A4A8RmaHYTIL7howrRqVkSKYrjDZO7dSmVavNDWJnxaOZRQuAV5A9Ooaq0keTJVbkZTMoKBKLRWAI4KbKxqeLZ-kv5li0elN7n_pyEAAyFnBGVozXnfWdS6Guk17-qMQsFKFEd-carnqFahrTqYr9453UQ29OhnnxlQAcHyz8h-NAYC7BjfJrAKafLbjwdKDWluz_5gv_4OXgG07gXNFmajkq1Gcxo75p-kXUt4Eb4U5Sqvq2_3PV9GAYiDgoMP8j2mDzf2fPBeO5z%26ch%3DAQEAEAABABRHSFTEIwX1X-gDC9i4ejwnae9agPG8Q8k.%26v%3D3%26pg%3DK2UN7HHBHVBDLAUJU3GCFT527Y
+.netflix.com	TRUE	/	FALSE	1810212890	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+14%3A54%3A50+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a757bfb-08a3-4e46-918e-c5ce6e27d2c0&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775600270007&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810212869	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR2CQkHp3wbDJISpqbEXf4SJF3P3gDr1rc.%26dt%3D1778676871967
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	3f42fcc1-bed1-4a64-b8bc-fea6167a4f18
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	52073d50-eab1-42cd-acd4-2f010a71e3e4
+.netflix.com	TRUE	/	FALSE	1786454743	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786454743	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786454743	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

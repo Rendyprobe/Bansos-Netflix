@@ -1,0 +1,21 @@
+
+– Email: sadidaaulia135@gmail.com
+– Verified: false
+– Profile: Diha
+– Plan: Premium
+– Next billing: 19 Juni 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (SHOPEEPAY *********6597) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1780396280	flwssn	a4d35172-6c0e-472d-a0d1-fe7d78f30339
+.netflix.com	FALSE	/	TRUE	1780396280	gsid	ef29c7cc-95d1-4a57-bb84-ea8c75b26339
+.netflix.com	FALSE	/	TRUE	1780396280	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AqeXsyDB66-TvA-mE7I9rzuOGBgwOfbhPZv9JclERw8sIi0aZrbqa-mQSazcCjQME3Aj_rHxoIg1HaQoJBQ-lsbbggaj9bFvjviC-m4VuZwAYJ0BmusFRum_vJ9PedisncdFJ17XP8njzsYRhHH0KNcyCd5cYnF_7WlBWe0jTWInMrt2gr3BzQ-zIRQQ3Alx0vKFCE2XtWOZMWYOGE_8YJpMmzp3i9cQO9x3ihQ4LthkxWITSU_vF9LCrd1zxmPDznNPkwivu29FHE85TYBuq5jza_fCo1Y7xy_sH-0ENjkouASqjqauprAzPRQglQVX7SgbBGvgMSAXu70fwT9r6Zybu_0y2VRRazwYBgRY_33D9A3qYIp3rEy7ZdND4YeyCwaoTidAxa5jHLvsAnh6SFnFSBh0t3b_yCMffJ_hPWaOgoJhPQR4ou-gueEZe-RLJnphaj82ETdTDkKaAeNtRBbPcmwKcGrnmMbPY1Udm54XU6QWVlYYGAYiDgoM9wTQPe2BzGbJbnX3%26pg%3DJF7H6HMYZFHQDEZVOSCY6QIM2M%26ch%3DAQEAEAABABRkOPCVkezfirY7X4RXN5vg2RqOUQuG8Tw.
+.netflix.com	FALSE	/	FALSE	1780396280	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+11%3A22%3A07+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eecbde61-6f3c-439d-b75b-fd521bcca6ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	FALSE	/	TRUE	1780396280	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIXdxVz8lY93BhKSf-PkNCyt9RHnH5Vxg.%26dt%3D1764562923647
+.netflix.com	FALSE	/	FALSE	1780396280	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1780396280	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1780396280	nfvdid	BQFmAAEBEICva_GGkoDlKzu3Cl5pTPhgT0aTV-22mso1wjYH_lm3dSA6_aWLu15aFjeJAI_k4JNghaGmLbjTSSvavxIv3kfLFXix5jMJKEvX6WVCSOR3sLbRDmN7ha6MUE0MexQ9_pQWlz7gJU-oSYruHkupZEfn
+.netflix.com	FALSE	/	FALSE	1780396280	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

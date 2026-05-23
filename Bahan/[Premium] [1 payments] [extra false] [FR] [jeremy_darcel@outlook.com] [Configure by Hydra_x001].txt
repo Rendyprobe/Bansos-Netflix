@@ -1,0 +1,24 @@
+
+– Email: jeremy_darcel@outlook.com
+– Verified: false
+– Profile: Jeremy
+– Plan: Premium
+– Next billing: 5 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 1751) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805050420	OptanonAlertBoxClosed	2026-03-14T18:53:40.254Z
+.netflix.com	TRUE	/fr/title	TRUE	1808074450	dsca	true
+.netflix.com	TRUE	/title	TRUE	1808074450	dsca	true
+.netflix.com	TRUE	/	FALSE	1805050449	nfvdid	BQFmAAEBEGNZvqInkN50YwzhIOVY7j9gpdWKWdr4PlfqGppnwDcGmFmgB7DsFRsUU7uSo97X8bRZM_Zz5SrvwwFZ367Fj1X2HBiN1ESQAw8BVy8UAbZ7EppoLS_773-3jXxNa2i1qgN_LRjMtYk7XnWVhnkDyhEv
+.netflix.com	TRUE	/watch	TRUE	1808131138	dsca	true
+.netflix.com	TRUE	/	TRUE	1808162608	dsca	true
+.netflix.com	TRUE	/	TRUE	1808817676	NetflixId	ct%3DBgjHlOvcAxKNBKenVzwJKI2BNTzG6K5wftk9AJOp_9q577w0KPFxX__QErfRHnSv9bf6_wJYEikVeFP9Cmz9vSxaGhf47kEYt5AIWLQWlNqV-bXzKKqGxOX5MMlAcovxZ1LOZASjNB8msjLSIkDSSj2mNYPTRNwR21cqpYC43pDnS4FWI8-fMOtjlQ2pWDGz_S38ndouygb6R1RRGTQ__ZP3tmghERXepdQ7X4fhK2t9Cwq-N1qgwLUS0NexVGQfgBC7klipDjslAkRmLSA1lTH8E4SLgcRFYzt7ZW-JGuk5olmIRIGivpQLAntxNd17ewP3lCeSok4goM4Da2FvBuKRznmMsrWuI-9kA49PVosiHXdmuZ91NkIzT0NQ-c7HeC1KP1SvBN6nQqBmAkN9QlLZ9AbVqEAgorB7fb3LyLRaNGyuEzWa7p_MXQqlDu2lJC_6KRx6exi7IjNP85QoYvLFZUs-bY4RBELGKNNTWqWGkHYRtS78jD1wpBXw_Eg8T8i3mJqjVGsW9WHbOW7E0avxS-fzp00WXN97InQoB2TPqwc4mKr2LRp68vj24W3ka2q7m0bz_n-U4E-5uFq7YNdWLmIJtS7VNhM4pV97gKR7XdrEj1tuvdrj81FmrAW2Eyy3rlPsAYfQqCITOI_8kJG6olBWcl6VZpRTAppO9N-vPn91GUumG_jQzByJnEkbamdyLGtCEBgGIg4KDNcA890EgCgiweFYMw..%26ch%3DAQEAEAABABT0DN9cYLFNa-msDmqOSO40QI8NcADAFaU.%26v%3D3%26pg%3DX27SPBNT6ZH2LGN3BTDTZGJPWA
+.netflix.com	TRUE	/	FALSE	1808817680	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+11%3A21%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d721a4d0-aced-4248-ba6b-74909f00d943&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773514420594&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808817676	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSD_GiRFNfn8O8yv8cAZ05sh7R0LKFDXBU.%26dt%3D1777281676344
+.netflix.com	TRUE	/	FALSE	1785057676	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785057676	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785057676	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

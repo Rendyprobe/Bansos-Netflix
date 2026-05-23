@@ -1,0 +1,17 @@
+
+– Email: marioqramos54@gmail.com
+– Verified: false
+– Profile: marioqramos54
+– Plan: Standard
+– Next billing: 6 de junio de 2026
+– Extra members: false
+– Country: CR
+– Payments: 1 | CC (VISA 8014) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1803080745	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPA_xw_NLtNgwkfMUQlkR7FMvOnf2QyXF1b-f25iGX6ohAwbfoXrG_kWcSLVXcxzAdl_Qp5fS8nJuT2SKMbWU_bizWP_J5aknuTUiVQGIgbgmPiWq6D57_vruV7b7H3M8EGn-0nlASvJLRMC0g5CUr7XFgvsM_-Wv-t_bJMW_h0gmVvENtUf0jXB_3O9WhO5sBPH0NJ17zJRM7OLMl_zYNEyxWANarKenvKasrWNIdWd1_Zg771QfFsBfcAeWgp_OGNMi_RxV3Mh4HCy6XEI1-a9VBWYeQiNPUDM6DqMfEQp-0Yfxn8uiHLkAt41maGIELli5ROlFU9zyntY9Q84fQg8Nnh8LJ49yElI3IWngUWxw8RTHCplwlJHgzxBsXhTb82aryPKlQMV300r4c5pyr41DMw2t5JmET3xujI-KdlVHvkn_N8gNQlSA7pfAv0xKa8F0AuYC2wDZYFGUnIDid8V_pHWkD0kbDJ_gVnhlP8fvsQ6CoQSaD4nkRTdvQiI5_B4bc0Wad4B8mdHk6C5ocyxgGIg4KDNun0WgCUOLOebdXXQ..%26pg%3DNO5IQKWYIZFBTBP6FHVZUAXX3U%26ch%3DAQEAEAABABSGpusKNF3GaJk_TB20QUey9QuxCTOskJo.
+.netflix.com	TRUE	/	FALSE	1803080765	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+19+2026+17%3A46%3A05+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7b8d63d2-33b3-4518-890e-bcded7bc3867&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771544745555&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1803080745	nfvdid	BQFmAAEBENxWptiAnF5SsH8agFodTj1gBGT4cxg8sGLFB-jMer4F81nb5u4iePu42cNsgJJ5-jrdMatab4h1gHdgsYvR_cRUb4ac4NLBZnWZ2OgmuzneLsikPxeF-BJrm37eXrMk2-d2TSyA3Lvd5QPIvg9y7Ivf
+
+Follow: https://t.me/hydrax001

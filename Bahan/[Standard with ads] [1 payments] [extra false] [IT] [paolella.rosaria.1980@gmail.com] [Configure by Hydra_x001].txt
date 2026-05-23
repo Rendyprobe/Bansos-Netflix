@@ -1,0 +1,16 @@
+
+– Email: paolella.rosaria.1980@gmail.com
+– Verified: false
+– Profile: Scroccone
+– Plan: Standard with ads
+– Next billing: 13 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 0309) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781626829	nfvdid	BQFmAAEBEFEE6ZAqhTtIwEEfoqd77qFgCYviGabBln0wolPknnXjiqPNXOucuTuwefB32LsFvVRwXiYalTWSv7XNi8MT82rp4bEk4jNEXSVQM-Kj0geDXwbYqQd7fmze45StUGMzn02XhNKyHtRxazt4b_rA8IwD
+.netflix.com	TRUE	/	TRUE	1790881015	NetflixId	ct%3DBgjHlOvcAxLjA04f73eR_29YCW46MhK-IoJxMbNpVkdndRfYX3g_Z1vs0_C8IkhEt1eO6DWySPcAswXuyVo_Ad_jf8vHZrB4jISta9jaCP_dEl1gh3Hqn4jiObp60gQj9wV6QLVc-5l80E-qHJcD0mBckV-ghOwZUAxofE_3ImwpEUBya86-uMt70s0cTdM658X4dTQlwJzf9YBOrP4nXhgksEI1nYv3qWRy62vVpjqRKW6VhfaTK0j6HmwcbXdTTAVxSYH72snYuIt4vqPfYJ1fHWLPd4-SF6ctOyeFIsW_DZF9-pykCdEog8GaFnnHB8K_l7Vt5L3M6jwnpZXZSuVk05ohTQekEXCJSghkDeM4wMasPEChYPnQFI0Ms1q8ncRSVx3ham29YMY__8-xQH8fLv36XKXkDw8T6wTjeEWbNx1Sf77acIC6baQ99CcnpNgLH-DdgBjIfOQl7GbYLq1udPOHLzC1chFAB-ybmDa1EMbcwTUWmjIG9Rx4BXdafgb8jIiVA0mAk-ewGwexvVnIAcx5PaKFoPUvjhETMUN4Lg2msvJb-RWkD88Zo1C8g2IH7n0HDhpYg9eDuUFPOwD0eSKtO1m7P3f7HnLBV1yX4_MjdcQkneVGXD78Pfpj4SeSlKjt4aG14plXQhgGIg4KDGXlleVuiHFUkqrHfQ..%26ch%3DAQEAEAABABQrNZannWJgTeS44H_Oi-75Icp2rXntT2g.%26v%3D3%26pg%3DNFIJUSWUG5E6XFQKYDNEKUDQWE
+.netflix.com	TRUE	/	FALSE	1790881021	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+01+2025+20%3A57%3A01+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab8558d9-4ba6-4196-9f36-2d1dd86b9e4c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B72
+.netflix.com	TRUE	/	TRUE	1790881015	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwQ8KKqRWtvcKIUqnTOJFdW_UK6JvWVzg.%26dt%3D1759345016975
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,15 @@
+
+– Email: marly18@hotmail.fr
+– Verified: false
+– Profile: Léa
+– Plan: Standard
+– Next billing: 17 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (MASTERCARD 7656) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789404647	dsca	customer
+.netflix.com	TRUE	/	FALSE	1786380943	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+10+2025+18%3A55%3A43+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=308bae05-9aea-40b9-bdb8-2174ab399a51&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BNOR&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1787157583	NetflixId	ct%3DBgjHlOvcAxKnA4wm6zlwuMXCX1-aPXnjvHp76pVXXH0oOWxxmhjOeRakR0IAy_txH-Uc_fw6EobUzaDiVVzhkLLOEnRTOQ3m74LWRfYhMkTo388Z3WeKDXhOKav-IHFKLvQGQt36nQVQet0yV5LnZ1DU9fh6tGniPG-BpT9Vi_sx6e4Ok7nEOzXOQbSuVKKJz-CvM2ZL9vzVnisX5LUNiUDc7dYloYic-ycgw9_frI1UA3sDGlqo2Qz9YN_hCOWWh6SAkApZ0-qnRmBvtDbfgkdZAQFoQxD31j7fUySu9zqiRwOt0zuvzuuUPXPa6KNiKnI7QDDUvhHwAyTjU-gDZycgP8mGue7rxE4N_v4ZdprcknXb1-L8ROXaFjZTSbezgDIAr_Lugw_bH-YH4qjEC2OABradkNFPz9ZzfGXNBEGcznPP1jJnyAQbKux6YawaSo9HdzAoRG-SVq1GhjB7rJhuVoC5t5F9-iE1Rtrns0dtfIqpzTpI3SH9fONrQa7m7k9Hk2lujqprBUi6BGeLcE8E5Kq0bzVL4-imvskkAXirKGT1oaaur5liKA8HkUXF5xgGIg4KDGFuS7lkYsQ0wnnhvw..%26ch%3DAQEAEAABABSuh4OjeW5k40hr3yo5NuzxYUFtAdxoxd4.%26v%3D3%26pg%3DOBUPBN72RZBP3ET3IZTDR7VOBM
+
+Follow: https://t.me/hydrax001

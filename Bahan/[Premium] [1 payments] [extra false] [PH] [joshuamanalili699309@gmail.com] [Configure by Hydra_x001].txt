@@ -1,0 +1,18 @@
+
+– Email: joshuamanalili699309@gmail.com
+– Verified: false
+– Profile: SALBAHE
+– Plan: Premium
+– Next billing: June 22, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | MOBILE_WALLET (MAYA ***2056) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806928972	nfvdid	BQFmAAEBENGosxXjBlsXytmCa2kNqqNgheKBzHxE9QYeamRpxEG6snkFQDkayXA5iDTsVr_aj0u4k0aVOmZy-Pc9seMGdUfGmZzF4TFwmekfKhB9FHDmGkPui_Hzyvas6-Jxheha6NeI-rtW5BTT6c7gBlCoKAR2
+.netflix.com	TRUE	/	TRUE	1807190004	NetflixId	ct%3DBgjHlOvcAxLYAyEP-YKLqeCBBsTDQhYRtcskW5yDPB-MF-oLx-R37ZwKlzUNZrdvmEXgsTb6SC7O5gCkhw4NhV6Ztj7c745aAog2lhNm2Gh4lMqXqy3yvcNm_I0hAHPws2pLnWIk9GFvYaEzIdzi4EeTFn_7hE-J4FBa0ATJMNW_Dzf2Yg3Q4yBWtwYrrl9hksG2DhxOkOhvc4SwjDx31vVFil_J2GeU2Ms7hSaMRSasM68QSHHtLZxhc8F8y30N9JDbR4tQqpHxAxGTRpVyIET7RSm6i0d4OCnYOx_27Reylhe6fRo4S7NKICkQdlwKg9v7H8au-KcWu6efI47oBFV1rkAvMBcz1B8-pVpCvtyHW8WaQY18rWN_fj-Ny87zWYg2R2XbCYfzmbWQ2uzUvEwwVqZEbmcJrGxVFQ87VJMV4PzJXQmOL5i1p_f8HrqxNzyEWgVTjst-wBOFxWl2GSXAVm9PCdVOmsXJXv9qhBHvOvw4psVDdooer-ZaMN-YJxNjV7aoZDaAnQxpHn-q4eU4nepAtJu8dC06Nw1J75M2tuAcZ9_QRzdxGw1BgMHwPr-ZhBc-Iiubw6hT9vZFgVtID5bF4NfY1IMZEE9pkKpl4vxiXpTYabqqfD92XrQIOCYYBiIOCgxxl7zw9rMhazTuePg.%26ch%3DAQEAEAABABTZxt_qn33y79Q1JYkQ7kgQleht-FMSgpU.%26v%3D3%26pg%3DWKZQ2VNRZNB4DLXGZJBOZGZQWQ
+.netflix.com	TRUE	/	FALSE	1807190004	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+21%3A13%3A24+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09682527-ccb8-4845-80ed-4400fba38ae7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775392903022&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807190004	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6o2o4aqwU7IDb257plWpoeCxpoX7At-A.%26dt%3D1775821793157
+.netflix.com	TRUE	/	FALSE	1783430004	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783430004	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

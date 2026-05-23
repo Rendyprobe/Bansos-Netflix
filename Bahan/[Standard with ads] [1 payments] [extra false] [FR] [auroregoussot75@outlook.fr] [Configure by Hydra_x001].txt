@@ -1,0 +1,20 @@
+
+– Email: auroregoussot75@outlook.fr
+– Verified: false
+– Profile: Lou
+– Plan: Standard with ads
+– Next billing: 23 mai 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 7143) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1795741107	OptanonAlertBoxClosed	2025-11-27T00:58:27.182Z
+.netflix.com	TRUE	/	FALSE	1795741349	nfvdid	BQFmAAEBEDQE8wuPrWwVdmw0cfWebwBgqc1smpycAhALmyEWpMytz4rJssIw8GbvLwMYFGGEXtwM3nf1XJ6sidMZHAcWveNJdgMIyObZhSn5ezMQ3O95tvf1hGI0Fg4w_JtHCIGJNUtbn_OqENChEQbhbdqfY4Oy
+.netflix.com	TRUE	/	TRUE	1808859206	NetflixId	ct%3DBgjHlOvcAxKBBLalNdfaMf71tjwnJpVhUMUpOcko0Zl2_BWM5OYsDXga_F-3Kg4sGGPOGJwqyExNQE6myiEkQz2i73Pv4b2v-gSg5wr_dDdlmjgoNf4kAukjcDoE2lPmSPZPq20TYVwufQjKHPuPCD-82lqwu8Hu1FJIvrs-HFgvo92jJ5B8UlxylFd8qJTMu5Qogw07DXD-TDhlq70FcLR7SOPGOfScPxEAVAb3XwxTJbem2Jg4_mh_9X-K-QIB9bugVAu6N9Ru-OPTXDP0DcbssTQMVyoDGBaTY7W4aq7mJvBpsY6XeKjhHXjelVVDyxmqqn_9ew17aa2lFbbXNcZHrSQBjaZc3aNYFVyjlzG0wxXvOKuXsu18IVEmwmW6xabEsqutGwKI40ACCX_c8kvPMxR5xQ3TKTeEUliJMA5_v6o0t8OZ_lxBrCZR3nfjSlR7KGP2dRWh-HyGsbqX20r_f80Z61QQ35TTTnRs4HUOliQaq4dEap9zTtgJEzoDHzfgeovWTrbISOY3TABpC75JWOM8yoOtPln0pcqPQ5WKd7IPKep9WE25-hBEToqVzd1yDMItrfjPLbLsCpe5Nx6vFvEGROeRA3fNGOybr9h2I-bZ0HC4tNBCaJTmE_eojHeCkJ8SvAsUUzLkmNbZoNPV0T1g9a2-82xp6hWzavObEtAU2-w0apSP6BgGIg4KDEWM-K_-N0WaxqTuvw..%26ch%3DAQEAEAABABSm2n9YRG8OVi1L9IUM9bImyRaEeSrvN5g.%26v%3D3%26pg%3DYIR4GIAGIFF6TDGABOMSFSNZUE
+.netflix.com	TRUE	/	FALSE	1808859207	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+22%3A53%3A27+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b12aca5-64db-4941-9bdf-4ab4fd07e2c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BBFC&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808859206	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxKEsKfVaMFd08Ny46KYDRmOASjPwXASo.%26dt%3D1777323255238
+.netflix.com	TRUE	/	FALSE	1785099207	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785099207	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785099207	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,16 @@
+
+– Email: estheralves2603@gmail.com
+– Verified: false
+– Profile: Yohan
+– Plan: Standard with ads
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 7217) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1789234837	nfvdid	BQFmAAEBEI1UHas69Yg2Q3l1eefP2eRglLoyeS9_L9xhBRodadC7MiLe5nMLavfNZLlDUZ2es6LyMysB7yK0FEtJcDD2NFM0kklFq0dcQFfEmOyTEC1rHZI_l9ZqeWQjN2PVGU1q2qIhfE0Q4zfio8WeXbJoj8Qr
+.netflix.com	TRUE	/	TRUE	1794085136	NetflixId	ct%3DBgjHlOvcAxKDBDDAnbmZw9kZG7C_42ajfr5CjCraFvk7AQAMFPEQ7J2xFdAM0zUL_XWZFDbmj6OK-wxHHbIRWyeoNowp6Fl4O12pJbrZV8RCn-7z6cFjdysP0I8L9zek6rRhRi3xRwFSsLdLxlmqE0I-wTgEBQbhmWMadLKaLIgqgJgU66X1ErBDH5ABlG8R4i45-j5jBpDLqaL8B9CEFqetFlqo9FuMrUpU7PtQCxYvrB0ov2p4c_TRl_EfDeZz0Vd6fLUirbOvp4KVb9f4-iOeimcNubtPkGyJRDiQXJfUB3jqqJMHnLOFZ629g-c4aLdUbDujmiMIDSIWEcQJiBwRd6PO-C9jmqUIhiOIzm6WFdLrKXxR3RjKOpzSRZGah88njrjGquSdZwfiPItmnLdyn5Nyv6THxcDWlRyKXCHZSRlBL0ilJLNQeVdG0JtRkodf3HLz_PijNkcZYJrZIiITYp0v72_uxrSyjFb5JeFOD4UhVvGlsBnf_CiJ0imUTF2L14iQ7vtq3nIH6l0DDEVYGfitk0vvo8fdlOgZjnyn-5mRttUKWZs_R03hRbd72D5du-kF6lagnnGy0DhgGflbO6RgJj_3Fb1_jOOIDEAQzMEG2pnJgUTftdMs9TKY5g6yLC5TKpU1uLa5L7Unp1NrzFLlX2T0nRfvPcNTWVru8QGVrItgl6sUt6OiGAYiDgoMlpKk9F4Txck_5NVo%26ch%3DAQEAEAABABTd0Lr2dzxi2h6Mww2D29uNjcPtBac78Wc.%26v%3D3%26pg%3DORH2NVTFYBCINMBXIY5LP4GW7Q
+.netflix.com	TRUE	/	TRUE	1794085136	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTk-2y75NCvpx4NbeYulU4q-6m1OcTIPcc.%26dt%3D1778533181439
+.netflix.com	TRUE	/	FALSE	1786309134	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

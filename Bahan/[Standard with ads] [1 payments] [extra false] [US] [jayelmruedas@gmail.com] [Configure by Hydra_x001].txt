@@ -1,0 +1,18 @@
+
+– Email: jayelmruedas@gmail.com
+– Verified: false
+– Profile: Ponsogg
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: US
+– Payments: 1 | VERIZON_PI_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785806223	nfvdid	BQFmAAEBEDsZeD5clFSDPxpOt8ZdAHFg4Wh7mf_c21xxBE5HCUSz_ofIIVpINZebR0XhS7BBmVvwEDe0uKTFuJwyiX-2OjozUZ7cFaQb3W9fPmzidSr49oBZkoAqAuI9mVSZV2uY3JWBBmU-b8ZdlkRaYn_PDx0C
+.netflix.com	TRUE	/	TRUE	1806365181	NetflixId	ct%3DBgjHlOvcAxKFBDT4X-3X1dfDxCGHkg7I80xy6NFgSO0vgcBZlhJno61GaJVCcaiU-Jqgf1BP3WslplwS9Skh0BvT_GELgRy_TRSLGjYE8u2l6mOFLIWqruDyi4CdA34xMcVquQ2I9Aj9sfFQX6puBi12WhlCb_R6NtFMSSkUnuDp5SdtySwrvfXSA9kUzXSEDijn-WPd_V9rXOmmNkUd5m_ong04skoewiK0HMF1JyyKUr_BCjMhbAR8tLxqnwhyyACbTmoMnz8_UjIliOBj1BrrXgP7XdM27GFeWZHQDukFByL-hu_bRSon_mzjRzeFSG0NADWpOaRc7qCy1Fzn8Y43PKLECN9yOJ4KUajPu-HB5jOXVHD8FzuwjyjxSvJ9KT7lsUhBioLW1T6asVavHn1wkFPC4gcDm2mid0i74EzYWbPpPc3EEc8thPhy72GcYIlAk1oKXMxKvVZ-x3GwuWx8Uokwx-gMqwdbs6tVfaKBc2pEqy9hgjiEt7BL0w7LTaStRBRt6C1q4ZABQ_HeeEuQ_dT1PIMG07exwm2ZC1r2L58FBmV8KqsEEwCTBgsG89FWS0sbJ1SO3FDBa9qpivtmWM0CDNvhXAwznEFb4ZWY1pygVceU20wUP36aUebVdqvoENJoN9qboDXpsSR9QUI6A7GJb1jU-7q7Wq1mpxIuSVOJtZplvfutA-m_ZNwYBiIOCgwwlKQurleGOW_Iv-c.%26ch%3DAQEAEAABABSDzx1StJI6IS_ODC_ebYPK9wghf7oPUvM.%26v%3D3%26pg%3D5VFFNJA3BNCINGC4P43MGWVH5I
+.netflix.com	TRUE	/	TRUE	1806365181	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHTUcnS6_hc-2l3XIBXk7dru2oZZLH_pM.%26dt%3D1774829181155
+.netflix.com	TRUE	/	FALSE	1806371397	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+09%3A49%3A57+GMT%2B0800+(Taiwan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2409ced9-a289-48ae-bb80-37508b817422&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782611397	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

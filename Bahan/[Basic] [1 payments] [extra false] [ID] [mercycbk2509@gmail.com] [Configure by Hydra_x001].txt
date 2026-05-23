@@ -1,0 +1,18 @@
+
+– Email: mercycbk2509@gmail.com
+– Verified: false
+– Profile: Gio
+– Plan: Basic
+– Next billing: 22 Juni 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-811****818) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806735061	nfvdid	BQFmAAEBEJ6n-4ySLcfPHz4cfVaDnYtgKbo-JhuNlu2sONaA9y9qZzw7hvt_4DeXAWW-jCOolLVZklDLfp8KxsAx9hsrtz3yMbs3Q-2FcDPA4OVlZ33Ze5RH2-z6WvIFO6LaHQaHpNlnJzySkVoJOFXiyxgB6BmJ
+.netflix.com	TRUE	/	TRUE	1810179449	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSAy4fhVo5UM6tbIeS9Py4PIFUiwa25rduzum313F7u4bvsxexyldHNwX1nKFRkfy3Rl069B14YvXaU4PChC6By0Tgbn-0kwtyHxAnXshuzMGWiRdfBZ5SkuTqoeOvJDfD3AR4YJ_L0X027bXmN0Wry9_sD9VPhaHkyreRB4_A1-tnCYuyZG5JL3DsYU2k1MeHNjs-Nfp34nGKb_dScYUSBb6E5810LMHsQu2de1XwCzDHfH1g6hYLtWJrnk_VFtGanA7Fiv53Rpm3N6Bhr3e6oF5mcbt4r6EepYto7t_7xBPCJeZU4blj4lhbya0gR_fdoCijc13ZxHVm9vSaNiM3fu0DoylZymItIWbLrZmadlG_0oI7chNcRbmuGm3A5pQ6866Ll9g7jMutmtpkgyWcXXVlcRBlzkAnszwlA5Bmw9rouGPqclL9kgRuI4sY6U07kN8gKWhOLQvddIZsh-arQMme_f7-ZaAgP6liFAvTjGs2ydN8eVI5d1nZaYWNR_amYh39ixL886MYjyIq0NMRNG2LVRgGIg4KDM2R7Ugm7eZouaj3gQ..%26pg%3DEUXBC5TP6ZGLTG3SDB64B3VNZE%26ch%3DAQEAEAABABQRkUkWXS7Lbp1GreiLR43JLw3hGKiYNNw.
+.netflix.com	TRUE	/	TRUE	1810179449	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRGFBZHCmtWoMirrL0hojfqJPvPg62TiF4.%26dt%3D1778643390661
+.netflix.com	TRUE	/	FALSE	1810190149	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+14%3A35%3A49+GMT%2B0800+(Singapore+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d4e0c6c6-55a8-49be-8da3-54c3901d7b3b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786430149	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786430149	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

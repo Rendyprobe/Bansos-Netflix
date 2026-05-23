@@ -1,0 +1,17 @@
+
+– Email: danielascosta76@gmail.com
+– Verified: false
+– Profile: Daniela
+– Plan: Standard with ads
+– Next billing: 17 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5286) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787970003	OptanonAlertBoxClosed	2025-08-29T02:20:03.632Z
+.netflix.com	TRUE	/	FALSE	1796091135	nfvdid	BQFmAAEBEPqA--vzAxOTmumJcT1KWdJgaTeMcFTArjQ4JgdFhUH0rVM7HG6KJhu3mAY_gVO0pc5JybUE8pdwlMtqH8ooYzlKPK23cVZaF1rrCkG_yJP-3JjdV1DvRSVFn-f5Q-G9otXsDaHAOSHE7owHFO_nPl8Y
+.netflix.com	TRUE	/	FALSE	1799064307	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtRVFpD3i_xXcDYInSYxJPcYV4vLIfNM0.%26dt%3D1767528298545
+.netflix.com	TRUE	/	FALSE	1799064307	NetflixId	ct%3DBgjHlOvcAxKYA750l1PJ3fETg-WoLWyJke1CW7rHqDr4RwH8RS9SXtBEEah78EI84-cFYvSbSdi8ns14Ztg3sU36tj-Cz-JX2Gq7TQtnjkgIRd3BEtJk0Mg5Y044gB0UHflmVUV-gYplc3vWGkimLvTNAhm_4IErXFHOMEQXZjCfXpIy-gKwEloLow1sl1oxVTjemYKFnh2smzEPIztA6BPtcNbJjIr4LFLMkhCYIV_HNuWkF8nxVd7bBGrapoYo40bYVLSg-aE4-fgO7ddv3pJ45cfVWM0OETPo2FQ-NvwBwr-OGBP6jxdOyaCBCoAWNKYOmh_lbhax_tj7bNqlWatmR_hnp1kPBnXq7BG3ebdQUV7lt9oLN9Puo3bfuE-JCBeq0v2f7V18OwCzDF5Zcg4cn_1oQuMlrLV1KfUiSQVF8OQAauWdOJgn-v4iuZ04q7ngfODltfiW5NBhkU_Ya9ZHRbjjk2YGg2RMhqpSVovHP2lPJ5QCh7qFXEXesvUs87W18m4wOxGW2eIgX9Yq63CNSagQY-hCeYEOBKBrxxyCqxgGIg4KDOSYya7ejQmIM1zVKQ..%26ch%3DAQEAEAABABQo_7EZddKTIhYCY2tGFqkA6bt-9VGcPpo.%26v%3D3%26pg%3DZCKNZ7OCTVGGHEW2WL2AHAZWCA
+.netflix.com	TRUE	/	FALSE	1799064608	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+09%3A10%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e6859867-bd96-49fc-bd25-c72d60937cfe&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+
+Follow: https://t.me/hydrax001

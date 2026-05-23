@@ -1,0 +1,20 @@
+
+– Email: aligoraya7867@gmail.com
+– Verified: false
+– Profile: Unknown
+– Plan: Premium
+– Next billing: 2 June 2026
+– Extra members: false
+– Country: PK
+– Payments: 1 | CC (VISA 4163) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEOqmdEqtBtYWS02G5afWyN9g3g9bVxq5wx0HAT952j5R1MIBvRMy7S0wxdxAmJbMxQXZbA-pq2qEQXd56JSZdolsgkQM0AJYR9eAe59l1vOEc-wczrTtgxaTTfJkSq7tyRYjflHlV7SefKlxxGvOfzRE
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA0EkWv9CdXAyekW7H0HFo_Cz3EpXIJ7ky38vG9X9uNV-cpjJNzRgPvgdC-ujAAIQo1EaNKroTz6-tiL0JhDJeisFDteHK3D4PvZgcMgTeADPcQX7E_AgP5-axE8B_5jDKGG_KXvSqT0mgC4ZdXlXhtw6yC8N6l3JvyKRhBHf2BT4i1GmWlwA_QWnEy-1CEoTfUeWvhf9tVnrCoAJLhbJbOe8Nm-9U-7hciVSQrLHy_1UttEQNsBJF5UB3A7p41ihSSmabTRJvCNbL41HiaXBVtebtYcvHWlp7MuCH6aFFvvJEw1Ov1-tHH174eTRUtOkszGnVSMyuGBkGnDRMPSQeyqq30hi6B7-HexdArYFbJw2lI9ub98KxXP63J4uPPmjXiDPPEhcrKJhT_ek7rL8QM75YI4afLhbaSNg2qb4Vp4VFs7DM-ZBVxfVIvBB-KiuCkl1uIFcxgaDRB0dQj8gMakIR-81BMfw-5IxG8_zzD3ZQnZiBlgjAmitK64BLJjV5locDQ1-MqaAnw3BDklZekTZ826tZ24YBiIOCgzofvBI7VRvtFTwaFc.%26pg%3DDUF2JF5JKBCTJO7PEHJEDLCVR4%26ch%3DAQEAEAABABTNd5KLha22DsxIlcsRLPK5JN4HiJu4H24.
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+22%3A25%3A07+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c3457be2-d12c-4e22-be9f-4c316c2b1327&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774291949400&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmRuu8_3YyYNFTWmRCSrRXFeHU1ge096k.%26dt%3D1778606704020
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	8bc204db-e03f-4252-b235-4f15529ace6b
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

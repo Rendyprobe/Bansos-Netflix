@@ -1,0 +1,22 @@
+
+– Email: shawnfurd3@gmail.com
+– Verified: false
+– Profile: Jonny
+– Plan: Standard with ads
+– Next billing: May 24, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 3560) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798240405	nfvdid	BQFmAAEBEACAEGjm_TFq56s_b6dK62dg3almV786PMhACylpvTzeAPuSFlnEKTj40R2V9SNsOurg4PA9camWGfFSQckHSV1vyh2oAUUGW7wUb2d5Xr5zs-Rde9RTRFlpk5C17mQCqZyZ4LqEIGCClQjv_VCHNe00
+.netflix.com	TRUE	/	FALSE	1781798731	firstLolomoAfterOnRamp	true
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	9cc99ade-62cd-4f1f-accc-31997db971df
+.netflix.com	TRUE	/	TRUE	1799774419	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZRCgn89st0uuFvpqHiometXi42DO_fxo.%26dt%3D1768238419245
+.netflix.com	TRUE	/	TRUE	1799774419	NetflixId	ct%3DBgjHlOvcAxLiA2JVgxfMSj1dzWSeGoFzcOSBPIFYcHSnbOkK2l-8bkQa6BZ0siBDp90xkxRt9RzawxGY2yptv7ODdUnc-ju4Wwp2_wrqp9eBe0dNjq_fzYgeYhKt8pi6acMBeNdruPLB7bFRVH2eb05_rmkx90cRM_WNG8zT6EfRueFhZeB1D75xK106iyAT6H8BfTfJD72BM3iXPekJfZvYg-fPY0Wt3oEy1LASEsCjRoEc8N7GKiDqevV5KtTa-AwpCynds8VjppY2dal-N0hhj7oWqqBq0tArTFXJ3TnfeOXvaeAPv9Ca3MrQwojxVcSfGohKyzarcfZOaLd0tdBeFslyrAeF9C9Vuxr1j491uyRFey06GJdkkWBO5-nN8jtce9HowcswnHhypDO4tUDToaK9-2ar0vqIn87bHEmI7sVTdxR1fgl6XguUzZR12mO9AVD5PNyHSgGCcv1_Ici9L3O_XvUDWVHEYBYiOFZ6R5qRMDNonpqBXvaTTTzT9w4xx061TzXSPllFOBAAEklfaI3UqjUaRMNfZzbQv_Uq8f8eejMZoZrg5ujteIV-3AoS4aOOm7zb_sfuqB1u2G_FZrPQvkjnTNsosz2UH-uh-kALRjYQ6dd-r7jzmGw1Hc4STsYzV6P8LIa4GAYiDgoM52SIN0O6jz96mm3X%26ch%3DAQEAEAABABTCk0nPzLmgXg-5AJbRa1OeyTAouekHr4k.%26v%3D3%26pg%3DL35GSCJCYRDEXCCC3WL4BDRDPU
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	8594627e-0f92-4a70-886c-e56432c5111c
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799774421	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+11%3A20%3A21+GMT-0600+(Central+Standard+Time)&version=202512.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=13acd1af-c7d1-4970-818e-e36623ec847d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

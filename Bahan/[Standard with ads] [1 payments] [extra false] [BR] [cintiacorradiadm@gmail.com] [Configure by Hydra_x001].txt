@@ -1,0 +1,18 @@
+
+– Email: cintiacorradiadm@gmail.com
+– Verified: false
+– Profile: Luan
+– Plan: Standard with ads
+– Next billing: June 17, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 4788) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806190467	OptanonAlertBoxClosed	2026-03-27T23:34:27.901Z
+.netflix.com	TRUE	/	FALSE	1806535827	nfvdid	BQFmAAEBELQ3U3ij53N_IvNIOoWLqytguKapNtrrCtkBdUAz2OVT4ZxJcxXuai_9K6LfVkKzqNXe0YlvydrGS4Map4sbe7JJxTlBjBk0ufI23iVQgfm8j6QGYALOQ83icCPBnrQDvawqefXGEvuS93lNqD3j6XdC
+.netflix.com	TRUE	/	FALSE	1806881248	NetflixId	ct%3DBgjHlOvcAxLMA2kREo693XQ_xNtBgLGGjyKWu3zj8QBckp7p_HbTTe1kGdDpCoRyRy-S2uqmUTw8aAyRjMdix-pak55wavSKwzgdmMiyZH1ZgeWgKoS5IpIFOomvFGIvBkcAATAaa2jlYRC0fN0MInENOG7ht42gTwk5D_dMSEoQlhugMDi0Xkmz94fN7FRQKg-N0NIEZOzxZign2SgKw_59NOi0qzqT01nBM864sV1QHssjY60nGZUMefcxrcPEU9lur_yJI-1uRKT5S5WQnaGsBqWrQCJThnZ8yGJZpHB2zV5lWTAKTuCKNL8dUo7CaeRokqICe-lykxFmwudPvqeoR-0sQjju3_GvVKHBKBSl0UxlRcP2nVpqPa1g40W0MqYXzsWiXFaq3zV9eMlbaOc0765Gt0KR5j7s3E42blZZSUCKTlc8WoDF1cEpi0hWAlUaJo0ZZb_V_VYkz0xqrgQtIZNs4soGaVAXFMmbNwISJsNJOJy-Zk7N1UvNRVVqK1doRjtduLQjUqfg5O6UYCiUxpemlpMmPoutiigk0d74EdXPZgE26iy7iPhY7R7x3-qQ6kox9kb70ActPtjhEr9D8OyU6F7IT74NImK_xKxr1o_H6MsYBiIOCgwRcD5N14Scgeoy_Cw.%26ch%3DAQEAEAABABQmmg8Im73pLoTNeiX7VtdHQrYOix8xIBk.%26v%3D3%26pg%3DKGUVDDJKNRA3ZEK4ETUJPMZQI4
+.netflix.com	TRUE	/	FALSE	1806907702	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+03%3A48%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eea34db5-02c0-4481-8ed1-a7873e3dc6e0&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774654467980&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1783147702	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783147702	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

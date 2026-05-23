@@ -1,0 +1,16 @@
+
+– Email: harvansh.singh@iisuniv.ac.in
+– Verified: false
+– Profile: Harvansh
+– Plan: Basic
+– Next billing: 10 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | CC (VISA 7008) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787384676	nfvdid	BQFmAAEBEC_21QSRPTDgWTkw7xD11A9gx-xbRBsn9bog_BohczZepsTChKHdzeE5DYJuRHtxKupVCHOA2JCSwDMJtGe13KAUPTjLGNvBql4qpawYsOqQqQjmnfSuTm7remZJomU8J5OwsKRInPisGbkMTK3U-7zK
+.netflix.com	TRUE	/	TRUE	1795343451	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRsr2ImtR5i-Uss0fKHQowrXo5XOMoeQVA.%26dt%3D1763807451370
+.netflix.com	TRUE	/	TRUE	1795343451	NetflixId	ct%3DBgjHlOvcAxK4Awg611MITXPYKgRSn2KZBQ6vh_rVqLRcSjohRZDy04GMP6rNApuCitTRfgZSBHSPaOyXr0Ecsq2ualsM_F91ZkTCd-pGx7uKt8pmi9In_bQWZCQ2S21TbSUIIpW0tFFUuo72WcpMLHqqVxaPbHF7xiaV1sFtUUSo6rqbCxOdsAnwIkJ6tZN0iOcSTIkKuN1stE97557d1WyoG27-Et3ENt-Wt207QRYki_FVwcmOfp59s6F-gACqTGsZaTSY-7QHY4Vs8UmXTezAAW-FFxLPa7wgFEgJlswQQawy8xUMkWkpUnhIP6wKYYv2zIKaRnmIv0OQ1K3dg9Nx0NiTqLeOK9k7ztnWF3Cl3QAcAh44831rWd1oY-cgpl1e_iTanLnuwAnsK6icIkHeRtaA0prMfPqS3VmifmcgMEjoP9vFUbjY3zjGcS3dyACcaXzY7j3_rJiQLtLQtUBPuf9NxqEPZ1Cy-dPh-_PsC-78YxjnG1o02wImxDLHsQcUnEuALpz6fcOFerYRtNHrE5viQVdQcucR55qePEcWGtouS6a5jDuZfTLaKKfFHta2jzCQ0DtytwQEq2VuO389GAYiDgoMuMdwy33Odm-9Sh12%26ch%3DAQEAEAABABRyYbVunOI_5HSkvGbof1w8D-hH507XRTo.%26v%3D3%26pg%3DTVLGGNLMZVCMZIM7OL6NATM5IY
+.netflix.com	TRUE	/	FALSE	1795343456	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+16%3A00%3A56+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f905b34-6d0a-4ef9-9157-04c7f894729f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

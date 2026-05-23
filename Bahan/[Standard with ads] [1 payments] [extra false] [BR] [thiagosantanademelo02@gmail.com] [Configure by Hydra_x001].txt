@@ -1,0 +1,20 @@
+
+– Email: thiagosantanademelo02@gmail.com
+– Verified: false
+– Profile: Thiago
+– Plan: Standard with ads
+– Next billing: 10 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0025) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-04-10T19:50:59.574Z
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA1Mhk5xLdsPeFgPQQodR8ywfPZefU6oKfItMeyUcNq6FlBlzCWV-oFXdNmc1SGzsubLkw8QVsidpMCsT7bdV4nKl0v3gzgAoVB39PIZzme_gUSBIMzP7tF_Ocp4TrYIqidx6AcPS5frvbcxKEN6pU5H6jOEtMAILml6-B9zx6x5Sw55m8w0-MGu0OXqFmLnJxdiUJn6D3uDHLOryceJSfqz9yGCzALyjh1eyi9UxzznzPFjaNCRzmQlFhd901Rhypm_ofUVBvQ_mQMKPzCMSX5Oo48kwF_tyxOr9QBWps7nFH5lStKJE9rr9KmNtmBYf50zB5JG0WJGtaij4SLDCHu3UxY6TjcoIroa5a-nZTtzPqac3M8aho1sO7Uq808g7IJonQSnYCzJmwNVCsfWtgY2m3ZlMx88dINH_1KqWhF_xvW5U6faebzmAipfzNDSv-wMKFCMPzBLz8fPcH9FWQi2buw8QTWCz4QX9Zq3nHzacJW6Dg9T9NLrrU0sXDaDLhZ8O-QA_V0XJMjhJdm2lCiApHWcmngMK62S6w_Cx2l5Sq2vzGAYiDgoMn6MV4R_HA2drs73X%26pg%3DZDZKCADUOBASPM2R5ELKD4NXEU%26ch%3DAQEAEAABABR2AkDmT279KC7t89aS1g42uoVN_z6LCWI.
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJOvyVceBMKwy832fQvbJmwrUXpVOWtV8.%26dt%3D1775859425299
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEDVdXLx_KvwdC9Vk2ef7b89gHWeVdb5hcP0Nj34tKu4rePwNuVidI7eCC9MClMDI7OA16bdGdF3LL6ggN4y1PWzinizeZgjOVJIdZV02SBOE3AAKnM5009DZAMP3re05vGEjARTZlNIWYV4rGjW3Uy-I
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+19%3A18%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f5b3aff8-a1f4-4f02-ace7-bc15a41a52a2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775850660000&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

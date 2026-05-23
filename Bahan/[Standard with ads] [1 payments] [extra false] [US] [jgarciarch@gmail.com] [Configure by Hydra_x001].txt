@@ -1,0 +1,16 @@
+
+– Email: jgarciarch@gmail.com
+– Verified: false
+– Profile: Guests\x20y\x20Familia
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: US
+– Payments: 1 | TMOBILE_US_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1779852637	dsca	customer
+.netflix.com	TRUE	/	FALSE	1780523292	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+03+2025+14%3A48%3A12+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b8e5bdee-b2c7-426b-b8f9-8b65eaf76eb8&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=MX%3BSON&AwaitingReconsent=false&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1780683136	NetflixId	ct%3DBgjHlOvcAxLsA_NUEvPlIHqWE_qa58-Nu1j9bu4uLGAate-t-TuFgkutrD3V-sXo-0N3egL4kuK3q5XlAF_tKdk7UyG4OFarYvLc4BGy0fPRq_hjXSPYyZ9BTqwIffRrdqJQq2KRzwuWZQC4ZPX5itpa41VuW3645_vObIH0kn39OOG8OkN0mvDCckcMEGU99bKK7-NCHQnj_ydvvFp6LQy-_-DnhKIndx96WGuXXwY04RhzhkJxbMR13xX1tFPaBkbOETmzXPd8iHNMtA7BPk74O4RIATbVQ2ynIS0f9b8ErH0r0ArGAEZHOtFZcpnVoM3Q7X4U9nUD8dbx6FdJeWm4hhKbd_T4TVDHOGueOw5MaLVZlekp3SAiruJZIadxy6p6FgrsqG7KCZBJIvjOL1bufxQJywW-tfz1oY1e3YXqLHlym4t9NrIbDb9SVVNPCk18RA9uNrFZ0qbLLW-LWCw6o4cQRhnhP_jR4a6S5KHpjElloU3F4XcxBW2pWxVjnt6YhlkAciw7lSd53AyoGc1fOFsseJfPGujOUUQwZh0dti7W-KdPx6cg_5kcAqC4T-hz6NycDsZriPO7He_8KLF2y1-CHaNyHojVEs5Esra3b6Ve1xBepJ191_DbScD8TMHOo6-4KakHvlnNQ2z5bkVJvzABthgGIg4KDFCZeeHV6-XuzPH1yA..%26ch%3DAQEAEAABABSai-mVkWAHgzrZIDT7SjZOEXA-iNWjlRQ.%26v%3D3%26pg%3DTINWJYH5IBFRBAIM6U6JLC47RI
+.netflix.com	TRUE	/	TRUE	1780683136	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-XGSgvmIOVa6hQwwe0c6_qkaI7agmjl4.%26dt%3D1749147136163
+
+Follow: https://t.me/hydrax001

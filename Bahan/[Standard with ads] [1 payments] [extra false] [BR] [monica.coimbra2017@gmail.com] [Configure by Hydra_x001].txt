@@ -1,0 +1,22 @@
+
+– Email: monica.coimbra2017@gmail.com
+– Verified: false
+– Profile: Mathias
+– Plan: Standard with ads
+– Next billing: 18 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 5122) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-12-02T15:48:46.910Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBED39JU7TZy7113jqxfAVs-xgEUoOeEt2R_YPH7Qhz6Fu5LJ6Q0hytMZ1Y9C2htHtLb2cbPjDgBpjihDlnpIKoaiIf6HLe55dltMEQGlOvbcMUpDI0aCTheW5KgH4COXuhBvY4V0fZ6jCtO7pCZT6LO08
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxK1AwoOMzGE0VgE5FWURaN8Dpghl1_ThXUJfMDBDKdQuYslpm9Iwg7jB5XJkUf1IJ0wtjVWmpd1S9luup6G0oahXgI_EdinImIzYCGx4dPwrceJysTyUSVhQ81UtNkUcJdrD9wxihX_gXLNBcJc3BDNPl_WpDE5BGoDN3dn1iXiq_1sAPLfGD4fdASBPPhksQ9MEhCFNmEv_YTdB56GnNSrzTnt_IDuE_ZMOuQP9ogCuS7GXYXAB18mBExt7ChYb6DGIrsqvphoiKO9NnLp5GpGyT9BagxBPlJK6tuH822gnytqdGD-TUE2HO_mUwTn9phjZfvIY91wDU7I73LIuCmH-sK1bwu4JkZR1pm51QDWDV5RuzJZ74jgm41-OStHDXlEziAB3qu0rw4r3iRFOI-prFOkM4_q0Hhm9RFAPZ-3a94ItTy569PrBE7QT-7iR5wQbrLRYPYji2aQVkkr4a-oeUIv3UibagF_MVtLSnsJ9extaZOSe7ifJ0AfgUnNmVVOu3Fdt4PBWBbN_sbUFoJnfBolDj5Q1LghSpiIVEj9fj4I4OIDRwVi12beCxuGRRFF1nQfjLdGGAYiDgoMcknbrUaFVE1jcmmC%26ch%3DAQEAEAABABQ1RqL0jg6KmeaoOJ97Bc-UT0bZBCx8WeI.%26v%3D3%26pg%3DK4FGTN7NUJEXLERBRVHBIJ4MDY
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROU5fTQwSLQifSr-3ZUd_0PmIPAwGWiQ4.%26dt%3D1778446542644
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	7336e977-43a7-4fba-8602-bcaac7579a73
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+19%3A56%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aaa34cdf-edc5-4fa1-8db7-8768e9e6f9eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

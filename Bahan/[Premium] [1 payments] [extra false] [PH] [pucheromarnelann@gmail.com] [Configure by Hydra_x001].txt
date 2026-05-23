@@ -1,0 +1,17 @@
+
+– Email: pucheromarnelann@gmail.com
+– Verified: false
+– Profile: Denmark
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: PH
+– Payments: 1 | PLDT_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1794903340	nfvdid	BQFmAAEBEPX_1aOxrnqQj8kmkQ3KYTRgi-yYXyLea90Wt-Ea0Y2n7bC4T_P6fxo-ut8uBMYNT19dmnTKWS9FOwtu3ZnprmSHv21nfplZpIcDDrJg6Q4Dsfw9vy4qV7WXYHq_eCNIVWPAjcmImBkLIDRbeTuZGnlc
+.netflix.com	TRUE	/	FALSE	1806997491	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+15%3A44%3A51+GMT%2B0800+(China+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ba414a6-706f-44a2-936e-304a85d9dab1&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806997490	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA31eppkXuDIjDHhjY9i2_iV20gAOhU8R-WTMO5S92okl6Shpi-iSZJPEeZ4Pm10c09ed1cveT2ciIJTLiflHOcFeWymLNq2jtHriCfoSH7VmIlacE0_jz8FYMalptpLVRO_FqF3EUk-Bh2wN-9KQowr-9Q4GyHew10a_hRlv2Y6WQri5q8A0WVUNnz3lY_Ft7elCYmA6rfMWTkcSUfZYL-58FviRYvZ21LDziWTi5H3jqzjquqDOOQOfy4Jyx1jw_XfzPWBayrk6oh0lJli5aONIHXoXXD-qQzDa6EgAmGFzAO5b_4pVp1d2OMI5c4VIWKlNuOkRw4iXV0NuFIGFGs-uhGl4lUt6_vaFNfcAchA83yByYqGAPqdH53TtbNX-RKcH-qSr6oj3hesrhef4dwIrNYeFAtc9-e0OmZR2RetjILpMLFDNii0FhXtMcJ6r-VwDLP7RY8Myxc1zH0RG2t8-VIGXSC01JUQaODXhlzRI_2bfGL0TT40Q0ckZCUJKHjJFqxf_nLAYwEpy3M92jCf1eRVI4vUYBiIOCgyyWaNVPNH9yAtZJpg.%26pg%3DZ5YUEQ2SZBBCRKBYBAMK5TDZC4%26ch%3DAQEAEAABABTyRgo_I3B-pRC-y6n6RENPLbRm8UklQp8.
+.netflix.com	TRUE	/	FALSE	1783237491	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783237491	netflix-sans-bold-3-loaded	true
+
+Follow: https://t.me/hydrax001

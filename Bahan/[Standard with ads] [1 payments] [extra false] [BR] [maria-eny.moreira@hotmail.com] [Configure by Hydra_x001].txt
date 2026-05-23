@@ -1,0 +1,22 @@
+
+– Email: maria-eny.moreira@hotmail.com
+– Verified: false
+– Profile: joao__
+– Plan: Standard with ads
+– Next billing: 22 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 6943) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800567498	OptanonAlertBoxClosed	2026-01-21T21:38:18.110Z
+.netflix.com	TRUE	/	TRUE	1803591739	dsca	true
+.netflix.com	TRUE	/	FALSE	1800567738	nfvdid	BQFmAAEBEK3TQQXiXTe7x9d950K1AipgC46-EgVNFIP-GDQl-5eADlk0o64vPIN86ubWINVNKf7sNp30CJiwPluLYFQKzD1OhxVo-EX3s2icgTbKt0PQXRMiujXeHQta_7N4gmzITDtWUesGi3qJio2SEqjnGI3r
+.netflix.com	TRUE	/	TRUE	1809815450	NetflixId	ct%3DBgjHlOvcAxKEBPzojegiItIPzbq6dCjyHcjlyCh91rQVTcNDrYT8B7fNyfcUaGsXI_B8UnOmdiGyTmOgcEDW0fLXiZgQSvl8wa9vLZ8E03Wzk0rnT3F92B4A8IuXVbKP3lmjVeYr7VUDhCpfzW87-2zig3xxBasZyDcehzuhFkJL78tl7X30HhsKkucNnE7OHMFddJv0citZldMXsApeAVPAuMeaLrTk1BMkfDppO2zzvQCNwkz98Eb4AkbWGGL5rHpqapu5F_Ng7OFBjX6aHFOeZX4bryeFf91-l4Q7fykU9_Ob8NoCtCu0JK7ozZDmJhL5zA-CBZrDr3GLzdKXqBrQ9eOm-okcYYlO0fbCsSd1o1TnAA1Bvwvq_ouQTo6J3V4ScKDEy8INu_URF6apFG6cDmEGXnVHaS_PAjy8pPPZAmdObomNWR_-qUr-9fPK5BwQXzJ42CUSnJrWvDcG2r_bBbi7FFql2axGvdXW9bcLoLS0uKkUtO-MlwvSVsvPOGgfojWa2PVkzsO5YA4h7Bp6DLwGP-BZwINoSea0akuYlJy-6c1cWzTalV7FGHNnz1_BKLpW7oIBbA44PcIwEqKr6-0xgOFJ8PtjWJlXcv2ta0dLbJeuLXzggSBKWbmX_y7YVrT61lyigmzTea3Tadj-R85xPDeGU8QOnNB8n0Y5WFb6HRz5SmzdLmmhexgGIg4KDBzCmvyXBwmBHM3ELQ..%26ch%3DAQEAEAABABQmCEkefWQTSCUg4TDKmXOGzwmAPz4n95I.%26v%3D3%26pg%3DDBUB4MSOEZESFMIQCD5Q526BEE
+.netflix.com	TRUE	/	FALSE	1809815453	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+19%3A30%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=64d4481d-6de3-4c5f-8936-c82ef7fbd4a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769031498644&geolocation=BR%3BMG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809815450	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIJE1pgiJzf8znUOrs9RHWc2kz48oPJuQ.%26dt%3D1778279449833
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	0fc9348c-c026-4639-8a19-b7fcf857d739
+.netflix.com	TRUE	/	FALSE	1786055452	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786055452	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786055452	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

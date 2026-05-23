@@ -1,0 +1,19 @@
+
+– Email: doramysdelgado@gmail.com
+– Verified: false
+– Profile: Miguel\x20A\x20Ruvira
+– Plan: Standard with ads
+– Next billing: 14 de junio de 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 0616) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799596813	nfvdid	BQFmAAEBEG0ucxMdeaQrWF1MnCbQYOdgKDZMO9dWQJk7HxEmHl2_SrxJfpbghjemCrN6pTJSJ0wQ4i-JuGbSYT2l7DyebqBWkGfLI5aS3pAP48J4X-1AfbL1wod4NNpUax5KX3-9gp6kH9L4dgVOpsfjt5mBtZ8C
+.netflix.com	TRUE	/	TRUE	1808847318	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA1E16_ewjivpzY7zcfLjaBziquM4L_aGvglMnFRtRspNAhmM0Rlhsz0KQBHubp-0cvepFq_Vtohp_sNkUqThx-gWo5eA3VmkU-tgx6XT22e7ADXAb3WT8CJZ7af02tdlSIF9WXFhd6fkxo5-AH7yezOdR7AH0a7yy7g4VF-b4gAaF8TC5WRJFtMLrgbKRdNvvu7q6D-lUEsRFDgLJRi0x8fQcYrkEJ291vXTzz-rGaLRxgS-2DyA27Pk0kAyXoErxuaIcyjUrV3zR77J5EtL8t-Z5HhU0L-V6J3vaQreL0ZYkrjrNPQZmppWLqE6SoYHKlyNM-bg_e91Dr2WLuD0vvdteZKI06LVEfrjUz-lKTFW9eGSpQEO0gxKmMPoac0C7OiR932TsyGWI1r010arZQ6S9HGV0RaUmrM6G1o-OaYvO9RUK1Pw0NL3WncgrKZ7qqxKnZOVXprN8ZYtdJwekx9RfKzZNbWusNdcaRwDUftDQXDSvfDWADQ8njGVSDHFbXpcOiyb_iDwnmC0JqfpxfU2q96PamHEsvvzPTJYgPaSkjPBGAYiDgoMc1KRpXzytpya2X0_%26pg%3DJ3GFOISVNBBX3FNFE6ZCXYCJZ4%26ch%3DAQEAEAABABQ4hzywV3uTooKSaFNFxGd1rGjqy2wkesc.
+.netflix.com	TRUE	/	TRUE	1808847318	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQg8hBXAcALVcqOdX4qJTKqM-SLl9PVafI.%26dt%3D1777311316056
+.netflix.com	TRUE	/	FALSE	1808847453	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+13%3A37%3A33+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee02c008-0e45-4168-9f4d-5bb74d98045d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768060813421&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785087453	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785087453	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785087453	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

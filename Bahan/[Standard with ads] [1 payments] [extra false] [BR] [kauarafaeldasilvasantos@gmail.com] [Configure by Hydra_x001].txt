@@ -1,0 +1,20 @@
+
+– Email: kauarafaeldasilvasantos@gmail.com
+– Verified: false
+– Profile: hitotoshy
+– Plan: Standard with ads
+– Next billing: 15 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 1427) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805920560	nfvdid	BQFmAAEBEIRuuMnjRCgHH5BfgqjytWJgGZxYk7csYA0bXwUWM-slIpk42u9xa9uOKUO4b7bUUgUenadrfEIY7GVZ08Dee2UIr8FfBaGTHp_8Vl7sABhY9gNjc0i7-kf3jsIEmIcFbqvDB2B6nFyK-S31r4N4K67b
+.netflix.com	TRUE	/	TRUE	1808077608	NetflixId	ct%3DBgjHlOvcAxKMBGhMz_nx4AbJxUZpws-HEMOkkXdFMH_q80NL4mkCt5efiTWxHEcFEE9pcDmv8sk1zdCB2IiMpDV41SOCkidvNbz5hvOfeOrpFfHbu9p9Cg4VmnP-0PybLys9teINa6nyqfaXQTe5hObX3newdv7CBBDohzGjuF1poa28ZafVl6Kk-4vhalTZ7n0zp0K_vnUTmXDjDThyQUy1BOJ_JTn2D1VMsG0aTtsQaEXIrTtnZ9BqRX64qoI_bTg5TwiMimPoPFuZPmJeQaEAB27lW_UlhE09N-JxI2RCfa11-FN6tpSrv6hteW2exiFifCzxxErf4bbAimaOgIYaFuGU9CCi6GWSC0qy7QYvNcfbrH9RvEc_04AVMVVAkt-jTa0DjSLlO79xRBvwM0PK4qZpDv86NgSbN0Qk8lpShhSqILEO64vbH1qBTcv7-q3TsIcwbPNDMvS7PfRps4dJ-BrRC4Fv74YCUf4rYWs40oXYRpAHgwVdSAmWuGBwanlyoz1NO_LoWU3xVEJD7LUHQofyMBB3eTcF881v1cYqBpman9WuLgYc8oGnQF_OuBZ21u_g6rUkVm8za4m-WmwT0FyI4qCjD5ua_17tl8TZM4J897A4DdphSqjqCKw7fp_qHlQMDG9f8NAm-_bUtBGD9a4CxLvQmY3AOgf2269AQh0sRa7vxGS8WaDG_Je-ZbfqvxBFGAYiDgoMPtn454nG3d6R5sWK%26ch%3DAQEAEAABABREO_RcSRbA33eEaGl-RiTQYQiG5McRvRw.%26v%3D3%26pg%3DQSLZSJIPTVC7DLEGYP42KAFTCY
+.netflix.com	TRUE	/	TRUE	1808077608	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTS7WmCITbm0zAjBIgr1Ar8l0pmSibeZwA.%26dt%3D1776541608448
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	f1224367-6619-4199-a7ec-32a78913fd02
+.netflix.com	TRUE	/	FALSE	1784335208	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784335208	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784335208	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

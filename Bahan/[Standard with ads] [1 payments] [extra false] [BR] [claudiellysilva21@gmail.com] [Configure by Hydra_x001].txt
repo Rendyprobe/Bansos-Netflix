@@ -1,0 +1,22 @@
+
+– Email: claudiellysilva21@gmail.com
+– Verified: false
+– Profile: esposo
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | MERCADO_LIBRE_B_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801965637	OptanonAlertBoxClosed	2026-02-07T02:00:37.842Z
+.netflix.com	TRUE	/	FALSE	1802024511	nfvdid	BQFmAAEBEOB0vZ0VLj_3bPVu1u6fhxpgZhWybZ-G2VV-rBe-QVajtB5kHxh0Q8ewbJcw8oyfj9SX0YveDQFOMLLNjWHO8UJo8yRlSdfH-4UV8bmN08BlgaOL_kmnyGYRMx1Y9NkkJ55K8tK54Z2dyePQ4v4yK_1b
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	259a5151-acfd-441c-b98c-95d56939b475
+.netflix.com	TRUE	/	FALSE	1809988126	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+19%3A28%3A46+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44247acc-5ada-4545-ad8d-34493dc1848e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1770429638241&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1813012124	nap	BgiuuOvcAxJJ4yqeNZFGlec3eBA8QCFZR65Mue_dODCnNE9Xc2WXXGTvGNfJS0eKdyt-BWitqCJCiGcmeRzyG5bFCcX07PJd7bmjWVNdbdowDBgGIg4KDGOba8ikzdRosL1ovw..
+.netflix.com	TRUE	/	FALSE	1786228124	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786228124	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786228124	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1810032959	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWgbU4aiMPJQsRnpD28r9FKs90JrTNAmE.%26dt%3D1778497097410
+.netflix.com	TRUE	/	TRUE	1810032959	NetflixId	ct%3DBgjHlOvcAxK0A1Ng5RjtfONKzZR6QxtwRApQBafZm4l_QINjyD8VJUehDWrKcEhjeseGxfEZpsfIteUsVR3m1I3MBv1Ujdr4Y81DzESIKaSkr9IkltQQEHcft4Dp47jC46p-SRwExRBxgg1oFFs28ZQGc5POJ0Y_L_zZ93GghbcT3Vn3iuenfkK-I9HYD53ZkPKBT4623t4db4QKnOWvS6KNjOL5wt0IKyTQ2y0HLg5B7Ppis1xtVH-ljPZzKjcWuX3pKGnjSCQcLNUn8RA2wPHQPC1DOMltcWlUtmrDlHEvcMMqEY2bjSQskSEA_6iBLglddw98B_HPXbHP_oFGHOiCdrp1Cd5R-NcXCwCC1X6jrDHqFt6RhXO3j3yFLsEXJQV8bcbe2L5zDtoh5djwvrWquRzDzaIXxKaME58BE56NfzKcDHjHTyl64HGJImG6-_xCM6dLPGhLUvik4RfGWvGyqEVNJnfBiAfnq4ncQP6ls09upptoLhTAQqglhplFYfdgOmo3htE-A37dfb1UeJ7_njaCf6-dR7QDfzQ8pFqz03smIGILATLAnOCEjIfDZlTEvnuocxqB1z4woqwYBiIOCgx_DHXfi8fzsfLaKZM.%26ch%3DAQEAEAABABS_pHbnSj0zDjG6AAKw9F5MDiPkXALElZw.%26v%3D3%26pg%3DW6C53LTQNVFFFHIMJ5PT2SCCYA
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: laforanay@gmail.com
+– Verified: false
+– Profile: Redden
+– Plan: Premium
+– Next billing: June 3, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 3827) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805039635	nfvdid	BQFmAAEBEFxsgP-EXoHOaNJyjyCDOPlg9YIBGrZE-vPoIfgNZYeabzMFQttR_Ho4YEcEbqBsfb7-MvPTSJT6UsRGTptv5Jmgn4tLAzE_GaTAUTXfcNtB2dOrLlNd7X7DQa39ck2AryhLyg6ymZTfg5gEFv036WVY
+.netflix.com	TRUE	/	TRUE	1807895579	NetflixId	ct%3DBgjHlOvcAxKEBB6fFRc0cNl43SPzNumJ_uSoWNmBZkuJ0A02SuPuZEXRzm2WGQAQRd-s6Z0RBJ5J5fOQym-4_2R3BRmCmGkjcsaNfDHDnWm-L9OKog1dTez4d4Z3D1An6h6etqWCDmKN_ZV11X7_iUtoWQFJ5Ar_NCOCa8aJtBizynMKOTT9sqtEyGvHe3MQfeBRWu8C7dujIR80HbEDWe5aPZqfqE4L41qhvnjBGJgmHDkbGsUgSEH2YkoPPLCkcYOijoHulHSe8fdx0frkYjQAsFHpjD7HFa54YEPTL1BoRm_2gxGmODsfRokRwb9SE2nogfEqhLqFySh35yRSjgfsLgy8rs2aaqw8fL96EbwzocIodY0Yn0XTd3lMM2zhO5oMkTvZB8Zv4o3pFEKmF7-Hki9ybu3DXhrD1PyOOr9_F-1UShwEb_RZAf015MF6PecdN8gWZyuL9AIu1bu-69k-9ayZx5ROneKzT2pUGzHZgK4TycStOlYVuBldJKJycOPCbPGTRX6GD0CJqEFVqJXbiv5wGA44t8dfxM4q0JfF4JYVGiy_KghwvV_fh27kVtIUujNvAMJYfYT_uXwtB99pR7dID4W0zSuC2am91n6NFZjsVgTiNYahQ0wqLyvr8dZ5LS3t8Tqnu2bUb5jH9pclC4zCkfD3ipnXhrYKy2nkZwcNk1fxLdYovpSSWRgGIg4KDNzsQvgT7Kp4HCQtXA..%26ch%3DAQEAEAABABQySZbDPViPVBP542HYSF83t8FO9IqdNt4.%26v%3D3%26pg%3DB77E4L4O7VANDJ2OJ46FTHNLNE
+.netflix.com	TRUE	/	FALSE	1784135579	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784135579	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	67a0ea14-df75-4980-baea-38203390ae47
+.netflix.com	TRUE	/	FALSE	1784135579	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1807895621	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+01%3A13%3A41+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=926c6795-67f2-48f6-8ed9-b77eea0242e9&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0
+
+Follow: https://t.me/hydrax001

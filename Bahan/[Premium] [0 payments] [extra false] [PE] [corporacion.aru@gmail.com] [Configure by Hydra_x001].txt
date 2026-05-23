@@ -1,0 +1,21 @@
+
+– Email: corporacion.aru@gmail.com
+– Verified: false
+– Profile: YanaraAmira\x2009
+– Plan: Premium
+– Next billing: 3 de junio de 2026
+– Extra members: false
+– Country: PE
+– Payments: 0 - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	2129fbc3-2c80-4e00-a1f1-4d6411746282
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	9dc5d60e-047c-4b57-8dee-55539fd2f65a
+.netflix.com	TRUE	/	TRUE	1807646093	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfAwE6pRB7UZSpqbVf8yQspOpU6IT2ZIVZL6l0yncuP40O5oWWYFF48_JWOQ_GSeRC5drdf6yHHW5aLKx8O_hYqZphRHJfs_eniQR0bb9CuB5XtR955AGa4XdY2qs3OSSHUwuRUh5SaWT_vOwSy-qsXFTOIpQaZNvGsIBMbTRAZ3swNpFNllzh2Pv0yLh0JCMSI3fYx4BJJePzffdhCwCg64WiPjAk016dOzZqstl63VLETw1jHby1CCi4EY7KbljT3Js9xpuzzjZrwaUEtCmgM9lfgydyCxcHTajQ1QykXz6fR1Eirh5whGM1wjWfl9yR0Sapv5Y-ktQcfgt1YeT-WMuHahfnaPLWIfFY_SBRuvTTpjBwBmKJypHp5ksZmgsWA-ZP8m9KJyVG2iZLtLcFLFtDMXl-vVQ4q_C8sbzuXAP7Vz0db7omlSotTlKRSkDBE0Op6oW-9veXeA-GbQ69ueqoLiKD32L_Dvlavq4mYuGmmXzj2xz57AsR0K-a73qx_H7w_qlWTACwFy3UzluZe2W8E9OUjH9Ew8FoOf0hZ50YBiIOCgwtStjlzN9-eZIXaHw.%26pg%3DNIP6LWLUDZCZRCWSTUHGXYK7LM%26ch%3DAQEAEAABABTNORfvpvCyWKHk2PiFrOvJTN8lZiT3xv4.
+.netflix.com	TRUE	/	FALSE	1807646094	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+14%3A54%3A54+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=609dc47f-c172-4081-97be-c2f72e2a1583&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776105539313&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807646093	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTS3ve_IgGtaPObBU0zSpT7fC_78Mju-Hg.%26dt%3D1776110093089
+.netflix.com	TRUE	/	FALSE	1783886094	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783886094	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807646088	nfvdid	BQFmAAEBELfGhTC4dWviS5opIv5ntlRg1uCHsaEtwUFH3DiKPiynOQm_wH6cg7vDP81CZjX0SQcEx_KTKQDebDaDJjRqVHxsjS4oN9NIZ86qn6JkoZ6O00xWvnJVPpgz8LwAoLxwrUEDqXaGKtWmncIwkv-jMuxB
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

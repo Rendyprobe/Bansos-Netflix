@@ -1,0 +1,20 @@
+
+– Email: lanfrancosergio@gmail.com
+– Verified: false
+– Profile: PIETRO
+– Plan: Standard
+– Next billing: 20 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 5331) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802460896	OptanonAlertBoxClosed	2026-02-12T19:34:56.042Z
+.netflix.com	TRUE	/	TRUE	1805485012	dsca	true
+.netflix.com	TRUE	/	FALSE	1802461012	nfvdid	BQFmAAEBEJarm7s0YxisoBpfu6YRAChgcOZCQOmjvwzdG769UkPp2kkoEsbVtVe4lyoz4BFdkrqEAz8oBh3NkLJrGinGhZpUF0LLLNBQnJ37ucF1t0rzUMeVuE2nCRqeecaGDL8yMSfM4kN1boa_T_34Xu-mY0Yc
+.netflix.com	TRUE	/	TRUE	1804284536	NetflixId	ct%3DBgjHlOvcAxKXA94pSaPxRzCom7X0EjaZpErog6MlbLdcgiGrliyPLSHGI7TsGW3FqRhlnbR_0pQk95dN-U88qBGAgjJl_zYY6gThqwG6GdaLYGEQirFIFVy2ggqbZ0nyLm-ILidCVR5u4vOJ1mV7Ma1ahndBn9G8K4aRVSGD2w8IupspufgNmjnEfB5SnwtOHj4psOeSvWXGzvSBpbEA0McZ4ZYq52zRO5wDkineDzRswv2_Ng0nQLhXG3YkB11kkvL8wiQXlaSsg3PbaTw3Zw8PG1uvh40aUkjUhihSm6s4qd0Qf1ObrYtoOjsIOP-x8tQmw_bxrBdHzWf2ssxMUtSRYIUhAtBfK6Bzfhu1REQt2EinbPEN_9Zl3AFFJRiw0XsJn8gnv8unBJNSjWfwtUy8MoF-9dv4Jrz5hawcSC56jNd54Cqvqipgu9iCNmQ1koavCijfMKhtveSfSyWCrQc7OR9i0TQYEaXtjAQ9gpoi5UV-mY40Yve7t77guHq_cIcTQplzQg8ay4gsNeQ17j6VuHlxjZefk66A_OY2-BEYGAYiDgoMM9BkkzS4lyodvDf3%26ch%3DAQEAEAABABSA69AYXZFc22FO423ynKqKuU-hffgkU3U.%26v%3D3%26pg%3DX2R2NVVOK5EQDPSWPBD6YD7YJI
+.netflix.com	TRUE	/	TRUE	1804284536	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTcmqyYwtW8p8Yv_G3fiCbibHPG7navsQ.%26dt%3D1772748536818
+.netflix.com	TRUE	/	FALSE	1804284555	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+23%3A09%3A15+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4f8847a-751f-48cc-80ea-197bea37d8c1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770924896565&AwaitingReconsent=false&intType=1&geolocation=IT%3B42
+.netflix.com	TRUE	/	FALSE	1780524555	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780524555	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,19 @@
+
+– Email: jenetbadboy@gmail.com
+– Verified: false
+– Profile: Jenet
+– Plan: Standard
+– Next billing: 2 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( j***@okaxis) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803655059	nfvdid	BQFmAAEBEKuUsWVcQifkRDfKGkKjhTVgYin6M5DaJNGp5xp_7E3qdQgDHC11SZyjIiuPuGiH0o-1-4lsWIpmVQmSQgauudiiHAS-FK7WLqWjo3zZauCOIdRmLrspZY3S2aSNHvXOGQEba0uTC_KT_etZivtK7x5v
+.netflix.com	TRUE	/	FALSE	1804864321	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+12+2026+20%3A42%3A01+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e9827aa-6882-47c3-8740-fb1cb447c544&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772119059124&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809952204	NetflixId	ct%3DBgjHlOvcAxLnA_Ytj9cf0xt5ZZ-ru6gCm3rNA8GZUPVxC7cEfZvJOQ1AMOpn35qnr-RxA3BfxDrG8URvCVg1tdvYB-V8C86vIcIr-qte5TAMF0rg_tb3BfC11EwA8KVT-mEjseKZtXZoNo_pR-x98z_dgA7BSHt-fb1LJtBoJ9N6fEq4OroDKky2lk2V4GnN0GE_Zi8QpH2hNjUI_HItbqEqvkyyew7QkkGg973eu9rYAN3UI8FbL4iS7Qej1JYlJGzb0GTvxDeAqCxXKO0zMwCA4J4wtcv8VTU65dNHzyTsYk3oPh-0_iG-fC3huT-ArTqXeYeHqKhoq6gjoBivXfB83fq9Ogpqz5eSNOA7fcWKE4ots-RWnUdc_KTMqh0HxXvXS3sUcFkBcVesTlP5O-n34Y34v9HAAveFn5XwZRsi8ZgokedwTBtxyjCNk8dVIq79LSXc_LVgMns_qBGeWqLwwh9uiwzqcDwIzfElN1r59HoxEgJNIPZgGH6OK3szYlJKT_cw8hK_lbYikNY1moxL72bgrFtxA2Z_-N7kCqM3iAz7Bb9NbiEQiGz0iTe9DzzK6YGPjAfA_tPJMw_rMdLwFX2F2Ck4qZWtIOmfFQZFlPq6D-utlczn27PEasJSjvKLehqzWfu9eo3C9pbtkQEYBiIOCgwxNTO9c9vmUou0PAM.%26ch%3DAQEAEAABABTcIWZq_ct_KU3i5_MTtUKLYI4RR4j5B-4.%26v%3D3%26pg%3DEIOU7XHU3REIJOLSAAS45GMCRQ
+.netflix.com	TRUE	/	TRUE	1809952204	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ5LEJ-xxBpfRT80Tz-OJyIq8iSBMRcarU.%26dt%3D1778416204175
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	bc98f8fc-8fe2-42ef-9222-e33475f2ebc8
+.netflix.com	TRUE	/	FALSE	1786192203	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786192203	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

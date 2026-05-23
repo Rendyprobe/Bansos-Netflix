@@ -1,0 +1,21 @@
+
+– Email: medeeasurdu.1@gmail.com
+– Verified: false
+– Profile: Medeea
+– Plan: Premium
+– Next billing: 12 iunie 2026
+– Extra members: false
+– Country: RO
+– Payments: 1 | CC (VISA 8009) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	gsid	a5db1b2f-9a03-4af8-8175-b83e7e41e4d7
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AgcIDfd5HOMCU4_AeJmNZW-cWDvCKJcHnaK9VGuoplcm37Hekz3nYejHgF3B0n_cOJRUpHrLc7_NBJOD2PEiJ-X7_QRSLlviiiWTZCXqwnF6b6Nxb74F_N7A0X_Gg_L8VMnwVVgGmrID-BTRQXXxaERS2QC_Mttm3VHjnlqjBZP1jTiqR6uaeOjffLXpRLUnigihIZOpqfCYr4aOKRe5cf0yVHwswOQNugh9wvXMcrqoFxb5tW-S6uKqAYyPp9hJVxiqKj1sG2dtToHfJP_gjgogDf8HgyX1VJc7BsxbOz84LraN5goLlz1d0JPNb6ybtqAlPp0DdzRBJ8ULBd6UOnhxCuB--MyTdFlODlJuwBEbPaUpSPtDRl9_kv35Jb9vXhPMxjEJbKU4yC5ppfISJDkJmJ-VjFtCkCvnZXLhPSJRUIww7spLLz8sVaUUzr9jmDBeUVSZ_Vw78mY64knYVMCjygDwuAwXPnfmsMIxYjiK9ZU3_cckoDZiZqxmGAYiDgoMWiDFzOLni1QdTbbw%26pg%3DWNR44IZPOFDG7P2APKWGU4FQM4%26ch%3DAQEAEAABABQCLooHVmG4XBUN3unSCFGzfHbVBb6ISVA.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2025-09-17T21:31:05.924Z
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+18+2025+00%3A31%3A14+GMT%2B0300+(Eastern+European+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8821ba41-c173-4bee-be1d-1547b15b4466&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=RO%3BAG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	c8fd7a16-a4b7-4edf-b9e3-4dfcb3967c9b
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEJGUV4j66I8rpJRVFuTQzXVgUH0dGCMiUOqUKgi-CrIFrgT0Ya8CybQqCETfNmDlDBNZk1DNifRE3eafTbg221-c-Snet7-c1GEdLA9_UduFSWr6m6XTWGUe9so4C8QuiAOSIcBw8rd61qv1ZFRN87BA
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Verified: false
+– Profile: Axel
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | FREE_ILIAD_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1786317428	nfvdid	BQFmAAEBEBW01DxYP-XSDNTPf3gBnzdguw-a0pNQYKT8SVsoQM3Pai3sk2DvGrx3XqWntcDjxFeOB-j8MFY_UsdbgZh2Y0UAnzUuTf8WJ2zr9ViVObCa5EDV4cQQIRLdKG7YcJN5wesvzjsRs7-prZJn0QSGAukx
+.netflix.com	TRUE	/	TRUE	1806436480	NetflixId	ct%3DBgjHlOvcAxKABOLlOLfbt5Kcec8D-2So9BG2h4kEhkp6mLFII4OwUDSQ_ZukzlUngtvKwJhhcu2dw2d22rMgJVxsSOLtoSzmOaRGbE7gv_o3YU__m3YVwRoxg4x8XEhRCfcctC51EcYKlHQkG0x36kegSWm5SOFyxLFz3TAcIxovh6dHb9tUyXb3j0mEZXeGQbBtcp2kWBFCZ1p0Zu3LfiKuTniAOvm-4Iv1WF-XUDQNLKaQc8PNpnsWepo-wqJ6WRBUNGsEi7FpAv7tHMg8mXg8xWTujeBnzOjcyTHty4XgpgKpE0qtDHz3kWz8EfzyCkC-zL2xzcwwtETRzyAkAKneLhYT0U74Xg7drm9r8Fo0KvvUOBC-GMlsP9cfeoy20okuLaLzTw4RJUso3tqzV11oQLltkOdFerDlMH5nWeZvcBcSU-0QCRr8bgM0svkNZ-G9eFlJyRcv0PwKSLxVqsyowseu4i9jOB-B_T3iiSKravFifw_ANDUcB47qv2D8ZboBvVZYXHvd8eIhd0WKlmq8AzGQ1gXYIdvLQv3uwwKo_Bsz5xRXYlQgTOv7ivVpsdsdyYTxP-rA9IB-IXw4Q9ToM-k_lBc0JOXUaycTfPtZaMgp6ulvqTPVSm91jX9XXtiNsr98HE3wcHht5c7CTvGoXAmMaX2acIw723MPZKogDC81BXMCxhwaGAYiDgoM4mtMUPBpmL43Wl72%26ch%3DAQEAEAABABSyJ-xIFtD9kp7Vt6oMergmgX-GmYnWofA.%26v%3D3%26pg%3DV6GZNUU2JFFY3OAW2MUADEPTVQ
+.netflix.com	TRUE	/	FALSE	1806436484	OptanonAlertBoxClosed	2026-03-30T19:54:44.538Z
+.netflix.com	TRUE	/	FALSE	1806436484	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+21%3A54%3A44+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=92ec6350-57dc-4dc7-befc-8b3b2d02a588&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&geolocation=FR%3BIDF&isAnonUser=1&intType=2&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806436480	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzrbTeDaPaxvK4nqIpI6vu_oHejL-Mzz8.%26dt%3D1774900492566
+.netflix.com	TRUE	/	FALSE	1809460483	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	4f94bd56-9a04-4394-b3a8-99b0ad9ca112
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	cd7b347e-5ce4-4da2-ab97-d5464956d78f
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

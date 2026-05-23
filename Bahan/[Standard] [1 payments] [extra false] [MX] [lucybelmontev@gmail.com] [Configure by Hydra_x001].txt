@@ -1,0 +1,22 @@
+
+– Email: lucybelmontev@gmail.com
+– Verified: false
+– Profile: Jito
+– Plan: Standard
+– Next billing: 18 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | CC (MASTERCARD 1963) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066583	flwssn	5f174dcb-dd92-4172-9f92-0f574f515ad2
+.netflix.com	TRUE	/	TRUE	1782066583	gsid	df482b0a-c16d-44aa-8ce2-8a9686632856
+.netflix.com	TRUE	/	TRUE	1808797206	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA00awjnJWO60FdGgKvLQ_T06910acx0PTLRKwO8aSxnpZ4QlhZEkkkWdix3lqWVFv2s4PCFTe7aydy5lkJNUnf390bjpAv3UIqfpRDAVUYPxmYisTLBuaNMAfI_PgTFaCg2NDy-J3UWgAC2o6WEobWSHHDTWWeYbmQO7VxI5x6_IO3vmSLF4e-y-FMEjAGGwg4fp5ozpXbbdPItULEUIqmAt0wqJzD-W5svX-QGvWlWmZrjuYnaU9qYueE4o1MXZj9B0O_ogcqUeznejK416hooi4mnx4FqepS74kfiJHKWGmFCthh6jILd-bddEqH7LAPCEiexs8beRaZ3kr7fEZUB6Qw6bgKdh5rHMmnEX0srhiBIVyG53sgDSF5kxug1xsOj2qK2bbUc6zOGLdSXQryeyb9OCrDrnAcPmiZJnk10_BpxbUK-TYNdbmGmT28DRVqe0edtaDp2cN1VQCysEvI_xa8tOyENezEqM9SxTYEVAjDLJtmO45FNz8hw-GVTcmuwee116c6giaErgo9QB6eM6qO3uhhmIFRgGIg4KDO-jnSOBfRLZkwcJAw..%26pg%3DK6TRU7OYDNHPVECZJW24ZJO2OE%26ch%3DAQEAEAABABQuX_Yo3sRwUah6aqOZbxJTcYkaip7ampA.
+.netflix.com	TRUE	/	FALSE	1785037204	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785037204	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808797204	nfvdid	BQFmAAEBEKCpph0Ze5qr25yethYMm8RgKIw6kFf5kGTI4YIH7GRoX8OawVT234AWaCT5QwQ1ya5qma58ZrYWSQ8Acklk2HyWouZttixUAV0GC2SmFDsnOThuzmNEaW2mSD8q7f6mbkBUVBP75guYyP4NkQtzCRA6
+.netflix.com	TRUE	/	TRUE	1811821207	dsca	true
+.netflix.com	TRUE	/	FALSE	1808797246	OptanonAlertBoxClosed	2026-04-27T03:40:46.541Z
+.netflix.com	TRUE	/	FALSE	1808797246	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+21%3A40%3A46+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=dc0a5530-b5d4-4bd3-bbb1-b6e18543603b&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777261246789&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	FALSE	1782066583	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

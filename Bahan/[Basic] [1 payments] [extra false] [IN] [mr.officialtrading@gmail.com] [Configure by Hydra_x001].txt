@@ -1,0 +1,19 @@
+
+– Email: mr.officialtrading@gmail.com
+– Verified: false
+– Profile: Shruti
+– Plan: Basic
+– Next billing: 22 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 8***@ybl) - Hydra_x001
+
+.netflix.com	FALSE	/	FALSE	1827065416	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+23+2025+19%3A40%3A16+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d01d68b8-5236-4f98-95dd-45fb8cc23215&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1795531394	profilesNewSession	0
+.netflix.com	FALSE	/	TRUE	1827065408	NetflixId	ct%3DBgjHlOvcAxLTA9h1breyOb95X2-H024d-n3BtkJRsHvP9lI2S-5zY4WsSZThxWPs9AV3LVX9VhtDFj5KLUEFamY-8dz4woy3Q1pHzBFdLcBSiaL9n0h3Waqa-JiibHhaCPSqJVe-t77StFJ5yQmzThMY7rmBn8uA_mj78VvcC1T_DpSwwP3rYDsGPvurXM-Zrd8fVdf_lcdbVpo4YHzv0jlTHW7tJEc283vO4ofNTgj08s8qN6A10S2mKmzv8Sxrc-QZgW1TUZ1IMxjXYXWt3Wo8_xyoIkp2SB441_Mdp3jdVS6G-Y1SCjTBAhBFI0mTeGCoMYIu_03b4Uv4Tl2zKb_U1BGr9xVpkhRl29Nfq_LRFrme0SKrIJ9DxDjwWxUZgDRRz6a1-jwSRo8yQTiL5Gl-qHPUEmTcvtWd5_kl5_mfQskeJRiImnweKxN_LuGEQ1-UHZH4_g7z4g5d3cfwcNMSpFtaGZrZ4ESw-slFegn1YBqFKPgRzB4GYTwPtDhxFNfHZ-AcYBEKHla_38j1fonTNJrDLcjwY6qUF5WViEWbKB8yfmRTswHmZpio4D6QrKkdj88MJe8abn5EoVo3hdpHCNa2Q33dq47kExk1kXjAYHGisPHvcy6uja6ZGAYiDgoM_L6NukybzrkfbbTY%26ch%3DAQEAEAABABSICdTkJJsOm2QuVILYqAPdMyoaeiphC-g.%26v%3D3%26pg%3DX3AIL3ZT6JAFHHBT4GRXZJQZJA
+.netflix.com	FALSE	/	TRUE	1795615807	gsid	1c214cdf-aa36-451f-8791-b4f14385c8b9
+.netflix.com	FALSE	/	FALSE	1816026143	nfvdid	BQFmAAEBEB-pwORfdznS9UduEmGC6y5gE83yCsEzsZM1203WradTyGk4oGSfozVlHtEgMp8rkkcGLO12ej2Mfww93zxnuIlVva-QZL841RMY2588IRzBggBsMooPTplkGbrgpL6NUgAbQsEG6pXfR2uuUtdcjXa9
+.netflix.com	FALSE	/	FALSE	1803305415	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	1803305415	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

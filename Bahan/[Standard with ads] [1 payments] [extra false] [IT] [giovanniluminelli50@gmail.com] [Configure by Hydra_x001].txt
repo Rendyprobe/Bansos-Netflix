@@ -1,0 +1,17 @@
+
+– Email: giovanniluminelli50@gmail.com
+– Verified: false
+– Profile: Antonio
+– Plan: Standard with ads
+– Next billing: 2 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 3166) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799186289	OptanonAlertBoxClosed	2026-01-05T21:58:09.671Z
+.netflix.com	TRUE	/	FALSE	1799186285	nfvdid	BQFmAAEBEFWIvnyKplsV8wFKaREqB8tgbr_Sn5ujChPruYWEuaRBGKzpCX_e9SLl9d2-gnNC4fGsB1LpxTb2ZE-bK8cUffS977_F2jz1OEHnliwklTg5UCPO35kyKdv_2iFl6EcPcqhxZIwLtItB2EanAZHYLhYg
+.netflix.com	TRUE	/	FALSE	1799359534	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+07+2026+23%3A05%3A34+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34043d3e-52c0-4d95-8313-d29ccc302c00&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B72&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799628653	NetflixId	ct%3DBgjHlOvcAxLoA-R6hvra44P19dJ4WKuhURLAlZYUGJTpV-a1jl6dB6rTnBWPYiaW5V7GbuILj6bAZZvNHEuvQHi_TRzUOjV3zJ5N17o7rsn1O5nrWle-FPARWyfhVSd8OQjoOwgDJ2nTlGDNtEBk2FuYARn7FjAM4IvUfAFMK1NhlRyLY9YhtQKBEKgbKSwAFGMexutHbDJ9e8LJN1PmMVNjQE98AUqK-eDWNKVenFGTE5LS1GUMSsMhOFnWbVZ1AnP_Klw0LLn_NfSYvhnwFn8T1yIwLITpRvYTJegXBNtO4pF0Pmi4GSa8atb7TXsps3W53L-A9MV-MXrYmlhy_6DayG4PRbt7WuVOA5zzM4MXMa28TcB2yLB8MvQ-HdAY3f8CgiQmkmD5Yg7cOXsbaZyxQIlwJdz2BY6BTpOdmO83b4nkbaEvHGhy8RlC89TQ9pQMShRojvsjUeyvJ8xU8TBZKKZHcK1xZrQR7eH6apbwyZQy1QkI538Rl09ddZXi2FmZWxRY9KxAkxC_5s99YQHEd_6bZJWECLaIq-pJwCkGFjFAwGM-Tuv7Umoms5jdlbfEg4-opDF_YkTXZpuoonV3bVqL8JxvNGhB7sjW90q5ky5LFr2b58IepDfeW6M71q1p9hJAICs4MXwHWuhMFU1mGAYiDgoM-6N3URxKEKX8Gmfn%26ch%3DAQEAEAABABQt3zlD4lGSsW880aI0EXeXQFlKOqZOKac.%26v%3D3%26pg%3D7THMJVGW4VBLVAMVMITF76CRZY
+.netflix.com	TRUE	/	TRUE	1799628653	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2hJZ02hx4Z8LT5E5svnNbnjBT8nIYsUM.%26dt%3D1768092653016
+
+Follow: https://t.me/hydrax001

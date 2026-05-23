@@ -1,0 +1,20 @@
+
+– Email: anthonycontaperfil@gmail.com
+– Verified: false
+– Profile: 1
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | NET_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806290822	OptanonAlertBoxClosed	2026-03-29T03:27:02.898Z
+.netflix.com	TRUE	/	TRUE	1806290900	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA8At2zGu9-UxMDf3XRwoK2ISO_icWfNbF12zY7UWp0m4ANLlJPyg1LjxrLkO2B4X30Y_v2gspCA5x44n828ivsPpjF3qOq-S9S699ZSXA5sN7Ep8aWezaoaF0ho7UHfTcwuK64YebmJJEdZenevJCSvM7TUDqgQocB9BONT1LwfLuzC4Wnx_KaK2_Sg5lF-gTm_lTNcss_pl4Nh9zsTBA-nsCNg2r0s265KynUkcqu4aKo95OIkyEPzdfyvJxBJc8aGj8uvY1cjPZfEPxhHn0wVNOHwjc5xdS1Fvci6QwvZHE_z5x3V5_YaGnT-g8cAYtb6oybJQrBTDD_87lJUEFY0B6GUItPXLD8wcdr-54Ws0srHWpnTMm8Z0_HBo61qwyWuWTeL_sj4EFUBuL_t-9GBQ29Ou6bSkLhPVkJ0DLfah5rPANz-cQ8LJ_WEk8dsgtVkVX4UmpOPlfnNNhbp44wSz1jCktUJhLa0813nZ1iAfJjvzuRTClaGKUA4WnJi6cT0YBiIOCgxLH25LWdCSCbbK33o.%26pg%3D6J65MTRFL5C4XGQLSVMODA6TRM%26ch%3DAQEAEAABABS3Lkx2fl7O0wJEKgmmdZzHfksIvoj_B10.
+.netflix.com	TRUE	/	TRUE	1806290900	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5RrcGTJ1t1msdZCapFyIDiqtfay9MATg.%26dt%3D1774754888092
+.netflix.com	TRUE	/	FALSE	1806290900	nfvdid	BQFmAAEBEJq1hwpkEb9lJpNUm6u4hgBgKAlwSjxKcgLYRqivzQuHodrkiEglnrxO7LkK9FwuITfmE7Io_OKqqhRlMbeZB5cNkreKuCmR9DBJ5pv05RgKkxfZ5HJi3MpxNt1Vr0cVnPStStjStQbLVRGoKPQMlO-u
+.netflix.com	TRUE	/	FALSE	1809315005	dsca	customer
+.netflix.com	TRUE	/	FALSE	1782531005	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806291006	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+00%3A30%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ea0c06d-9585-419e-8e95-c171f3c50bd5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774754823413&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782531005	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

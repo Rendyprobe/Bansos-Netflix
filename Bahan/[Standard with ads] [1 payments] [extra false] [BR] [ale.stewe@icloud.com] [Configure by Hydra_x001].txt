@@ -1,0 +1,18 @@
+
+– Verified: false
+– Profile: Ale
+– Plan: Standard with ads
+– Next billing: 17 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (ELO 2240) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798579375	OptanonAlertBoxClosed	2025-12-29T21:22:55.735Z
+.netflix.com	TRUE	/	FALSE	1798579372	nfvdid	BQFmAAEBEP01UghXpfZw_RhDLMaN-P5gRmmSJgxc5n_z-vVfo3D7RRzJEECgRp_MDAS4tbheFZaBtA8LaduRHNqeQIDTwHv8feoSKuDJdbhfmUXhm-PHrbOj70pK1U6mlcMc-MWTXL7iThWYCVkuzh0JJ3KNJJo_
+.netflix.com	TRUE	/	TRUE	1807846381	NetflixId	ct%3DBgjHlOvcAxKIBMwIyI2UngDe_Osk8yw94G3RL8PBHpNJSQhKkAUJ2tZzqAUp49gyBp6Nbfz_oH-6NVEnOv9j5VUhOp3GlfdP_4k0mLDwG6muZXozqPB1PRKBUc5-UKT5a00eumSl34V6bjM2Aihae0wn-idIFTEjvThKpxdetmbqauWI6B7vuKLZ2DWo6MiDtAJm6VZBJjpbdUcvD5ZtvFED6ZvAADv6bWneaYSAqUtClrttnV7SeDtPdjoTwtw2xAd1Cu6BTtCMdcAvB7nDMsXIouYbZT4hnIxJOa8BVrTm_ez3Kz5N-gKdBJPCN8xkxViO9BAlsGrNo5dj9Vbm_w92Wo6guqMUE3ZszGZAtgmKabB0t69U1whtOLJg-YhUXCoHwqWqE-optRqC7sx93V-P0XXUYNpIcxNuwjnjjmqLxwVZacZ1TBdcLxLLufYIIvgXDgcrQWCR3dg8ZVM60MdfNZiidLaPZiAtZhgJN3qbD-rOZMjzzU9tDjzNWR5fyeiiFwQjYFxBp38I_55jNtLCwPcMJWi6U6swTyO7Gi62dg5l7xvcCBX8ULLRM8oSQ4l6Fhez33pATZPdYxvIRoxr2oPMtytqFLr8wpYLz4_uQ_B3IlsnCY0Rsi91JcCxL4KCmxbbog027iPMoa9eofMAqL4HL_RtDapViGNpesYxfH-dJCgTQavxVMth1RLDg-IYBiIOCgyUrb0CRkYP32a7_Ug.%26ch%3DAQEAEAABABQTy_ZZyMQN302bVF33S0YCDX4Mary7vQY.%26v%3D3%26pg%3DNZ75KAEW7FAAJFZMRUDYZCHLDA
+.netflix.com	TRUE	/	FALSE	1807846385	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+00%3A33%3A05+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76e423a6-fbde-4dfd-ad05-c75141bbfeae&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807846381	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcV6_NJwzqsisPQw53S_hv26r6aDuGPkY.%26dt%3D1776363371884
+.netflix.com	TRUE	/	FALSE	1784086382	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784086382	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,22 @@
+
+– Email: kunlfn1988@gmail.com
+– Verified: false
+– Profile: Artem
+– Plan: Standard
+– Next billing: 3 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (VISA 4108) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2025-07-21T02:38:58.005Z
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBEOwcPTcccRVVGoDMEuJcoGlg0cm_WSUoL5PTsBscz0YCqOhKZkFQ0Dvdsw4s47WkTlR4KhHT0_XVTRaOwfnrcbdKNkUpblTy_gAVMzTjMWgLpc6rQKpmKvFnD_upM9hE-I9iNSdJLval8-M18S_ELkdl
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	ct%3DBgjHlOvcAxLjA-irGGC5Q6AKz53e9FxBRHy8w4lNSfrdf2VtyXgww5yA7OmK6ZRh3zNgp_CuU7VCKEGxKQE_8-7-6uR0EveWKY61rsprokyHA_mz5v85Mew8PpzfApnaA44Mp17Rk7jJIZxhSFjbTf4NcMk8_1mY2qWyM-WzHwQOElwodS78A8LG8LU5hPBcs44n4avwcfXszi7SfQy1ecNztblZ1hFlGQyiz9-axFq54HjM4SfT4NV_HAqvrv8OZ9s8J_FF9-5ls2qUpRI2ydeb_a8pJh1PUibbr9KeQhWCOTmfJr7x1Pafj6ySn5eQysr4z3JUabcm1jL3x5tyj2scigEEsKdavW4JaTOXNe2VRCI-Ze6m-4PMwIaN-v41bTvCRwjCCfbWELTrA9nq084DLFDgRu3AaZbfq9qTLa_8a_QNqOWRuRIM_4CxeQD8EsPXyZzpRZRyLdH_KTrB1A9KmUPSKaJb4vy9Q8POX1r0ngl10ssncLdCkHDQ-54btMzOeoJSe3fc0wWIgSEaFCGPnQ5m5DFHtGkOjCjHe9sp5cYnve43UN0DnYuegJCwACtAblSiBzku2IMUS-MlCUlVse5zjgPknwuy5vz71dYHstuNvZKH45hQ7guQjasxRlCbAcDZsroGPwaSchgGIg4KDDtH8c5_6W5c8vnHKg..%26ch%3DAQEAEAABABRxYyuBp9Rd2CsFqiezbkI0xEdt7GD3fSs.%26v%3D3%26pg%3DPTE5Z2DOANFHBLKXJ5FKPRHSQ4
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+27+2025+21%3A07%3A20+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1fd33cb4-db1f-453d-bbd6-866b326e57f4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B45
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQUevGgwRGj-dIXvvdTxXvYMG71MkNmNls.%26dt%3D1753643239825
+.netflix.com	TRUE	/	FALSE	1781829575	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	2d1daeae-a23e-489a-a11d-2323859fdcfe
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

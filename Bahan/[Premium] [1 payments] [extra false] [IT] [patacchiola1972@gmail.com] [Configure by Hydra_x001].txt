@@ -1,0 +1,21 @@
+
+– Email: patacchiola1972@gmail.com
+– Verified: false
+– Profile: Anouar
+– Plan: Premium
+– Next billing: 14 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 1247) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1797301465	OptanonAlertBoxClosed	2025-12-15T02:24:25.502Z
+.netflix.com	TRUE	/	FALSE	1803163545	dsca	true
+.netflix.com	TRUE	/	FALSE	1800139545	nfvdid	BQFmAAEBELuzv7l-ZobdcMzIlIP8xjFggq957fFvEYOZhfq70aJEso3VnAilQpZW4vIsD4kpWa0ftRaQA1dDZEQKuLtZIuUdL2imUfgb_JOxkh3-OAliWAZECAcGbIThCw6KRlfI6n3v5xsDFwdN936ZqD4CWA5V
+.netflix.com	TRUE	/	FALSE	1808616779	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+03%3A32%3A59+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=81d9b006-6e42-4b67-8f83-1b6c26fd05e3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=IT%3B62&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784856775	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784856775	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784856775	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1808617197	NetflixId	ct%3DBgjHlOvcAxK2A3jU5ChBZToM1xMmMY838dnlpyo_cwuTEHL_x7mr3cqQQDQySqzs0L2s3e8-DP0Wpq9PtYzS6tVUur9mZJNEeIiYROQ9mUzmZO_0uGB7xqwTpdg-e9g0YHEsYkA3A3-4zZnjSkYm7wkTvDYV4iFFdxAEFI_VyEoTgfCj1mkxRgTC2XYHrcxoNjrwtFooBzx1p3DG4ngGRg8VutG0dSHqQbOkQr6zB0kWtthZhVm2Mqb2NqHSYeMLW1yfm1YLn35KAIwlgkM8dui3peg2jH5tZ4NMy1o8aO_pzujyBdutfDaYUUY2kzfrBUsfpN52_h3gMuN6QcuVHSGtOhw1T4p6VXOka1uqUPAZjmRNFkxX614Y8OWDAEYlOQha_wUpFlR2dFoU4yHxQZIMDOIC4o7Ukq-8w682nRkA6D_VjxEUHVpfgj18SJCY1BIsk8yp8TcODjqJtF9GaBefek0KTQNUj44pVRoQwdv5ulOz6a3GSR08vX8KloiZQEg1CupWM-4Mt9nrk_1Oap6vR6TBgCmbqXpRASWEMTPhkbPf-0ONPQWu3hS33C8Gt7-t3ZVRpdYEmOQtWaJZDhgGIg4KDMByu0wj3QDxqxMlYQ..%26ch%3DAQEAEAABABTtTecM7P2_qBgbPkuI21KPqNL5oUBnZTU.%26v%3D3%26pg%3DUROAHYOCIVDYNM636W56QEQ46Y
+.netflix.com	TRUE	/	FALSE	1808617197	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQq2acmIq1gR2kBQtJhsQJBAVuiY30OZCo.%26dt%3D1777081197290
+
+Follow: https://t.me/hydrax001

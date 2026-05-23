@@ -1,0 +1,19 @@
+
+– Email: bitencourtlleon@gmail.com
+– Verified: false
+– Profile: Leonardo\x20Bitencourt
+– Plan: Standard with ads
+– Next billing: 2 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 6116) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1804300211	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA_cW9WECsj3bnAg7WgtCiGnfsjk5OExxEP9quSCS_KMbXpMyZd-wPiCycxn2F3z-fbkNYPia9S0OhK-exkxhwpVzxishxdpVPVSFbDtWkdwyQ2qKavGomzz7Jxx1KSNgNvEEl3BCpd8f7naz6nIt_bE5rPzcTpE5FVoHTdklTHAChNqQlg2t7_njpz_-ICb9RSeNhzfgpdX4k4Zyb1mZW17wWNV-jQvRA0vLbCTzb7lR99MbU0EI1ioAWr0BHmo_NEA8VNY80Y9aHvDsyK7BDOFB3KYJjA2o8m-fde1qxx0M-11WWFQzHDAHxuhT7HHgoMWo5obKwwuJMSscfiloWVEMQkYFDk1eHsavvoVrH31CspG-yTy2k14V0jdNAi67j5j9RcE3tmnULgmIlrIqaxInim-wNF7hkOIgFhaYfEaflpyfIjZnp2HgPi41qKg-7bhDMV3Gg08xaCDKf7xbQU_czRL16hB5sBkhN2pEpDMis9_kAwXWbQIUw38VUQonDjqGegUQRgmwGnIbRjaUtilQrGIYBiIOCgxUzW1vZT96OcbplO4.%26pg%3D5TF7HQIYPZFFPJT4CGD6XOI4DU%26ch%3DAQEAEAABABTRrpYKdyeYlbNDBhBc9tLjxs4z1OSIw_g.
+.netflix.com	TRUE	/	FALSE	1804300212	OptanonAlertBoxClosed	2026-03-06T02:30:12.245Z
+.netflix.com	TRUE	/	FALSE	1804300212	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+23%3A30%3A12+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=195cc019-24bd-4133-8054-0417d5d9f5bf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1772764205974&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS
+.netflix.com	TRUE	/	TRUE	1804300211	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTgVhljMIohgM4mMUI4XHLOHs0mqXx4Hg.%26dt%3D1772764101999
+.netflix.com	TRUE	/	FALSE	1780540212	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780540212	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1804300211	nfvdid	BQFmAAEBEN4c04ceSAqaEMoa_6-sUXhgC5qaYQT9Sapjhy044UKBRbd4CtOsuAZ3MToZt3uoDdqeKTswYCNry4-wztX2oL4NEj2PJKyum9TLAZKTHSI0MJmxVwX7nEPa_712Ju58vcw7Z_o1SjMrXNOKNU0cPFyB
+
+Follow: https://t.me/hydrax001

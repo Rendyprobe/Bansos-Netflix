@@ -1,0 +1,18 @@
+
+– Email: aikbacod@gmail.com
+– Verified: false
+– Profile: Kids
+– Plan: Premium
+– Next billing: June 10, 2026
+– Extra members: false
+– Country: PH
+– Payments: 1 | CC (VISA 1995) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809198511	nfvdid	BQFmAAEBEIUBu63CY6uHwqFyqCAqKCFgU4egyV1Po4lA76vVstjzUg3lKveYrq_SFphY5OhQgVOYrQnNF-Q7fgDnt8rl9nd-fj7696mJ2zgh0EBmW54RByGNkY4uBI_DCQy8bE_rKPgvbZ4ebcUv9EpgPz5yej2N
+.netflix.com	TRUE	/	FALSE	1809686643	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+18%3A44%3A03+GMT%2B0800+(Singapore+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ee68806f-d6eb-4dc0-ae23-322e775233ce&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777662477209&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809841251	NetflixId	ct%3DBgjHlOvcAxKyA1iZ3WA-ggtYYu5ECLAyt2GUN7_kEX3MfB-_3VBwbRKNhA3Tz1owNnYV62IRxt_UI35TmHqfJhmS-YK1IKBIwpdocdR1iQfDQ7VFFf6aR38qst-vg7adbspJN5U3YJBYwxOc1FfU_9DAFKl61gOD_7BMHw3z1gwmwI1LGMRWiaHjatGaDg-2pzFmGzs9dn2sO1zz0SexCjsuw8RHf2PzUOqZSuw-kUHTGDSJ2ZVR5rZ0N3UX8OW5JS-GnSJd2W8XmWjHNUz7cnyg90_rOvrD1nWvbBM0Ja0PHoodAJn0j_ughZSFoqMauJdL8NS02fflU1QyOJwxABEJu7Nj4l9pA9q9rxw3o9AC0MXEwAEkoiv6eoGttdTAcA5oZHY53HmahXPfCN0TDNqwHllWgF2azrsM5mUNAzLs8m9ZjPMTnaBsxt9xuRJbbOq-S3oLtAo1awF3LBKsvAcIdVhLT9yRFfo9UvfRJAlPoneIu4_jMWbr_6o7HC9LOTVJmWlYBL3x_88gSVYcZ6HSqoAvANUhqScmens8X_hWv-dP6IPqfplL1lSXtedOG9PLaWdxtgYzdnrjGAYiDgoMluUbam-nlxJ53ktZ%26ch%3DAQEAEAABABR4pRr2VWTPq-ZsqaU_chkD8Dxysn5V4OY.%26v%3D3%26pg%3DCJBV7MTDPFGWNFIPRXSCM7YJ7A
+.netflix.com	TRUE	/	TRUE	1809841251	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTf_xSPyfZ0H0WmXtMZdF58p1OczfKibp0.%26dt%3D1778305257236
+.netflix.com	TRUE	/	FALSE	1786081251	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786081251	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

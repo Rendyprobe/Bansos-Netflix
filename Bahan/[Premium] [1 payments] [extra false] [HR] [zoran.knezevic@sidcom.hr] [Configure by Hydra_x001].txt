@@ -1,0 +1,21 @@
+
+– Email: zoran.knezevic@sidcom.hr
+– Verified: false
+– Profile: Ivana
+– Plan: Premium
+– Next billing: 13. lipnja 2026.
+– Extra members: false
+– Country: HR
+– Payments: 1 | CC (MASTERCARD 3496) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonAlertBoxClosed	2025-10-10T18:13:34.047Z
+.netflix.com	TRUE	/	FALSE	1781829576	dsca	true
+.netflix.com	TRUE	/	FALSE	1781829576	nfvdid	BQFmAAEBEKuijuhDosW6RlW_MTBu1edgp1KVbu3VLnAcas8VFSo0-O9kUcApld1ikCEUYWjfjUvtGxOMH81vdIK3NKVuu9FFDcFm0lJHSvU3Oo_8nK39Ms1_PIMOFTaKCqJHdDgmbLIiRiEPlyp0_syUGPa2l3c4
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+23%3A42%3A08+GMT%2B0200+(srednjoeuropsko+ljetno+vrijeme)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f71e8c53-057b-468b-a339-8dc717f0cfea&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=HR%3B21&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781829576	NetflixId	ct%3DBgjHlOvcAxKBBGwzn14AQsZC8uw_dO0HiqCvsBaK_eiprqyw50iW3BkpKpURhgkdnKRWVHoNEN1Zb_59WqWEtXYQJ7aFMk8fl6AxJeJtek6ilnU9AsQeX8cwgWkd2lbdh_84heT32Iak1wBy9nSeIDQAcCYY9MA3oC1uLEv2pkAphxJYE_f8fQhreStsqg6JBkBOuag4nKuMUvFrmMqZeLSHiDMtLIN--ChmS-aVwna250fyfDjp5rdq6XmJE8KfHOsr8gVHzeQYnU8iKDgOC4z_C7Y13nvM74S6c_KNxmKEMoXTRBXnYR69FUDYtsbSA9lZrCYBbeBmyJ3hXfmoa6ES683rnN4onLSCF6jFqvAopJB4QRdbD41M70cdo3xaaYn37cUloOSFY5BYY-2Kf6FeNuQBAgy_NDqB-naBiXf2wZU0GPrk9yFAeO_ZmlJow61koVX-zlAgBWOh2pjl6BUbGRbovUPANi9EEZMfCqkxWGcCj2DI4GECmTJ-E4LeiA_y5ty81lc8rMABQqLegtmBomVOKa8vSIe9eKTaVa6HnmE7NKrAxCQge_EY8rNKasnTytu2kC7tAVo7t5aidQem3OepKsTZTDqnyZ03Vn8DbWaKZCI3zLJ3fHj1AIz96YSFf5_cEr9c8L41kboEZKNFyWgnpXCJ4L2nktWgOVUiY5PgP9DLAAIu0hgGIg4KDKrGC0hksuVHoWRwsw..%26ch%3DAQEAEAABABQQf4V4Z1LiFIWIU_92pmAkFjfwpfFEmQ4.%26v%3D3%26pg%3DLGNNHEQ4UZGPVCIXQ3XPUQDBHE
+.netflix.com	TRUE	/	FALSE	1781829576	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQV34Vjnw0yUCl-DUFMMBl6qG9NOP5Nl6U.%26dt%3D1778262329805
+.netflix.com	TRUE	/	FALSE	1781829576	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829576	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829576	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

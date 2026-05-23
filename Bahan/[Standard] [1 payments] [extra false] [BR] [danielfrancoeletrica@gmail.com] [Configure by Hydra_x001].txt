@@ -1,0 +1,16 @@
+
+– Email: danielfrancoeletrica@gmail.com
+– Verified: false
+– Profile: Daniel\x20f\x20Fernandes
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9872) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801327177	nfvdid	BQFmAAEBEPghkYCsDX0k_Qj5LPJw0zNgBwAFB8UnfP9dhrKcaP2OWsz6tH_cKXUTmu6WFgBhaU5q8R1Z_7UJlJe1GGOItSRKtenTu0Db5JHBx0N33E_WmSIxO4iwIlnAkCmE5yL9o1VMO6ZAH9Ts8FZ4PFsbDZHo
+.netflix.com	TRUE	/	FALSE	1806019990	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+21%3A13%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b445dc1-c65e-4267-ad9b-8cc3f41b21b0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806019989	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSP76EPRk_LkW8oY6oE5XJa8JBIxR0QjHg.%26dt%3D1774483989311
+.netflix.com	TRUE	/	TRUE	1806019989	NetflixId	ct%3DBgjHlOvcAxKVBHc9xq5yZDsHy_-GPjiI3Hroc1Dqhafo6A7iUR3AGOHCMDvUJoddnFVh5Yb2I5cw9N1SCyuf8kCsWalAHEYfBMfe1H7BHHQfnDgfPeDM3UFLgT_0TG1gVPe-A6eb2WcmDJ6mmjCasHJqqLpHYoV1qzrfpOb1sHfcLRPZYopVmAIVz6ohgMbY-DVqjccA7rljIqHnDBX1NaKZh3o81iUEZUqjB9z04FWn9NK-NAgw07EfC7szZhkiBYzyR7Cb-ewbvkka15Lak2Iz59KjMGWZ3tbjal6gmb3IskikLfsf_17TiyjSNHZoQeGThytJ1RxnitiZdh8o-lvkEVtegXJTxTEgN4OSBcG4wbpnmBxVWl83lX728o9jyKHjijwLVaipdQd7DO0_PRWvPfLjao1mnRZtWzwXkNb6b13XvhsL8ylS0FDNiItv3X8qdS_83zg5v57-FCZ0pSL2jr1nooBpp3ThjUg8syzCyWZ-OHRPojEFvgUmhuW8OPR5IdckS52m-lVyDW11h7LszB6sxsjGIdzidRirqnFkvNMomUDHcQpemDie0-3nsHrO2c1qDB5HRZ2lprKTF5K1d__2VPTQqSwoNNtN4ZsHY4Z0spvsqwtLHWEFp9pVWCQhu_QqzVBfseMPfPY8pVaEQliKFD5j5GEFzRYf-n6wWC_Z_F-2MyI6ehC4gtqZCCtXlUKeYLcgellnEicWGAYiDgoMkSQmJWmTlwos8eL0%26ch%3DAQEAEAABABTzDuAZeT_8CFgVP_49GtN2Qd3TqiRhjxg.%26v%3D3%26pg%3DTZFJKQ3VYRB6JATZM7OFW3JU3A
+
+Follow: https://t.me/hydrax001

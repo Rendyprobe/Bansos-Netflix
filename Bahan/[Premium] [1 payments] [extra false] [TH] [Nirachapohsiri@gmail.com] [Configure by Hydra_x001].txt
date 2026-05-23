@@ -1,0 +1,21 @@
+
+– Email: Nirachapohsiri@gmail.com
+– Verified: false
+– Profile: ตังกวย
+– Plan: Premium
+– Next billing: 10 มิถุนายน 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | REAL_TIME_BANKING (KPLUS xx***161x) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1801946372	nfvdid	BQFmAAEBEEqQQ3VXJ6DMSQWdgfk_vbdgOIclpjJ7CRZPCin78d2ROm8ZB1NIgqGPEJfOeOTv4v_wJg3xo9KOwQKeILgOERXv6LhJi2fRF_Vb0MZoCKafB8erkJznL5wU6sMmwXk1yvj7mma_0WTC_3PdqmHrW8Sx
+.netflix.com	TRUE	/	TRUE	1810372778	NetflixId	ct%3DBgjHlOvcAxKQBNIGq5zoCVWc36iFXnJHX70MmmzSbNLNf4RpWqwlQ4kf3te_mPESIMS-oX9EYRpLKb3yAECA-UXUbSOUBRT7TqJwSbSdC2144sQm1ahhUV4DPb7ezZYnF-Y1ZRQJnZC7iGFYYX0Rc-ryQz3phxBQl3mAEt6UZaJCY5biT6MFk6UaNXfOGerdftQkb3QXrBFmLr0dCkfQXbp2wzL0lKxykDwHwmbHd-koFG0BtIg3FgHslVGX7nTw9_n6SkXi7xNo2gRaXwVSx3etnDbef47WaV89Mhn_NDXetsi4yVDWPWKSgK-tnUWGg3Pbuaoe6VbngJ43R14Kb7x_qRGxDuKLlYlCkBTRf-DIfqX_IyAZnzKpXsxQ74efocsZ9CjKN1y1bRn-ohRDXcOHr3F_Lou3QdJd1_9dmQdl6-KCgT76TqCc5lIZqLi--RCymX_C32YmXIMFnt7HxI9CjA1iiOfVZGiOf-DdiKcbKM_ThiFkbxa-SFP4ttobIQBf_S3rOcLnSvyHHCJV38k8gNPzhc6kjL-xES6rhnjeharOXGPXz7RRLBWFA5FKJvT4-vt-ztKquN0Mty_psQJxnCum5hyq2jPjStQhl8Xr2fMDH-5yhZE0S_Z-0ii9oNL8aFG71BKjXNITndG8wLOhx2Od0FUD341znSfXnlEKLVEeScWuYymEBpyo7WWZ9acP68F9IhiWDRgGIg4KDGr5RExJ3aIYdvn3jw..%26ch%3DAQEAEAABABTIrfq54nPPeLAiEM30o5r8hZ_Bvc2eb1M.%26v%3D3%26pg%3DFGFVOMQDQVF5LNKWE2YGEWWMSE
+.netflix.com	TRUE	/	FALSE	1810372780	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+16%3A19%3A40+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6635bd45-6c0a-4b8c-b1af-f9e488c2e817&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810372778	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHhxUPIOjpcC0i6GDAOEyfXMDYMzROwvI.%26dt%3D1778836778839
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	2d07eb36-17d5-4c6d-93a0-6982b75c8a66
+.netflix.com	TRUE	/	FALSE	1786612779	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786612779	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786612779	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1810401170	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Email: dhezavidal141@gmail.com
+– Verified: false
+– Profile: Nathalie
+– Plan: Standard
+– Next billing: 
+– Extra members: false
+– Country: PH
+– Payments: 1 | PLDT_BILLED ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066568	flwssn	19b8aa0e-6866-473e-9673-6d44e97d947f
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	22343fe6-fcd8-4ffe-9e5d-7c8c9f4b6006
+.netflix.com	TRUE	/	TRUE	1806141298	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Ai5u9ov3HUCWkpsOFKRBIFJM_jBzPu1-LM8Zzlhihs400UyzMCq5iwr0cKlfYA6FS0AMPtmQFZI-UC37OTRR2p1H3n2oAg4WUlaUQJWI-vqJZglxt8JDpWZNzmj8-5Il1QSpr0UjMthJmWjtCZobkWlxoQErSMqEIzBkFCQ8Nn9hNW1JYwezJBNgi6QsJx7qYrJzhjWyI6VaqdVb-7S8Wtgt5DguFQtpmbGhSj17aTm51UeeAnMhMlJSskRI5b3CT-QZiEg2J-lUOwSVyLFLAXEIpZGOx0ALy8buiYv9zPWyU2nzcIrGMqm8HOGKGZkBVepwbVone_xMHugnjx5FfjPjuH-142MgFVueJX7pPSxYj4gYx9OwZVJn22KiV7NLY8N2lQRW1YDUbJDmycELby7EPEhwbc3DtWry5Rfo-zgxcE0jdO_XtV2Hz26aiyWk3KpX043pbmIgkP52gO_HY9hXNmXhTSMm_cegDDsm0Q3uFOlCtND4Z-lF8BgGIg4KDPRlvWTxgIkX4PFQJA..%26pg%3DWL7LUEYQ4NGN3EVKKADCMP6SAA%26ch%3DAQEAEAABABRSJOY4qYYeoQUwMrhNMGL8sBdRc2I4y9o.
+.netflix.com	TRUE	/	FALSE	1782381298	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806141299	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+02%3A54%3A59+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=504d499a-cb92-4dc0-bcc7-e2042d63fe2e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774605228689&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782381298	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1806141293	nfvdid	BQFmAAEBEMjTT2fjAZpTMngzTlRjV-ZggaDTlATF_Oqc0ynRVH-a14zgqFroHBXSiWKWyzh096LcjPtzoGULeOy4MeDNRiVEKhtZXY4Cm7r9Ocuwcvhlwt2R48KHyAXx4FGX_Kb2No9rUP73luPVZjaRJ-wCAIZ3
+
+Follow: https://t.me/hydrax001

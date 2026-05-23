@@ -1,0 +1,21 @@
+
+– Email: jaleenajaleel123@gmail.com
+– Verified: false
+– Profile: Juvairiya
+– Plan: Basic
+– Next billing: 14 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( j***@okaxis) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802425796	nfvdid	BQFmAAEBEDuHg6E5QOrrqX-Bm9hG7gJgpA-HfEayE89vYRZ195ps0DrneunMbA08jgRjidUv3tyB-iPXCL5mQ2DyjghyO6gvriOF4qNVqW-ogQWXcSUQFmI7KrLbeg4llAR8IjnkMlUccWhN_fBqOZuX1uUTW6e3
+.netflix.com	TRUE	/	TRUE	1780831973	gsid	c59c3c89-edbc-4ae1-8949-505d139ab78e
+.netflix.com	TRUE	/	TRUE	1808137988	NetflixId	ct%3DBgjHlOvcAxLrA7fqQRYk7dI6CyHXGrLJb_VLiblWa_WfQttO0FrvsKstGX6f7n3kGJ4Oa6jFMinWt3KLjYHr2j8YIbvtzuvkxYSnfXV6sS3viJisyB-526sunSw7XOgkm5cXNkBOc9_LBM9K307WmAzd-Zh1mE7RdsvmpW041X2UDdw1_UAvM_aLU9ecZQboAFnWMjpI-YDUfZdLQ28bA9NbPpLnJftkQeckDG6ExBG1LGeTPL2dLPDH10oJNc2-8ysrGYR33M73AuSHJzw8anAaXlcAnHa6IS783-x7T7xhz5H4HLxtz4dYNFYwi-k5X25gagkTY4Ahok5L_gQMB8qHSQyrKGwlv6RjxmSjC1XXT7XDNVHc4SIpaKg9c4OyaCH3R1_LDTe8FQuiyqcm3ZMa0C3TpzyLcyBhm4G5grUNDqqOo3mkSf7k-hmpKk7YB5LI0Src_nOS7kqYlCQfB3eddRkVi-u4SEdc9u8vqv2DPxB0M1R4yb3xJPMdhW9J85Ty7QONC847n_vE0Vg3St74-jhAHi0ji2MO3MBvMEmSgqbEXBRgd7EWAV6THyedGKHuF3hn3W46w1PqndebpDPJW5AoOpHOHwG-L5BIXWYwXzfaB-Oblqbv18TGy6jTApAWgJ3iF7pkdcVBn06aWN9GrAJkGAYiDgoMdJsCCkgLS7pqS1iX%26ch%3DAQEAEAABABR27KbWZb3Mik0c5e-b1V69JjFlEr-glI4.%26v%3D3%26pg%3DBY5QX4TMSRBA3KFIXDRZOGWFCI
+.netflix.com	TRUE	/	TRUE	1808137988	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmb53eVRJem8liVJWQe3z3TpFXSTAVlqc.%26dt%3D1776601998180
+.netflix.com	TRUE	/	FALSE	1808145281	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+20%3A04%3A41+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c09b6d44-742e-4251-9080-02d4e57839ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770889227642&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784385281	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784385281	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784385281	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1780831973	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,20 @@
+
+– Email: syoukofukuda2020@gmail.com
+– Verified: false
+– Profile: 黒人
+– Plan: Premium
+– Next billing: 2026年6月1日
+– Extra members: false
+– Country: JP
+– Payments: 1 | MOBILE_WALLET (PAYPAY *******0589) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807020691	nfvdid	BQFmAAEBECG0mIWJ4NxdpZyHBnqGQo1gJP02BCRGiso_Di6zk5wExin4aVBLeTPBNhFY81WywMGMo5CF4IpFILkxyYwnjo24ZsA7zURqa4PrVYbDt3-PKANuWv5p8EsRBLmU9dOXvLUd-Em0VSsctUbd_5WgyO30
+.netflix.com	TRUE	/	TRUE	1810031325	NetflixId	ct%3DBgjHlOvcAxKCBFOpSLEhBrZAZPMonf9Y_JKPRVQaECtT6okF43tbOgNBMBOnqmYOBo-R4Dl4PagkJJ4e9z5dXX-XF-OGNmhy7Gx8nyBcm2JNsKGW527S5FKo0TSx8dtAAByV1jgvXnxufB294QPFH2bmP8mI_OdEnkvzP2h8DpolFwYnAjewVotSWZJdwEJ3t7H_fKXks7-84GaZ6MXRU-Oh8He-8EP3hajdOYTbQy48jFSzQT1MrOrbSz4woWkzCF4OUYXS3cqrIZl2gyQsOx8O5x9yKETvBpwekcN1xhIm_cytWevXnDRN6wvnIJ-TzrociX8-1KDPyFwk1iM0TIIQNWnVKo59f7mJCGZnZ35CPPmTQ-b5794tHtXf8WcMX120edeBa8o-P7e98GNzUHtN0Sp6pDCZnsCMoGVX4w1oOnlmxonk494ntHcTHAEwxWY445zNv_-cE7cO3cMmKg5tAQMSgZ62_IVzUG05k4jfJy1YNqDkAVEhPxIn-a5zhSRhOsumP0IV1EW_2JEBzm-DBmyssueHXrerMmkvsHdpuxowzrjjm-pn8k6U7zXiL5Wo7qbILv-za6hTqkIqNGZ1QvNsiPWkDpzKpzB3Hq7ZmMJP_nZW6VjbzgWPd6fI7Cq25YnFfLhlM8xj3jLTBMAxON9DDpIiAdd68r2mytptifPVS2dM4Qi0EE4YBiIOCgyxBqdSfzy-bip_VBg.%26ch%3DAQEAEAABABT3N6EUXa06ItorZ2Brf3HgM7_MTupVLH0.%26v%3D3%26pg%3DY3RDFIJMNFEPDKVOMGEFT65QAM
+.netflix.com	TRUE	/	FALSE	1810031325	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+19%3A28%3A45+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3bc7ba36-6334-4c8a-86bc-e2665996ccbc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1775484632062&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810031325	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_UxMRwVm3DX4xlfy9PzTwpo78T8qhQ0g.%26dt%3D1778495325700
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	7fb46a75-b7f9-48ed-80d2-0a0f224f126e
+.netflix.com	TRUE	/	FALSE	1786271325	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786271325	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810035876	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

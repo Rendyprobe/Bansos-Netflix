@@ -1,0 +1,20 @@
+
+– Email: bernie.tx817@gmail.com
+– Verified: false
+– Profile: Bernie
+– Plan: Premium
+– Next billing: May 25, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 8905) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785396699	nfvdid	BQFmAAEBEDkivBkYMo0i5JTQVAqOkC1g5h6MUY3QK290qKx-yWnjyY769ZoWE7qqn_vtVT6bbahHCNkP0ipXWev4h9IM91GVrF8YkIeekXR_yaRzCIXUUSGH6Q24TSWO52psAQMhpkBsyVhOzKMGwDN4cVrw0oiy
+.netflix.com	TRUE	/	TRUE	1807099635	NetflixId	ct%3DBgjHlOvcAxKLBF0eBh0E9F1zHYzZwmsfNGyH3GlQ8Wu8ErjWOpU1NPFP9y0kDALDSfO2ilZBU_nEhLpmRXbA8aSikDlgN5tlEGVdpHtaskEWYK07sMozEzimJwVCib347rVkSstXsqIKWAhel8gZ-qCrQZ4Q1ZauclaAfYREhR7p1Efu-CftQh58CT0fcRlFVE0cU9ZSbel4-fMjp8yyKOfRBTymZVclWswDHkSOzlaEdqF1nQS9tTDfXk8nzWiimonOSkEA-Bw51G1C7w1LH1Gwt6YREdPsjQToETM5kIsK-fFZBncchEn_gebWalmG_o21gSmeN3HYYTozrepTqoxiPDUK1YePf3aYc-sIiXwDSpriQkrE5U51aDV8k5U1k9RQhWK0Bod5OhECYxfIMvLgnhu9PtGP0iXrzEjXszGuExo_8QCdzkFPk6z65LkTbcPhRSKyiyJQDMAY6Sz-_PvFqyWt5WIOX0_BLnH3Uf2-DV4nu0A-iCDAqbPEh4NEoiKpgg2LTpfwP8sR-YSxgVR4xOiL6j3qv9w4uMWWo35HLnhm4a8kNVEYjpZLjBO1-sH2yZN036j83CSGlkGrbrztoWtRYaIJTgUWSGTIJS5QkoQeGsHUvjDwnmF2Bu5ruY22eQh61ogNxnh7pzANq23SLgkhkPik4wPJv-Qdjbh5qWKTDFvYKfdhcIfbVBLBkvOoU4UYBiIOCgyjJxXdPRmxiZ0DxSs.%26ch%3DAQEAEAABABQsYU6ZHWWy0UXZSj6w7OQ3f3Ub5EkYqXE.%26v%3D3%26pg%3DEA5XQH3OIRD2LFWDRYNWM2CGIY
+.netflix.com	TRUE	/	FALSE	1807099637	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+07%3A07%3A17+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d3b4f51-bc78-43d8-805b-817071dc6c7e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807099635	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSslfb6Lh6JbMJ8yW4_hw5cxJxaE1ELqwI.%26dt%3D1775563636913
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	ac75dfe7-10ae-4178-a40b-99147f43dfda
+.netflix.com	TRUE	/	FALSE	1783339637	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783339637	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

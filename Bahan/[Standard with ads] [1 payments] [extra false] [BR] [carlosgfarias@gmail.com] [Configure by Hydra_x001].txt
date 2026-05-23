@@ -1,0 +1,19 @@
+
+– Email: carlosgfarias@gmail.com
+– Verified: false
+– Profile: carlosgfarias
+– Plan: Standard with ads
+– Next billing: 25 de abril de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0400) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799060542	OptanonAlertBoxClosed	2026-01-04T11:02:22.998Z
+.netflix.com	TRUE	/	FALSE	1799060620	nfvdid	BQFmAAEBEK7657PjdUODtnM5KivZsc5gvsl5-6YzR7TrCprGP8Bhp1oLarUW7IcXJDMdvRAGXQTwVXjmy3JFcw4vkAWvHorNngZcN9-YYvFheWHLBh8cgeHS60PhquBIyTZy0Yi-cHFbEkkwyTXn2rK9iKCeRhdt
+.netflix.com	TRUE	/	TRUE	1806170315	NetflixId	ct%3DBgjHlOvcAxK3A4n8Bt9uz1puUsU5Vah1nkgQ2xIFV-rfMjxJVk5OmwWjE4KPIHlSpOQ2B40bhh5FIRzuiK6EVCMjaUMIUSZaw7qywF1cmcq1Dxu4f9xiDa5BkRVUO9t9eKrtMf9F2Nqt1bxVnf6FowvLxQjWDKwO0qGbrv8fpdolE5Wx_WdBBy90DZ_JmUlbCCxy4du22A1lPm6JC-NXLEk4eWCBYpDaRBMZwVQ_UFpE3PbdsQlHXS2un3uAkyR5AvYNXtyJ4sIA_Tc1cDN52iPceT5CQtB1cdA6dKCpESMQN_4pMO1eZ4kasF8DHDKSww8iUEPByWRLa48DMb2qXwmMcRscSCwU8oTKmQXmnabLmCnA61028edW9oNWibP9YeWi7SJKXpLd1nHj0ZPJtfYdY3e3HjtdGmAVSqt9YlaXF9ctOqmPybtZAB5SRzxj6-1E9NixSGqXHSciNtcav9fEwv5_Nf3maPym-p3X6U84oSrix4BpKAjQ7iIrYaL4D_svvfU4unWaGEgFX29bEmcwadQFNzDSvKDSQMHkpVWEDkkRtSkuAejMB9YG_jmMrmLcUPvKZDYNoVJZgp9GyqoYBiIOCgyRoVYO-wiHrtA7Wi0.%26ch%3DAQEAEAABABSHfoBNH2kuXWGdIPoyg36RKvZIQ1Tlht4.%26v%3D3%26pg%3DR2CBJTJOZJBIJO3DVG5WGZ3SCY
+.netflix.com	TRUE	/	TRUE	1806170315	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJpHxxBZ-1bo-0GT8n83yk1_7WCE1LkMg.%26dt%3D1774634314831
+.netflix.com	TRUE	/	FALSE	1806170366	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+14%3A59%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78da40a9-c1f0-47ad-9ae3-e5a00b4ef960&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782410365	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782410365	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

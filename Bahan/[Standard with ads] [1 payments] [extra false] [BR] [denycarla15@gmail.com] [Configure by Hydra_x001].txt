@@ -1,0 +1,20 @@
+
+– Email: denycarla15@gmail.com
+– Verified: false
+– Profile: Duda\x20❤️
+– Plan: Standard with ads
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 1224) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804099031	OptanonAlertBoxClosed	2026-03-03T18:37:11.157Z
+.netflix.com	TRUE	/	FALSE	1804099026	nfvdid	BQFmAAEBECrH3OOanYfNoaRuBhqvw65g_eSt9a4kB8Y6KAIXjpqGc30mHt9IU5MZrzKcqQ5sHJu8IED6IL4u6aPRhX-sk0sCuhqC5tNpmZJ0G9_Sq44-6I4XDbnyKA2OUa9OWASHAJbrzIqPU3-j2nU50E7vaJX-
+.netflix.com	TRUE	/	TRUE	1805821974	NetflixId	ct%3DBgjHlOvcAxK1A_dNAc7nJ8NCXpdXNURpWE6e9bmADqh9V82vt-9dCtxwv4K5GbzBquZYi8dNyyK1Mgw1DOH1dvbXh_cAMClFnKFEjstTXnPTYN3NV8PCiY3nCebfP9yiVO3lryPjTGAvjXqVIEsKVQI_lAMKImB7xREfIqVpFMEY9xwPF6Jxb1od1y6WwE5EUEwsQm4yd41zJBckmWfy0MtXhTRDoDWLel_t7Y55998dqmU2lP8pYxiEk_gbmVWHciSHjhI_xj1wpDORv7ukEawJaRDjYdfMCYIRBQ8UBXqoc-aW88c0esP8ryvl0PnHk7yoTLQ5gO0Yl0u6tMTtyPmArPfl7MP6T7tHBqoTXINqSZsj3DZTxeVeeOTae1QwSv2ip7olL2QfI5O_MH3wT0d1mc5ywDwSSC-X1JC2Lp7zrA8TqTFmaNc-jZvMgxw8BLa_7J8BW4_3SRaE97kt4sMiqc53QCQodv07-avfoZhKJRRletgN8gWuWPex0gsO08hyEg3XCZaei7YsjMjApqwKV39iDaAEtTeeuduuWbu7yDlHvQbukUohLOWdu6RKMzWIBF9aANvahU-d-2KUGAYiDgoMh0JB94KQVXTAQaTY%26ch%3DAQEAEAABABSCiXupgIKG18pAP84uR-ZpjoQhamcs5xg.%26v%3D3%26pg%3D5XBFGP5Q5JFTLJVVKXXX2VTDYY
+.netflix.com	TRUE	/	FALSE	1805821976	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+14%3A12%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79c319cf-a90e-4fc6-8db4-7b4db2ead2e6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	0e553bf2-a9e2-4a8c-81b0-86a939f6dfbe
+.netflix.com	TRUE	/	FALSE	1782061974	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782061974	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

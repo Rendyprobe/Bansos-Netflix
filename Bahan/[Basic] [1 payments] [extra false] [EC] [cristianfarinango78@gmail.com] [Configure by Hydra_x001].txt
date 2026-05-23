@@ -1,0 +1,20 @@
+
+– Email: cristianfarinango78@gmail.com
+– Verified: false
+– Profile: Crisfari
+– Plan: Basic
+– Next billing: June 6, 2026
+– Extra members: false
+– Country: EC
+– Payments: 1 | CC (VISA 9113) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1799282975	nfvdid	BQFmAAEBEJtLSwQ-LLtliroZQXJRPt9gKYB4oFN97SjDM2JwJ9XQ3yFn6Z0jLGa0ms03HARQQY_1FUz0FylC0iDDLSJm9jIh7KlTCSjlDtIyehoSKV2rKH0TPqH4Te0oo09Xboqzcs9R2p4bDasjXgsZ9l_sOrJ1
+.netflix.com	TRUE	/	TRUE	1809746553	NetflixId	ct%3DBgjHlOvcAxLoA-_ue0k7jmxx5-3i-1Qbm02iFSnx7PTiT_cObOrR98wqhrvXae4EWxCxpk2XO3RITXKcMpxBWOW9E0aY6d7gDVHuSETIsx1I1Of7Z0Taucg8PwEi1DUrDCIXtGZ7eIKmicUuTJ96TrDZZcXGWl6QVDKxtAsS7NPJ9u6uu-T4f3s6OflacyjRPTO9jttiyI0WeGon-CWuhN3Meazoz9BVhQfUZHeAOZAAfYHgOtrPza3JoVbYIzqEHcjc-bXaZkwv5FPhWC6Edp7lwp9PfrFhokFUPs8R_eBQczLm3hTDmzsq_VysDb47yGQzmC1dXUP4jwMHHMTalyN_54MqSIL5jU7I0Rs3DLUS2o47uU-bghSUX0oU9XoceTyN3fUNKXDQZReh9_JfP-CxIw0eNIf5QWnpEJbOywsVjNe5Y2zlaqp4PHOo6-gSx7Pe7FctWfoEZiE0qumNdyAdh8Jxo1m7XIBJEQMSVbKNIUWPzg_0YSzZyKSSVhq4H1U5Rbvh0W8MXCZHBTnjYComE2LaT2Y8n1rFoJ9XdQ1bgJxiIumb3bykfVY7cPBh-b-h68t0WkqYr_dRHYN8GPC-sW7R9KLEIhzm-u_mxdssl_CrnseuL8p2mTyMS6ZF_B7d59tWhodwmayujKODZFg9GAYiDgoMusRPAQAgZpiLAUFs%26ch%3DAQEAEAABABRGYepiZ3celaPLu3_mQ-EtScGPg5JXnUY.%26v%3D3%26pg%3D23BFBFYC2BGHHG4JVUEJOG4KRI
+.netflix.com	TRUE	/	FALSE	1809746555	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+22%3A22%3A35+GMT-0500+(hora+de+Ecuador)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=491dc50a-09a3-40b7-b3cb-26c45d8b4dc8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809746553	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQaNqsCG-H-7kripyCJ6gmXcFlm7iRsul0.%26dt%3D1778210552106
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	6b50a82f-3cec-4bdd-a110-a0c50b8a654f
+.netflix.com	TRUE	/	FALSE	1785986554	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785986554	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785986554	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

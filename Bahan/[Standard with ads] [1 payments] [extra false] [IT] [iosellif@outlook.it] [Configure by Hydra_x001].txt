@@ -1,0 +1,23 @@
+
+– Email: iosellif@outlook.it
+– Verified: false
+– Profile: Bruna
+– Plan: Standard with ads
+– Next billing: 11 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | PAYPAL ( io***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonAlertBoxClosed	2026-01-28T11:10:41.011Z
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEHVk8CtVMrKVlC5yGOIBJJBgxkaN29MSrRHOvvrx8aBggjEI-Rhr_eU70egvzKfU-xXtt9_rXEquJ10XIfiNKsz1Ibgov04gjp625DRaIvT7y7cjM9Z4Zv4pz7MDjPHTNxxCQmsh3Xe6dXvj9sHFyqXo
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+17%3A33%3A55+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b016e469-456a-41e5-a105-676cd1308581&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769598642868&AwaitingReconsent=false&intType=1&geolocation=IT%3B62&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	1c446eb6-f514-4581-bda0-3a1281812d4f
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKDBH2VLQ8Wgf2qlrOOlOcoBN361QHh-7u7244lclWZe9V2E4esjRZowfGYZLSCcKzYRSwH9i0oRXz47seYMbLfMygM-rSQyax5nSsYIqRHzV5BlKTODKcBTnXqsXSwkhiyT2vy1IPJOK0mF29N5Qu2r1jdxENMgYuIjvTmouUK9v-ZxtsIdIto2c1yAr27nmVLmqRBQ9LBTp8Ric7pQOlwSwfJiJzA_0gQOe2ghkS06fNjeiPGgpvM1vBe5UDR_dcnaHIGcg0h9FvMOUd9dIn6wHuK2ngD48saID7Zbdk4-PVTw6TZHvtOXg7De3Y2L1JbnVMUPZHzJVcuq0xuHDCRWKhRaO7Xi5P93jeIhENMALujy6_W697MAVfa4RvwmapBDDRTtc9uPTIR-MsXabT75DAWWI26NZbhenqFOzvK6tphgti4FwMzvIqDmZDeUQkbnmqzgrVIJVkNgVdOE5JWPG5HEO4_unTbCGv58b8sPZ0TBkluH4Wl0pCwdFxcGktsVdI54FJPpaKrsoHsSw-UHnYDCwaaEdhA7sPe5wcn8iA-KDHct6eqoK6fIVKYv4fzkJ3-8MTed3jupFsLWYlCqskFxjZFO8OzBKPQ4Epor3ZuJK_Jg_gp6877KCrFq8pUnVY2vR6jbeZEmb-dCPt8FQNtlnQvl6dfQb5FwbTIQqQ8wTciGAYiDgoMn7nMbUrap2Byrvyt%26ch%3DAQEAEAABABQZNorFGJ0fqrTkpjz58-cn3aO2EkqZqIM.%26v%3D3%26pg%3DLNWK6FVVXNDJJA5GLCO3QDKJ4M
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbhcM-sgm7S8efzuS57J7-ce3mXnQA0Xk.%26dt%3D1775411695636
+.netflix.com	TRUE	/	FALSE	1781798731	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	dd568f12-6137-44ed-b9c2-9239d8279a07
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

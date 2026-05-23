@@ -1,0 +1,19 @@
+
+– Email: meghnagadhvi7@gmail.com
+– Verified: false
+– Profile: meghnagadhvi7
+– Plan: Basic
+– Next billing: 28 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 8***@ptsbi) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066568	gsid	640d0cb2-37f6-4f2f-ac1b-cde03b6cee4b
+.netflix.com	TRUE	/	TRUE	1791618527	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNA-L_gY1q4Kh_72dgqwQPJiYTJFxYl0NILoHwuwlIGpHMof_6S-xWpQ3MDSAGGoxO0ewH_vPG36WeZoYIQRX3kzObm0Mx2sTwJSqptxHBjLrPgg0CrYtRY7v41OiFUK96n5xsELsX5c0D5EJ0XaCW507kHWtUilCKCmrdoJvMZCEh5SOeX1AiFrPDRHV4G743v3VLo8RgLsbmIPC2QsCanmOGNUGGWgqXXxIv6e5vquro6vCwzIxmaPnbHz_HDiXzLgVivApMa2dxdu6dQvIi7RWDS2s93DGKdhOGXGdZzGsfptEVy5etX7ceZwmZp1Dt41_5g4fnCbs-T56ACWksVNgvI5hlpUbJhcKsab95wtVFqPXMvOyrkM_zNuExo0jWyuEvPx5FT66Pw115S_Fcxis_W8mrttp8HVgKE-nG1ebzze_-VrdARv4fdsN_TQdogDk3fPGdRW9oi02yySyXIbPq6D6dzFXKcZ-Bu9DU96Yc9NPSGLb3IAQhJSUuv76e7vMTxr4waug-yk4EGXgYBiIOCgyzwbzgIkBJjf-7f0M.%26pg%3DRHZVTF2MP5EFPIARZBEMXXKAMA%26ch%3DAQEAEAABABRcbgylzXKCF-e03eT0f0b9QPtQ3a3br78.
+.netflix.com	TRUE	/	FALSE	1791618530	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+10+2025+13%3A18%3A50+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76662f66-cb06-4265-bc21-ffcaf88fe5b3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791618527	nfvdid	BQFmAAEBEP6pWB4Rv8wBdeFRtCQ1t81gxyPBrsO2Xps4WinSYbYMMTigsO5fpYbN1oTx0Jp7SOewWxC9C-byE3xAdqYGiiVjON7tvP5L85EVww6B-ZTNtVeFpWS3hSkQhZMEPnOpNSwBWjhgnEig4OpJ6AGu8gO8
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

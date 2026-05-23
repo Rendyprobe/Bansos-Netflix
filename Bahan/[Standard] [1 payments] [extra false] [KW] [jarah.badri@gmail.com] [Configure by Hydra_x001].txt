@@ -1,0 +1,22 @@
+
+– Email: jarah.badri@gmail.com
+– Verified: false
+– Profile: راشد\x20وبس
+– Plan: Standard
+– Next billing: 19 يونيو 2026
+– Extra members: false
+– Country: KW
+– Payments: 1 | DCB (STCKW 1665) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1809124155	nfvdid	BQFmAAEBEDdBCc_EKXDJnqcZqA2px7lgDXfkMcp8QlnNT57BuSCDAzTzbwGcEWXdkrci72eCTcesV5ZnLHSBP23oMFsssBALWXcrYRRYOSRekSfaaiIVGuiYgvoMQoyZr_q2UFNbj11VjcMfCRczaEdhyDEOQ7Ia
+.netflix.com	TRUE	/	TRUE	1810128571	NetflixId	ct%3DBgjHlOvcAxK9A9uz7CLfyQTgmBoKgICr929IA5PhBG612U53gTko8t0kCP7eBxZ_m4mv2tLxTQ2PM7FWW9AxhU0RSvukVrDcvRjCF3ZW_25bo70e3z59yS5zb47kBGDje7ihdD4o9rFNOKvuG2lavgZWPtykrvUQGI1GnA63RIclIeHzQyRx7ARRXwj8OXszQSkh-5EAI_w9VItikiIebTiJk75PbajFjGybQ9sJhMaTMX6gzvwtGqIfTSTpvcEoj84VqGqCFrS0Y0skiKj8edvjb2wXuwGEA626tQS2K6vwXQZIOAgklxePqox3ULMV-1om27SIlzkjy9IiHw57fKUbqp0l5abayWGKyv7meK9RnGmuFMds8W-Cl5zbYajGv-ZHp-JG0kiRm5Fsc4pw0BE0rWezg1-IMlaqyeEZKR9ezi00-3s2rsTevlRPLkgeJxzQxQdmqJUQZSLCKrq6S3Rh3_MaxW5N3ixSqJmhG5iCsRTsSZCUPlNL3o9DUCQ8zROvXylUOoYI-YZUdQY8a0rAthRJj7nYSFr-RUaZDKTyWC-Y7QCFW96mvWVaq6SKaD141hPRVLLw6qI9o84cE7PmTDRsWl0YBiIOCgxixa3r9X3NDD8_dNA.%26ch%3DAQEAEAABABQBbSIjLpnKMBIrJ6oyCuNIuTD8oqbpwA4.%26v%3D3%26pg%3DTCXKVERQQNCLZLUYSL3FDT6G2Q
+.netflix.com	TRUE	/	FALSE	1810128574	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+16%3A29%3A34+GMT%2B0300+(Arabian+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f53feb0-7ffc-49de-97ac-c44b208313a5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773641226341&prevHadToken=0&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810128571	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpLr00ty3Pd1B0hJHamQBu0K3PUc4K-eQ.%26dt%3D1778592416835
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	5fe4e39f-697a-44a2-ac26-fdf19f5c15d1
+.netflix.com	TRUE	/	FALSE	1786368572	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786368572	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786368572	nkufi-bold-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1786368572	nkufi-normal-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

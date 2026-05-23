@@ -1,0 +1,21 @@
+
+– Email: alessandra.botticelli@outlook.it
+– Verified: false
+– Profile: abotticelli
+– Plan: Standard
+– Next billing: 8 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 2897) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807476103	OptanonAlertBoxClosed	2026-04-11T20:41:43.759Z
+.netflix.com	TRUE	/	TRUE	1810500160	dsca	true
+.netflix.com	TRUE	/	FALSE	1807476159	nfvdid	BQFmAAEBEPR1e3j9_XTP67jMK3cabqZgHbImCqyEUKZvwScpFGLgdCd48VlWcLSPHjuMiKi_ZbQ0JssOiwS94c8ayorpZPWayzdqVvCkkILp5-gc4LMqk8SWSDofgLisXjOOtLZBElFxfa5eJdcsTzJPK4Qi9R7b
+.netflix.com	TRUE	/	TRUE	1810039402	NetflixId	ct%3DBgjHlOvcAxKEBJtXkczkAIG9nzXqY1gViDZ5P3MBEKxv6-xMYEVmsfRFAZHCMaak13muq6_0K6QecQ-UDG_Fs-4o120EAv01pTiZEHgipznjBeT0DfOoijSUxmQ91IaBleibzkUE4Du13cO0Y-Fhg10y5B7fg4f1FbI2LOe_KoV23f_x68jox_yZoxFN-oFtRUiaKRix05DfF2c_grg85slLGRkR7BtvSe-yRQT_J5P3NWxjH8mKryFZG1mDvJTzIGJKMUBXSTRsC6yu63X3RtDQHrTwTQLzCLt-RWjrf08L6qMOLfB7uvKQHaojByl-J2fII4Fx_JRkTQfl9X65aJz8Tm4Adc91tIoxq3utcCniwi_sqyi5i_0Il6h0_ibYBtZXoggScrk2L93qEhQRq44B5bHF3IjrLOuCc6kXqsmxBMSp9pcGQPRF0hvHC-_NGCu-veAdfqwl_L3hNilRg1T6ihmuTL7g-52f0Zw7n9dFenPUztJLZy9ITyi6BH-UdXgwVsD7FlNmrcAgc9piIlEctzbkPL-td4a3nAvmY7WBrLK67y9AeZWowFUkKUCRHkHaLiGhVI56DJikabt1kaEzJtgNNn_qxq2JJnTjammZj0mQp0pTDR4fUvPDiaqcm-CoYw4vOQwAN0ohooIy4cUmshkwhJt0BNhHDyP3bAOXzceC3JhJ2Aa5O1xxxRgGIg4KDGw3EVA2-gCxrysmvg..%26ch%3DAQEAEAABABR3FE0lKtZF56LTfH4YMddg5maNAdfusWk.%26v%3D3%26pg%3D46XJNLKGDBG3BKS55B6D5XY4OE
+.netflix.com	TRUE	/	FALSE	1810039403	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+14%3A43%3A23+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=45c1f3b3-70f1-4e13-b996-afb2e487722a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1775940104304&geolocation=IT%3B62&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810039402	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmC6L_WayXAowmjjbMwI-3BIOAkJ1Kn_0.%26dt%3D1778503400294
+.netflix.com	TRUE	/	FALSE	1786279403	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786279403	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786279403	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

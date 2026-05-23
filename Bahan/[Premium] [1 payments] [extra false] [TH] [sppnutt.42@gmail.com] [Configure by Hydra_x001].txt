@@ -1,0 +1,16 @@
+
+– Email: sppnutt.42@gmail.com
+– Verified: false
+– Profile: หมูอ้วน
+– Plan: Premium
+– Next billing: 6 มิถุนายน 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | DCB (AIS 1505) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1793004454	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKMA1QL_j50LoxWXzXfhvFEwcvxc6s5eK4QX9aLQHMLyh5Zmi_t6k_zE6G-2DNIAZ3YPuj-0eMQyRKD0b_NbX06rPZ7YdiMgEUfWn6uyF-jN42GKMescMtPvLV-5rvx9C2c-ffC-rcUsGqKlDJuA3XIQT_qOGrh6AsXgcnynsqu8lIn9VPI-YPStMsonr2aHmPPJZBt7c2RaWPKv1RCHTy62vsnqaMDBQkkwSzAojyP9mv1xovjAj-q6mhjm0N8iJTUmy_PuQ56AHz0SHljVJUsgd7C1efVaPl97FctKkw08pYbr0Gy9-um1FR5OIuvnxzbNQ3YsP678unILtd1Ol5UOACCcQiOO5QuhLFhWH600mZsda9bc27bLSsLHfaTgcWgyfMc3-mKCSB8q9vAjMs6eav5wxQCffVu8pYAW4iFUCmXHzGT2DXSin3dxrsStsCoypknLZbGrt67b70dlpCFpSqbbFLNwIo3QRwmsQDTVqb7jDOvD-ixjrv5MOyKR6liJmO0IXKV_U2NYn8SCxgGIg4KDGZ8mK80HLUjRlBhGQ..%26pg%3DEGGA6VPM25A7TIUBIYF2FOQXGE%26ch%3DAQEAEAABABQlCO-cZ1UXSt2Paxba3OPTiczFDKBHxww.
+.netflix.com	TRUE	/	FALSE	1793004457	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+26+2025+15%3A47%3A37+GMT%2B0700+(Indochina+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e8ed07b-c865-4aa6-9e15-1641f923d21d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793004454	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQL7Xa1u1XbJ8kgWKsHYWWN7Qykqup1QJU.%26dt%3D1761468454507
+.netflix.com	TRUE	/	FALSE	1793004447	nfvdid	BQFmAAEBEKLPTCf5g8gZkEU1wpApKB9gh8SQUrIAwZoGaxb2fYaBv-0zb87rQdtmRHLMVqxpRQKdP8w226Y_po0Mk5felVWKwG3XDQqy-JSwO3rkgNOmDIoOqg6xiy1QAGVULVIN_pcOnH8AElHxg4zV3C7ug5h9
+
+Follow: https://t.me/hydrax001

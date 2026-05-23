@@ -1,0 +1,16 @@
+
+– Email: fairchildtwins@hotmail.com
+– Verified: false
+– Profile: Favorite
+– Plan: Standard
+– Next billing: June 7, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (MASTERCARD 8241) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787961059	nfvdid	BQFmAAEBEF5yDbtKqN00FwmVp-Dlj4pgmRWr9xZJ9fb_rUpTtUkrf-Uc4Ab01VJXSOtmqC2vTD1_7HtDuUoVuaxlGvzCcEllS7nUTKqaBTyZwRiGsHsU8Rkig-TOYR4Z5i20u-8KBc2nLv7vkirq8IaICR1MP55A
+.netflix.com	TRUE	/	TRUE	1788126799	NetflixId	ct%3DBgjHlOvcAxKQA0ib0i72mRD7ZRTMxZNBbl4fD0-Qha0Hbn4de1H6TwuNHwGH8cY2RjRZKg5jvrzM0gBwHBrul6l0QwoWbgODzAfReAOjBjNg5Z-cb4Qyzlc1dI-YXGO_Zv6olvCIjtgHo9FIlh4FwoXRrpgC82FHClgqy8yCjjQ_nrlHIYyYiS4nF51pPZFS5pNYT-WLUhotjX-MqQM_qJ-S2jaq3rL1cbD3h4yZXChLtwv-TTYNu6AY2mvai6_EN4_pP4d0kO8ZNWqJtWahbxc8yooln3-grDaa1-eQicSBSsUH_ZsqS5VCRKPDdHDQ-I0mRJnCVZP4AoKQ6XsSDoWZh4eyCeXBgEdOChEbc53nAj41_dAVJz5qdAbKVLn0YxVFsY6qhGohYfc3A1IVUkoUvT07yZU48BHN3RCPi3rNe1Ld-C1ZxfrhNVkZEOjhAG2ZcBI7SR1Htk2lBm_YkSI0nm-umEWN0W1lm1MkXDib5WwTlcgloJhFSTjPAjgCuADwpOTwe6KkoBrTWhORvqB7i80LgQDevf4YBiIOCgz9AY8JnQMPdDD-__8.%26ch%3DAQEAEAABABQi4rO0-1Wp5Keswq8g0JwaAiMbD1N8E-0.%26v%3D3%26pg%3DYG3XXHS4IVCYBBRTWZNUNVM6YM
+.netflix.com	TRUE	/	TRUE	1788126799	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrHTSyjqt69GZN4dL2CpST9JJdvjvYhcA.%26dt%3D1756590799307
+.netflix.com	TRUE	/	FALSE	1788126842	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+30+2025+16%3A54%3A02+GMT-0500+(Central+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=300c975d-0a0f-468e-805c-db4890bd35b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

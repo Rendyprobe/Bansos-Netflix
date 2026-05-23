@@ -1,0 +1,18 @@
+
+– Email: julioperez5160@gmail.com
+– Verified: false
+– Profile: Jaisser\x20David\x20flores
+– Plan: Premium
+– Next billing: 23 de mayo de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 5579) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1806357774	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKxA5TRAmMd1k6zZxKyghgUHVPGGlmTo9kqHi2UC_sF8hMFIjUiEE_MsEJj6Z_XYKEnj0r70C4q92DNXDXhhBRby6alhR3qyA4G-MrAoE2tIXigjz83jhvZRngXa18LUtFTr3SWd2xl-Tc3uWwzlyUjdubxAD-9xdn5FBckGy3R6ahIU_5HJd9TMj1TsbWh1-TerD5EiTWo91Vsr6RsdOJPEfQKcdiSgaFRuCjSM0froRGPZmZ2mDklqYk0w4-SC2RlAxJLMrPfjozunu_N0W6gjnPrNn1eKKIJBMMBRw4Aikr2RMEptHO1DSjyk5VmUBie1KvA2ZDj1kTx1xMacGPUXe-8nc0kttIZsvOgdfT49sDwEzmbz2Xolg4z_mOuFVn-7Rbr6lpx1xbBRjzEJ4cIwXYvODklmv46E9BzG5cbXzzZlLavU5H0I61sO9eFihLtLLcjo8Uvd6LBsjP1x8A4Jz2ozguoXdEoPVkgQCfvqQ1of978OiJ1tqWTLEf8hZfdplLN6FYgiUXrlKQbZdjTQCXlL5ivzajcICkBHMx5cliUTHFptDqKNEiclGx7YFSvCz4YBiIOCgyyzaYn2RX2ozyP2Vc.%26pg%3DSF5VW2BNMZFO7ISFY4XQD64YBE%26ch%3DAQEAEAABABRK4MewtZOOMNiOfCYOq4o3G_33egldQEg.
+.netflix.com	TRUE	/	FALSE	1806357752	OptanonAlertBoxClosed	2026-03-29T22:02:32.803Z
+.netflix.com	TRUE	/	FALSE	1806357774	nfvdid	BQFmAAEBENFLgCERPUfJz7zqHLtz3hNg_GAQD2ptwnUNDbmavQyRZkJS7M3FFKEKZ-XTxb9iqco_gSG8CouwcXw48E67-LxkdSSDhMqZK2fer2wcPkDXR0XsgoJqt2cdQV2XN-3LDC_3fr94PprL7LfPW4XURs5Y
+.netflix.com	TRUE	/	FALSE	1806357775	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+19%3A02%3A55+GMT-0300+(hora+est%C3%A1ndar+de+Brasilia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=692f7335-4ce4-4b3d-bba0-a778057577d9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1774821753305&geolocation=BR%3BMG
+.netflix.com	TRUE	/	FALSE	1782597776	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782597776	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

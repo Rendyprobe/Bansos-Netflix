@@ -1,0 +1,23 @@
+
+– Email: denisinhaegugu@hotmail.com
+– Verified: false
+– Profile: Gustavo
+– Plan: Standard
+– Next billing: 7 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 5351) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1805500183	OptanonAlertBoxClosed	2026-03-19T23:49:43.989Z
+.netflix.com	TRUE	/	FALSE	1805500261	nfvdid	BQFmAAEBEP4_b04slx4evYngE72YIltgxkpF6Jp4RFA6k6ossGAjVayfgbovirH_Gzxr3zIe2pHhddDcsLAMpNECLkM9MkSuSj5BuE83pQeD_YyVAL_xPxspE38tFr9bdEHh2WyCkAFGIn5LI49AzkKI6HU5j3C8
+.netflix.com	TRUE	/	TRUE	1806897380	NetflixId	ct%3DBgjHlOvcAxK1A4GKwanM0UgvFhUCjH7BxEodUTTQxBJ_vajI9shN7XRq9uT9hVLFrb0ZFeQ8C4B0RCk-6fHr0TJh1mrnG5Y80DtZkj7PGYcDNwno60nDFWvOjJ-_uUdM9qWQ9x9LE_RYycQxSCBHSgTtqFHyxbrFvuX27iGrZpqrzgPA5IvzNeGxunxcnPP61wykVqRz_TlFVt5kXa7yOFLdPEzcBuL1Jq6eEPUM-RthtxyofiWZAPaFBIZSctJ2iKU6Jb4r4kdzy0wYZyibhi_BdVPkFp1hoM6jEpMrld1hC7NI4NshUqEUzwBO0XFxB-3Hu72b9OJY2OPFzLasr8TyLKrq_AwA9-Za3QcSPYVzqVEfF3M94B0db2aB3_7KKv6At5JnHnDWCnlzsWPTUeV5gWh4b8pcw_uFR4HDzmMWNz23_BkSyhXI5EO0VqyyX0B8Fi85L_Snm9Qx907fldDk52TjTw-ciITP7ZSZzCjwhkZriTQBbmDAld2QyAq0PFNCy4Lx6psXuHjrpAYRFr7btcH1tNSSWYYhQeoSgPvtmLm7_hVpbAc0m97k6-bnrNhPBZXqXdesdh0aCSjfGAYiDgoMjc6YI5zZkhN06nRx%26ch%3DAQEAEAABABQ1W2UUaTgl4778IiDEXAQMEINyelJDIkk.%26v%3D3%26pg%3DZTCAL6TXQFCTHAFGNIJIKN5PVU
+.netflix.com	TRUE	/	FALSE	1806897378	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+00%3A56%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5220ed06-1031-424d-a521-2d33e9b70652&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773964184439&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806897380	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTuTppte7Lj-7ytFx6o1U9o6fu4NjtYoP4.%26dt%3D1775361383340
+.netflix.com	TRUE	/	FALSE	1809921375	dsca	customer
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	13031a99-9388-43af-9fe5-40b5ff306253
+.netflix.com	TRUE	/	TRUE	1781829575	gsid	d4b58e6b-07c3-4ed0-9b6e-243eee8f5026
+.netflix.com	TRUE	/	FALSE	1783137377	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783137377	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

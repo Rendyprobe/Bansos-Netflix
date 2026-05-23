@@ -1,0 +1,20 @@
+
+– Email: herdanalvin11@gmail.com
+– Verified: false
+– Profile: Alfian21
+– Plan: Standard
+– Next billing: 24 Mei 2026
+– Extra members: false
+– Country: ID
+– Payments: 1 | MOBILE_WALLET (DANA 62-8953****4854) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803025417	nfvdid	BQFmAAEBEPD_YriJjXTEJnzL-_YWUHFgnf3xHlDk3Jp3H32ZFMkx858Y4XGiCwbmxnvold55A44Dkw51VyWrxSu5vTcXTAubUHhTLtopO_mBXdDj4BJBSNT2iOT_gFbZPcXweV1EUd8ruyPxzvHu8VkZ4dsll3aU
+.netflix.com	TRUE	/	TRUE	1810264796	NetflixId	ct%3DBgjHlOvcAxLMA_kTX4N5dV5GmmsV78l6C_0pUtpqyqZ0S5oBIsuBK5ZsOZ584Hffy60TV1Nx8PApl9NS7IEbtnEJN02rDFjh075-jK9-sMZA3s8md3yvqRt71mj-94r9mhh1IwHCxVHrAcW1KFae5RskZR28VRKq9hX6hl8jbRiYjltLVzVkDa3TGDFxWdeKxugeT3yzIKTnwvpfwGEi9Av7eGFfXjv_VkSbWTukUcqiTVv9QIjGRdROrfNT1-XgfaSvh6bbGv-W4Gco2gjgy4UywJwPoTFAPo8WDrrU4jb8pxJV5Y-c5Q1_Vk5IaRyseo5lE-aBSHYNmL5M_QBkhcsZ0DthrFBZxpQkm3mSUfbYI8lrpG5lBav2doijCtsv5sygGK-svbXgNRLikkaWL_n5KotQIn9-9YG3F9sTNJPQT8Y_mB9etMo5HpzwMIguAb5Xj5cip3APW7ERC1Hkzl9QA_K7tntGZMMvoRCrotC6Sd5OCSRNwtpMr3R4CykeLyiAkye-6Ce3p33KdZUbbUJ36uBAbAUqxhCULn1K11AIUVYYkk1Ba4KDLwJGgde1D24f18c2n0vYqMa3TpuM99Z71oUTP5FbAAoVcHJjxMUDNYCHG_cYBiIOCgwCoFjko5rzj2LF2xs.%26ch%3DAQEAEAABABQy4dJpzklJ70GVIjdf8LEbMis3Z5I-NXY.%26v%3D3%26pg%3DGOFP2EYEXNBFPE2XPRKNFE6VAM
+.netflix.com	TRUE	/	TRUE	1810264796	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTebbRUy3GV_VIiJFDCP9oLz4WGfpUsGCk.%26dt%3D1778728794640
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	5901c0e9-92eb-4d2e-ba02-5b7d560d4308
+.netflix.com	TRUE	/	FALSE	1810268077	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+11%3A14%3A37+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1723d933-fa1d-4ffe-8cb0-01d6e0ebe3aa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771489346324&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786508076	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786508076	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

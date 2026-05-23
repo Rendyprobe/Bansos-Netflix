@@ -1,0 +1,21 @@
+
+– Email: spighel2225@gmail.com
+– Verified: false
+– Profile: Pisellino
+– Plan: Standard
+– Next billing: 7 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 4471) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829575	flwssn	e7c7d1e4-31d6-4643-87dd-31aabd8b5e66
+.netflix.com	TRUE	/	FALSE	1781829575	gsid	9b0d292e-25c3-408e-8840-72d29d2996ae
+.netflix.com	TRUE	/	FALSE	1781829575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKLA37QBWx-a5bE_nEPJP4ixEdyUueDQ_XduUhCIO0JTu5scPKUdzL70pwhzN9LgrJGn833vX_8DnmLVq_yLFIgWiIXHZJk8PjOhnhrP4YojETz_Zgdnb-kJMHubnJcnrJTEMizZK6q5ZpTLfOMcAuP9nLpVI9XtE12ZJk36K_9XnmxS1I5Bg91BgG2WxGSsDGBZhgTDjmxngJ83ismoOaERKu4yNLive0CgHV2qbhFDOQdxTf5pMUnRH9oNn6Y7LHtD2sgJduRUqZqSxh0ylNQI-NrgSfuFIAyWKoThlpB9pgeqrsPTDJkYxmGpE002FWkh5vHRF0DUkP-xwcXNGZO7BOWhsdpUVEfzKrtRNIO4iqwG15NIcuTEkMPrNx6IHHfUCyZ_5ptV3rfTY9CBFCK05UaFRN_SV1RP-4932iu7LLOxs1bOBuTzHNpwVXy_bh-Amz4AT2zQ40trS4SL1vx8dYmMmqwE_mJVyiOXi1eeE5SNGLM-xqvgDNyB0Oj3fa0y2XOuu989T-AlK4EGAYiDgoMIYY-oUUAXzn9GyNN%26pg%3DCDWKQQF67RGKPIMCCGJDT4SFCM%26ch%3DAQEAEAABABSGE2BvYg_wVjOFa-ynt6yB7rc428DrXp8.
+.netflix.com	TRUE	/	FALSE	1781829575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWvPBKffpoemgR9SmBkO4sgsKaMiYfpvE.%26dt%3D1769157816829
+.netflix.com	TRUE	/	FALSE	1781829575	dsca	true
+.netflix.com	TRUE	/	FALSE	1781829575	nfvdid	BQFmAAEBECfx0WBSrzUfPu78CNGHqKJgrwXhPval1q70PMOviPxYxMq2L13z8iyXVsImvl982vGJ-R1XJO4HjvDzCyRX6WnD35xw1Gf-rmoKWBxZWicEmFebSitJ1pxfbKq4LDtOmBKa4Vk8MsMZP8bFIYMA5r1o
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonAlertBoxClosed	2026-01-23T08:43:47.567Z
+.netflix.com	TRUE	/	FALSE	1781829575	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+09%3A43%3A48+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2f3aae7-0823-4249-8aed-f86500fbdff9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769157828329&AwaitingReconsent=false&intType=1
+.netflix.com	TRUE	/	FALSE	1781829575	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

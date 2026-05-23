@@ -1,0 +1,18 @@
+
+– Email: pattijeanneveling@gmail.com
+– Verified: false
+– Profile: Drake
+– Plan: Standard with ads
+– Next billing: June 3, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 6320) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807123924	nfvdid	BQFmAAEBECLfva2riNGjuBvBtGXsKwJgq30HT0_Nss6eohuRJOtvGc9XOMWQwoRGW9dLbSYc-lTahxJ-vLKgLzVbYASvaEWy8LHU4wgl6q0rlWtxAXsRTCWCBZoB_rf5O_sIo3SwXVqOn3hbAo8RJDQZjpMByXEH
+.netflix.com	TRUE	/	TRUE	1807123927	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuw4ASfd1SnMsIoTEfDG6BgsrzMOMS-xA.%26dt%3D1775588212321
+.netflix.com	TRUE	/	TRUE	1807123927	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AhIGfgqSli_cwLGIm8DJ-rOGLRWUyKs8UjwM6P9Hp35lKfspxk0CXvEZ7fYvCdOo8fwQ-BWB_4w1a-qrzsVwOW1jzfMySLfyGkBV6zlXrQJxryJYcsRIOsw8KGkJVG-TBSh96qVSNV70VWCgf36g0XODkJvQq7hiAbzDuSsEZoV0-PRG0s8hmHie4J5CWcr6mKa9gll3tnJHYmeDM4mGjpRPdr22AF-HjkhGwBhPPJMeqiwwVZHr1ksad4wccQsC-vvqvfvGuX58-csyZHQcNpcOzv9XSiufAAMF9-jEF_J6zvdjEPzClnmUydeaqZvZHdHzLv4pW8O0biGVrculb8a8dFy3SRJBO6yZO-OQgTGK5aWykx3bA41UkzltlMHKlvA3-rSI7h0AvWEt9byemcuoL6MsBQzJJGg4HDjRzIrT9o57MsxVieqqwkJ8fkTbLaK3lLmwnjz9fIOBqXogu6f2VwdDhfdPazVg85VsA0HDvCNSF9bbutyOkT6zGAYiDgoMQVCLE6nxAeYkinvc%26pg%3DDEVVYBJ6JZAS5DJWU7UWOWV5CE%26ch%3DAQEAEAABABSGmz-RgqDZwuI0JBNLayfSDtDiKgg2HmQ.
+.netflix.com	TRUE	/	FALSE	1783363928	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783363928	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807123928	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+13%3A52%3A08+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e00ddf2-af97-4486-b8e4-0f30d47bf0a0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775587920787&AwaitingReconsent=false
+
+Follow: https://t.me/hydrax001

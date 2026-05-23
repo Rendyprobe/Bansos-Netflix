@@ -1,0 +1,17 @@
+
+– Email: jasminekaur292010@gmail.com
+– Verified: false
+– Profile: haruky🌷
+– Plan: Standard with ads
+– Next billing: 1 giugno 2026
+– Extra members: false
+– Country: IT
+– Payments: 1 | CC (MASTERCARD 3044) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800900211	OptanonAlertBoxClosed	2026-01-25T18:03:31.937Z
+.netflix.com	TRUE	/	FALSE	1800900246	nfvdid	BQFmAAEBEBnUY0lhADtgL7cWa1CsOddgWfFSGK66qyGkVM99EhB4OP1P2leRmXsyHd4VlmFxrRew9GWzIMDcLOxlSHkUKIxYx6-fQ51-3ZpzfU8Z_nVXlRYWyzL0U3jFKbSVZ8v14kQ3DgRkLAzDiYbCE8jVp1m4
+.netflix.com	TRUE	/	TRUE	1806582031	NetflixId	ct%3DBgjHlOvcAxKEBJDTzNqH9ZPCVBfIo-Nm4byLAWn2-KWpKt_MOVfPMu9R3y1rx16CS4QlOWLAXMyd4EwX4byCyn98qxj5Drf9DT8rvndRvNCCf2aRhZQCeVFA9uh6ZDhfUSYuwmQkwQp0WuGc6MNzvr0WWHVkyjZWBCl21X4qlq0a4bm82TgUOWvt8rk3MqYeOerOCly1I6Wc3c5LdsirsYcEcXM5LYKKVZR3LvH1WGuN0DsXexb90S4dTffFUvXhZc0ge7NbVOY7_t2DjYzeX6Qzxljr0OXV6roiAHfqKcJGoMRMD5P-84s49MWpSpz-p0GNwUQgb_h4YwzgVWqTMCLzeU3DaTWlLDNRNW4LBEgF10agClXrI0ekr_EktI8OZnBFCDREXiBkbhiuXIV8yuAk5P0Dvp8QkhQPfJOxnGQcF0ZgsCkqJfPPwVUoLkDuQQbv2ZNAJYb--QO5FWuEN4_ySsVat0KDC1L8R-v_CusiJNXjFxW-thaWr8a8rQ5x6FqVEmyiGJoDgzs-tJJieiAbERmqQIcE8LGXxEHZAsZ76IQA1u8Sea89V2r2cpAR8_ptkVwBc1siZ3h_tOjoPYB0ipm7wiO539DM_dzruDTdcHezSlPNYOnvgHMsau6m0_KHky_f8x0mcKQmyLN2n-C_j0-ggbXj5GHPXmthywM38T0g1VGiU7kYOwdjDxgGIg4KDEWphvg4vbY6AOi_zQ..%26ch%3DAQEAEAABABR_a8QJzYvtEGbo0xnBxSsMKy5gZbguTI0.%26v%3D3%26pg%3DKXSQ33TQLFDGBO7IGO64VIW7XQ
+.netflix.com	TRUE	/	FALSE	1806582031	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+14%3A20%3A31+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a0552f8-a162-4002-8d61-dbb25edca488&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1769364212534&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806582031	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCNgJsxw3pcTWg2f9uySuFdTM48XNRzaE.%26dt%3D1775046030542
+
+Follow: https://t.me/hydrax001

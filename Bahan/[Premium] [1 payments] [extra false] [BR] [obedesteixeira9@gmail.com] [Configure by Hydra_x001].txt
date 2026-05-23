@@ -1,0 +1,19 @@
+
+– Email: obedesteixeira9@gmail.com
+– Verified: false
+– Profile: Dani🤷
+– Plan: Premium
+– Next billing: 25 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 3014) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1786384733	OptanonAlertBoxClosed	2025-08-10T17:58:53.986Z
+.netflix.com	TRUE	/	FALSE	1786384774	nfvdid	BQFmAAEBEBgr9TxOY2DFFFXFSRJP6Utgn6Bq-A2KCowim1lGIrXRuU-yQdZN7Ib454tN8IEDR4Z55wLGpafI5q0_6LbASZzQXdi3wqhZvQBNE_Fhfdr7G3g9xNzdmAx_0IskmCs179e-jZ9LyBfJG-mgQ5tUV60a
+.netflix.com	TRUE	/	TRUE	1809445196	NetflixId	ct%3DBgjHlOvcAxKGBNMGaqexqNBTqiRXvSVkh7Gc_JYyBQlWoGx03Dctv0peDvYhIZXO2mdK3Fjx45zHaCz3Qq87ZxdTUVuBus0GR2XmkI5JljraJC_rMBR0bRyFdDGch74gzpw8HifI9e_ZEiaBTNyX7rj_KTJSlrZncQa6fdQOtwwgW1LKXxnU3BcwnWlrBwpHMMYoolazz0QMtbSP4ZFWh3xAe-PPSzdqvUO1DTdt1sz_Q6MplRXWnMrf4d0JvKuzABaqrukfeRLR51bvHHq077vUdG6NB5IyJUPqb5_nBW99xjI6eSgeW8wj0UX7E1hp8cahgLUpEgkqrzPjkik0WxYSFeDfpOIT87WgSIdauhxgr19RyO56WOFisURfJW8gVDqPQL_MMe0KBsls5t88aGNi7oL6afhhE_qG2SuXAH301Ljr5Bk7O0hvO4JD2mNJa5BBKfC--yfAmvk99qCOZ2VIta0TFgJhs1ihc0-WHJxAX5m8sDaAlSeO0QNGlZ7NtAbWcIoztm-O_hD_FEN-Iows1tpupNlcCFkpbT1YUWbYyvRz3o2r6nq1JARWweRoFvhSnWgF7HpL98zObE2XHVAAVl9GTa8yNNCy70zCDMSts9HXYu7T4OZyjF4ji8KPi1VlKp0xBgbkpAeoVF_eoIkn1w5SkzF8tS90oWSNGm2kYRqtikP_ifXP7vWR-SssGAYiDgoMKg1OjGK00c_fSb6m%26ch%3DAQEAEAABABTHG7sYRnlf95cpdEK9JCmPa3KgH_v4NEg.%26v%3D3%26pg%3D2CJS74FE2ZC3JBNGLC63CJBLU4
+.netflix.com	TRUE	/	FALSE	1809445197	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+12%3A39%3A57+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c12c2199-4977-453a-b21c-a891517c7d97&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809445196	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEez6Q6uctAQJDzqd18ChU7RuEZncxlX4.%26dt%3D1777909195230
+.netflix.com	TRUE	/	FALSE	1785685197	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785685197	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

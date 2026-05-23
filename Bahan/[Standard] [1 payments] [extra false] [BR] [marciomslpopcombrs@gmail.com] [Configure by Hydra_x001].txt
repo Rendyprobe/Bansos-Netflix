@@ -1,0 +1,19 @@
+
+– Email: marciomslpopcombrs@gmail.com
+– Verified: false
+– Plan: Standard
+– Next billing: 8 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 4435) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1783631731	nfvdid	BQFmAAEBEPdygB6zKamRLkKRTGnd-SFggn7kJUbffjKeHXpD2_3he5gXWGbBwB5ig6are7mQRH_yM9xgsfySsK4hWMhoxmx1zOU4e53Be0u0E9ab78GLbvwnU5P_22LTTdYSks1nFaNIrCCMDZ5AilB_hymS6RgS
+.netflix.com	TRUE	/	FALSE	1783631708	OptanonAlertBoxClosed	2025-07-09T21:15:08.675Z
+.netflix.com	TRUE	/	FALSE	1797266869	dsca	customer
+.netflix.com	TRUE	/	TRUE	1810214607	NetflixId	ct%3DBgjHlOvcAxKNBL2MM0DFd03ZLF-8lYYSCPcUccxlscFLjSIj9kgUzQh8972wTwz5OhGwGM9LOT8Sh0C-j-YtbOQLBQHL1YfAwOxALsEBYSHcq2u7HgrcouceNidoKD234cjfceLN4v0QpvRBJ_i5zHgDfbpAP_vTVW9bwPO85UdIFl_aWiyq8zdKpa0AGxYtcUNOEkymX3A7jozYLm8vzLwu7HKXYBXQ06tJTttF64LNp9v26z5EjPCHICC3rRblnMhgRpDSSoCFwNp4RCyIg5bkqBLT-R0l5c8TkUkV2WUeTDx8zLpAXipYnZ5N5Jmgb04YuorI1T__9mMmeYLEIB74D5TS1aHidSpgja03VvjMDPfEsbcO3Kz9Dfkw9WDybnEeWXRVYf7Y5a2zj-6H4w4ab6u3KFad3KboMyDLILl754-EU5HcRs_8wR8LMlBM7q3P7EiyeHtLMBVKp8hIucfEz-Hz0eksVKQQAacLcF6BVt_BSABGoolPzZFuK6W1CMH5jMhPqbrwIgBX8mc2YcAdRWeeROI1Hzs5syexOFyxCxawmY9ZSN45IfnbBanBwynuvcxIyNYzBxZra5BlHhzI0C6Sa3GoCssekk0JC5DpIVBhKq7k6XpCU1FD38JDOBFaAD7AsAHUKMxEufqqDgJzTbSjeUtPFHdOQhNaLzWB4LWTZlsCzwGWiiavIgqWzGhvkul9kxgGIg4KDKIfYizCKz9sq4PBLA..%26ch%3DAQEAEAABABTSG-Zn--GuShGYXBtcFc_Kdg0H76MpDgU.%26v%3D3%26pg%3DTGOJK6UBSVD33DUXBOQQFCPJUY
+.netflix.com	TRUE	/	FALSE	1810214608	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+10%3A23%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70ffe4c7-ee12-48f5-98d5-50fcdebbdec5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810214607	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR3jjkdtxFQMvUv25FAKKz5imca1FFQ5RE.%26dt%3D1778678619683
+.netflix.com	TRUE	/	FALSE	1786454608	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786454608	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

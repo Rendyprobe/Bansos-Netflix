@@ -1,0 +1,20 @@
+
+– Email: ma.ellyelloa22@gmail.com
+– Verified: false
+– Profile: Visitante
+– Plan: Standard
+– Next billing: 1 tháng 6, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 7928) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787602553	OptanonAlertBoxClosed	2025-08-24T20:15:53.770Z
+.netflix.com	TRUE	/	TRUE	1808360275	dsca	true
+.netflix.com	TRUE	/	FALSE	1805336273	nfvdid	BQFmAAEBEGug-CekxBcH84XCKuUSueBg67GQr7Qg6OgMEQogMatZOwg7OA1apsFzn39Jb5IFGpuY1VChrYZniCkGV0bjtI_o5B3y0QAm4g7QtmXlauIlW1U8rd8GZbFHMDJSdyFZfcvTC178L0f8bB0W_fmfLiSa
+.netflix.com	TRUE	/	FALSE	1806933038	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+10%3A50%3A38+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db4fab7a-79e0-4905-8f6f-37f3ab3c5e3b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783173038	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783173038	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1806934735	NetflixId	ct%3DBgjHlOvcAxKHBKZkiVhKF59Y0KuvIq-EEv4mHTk5Q4Nk2DqzroWrN5QPulJ4_Q7cy-nzWUCBnQW1aZulRQiphg33C35QomwJ5dhH8MlRnkgoezB7KaZLYMl7U8VCidrDlEHdOtsjM_lCYeWXshZk0UshDjKFLlzVSg-fKwom0V8Q4dft6g1x2BoYcx-Uhx2T6SskBU84WQ2iilOCpx6kNpAjZ39Sa_uNbVCnnv99KE6zGlRlayEEnvLxy-d0D3CIImMAHlETTfu3r7Vt1u4v8EdGmLRJV4Ak45pxQmcDDJP3vC53nvNzb8WZSonDWyf_D853R7NSuu1i0BamulLoKQwU70vPSkkIijkPsH3gIKYlCf4TXEMiwCvjjVjCBZXB08FMc4Sicgrnc5FhjneSReZKlQcmxvUSa81GE9jpQua5oBswURZl_-5ffID6LRtMLZjnbLcaxdv8qQ1BO6e3ZRIqQLzwC0NFSFvgjlyJzX0GBcOpddlZ7Sk3zMDCu7EmlqSIji-gImsoDcOgkkecYpW7uJ9BL3vaJZF-a0WVYm8YILhzt22dV57wnHSp3-_34CQoKxk9CHWtJBCGQHQxqIyo10x4RlOG2lpBSp6yI4DdJng7YtAHsTku79_MKscAOyaIPavIOedtXpBnAmxOcCn_D-55WLE_SvLqadQpIC0mJ82TgLKJWnEkHJHyINmKKhgGIg4KDP0OOjH00K3bJYQu5A..%26ch%3DAQEAEAABABTWxAT9rb-6fAgNLc1YWQKFGPm5MkVmkTQ.%26v%3D3%26pg%3DTVZIEH62TZHSFO5LSPC342Y65Q
+.netflix.com	TRUE	/	TRUE	1806934735	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIqaJO1i5FxWKLCnNZ9M6flULUcsPPcRY.%26dt%3D1775398735398
+
+Follow: https://t.me/hydrax001

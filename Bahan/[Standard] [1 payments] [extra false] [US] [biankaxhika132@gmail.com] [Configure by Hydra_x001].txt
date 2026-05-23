@@ -1,0 +1,21 @@
+
+– Email: biankaxhika132@gmail.com
+– Verified: false
+– Profile: Eleni\x20Aleksi
+– Plan: Standard
+– Next billing: 9 de junio de 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 4138) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807009719	OptanonAlertBoxClosed	2026-04-06T11:08:39.917Z
+.netflix.com	TRUE	/	FALSE	1807009749	nfvdid	BQFmAAEBEGfa-0gwYpht0VW3BBS_tWtgrupEyKOMiEcV9kWBvYJ4ETcHzHzOI7FYMao9oxw3NG6R6nHF3zJpg6TpIdPpO5d4LmtphnFmKCJdha_3JaM_39Ne54UAkUEm11lqtzpswPDdmPGqAJTGfLloAqUotFvl
+.netflix.com	TRUE	/	TRUE	1808732718	NetflixId	ct%3DBgjHlOvcAxLuAzbggQeBBcRF1t7KXRhYz-JZINTc3lD-Ichvk8zvkunSAa1taBgX_o08fottgssNV-aglonV6ih_gzZtI5itE5rsi-9V9gz91WU8VlUQgWDZBJM8lc8c3VyXP68QcOUseuq_bwkOzq-0D4Y4GJwDvK42oeCPCHdz3V3kajkgJ-Yue9--Ax9VaXe3bEkD0gsmppYIE8PpUc09deO2aMdovThRqWbuyEMnOvz5zvXqkyxWcie9unfIe4lWAXaP02N-WOkdJewf_LjwosX8xFt55za_jtSIqSteWaRu3qKeomKUByscfibTjSsYLJ4pS8xjsqCijK1KP5CSxCMRef4Ov2zEUun2G-uBoxZDP9ktVvbtjNFrI8CDqMfDQoitZ3-FoYNdT3D5KMOfXLLX0CpBbBI1dKsj2gzZtwP5OkBRVam-UoLNp7Z6qHXx_SXD0zEe-mRSN8CAf8N02p6FhkgtAZAMUk4-exic3Y4GSKnHudiy7fAWrmZ4tN0i16CRR8MHDHLJkWY2t2thO13npTtvfzYP00w7bCMxMtTrKeqp6fMuzAFTWOx2r7EvT9O6the3Dd-RyETeVP1bb69q2tgSfvCKuEXFoX7MFx71wCSN0db277nQmm5H5fJnNOdz4VsJ908lmmicGV2uIhefYL8tGAYiDgoMExkwsDpAXS3EMW1o%26ch%3DAQEAEAABABS7d9oj0my1-TTMZLeEKJxwD0OXU9fdWgE.%26v%3D3%26pg%3DZXEZNP6WLNH4TKWX3E3LLXKYZU
+.netflix.com	TRUE	/	TRUE	1808732718	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTHjs7dIcCSRGgD6aIveoTPcJleTT5zO1Y.%26dt%3D1777196821793
+.netflix.com	TRUE	/	TRUE	1780396280	gsid	2e85c227-936c-4682-9b6b-f2ad803cbb36
+.netflix.com	TRUE	/	FALSE	1808739138	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+14%3A32%3A18+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ba79b6a-eeb5-467b-93f1-67441c2ec58c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GR%3BI&prevHadToken=0&crTime=1775473720934&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784979137	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784979137	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784979137	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+
+Follow: https://t.me/hydrax001

@@ -1,0 +1,23 @@
+
+– Email: emmanuelcharleangl@gmail.com
+– Verified: false
+– Profile: emmanuelcharleangl
+– Plan: Premium
+– Next billing: 21 June 2026
+– Extra members: false
+– Country: MQ
+– Payments: 1 | ORANGE_V2 ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	6fe4c99c-d07f-468d-863d-38ec240672ca
+.netflix.com	TRUE	/	FALSE	1807912491	OptanonAlertBoxClosed	2026-04-16T21:54:51.142Z
+.netflix.com	TRUE	/	FALSE	1807912500	nfvdid	BQFmAAEBEGIWl_MESlOlP8jxtwdXbABg0d2DGPq8k4JHz6qo2ZbJfy-oYZxPqSdyA3O_e6NYB6Qxiq7JBYtK1Yn_EfjvAzXwAe2Btl6siKxwbM4gvwnKd-qlR2KDIjR2MBlxirRg0BJJkpq-LeyqAfNkOslw-vep
+.netflix.com	TRUE	/	TRUE	1807962663	NetflixId	ct%3DBgjHlOvcAxLLA2zmFQC4m4fX-nv_F9jgAQztqyXoKSOuu_JBa5d_4cv8C2DCkXRcBTttpcWSH-16HWi8ztQTLMxeksD4iA3Oq0QK-TRSHwMNubhkLHOz1HxYT0t-jPZ2exHczliPMfoZw47Y2I6F4dcy-E1gzD_cpV8EOS4iRsyiIc5Xul5YS_qDynUQNn-ScrnmGBx7VOleChrUtYYgE-Q1qaAtzYIJHa9pfh2fg2JSuhv4mo0ncI3EKCYFxJfMEj4DzKq6MTF9Jhi1z_ZfV2LpdnXM2mAm5JgxKtt0E--6_J-cb8f-ErYq3902K8WdDblcv1rCchyblfJ3i9PrqWly3gi1DZGiTpsixA_cX1dCXr4UvwT10Z0YS99XERypanjO7XICceufbUQH1sAuPidkbDCVlhypmwx8ro512ajSgha7Burglgrpt8KtRoBX5Ct7UbsKSbJ0QAjXwdDVuBW8g-r-40Zwr7kTFNkiAI7n9uoA1ZaNc04lnykxrvPHLBoJJ2KAgOSU80awi6Zaix37DPD-LcQnDRIAo325jK0ZPT2uDFHBGZ-MS0V6Qgecix5pTcbTxCpDASHphnnIXpo1ArP9F-sKc3NUWXzPMKRDuXVJIxgGIg4KDD81WaAKBerSlFqpVA..%26ch%3DAQEAEAABABRBLYiDewTyW-t4XyCE5SHW_pEqcAb8UFY.%26v%3D3%26pg%3DRV3GMFDL6FHBZK6JMX75NUOOT4
+.netflix.com	TRUE	/	FALSE	1807962659	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+07%3A50%3A59+GMT-0400+(heure+normale+de+l%E2%80%99Atlantique)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76241898-64aa-4a54-9df0-9c59b08a8da4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776376491546&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807962663	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQ4tJG1mXkO8yr-RvdWm3lthP4B3AJsD8.%26dt%3D1776426663414
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	0fd380f7-7b2d-45f4-b902-4eebe0ff91ce
+.netflix.com	TRUE	/	FALSE	1784202660	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784202660	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782066567	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

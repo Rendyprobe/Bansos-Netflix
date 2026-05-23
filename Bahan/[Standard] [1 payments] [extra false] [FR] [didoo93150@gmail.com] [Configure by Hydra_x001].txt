@@ -1,0 +1,21 @@
+
+– Email: didoo93150@gmail.com
+– Verified: false
+– Profile: William
+– Plan: Standard
+– Next billing: 10 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (MASTERCARD 3551) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonAlertBoxClosed	2026-02-27T13:20:48.767Z
+.netflix.com	TRUE	/	FALSE	1781829576	dsca	true
+.netflix.com	TRUE	/	FALSE	1781829576	nfvdid	BQFmAAEBEHnUi51i-Af_7IEo3hcnL9VggBO3yeSp5TA-NvR0FqHknGx5bIe2nHIrnLplKh5aLtkUheQMuf3iA43g6PcUctU_lLo8gHtexKXmEHqrOmULocL8YKN90R5adDM7NMA1AkhR6gikd68_bckGo5Sn_XIc
+.netflix.com	TRUE	/	FALSE	1781829576	NetflixId	ct%3DBgjHlOvcAxKFBGxBNl4OqdCmfG23kGGR8giEZhIU0eBDk3IdLqZ0wPIAGBUZztfRh5ILGahZCKcJMUgW-aTwdCPcvImUgGO63k88W-qv486D21GswT8MSX7fYa2fp1UG6Lw6loLaAlIBgn8Lcf1wQDy_Obogc7QFsDBrkoObbJmsBnfDbtnqx15hxmw7cTMTvlXUn6JIa_VpAaJePJoY5c33Nt8RpCVplWhmzUHPeepjZXYOkS7y9032p95XZgO4EpF3GOpAgQnj13aBGC1eEg3xCHTbKsw-5wpSPwkSSTRMjdTzZIM6w6gz37TvyoeRmFUGtQFyogdFcNU10cbDbGLgG-LWvP3R7SN1_FA2PfDpUmk8LjW4mQ-LQfFvpTIpf83CFG2_MoQhRQG4GJEdlLoEzl9XJRKuZDTWhmyhbVikZPfo2miyGhzj2U21kL_RXk9EcPrX7cHv8XnxJMZQy9Rug1dLIDAQD7JhxbbMBsZO36sJKQV866XgW8KhnrVmxXjjWrGUzRIINTxyN8Os-CPaWScrDmZ7WaoptNNdYCu-5gQsNRvctT_5KJBxd4P_uJMA4rjg9CqU8P41QNEzJIeNYo0_BypSAdtOGT2Ux3h5VaOPsHtaoXxVNQZ91xn-X6inCNBc4RKYbEv7t6DiLrV6o6ZLPA9jMkS1xGlnk5I396_rCCQOavmcDDETnycYBiIOCgzrLfA4QyuQIXeMf24.%26ch%3DAQEAEAABABQvGz_ADt01MeYvbYgcVgFnRohEYUvCBdw.%26v%3D3%26pg%3DGKTKXNEXHFDZHHRE6DOAB3PXDY
+.netflix.com	TRUE	/	FALSE	1781829576	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRGyi1Ob0wXQN-ijL3RUYU_SasSX967YUY.%26dt%3D1775460701606
+.netflix.com	TRUE	/	FALSE	1781829576	gsid	ed56363b-a184-49ba-91c7-f7e8f79ce0d4
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+18%3A18%3A24+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=05f45577-d206-479c-a1cb-f7a6499e07ca&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772198449176&AwaitingReconsent=false&intType=1&geolocation=FR%3BPDL&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1781829576	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829576	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

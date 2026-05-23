@@ -1,0 +1,20 @@
+
+– Email: theo.darien@live.fr
+– Verified: false
+– Profile: Tom
+– Plan: Premium
+– Next billing: 30 mai 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 0206) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807115728	OptanonAlertBoxClosed	2026-04-07T16:35:28.007Z
+.netflix.com	TRUE	/	TRUE	1810139733	dsca	true
+.netflix.com	TRUE	/watch	TRUE	1810139723	dsca	true
+.netflix.com	TRUE	/	FALSE	1807115723	nfvdid	BQFmAAEBEBc0UYCZKU20ifZ6Ks0CT59gNuCoLWCw3FGM-qHs2QfXhugLvhTpNfu-PfDNmXObuPbp1ZL7Se3VfKAKL3YunQK-ROmMTd8oH4tL2N_NCT-QvpAqv0cZffPRciotv0cKmvGZkghz1Er6jcrR0sEqpeyO
+.netflix.com	TRUE	/	FALSE	1807443693	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+11+2026+13%3A41%3A33+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68ed2935-97a0-4332-8960-0e022c6eb870&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BARA&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809370299	NetflixId	ct%3DBgjHlOvcAxL5A2VNMZ0zEbMc4U5XMm0LIIwbQ-k9iBEtJZLxWgutGQrlBu3Wwf9c1P8yko1IkP-MKHjEZKxAQmSYrex8m5hGaaY4mzs3NmTbVuDr899FmQdUUJY52f-UEgQpFEhElpizFwC2EkL2Uk_8NKQH1VHWSNhJjsoorWGj5m3XSjTqtNcORVtWqByChb7s3d8rP3VaxKf6hfqmYRm42DhhghTWyXS8qedHmcPfUDnTxnPP7I3Trfj3gkbTUFcbzF5khAXjP-bVXJsujtLr_fKFUHGRlv4-O9LmtGPvVZCu9BJm3e7MlKVReQ3puPLAuPvuGH2opw9IHSFRUgh6-fgriiy1MG-FutaRgMFj3rPJPyxmO1zA3xFGMdE_hkOf67SrrPPFb0eCG4fS0y_ncOs1TRCjCibTya7Z1B3p__97RQTrElWHA4I7bBREJvhngyms3r6K-8z3IRYdJ2Uh5aD2eG5hwJkvihosFMM7hK6p1mkqg3Px5220B8y_JeTgpituldmKFiYE33om1Hl6iZpvv3ORNRPgy6ah6VQl8yauSnZktU5lgb73kWjPv1BRSMVAKzm5TBDjgeFewfisacULYBKx7g1UPdM1fUts8bPtpPehuGknUmLoJgpZdOQibpPpuU8N8p_RbBNlwuio3YdOTeyc15coFdjV1JfQOC0YBiIOCgwt7aWBP3wd65DQ2zE.%26ch%3DAQEAEAABABTJZM8yXg7vf79IWqhHgiG2Chs1KaHyLto.%26v%3D3%26pg%3DLBVV2TM4MVEATJNQ6E2U6QYAYE
+.netflix.com	TRUE	/	TRUE	1809370299	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABReSG9QTYl5CFCXguVs9SborZ_ssVIW4zs.%26dt%3D1777834299193
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	fa143f04-a64c-4115-8eab-2e65ff6ac6ff
+
+Follow: https://t.me/hydrax001

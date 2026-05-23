@@ -1,0 +1,21 @@
+
+– Email: siripanyakodchakon1989@gmail.com
+– Verified: false
+– Profile: คิง
+– Plan: Premium
+– Next billing: 13 มิถุนายน 2026
+– Extra members: false
+– Country: TH
+– Payments: 1 | MOBILE_WALLET (TRUE_MONEY +66*****1568) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1809550177	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA7usj78GvSzHch2aKMt96FFmmOk0kc-OVxGa0zu0mjsCoZhPFbfIauWPXRdUTkFZ1cLilRoARw75ENpCyvqJgdv8v9f2gd4HHEGoKCG5Oq1BEYmu8-ebrjE6LyHwFGvwVt5EECqKBSIpXYFFdCaLiohcVCCWspc8-7ClSEcLfNcYvdqOIZEQzIJBYhHKuIoSCkrMRFBy7lEE1RE7Xct4nkAM2K-p-h2rhLtlvgZBHz1Hd1cX6BDowvCP5rioW0xHdAAGfcRk7jaP4C7HST0AH82Z2VNN6nOglyfMsDEWJwdul8jSewLmYTHrziJS4yE49lru5WGZLPa88UBs-Tf8u7TW5nbdeiNxc6B0UxMNXtT_s6E6reAMhvZnnJt0BMfH3VfYLCRZNW4X1TfTn9LlakEU7bnEACZ8kSsDSC4gmtiriUk6FobqDrd6uQ7ZO_y6oDogll9ViBhbhTg14FqSBm2mHFerF-Fr0y02Th9G7S-cAg5UwgDTRuUmR-1PtL2wHS2_Xmhhn59aTc_j5VOZuRLrLTjb1xghn9ZPyI86GAYiDgoMp2Xorw4pCidpYH58%26pg%3DMBWJ7MF72JAOZNQCI6QF47VPJY%26ch%3DAQEAEAABABTrYEvxmDtPGd5s45gKIgO9QsGJz3lIdQk.
+.netflix.com	TRUE	/	TRUE	1809550177	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoB0FZcobY9fsZwoUOcDLw2cBt6s8dlns.%26dt%3D1778014177299
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	57f12a8f-2088-44ac-a0c1-8dd404099edf
+.netflix.com	TRUE	/	FALSE	1809550174	nfvdid	BQFmAAEBEIUxvRlViszoVtcT77X2P4pg0WA8jUkjj5x4vb9US1e4pxO1D3x4-LZPDLypjK4ZLFlvuk-aVYur3MLe_xl1kt5dj_hh0jBZvL2So4IUQoErlDsMnIrj-ewRcxIMqIDYznmE6XlmxCG1U2mZ2qX2fO_E
+.netflix.com	TRUE	/	FALSE	1809550191	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+03%3A49%3A51+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f6907e9a-2bf9-45be-bd7d-37aa93e1c508&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778014162080&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	0e10e455-5352-4e6f-af09-900782107429
+.netflix.com	TRUE	/	FALSE	1785790191	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785790191	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

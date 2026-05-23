@@ -1,0 +1,18 @@
+
+– Email: tomasraiane@gmail.com
+– Verified: false
+– Profile: C\x20Gabriel
+– Plan: Standard with ads
+– Next billing: 18 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (VISA 3137) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBEKFf5E6vY8w0CzCBAMXpl4Rgc8sLWUsAYVA3hAjOpD3m7TLRxR0h4RynC3ZduSRQK4Blbg6J_LfdqtRfAkCV8fEE3UP-ZEIoR0rRvbBDWb4gjhHjTDiWBOk4BlUWaznwNYxvEy-WGNF9CzBhlj5s9YTA
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2025-04-09T01:36:25.555Z
+.netflix.com	TRUE	/	TRUE	1792417631	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRel_XM8aMue8TbJtimxoS4d1v6IqnZhM.%26dt%3D1760881631751
+.netflix.com	TRUE	/	FALSE	1792417631	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+19+2025+10%3A47%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&isIABGlobal=false&hosts=&consentId=1df84e7a-a22f-4750-a638-abfc272f6fdf&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&isAnonUser=1&geolocation=BR%3BRJ&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	FALSE	1795441630	dsca	customer
+.netflix.com	TRUE	/	TRUE	1792417631	NetflixId	ct%3DBgjHlOvcAxKWAyaE_4_XQtsxEIHp4lyqaBkrleIypq1Q51zJVsUsTOFE8Pc7vF44U-omzr3lphsJnwXjcmEoEkgl4lSPoxuJHd0ICEa5sAAf-PcSokZmA7bGvkf8IsggfUiAIH5CoiUEBiBo1osM2uQnHa5klES5-BFbcCuS-brge97CoxOiuDFgK0hpkp2HSIy1USC5RJW7eOAm-FnU-7fIDUQWtqb-tt-yt-kxd5x_u6iVhvZtn0SlCZtlQS7gTFlrKXK_eu2FGIbXQG94yjixOZhYY9BvVi0aZISLXWmdNnyRKSmALItF3LkiMBkUkvshr5j0ahYxySuvGPlT56ZNl4h7WZ09_mVUZMaIpUsvE5zYESXSphxWXNwzLXRUR61yy9XhkDSEpNe6LUapWoI1zpdxY06-GEfpIVcgZW2Sa1q7-fzf_WEH3kkAMigplA-cLB6gJulsxz-ufMx8DLm9DRDQ7eX8UJTYlveK3hMESt8eawaiSnFZpb5wTzljlMiUzGE86zvEVxzEVGJ9YXQASs3C7Gdh4xA-lezqMuwYBiIOCgzsvYiY7NW6E7eo5uY.%26ch%3DAQEAEAABABTrhZk7rKnqqRTrSwmygDMZJvcIy9BAJXA.%26v%3D3%26pg%3DII3J4SM7LRH3PHHFIVXIITMPTA
+
+Follow: https://t.me/hydrax001

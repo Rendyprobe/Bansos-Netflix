@@ -1,0 +1,20 @@
+
+– Email: laydensewap6@gmail.com
+– Verified: false
+– Profile: DeeKay
+– Plan: Standard
+– Next billing: June 18, 2026
+– Extra members: false
+– Country: CA
+– Payments: 1 | CC (VISA 6751) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1807953324	OptanonAlertBoxClosed	2026-04-17T09:15:24.801Z
+.netflix.com	TRUE	/	FALSE	1807953314	nfvdid	BQFmAAEBEB3URE5FJLGAfQVZ-2Mn7b5gaaqm9FPDVFICNe10VLm909JWeV4MwnvUg-mKg6C0syjccdtMKXbLmxzPRZQbx8u4CcBGrwzyMtZwUGBvI1-sxHcWLW_N6HCsspYE1EoTjRH_bN3_5i6EcRvYblxCrIkC
+.netflix.com	TRUE	/	TRUE	1809378575	NetflixId	ct%3DBgjHlOvcAxKABJ2qvNuwcpXUd6yupANfRU0ApNdQ5-vTWm56xKNI0OyO1UFP58aFkZ1d_jyzuzdzWRS3sU4Kc7dJ4gq-eAT5TlE3asLGk6WQdnMW-cpt9d655yf2t0jaUKZpYwsDjpKl5v3LAJ0WKs7ssXggKDSPk7L_QVTWk9NptBDAjuryiq-O3WMvQDmuUyLCw1krQVwNOtCJkqz4LGKWLOLxy7VoQWZ-d7FKJiBmUPCmvKgYZEvx-lqAUntdP4cRf40unpiOKkcfC0T0-DD6E0bNPYsqtMoaHpw8kE7iTNGAWdWQQLJ67ldC2cNw-xOmqviEychCVbBnWgCiPkgsTwQM9I64jgDjfQ05qM9gMwprIB95xaOiuhHcOrbMKzFdRIPGfMJp_zhQrZWzG3Rgjxxywy0jz69wnwvuxdLdfZOMb1c0ZQTB0tWO6J63oTA4W4eNgeZYM-Y8v6noe3ILd-ALJsS4a7QquTWkzawbWT8O5CmAAa1nhndqPNh16apKvSCdPsLy3y5tupgxoOWzAge-mxDd03wIFloChE1pzSFq0nxYlfvICjSx3iFGJJ8KM-lkN3RGebVZvn09Hyn8dXtdD_33tq74daLKJbK2e3QKauINKbpoaahUuuwsg4Y_awNNTBGPA46UA5y1Jpg-wD_AH4jasM9VQJ6MXFu-RV63VtfwphLmGAYiDgoM22al9umCVibM64iY%26ch%3DAQEAEAABABSwaG0Ey5KcPto94NmfpWZM5buUyN461QQ.%26v%3D3%26pg%3DYGAHACDRMBAAFOW7GCHFURAFYQ
+.netflix.com	TRUE	/	TRUE	1809378575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPTa6XTmEJFtYKXgeVph0WMh8lJzvRPVM.%26dt%3D1777842572724
+.netflix.com	TRUE	/	FALSE	1809378602	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+15%3A10%3A02+GMT-0600+(Central+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=18de49ac-51c4-4e8b-8ca2-bf7839ed7e96&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776417325078&AwaitingReconsent=false&intType=3&geolocation=CA%3BSK&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785618602	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785618602	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785618602	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+
+Follow: https://t.me/hydrax001

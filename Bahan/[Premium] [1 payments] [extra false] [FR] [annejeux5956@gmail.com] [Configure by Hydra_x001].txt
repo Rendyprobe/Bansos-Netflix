@@ -1,0 +1,17 @@
+
+– Email: annejeux5956@gmail.com
+– Verified: false
+– Profile: Bastien
+– Plan: Premium
+– Next billing: 4 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | DCB (SFR 0134) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1792296251	OptanonAlertBoxClosed	2025-10-18T04:04:11.517Z
+.netflix.com	TRUE	/	FALSE	1792296353	nfvdid	BQFmAAEBEDy9DOAae03H6rmJ4AxjRI1giCyc9axE4stDOGeaYQ87wfLZusJiXPF9Aqi5eFbn3QIiGMHpINeq0jxQTXznYaQjtyAmqXaJgjDCmLxQhfkmHLXNtMCRfjGDcb5EeJoY1uQWKKIaggtSakkesgkx_C_j
+.netflix.com	TRUE	/	TRUE	1792296360	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AszpTRBH5Wxjms0XRPWRshvqG0XwFbcX8TB8tFRsWnN2BAjsOSuE7D3kCb8IDWKDnvwODAgcK4vbkSamoGlemRR4jZJY-B9gOUp8xQxVsqimeE3CCuEwZlgtoh6zZT2SuMaGpL6tOU1vNeFRCLBp1Ngn-oOn37Fo0tZBLdHKGVptbr0kbRKesoyKD3btCXq_QWzbCgYJg-Uab54rwwdIhS3TzkGWH3v32SiDB6gI_AcVwcT9a_lPWuukFuqjBRpyeDTERlNSKS-AFu_C5x-e2N60GNGBmrhFPJUMl4x_lyw0UIBmtJ4LLuvtg7T_Rz7c-XWzG6-6rL2DkhEXQHmZHzbO0ojFjb-dFk6DtaelyjX6pnx_tc093hVFT74iXKhVPNKFyYGZ_hpzKBVTiqAsn0B65o0TxFtpgcMdXiJOYriKhKN4iCQaBA3eqiz12ANN875U4ChvSGU8PVHimS9-Akddxzox8wowtss--6kfNYNKWxFBOOSMbBQ935Dz2CIYBiIOCgyNUEdCZjm9lTDtnHI.%26pg%3DGITYYXC3PBAC3GHLJRL35N4RKA%26ch%3DAQEAEAABABRgRDx5kpT359I5HJOCA-Sv9YQW_sB3AXA.
+.netflix.com	TRUE	/	TRUE	1792296360	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSuriGVpCzPqP_La_ZfBeAPD_X5sYlkAQ.%26dt%3D1760760359864
+.netflix.com	TRUE	/	FALSE	1792296390	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+18+2025+06%3A06%3A30+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b20f826-0042-4c96-9e73-c13ebe79b1b3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BPDL
+
+Follow: https://t.me/hydrax001

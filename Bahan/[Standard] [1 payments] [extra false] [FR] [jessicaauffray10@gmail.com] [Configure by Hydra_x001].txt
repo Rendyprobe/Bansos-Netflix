@@ -1,0 +1,20 @@
+
+– Email: jessicaauffray10@gmail.com
+– Verified: false
+– Profile: lilian
+– Plan: Standard
+– Next billing: 10 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 7586) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804030359	OptanonAlertBoxClosed	2026-03-02T23:32:39.139Z
+.netflix.com	TRUE	/	FALSE	1807129762	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA8qxK1g5FppyPqfgJC_77opRoukSKs-005P0ur53-pF5XDuV4gIqZ7uDV0yb_NBHmzyc1bIfVsXzCDLOWMwOHPOCKIc6wpMzEZZWnZsK-wgaCMf4WeMNGmSy5LhOALXB9OPsuHJNiHkGmJTbA0FoY_aqNcK1Bu2V06iv8LWyNn1R_vozTWxO6JghXvNNs622fOXFwg8RhDa34eGmHo2GBZLctnwH8wt84t64jhL5wZiTaaYl-BVxFLGkPy7V1RPc9_x5n9p7Nng8ex0LTh0FzjUZcp_wdNTNk7jRX9aFmnqYWAfPX3mxqXrNwcKQPm9ln56POoFeZA7YZmrD-ZoHNa3FrILfXcrjhJt1SgaWeBeS7o-IbF9QEPPED7vpaxAmzcHehJeAm7d6GgkdmdSXpSm8K17wbOUVN9TEEcaVG-Jb0SyxoKoKoXyUvQEW1BSI_KXLWrUmoCKfAAEPiQtjBA2M7NRPMeUuTGS0Xv-pfHDIl-iO_b9fnlf5D4RFuyHkbb1OuKcI4sfdE0Ih39x0b3xlMItVP-Dj39jst7UYBiIOCgwBL0PA-bX6f2-8Yks.%26pg%3DBAWLXHP3XVBL7G7KH4G54XKYXE%26ch%3DAQEAEAABABRd0fGCsX1z0Kr1wdcWoYDFJOeBRqdt9es.
+.netflix.com	TRUE	/	FALSE	1807129762	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvmTwFwSg4o4Oq5UXsjM-d77MZ9arX9zE.%26dt%3D1775593763436
+.netflix.com	TRUE	/	FALSE	1810153758	dsca	true
+.netflix.com	TRUE	/	FALSE	1807129758	nfvdid	BQFmAAEBEB5IAQLhASUPax43YjrpO4tglC5JTj8plWpuGkCgEaskUf3LLJPTZT3FYI-XKogGHTXdmj1upAsmmJqewpDwlc_8hoY1jdH4ZLqlmqDXqSZkIHhAnheWQ86zoA7lD2IR30HV0V9zz3oio5A4bCt2Ku8l
+.netflix.com	TRUE	/	FALSE	1807129765	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+22%3A29%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17340657-f830-41a4-82a3-9e6f0ff9ccc4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1772494359531&geolocation=FR%3BIDF&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783369765	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783369765	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

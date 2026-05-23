@@ -1,0 +1,18 @@
+
+– Email: mikerpalmer@gmail.com
+– Verified: false
+– Profile: Daddy
+– Plan: Standard
+– Next billing: May 29, 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | CC (VISA 1999) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEMIULfCPKwRYeDwPn-HGGZhgYjF7TA6gVV4jak6-ujrLnPQ0CzScjzAwmoh5RLbRgAu2pQ3QcoHvXMbZ8meGWC2MPOryPxVLC2_QkFp5lZ6eBblcgJD0tyXbIWE4xnlFHmDqei0tiwmWDmCpXYYE_wpH
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1802126447	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+14%3A40%3A47+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=48e5f431-109a-4d99-8379-52ee0d9004bf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1802171866	NetflixId	ct%3DBgjHlOvcAxKMAzMKMDjn2ViaRddDhvo_BllUjtYRwfSBU7vVe8dn52xOCHjSa-0lOI8UnzmiDm4Ea13117N5u7Wb2SObDyvJJtoZjIOoh7GNk4BpPUI1z5bAIUY8hEEiLTjiwcZtrIlODnC6PjzoR-IBtNnGyWOM3xakOG7tl_pGJjv3vEUr6-ARgqniF1FmW4DoAaKm0v0VLnJAVWJWEWwbNFqNZd-htJ5Co7GSPNJPcLn2zoawBO3p3ielkiCfnhgPBe_ra0rcr0OsoX_dsQCE2YaCzny8q8vBpAdJ__dcsdUEHiIodaSFY-kZgaFIWcGcSyI_30zMDktWrChsuqlXcVITzKYbDJj4F58CTCiEfBzH1cf0Vf6eIwCNpoe3m5zNL51j8u3KkdgfJRJopiHEAiw2rxX39-l6irSq_QLEhmy2gO2VCIdJ5DFJ5zukYY1HIxIt3DPVOkpNu3plQLKUw_bkWKxTilt5mD7v_T3vWrI_jWd9aPjKE3lSAspaZSlMoYH8_89NAG0oW3mZddDgWyyfrRgGIg4KDAa_nzTmu3VsO_vY2A..%26ch%3DAQEAEAABABSERlrcAq2KWbA7EQtX-FuywEGg_-FV_ng.%26v%3D3%26pg%3DEU5PRVHOGJA3HNMCL7YKQOSSLI
+.netflix.com	TRUE	/	TRUE	1802171866	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGZsIXbsawavDKGqhuXuDqv8IX_PHKaCI.%26dt%3D1770635866807
+
+Follow: https://t.me/hydrax001

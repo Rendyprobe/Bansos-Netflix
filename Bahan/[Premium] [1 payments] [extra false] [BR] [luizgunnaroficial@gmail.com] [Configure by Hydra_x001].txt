@@ -1,0 +1,22 @@
+
+– Email: luizgunnaroficial@gmail.com
+– Verified: false
+– Profile: Elly
+– Plan: Premium
+– Next billing: 24 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (VISA 7073) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1804108215	OptanonAlertBoxClosed	2026-03-03T21:10:15.457Z
+.netflix.com	TRUE	/	FALSE	1805734657	nfvdid	BQFmAAEBECzEUY-0crudKb_qJ1GXZzpgofdTseGHmMUVahVwbZJjhBivu2kNfK0oL0sUigDRqC-SZQTn3L_6AZhjYOPm6Rxzm3-SpwnZK0TcXZkfIIuszUgfHEJ8Ns7E4LL26hGWm44yXnC49JTjPQYsvoe-oRba
+.netflix.com	TRUE	/	TRUE	1810330756	NetflixId	ct%3DBgjHlOvcAxKCBGxfQjBh04lvLXg3EN0KmVcAYf4k6Wm5DeRgn6MndoE03fIQImEHk8MBMWkkeoN0GxkQkECMfljMg5idibmndAkgnrpUF5fFFQLEM9cbDOI7kvzZw87Aiio9XAa2vQtf3XQtC0E6mv9dgWv1yeC8VxYf-REfZ3L9W4pkJgLOd6OAEChbQdMG87QYUR2DDiFUZFp-luCHuEcKuD3WhYFjPHUGvsBZR_L8p4Ehv6g5tEm-QQm9Mww5oHrH1Pyp0OS85NUj8IIy2mpom4mUFOWYOBVywin_mEJFi1rtDddh-mxfnMxMiBVGm8_cUXKSdouAV29a9PZUbmvxClFpCyZ0wFAMWUBh7IaDK9q5ewDu2KgI4KZ2gJuTICRXeu46UzAiBoy-tYwhj_Io70TMFPyTdD8Bt0MMfxLVLQWQggaAKabyDUcWbQtiC3ysxEpHjm4THheaaIg8NAW_K6ih2sMhowjWsnWLEvvyzUPnfI-8JGkrxhXTfQsrXrEXO7bZ2xfxJxGojuSl9IHTMpJiVWhviYpCXRB8x_u_OncYBAkLWagM6VTqExeTH7gGVBHyOqzPGJ3ehi2mS4cHyRsVnT1sBXmuBo-qRT04-HzqjnbhJEHrf3c6FEBP26Xsnkvv3vYC7xZpEcBKKMezYs0x07iHs54U1o-WwlzmYfSfeP9ZednvprAYBiIOCgzL88NwNJm5VcVqSFE.%26ch%3DAQEAEAABABSiNKF_y1ivALflJp-veZkwD9MWnCp-JJc.%26v%3D3%26pg%3DE7JCDZMQP5EZVM7TDJ7LTPXLPI
+.netflix.com	TRUE	/	FALSE	1810330756	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+18%3A39%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14b8a1ef-98f6-4258-8406-4c6d70305c58&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1772572216168&geolocation=BR%3BMG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810330756	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQq__f2skf1MUB7RAg3ExLnVL6xevRsA3Y.%26dt%3D1778794685539
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	30ec7e14-bb65-4866-9b9e-53ec31c49b9a
+.netflix.com	TRUE	/	FALSE	1786570756	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786570756	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786570756	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

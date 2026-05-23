@@ -1,0 +1,20 @@
+
+– Email: jouypascale@gmail.com
+– Verified: false
+– Profile: Enfants\x20
+– Plan: Premium
+– Next billing: 1 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | PAYPAL ( mp***@gmail.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803914316	OptanonAlertBoxClosed	2026-03-01T15:18:36.177Z
+.netflix.com	TRUE	/	FALSE	1803914376	nfvdid	BQFmAAEBEJmjI-e9XfDj_xYQA8DSwfhgMXrAyZ_66HmZbGGec5JQjDXV1pPGpKdqTYLdgXz5kenK_izfw4dUKAJ9y1DQcwHJZyapdGPkKEZfSU2j1Nqb4VAkKbbd_I7Gyr_rRG6StD86vHj-WO46X_WJJuZTPsP3
+.netflix.com	TRUE	/	TRUE	1807045659	dsca	true
+.netflix.com	TRUE	/	TRUE	1809545533	NetflixId	ct%3DBgjHlOvcAxKIBAFXC3Ochfb77TDRleq49bOsNZ4Dp__7nTppguc9nQPb9fBMEAGkELxDL1bDUAUSHFS4qp61J63N67r8l4Nb1q8jhEMGrDAWopcn-2WW1v3qEUzgr6QWoOs-gi6_64NUUYo1IxlJuaZI-7CnHXKZQFkHGOTz_mWvOSr1Olio21KwuBhBwBk5-Uu0h2E_1BkCIJsALT9rV_sMV6exIcMaTb5p-o7_teNVueGgqsTWhwWIYpvR78m2P-C3s4LkfxjNUbsq0oGx2W8HEsiR6CH-BtNsLY8SEAWa4KJXKDBLfQlhpQkGFE-op7lsl_-SpGa8IHHJrUbCmBoY8LCRCQujatn8PmvGE-G1BN1yCM-AZLPPMjG1lw6jOgM0VzhNYZRhTJ8um1EIB0YhC1PPv9TJXJo8grqvpzSDZH8inCZMRFbCsE9Un1JXfQ181KpWoNceF2Ws7iLajbBZmX7B8wQf_NDC4U0NhzVajWw8sbSdRSrPnRXdchm_y_g7eXRweXsZdG3bhpP13Ow3h6z7x2C0czVs9AdUY25hJJXe2Jxe1pdvw02BXO8carQQorgcw1d5H7PDRGPkV6Qz6aUxiZiz0BO29ZlFXELV4ZRPNW2clEmJFaRoKCLCLUlvYQW3ykY2XuiM7bvrFfiy-CTZpmxYJt5gBtqY-7UxU-DBZJt65JLhhFmFyjIP6NgYBiIOCgyvnKT3BmtQagEKLmY.%26ch%3DAQEAEAABABQmbaCwjI3hQUpvMbRroCeXd0y0IVK5_NU.%26v%3D3%26pg%3DMX44NWPI5VCILPSNH7CQK37GRY
+.netflix.com	TRUE	/	FALSE	1809545534	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+21%3A32%3A14+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2dad65f0-b84c-494b-b36c-b37c6d0b62cf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1772378316562&geolocation=FR%3BPDL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809545533	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvSPExd4EWfHL9UacLiwGlOlAnuzj9Ofg.%26dt%3D1778009532896
+.netflix.com	TRUE	/	FALSE	1785785535	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785785535	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

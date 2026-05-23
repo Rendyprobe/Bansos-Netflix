@@ -1,0 +1,23 @@
+
+– Email: batuhan_3737_1905@outlook.com
+– Verified: false
+– Profile: Batuhan
+– Plan: Standard
+– Next billing: 16 Mayıs 2026
+– Extra members: false
+– Country: TR
+– Payments: 1 | CC (MASTERCARD 8020) - Hydra_x001
+
+.netflix.com	TRUE	/title	TRUE	1796747597	dsca	true
+.netflix.com	TRUE	/browse/genre	TRUE	1799787397	dsca	true
+.netflix.com	TRUE	/	FALSE	1803073551	OptanonAlertBoxClosed	2026-02-19T21:45:51.574Z
+.netflix.com	TRUE	/	FALSE	1806360364	nfvdid	BQFmAAEBEHTqoUpnfpbuDYvgPvW463dgweJxIVZF3kevm6w3_TwQvtCZ_UdM99gH8S8l8TKKKWDpPjGUfWUQKvjR55Nka9TS535m1TB6_t6F7cyZHsjbprZWcpQPnIbw3giRw13oky0Nqy6Uy_oyBP9sQYzRyBUM
+.netflix.com	TRUE	/	TRUE	1809810444	dsca	true
+.netflix.com	TRUE	/	FALSE	1807127129	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+22%3A45%3A29+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14af373d-c8a5-49e4-9631-ffde470947fa&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1774824158759&geolocation=TR%3B37
+.netflix.com	TRUE	/	FALSE	1783367128	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783367128	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783367128	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1807199729	NetflixId	ct%3DBgjHlOvcAxKABLMoT5SlyC6uuHFUjBphI71B1WjqVPAdjyPHEdRJZz8-BsV37gKc5isEpfR4-Rj-0FGF98BZw8PyiFDK-Kxs2TvQ_0ZncrkDStoWy_l6vRhzXgp8ujCY21tzrFiA0v1FlfIRJKd4OwJrVrjLM6a4WG_USZS9zYM33BsyxpgcbFujITqTb3ljoFmkJR1zaheOhkL9aHBFIo155VsiTU8LCCKhLm50W1wMnWuCF06cVMhKDUfAPkkCi5BC4Uab_2KNbOrtj30xS5Kh-D7CdNlmZepo05cZdWHmQe4u1kU73xaJS_t1UmFqpSJtNmUev0b_TKHLlGDf_Y9rbjaYzODIqi7tieS-t5g4jzngkc9adr_NtU2CSIU7Sn0-MxXwEFXb1VbRi7vnZnwghlrkON1ou54csnRk9RfGEHS25ikC8XNwxIiyCXDYrzromCbCMBhxRtpkxGH-ilaFY9QtvQ6gwhoeVPO5FnmeIAZiFtvmvr-bKuVDFupL9HBkR2iQG9fTP8Fpo76L4BgG_-0Ao6qRuy-ZrLiIaxg0eLCTyJuoM58xoQqKQn9Jxyt6UKRqhc2LQPEj18M88B7FaTxAhCinc2l7oHwePkZjDj_WJG4Yv-rrKu2YIYWwdkLp3pYPCv_swEyKkt4FSWpW3PLm7jsv5GPVkEbPYe4z8ca0tuZ2RwJZGAYiDgoMqgpVk7SpixJ9Prqg%26ch%3DAQEAEAABABTZPzRCLRXG3m83ANCt1bGxUIy9kBhlkA4.%26v%3D3%26pg%3DK7VBIE6R7RFMFNNW57HUEQ367I
+.netflix.com	TRUE	/	FALSE	1782066568	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

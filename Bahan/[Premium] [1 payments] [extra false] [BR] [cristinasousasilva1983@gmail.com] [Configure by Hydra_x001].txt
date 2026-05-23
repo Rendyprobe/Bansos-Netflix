@@ -1,0 +1,22 @@
+
+– Email: cristinasousasilva1983@gmail.com
+– Verified: false
+– Profile: Lucas\x20Henrique
+– Plan: Premium
+– Next billing: May 13, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 8405) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1806801370	OptanonAlertBoxClosed	2026-04-04T01:16:10.935Z
+.netflix.com	TRUE	/	TRUE	1782066567	gsid	759a513b-d901-4550-8034-45d543e342cc
+.netflix.com	TRUE	/	TRUE	1806801396	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA75xeFoXIc53G9ERZ7kmiF9boMj1ETeyKlUQm3rxjvrjwBrQgXwFFFCWR__5XkzMjg92VxHE4a8t_ce5US-_1kxPhke2Ak4XyB0if_eI7L4CKZS9U59JrF8B3FlH74hXhAL5yWbuJU0K8KFvzNOGqi_dFUQGIJl093gb7eb690O90mUhl8HgQoP78XrRF4A2UIYmd0AP5UFB1qOsm3FmVx9kvu1XZq6_WJjPmFQ6xhMtQ4OuXG_7Nwl2sHWFwJzOGDvir0XZUlUudOGIj6SqQgr-h21AgTprvG8nzP9G3heSn-q2ytNMysLvOzkSwiHHsvavY3ZH5d7VMr5DyY7U1wsxMSrBLvBHuBgk0P5KSqqFF8DIe0Q-Vjecms57TQs8WlhzFZwktIul3qsLVj0G3H5HJgOrmdnLzeKoBUeuYuX0VoFmvGJzk80iqE3Is82NwZ1DB4UGFKL4tbA2D_Y_DaaxDCbKdI4qP_iyYXrFHK0qKqHXKgTPoXI9vnpG7px5Sq18vvuFGAYiDgoMx8z49RW8trt_5O3u%26pg%3DSXANI6KODBH7JE2X7KWSUVI2R4%26ch%3DAQEAEAABABSj4lHua1JLyhW1MhJQgA3P7-Vjjt_r2Yc.
+.netflix.com	TRUE	/	FALSE	1806801397	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+22%3A16%3A37+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1534584-2a23-41ae-a5be-c0a4c585c4cb&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775265371428&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1806801396	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSwZKDY7s0GD6wzMbwJVmJkQ7NuaaeYA0I.%26dt%3D1775265385371
+.netflix.com	TRUE	/	FALSE	1782066567	flwssn	fd8e6925-0142-4cee-ba28-7759ae02f422
+.netflix.com	TRUE	/	FALSE	1783041398	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783041398	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1806801392	nfvdid	BQFmAAEBEOXMPacu0YFO-XDHzEBkCYxg7epaZEzkDGyy8flUw7HKP4wzpZu1ml8BOb-fAZ81zSxJxlEDYNsL4CfKDnX7OzR11Zum8ZWCe95uNs2KNxCnlPAuVXbIzSaisJFqaD1euGlXiQW8fJnOoOU1X3XAorsW
+.netflix.com	TRUE	/	FALSE	1782066567	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

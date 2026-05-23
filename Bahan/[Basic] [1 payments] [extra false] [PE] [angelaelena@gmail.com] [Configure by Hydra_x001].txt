@@ -1,0 +1,15 @@
+
+– Email: angelaelena@gmail.com
+– Verified: false
+– Profile: Angela\x20Elena
+– Plan: Basic
+– Next billing: 2 de junio de 2026
+– Extra members: false
+– Country: PE
+– Payments: 1 | CC (VISA 2904) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1800812027	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA5O2mABa9soL2t5V5QEwQybQpiA02aaMq7kTEVm-EQuPxJm3nQtW5VApUmtLDtHApq_tQ3jgMM8GdO5MNftQQV0g48jpJGvVwMpDzbzZz6XEq4nGFaXbXPKC4_L4xlhvloPb1hbPZUGYpP8vl2hrjtQL19M6kDPOwKBjE6_wmi_qiAoqbvOelT7ODtYQHiOgYshn-73NoThKX7OBwfbU-M8celL4Aa3dOXsZSIDHpKadecKa8IMiJQpGdVmfRmCGGHIhpaiaH79g8otTA2cOCprjuxaZsvGzVm0LnlwZcjuxYdG5UQF1uI_q6czH2lcUc1HNRFGALAfKwTVF2E0mJ78G6NN8XhM__VZI_cvQiwqxFjhy9DDAY9w3Nei9eaev7KPjzaPPwkNbrcFaAFyW37_LJd5z-a0YagDiiPCarzRgHmAQP2NgBloWz2VSElG6ChS5plBq_RTdEvo-9zY2aJ6teL72pjF9c-6b5XGc4Czm-fUoA5d5Hal8pic8vHBTz-GugJDYY2x8hBgGIg4KDHLFFzr54xd4b8P3Qg..%26pg%3DV6DRMSUHPVFIROCMCSGH4W3RJU%26ch%3DAQEAEAABABT8a3v8JiefS6nHDWatKmfC6e0aZ1V1U2U.
+.netflix.com	TRUE	/	FALSE	1800812029	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+12%3A33%3A49+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be07e696-422b-4c2e-bf36-b552ec083e94&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769223698878&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1800812027	nfvdid	BQFmAAEBEA7YB7kqnw4LIfD_TK93xtJgWy-ilb0335m9pPndTAM6VlCAvyr-KDJjfP0NuwShnEKI1cDbsgzOYnSCLjTKZu0yAxJXkBgZhiqnK771K6-xfiempvbsvCPPLxTabqtpiYQAFihoq2WUDeFeFHz4DUOZ
+
+Follow: https://t.me/hydrax001

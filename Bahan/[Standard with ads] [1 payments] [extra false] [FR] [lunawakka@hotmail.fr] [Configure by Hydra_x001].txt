@@ -1,0 +1,22 @@
+
+– Email: lunawakka@hotmail.fr
+– Verified: false
+– Profile: Kelig
+– Plan: Standard with ads
+– Next billing: 
+– Extra members: false
+– Country: FR
+– Payments: 1 | GIFT ( ) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1802005580	OptanonAlertBoxClosed	2026-02-07T13:06:20.167Z
+.netflix.com	TRUE	/	FALSE	1802005577	nfvdid	BQFmAAEBEMRGmAttxs7BkN4Pkrr0omZgie7sS-Nb9QHjt2dpIyBnYjuUESPB2q52hya8H_bEYnz8Rkt0R2o_TKm99mPsXf-P7J8FGUzUPYJwOcYjzmmvoF9iS-tUs9WLkFBBs-_F8-dOALblqyBG8Tom30EcbIDH
+.netflix.com	TRUE	/	TRUE	1809257384	NetflixId	ct%3DBgjHlOvcAxKBBI2JF_SFq-gvdbgTOP6D_jGOUNAjmx56DnE7g_gsrnQxDIZyBfCuP0SLQdRCC5SOnHw5r9fiaaA-94fhICh7oOXZNShOw5_BZ_H5uW9mqCrrdiWrfK1rxmMvf6ry8wt9JIwP71iIMGtouWUd1rV8smIL6vVP_uo-a0BU63aLyZVhGsaZ6TdHMfrJQHf10GDJVYfClxm-df36AvcolAk29OSBlcYPRAVRd2zcEJNcxlKBo9z-eVSGDGpZu6AvdLzlfsDEp2GyLsulRk3EA-j5CFaeBYfTFbvU5I8JiqHDPMHhwhOUE1UWyDAonwiDS1kvzjoN3tyK3HZ5DNRr800D2AK4UP_dThCdb5Xea9gi5qF7gP8_pGOUeBpIdvxck7ejLfaCaPoeGTEhx1TpmAK0BIJ7VHj87LcWlUhH5QB542S3elxjPIFhj1_6eYAu_7K275QfU_pCSaI9bfhVamBB67NFNFG7cmtKEK-LuxBcfWRF8q5dOp5Ua1Y4okWCazPZOKcrLxDu0gVW3z1n4fEh0PtTSve7Eyuwi_9mdKa7gPG9D5yV_-WYoJRBR26_9vSoGop9Q490NBmjxNYydMuXc9aZP0xb4rTsfZLPTmsD_vz74cLUAzSqBvLky0Pb-LKztk7uHz5GoQZfUeyn8MoVrBDUtJiFfKcTbnPEWrjAGlazPhgGIg4KDGSrqklORc5SmMEUlg..%26ch%3DAQEAEAABABRu03DDRtthqG7LC0-FkbfPfyN6HpX9ww4.%26v%3D3%26pg%3DIHHZY24FMFHFTIVHLDN4URKDRY
+.netflix.com	TRUE	/	FALSE	1809257385	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+13%3A29%3A45+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42af9684-7f26-4804-a116-8206c771ae65&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BBRE&AwaitingReconsent=false&crTime=1770469580502&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809257384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTz9DIyZUP5O_Isl6xHvzydVEi2T0GnDrs.%26dt%3D1777721384388
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	c5ebaa21-4919-4fe3-abe2-5460f90bf196
+.netflix.com	TRUE	/	FALSE	1785497384	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785497384	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785497384	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

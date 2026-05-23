@@ -1,0 +1,18 @@
+
+– Email: kumarnithish147@gmail.com
+– Verified: false
+– Profile: kumarnithish147
+– Plan: Basic
+– Next billing: 14 June 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( 9***@ibl) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1799935551	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AtJXjHdkXLpNhJTjvzFedlKsShNcJMw__IrQjPKVc6sk47kxZAIYnsrneLsD3dNV-A6Z3qs-YBZgdeDidLqOvd665ht5C2DFpAIjNb62D4BzREJ7BsNxrTIvbxxR3m4dCuOW3PCGHwyJttW25stT4s2Id0lt246gznRHNgs3qHLXPDEkeNKmFjoLmISgbgEkeS9rwRVjlMgJZTarbXoh7UyNuEi0WW9dknnLjTAQ5bus9bdyND8KHv3hfz8pV5sa8IYnHuUX1HX2jLNls04ZDzDj_6Y5r3sZrKyBGSODo_PrqF2Ml7r2QAQy0oF1bXmEyXEomBveh6wbZC5NqGaqvCAA4GvCNVrP6I_4_zZh8Hpe6PAKxmGzw0UzpsXsuoAFaHKDVasI_3Mdiy7NctBXUbTXRps_hjHj2Zi_fVxRR7V36XOPowRgK2ZQC1EsCkcsvNccX39TIB3iVNoRlqnpxygdRVq9n6uU9RzX-IUK5W_L29542P8tdTMclyZ_RhgGIg4KDBf8uEdP-pU61wIouw..%26pg%3D6EJD5G6YJBD2ZPUFV7DPO5T5QE%26ch%3DAQEAEAABABR7CDaepi6t4Fr_zplcjoQpzh7FB5j2y1c.
+.netflix.com	TRUE	/	FALSE	1799935551	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+19%3A35%3A51+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e7e10d0-3fe9-416a-8686-d4edf83e5276&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768399550581&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799935551	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTW6FnIJhBhw24lyMwqFcVImWd8pvmpMe4.%26dt%3D1768399550454
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799935551	nfvdid	BQFmAAEBED7NoAbGB-VKwKHcJAJt_Wpgp6tq1gRKqccK0efsKMhTKpjCPQ0TtvkIjMQ2IM2fja9ovE-QfKS_6dCVEV4OfR8Dy-_oZpDqMJVmx-CAraTTKjS8AbW_L0bG1NsCmTw-DZc3mT1me2SWGuVg9MErtONr
+
+Follow: https://t.me/hydrax001

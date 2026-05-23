@@ -1,0 +1,20 @@
+
+– Email: pedrinho1984@hotmail.com
+– Verified: false
+– Profile: 01
+– Plan: Premium
+– Next billing: 29 de mayo de 2026
+– Extra members: false
+– Country: PT
+– Payments: 1 | CC (MASTERCARD 1506) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803767405	OptanonAlertBoxClosed	2026-02-27T22:30:05.626Z
+.netflix.com	TRUE	/	TRUE	1806791407	dsca	true
+.netflix.com	TRUE	/	FALSE	1780007403	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780007403	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1803767406	nfvdid	BQFmAAEBEE3DmUSMRgiiAC6LuZMJzbhg7T96u1KR15axfbeYzqu_fpm_tDWKBA8bFgAnE3cmIuaOq6RNQzOW-Ge1FeGKxozj5C3ps7KwkH22ed86smYV-buA5RWl7fIUgg8T6KeDdK_T3C4mkfhea9H0RjFjUqGy
+.netflix.com	TRUE	/	FALSE	1803767407	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+22%3A30%3A07+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2039efcf-8129-4c36-9079-c87c8928acaf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1772231406012&geolocation=PT%3B13
+.netflix.com	TRUE	/	TRUE	1807546509	NetflixId	ct%3DBgjHlOvcAxL0A-DZlocDcyo08ezzIC5NBEBpwCLwRVCt4C41vlOG9rTXkMuZKcIpcAA6pVb12CXU7H8H3IkOYV8nRaLJeg0cXuxw_pHi2Ih69H6us5EszZPXc_lJfRDB1BmXxrJDpXfoeOabNOoesr_TcDoMki_ffxzvh4cHKaG6qLBzhrvRzkGT32aIpFWT_oxplZWRCrO6wrpO_j74NRabA0xsdvlFGFVh0jp2sN50_caCZwiqZ3UsIiEDpSzJlvjYwQyA-r5LbMgtMVRaib9f9ivAJISL0Fi7Z3Fvwng8HqbmPLovyJiHAXu0R2SxO9cbR3pNTddNre5RWQdZ4AnN07q09CA4xK_CbOtpKCZZDc7X0U1674lzEk0myQNH024QdI4Uoc_YAiguQgCt3SGJyTUS1jgX6dTYu6ACh9xvflzT84wQUy0Mab8NVQXGB3wdXFOeborUp6MfZ8RD1LwGKkr9DrtFkEk4nlFXFzc6HjDWl5ndOivC3dKkpMkrRlEg-WgMYZQPt6rZfvUIylcr1fMc1-3RR8fJGclzemaI-zcrabD3vkhREShPJZU-NN0Nf8_WX1_DAbn5oO6hQoSIe5zjH83RA7xW4RtVpYFcZltLc44f4tjfQp-ugRtP2E4OCftHZtLXp_d9eBpNEc1wbTLJI7jblaeAm-WXGAYiDgoMQDKaUMYA9jIVG0rE%26ch%3DAQEAEAABABQYEFcXwAiS3Fvw9buz62Y6JDrBPZ5o8NM.%26v%3D3%26pg%3DABORAACIW5FDLDJXD2NTEJX3FI
+.netflix.com	TRUE	/	TRUE	1807546509	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4-xzvpXkXPNWts76LIu2qdmFl2v18nRE.%26dt%3D1776010509824
+
+Follow: https://t.me/hydrax001

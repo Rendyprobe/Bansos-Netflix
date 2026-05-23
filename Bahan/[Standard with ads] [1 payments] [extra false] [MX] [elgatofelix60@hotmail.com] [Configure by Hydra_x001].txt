@@ -1,0 +1,19 @@
+
+– Email: elgatofelix60@hotmail.com
+– Verified: false
+– Profile: Zacek
+– Plan: Standard with ads
+– Next billing: 2 de junio de 2026
+– Extra members: false
+– Country: MX
+– Payments: 1 | DC (MASTERCARD 3294) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1785810805	dsca	customer
+.netflix.com	TRUE	/	FALSE	1785810818	_ga	GA1.1.1939585044.1751250819
+.netflix.com	TRUE	/	FALSE	1785836314	_ga_KMXMWTTLQR	GS2.1.s1751276314$o8$g0$t1751276314$j60$l0$h1760930173
+.netflix.com	TRUE	/	FALSE	1785836314	_ga_KRT6H8RMFF	GS2.1.s1751276314$o2$g0$t1751276314$j60$l0$h0
+.netflix.com	TRUE	/	FALSE	1782863548	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+30+2025+17%3A52%3A28+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2406eb1e-c6b7-4b86-8e60-b4be3255d105&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BDUR
+.netflix.com	TRUE	/	FALSE	1788924196	nfvdid	BQFmAAEBEH-IaZoepMh2KrYbys8At_RgnJdgP6Fn-hsm7BxEBM6yExb4rQXiAHwoBOLP4YTyRpN6ssyL6XuHuK2q4x056i_Q5vQclSTjhrS58AYHIbQiXC4GOIi1ekePD6isUYTWIqfpmLm5Lnqs3RfD8nd0MvZN
+.netflix.com	TRUE	/	TRUE	1806523365	NetflixId	ct%3DBgjHlOvcAxL5AzXvFnnHT4UdlNWtLsDafwcl88hXykwQvnYOd117L9uE_wJI3m-pJTU6KWHRWhuxsiQvxvAEz4tWOhRFG-OyTwpfQMbUg7IS3Rfxszk9l-wFsB1RlAn4jLEpProeo87YzwmCfpRtVlVqXBVF-hG1AGWRth4KQQAzl5ARtb2QQzv9q6I216t9jDb5ejUDFCpiw5ZvCWE6hre1Jco9mg4zMRD865z8Ax7Hdy9C77M6HW01MlzHFEuHm3YsHXtQtoJ1DkwZjAV97D81w_a6I_njY6vOGShhcUxTKIZikyLKT6NBAe25bJ9llqERanOj3xUhbWxmyqNEKA8kQ5guccFTCoVKniW9G9i07a9LbcL8Y38-dzg-IaoiZUv6wpNnabgvMAzp1R9NHPRrKARoI5qjfWx94TOtWWU2JJJlVYwzKiz8J8K_k-FJEER-Fo-glCjn2biKU_kNSICqu37ZGOFZBlrk8-Pr3qWExNHb3ZMv9bhytqXMdeSVtT2bLuOq2Y7dEAaVNsVuXW4lPg6laUHXj8q8x3E6RQ0KSmuAajJycalthZu-LnrpEcCGKXguqb7igkiOMqcEQtXaNa_belwyztcKsTbtxeIRSgD1pK1CnjSMsV1RBUQHcsXOIE9ojTYok0E5C9D-b6U-YtboIYaANiOMilVYAq5PBIYYBiIOCgyXL9OEZXjXRggKSTA.%26ch%3DAQEAEAABABSrU_SXRtnp77LotbFITHQ5xgA4lS_JUzc.%26v%3D3%26pg%3DQ54S7OATP5GLVIZQAGJR5T7CME
+
+Follow: https://t.me/hydrax001

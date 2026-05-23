@@ -1,0 +1,25 @@
+
+– Email: jules.prignac@gmail.com
+– Verified: false
+– Profile: Lapiece
+– Plan: Standard
+– Next billing: 4 juin 2026
+– Extra members: false
+– Country: FR
+– Payments: 1 | CC (VISA 1550) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1798427654	OptanonAlertBoxClosed	2025-12-28T03:14:14.592Z
+.netflix.com	TRUE	/	TRUE	1801451718	dsca	true
+.netflix.com	TRUE	/	FALSE	1798427718	nfvdid	BQFmAAEBENRy_7Hb0Gha3PMGQEbnF7BgojyCATR61WxfwyRWnau_wrE1QEdWlNV-kVffCUCdLnasWvMhbDlwwhpEIU2_pcP1wX9s7eijQfzOR2K_-vvmzpuplcsV7WKtQQ5Uztskp8VwXWj9RlxfijCOae-hko0Q
+.netflix.com	TRUE	/re/title	TRUE	1807160796	dsca	true
+.netflix.com	TRUE	/title	TRUE	1807160797	dsca	true
+.netflix.com	TRUE	/	TRUE	1809223458	NetflixId	ct%3DBgjHlOvcAxKDBGUlCmKv8PFfV5KjpDy1i1Y2x6RJgoWN_vayWrqE5fPZoV29fCuGniqjPt0lceX0M4w9eOeE6k9pDWtoQdWRPn_FXoDMXmN-oN569EDImASH51CCqdHtl7MD--M8-4ufFcvNYm2WnR1304W9UXwgGfUikRTBBax0ti-ybET-7iWyJIcFzysYZhpvz3c4AFmrHDzL-meGsEH4rkeIOnSs8mN0nyC5ILwFTn4oQCT0fQsERyieCDvZy4Np74CRZoQpcte9lx5PdLvYP-Qm9nxIOVUyfq9z8hK2W5SJQoDV9bv97SN4NfHSiP0noTnER84UFZoZNyoVvHJ_-Rqh_YUyVvlE8qWzJ5voSQA-MVk8WrtfdJdXnFnp2tTU6ovc_glvn-jUw0uFu_nuNLRfrqWgGt4M119Z6S1EZWei_wNqb2PAfdPP36dGdlGWZ83PqjCbDXAhZMb0RPdHaaMVifl74T8CTDZikWgoYQj7dGm7C6_V8Y2RCqyKtTfHqvZB0Ne0YC-IDYvCZ_c7e5zbQWfS9uKcbOWUTWTP1ToofZVYLUEqj5ceUZQeBi2xUjykpdPgkzaVp7pFbIZPoAO7zygR-f85UX_5hA6Q48Jz2zmDffeyG0DaYUPg1c2pQ4dvG9zWDbMkA39zVt4ejp8oQP-DukQ942EFdgIGZjeXwh77keMKi_6-GAYiDgoMthVR_REoT7_S4Rxi%26ch%3DAQEAEAABABSkf8i774XI6SFN5kNZjBgWFXiZDmPGsJ4.%26v%3D3%26pg%3D5QNYVBGQ65EBVO3S3OOXXMQQBY
+.netflix.com	TRUE	/	FALSE	1809223460	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+04%3A04%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6385bf8-d230-4927-96c4-e3c5eed5388b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809223458	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTE7NTS-FzuwnDwIQxKJfW-2yAp14a8FsE.%26dt%3D1777687457872
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	9e9dbd99-60cf-4fc0-81ac-37c99189cc06
+.netflix.com	TRUE	/	FALSE	1785463459	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785463459	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785463459	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

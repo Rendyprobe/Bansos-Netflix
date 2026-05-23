@@ -1,0 +1,18 @@
+
+– Email: eniocesa@hotmail.com
+– Verified: false
+– Profile: Heitor
+– Plan: Standard with ads
+– Next billing: 8 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 9557) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800531758	OptanonAlertBoxClosed	2026-01-21T11:42:38.918Z
+.netflix.com	TRUE	/	FALSE	1800531771	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+08%3A42%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e39b35c-e50f-4d17-8b8c-c5abb0645e9d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768995759581&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1809717096	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1809717096	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1800531770	nfvdid	BQFmAAEBEKjP-rc3xbENOjCbT0Ld4HVgb7OhsJX87l0GEwUmIHfsftEws85lqUIRFNRv16T1exxffFb0VHBJ-KZV129srf_a6eipJKI9ZN-YVxnd1WIcXOdvjCItWpB81adADA3P6T93u12RwSwXxnTQrg5Y_SYL
+.netflix.com	TRUE	/	TRUE	1804953782	NetflixId	ct%3DBgjHlOvcAxKBBLH0rvNOcHQm3qInSJfP5xzZLLZw06FHVsZbS9Eutprl4MTz9rAO0PMwQ2yxMs-WPKEVyApRoLUSjBXy8DAcPN2Y_qKULxlvG-roJBXIOSvzrRyWpqDs4PljtVaQWdbsARHxKSsTwyJIYYJJxeZbUfe_MEuEnGQaW0H3kt_PiclMEZxPcvcZueLBzCCuXm1GKNzjfSw7y0UjhR4WvT9uxAydwcHvB3T2HCK2RrFQoxWB6MNwPinUdoBoXdcMbgmmLFjkA8A-YvU03ju-S0A6_hmFStsQWFp7yTimNpLG9C12uymbkvZgemzdpt0tlTJaOIhP_ZXVusoqoHFyRezv4GSVq3u1RgXpJFTJAXbU5-CtmXovckvlVt4m3pcJEa0WrTUeOROVV6SuyrOENVWZUS9NpbDjyZayQJrBq3s7EGUqdtp8KsGdePU7Xh9huFXGLPaSTJ6TE-hWbyOhK-l0WZAGNOCtae-rWkq9uPgXCERo0b8pE6gdOZn60XtRiYJEvdnFGEo6jQq767Qkp6LnANU7fM-Ttjdr_Hd5-yBUkHrRGw1cyvzAE5jf8KNpr2CSWJP4bm1ItP9ooFDf6H8PjcnUfQ5KIwm544QpP3OFgKfggJ_YFU88VWe3H331d1dDfrEgh9Sj1TPHf70yErWRe-TO-uW6WImr7rAaGdQ-tZ4YHxgGIg4KDI7xC3nV5Zi2rZJLEA..%26ch%3DAQEAEAABABSYB6ymga5jV3iDsr5hssiKcpvXjmLhAcc.%26v%3D3%26pg%3DDCQDKADLM5E73J3PUJQDHAIBGQ
+
+Follow: https://t.me/hydrax001

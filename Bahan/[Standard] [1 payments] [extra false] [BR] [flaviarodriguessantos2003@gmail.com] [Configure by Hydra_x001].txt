@@ -1,0 +1,22 @@
+
+– Email: flaviarodriguessantos2003@gmail.com
+– Verified: false
+– Profile: Gustavo
+– Plan: Standard
+– Next billing: 9 de junho de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 2589) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonAlertBoxClosed	2026-01-29T23:21:15.698Z
+.netflix.com	TRUE	/	FALSE	1781829576	nfvdid	BQFmAAEBEJU5bk7e9-otuKXH5T64bjtgqCREWSfUiHILSNSyiXE-XAsOSPV9023yRjcVpUZEC8rANR24a0Mb-qhVJC1bDgJnJh26rxsyuxB7nv5RTN4pURsOYAoi89HHn49zXxPOA6U7amJb6d3Q1ExAmWDAr2SR
+.netflix.com	TRUE	/	FALSE	1781829576	NetflixId	ct%3DBgjHlOvcAxLkA2JO9GAyIKZbkgaVIDJU65qdHPckHAqrRwoZ99rLT1qCNWQyfLCccs3lzh_O7bHznt_0i0Go38zKWzT2Bfm4jvm7gV-4PRAt6wytWbPf_2_iUA4fWaGehA0Su4WLJBbRmMsabX9S1-WKU-jid3lH0mVBp3fmq9ioO1hVf0rGVmnwcEWuGbXafAvK6a84kiL_FTH-9VojW2Iity2VAS_p698YpS4NFktdMpCu0f5nrPiWA3C86PGFb4PNU13Y0IG2Up_Mfx1HXkBoRb7_YmXN_P6aIefxQmpuIv1kdwuWUGrTwAnFjN_8L4IK0fq7BAeJhpUOrjiVcw-bOon1stuDc-T9TbPpvYBW4ECJAkYDl_xNmzsklqsJSD86XLXnERjzqPae-5Lme4-zxfPHMjRnd1FnqtrsdO_ma8-hJj-ZGjgjqsQKLzAaiJUk9qZPidUsjnniycax9B3tKpNqZpZXQFWhRIkj8mQEahsbwDYGbV_zOGLLGWsbXlJGi70yyKHKVwA1aqFiwwyJap_CBMRi_l6DB5xSjzBJ3qFOMUNZxf9mymflD3gPCuAqWEx0MXzY6Syzf0LpMnYvhIpPtYQoo6fOJMtQYyCgfo98Esxat_O7EHVv3heqYGC3R2cl586ZHvI9u6oYBiIOCgyEZjFvbvXvvybs_co.%26ch%3DAQEAEAABABTtvZwq5GPFbDIaHpd27DKHWHmyUjsmNGg.%26v%3D3%26pg%3DFYVBA2GPLRBATA7HXFWRXIT62E
+.netflix.com	TRUE	/	FALSE	1781829576	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-L7c_R6W0DbytAhopXHNMIKrcBmAlD64.%26dt%3D1771370432097
+.netflix.com	TRUE	/	FALSE	1781829576	flwssn	b4b4b3fa-65aa-43b4-9e68-8ee2353aa9a4
+.netflix.com	TRUE	/	FALSE	1781829576	gsid	a9a280e5-ede4-4704-873b-6a2ba54e81aa
+.netflix.com	TRUE	/	FALSE	1781829576	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829576	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781829576	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+17+2026+21%3A08%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=418d3e2b-dd92-4c82-ac9d-57db29d5e538&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769728876140&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1781829576	profilesNewSession	0
+
+Follow: https://t.me/hydrax001

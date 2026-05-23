@@ -1,0 +1,19 @@
+
+– Email: samantha_dalexis@yahoo.com
+– Verified: false
+– Profile: Did
+– Plan: Premium
+– Next billing: 11 juin 2026
+– Extra members: false
+– Country: US
+– Payments: 1 | PAYPAL ( sa***@yahoo.com) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1787016655	nfvdid	BQFmAAEBEC07X68xAZVuwhW3MJal0ApgXy_VMuRcBHyop-pPtyJBxJ2PT0GtpNQfpTs4V1bAz5hZHkyj42WYQSOjgCqjKRrH2b33HuB3th-Skhg6eYwiKhxC-knayqjfzNbOMAjVV__EMP_Sll2knShV137NcAb6
+.netflix.com	TRUE	/	TRUE	1810410590	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXAys2_WgV3zMxJkd8OOhOC7QiCQjCGKwlmUkR9rA6fD7ftajdulwb0huxNibLP-XDNxLYipFkAOXxiwDya-mXX8T3vA_KN_BJ847PMFqe9cI3lltofDLAbYOXhCkbDBuXMPDUbV6og0k-6vzLO5x9ZwHki8bj61z3XamiN-we4zb2PbaQQTvDYKbZZwr6mQaRUG7kF2K77LEqERW37GElU8gsbcyoc7gcHfdCFB4O4Yv1rMEmAE7sx0LBru3kJi4gah-kL9IYS5oYJ0IbblbR_H0zoyPIW7PryNu-EYC4MKOupYmsbdieCxC7v7a-iq3qgGROeI6EGnzLM3hpHJ25aJdaS9_GgQr4YUiUNvaad7_WrZmWLJrDICkzbprNYEY-DHZ0ykdFCjyf4WKOh00W7W1L6wFKy25bSrf2eH88h8pn5XyN5eOsq019OIy-WR1plDPuf1BVyTic4lTvklyzS4TiG5lGN6vBQwBCV0JwDuQIabRqJpV49SCMGXhnwAfdhEcy-BmuasFux8RWCvqogktZfPmEeZ4tGAYiDgoMIv3opCqQPqf6bnao%26pg%3DON7QVMPBJRHBPHKYHGRFP5J4XE%26ch%3DAQEAEAABABRQ1PKHlBB_7vx81yfqe0jNrjcd_MWfHho.
+.netflix.com	TRUE	/	TRUE	1781698300	gsid	9ba32033-5dc4-4478-ad43-866530c60025
+.netflix.com	TRUE	/	FALSE	1810429036	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+20%3A57%3A16+GMT-0400+(heure+d%E2%80%99%C3%A9t%C3%A9+de+l%E2%80%99Est+nord-am%C3%A9ricain)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e063f8be-7ec1-48fa-b121-920aa1e0471e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786669035	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786669035	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1786669035	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

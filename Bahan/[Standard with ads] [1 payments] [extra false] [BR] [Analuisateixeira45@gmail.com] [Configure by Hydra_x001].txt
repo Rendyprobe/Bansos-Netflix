@@ -1,0 +1,19 @@
+
+– Email: Analuisateixeira45@gmail.com
+– Verified: false
+– Profile: sink\x20sem\x20cor
+– Plan: Standard with ads
+– Next billing: 30 de maio de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | DC (MASTERCARD 0402) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1800118622	OptanonAlertBoxClosed	2026-01-16T16:57:02.225Z
+.netflix.com	TRUE	/	FALSE	1800118879	nfvdid	BQFmAAEBEODXzZevJFjy8PJ4Cy3gt0pgzHjiT3aglDlNnA0wbzVGfjmLu3yxWk9TTdt4zCWMndA6ZUDIIgKmn0f4YyAbbvYNJgS_hg16FxpDycppteE_2L-JVSE993mCQBN7zGh1lBYU5X10FlsXU3395ac40tRa
+.netflix.com	TRUE	/	FALSE	1809664528	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+01%3A35%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72af55a8-b8b9-4402-bc90-616964dd1a7d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1768582623031&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809664527	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA__LP2j64FAdjE29_1_TnkeOmhzIqjV1_CsPH6M0hWszJfm9ebTwvFwh6Wq-XhLUjsr4lHO3SYUyF5y5XgWYESN_vySdf0F1VC-e39DC9gVQZ38m3soEh68yehXVs3vGzHk_pYU58eJATI8tRLnQjBvDKqEXUML0MSh3M-9ocd3SZ8-dzQXnGx8RZQMHfla2B5qiF_JRCQI0vN-djiT13tPbOVGOr-Inw2E6BKj23QTxYH3oolXPekTjafqynLdA5eJqUO2uXPRNKKKW12Po4fj_UyEqqHS4iAe--6M7gEBi9tAbBeQQeCWa3wLs4piiZp6voyqSRUG9QIrrjoSbN82zr6IlHzG10coR0yTEkbDGOHG_DIXM-88a582TA1FikygTUZ-OIwW1DE8IafA8wagdT4FS1kEL7CPvRFmp1BNbrmL01d4xy6xM_ACP4boJQyXWjviEN2cZwR9sk31BSMpGiFXREy3Z0gYBwr1VNL2edxOdSZH1K1yKHXaZrm4WPyPmmislLQnRMcYHgruh9rjofcMAuu0a-Z3vDhgGIg4KDBTUBtXsbWo9tNFPOQ..%26pg%3DDTOFHBIOANG2RCLWYPVGAQV45I%26ch%3DAQEAEAABABTFYtMN0mfKSsFQUpOwN4vieYfhlYA6f0k.
+.netflix.com	TRUE	/	FALSE	1785904528	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785904528	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1781698300	gsid	9ed88a8d-8c04-421f-8cc6-27c65c9dcdfc
+
+Follow: https://t.me/hydrax001

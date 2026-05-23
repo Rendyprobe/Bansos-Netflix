@@ -1,0 +1,18 @@
+
+– Email: atulrajput.ksj@gmail.com
+– Verified: false
+– Profile: PROFESSOR
+– Plan: Basic
+– Next billing: 26 May 2026
+– Extra members: false
+– Country: IN
+– Payments: 1 | UPI ( a***@ybl) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803552576	nfvdid	BQFmAAEBEANFejK_Ae5TJpFO62gTjPVgmKiJ6xk-EkyATmlk-oI2usxjLqqtW5-fjQ1aenoG6dgDMdXQ3wZSf6PquIPfEgarbRTRHx6hehVfSF7b9GXqKYrDJ6nqa3ujkl1e2QaEgyHgllGcNUhZdaTUMNk-H2u_
+.netflix.com	TRUE	/	TRUE	1808468439	NetflixId	ct%3DBgjHlOvcAxKHBBs8mIzIvrJ53XNjZLNN1E7j6ArTMzjbY984DXBr5SRtUdtZXhC8R5XHkA4U9FlaKaBN8EPBVzOmOvrSwLDdzz-4J7XYwDfV4JWUBkvRnXVqiUA-OfdkvKlnJqcIR7XtfDGLwRz8URNZHERyEzs7h42lXKB1Sw47gbIt4TqtvHmQIBai7fv8LVg-n-PP6TpkaldFVBS8p9scBCG4fkSnbeoknzAvAVAohJqSwnfVzzmoqGNLd-rAoNKiGSBQY5-xa6oXDDUPo2EfJnNWcR4oyyPdSt4yY_WzDOxH6EV0epFgpJX2tn-egxHaCq8OytHi_yp-rrHoyoRWn_mjvazT_BDfsZAOF_nBemwFWu2rnznDamtml6LXcMJhQT6YmceyoFY1R3_TT6SZqnnG70-i0z3iuv9gIYhPvOaLRq3Q2XXumz8kosgfWKnxJqY4mflavoQLd24_y_PELWq1Cg0lbt2J0z_YnpTJa4Kj_HkHqW0WaFiwQYzkdxMdk3g1DUzIPdcB9cOPSaZldDS4BqxYARrdMW5IWFwdjiz2K_rC-UP-dL3NKtZCtQaYnbkOJlpuSYTIO6wVaSEDwBxsWKOhPkcBH68jfvSoXYQMq2QfMV8VFtKQHxitmeWLNdh8ZycLvA7rusvUj9P50_OU-J8e9rEoarXupW5_MB5SDuPM-Qk9WMk8rfjWmxgGIg4KDKMKH_ivqtH5KvpWbw..%26ch%3DAQEAEAABABTvUyY_AzNiwkgSTVZ-F7sifCaRnFsIzJc.%26v%3D3%26pg%3DYTG7DGYAVRAUDOVYRSTMWYUA6Y
+.netflix.com	TRUE	/	TRUE	1808468439	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTURxmeaYSgRikFO0LURc7mmoAKf5pTbuA.%26dt%3D1776932440989
+.netflix.com	TRUE	/	FALSE	1808474077	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+15%3A24%3A37+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=955d9834-98d1-4155-816d-4197fcc21b55&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772016428185&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784714077	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784714077	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

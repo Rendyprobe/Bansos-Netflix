@@ -1,0 +1,17 @@
+
+– Email: adrianpalhanosouto@gmail.com
+– Verified: false
+– Profile: Não\x20\x20mexe
+– Plan: Standard with ads
+– Next billing: June 8, 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 1035) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1782066567	OptanonAlertBoxClosed	2025-03-14T21:42:18.196Z
+.netflix.com	TRUE	/	FALSE	1782066567	nfvdid	BQFmAAEBECNu1YyNGB7pT4W8l4Rr4r5gJRF4iR1KPCzig2z8XK3nv3gPrHQUQYx1OH4YCQh3zJKC4u_MPLeMzYDMIobBWMsnK1LeYxwnUVtOuOHoYuoMCdBF0Q5B4_tmB9B6RhbejHa3Sp4FYAikqFHQe0ilmYof
+.netflix.com	TRUE	/	TRUE	1780610142	NetflixId	ct%3DBgjHlOvcAxLvA8K4bIElC8eJQhnSX3-DF9z3EY3HmcjG1hjAUrF4BJIe7X24LxGjHGI3BSpvyC6AVY9mkoCegULVxAegKyvIl-PcMkC7Mqvv7LtA6sthZMkwv7wbKFe7PKzseYUyg25GkuJ9fw44Z078f8gCBAnImfR0sS7p_5VIcHoToDBkgvbjB04uBnmLNsZnfA6h8UKt1ZzUqegHdkqzFjMjF-GmVdYBg4cyW5iG2y6jnJgtoVLtt44gR95dFnWb5Pt_gApSVjL5Yot3udz70Ugn3qSMHjJcf_O6OWUJZzy-9mpLuRxEZkzNzQATM9d0B1xSoecrKEZzGxUcwA1UV0SYDgebsuLcXBisZjJDFZ0GPO_vs14eK_9ZLRN0HTsVKN1m7i8bR7I8TWPBXtxjE4r7Rv-9_dDY27pLeLIavuaw5o4z-kyn-r9rbmmx9Q9jRA87NsT4AaUMxEzdmyGW1U7IK0Cn-Yambov89IbXwPmjygnY2v878O9cfJF-jO9TFFOe_vEolI-K4QvvXTfQmcaHKvjzQjo70CegmM2mq-JbZDVPdFAIEu2AmkyabR2_ktyRiE1UaHJJaFhX_02udtaa7ly00tq8PatvVzHAKkjEgV1xuUJrEMkFvZSj1MIqxurwRsGiQwtCxImErHiw4gUgy_hkbxgGIg4KDLOFmcw4jSZVq2iV-A..%26ch%3DAQEAEAABABSRvhIl6PNnMxDxkg5hBgz-pqXiI9ea9ng.%26v%3D3%26pg%3DKSH6Y5AVNRFTLDMUFDZKI2GXXQ
+.netflix.com	TRUE	/	FALSE	1780610143	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+04+2025+18%3A55%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=663f51ab-df7d-4831-991a-40db51b1b414&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1780610142	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8HMwwLrtcNaSKnwipsoMDImJpAqA39dI.%26dt%3D1749074134060
+
+Follow: https://t.me/hydrax001

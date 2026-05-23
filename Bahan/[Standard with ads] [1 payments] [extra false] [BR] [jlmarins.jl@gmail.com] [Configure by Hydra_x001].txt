@@ -1,0 +1,19 @@
+
+– Email: jlmarins.jl@gmail.com
+– Verified: false
+– Profile: Raphael\x20Victor
+– Plan: Standard with ads
+– Next billing: 24 de abril de 2026
+– Extra members: false
+– Country: BR
+– Payments: 1 | CC (MASTERCARD 7916) - Hydra_x001
+
+.netflix.com	TRUE	/	FALSE	1803303855	OptanonAlertBoxClosed	2026-02-22T13:44:15.586Z
+.netflix.com	TRUE	/	FALSE	1803303922	nfvdid	BQFmAAEBEEbMPL3NJEjxJA6XVV0D12dgbuoB51dLjewe3dVzELJ4_Q7kAGNUBJa-Oep4GeGpf9Bp-bU4_ICCMpmDXKMr8VmRmYzPLjgZhqNip18hdB4KvbxObQ-kBLC3S6zE5RgYNAYZslQRngBPMY5OvNTRnxoY
+.netflix.com	TRUE	/	TRUE	1804514735	NetflixId	ct%3DBgjHlOvcAxKMBFQmnQuH1UbB4ney61TD4ndELbYoTVlXvD6WE7Mav3_WANNWv0iXW2HGowzqDOHaoP90toaygIcLunh9YVHOFcr6tHm0Wrhfd_X-zlAkqXkPun5YyrUdzqpDlMInF-89pQrW27gjDn73Mwq2fuO5EsrNuG2PAjXmxaYwVP_17tnlkncD2kgJLrU69BkX6HvjS_KIf5-49RxTM3xwwwRhYCv900xnFsMO0k7IbIGA8MAkGcwW5In7dJktAtnDgkeVWi3XxG5T_9Q87Vhtc0Nvb5bgvc_OVVXk0060m5lkdp9bMLcoBel9u_ZiqpoKtKszF3mXw2fpw0KPsNUZWeX2h0KdCAW8Zx6DI8WI8U8Twj5Pilh1ZPvPyLcsLRXFi5-cppZ9lJLD5xyOl-XvmB-VM6oHyWJRma3Li3_M1CiXC27fI6LPwnU5Fl5XQjXRyIUzZD4TAUiRe1-ThSCFUAgUdCpO_VPu-D4lhyZL4_Li4io--5xymEWWNiAUX6EHo53FMukRf0w8kW1DDD0oGCvvWAydpdrfbcVqw4pBAAZ7pQKf7UTq2X9rp4ZXP7J5uFGpDu7SlFk6iUFnH7KIDu4sTx35ozxDMSBhJfD4eTXdlPlox3EvoXrQdmAJ6ycmXrTCAPMNByo12LykhyCBoqzyNcGupuhvdKcdTW5g4H3Unzv6np5UaxB8ihQh98hwGAYiDgoMygoo_-Qm3xntFm6N%26ch%3DAQEAEAABABSMm1HWu3aoGTwTdOo2DJbn7t2DIUY01qo.%26v%3D3%26pg%3DAJTZQEO2QRBYNKDKUXBQJP7H2U
+.netflix.com	TRUE	/	TRUE	1804514735	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1CoPKVg2O1VSZT_1cCy19kdaket5KrCw.%26dt%3D1772978734642
+.netflix.com	TRUE	/	FALSE	1804549398	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+20%3A43%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79e31966-1bfc-4f34-acc0-a4d1088fe536&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771767856182&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	FALSE	1780789398	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780789398	netflix-sans-normal-3-loaded	true
+
+Follow: https://t.me/hydrax001

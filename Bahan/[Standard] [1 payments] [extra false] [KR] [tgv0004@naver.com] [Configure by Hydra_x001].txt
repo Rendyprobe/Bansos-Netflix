@@ -1,0 +1,21 @@
+
+– Email: tgv0004@naver.com
+– Verified: false
+– Profile: 예준가은
+– Plan: Standard
+– Next billing: 2026년 6월 4일
+– Extra members: false
+– Country: KR
+– Payments: 1 | CC (LOCAL 0762) - Hydra_x001
+
+.netflix.com	TRUE	/	TRUE	1781798731	gsid	bfb710ad-c224-44c2-b6f6-97fef094b431
+.netflix.com	TRUE	/	FALSE	1781798731	flwssn	03fd410b-bdfe-4375-8a94-a2a68ca97597
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-Ar5Pl6R8TTkRND3VkqIBFhLkxRkXnRnpffaXy7CvJtXCvTRKZZjiSq0klkWF9KDjjWUqkHBUcoa82t_yieL_KDJV4v9RW_6kksVBEXdXDU-qzj_2dSflskrr73foqOutmgGBYAOTCtoC2orfE6QgPS1mm8RT1iWeOH9Rgi5PBe-nt-8FYF8stuQBfGMcCuR8Er1MCQHFdeDEM7BjTGcgaTeOBvmwAKEEdPXGBGA0xvCw8gCQsTB2avp8SBUSbA4RMAcJIn5z1tEZ3DGY8qRKiKKKp2-DTxY1EOypQQozyT3ipt89vCX6gVOkNi4ya5facPHuJVIkIh9Kl4DXmrWwrF6iivyE9rbq0KsXU_MkLxxIQc9ClX4c6nqdsFcPcuyFQU-Shtp9CfxFjDwrixMwkVY8jdhlrzxYq-ZMYCu_PPWQwVF4xi7rAntM0bktLx9Fs2VR4L1QIOwTtsu9IBzQrQ457hSEc_hM3avYEQEfuxMZminKqm6wHSzjZqX6ipcYBiIOCgzRsaULEk1phkQw3c4.%26ch%3DAQEAEAABABR7E9xCNKMJ5J7gLkzmDwxTMxA6vncXU6s.
+.netflix.com	TRUE	/	TRUE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnC0FO3d6DJ2120W33ujlbvWi_qg8C2is.%26dt%3D1747226120731
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEHT4rQvYJK5fyWNC7aab2bVgGRpcNMf9ivZar3-CN9MCwQXi2-xZHK_NJdeV447gIxa0mXV6kLjJUy1WeMkvoVQBOxh4Zi7xEsK5NTY65UGwuGc9xehcqpC5pDO8HOB-rcOBINdGyF7gTf4fFOJhhVf9
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+14+2025+21%3A38%3A52+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3402dd18-54cd-4d6b-9f43-b9ef791a187b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781798731	profilesNewSession	0
+
+Follow: https://t.me/hydrax001
