@@ -52,8 +52,20 @@ if is_mobile_runtime; then
     exec "$PYTHON_BIN" "$SCRIPT_DIR/nf-token-generator.py" "$@"
 fi
 
-if [ -x "$SCRIPT_DIR/myenv/bin/python" ]; then
-    exec "$SCRIPT_DIR/myenv/bin/python" "$SCRIPT_DIR/nf-token-generator.py" "$@"
+if [ ! -x "$SCRIPT_DIR/myenv/bin/python" ]; then
+    PYTHON_BIN=$(find_system_python)
+    echo "Membuat virtualenv: myenv"
+    if ! "$PYTHON_BIN" -m venv "$SCRIPT_DIR/myenv"; then
+        echo "Gagal membuat myenv. Pastikan modul venv tersedia untuk Python." >&2
+        exit 1
+    fi
 fi
 
-exec python3 "$SCRIPT_DIR/nf-token-generator.py" "$@"
+PYTHON_BIN="$SCRIPT_DIR/myenv/bin/python"
+
+if ! "$PYTHON_BIN" -c "import requests, urllib3, playwright" >/dev/null 2>&1; then
+    echo "Menyiapkan dependency desktop: requests urllib3 playwright"
+    "$PYTHON_BIN" -m pip install requests urllib3 playwright
+fi
+
+exec "$PYTHON_BIN" "$SCRIPT_DIR/nf-token-generator.py" "$@"
