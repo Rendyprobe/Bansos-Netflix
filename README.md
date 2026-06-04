@@ -32,11 +32,9 @@ Masuk ke folder project:
 cd /home/rendy/Downloads/Bansos-Netflix
 ```
 
-Install dependency Playwright di virtualenv project:
-
-```bash
-myenv/bin/python -m pip install playwright
-```
+Saat dijalankan di desktop/laptop, `run.sh` otomatis membuat virtualenv
+`myenv/` jika belum ada. Dependency `requests`, `urllib3`, dan `playwright`
+juga akan diinstall otomatis jika belum tersedia.
 
 Browser Chromium akan diunduh otomatis ke folder `.ms-playwright/` saat mode
 ambil dari web pertama kali dipakai. Kalau ingin install manual:
