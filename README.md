@@ -24,7 +24,7 @@ Keterangan:
 - `Bahan/`: folder untuk menyimpan banyak file bahan `.txt`.
 - `myenv/`: virtualenv Python project.
 
-## Persiapan Awal
+## Persiapan Awal Desktop
 
 Masuk ke folder project:
 
@@ -49,6 +49,55 @@ Pastikan `run.sh` bisa dieksekusi:
 
 ```bash
 chmod +x run.sh
+```
+
+## Persiapan Di HP/Termux
+
+Di HP/Android, mode `Ambil dari web` tidak dipakai karena Playwright/Chromium
+desktop tidak tersedia dengan normal. Pakai mode `Ambil dari file tersimpan`.
+
+Masuk ke folder project:
+
+```bash
+cd /sdcard/Download/Bansos-Netflix
+```
+
+Jika folder project ada di lokasi lain, sesuaikan path `cd` di atas.
+
+Saat dijalankan di HP/Termux, `run.sh` otomatis mengecek dependency
+`requests` dan `urllib3`. Jika belum ada, dependency akan diinstall dulu,
+lalu menu utama langsung ditampilkan.
+
+Pastikan folder `Bahan/` ada, lalu masukkan file bahan `.txt` ke folder itu:
+
+```bash
+mkdir -p Bahan
+```
+
+Setelah file bahan sudah ada, ambil bahan dari file tersimpan:
+
+```bash
+sh run.sh --get-bahan-file
+```
+
+Lalu generate URL:
+
+```bash
+sh run.sh --generate
+```
+
+Alternatif lewat menu:
+
+```bash
+sh run.sh
+```
+
+Pilih:
+
+```text
+2. Dapatkan Bahan
+2. Ambil dari file tersimpan
+1. Generate URL
 ```
 
 ## Cara Menjalankan
@@ -108,6 +157,9 @@ Pilih sumber bahan:
 ## Ambil Dari Web
 
 Pilih `1` di submenu `Dapatkan Bahan`.
+
+Mode ini khusus desktop/laptop karena membutuhkan Playwright dan Chromium.
+Di HP/Android pilih `2. Ambil dari file tersimpan`.
 
 Alur:
 
@@ -186,6 +238,8 @@ Indonesia dan English.
 
 ## Alur Kerja Yang Disarankan
 
+Desktop:
+
 1. Masukkan banyak file bahan `.txt` ke folder `Bahan/`.
 2. Jalankan `./run.sh`.
 3. Pilih `2. Dapatkan Bahan`.
@@ -193,6 +247,13 @@ Indonesia dan English.
 5. Pastikan program menampilkan pesan `Saved ... to input.txt`.
 6. Kembali ke menu utama.
 7. Pilih `1. Generate URL`.
+
+HP/Termux:
+
+1. Masukkan banyak file bahan `.txt` ke folder `Bahan/`.
+2. Jalankan `sh run.sh --get-bahan-file`.
+3. Pastikan program menampilkan pesan `Saved ... to input.txt`.
+4. Jalankan `sh run.sh --generate`.
 
 ## Troubleshooting
 
@@ -210,6 +271,8 @@ Artinya tidak ada kandidat yang memenuhi semua syarat. Cek lagi:
 - File berada langsung di folder `Bahan/`, bukan di subfolder.
 
 ### Playwright belum terinstall
+
+Ini hanya diperlukan untuk mode `Ambil dari web` di desktop/laptop.
 
 Jalankan:
 

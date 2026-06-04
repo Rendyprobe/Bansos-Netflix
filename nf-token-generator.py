@@ -1,4 +1,6 @@
+import argparse
 import json
+import os
 import random
 import re
 import subprocess
@@ -16,6 +18,7 @@ EKSEKUSI_FILE = PROJECT_DIR / "eksekusi.py"
 PLAYWRIGHT_BROWSERS_DIR = PROJECT_DIR / ".ms-playwright"
 TARGET_URL = "https://netflixcookiesmap.vercel.app/"
 COPY_WAIT_TIMEOUT_MS = 15000
+MOBILE_MODE_ENV = "NF_MOBILE_MODE"
 
 DATE_LINE_LABEL_PATTERN = re.compile(
     r"^\s*[-\u2013\u2014]?\s*"
@@ -171,10 +174,35 @@ def choose_main_menu() -> str:
         print("Pilihan tidak valid. Masukkan 1, 2, atau 0.")
 
 
-def choose_bahan_source_menu() -> str:
+def is_truthy_env(value: str | None) -> bool:
+    return (value or "").strip().lower() in {"1", "true", "yes", "y", "on"}
+
+
+def is_mobile_runtime() -> bool:
+    if is_truthy_env(os.environ.get(MOBILE_MODE_ENV)):
+        return True
+
+    if os.environ.get("TERMUX_VERSION"):
+        return True
+
+    if os.environ.get("ANDROID_ROOT") and os.environ.get("ANDROID_DATA"):
+        return True
+
+    prefix = os.environ.get("PREFIX", "")
+    return "/com.termux/" in prefix or prefix.startswith("/data/data/")
+
+
+def can_use_web_bahan() -> bool:
+    return not is_mobile_runtime()
+
+
+def choose_bahan_source_menu(web_enabled: bool) -> str:
     print("Dapatkan Bahan")
     print()
-    print("1. Ambil dari web")
+    if web_enabled:
+        print("1. Ambil dari web")
+    else:
+        print("1. Ambil dari web (tidak tersedia di HP/Android)")
     print("2. Ambil dari file tersimpan")
     print("0. Kembali")
     print()
@@ -182,6 +210,12 @@ def choose_bahan_source_menu() -> str:
     while True:
         choice = input("Pilih sumber bahan: ").strip()
         if choice in {"0", "1", "2"}:
+            if choice == "1" and not web_enabled:
+                print(
+                    "Mode Ambil dari web membutuhkan Playwright/Chromium desktop. "
+                    "Di HP pilih 2 untuk memakai file tersimpan."
+                )
+                continue
             return choice
         print("Pilihan tidak valid. Masukkan 1, 2, atau 0.")
 
@@ -326,7 +360,11 @@ def read_text_file(path: Path) -> str:
 
 def find_saved_bahan_file(today: date) -> SavedBahanMatch | None:
     if not BAHAN_DIR.exists():
-        print(f"Folder {BAHAN_DIR.name} tidak ditemukan.")
+        BAHAN_DIR.mkdir(parents=True, exist_ok=True)
+        print(
+            f"Folder {BAHAN_DIR.name} belum ada, sudah dibuat. "
+            "Masukkan file bahan .txt ke folder itu lalu jalankan lagi."
+        )
         return None
 
     files = sorted(
@@ -389,7 +427,7 @@ def run_saved_bahan_copy() -> None:
 
 
 def run_get_bahan_menu() -> None:
-    source = choose_bahan_source_menu()
+    source = choose_bahan_source_menu(can_use_web_bahan())
     if source == "0":
         return
     if source == "1":
@@ -690,6 +728,14 @@ def click_copy(page) -> None:
 
 
 def run_interactive_copy() -> None:
+    if is_mobile_runtime():
+        print(
+            "Mode Ambil dari web tidak tersedia di HP/Android karena membutuhkan "
+            "Playwright/Chromium desktop."
+        )
+        print("Gunakan: ./run.sh --get-bahan-file")
+        return
+
     configure_playwright_browser_path()
 
     try:
@@ -744,7 +790,49 @@ def run_interactive_copy() -> None:
                 browser.close()
 
 
-def main() -> None:
+def parse_args(argv: list[str]) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Generator URL Netflix dari bahan cookie di input.txt."
+    )
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--generate",
+        action="store_true",
+        help="langsung jalankan eksekusi.py tanpa membuka menu",
+    )
+    mode.add_argument(
+        "--get-bahan-file",
+        action="store_true",
+        help="langsung ambil bahan dari folder Bahan/ ke input.txt",
+    )
+    mode.add_argument(
+        "--get-bahan-web",
+        action="store_true",
+        help="langsung ambil bahan dari web memakai Playwright",
+    )
+    return parser.parse_args(argv)
+
+
+def main(argv: list[str] | None = None) -> None:
+    args = parse_args(sys.argv[1:] if argv is None else argv)
+
+    if args.generate:
+        run_eksekusi_script()
+        return
+    if args.get_bahan_file:
+        run_saved_bahan_copy()
+        return
+    if args.get_bahan_web:
+        run_interactive_copy()
+        return
+
+    if is_mobile_runtime():
+        print(
+            "Mode HP/Android aktif: Playwright tidak dipakai. "
+            "Gunakan Dapatkan Bahan > Ambil dari file tersimpan."
+        )
+        print()
+
     while True:
         choice = choose_main_menu()
         if choice == "0":
