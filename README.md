@@ -94,9 +94,12 @@ Pilih:
 
 ```text
 2. Dapatkan Bahan
-2. Ambil dari file tersimpan
 1. Generate URL
 ```
+
+Di HP/Android, pilihan `2. Dapatkan Bahan` langsung memakai file tersimpan.
+Submenu `Ambil dari web` tidak ditampilkan karena mode itu membutuhkan
+Playwright/Chromium desktop.
 
 ## Cara Menjalankan
 

@@ -1,6 +1,8 @@
 import argparse
+import importlib.util
 import json
 import os
+import platform
 import random
 import re
 import subprocess
@@ -182,18 +184,27 @@ def is_mobile_runtime() -> bool:
     if is_truthy_env(os.environ.get(MOBILE_MODE_ENV)):
         return True
 
+    if hasattr(sys, "getandroidapilevel"):
+        return True
+
     if os.environ.get("TERMUX_VERSION"):
         return True
 
-    if os.environ.get("ANDROID_ROOT") and os.environ.get("ANDROID_DATA"):
+    if os.environ.get("ANDROID_ROOT") or os.environ.get("ANDROID_DATA"):
         return True
 
     prefix = os.environ.get("PREFIX", "")
-    return "/com.termux/" in prefix or prefix.startswith("/data/data/")
+    if "/com.termux/" in prefix or prefix.startswith("/data/data/"):
+        return True
+
+    return platform.system().lower() == "android"
 
 
 def can_use_web_bahan() -> bool:
-    return not is_mobile_runtime()
+    return (
+        not is_mobile_runtime()
+        and importlib.util.find_spec("playwright.sync_api") is not None
+    )
 
 
 def choose_bahan_source_menu(web_enabled: bool) -> str:
@@ -427,7 +438,13 @@ def run_saved_bahan_copy() -> None:
 
 
 def run_get_bahan_menu() -> None:
-    source = choose_bahan_source_menu(can_use_web_bahan())
+    web_enabled = can_use_web_bahan()
+    if not web_enabled and is_mobile_runtime():
+        print("Mode HP/Android: langsung ambil dari file tersimpan.")
+        run_saved_bahan_copy()
+        return
+
+    source = choose_bahan_source_menu(web_enabled)
     if source == "0":
         return
     if source == "1":
@@ -829,7 +846,7 @@ def main(argv: list[str] | None = None) -> None:
     if is_mobile_runtime():
         print(
             "Mode HP/Android aktif: Playwright tidak dipakai. "
-            "Gunakan Dapatkan Bahan > Ambil dari file tersimpan."
+            "Pilih 2 untuk ambil bahan dari file tersimpan."
         )
         print()
 
