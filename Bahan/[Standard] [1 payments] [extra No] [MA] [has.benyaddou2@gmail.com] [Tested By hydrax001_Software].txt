@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MAT
+– Email: has.benyaddou2@gmail.com
+– Country: MA
+– Plan: Standard
+– Member Since: April 2023
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 6135
+– Phone: +33605862021
+– Quality: HD
+– Streams: 2
+– Price: MAD 65
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MAT
+– User GUID: JDJYE62EEVH7NEJWDRHFWBQASA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806932523	nfvdid	BQFmAAEBEJZ2nAfEomarxA_JiK6zbmBgvrhKQ8d3iTH6CKGT8IVC58icLUOV0qh5aRT0sQDwALw5N56_mr46Au9_KxFlJW04pRYv6OYIm1zMJP91ebdEk4MWuBJ5qqXA1Ju7Fkr8iGAoOqLxZqtZN_d_Ds82vDCe
+.netflix.com	TRUE	/	TRUE	1809729899	NetflixId	ct%3DBgjHlOvcAxKBBDdlD1I0SxIwP-vCAiAndgG6n7WjSOnx2Lmj2OS9LLxnJQhtP__HRN5Zqz-vjMPpPlD3NUcCmHw3jWIvd4vYrSUBJzjjwicrath70OeirJCIX9Flx46yNNTSjvXerTImX2XcG7-X0Y3kBK0Ofj6QbKTT3G4EUNq2W3DBkZhmSW6W8xZ0KS9KJUJCKQL_UT-qcF35YoI-eQWjQcp7DaWa5Bg-HxW1hAaAOxED7cU_6lu8mzaf3_KKweXVwfuM8ljsOPnXmzHJNhW-sWSQGVSIwcR9Zh40M4yBYC7G_LRM5o06AWTjpgiBhalwMdCj2f2MStoYR6ABwh-FsNzhj_t3nzcOWiPVWGRzHH0mkIbdKGizAFWqcB_CmgyAts6vIq2ljL2UL6-T8CWSxcu6t0xvPm0ezmA328MSO9kUDh2pu_uGh1HKIR-_kJyW76ml31G0ZFr-2Z93KhPKcAtR5mhrsnQAaU4qBZZG3G3oY3IsQ7Lyn-08s9TxyTuRem7chINkIZOTzhuedJhOQl7AuVDvpIs5FW6982kmWjSwTb4LUNfvEDL2iGcjc8BrQqRSy-hFdEQ_KZJz2wFeaffWLMWvGk4gMINb4PPNLBETdRw6E8krU2ESvsOQTHRpg-VBGEDtQjdlllUyWgRh5WBYFPR69w6_stfc8ubXaYac6OydFQJ3BxgGIg4KDNOqlmcsGaFDsyTLVA..%26ch%3DAQEAEAABABTDZQ2JW4S27JeS66hZ6GoRKxxbXMCuZS8.%26v%3D3%26pg%3DJDJYE62EEVH7NEJWDRHFWBQASA
+.netflix.com	TRUE	/	FALSE	1809729902	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+00%3A45%3A02+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=81859296-252f-4ae0-8342-25a55c8bb04f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776115840555&geolocation=FR%3BIDF&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nat
+– Email: gabriela.prado316@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: April 2014
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 5935
+– Phone: +19084441580
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gaby
+– User GUID: T626JQMNIZH6ROC23JDJ6AGVDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803768249	nfvdid	BQFmAAEBEBPrfUjYWzgCIPROy3WJTG1gzfygJdxDZGPWbhkH5avawtHxyz5Gv3lgZG2ZwJ8OQFGUVD6KJilVWKCXmMOViYBH5nVUQs_rq2o9pMrt5_Tj9IDL6DOamndShcCaARDASqLbA0GSh7fZdjZWQwdhU6w5
+.netflix.com	TRUE	/	TRUE	1808356761	NetflixId	ct%3DBgjHlOvcAxK8A52Dmf1VTcwM4fCBiu84K4waw8iQUkk--h1vhNkwrEpsCE9iVDegRr8xjdOM20oMS3ObGKUUuIR8Snudq3PqfWnFrmfiaHljc5w-QpxL82O9G2oofPJE0f_HI5gBkb-dEewJvwk8NkcNO3BdTK3dfhYKbnOmFm0lrMnzMVZkRwIhd7CqkfLzBRgsSWZPf4nGjjgqxx2uQY3nr0exrZQPrNN-Urzlz3uPlX_jmPwhLdZLpLywzb40zLh6pVEby39Iv5aoxRDsZiHk4xIrRKaOlFoF8IVHJqldpUVIDIOyVVsHPA1U9vQ188jQy1g9V0y8JC7p8aSG3wFSspxxcqkCeJxDW7T0emuwkbSK9yIttb3sj605m-UVXe275dFOHAxE6aWPRmkRaA2PO-3YqCL9YIAYNJwCJplR-osuEF8cJqDki4dQxosmrXpiafqENfnM5TSpMOWAm3T0GRYPHmcopwAILKdpADVby4HLPr7L6105UoyfZbxLFD-27hHowCKsydN3a2t73_R5mSV1olbuaQMgWXHjRk_cLtXtChe3-Pg8MT2g_MPV7MrSvMF65pYs4UJtbx0GRm5kt-PFDhgGIg4KDJWMqqsoEUkP_SjWXQ..%26ch%3DAQEAEAABABSbYZ8EPCXdXCT9SAaOi7JIiRbLlTlLr_o.%26v%3D3%26pg%3DT626JQMNIZH6ROC23JDJ6AGVDU
+.netflix.com	TRUE	/	FALSE	1808356767	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+21%3A19%3A27+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07f0b5de-f2a0-4fa6-bec6-a5ec535d8da8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771379330719&AwaitingReconsent=false&prevHadToken=0

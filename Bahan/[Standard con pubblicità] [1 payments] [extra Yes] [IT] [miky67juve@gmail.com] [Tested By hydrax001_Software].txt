@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giovanni
+– Email: miky67juve@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2025
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393483700366
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mikele
+– User GUID: HNPCVHICDBFCNIJBHF5O7NLVKM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796325837	nfvdid	BQFmAAEBEH_H4Ko5JdXtF6egQovHNIRgm5hB-_DZkmG57CEk5fnwdU3xpv7E6-KVWHCsuAow7vQtgYDH9dVVbc18FzNhZAsJyDJMwK8bJRPAR93Q2GiG4qonWMbALuSPmMHX4tuFAmYuXxAXsDtQqRXVo3W95ptv
+.netflix.com	TRUE	/	FALSE	1809854471	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+11%3A21%3A11+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13c651bf-b766-4a2f-b2ba-5f01c7374f1e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BZH&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809854474	NetflixId	ct%3DBgjHlOvcAxKEBB5zgP3_6k54nNN4nBP2B5RWG1RZai3AjaVdEP5S0hHjv-2bLbnmZZo0uhpL2U7khiP190qfxpGqD5qer76fZq8I4yGPa6PlIhOqpaSKayDVmYL_NleVyVqTLx0CIozzV2v1IG6hEI1gve5pEwad4I1bbctm-4QIUW2_g4vVhJnr3QvYXjEZ9d-WokiRRr2wLSIqwxcP2Lrp96x_yRhd78r1cdhkTblG9M3-ICbKI2JL7cZmenjR79OhVPikf35VG4wMUwpbw_W1U3gixLNgpm5KYvWJ4goV-Wd0cpCF5fBP3ASyTa7w1Z2qFc_Mtf8lIr5DjEy991-YWeKUvKKmXa2GFqSaj6JHF6xc3T7Y-mFS2kNBaadFrd1VjgdW3883PxQAMORFNY7g1eD_xHMuyYMhMYXkYSBu2GZ1eWkQiUADyfQcbNyEyJDYryJSYnM4_-o68vbWRs4teFH_EIDXo5xL25A5mYlWVLK5Mo673mXabEoFHERzvK8dssyrJdYIrT7zoRKXcnoXoLU8oqqF1WiFELHiDVOLmy9GNm7t5OA0omtSWR_Kjq3epo9al0yRIjc_Neg0p4ck72GHf3TrnfFUv7pG8KIDMA6vFF0EWktbZKoA7nQdGKgIgdeE8NRgzNRKmd91ozcFNQPYHZ0AyY0brD95eZpXt5PJyaBXK0h093jatRgGIg4KDDh-SKiSaNKuXK4FaA..%26ch%3DAQEAEAABABQtflwILIwHliSCfJvXDgwjZfXb05vrkuM.%26v%3D3%26pg%3DHNPCVHICDBFCNIJBHF5O7NLVKM

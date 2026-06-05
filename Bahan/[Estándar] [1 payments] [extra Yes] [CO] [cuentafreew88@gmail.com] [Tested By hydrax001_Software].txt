@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan
+– Email: cuentafreew88@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 6141
+– Phone: +573148118234
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan
+– User GUID: WGE4G4A3JJCE5B4FUCG6FSMHQU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782533884	nfvdid	BQFmAAEBEHJnBNP9hVgNuUFb8dCLUDFgBCkItpHf1EoSH9ExyBZp23oJQO-sl_uhyfiCEW8usP7L2qHpfSUgJPUV1B27Xn7f9iwKAuehWWtVv8q7csQJPQRZaK-NUSFFKcMJw4XBPpQcWUn6C6dy8eiD3qKI8mW7
+.netflix.com	TRUE	/	FALSE	1782533884	NetflixId	ct%3DBgjHlOvcAxK5A1eGERrF-3Imj01UBR1s63DMxYhnI09x1BJOLqyZcHKKy21eSBhNZJE79pG9gzTsSkmWoUamsvwHgM8pqN_hjnMyQGtqh7TdzcsTam66IzcsokOBvM24aV3So2V8cEJlLN_p4vCkhuUxSGLv55WNWrZc_JLsHEhd3FaaVCs1XMAnwHFrYEdc1Tpr8yKa15xgfvTr4-Y-m4tlI8NnHp49h3wstBGU_Fs_0onvgoE_BlgY1Et2rwWKgUKnFRsqC0kt_xODB2SEaOEBsYlM9z4612_BK_KbhYollZz4Vs6tdSiG0nw0Fl71-nk-KQG0adKmg_y98nm_sh8V1LKjF3zxRT9y5rgr5GtMkHb9Z63Iu1frUdNI-zeMJqZLgosmKeZN3OeQdGwMVdeyLdi7m4MwsC6kSWfazeUKb9qSI0KS28M4GawfxYrC3qUkAB116gfI0ESaYZxs-vGkwQVh-lClXxhY64mltEwPOcgXEbCYGzvCKAKfqph09HQsqS37HuglN9hz2l2-lEz2zjzrkYonik1RMuyk5jQmTwasEve7KPgvf3KLBtvxkMx94n9kk5QrfW1Kk5qd0J-8zBgGIg4KDJO02h-6W54-_GRb4g..%26ch%3DAQEAEAABABSqdgps2ly2QD1XKTUAA-wa9pT54nXv3O8.%26v%3D3%26pg%3DWGE4G4A3JJCE5B4FUCG6FSMHQU
+.netflix.com	TRUE	/	FALSE	1782533884	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+01%3A11%3A50+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1acbb170-3fd7-4c35-8d09-6369e981215e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777352654941&AwaitingReconsent=false

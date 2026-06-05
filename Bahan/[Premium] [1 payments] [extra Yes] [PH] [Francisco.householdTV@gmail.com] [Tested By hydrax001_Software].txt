@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Edrick
+– Email: Francisco.householdTV@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: May 2025
+– Next Billing: 2026-06-06
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639565227352
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dajoy
+– User GUID: BUMRZILOYVG7RIHCK7W276U7KY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799034958	nfvdid	BQFmAAEBENWCgZsCljVvR2ino9pNK9FgvnxzrB4sU-3WawgyiyUgN-NXfItXC0qEX6SS6rvatYLTe6D3x-aMaqeYX6cvyPy99OByJPPwhrQaE8vBnnD18jC4kUkPeAHduEockYgi5CjmnaquxUrDO7DErxWQVj5_
+.netflix.com	TRUE	/	TRUE	1808095854	NetflixId	ct%3DBgjHlOvcAxKCBBsRkQDQnRwuKADnItfShSz_j0Tw92wig5KHTy91j89eliapH5B5KX80IrOErhpk-XGk3gcnCpTkWNlFUMbPiRlSRk2bL5aXY5Phgkfgg5HYBntH3PE6nHlTuf7qlciXwTocQO4zlu6kiMREh9PttLq-nvjJ87oB_ku0m77UJlOU5LPgm62JTViinXOtyT2iiMa01ytWKDXL-RWxxH1i9_T7Iup-gkzf__V0H19foqTDhfT2w1L8LIdXcVmYl9EnD0oFjqhgb_od6c90zYNCghW-RKeCs4b3iJe6vdbqHZR96C2K_wwGlTSX5umT6n5EVrW9h_Vj0DyOvZASo4jMsQVCYpxkrA_FuRQ2gz2_z7RdGr7aMsupj9tL3-pwD1XoWFNj3j3Bt25biE6C-VvD_H7N1qJpYBrWt1KmXL3oAMlryznxetTVoypzsz63_RjIrNDkIz8F_T_5AS9XXbmvCbdZ37kkRjIbuacTpV-0mJdC6WVivHIpGEWgRDdva7d3pHubB5-zH0bK51_AM6xg8d4OXddMq-1pRhZwnn0AE5-cCIVKPy8liHXs3hGY2ZyRxe0zMuS56VxGHKDlL2mQmjHfLBPm9rQR8m9arplBa2x8Lmiafy9OKPsWURetCEfsUNdU9tuuBQdEKTbw7blkP9tEXMsduWEXMA4Rc5VC_ozb93kYBiIOCgyW56asOatUgz3yiXs.%26ch%3DAQEAEAABABQsZzo2cGCjnzXqmKmjNHxAPDJr1ydlYbg.%26v%3D3%26pg%3DBUMRZILOYVG7RIHCK7W276U7KY
+.netflix.com	TRUE	/	TRUE	1808095854	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoE-IWB1AEWCMoL3rM4Qgn8yOx0-uapGc.%26dt%3D1776559856455
+.netflix.com	TRUE	/	FALSE	1808131138	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+18%3A38%3A58+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a00a589-dcea-4827-98dd-0a3c2ae7652b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

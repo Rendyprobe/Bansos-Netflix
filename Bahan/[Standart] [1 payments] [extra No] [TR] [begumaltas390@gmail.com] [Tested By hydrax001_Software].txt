@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Çocuk
+– Email: begumaltas390@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Ocak 2025
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 3188
+– Phone: +905342274291
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Begüm
+– User GUID: T7LUN5LF7NFZDKLDXPL5LHVHLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791730939	nfvdid	BQFmAAEBEAaqmF1CXwNZfuxW85NLUCJg0tRBZHiF8vpzlSDcAElITEA-YgiHm-er92DFLu7I_TwvpOga04lJekCvSZII6nByrKV8t1xR_w_Uq97Qsu3praacGRRiddaLNrFqsWf7MV3iwmjm4j32FaRmYn00xJLG
+.netflix.com	TRUE	/	TRUE	1809857609	NetflixId	ct%3DBgjHlOvcAxLmA5T8BDgp825-sIWyqTYf5Vqa9c3f9HzDUxNUc047hFlgZQulUC4R6wFWA9yvagCDdoELuhG3aoNuuGQDKY0hZBX1eANm6KCnxmvMrMzYremjEYdHOf0nVe69hOgI7zvISoiokNLDrF9bSF4676Tr-6lSKhqm2PdBTP0czOHnQ0ArPgcPaLdhMbbtt_Jd5Ch7t7ZtfSkVFAHZc2-n1jtBAkFitegF4DbOybtgdkZwuuczQjOdGSZ1qGoFCZviG9-uyUjqX-TZZaAtUR6hL9Uai25yNFAVx9DSSGcUPeG7DcUpq6CIFmR7egUlY9dZhAG3ASTvk-PujSU2iI4XmoBmPVZdn-hxQMp3awaCRk5G8vtTNFRVgvzH-fu_3yHXbPWVdY9NY-vjH_GHfbcsqNtpjmTDEj_0ogw9dvLYDbGV1UhlciQlRhsRqiUb2vAZGntxr77XFHzGzndDS5MSwku1wFYDBjFl1kW41NLhJsd83C_caa-d009vkgzrN6DMNb75auIhAYmmgOhz4xodpZWbn4iqwPTKtiwTPR2KD7TcnvNsJQO7lY8wTtTyFDr-Z-Pk5WlgyxJkldkFrzJvoeg91kvQrIzJIBD_7KFYqsOAB5Q6wLr1hQn_6zM40l5TJvOZ34FOKykZbRgGIg4KDGCdsP8rm9OOhm2VWA..%26ch%3DAQEAEAABABRHpbygVzPm9D2eMWTogT6reGuSNkA2VT4.%26v%3D3%26pg%3DT7LUN5LF7NFZDKLDXPL5LHVHLY
+.netflix.com	TRUE	/	FALSE	1809857615	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+13%3A13%3A35+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=69b35abd-6865-4859-b01f-01305c68f2b4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B35&isDntEnabled=0&prevHadToken=0

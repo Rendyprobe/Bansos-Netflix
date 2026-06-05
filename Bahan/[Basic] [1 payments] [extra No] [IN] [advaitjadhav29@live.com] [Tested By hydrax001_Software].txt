@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ADVAIT
+– Email: advaitjadhav29@live.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2024
+– Next Billing: 2026-07-02
+– Payment: UPI
+– Card: N/A
+– Phone: +919869709796
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ADVAIT
+– User GUID: B5PNEYFFPZASPM547CLJ4PTRBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1779740922000	nfvdid	BQFmAAEBEGmOh7X7Wn18KLx81J81JXVg7MPzG9rexnAPBT4YeMVH9YfbHTBFbJ59nLqPIwjOb3kAhcpWO-mjhRoa4H-ngT3XOl6Kg6jTdEcHQCOIPIUeesNvNxe-5vKxKM2GIwL7ysfhm3iT1eB2v_gaUFNGIjSX
+.netflix.com	TRUE	/	TRUE	1803582041881	NetflixId	ct%3DBgjHlOvcAxLsAziAueVrhnfRg9TzE8_TmDfh6DUWOJgrNrwZRuinSJM5GmMgLUMSRHxw8Lk68_SJl8zaPjhVuTt0C1GTCGW4TX8HlWMVb0m6pBwF23zmBkrscmwLDHAStK-l6a11QMBlDoYLl1f-aFUzhslPUnJ8FBKMgVdgUPrkeLfkx4sw7iTVPht0YUnI7pUD-gQEpgVE-SWzUhYStadU9Jxnfz6mpsBR6CMhwI2pS6MJQBDkInBE8FQL-8S41B0rr9Kgcbuv_gGcRGE1yQgQDUbEwUQtS4S4P9TcDhJds9dnasg4PkRxSTXb_84Y7vjHaoBatolkPG4yMUkovSwmG2HAejVajJD1_lsbnqz0g69Pd16v5719eg6KSNOLmFWYYXyBmVeKBQRL_ckhxP7MLFNgJvYZoqe73iZfCSSMoGcX2KS2zOfFLhZD9anhpHamdcpdg3rOMmLPtkm1wJux2148cL8bPL3wImP75szWQQlFvbmI7V2kB0bvXNz_OFzLKUelZKB0X2b2tLtRFAnqErMp6HEyxuqM9gF9dprkKXW403_B-_EZWjG4N2riChUhkphRdl01d2NXG0YI3CGoUPXVIWGbVz_QgBICg6wZj29_jgVebah6HSWqEVIrUYlkzYItyh-FQCtO2dEb45buz87ldBgGIg4KDJvrw80rlAqsPwlynA..%26ch%3DAQEAEAABABRduXgTPHkQ2PLjvAdwyh6W_3fgLL2O7BE.%26v%3D3%26pg%3DB5PNEYFFPZASPM547CLJ4PTRBY
+.netflix.com	TRUE	/	FALSE	1772651530823	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+00%3A42%3A10+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&hosts=&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&consentId=c568dad5-b0c2-4221-ba13-7c46857c6e64

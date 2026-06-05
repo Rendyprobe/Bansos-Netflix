@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: vanshkhanna021
+– Email: vanshkhanna021@gmail.com
+– Country: IN
+– Plan: Básico
+– Member Since: junho de 2024
+– Next Billing: 2026-06-21
+– Payment: UPI
+– Card: N/A
+– Phone: +917439942754
+– Quality: HD720p
+– Streams: 1
+– Price: ₹ 199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vanshkhanna021
+– User GUID: AEJXVQDLH5E6DMYAQTDYLJXQYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796822110	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKMAzFrKzcCYaoh__civZCf2K6iwJI-VLYcrGzCkiEliIpdD1u2ZjykH6hI8IJlXN7oc2B5EBMKfUBm7jse-K8Pp2T4qOQodEoZ8cwDjpzIxsm8zDMwq_zg70fWsAuC7WMprl_GvII9KijFKPXbZ9MMn4OTsxHCBaTv5Bs2tbXL9EL9o3fHDBDnY0DUnl4iiBoku6UzFKk2FArmnrvM1ekfLIDkO5zChwXLM_rsArSXeR0gBMF7teuj0YRRgZBL2wwt8sFesBxGSF8xtskF4lgkMrmlUnV3pbY582wq7SOPzmUkcgq8gEaJT591KgVNf8xhUIl197h0ksWZcjs-d-mpkfUO8yR6lv2IzWtgDX6b2P-nsKr0CtCMMWXj8H5UQdyw-TtV38jM3v00cqsBx-xWO26elzhseB8Ml4LTOutY7ktwtQOb8BkEKz9uetX4Ajrhcpdy4asA5xGx8Ij4PGgbWHmn1c2wsn5jXnTkppIsnpbOyWv0z4TBYqAFasY6B0u02CBe1-e0ag1P0fRJOhgGIg4KDGS7d3kRcIhyda1gnw..%26pg%3DAEJXVQDLH5E6DMYAQTDYLJXQYU%26ch%3DAQEAEAABABRlrfo-xPqIBKCsJjf9y0M07fuII2sF6iw.
+.netflix.com	TRUE	/	FALSE	1796822111	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+09+2025+18%3A45%3A11+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3897c80c-c54d-4867-bab2-c2998d2c3633&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796822110	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS03pgGqqZxId06H3ijm4r5STxNPFukZ-k.%26dt%3D1765286110956
+.netflix.com	TRUE	/	FALSE	1796822110	nfvdid	BQFmAAEBEOR-VZ4w4mJEPpvj_hrWAIZgHufMYmK_0YwxYTAKnLvUBmO5mAYomlJytFAh_R2VCFPENr2Lzg4UfDhmtN0aydBgk-zBU45qvOQcBj5PMVpCL72lO1mWsybMMEuJAo6RVt94mkbmYTiU-qdW4xxaSCq8

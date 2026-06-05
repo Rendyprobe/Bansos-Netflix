@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carl Miguel
+– Email: ikoy2069@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: February 2022
+– Next Billing: 2026-06-08
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639610083437
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Martito and Maribel
+– User GUID: YOVB4QMBFJFPBGL2VWKNP32FII
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790574152	nfvdid	BQFmAAEBEIBmaNuJP9_m1TIq09XENqFgh_LCmEPdWBWQlIJd2P_TwL758-yswbwVH44HU21Gc04Gox3krhUFanndNw26I0O1M-xL05aHJwXwIeTsW-Hqv2srYJq-pNT18OeQlINsFi-5DIufYyY3t5MUUiVqGzq-
+.netflix.com	TRUE	/	TRUE	1807362657	NetflixId	ct%3DBgjHlOvcAxLpA9Mx6jYDlNOjq6GMgGKLicgCGfVkti7g8oXeEFJ9ILxo41QjG3JxbadHgOUIX3ahnDuCHUAjARGyJDuRgK6JkVanjaKRfE-mtHk1JpGFJd23pc9v2ICcct5GqKJXQNvcos1BcBB2nnCNRZQv_XOVKHgZ3Pr8Tax4Aubm5Z0U2UvfF7mD4-Iykz28jnhv9P_wCrswLb_pLvTbAqcl8uefZkj5Vx9_9EQCc1Rh1ww9vkWGUv6gZrmbFg_ACJRjKCY_azYyiXbqGXImVx3jXCilUn__QKLVXJ0g8MMCzN7khhMKV3Nr_DEUCopvaoMT3JCNDyjVHCLZtJ2FNs3xNGpJ-xZUyzR3r84Q5fmgWD9RTUfARRsigJOyX64pACI1n1yhOnBbN77L4MgqGXRE1M_lqf1paqCpYtDpIkKoUpFaWYuNLGkYbZrDgPg53AeX9Kxx2Izw5daF_xqs0B-lgS0JEpBsXdEKvt5vSQ-lJxJYpY4Geq1wRgzk_FDDtNgxVZTRkInyHZz7NP_bgy340B3RrHA7grNBoPcRpK0Pm7VBD36bHyOs_1fNa0EQvguZBLuo9WZkmfOvjQHN9rSIlaCNav0q2ZbJfPFC3mJnw0jDnKWbEPvcl86x-X-yDmri1DagY3CEJWFxE1luyhgGIg4KDDNs1e2FTi65uhdxZw..%26ch%3DAQEAEAABABQchKsElb56GV3BzYswIhq7sBNpV0j2X1A.%26v%3D3%26pg%3DYOVB4QMBFJFPBGL2VWKNP32FII
+.netflix.com	TRUE	/	FALSE	1807362660	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+21%3A11%3A00+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6937e5c6-1696-4281-be92-a7a758a88c4d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807362657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRELAI4LUTt3b3jtm0SfYKkyfs7w100y_0.%26dt%3D1775826657922

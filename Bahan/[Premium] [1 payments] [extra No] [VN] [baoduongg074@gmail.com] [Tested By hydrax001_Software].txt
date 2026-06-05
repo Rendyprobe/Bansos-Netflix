@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ana
+– Email: baoduongg074@gmail.com
+– Country: VN
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-06-11
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84379196620
+– Quality: UHD
+– Streams: 4
+– Price: 273.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kind Tiep
+– User GUID: FLEGPT4EVVGY7NQBNR5CJOPVL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809963032	nfvdid	BQFmAAEBEPWAx60b5kbLVL7d9IVmeP9g_HwMXcM8nosY7YxbNetZt7Noqhon5FwwR7x6u4USuJqO8mSwurYS6f-zww7OIBR2xENsZndnxFKUjLVLIqKbFG-ZpHoNBm777jS4QwU9hhqPZvxyli59BaZmq77pEbyD
+.netflix.com	TRUE	/	TRUE	1809963041	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXAwwvzZj8TivZUQfyBXsIn02YSXZgO-ngj9GNi2n1mLUAazgg2BXUS8NWhmpIYWdupPUt7EybzRQ2ui8Uwt4JAj60AV06292QHlmqS3U-BWM3vPp9vCR3EXXEq5W8RQM3BLT78uWEMa1TgAxooFTE3rC1gt9CkuVcZGBk7OYRjwOJMownZ-FwX9_0U2u9oHf_h_LJL793ixdg88dNxRGCeoR-9z_NWnooqx3hdFXCkBix5Y9GPaCypbsfedDVX_bFu-qQajmjgsijqfHfq5gTNLHJBj4HXEoM1kM3TsU-WP9PICcAoKpfCzahJDPtRknGT3Vt-8dduUgU-E0C90uL98RquUqEJBXnMs1C-mvVIkkP6s7gNxXo4serlhGMUwl9CGe7_3PHatiMdBpnmKaY2S0yt-4Ow52hBwefwue7Xusm3BBUOnZzIexswzphih-1h7lrXK2cThwop3iWtJyOp0Ju_YwXhfUCzI3iaQP3mC7iQNhMTTB6dYlBV0pREny_v9SlxrJJwT8Xw3DzMveiuAu0uWR_Go07GAYiDgoMKfldcfE65Nd-8v4J%26pg%3DFLEGPT4EVVGY7NQBNR5CJOPVL4%26ch%3DAQEAEAABABRGk8jo9pVr9nfHw5ZayjKHcmExndMsfzs.
+.netflix.com	TRUE	/	FALSE	1809963042	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+22%3A30%3A42+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d56bb7a7-11f2-4594-bdfb-ae265cb54147&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777903531847&AwaitingReconsent=false

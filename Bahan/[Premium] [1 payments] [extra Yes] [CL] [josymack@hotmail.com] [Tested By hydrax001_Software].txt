@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joseth
+– Email: josymack@hotmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: diciembre de 2023
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 4363
+– Phone: +56974626234
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joseth
+– User GUID: 7YYNWIHXLFEUZCPFONRCWLHW2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787701266	nfvdid	BQFmAAEBEPaY-I710ICnzjbOTj-oMIhgtEeruVWBewOuQbgni5dtWie8uLpmLnMcI4J-rmQKZTlP9IpbUvuiIz7Ti488thti3hVUTP2vhMTsim-WMFlIc-yoQh_cHACxTX4pX_4ifQ9SGmlbF37-rDif6uejtruT
+.netflix.com	TRUE	/	TRUE	1787701266	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIAzC63UbVFC2_xhANRWFz9mKvltqq1kaPHQTvO_YMuJwmM6pBBPrXu9_FPxTHuV2EDMu6AECVKDrMBJxQ25R1aOM68qakn8hqZIrMukedHgKsNRZ2S6gwwRaKfNHurA2VEb0MsXuVJgz-qCnibiao_KOQTonC-i923JWMVj7wtsFto2Zw-lS1uaSlujbFhsB6aCG9gdTfymoM4d4DKH_gHyDDNYaVT_fq1AtIra9Dmf4bthT-uNE6KHB76YZKgYstjRB4C-CuoUTi8r61_B5zs6K5jmMafLRcZdlXslgoKcHQIkGihN9PHbWk8o8dlXJUWjAQn_SuMDY11Dw1eqL7VF5iPN0iP1yi3urVH1WYh1UWf5KHmOIm0eexmwlCcu7zcF9is-JSdHrnGtkl4p2bZZAd4WnP1jhbMmbGozoM__y19wdXLWFidNQ8A1n9u4nG8CcZr0Bl4Baxw7FOwHU96awQL81g7DgGujYgXD_IZuwehFXhjvauWoUWWIs0k3hnduNo3vnUyqRIGAYiDgoMesqDALgDpz8lK56F%26pg%3D7YYNWIHXLFEUZCPFONRCWLHW2A%26ch%3DAQEAEAABABTuFw59JP1CvHj8wZI9kDL6yhZJh5rK-vo.

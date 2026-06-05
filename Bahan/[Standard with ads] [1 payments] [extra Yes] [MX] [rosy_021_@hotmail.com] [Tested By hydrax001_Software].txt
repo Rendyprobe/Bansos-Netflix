@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rossy
+– Email: rosy_021_@hotmail.com
+– Country: MX
+– Plan: Standard with ads
+– Member Since: September 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 7742
+– Phone: +522831231585
+– Quality: HD
+– Streams: 2
+– Price: MX$139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rossy
+– User GUID: 2J4QG54QNNGHDJ2LAS35VXSVXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808024320	nfvdid	BQFmAAEBEKmOHomEm61MLr1Ple0ZkMlgZXR94VqUy1ZVQu6uN1TcYkKUCfbY67EqX70Iu26w-1gsbOfJ3IL7iuSxJPHW8V2aV0Fx1aZrNEdHAImRBWsgg5svNHRfdCTIr7SnUFjzuApWDn-dumkI7vUtDX2ry8vh
+.netflix.com	TRUE	/	FALSE	1809788133	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+21%3A55%3A33+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a8b4e85e-9857-428a-b687-cf8762b30756&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811069670	NetflixId	ct%3DBgjHlOvcAxKABA6S3tgo4vzyiuXobd-MpVtDAfqu5Ara6y1zKcTIts28xy1OzrT187J9Azxzmv8WD2751ApmyOrQpKRVmkD2XUK5TeAkesxJsIChWcxGiTQvi-hOC4MvnmGDHzy46YW17_lGoL4A5GAbB7gQ84RJZaNklICU-Eal2haQ6Gzp-hC4fdv8NO17_aAHL8YIbr33hkSqrj0PuwjdEoRBRDgu-zHH8vw-5gZzHVHyjXbZeOiEkwNOpqZiwH-yel_F4dPgG4321tgX5pBu1GX8eH8gjoX4T3qMnId2MbOs6cMfZZUDHXXcopdRZh5ondZnPt5Rlt0dA0qW-a1QDy3scpZlS1w2UQVmDnZyf2wpDlfTzaQXZ-nmp6pKqg9b4dZMWMgMogN4ImJvOjrF9jKiTUJZDv9l23FiA6R4oaQl4099RCzHKFtKhwbO96s3pAWJY1Io6eTSsHnAI_6gfxVKJY0yZVJCHOp14C8OqDi0D_Fz0wcZvx4_ibmJa97AO_-wdLE6v4jW1TblmLyIWhLaDCdiMzWTQ3X_a_OWZst6UWLm9NuD3UuiGO7MIQ9GwwbpBnc-sc6lBUmZwh2Y_NYRe0OK54dcF0PdJJelgpGo_rA9k1pR3frE5-QnfNsuXpjENMkd8kUKYEB5F0SEW516rzuTmTuC_MioJyV04I3HW3JBnXWDGAYiDgoMCjnJreY4cRyuiGzn%26ch%3DAQEAEAABABRv-O9PuOhOLIxBpbhqLRTj1LtSqZNiYLE.%26v%3D3%26pg%3D2J4QG54QNNGHDJ2LAS35VXSVXI

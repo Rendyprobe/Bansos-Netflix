@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: fire.angel
+– Email: fire.angel@interia.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: listopad 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 1814
+– Phone: +48503690019
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: fire.angel
+– User GUID: XGYSEOCWRRE3DOA5IASDJUMHHE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805142969	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGAy3Kp45NCeg5roELLO8EK3YRTFgLmK-WXRstFghVknrq_Fz60g0xGanzsE8V41Z7RI9tDM9wBp-n5ZoTRoBREJDxUH_D6xB1Fu6LTHyhCkPBjbLVkQbWU19Rfk38ZvRj_168mTVeeFiDQb5JeKxrZWmNoNYEDWQCAVuz-xOrr2L74APRy-JW8mFVMnMF5A0HGXVSOdUWO-U6Ifp2F5Vf5jrNBJMxPz7AabgBth8Tl9cPFQ12j0MSQp1WPoytHL0DZWpzFwz2baci_Rwc9EpG9v_WDG4tcWxqr2sMjMarTzxTW20sYeFxHxvmomPEnUfJRGCvKe4aoHKKtHqC-VQi3mqXaIkltoVwgFoNeOnISvX6o5XQFbVH8qnYtTifS12qS-dNvfNHfUFpkzjKzONsImbCaltrdAs4-fhOlizHanYMIn9op-lRq3M1PSBjWCOORWOo0QNAjyAJIDrZlna2FDI-rRNkxZykENK9WLLj-thxNnoXw3rTWGonxsoR0DFoJi20-c7WkRgGIg4KDO16DC80v7QQtDJtLA..%26pg%3DXGYSEOCWRRE3DOA5IASDJUMHHE%26ch%3DAQEAEAABABSO73XWA9FgNwpFKL1MjZsi0_k5FFUOTgM.
+.netflix.com	TRUE	/	TRUE	1805142969	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfx3hjPpYQACQOFzBp1-BLCtMsZDaoID8.%26dt%3D1773606975164
+.netflix.com	TRUE	/	FALSE	1805142969	nfvdid	BQFmAAEBEK_IuyJgtbmp0endDymEBo5gTvt8Wxq6D6friM6erOw7ghBdjqzbybE4itpCdv0BjDJFxVD608LL1zQiog5NogqqAHx9fKsVJHGs0ZmaF_Oprqm7eVtiNpEYCQHOeJlZfy4HZwzSM9vjiKzr1CDjlDf6
+.netflix.com	TRUE	/	FALSE	1805143115	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+21%3A38%3A35+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=26298da0-e800-49fa-aadc-321146fa205e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773606949138&AwaitingReconsent=false&intType=1&geolocation=PL%3B14

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DORUK
+– Email: onurozcan.t@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: February 2021
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1942
+– Phone: +905367462006
+– Quality: UHD
+– Streams: 4
+– Price: 379.99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DORUK
+– User GUID: EUY3MAJR5ZCUJJYH36WMW5CAL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEHUZtzyYm-3vYsfoMH-n4ldgLx-CbTRSB8-LrKyy8p3u8fHBRXFYg4lho_0JWNrC3pfR9mwiSy2su3A2jf8oJ-v3wo2oUMRC5w61Bl62SVIvLNUXIA0WoUSBjJ4Au93sMNdfeF1tZSpKXyc8fl69pRpU
+.netflix.com	TRUE	/	FALSE	1783197724	NetflixId	ct%3DBgjHlOvcAxLqA_vSKr04xdZzCOnWEulH7DwjhfQAoani8fjas8pBqOYWuJ7evtBglGCS5BMDN21z1WQThw6EtnyYXmiws_7XDwlCI5h3CUD8BBFr_EwrDyZ5hZytNhT4o_cSg6QgD4LleZAge36MxFN5b3HFaqdu78r9P6P3hobcUfMhscOyUThKyQp2Foxc0Zg8YjNZwy5_W_OC4af2XNG1eC_i_VDOL5ghgcWyDyo2GY8laIGsRk2aJb9vv7qsVp2DOfI61zVGqpffsaeObKVezjmxwWtkXidR-OgsIMpogkHDvp33wo5w_rP_gP8yuoATTjlJV-PNpTOC-_BdpFmlhy1pUDESvNuELy8mKBhQe38JA9tU1gr4m9_5hxXbv9Kg-poh9jQNxLqFvAHQvTs9_5CE44cl75p-8Sh7GTPfkIc0aOp9c3haVw6VG9mpcPrzUa0oCdpc9Trcd1DaHYYHneZudVCeqHyfquLsvBlAEQq7TTk12y4-HMr0rcdPeSJ60R6lAqhxKOYyGo2tZ7lfjLCjsU9P8HsfmwHS8OtWwISTr8OllfWHjlqHNec6OHpVisM0LjJ4Qt1Trq8e1943ct8PPS0DF2FinEF58kpIeXcX604MW1ibIGOVERzDleVPvEP4pQ07aXt6mXKI1t1FLN0YBiIOCgzBzz2AbKO_OsIX0Xo.%26ch%3DAQEAEAABABRZjFlGvU9817JXQqLRzn8l48G5nRzxuI8.%26v%3D3%26pg%3DEUY3MAJR5ZCUJJYH36WMW5CAL4
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+05+2025+07%3A36%3A21+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4519209c-fa1e-4f93-af06-60d511a8598f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B06&AwaitingReconsent=false

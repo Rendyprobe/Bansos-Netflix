@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Naelle
+– Email: bnjver2017@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: janvier 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 5907
+– Phone: +33617123098
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bnjver2017
+– User GUID: HJIGFQL72FGHNFSM3ZS4PXZFYY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805376216	nfvdid	BQFmAAEBEOS5JGwr81KaTqbeeLCDKzZgNy4wbvQZJlLyAwcFPP3R3ofp0gkcR7VQX77Aapb0FbOo88LPfScwpYtCL04adRhHdfjQjAXlXzhTNqvw6UOm5Nj6HgN3Mh6NrqMjWAsV65IhfueW3iCBkRYzh7GzsyTs
+.netflix.com	TRUE	/	TRUE	1808491763	NetflixId	ct%3DBgjHlOvcAxLMAzLna0dY7tQywFmESBM4ySMrRag8BqK9eMqeSUGAXLsBZ3UYFLc0goFHqLJKDiSRzgNtqzE9ppCn_F771gbGQVDb-MNX9EojGJSvEc58l7ifheNtBauzdcJyjgu8vUDs2RazfCzvvcmEiswBRgg7rTw8ze051k61e5oA6QH1Fgq8D_aPyyznPtToikTqY5KxXDP9hsOtj5RH-1dgnyayESg65E2xMAajC2FrN7aAz4GdfBBmaQl2IYByWTuPnksRZ8Hh0M-O9WiGuzCPPWqQyWKDLQe7eOwAqDcF5Jr1fdeRAtLoxGaydrVUIw9SoLqV4dRr0ZdUgBYlXhhDVcgTWmhzm_Dh90T6bm0xHwSj8h-jHaZ1AK2-vzaSaIj1luzqPxHKhxuUpiLVEyc82Yur3CQqOuhG0jSeTspkaClWBir0fLv1ELIwjxtdbH03l71EAL12eTddPeAqO2JN2aDqU9VcWzmAFejc8FFagl3hTIx8JZyDBidnTqLeqMF4NMzlo-DSHffKusXBKR5QcckvYWj4KaVXe_fAznft3f8i95pmFHCXf7EVWDMYIY2scdq040zpPuXGlDS3hxAq0YvLcuoG-Ss6CTF6gmTmIU8YBiIOCgxQHY6y6WZnEvSkY0Q.%26ch%3DAQEAEAABABS5DNCY2OKx3ey9-4XN9djbL_ZTfxIdHjQ.%26v%3D3%26pg%3DHJIGFQL72FGHNFSM3ZS4PXZFYY
+.netflix.com	TRUE	/	FALSE	1808491819	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+16%3A50%3A19+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=071307e8-2466-4914-ad0d-41db5d84e3b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1773840098666&geolocation=FR%3BGES&AwaitingReconsent=false&prevHadToken=0

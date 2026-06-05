@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Miguel
+– Email: andredyonisus@gmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: outubro de 2022
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 8290
+– Phone: +351932261719
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Miguel
+– User GUID: XDHRF4QLBVC4PDG2JUBUVEEW6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805481602	nfvdid	BQFmAAEBEOhKasK6ftSesbM29FdfL_NgtF1PIkgvR3ljMOVuu_oAj5PZasrmk33yVXX93bhTZW8lUb5pr8Rn4bwbWXTUtHBPUAoL1xQXsqAR4NOYetWFM7oeV-kEuhx2O3_WQYBy1xq7Yg5EevG3caW4nkyS4Kkk
+.netflix.com	TRUE	/	TRUE	1808913897	NetflixId	ct%3DBgjHlOvcAxKJBHhPrA-HUlbHiTaRXq2aqVmb4D65nP5izDo2aIdujtt-gE_SBgy_2VYG_u0_sgXh3AZderMEF-VSELD7OplT9RdCIJkCusipfp2oYgtFlazsMLCrqNRNgkaypUoIGGoGdcJQMcof8GlQN7wLe17YLwKCEh_SSHnSJ-qH-MDqQRR7pA1hVOrJyUbRBTQisLLbG4CQXmQ-bQEOA7yy-uhmdszjIfqe_jiIbF4Hb_eBgmkWHyn9BeOx8L5YOaCN4zPJY6oQjXNbFU_sBWmJOjGJsgpJE7iM1pJ3_L3V4pXrHdSvbVUGAkhqWjqEckWpL_bVwr_R706-5aZtMVEXzNj052l3KcYiLI6n2ksmidkI5KNCCK9MQXQbg51mCk25yA_7mJPbUOItORiW4Gwncf1nfRa04yfBtL6M4Y7jfjwHwsCMhGaos3KYW9c7nJriztOR886m4Od8oOHlAK0c9MZSv6AW2NCyCLTmvVFAVn3vkWlQ2VynE3z4ZgYxiGi30-CBaLEkSVFigNSVrfOMgBSGz9KFYao6AqezSsFgAG5jcDMg5c0rPEKDaz_8Y7lydIl93w5RbdtY4VPJ-b3pG80Htjk6KPIOs1_pwSk-09sVUapc1Lz3eBOOb-20iG2G7WswsstIvz9mOpjOslJO5vorND1BO5Y__6TaYs181yeM2RxAw1GSlGV4jnuHGAYiDgoMJETxvGKzULXVHgWo%26ch%3DAQEAEAABABThMlfT8cwqLogOEVX7LJPitnWll1w0A4Y.%26v%3D3%26pg%3DXDHRF4QLBVC4PDG2JUBUVEEW6Q
+.netflix.com	TRUE	/	TRUE	1808913897	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQu752XC15Qizm_37yuPdWXjwn0pyey3fM.%26dt%3D1777377898308
+.netflix.com	TRUE	/	FALSE	1808942739	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+21%3A05%3A39+GMT%2B0100+(Hor%C3%A1rio+de+Ver%C3%A3o+da+Europa+Ocidental)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=66014c14-a6ec-425f-a891-62a6c164671e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PT%3B13&AwaitingReconsent=false&crTime=1773954906532&prevHadToken=0&isDntEnabled=0

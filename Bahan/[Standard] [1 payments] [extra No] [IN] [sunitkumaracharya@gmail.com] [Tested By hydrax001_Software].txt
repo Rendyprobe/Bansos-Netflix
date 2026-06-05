@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sunitkumaracharya
+– Email: sunitkumaracharya@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: January 2026
+– Next Billing: 2026-06-15
+– Payment: UPI
+– Card: N/A
+– Phone: +917978510725
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sunitkumaracharya
+– User GUID: 2EWAMCBO2FD4FCTULDYCRMLWNU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803791219	nfvdid	BQFmAAEBENhzDktTC-teo3ycISpshKNgxs-wN3FXu2qez7xbRJGLt6O4US0xTJWR16asVs9Td5zPz8MTtcJsfT53iHgr3OQdKxnvYTsw8lLfZBPadn8cIkkGyxwJmkfyoru6OedzBdzNJ_GfKfO_IBRzO8beC2ZJ
+.netflix.com	TRUE	/	TRUE	1805603606	NetflixId	ct%3DBgjHlOvcAxKUBJEQ49_zT3l6MERPeYzc4iR66kkPpBkmzJDrnVeu_VZZwi91O1pbaLJOAnRBg4P9dS9Zo0Mu8UjowffUfqBVWX3mDzSK3EDImEKaarSyUCpYH_f-NEpycr0CjJr4cFacjdrIlggN13Ll9xlHhkfwwREWuFqrWhdLUzy9zmH1fU35dFka2ujmnBTDpeZnC1fKqhfzECavAVbMnpSaQFv-uAB_uLLp2iVAUy6pHrvOIa2Jh5neqGYO0yDexyFgRlZFBrp0XoMW579gOMnWH7EcZtp39hq9oCdPLj2iof_o5Qe1CTf4euNFRMn1FXlAgFh9VbofQ7dcZGu1bKJbd9FQDkTMqGkL2SGH5DHFty4mwNTbGgN0bZK2VyAx3GrcyrXhdq3yv7P89CvATcF95NYUoxaoK5bQ9GCH0cS_-2HpUnXWvKgEMIzQ2LEM5VbSTPtLkeaQsRZsUQOrM-Qlqtr8MdRQtjduSZx2U57GCnGxPYX4XGtzAUd31gS3ElwinZjsY4mXaCGaG7iNTzldv89wroXhq3T0Mj8f2UdJO_81-ZdbHgXG2mZkG9il1S_c6NrnvmFp9dhWMCXH9j-CSa2Jg49o8XKqQjvHU3EiMcf_e6LnmV9IXj1CKRNf2_v1nuVag9fNmNX1JAIQSzrmz5vh5HW872rdEtPS8QNmmi839xLUi9e9l9dq6zkRQklSK35svxLmquUYBiIOCgwNCuHbeGkJg-lHHkI.%26ch%3DAQEAEAABABSTLiYXippoGGyJjHso1UnQvLxIwk3T-ic.%26v%3D3%26pg%3D2EWAMCBO2FD4FCTULDYCRMLWNU
+.netflix.com	TRUE	/	FALSE	1805622145	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+15%3A12%3A25+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b29a1252-c093-48fc-a1c7-17ba805bc0d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772010631598&AwaitingReconsent=false

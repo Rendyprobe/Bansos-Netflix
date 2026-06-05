@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: carloti
+– Email: claraminguillon@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0512
+– Phone: +34625624485
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clara Minguillon
+– User GUID: I6KE55YISFAEHEF6F6IIMXNLDA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801152240	NetflixId	ct%3DBgjHlOvcAxKUAygQacM31ehO-YGxg4jm7OqVPLPP7JlXsey1QCoW-0-3v6aEFVeIZbBxsW8nqNT_Kd7pya8ZXMeumcKXAqypMADpR18JNNYxcep2wX-QSxyVTmvJji1ngsIz7oKQu3_ndD-1kLjFmzMnmcTb_f44UqUZlu24Oz8m6gEZV7sxuSGOFF8dcWwtxI6sjG3DCZTks2lpOc6kn8rWW5QYN5PnlA2cR5l5yjVgKHYRL3I1W8GqS0rqnZ6w73LzeqqXyTL1jDZ8Vl2xaBzsD_biAv6TTz6urhs0FSq3WWx_9d62U9JshadumW1I9UfoleEG0He2W_e-ynz2Xkb-oVZW0Sl1amzi8mAIWPU-mXI4xi0FD2OTVchHmaNQb3u3UeBoq_FDZ9TkWs93wpo9vzHRDItH0wg_b_CmxBlYqnZSoItY6vCkCIsAXBrvjOSB3htZaYeXBJwm9t1RWQmf3t73B_sXLzpF8L9CUe5D65eV3Up5Uje8vUeszHz0YAY5TsyoO1DNtO7LmoqGhuWwXtjgf_EkMKaMJTTgGAYiDgoML-SWBF30pGNZfBZU%26ch%3DAQEAEAABABRclwAsY1PRjD-9kdwHO1NSJSx6YkThTSk.%26v%3D3%26pg%3DI6KE55YISFAEHEF6F6IIMXNLDA
+.netflix.com	TRUE	/	FALSE	1801152245	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+28+2026+17%3A04%3A05+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1202e31c-206b-4be8-9fb2-b1111101bcbf&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCT&AwaitingReconsent=false&crTime=1769616245315
+.netflix.com	TRUE	/	FALSE	1801152240	nfvdid	BQFmAAEBEA_PVUFAamoU2LbEOyZRk3BgBbMISBzAmW0lHqlwnCmTEWGz81zZdniAOtSgQV-_zsCsU8DqBk5RaxWbLjuocAl-9tHItaf6v7PBIeQ_w3y5Y8mHzX_bDEdtVhtVkf3ic-3LK004J5RUULbcbitXAtUj

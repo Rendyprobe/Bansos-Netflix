@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Akash
+– Name: Akku
 – Email: wil40982164@gmail.com
 – Country: KR
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Akash
+– Profiles: Akku
 – User GUID: 52WLNE42SVDFVCH5POVPIXSDTM
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAagbUGTXa+ZjcOBScHxYLwPkv+WK0yWHYR7kL9vw7AifSCGOfTUrd1+sRLCElNK804cvGsSJTLGnvYQpd48gRulJy/8m20yZkKNcQKFOmei5zfOtT1+51bq7FYOqSSKRzdh19Ryy1kkz9y9Q9chjs4AUqBCiKeJcE/9rU9Hhlxp1HuBul+zUWpSPZNJS8SV0R0OhDMvD9lLiDGHMHce108EFV9s6fr94GxM7se3SXptcmn4HRwa1hySwJftYL+MHIhTAGAYiDgoMt/FKn1jIqa0XELSd
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAagbUGTXa+ZjcOBScHxYLwPkv+WK0yWHYR7kL9vw7AifSCGOfTUrd1+sRLCElNK804cvGsSJTLGnvYQpd48gRulJy/8m20yZkKNcQKFOmei5zfOtT1+51bq7FYOqSSKRzdh19Ryy1kkz9y9Q9chjs4AUqBCiKeJcE/9rU9Hhlxp1HuBul+zUWpSPZNJS8SV0R0OhDMvD9lLiDGHMHce108EFV9s6fr94GxM7se3SXptcmn4HRwa1hySwJftYL+MHIhTAGAYiDgoMt/FKn1jIqa0XELSd
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAagbUGTXa+ZjcOBScHxYLwPkv+WK0yWHYR7kL9vw7AifSCGOfTUrd1+sRLCElNK804cvGsSJTLGnvYQpd48gRulJy/8m20yZkKNcQKFOmei5zfOtT1+51bq7FYOqSSKRzdh19Ryy1kkz9y9Q9chjs4AUqBCiKeJcE/9rU9Hhlxp1HuBul+zUWpSPZNJS8SV0R0OhDMvD9lLiDGHMHce108EFV9s6fr94GxM7se3SXptcmn4HRwa1hySwJftYL+MHIhTAGAYiDgoMt/FKn1jIqa0XELSd
-– Token Expiry: 2026-06-04 09:01:54
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1791733360	nfvdid	BQFmAAEBEDyN4UxbzyMm1ff_ubs-JJZgL6qaSGtw0VfINjO_qRcJBwPA3-pPJxv1hE9FikHBaL-u-wsZbG_ix9CLJuC1EHj2-KZxv1zdguaUqryuDBrnNyrHQDSBFe1p9wdW0BnoyOkHSAXWxHLwnCQWmJGcpaGn

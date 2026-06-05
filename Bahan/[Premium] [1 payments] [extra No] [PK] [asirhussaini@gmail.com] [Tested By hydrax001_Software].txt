@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Haris Jiwani
+– Email: asirhussaini@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: June 2023
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 5736
+– Phone: +923012391885
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Asir.M
+– User GUID: XUHMJPXUFBCRJCY5UBSTDPZZSI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799150855	nfvdid	BQFmAAEBENrpVn8UKTeNfRwQ4BZToLNgDN16RHRNl7LVa1cz9dKswjsx85Bpqmw0UhxkNT0lqk6L1nULJ2bgzFaJiIC-NkmeR_Frh5bvRPkIJ3yhqlBjJmbChfOijxASbYyh6OR8rtmQVLl8xmx0MTNz0baTn40V
+.netflix.com	TRUE	/	FALSE	1799150857	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+17%3A07%3A37+GMT%2B0500+(Pakistan+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9e7e81c-e5bb-4b77-bdf8-a09b3d5082a7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802168828	NetflixId	ct%3DBgjHlOvcAxLtA_iOByRnok3tindWQUaC6W-bILfM4565AknImQkKoiKnd1H-GhRb1ifVBvQhFMQM-dYk0kEb9jjYzvF5Ya41y2-1Zd9eJ6Tlqw9aRenO00TlBLAV_PtAAyobqkYeCUw2_sbp1WfASxxQZ8Vma7QQ01qny1ZCFDqIhNwXJEG8luL9Ijlos1OD_TiBiStBpEoCklND5UjlgBgekSTaNvIFjtBMEc0YbytnZ9wn7gEx7XjAfTVJfDWSTSK2pF3JrFrgFxlaMSDDRyQrE04384pAnBzcpEzEtlFSWYf4pi1EYd3maWtuLPnlA_DKXj-Qg6a2Iz_9fQen0-LDkTzfgFoFw6x1mhMcwjx4IIpVY6FS79lEU0pKQiiXsYyaWGAwUw27DdHeNBcSkFp2emQQiO6Uh5sdNYdEmbxp4OERFrB0rVw2rt3vdgsXlGvtH4Ulx6Up48sf17m60qkc0P7ljqGChwRGYzELvfCJCXfOotZbN-IhE7zcPaCYVKAC43DOzCilWpUxlzG72ftRBcRokGQ-hirfaubYek2uNj-9zGdfL4ujKCf7L5mDNVWEZu94mk-o-H5vg9KDhBO546rQ41gZ2iSNohj5prQT2fLy3ohgyQMbnJ3dRNgrp4ZouX1BvMtC5nwlBPDOEJnCzngtLGcYBiIOCgz4Na8QodQTzZ8IVeo.%26ch%3DAQEAEAABABR9TKF4RAQSpIJlKWiqOgB3kQbCZpf1nmI.%26v%3D3%26pg%3DXUHMJPXUFBCRJCY5UBSTDPZZSI

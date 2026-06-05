@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JHESSON
+– Email: jhesson_corpuz@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: July 2015
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 2857
+– Phone: +18087798271
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: JHESSON
+– User GUID: Q2VL4KXQ5JCIDP45RMGJNVDMSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796600645	nfvdid	BQFmAAEBEEoLC_6QyxTaubLmq1_bKN9gzPdGgfYcKf4P1E0SYAYhquU0YwWV93CybLLgy53BAoE9RxGVMOxRR6ulMmKzZLYzVCkdDYi4gRzEvSuJ20KwBWkTCUGiI_3sZOadvs0YPyjSVgSTyjk3z8ATn6_ESdLz
+.netflix.com	TRUE	/	TRUE	1798228291	NetflixId	ct%3DBgjHlOvcAxKTA5WYon3y_vAuQxRR6iK0-EP5AB49TcQM88QSaVi_f5GsP5-Xn4HcJzc0JzCt8y4esTxMLEOhkTb1QgIgjDnkojFO2yBulMYa2uTmkT443h84CMVLRF_ekbja5PSBHnh0d82J1q5MyDX2iJOdUKMmGS49sFuwWaVZ07DmqYTX1_DzIRDlUAPq4O8QIFUM3Y7QtXd8NUj_snle2wHXaX7DUXQGDDqbCxcaYyZTBSyEKBHVwzqxOVpjY-DLkp84yr_WaV0vQYtr_6q7JBVOFoo5JOhRuzGD8sMst2caHyqUBQDDR1rzddtV4S87mJAGmh5kYNoP-BldIxGm4iqDk-VXsXHssbJwjV4lvIAucmADY4-jCd8_bvoBinCri3rLQAM1E9Hgb5Ac4WHxWq6q8dnNfSNqiiDDt0VcF_fLvFgSBt9UUjEHEn60EAJH-1y1fT3wp7R2Vr3-aDgRmicgx0qdKIrvAfOIp0aPILcwj3eL2qOzTUdaYIn5v9e5CHD_jia_DvrbypmlGTlhCcQ3RFNy6PuubYAYBiIOCgwAYDuD7irs1pqUc-8.%26ch%3DAQEAEAABABTwBpo1wZrMClx7dMkVhslRIkm0qOtE1vA.%26v%3D3%26pg%3DQ2VL4KXQ5JCIDP45RMGJNVDMSU

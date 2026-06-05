@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MIMI 2
+– Email: maliej41@gmail.com
+– Country: CI
+– Plan: Standard
+– Member Since: août 2025
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 3609
+– Phone: +2250507602078
+– Quality: HD
+– Streams: 2
+– Price: 7,99 $US
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hariel
+– User GUID: UBTCGFCNWVAONNHKYRP47UKMRY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806150818	nfvdid	BQFmAAEBEG8nXNZeAmRd47VyJMz1tpJgoUA221xPmm-VzmVZtv5Ug6VSOk4LaQn2QAL8NVS-NUA-Yfa2uaSAlBzooeERx2n2rKwXaXbTkSLWPFTQ_iJlHSCSD5vRn1ZJxsVH6LWFuxlfeFeoaY8IbG8sxRfNVXfk
+.netflix.com	TRUE	/	TRUE	1806150823	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAwiKgQTuhsWPAqweyvZV9cCHo1iMROSVu89EJMjTPSpzyscDROIzqFRaBrrUfEOsUUHqOAUDcsGS0uOsH7PG5ncC-RgRLxnnmvyYtYhlOoQOc8EaiLBQTiX_aq32W4u7eaVX-Ciy-M8G4avg1AabmXUo2yBiydmnVVQ3-iX_N-MaxthQGhu_BTfdFJcuiPmX2NZXPKSGWy8TBcSTGk_L9rXf2x-zepnE_GfT6aM8irvTHt8MUdI-kVVKtrkrDFBeT0RPq3gDS30muDuLn0v1GUcVgPnvx_hOTAEf8VeHriNq9glf0aGwylun0Xm9zo2fZEJWGLj5ldDsoGuhDYAfUPPk6CYNeC_i85quyOOA0B9R9K_3khScF-svKxvrXc2sdFXqlUgO2-SNQkiHXlnwUOH5Z58gB15MCaNYUmeLtxvVpB8bKhen0G2-gKPB7nrNyOwrMwGK_jNdE_QyTR_wo49dBSUORmtvKDKVuE5PVkiGRQs_b0VU8m9nwDbA18D7U59ecvZUrttUkN99GDilH7Klh2pBORgGIg4KDJKBoAbINwFTQ6sx4w..%26pg%3DUBTCGFCNWVAONNHKYRP47UKMRY%26ch%3DAQEAEAABABQR-zZkcx-rcUwhu5vCYDiq82dF8NSYLlE.
+.netflix.com	TRUE	/	FALSE	1806151179	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+12%3A39%3A39+GMT%2B0000+(temps+universel+coordonn%C3%A9)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c7990f1-6d87-4d3a-a405-6c4526359ce9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1774614880203&geolocation=FR%3BIDF

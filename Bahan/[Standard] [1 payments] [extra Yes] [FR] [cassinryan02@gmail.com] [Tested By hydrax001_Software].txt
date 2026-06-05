@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cassin
+– Email: cassinryan02@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mai 2025
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 3459
+– Phone: +590690495915
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cassin
+– User GUID: AEKUTZ4XFFGHXFPIAIDRARGYNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782554353	nfvdid	BQFmAAEBEBgkYvHl_sBsp4BLaCsQCMtg7YwI9XjCqzbiijnpNDkaEDkolCvQoa6atLdVAZDuuRzSP4rCqTFIVlAMDwq8ZYIczaKwK3h-lizRkKq-cF1bj10gd1tOBxii9VsOJMIPunDa_8-oDgyl_44CY-ETS9Y0
+.netflix.com	TRUE	/	TRUE	1803334858	NetflixId	ct%3DBgjHlOvcAxL0A6ah5Ao2nMokV_K_jtpp7gNfdOCkkcch8hrRfItJe5pZLqI9dFDDviIGdKr_9JZDVHRTPppariUtXnMu6qKbgUIp8VQDSTc0O_GWp84wppAEbxi_tHfucp8c3bAxMSPO_e8LyQEBowP4v8APMdymeKiPpuu6VgH9Dw9dojjZ26vrtDTHLMxJhEMvfGUWoGEzReBo84_yfpoBLNLMx7IzEo7qFaFOoXlBBha3qxdrER0d8q7bTQ2zS_etVdpNb0waizYGMOkMNeu5GkQmmC78lfGamuPbTy_Sa3kHNf19coJP7FIAXzPeVXxNMzth39tjvHFX4Qq2dmX7yLa6RseF5o9YkVsT9bZWmfxvo7w-ErTTPMiGzeEVT-I3mlZjfj5Bbr-zTZBN1hv-4AiJp3NPQmTxqtRDVWxmj0RnQINlcX7u5tMsxJp14RF5ezjsRIgEQb5CWnAa4DmPULyXTUUT0kbA8DEja1_IHhG0HtI2pCdbnSvF8V8L9I4uwkfiBvj3AoNPFvW6rTejzou6SPegxIZT6lsBvSU1YXHWmlVem9GJ6voRBBQLNu8CoZp-IhDnM4Wmfh4dznjb-BiaZxFzXzo7NJLAYZFebhP5zzhhAPNGZ-mR2sCaElO6vQUqxqMu55z_PCPLKGgk7R317R_N25zLmhkFGAYiDgoMmGis4Ei7SKJuEQ1W%26ch%3DAQEAEAABABT8L-PzfHx17FrMB3pKOUNfbkpZ1H2e2LA.%26v%3D3%26pg%3DAEKUTZ4XFFGHXFPIAIDRARGYNA
+.netflix.com	TRUE	/	FALSE	1803334865	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+18%3A21%3A05+GMT-0400+(heure+normale+de+l%E2%80%99Atlantique)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dcbddb15-9338-4613-87a5-2bd1d8dd66c9&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF

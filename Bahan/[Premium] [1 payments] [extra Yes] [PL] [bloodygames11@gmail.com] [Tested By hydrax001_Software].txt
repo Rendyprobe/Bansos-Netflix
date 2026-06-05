@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Darek
+– Email: bloodygames11@gmail.com
+– Country: PL
+– Plan: Premium
+– Member Since: setembro de 2021
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 1164
+– Phone: +48535097717
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nikodem
+– User GUID: 6JDQCG7BCZFLLCZTQMIOJD2PAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803157647	nfvdid	BQFmAAEBEIOgzTzLizMAwS6k21ZWKV5gzsbWWpz3TjsBH7yQghcRXd5_W24BPbwqf0orAdzUI5VN_6CjVLa4-6L8yozjv3iemHfrshouLbiPh4TZ821lBgKqWey2FZrdMh5IAFb5ymXZT__hy89UXwcxWNQHna8P
+.netflix.com	TRUE	/	TRUE	1803238952	NetflixId	ct%3DBgjHlOvcAxKwA24E9s_l_hhxydYC4PzaaWmKlF6HrmhL_XR9qhEjvdMpFLNADWu8bz1AU-ZRo2NCdhJUV1Twb8xqv2KuDzHLm9MWzK7DSFaNDGZCAnwoF9KfxAxV5OHmjfjhz2EUklN81b2qip4OdQhHzkvAODJy4AOrjhDncc53G8pB7Zfm6Q_23AFyj7N_oBToqie6-5HSjmyIot_8TqvjWi5AP8F5x0YwNq0lpixzEQ7_-KbgLoIYcxIeHF-89Ik7D6MsxrZ14NWcc96tFJEmXUbM4hApfc1aZIg6wFAO0p7sLBNHk69auQT8y6ndyy7cPYmxHJqHPRnY_u358HYBSB2mWsC_Gd82v1okwpeA3_MCnGPcdloNyYb-IfPAwWE4lgAtSSdjreQtbCqsLIIPdjcOMMj3I5E1cyB6WCx4SOT2OMvVFBuukb4guDzF81vsE3_mmcEvXpt5UuQ7oFMU2l5JSmL1uNWSuEAQA1dTPvmKcW4zhRRf7M6GhU8uczSPnYxDwupk-_yqLPuN0aMTWnHYlX82Wkq4wrCPEYDfoyR_7uES2z0itvrJdMiykN0FxFH6xvFaIRgGIg4KDJIufdqRWi3Aip5yBg..%26ch%3DAQEAEAABABT1uXz8ReIePLp8BFObwKPImH1CQbdaZ5I.%26v%3D3%26pg%3D6JDQCG7BCZFLLCZTQMIOJD2PAM
+.netflix.com	TRUE	/	FALSE	1803238951	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+20%3A42%3A31+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=02a43266-d96d-4aee-8879-3a5859fccb5e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771621656751&geolocation=PL%3B24&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803238952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyDzTcRTNObsnTBgP7vni5fOUBIaSEUDc.%26dt%3D1771702951903

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mery
+– Email: merymariamti@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 9180
+– Phone: +212655485211
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ayoub
+– User GUID: TNLWGECWHNAENJQA5QIITZ5H5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBECfnuHiK_PuHSdCWRWG3yvNgdhSGmODxv9eLFY9zShHUl60fnTrQKDE8pYWuwavSDGd0pwzRqLm0Yf_zK9D75tf62aFGL9mGkOQ8MWi33JNDjm9CfuSmfm_u-oum7k-bhAOerZrVhy0GcwMOo1gtvKVb
+.netflix.com	TRUE	/	FALSE	1798846577	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+00%3A36%3A17+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f185b420-4a37-42da-b38f-73ddf61e4948&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801415173	NetflixId	ct%3DBgjHlOvcAxLlA6EatiSGpSImsCYNiB-kJY663w_fO0hyDKtHkkD9dRz-Et6VPV7ACfycJwFmfUmpHylKMyk-5W0qPM4ZzDVIVgNaDIKzao_pO5vYHh6Bb_lcVHgp0YMBWVTZ2dN0DZjwMarZC44UvNI8KB-ehY85sFt7uGv1ngSQ4HfU4OsmxL0nQKhmZwF9HmR0ytSQOkiXZv4SqMvLhfd9iH-YJaq3s8MsBbjL5oKdbl6XZvaOZMHlV6dhR4sB8ulmmiTJQZU3pBmp0DuoElPKQeSasca73J9xW7XBGUgca7Z5sstXf5DcV3g_NjhDZPUP7oVx-M6TiGpVkehB7FhQouW3XGNoWsv51uqt-Y_m4obDrI0-tztarpp2R2gC0SEqOubBCnji7uWOwfJxDm4_g8qXbnrWLvXfkJDJ-RQZ7spK-jmphdgJlJZVB5cbwJAG_Nc5S8PdpCSuKdfy4FIQhbWh8saR-lrmoBvJKch4bWdWjAmAfZUR8CNFNCGnj0Spo8RO5dvHmekpyBSREPIuYDs7plci0VFS-e6KEVaPf3t-k1yT2nJGrkMxjr4UhyFdSdUEv8BBTh-pIrHQaj2xANTBCeYjYnLVsmAA_czJB-xuo_AxcMdI4Zz6mIfK7gpUpfFIfwLiAqYdkPFtGAYiDgoMjAFCaMeX6YND6XHv%26ch%3DAQEAEAABABQ7uG7r-9qSZISFGv0pLsxycAXQiNlTAMw.%26v%3D3%26pg%3DTNLWGECWHNAENJQA5QIITZ5H5Y
+.netflix.com	TRUE	/	TRUE	1801415173	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4DfKRXRRba3Jfgn3fO5bEjO_glnz_QBk.%26dt%3D1769879172268

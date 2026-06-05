@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lena
+– Email: leniscudnoch@gmail.com
+– Country: NO
+– Plan: Standard
+– Member Since: mai 2022
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7255
+– Phone: +4740566616
+– Quality: HD
+– Streams: 2
+– Price: 129 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lena
+– User GUID: K4MWY7HCZRAWHJVINYDC5DI4CU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805541306	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA_nGUpF3bDEh2mSyyPSQI4LHhRTLe9gkc_tAbUZsCK6SKHR3RAWs5j5qcDrMy42-WlAgk5EZf3L_lTCkCjrUCI5__XcE7CYWrcguS6cy9DknRNwvEDG7KN9rVH2Ycjdp1CAjUbF3eZFZ8W48Q8pJ0tVO1nBpr3_wQKZRDMHYnXXjrjjlHp_csayXZxOZz594pp65DcfOXobYiMSg_976GViShgra8Q0LAfpRBKZ1Xd4jbBKeoDhbp8yJx7ZRRVOZBAWLZQU_-uTItZjymXsLDRFOUNQcu5d99zxucaWhhcDurwmSiXWJRqvOFvyCPtuHeyQ3Yk05xe2ifKyotgCfZEAUPDRJ77Hq952kcN0r22SzeBSqgmVlxMUDB8Vb9krYrAzkTFhxq3_T22r6A4tOHbTlzuqmCSV6Rv-hPnWUOulI9kxjoCm75kpRRlZClMOtJvWHO0YbOJunDMi61M78QlC4T-8-UIdPtkoqf7hyOJFgcG6mWC1FpnBqBxld2BQfp0F5D67vxs6Ez1QGtj3i7HQ7ZBW_9XipYHrhcEHpdnMITPk3GAYiDgoMCYQqhNa6yeIZSxCb%26pg%3DK4MWY7HCZRAWHJVINYDC5DI4CU%26ch%3DAQEAEAABABQ-UxaZHtroxBYhuDmP7b92Pj0nRXwXajg.
+.netflix.com	TRUE	/	FALSE	1805541306	nfvdid	BQFmAAEBEEXo2IlkEXnz6a0rB1Szj0tg--QJkYgH-kdamggMVP3JJ6YPs3wGn-ZAchYwTbYdFSRrctmXJjfE3rSbDed9pKCnyzhFZIqxxRHc-fTYv9a1UVfH62h0PylsJGbltHsVibL4tsWHP5Cu_8VVztDk3T5H
+.netflix.com	TRUE	/	FALSE	1805541583	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+12%3A19%3A43+GMT%2B0100+(sentraleuropeisk+normaltid)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7c2c0809-a2f0-4b95-a775-434a024461ca&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774005238746&geolocation=NO%3B03&AwaitingReconsent=false

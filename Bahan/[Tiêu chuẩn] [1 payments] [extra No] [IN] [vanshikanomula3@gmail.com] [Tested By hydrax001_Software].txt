@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vanshika
+– Email: vanshikanomula3@gmail.com
+– Country: IN
+– Plan: Tiêu chuẩn
+– Member Since: tháng 6 năm 2024
+– Next Billing: 2026-06-11
+– Payment: UPI
+– Card: N/A
+– Phone: +917997062553
+– Quality: HD
+– Streams: 2
+– Price: 499 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vanshika
+– User GUID: NY2SFV4XEJHHZJL2SICUTHJVWM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791291179	nfvdid	BQFmAAEBEPmnhUZurt_cLw3MBFEiAe1grip2ZFRVFIBZC5WUOxsrAjuHxOqixgmD00oY_vsaRY6xBJhQezgx2b47fAXpXcf0MVyz2oZ1bbX4hnKcBJLRtiouEvID1nYvz_WAcYN1BtErl_SOJHEBzI1c6Cx3sc7e
+.netflix.com	TRUE	/	TRUE	1808972410	NetflixId	ct%3DBgjHlOvcAxKEBDtcd2RvjE7iP86CI9X6m8MBJKX-sVGaD-yUBFfgo39KcdyA6r_YFYcShc3qaSRQJIJQai2d3KZKUq3UepTyOvKyl2p94TMze9ZBbR50LRcfw5NRdB9ZN0OiEFei4Ku-X1KX6lP8ZWDBAIcKmokmXZ0M2_8t9KWD77SNgKnsntiBu4eg9jQtz3SiYAbtUW4CIhbj8CzxgwVEpj6dWOTBDNTt0Y84IvrZ3kSLrmurn3o7HmJEGfCJ17q-Hdcs5YNKYGZTRZDrEEnK_E3Xhyi8byGPQ8OM4oxTec5cuTpmTRfbetPRiJ4Lc2AuV8pgF9unB5DHVJS9K06I__cEyq7okJxu7NdQ5mNIOETzJar1Cwu_JDmQCyZy2xU52OKusQUrTdFRFBLob4_SE9rQfFnxPyDkmGOKfX-0tbiWeMc9bcvbz6S1RXkme3-I2__VlQvNDBSjGmmgzOCrpqlXl4Y3eEpnhoZYVDpb4-h-DDYsdxyiU4PvftsJpSHE9d0Ey_YncJjeYVo6Nd8YiIft5kM8TtRx27CmgErKsB6pCIvDCl2CSFZ5NKBZpSJfCYJOtjnd9M06ZflVhHkiHdoNI0I-pjwA4TWS2eXNpnyGRifBmICGybLa4YSCnO-7GhIrc6sPQfqja35i0pJxNKpv3r8k3DPGucKtFmikOEXb6R8k7-ApTPvZTRgGIg4KDFIyZFq0CztgAZU56A..%26ch%3DAQEAEAABABSBQ4KbMfC1Ibr87E2zAHDh6NEA13gMftw.%26v%3D3%26pg%3DNY2SFV4XEJHHZJL2SICUTHJVWM
+.netflix.com	TRUE	/	FALSE	1808993070	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+15%3A34%3A30+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68676f39-0c96-49f7-9864-20112ea99c3d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IN%3BTS&prevHadToken=0&isDntEnabled=0

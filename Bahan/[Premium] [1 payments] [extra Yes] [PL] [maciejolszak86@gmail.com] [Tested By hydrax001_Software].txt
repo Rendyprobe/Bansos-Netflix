@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gość
+– Email: maciejolszak86@gmail.com
+– Country: PL
+– Plan: Premium
+– Member Since: mai 2026
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 3135
+– Phone: +48728404804
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maciej
+– User GUID: ZXSFBDGRLRHQRLDG42DXKVSVUU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808924150	NetflixId	ct%3DBgjHlOvcAxKCBEKv5-uUF7hq42aXUFY0P0GewKay5kxSARNQZuFiZhhz_LwIoQjvn7zb3jTll67bgrdUcsPV8lUGmApUm1FV0wiwULSNXPbtU1XptBL4Gsb_6Z7Zmqz_DDvBKnG2DOr3O1K-eyMkhA0m_4NUO7oN8bRQstOtAYNU6K7SRr5g_eeV8XQNz6wVT9CyUZfEnz29ImFBHZonqVfMMUjE5Mh-4Y1YLH7tyujix6Uc-voWaBuMEWjQhlwr1MjTbSaIkXmGUsgtUktA0XFgGisV6r2oWCxehqPRiF8TvKBENInCcULGc5vmXmlF71ZJl9tZOMJT-88UlPT1Z2lcEMVKjML0Utpb9cFWgjb3zRcw4OPGs222QzJXZJvGG5D-ZlGaiaUoon0dIvcCQQ7OaolcHwQZPc93qffgkerBISyss5YExpfZLSnk94GjVJfCHYhgil7ZLDjUKObdaRY5FP_GkD6iHVQnPlxl3FCL8lsNnXDYfT--ctjj3RS3LPuuwKQ4YEgnu_nv6CpXTCHJ1KS7sDzw-VgwmAeMZ5Emf9uvRrZ8aAN4p7RcikPgVyCo1CeLp9BI-tJHeby-O5oi6naS9FEQxK3VSOpxL6FaKhbf-fBTUtqgfDMi9yVS-albVqmd4d1CPdJp32YGMjwWWlPWr4pYxkZE1CST4D5uToNIMbR9ErvW3j4YBiIOCgzisB3mhU1GMO2HH_s.%26ch%3DAQEAEAABABRMWyFRo0c2M2BB3jOBzth2-_5VWtfA7r0.%26v%3D3%26pg%3DZXSFBDGRLRHQRLDG42DXKVSVUU
+.netflix.com	TRUE	/	FALSE	1808924156	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+16%3A55%3A56+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6dc24426-f074-4ac7-9e6f-bdd3a9639ca9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772634409909&geolocation=PL%3B14&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1804170400	nfvdid	BQFmAAEBEKpt-oyb5ZmyHgjKKvvZ8rpghxTmHmV6pGHF14Syw9Jq1SwY8TtziWiJDHLl7f-BXJfBcH8s7Jy1C4KvDQPFmFwqL_JfwQBsBHnSEpFy8XVxUy8Bv850faR3gTulBHoXUk2591gsKunimk4lrD8fAyRr

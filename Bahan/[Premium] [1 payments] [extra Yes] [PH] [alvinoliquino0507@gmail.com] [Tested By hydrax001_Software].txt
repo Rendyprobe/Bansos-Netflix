@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MC
+– Email: alvinoliquino0507@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: January 2025
+– Next Billing: 2026-06-06
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639503459262
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bluew
+– User GUID: 55G4IBSXAZA63OPTOIFK4R7NIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799925113	nfvdid	BQFmAAEBEHtqJafuomU8qSKOU82kfZxgV5heuCTJj9cuJ3QWj0NYzC2RHXGKiBeWtvBi3f9fkxoF_hNZQ3jc11DF52GB8mgoTu_lCDZWwTxxo9yTo82Yph20VvM7pxZkJSFK4QadKqppnmyXRYrZ6leHrmZbnoQ2
+.netflix.com	TRUE	/	TRUE	1807615408	NetflixId	ct%3DBgjHlOvcAxKABKHfAVtUwxPQnyn2hXWxfdzqOOLIlqOTapV-5fyfAtfDWD7wPkBtD-BF80BDev8vVE8ZHG6ZHA7SaKeTs234Qcraeq0WnlnDyT5E09NcT4MJtPulWb9Kspp_UHaXd-2PgFX-YUyaUsmanMjvD6mQvUdZzDQnsUISDFF2bkKrb-LWE4lYuJ1XQuJCo8z8_PEUXITAuQcXj2P9EmSJbIlSjiVZGAYJXsHA5-2lbX5xmbcK8fb6drS6kRPGrsPi6gBtd7bn4loCSJZKEeG2Uajox6yRYHXG-UbgSWEVmqxg5KRii55XuAeRhAkbxYQnof4nRejjT-76peSJHHoVSNnpQVLIhjLAgyVnbEvndaw15abd3DSMiGjR3fu3LSVQkTcjQUQJY55NeKUS66du-1aRNkcnvfBN5Eg3vXTe4CUX4dlkvi7ikVM6Dox040nJvi_N0a9dmrUTVv5_j9vYxo9H9SQD0NomZoLUvTym-JGUVNnCQArwlJ0W9K8G7VJvGZ1C_QZbA3ym5dN18hbruJYxUviehMCo11gzfyjhjfxCtiGa1s_bU0OpPTWeDnLSEcAwB0QcR_wz8hUwjjYuXstTpAo5xiNGrx9kFYItLnTt3ZWAc3zKzkOOVP6WlksHKCJCSiYBDbVTaAiD9lKo4hURut9C5ZdGnoogoVWxVDOgSXJrGAYiDgoM38GC0hV0ry0IE4Fk%26ch%3DAQEAEAABABTmKCb2OGwYyhoIkNJA7HO4zTL5h-CkSYg.%26v%3D3%26pg%3D55G4IBSXAZA63OPTOIFK4R7NIQ
+.netflix.com	TRUE	/	FALSE	1807615412	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+19%3A23%3A32+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1365185d-9819-4021-8478-8d030e616ef7&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

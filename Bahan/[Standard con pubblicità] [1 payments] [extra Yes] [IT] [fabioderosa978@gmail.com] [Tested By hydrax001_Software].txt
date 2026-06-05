@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: STEFANO
+– Email: fabioderosa978@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2020
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 7484
+– Phone: +393441223200
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FABIO
+– User GUID: U3EQG7BTUZDGXN67KBAJUSLCI4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804197916	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AnhSzggt-xmxAumhBeke9xe7-oN9vieEK0NVUZHLCLxv3FdhjYdfF5SShCbnWfx1b1FnILodiQ-Zd3v_hql_04SLMHuJPp6rNrO_MoANQthuE4pmzTslZY3SIioJ9x89CQJihjo_85QyspejcnxTouoTIkUwg6YuH_QWV4ZznPVgZ0N4W_CXXl90DAmrhSt99t7STckF9VoKPO0saUWZHA-7gPyQpHvzlvEjKbcg_nlr5VZud2ZVGABi8M2dy46CURA2gAryXBeL64t4_7UcjBZssJQpU_VqJV6rgHvzQW2HwjzcTV1Kj3FvIsZckwjgjCNKYwURTe8xTLEinBh49y3Ct6dF9ts6hXtz1SvD6EJNUDpNyTuuBNJhTny59eYMuhfa9ZOLq7uKxQz-YzT_N154JFl9mpaoZLNAmgbmsnmcKeNkvb_wFOt6pETu5GwI27tb-wroa9PuV6hzywm9LdzWJ6GZnSqUEAZIvFMIvIpCfT-PudF6ryY1ZNZF3K0YBiIOCgzuhNFa5w1wOTL4HFM.%26pg%3DU3EQG7BTUZDGXN67KBAJUSLCI4%26ch%3DAQEAEAABABSkuaMFuLPc0R5NrsRFtAEiDaZ8EZ1jCMA.
+.netflix.com	TRUE	/	FALSE	1804197918	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+23%3A05%3A18+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c79528e3-16e9-4521-ac3d-f7f8e6bb11a7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1772661778168&geolocation=IT%3B72
+.netflix.com	TRUE	/	TRUE	1804197916	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3VOGMrOd-Znh5MXSn08OLKFjpkZk0Lxc.%26dt%3D1772661917644
+.netflix.com	TRUE	/	FALSE	1804197904	nfvdid	BQFmAAEBEPd9ipJUVGv6b_uaJ53Vz5hgQbBznDlYzZ5NSdxcbhJYIP7IUO3X_tUDoHhQhB0hq6WxZmPF1Px4Z1vSdJVUz32olMuQn5W-g80gVOkE2qxeGQp5lwnEYV86novKg3eaG10uijYwpa7O11U-k-Mp_v7U

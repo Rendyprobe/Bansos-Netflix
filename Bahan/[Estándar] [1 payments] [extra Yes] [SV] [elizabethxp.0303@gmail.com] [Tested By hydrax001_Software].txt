@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tita
+– Email: elizabethxp.0303@gmail.com
+– Country: SV
+– Plan: Estándar
+– Member Since: marzo de 2026
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 7226
+– Phone: +50372591882
+– Quality: HD
+– Streams: 2
+– Price: $9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tita
+– User GUID: EDQYG4NGXVAGJNJOJYEBLWHQ5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804629055	nfvdid	BQFmAAEBEA1IlB4PgmHHPYx4HulTgnZgrQE6dqguEI9lUT_KS8S5HqbH0Iq43eg_Hz3Y6Jlj73T5rin3dEOE9Tk0J8NoM_QyWmIVvpxsMB6JSvA72H8AMSJwIXmXXEZ9D_7YIiKLYBqjXoOfRJwCOU1mqxj8PLKz
+.netflix.com	TRUE	/	TRUE	1808747638	NetflixId	ct%3DBgjHlOvcAxKBBPqT9lyUvBlOiCMO6kadNoJgZjzMGSXPYwpNCH2EKZSYNrCHnhTGQdMhCf1dDzV65h-feJa4tCNB7scX0qN8jTWtD0Y5uo4EzNXabV7my3WDkZkZJN3gbYtrjOsGXUWRtc8NpdaZW4DxTMjnEc-Y1580vezYl2iZKSbswsyYzpKfLKutsbLTm9bSYLCkvAhKj1VScw33a5DhJMm_vkqyGc3GNvAw_MXHSTcNgUJSVScXVDdWKczYX0rRsHJOG-8HBXGWY2n-wnz6S_y86_yq1FFEjUAZIRJysktSugBLeaskwG8fRKiN1l6TaDd7sLNolq8G_hYEBz1COYC-IW8lleVb3k0FmtrqjkvDb0HLvVewK_kRIRTL8Li8c6jWSJDekBDRlzJK06kEbEsQG9cn4OY5mofMlvLYITnZkebAhlfO9u3lnjf1J-x8gUdZAX4kfPVQVp6adGanH1rMjiX5AhA-Uw6s31ZDRA5uMfTNpqNeJW_eS6iEn68K31tYXqALyk3hc43dZykOXgzf6kmXVo4PZn1UM8vauI-SqruMJ2od1sxQlHN93CHWEsRDAj9A1EQ-dqwZqCs40lQTQUIVjMZMh2bPOmPQd7dg4gqiphkc-dJYAQjWDFd9jCowgaMaUGTLdKyz0DQTmyD4rZtt32N1dnowrSVzRJzICwvEz3k5JhgGIg4KDN0_tglwzpccFjzdZA..%26ch%3DAQEAEAABABQL1ugMK-5NuqLmsENfGWBE8q2yYMhiI9U.%26v%3D3%26pg%3DEDQYG4NGXVAGJNJOJYEBLWHQ5A
+.netflix.com	TRUE	/	TRUE	1808747638	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLVDXKFL_vdeutw75g_LmDqPyYHCZ-Ccs.%26dt%3D1777211628998
+.netflix.com	TRUE	/	FALSE	1808747717	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+07%3A55%3A17+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0e9b57f-a570-47e1-be05-1d70b9478436&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

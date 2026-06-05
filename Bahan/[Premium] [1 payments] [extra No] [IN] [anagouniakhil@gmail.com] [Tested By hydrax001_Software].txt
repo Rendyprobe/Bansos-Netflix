@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: anagouniakhil
+– Name: Sunny
 – Email: anagouniakhil@gmail.com
 – Country: IN
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: anagouniakhil
+– Profiles: Sunny
 – User GUID: B33WDXLQ6NAEZANRNTQ5MZEZOY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAYJWrgTeLHy/H0Gn0imha5LJUExJa09RiyqMQBpGtOJ1sLTdC25Vg4PIQcDBj+LPJs/jpjtB3FNxFyxs7ch5l0aiPdgnfNxlfU+PXahhcyVNapSD2lMkkZ/C+RiQ7bxRRJS6dcLFrtDeLcU7ng1E0qywCF2W1h7azFDGgzZyVLD4hUgCcW7YLhvMCzfGbucre4YMFKCWnAi0FJNNk6NygQlhnj4nrSrhGp6Mg2q6BEwkUWLuoJHsik6AROMzZKLUvqRiGAYiDgoMY3MPFwvpiKxNDCUe
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYJWrgTeLHy/H0Gn0imha5LJUExJa09RiyqMQBpGtOJ1sLTdC25Vg4PIQcDBj+LPJs/jpjtB3FNxFyxs7ch5l0aiPdgnfNxlfU+PXahhcyVNapSD2lMkkZ/C+RiQ7bxRRJS6dcLFrtDeLcU7ng1E0qywCF2W1h7azFDGgzZyVLD4hUgCcW7YLhvMCzfGbucre4YMFKCWnAi0FJNNk6NygQlhnj4nrSrhGp6Mg2q6BEwkUWLuoJHsik6AROMzZKLUvqRiGAYiDgoMY3MPFwvpiKxNDCUe
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAYJWrgTeLHy/H0Gn0imha5LJUExJa09RiyqMQBpGtOJ1sLTdC25Vg4PIQcDBj+LPJs/jpjtB3FNxFyxs7ch5l0aiPdgnfNxlfU+PXahhcyVNapSD2lMkkZ/C+RiQ7bxRRJS6dcLFrtDeLcU7ng1E0qywCF2W1h7azFDGgzZyVLD4hUgCcW7YLhvMCzfGbucre4YMFKCWnAi0FJNNk6NygQlhnj4nrSrhGp6Mg2q6BEwkUWLuoJHsik6AROMzZKLUvqRiGAYiDgoMY3MPFwvpiKxNDCUe
-– Token Expiry: 2026-06-04 09:18:31
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1810927332	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKqA4zUfESKLouyyOPLBIW-z8OiVn9-aaEh637oSY7Duv76IkRcxyU1QTb19-mTgDp5TjAc8zwNVqoOF4fzWkQAXZMQYL7JTvhj1pb0rVTqWDsFOOczIobAPt-LUKug6ilefsiYypOOe_AmNp1nfmZYhOdVXfE_FSmwh-n-pu7LpfuDLqk8gvVgmHkpRGu7RKKj7GkhjZMuEkhPM8lmICcfwWBCyedJVeoX6wWaBvPPJx7fMEgd94H8kHdhJEvTa2atqHPB_dzdDGKC6i-XCIJXaNxZ9tC8_TdjOjFA-UpujUSskhNeV645k6O2-s9O_i-lRqEJt0sV1pTZclzZeS_iUatW66o2zD_XrXwBq6aR3ncnbyrd33-Wds8J4iG3v8Fe6bheAZd1GgtumEEo-fnbvQ7o2XU-0K_X3_zlY1rvzp5Fd23-vDoopSOH0qAEedQcBecyIwE5jrfPOlP6lTspDQiYq390Wryhux0jbrugkLKvU29qxH5OYf6FLAHmHqekP45jyKkTfZcthm4RQntqwFcJfQDVPapqLt_9NhAaXo29_IKWhJ2qS_BhLRgGIg4KDBFeel-WGOeoPPteVA..%26pg%3DB33WDXLQ6NAEZANRNTQ5MZEZOY%26ch%3DAQEAEAABABR82fVq-46VRKSrWSnIqhOhrX53xN_356c.

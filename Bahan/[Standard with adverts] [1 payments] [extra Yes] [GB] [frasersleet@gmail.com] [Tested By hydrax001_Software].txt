@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fraser
+– Email: frasersleet@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: September 2023
+– Next Billing: N/A
+– Payment: BT_INTPAY_EE_BILLED
+– Card: 1005
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fraser
+– User GUID: 2J5R24TTBNCO3HACVEVPPQQVKY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1782201586	nfvdid	BQFmAAEBECskxuoVz1u-zRHSMD3lcI5gQnCLkp7zUVbRU4ml_jJBhvJc2g21ZtBMc0Mp4WCQIKFuDHE4C2XgT4cYEVht_MsCL_moc87tkyV8mSzjLcUjMt4vgdn_rAFVNnCy0NNaM5pPaJ_Ncr6UhdvcK3vIID7B
+.netflix.com	TRUE	/	TRUE	1782201586	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AkCerMnCvsi5rbKqAysaT0M6OABYNnkoLWAR7sdjVci6JkNTEFj6Dren1VN0wuFffzf9dmIXoJUgIDOR9oB2TiHH5bXTU6I6L9sdqdV8WdlspWgDsaOU7QoHkEbuoKLloPlqZQL22VvmCmZaJVOQE8YvsHy_VDqGfQQM_QJBqCqWlsy2aQfVH7ocHnfthV8ygAdohd6bB4sReN4Z1oWehTUGuy_VJwa07wmr9l0PNV0JzBw6hFv4DP4k7Nk_olhY8EFbFi4KB4j8TQJ49BZsvaQ5304lZ7wBWRQN03Qj2H3W28lmWN0Jnhr_RhpaVohtpX0Ma_IJiY3gf_ltjMsaYpd20HXY0KHNZnCdTxvQyYBiODeyEn7ACvwRTR5QSn265Tpl191m6loNbZF9xmoWQNz58ZB5ygXeMak7RnoIe52VhcUKhXsFRn4pRthCMf8Z9JmytL7shoIBtBvTTGWjV4aueEWv7b0_iaxGmXH-Eu3mAZ-fGL4YBiIOCgwQi-sd4N2FivmznUI.%26pg%3D2J5R24TTBNCO3HACVEVPPQQVKY%26ch%3DAQEAEAABABQl7-LaNQot19Y43L0wNnQPl3JxInpTBuE.

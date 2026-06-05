@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alicia
+– Email: sumu-man@outlook.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: January 2025
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: +12063768723
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aaron Le
+– User GUID: 6AVFQNW2TRGBNK2L2LIGUIIJVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790465451	nfvdid	BQFmAAEBEHMbn4-OMpdwLUSJ2ppqzKhgnVLZNXAd0dt9n7MYdAC6U5ov1bEbK4U_BTeHZaMlTyBjoej-Vb22S02h_O9u6GcRJ1Vu1sBhm9-eZmhnKex6VOVm-lvAKUntl494NCeSEdDNszQo_2ui-WFbzAKxODQb
+.netflix.com	TRUE	/	TRUE	1790719638	NetflixId	ct%3DBgjHlOvcAxKOA_OzoWTWILlLnwM-Ju7rDLWbsk-azk6bD7Y_NsRzwVxLmbkZNe2engoVG2wbdcVeBNE8cce44DArvmQJ232tIAH-Ae9XPhR9GxR6ihdThcdKcBxCvsGCg4Sz7jbmkkyOu0LM2ksc0I6E_vKJYskHkRA8KNjgD-I2LnqIp4ZzzOPAqg1PKM4j2vE36sly3pftPFn3Hr9AKpxBqN3-XrbZ-TQt5ROd3PpafL3NnThfu2otdxe8C8ahdVfOoYACn-DpwiB0Ti8QSvWZTHi2YMp19ixFy1uggHkvQkoWYHJ8IidFg4W0CNvI87nMLE3akF5pEj86YD8AaB7OkcMIWwuu--HUzQ9G0yQvdfXcB6vQVweMDkgEIGas6zkhWA1VI3e7feheLcCb9uMv1nrV3UiPH_2bgwpOKDo3SaTNPB3uZxticdrbWNwbKheRnDmpg4tZVHNgK3zYVvGFGbqdJYBZLVD2PWgbmOs2M4H1NQyi1PwKLgWL9x_ECcD3YI_Q-KcQ-_tAnbtxv3liTlKg5AN_GAYiDgoMc9QClpeQcL3w9RJA%26ch%3DAQEAEAABABR_36nWXFCQYhrlo1kM_FrrQRKG2j9ArLY.%26v%3D3%26pg%3D6AVFQNW2TRGBNK2L2LIGUIIJVU
+.netflix.com	TRUE	/	FALSE	1790719640	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+29+2025+15%3A07%3A20+GMT-0700+(Pacific+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b7254a3-4efb-4490-a571-60d675c300ce&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

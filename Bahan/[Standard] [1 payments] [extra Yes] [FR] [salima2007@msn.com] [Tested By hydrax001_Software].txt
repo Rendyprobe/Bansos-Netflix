@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mouhamed
+– Email: salima2007@msn.com
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2018
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33620305923
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: salima2007@msn.com
+– User GUID: RIUZC7UBK5BHHFM53XITSLJCUY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789235034	nfvdid	BQFmAAEBELmKF2v-u93QIzkxCGj1I3JgvLziUtx2v0CMXEe2P3_8UDVYMHxsl4nV8OaWLeWZTDF5si48H2jIdx6WDaVqv40a0kpYXlsaiJzbND4nnSCqwPWxUnz_KTJEfrkzB4pi6L2vBxnO7r42NMRHvrmXlr6G
+.netflix.com	TRUE	/	TRUE	1803866260	NetflixId	ct%3DBgjHlOvcAxLrA5nIto8azk4KBzsDO6nCwi8hl6FZ2njG2Yiz3l5xLD1ES0que41cTJzlDJvy51cKyRd3roo7imutLudcfZ6QmMz7a2p272EZdJGEtOrIQ0dbHJA8R7aKW6ezgUi11RFolAp_Qt5Ix70oI8KiS1281ORKwm0W1JRy8RDrkSRSs_ZnOHfkoXUdp9LiIZUg7XmcZemzaK7Vb6G1Ip8U6IGlb3f4yI2ygk8kEERNw61h2PZiuH16doY-UnVyeowZx8tm5Kzvn03vLRfgPwBXn9-ce_RWORniUjwtltaAJ3EXfaTVSpHUtKHs3KMuv7gBK0r-GbjavcA0mvqBJPPKCtyVB2CJfZ-Dy7qALdL3pjU1MN2WgFnV--aU5TDAQElkGna35kl46F0g5nrENdyDitalvlbbK3PJa81cstbR56jyWAQAWNFB0DGviSdgFvSAB2cJh0qnypiARU-YXAEVIWgPaIxQSLLyKr71K-ZTTYuuSC8ZzzUQ5vLMkcuCDT5kW4FQ5fSB6tG8PJ6xR2mRxwwehFkSrMvurfY2V7PCMugnWIsBW7dUVBfI2xhDcvJZt3zxi8d7X5-Ff_m663tTUSU4034LimWSx8C2qeS05cKJxjAvIzt0QXfRBUDhwbq9kq2rF4tXMMV5ABlayTDqGAYiDgoMSQGW_UjRZwWflMiB%26ch%3DAQEAEAABABTlmv-3bCFSoMJkJMPKclKnotwvWRjTCEQ.%26v%3D3%26pg%3DRIUZC7UBK5BHHFM53XITSLJCUY
+.netflix.com	TRUE	/	FALSE	1803866261	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+02%3A57%3A41+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f10a728-38da-4ff6-9042-a8b1978c7c5d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BGES&AwaitingReconsent=false

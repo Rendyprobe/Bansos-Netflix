@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Krystian
+– Email: danutamalec@interia.eu
+– Country: PL
+– Plan: Standardowy
+– Member Since: marzec 2019
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 3677
+– Phone: +48605157154
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Krystian
+– User GUID: XWZ3MSUEIBCSRPKJSTO3AJP2GI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795185320	nfvdid	BQFmAAEBEFHk82T6DSw5wtnqRX9zKZZgv9H-WsNCZ7kxDJVR-5XTphtfsDPC5naYEqPh-KHwmz_lw6xA_8zOKA7VZCFOap3XvvaLVakqwet4h7_LlgAo_UrQ1RuRUp50BxrfzUKMGjWcrrj958E25yOo4WD4y-hx
+.netflix.com	TRUE	/	TRUE	1797987229	NetflixId	ct%3DBgjHlOvcAxLKA03VDs9hm66wt9oR2v7YVf_SH-1Vi2opnFr4liHGCZvwv1_gzs1ZCW-k3XBukbH7T-z_KMDobleWYqEhLo5gf1Uo7FzRaziScTCyD369y4xelXK9DHFmeRuvDhDuCuHMJDzvIPdFS33IUuzr8KTW-aaSVmHI6Tnf07Fad7CN7Dt_Ss8Ip0etsMBSaMuawZeVGv2henYEL2FcGCPiHiMAeAzSi1fNKexzPulEdNdWDpP-j6wZ_Lil3y6x3TNRab8B7oJzkYYhkZJ3FGwlF-Rqnygm7Zs8sKkEFh6_qe47a3hNHxNMAlSUYp8keVkRA7JJrzyJfNJEePzNGbCiBLALHeY_PhfTIKH57Ju1YvkS05wr-T61wJ-xas3BYFOeDdyuRjKVfaHC1gvRcVoKWVIDrv294TpLdpPH9TZi1kLwtjNKlOTHS90q0_GtAbHAgO3z6WKrQxFlHdpwbeN3jnessCEJ0IywF3_GSmoR-0SsnXdPGTdPaxLbmNi84RKruypq21_BgIaV6XIyipSkoiqKCy5qLnOmIq6vPSCBruEe89st-pKMlI_yTVB_RHsqP3SKOmGYFzdxE86sqZtqbRpijNqKC9oWy5jugYMdGAYiDgoMd91mmjPPnyZ1RHjs%26ch%3DAQEAEAABABSd1RfF5Bp2ad2OyQC5MrkNBHBNczWxgPI.%26v%3D3%26pg%3DXWZ3MSUEIBCSRPKJSTO3AJP2GI
+.netflix.com	TRUE	/	FALSE	1797987230	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+23+2025+01%3A53%3A50+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4cf1cf92-436b-422e-ae75-f330f7b85d28&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B10

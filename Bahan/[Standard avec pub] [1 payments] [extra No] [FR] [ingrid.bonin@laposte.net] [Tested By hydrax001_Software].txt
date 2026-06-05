@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lorenzo
+– Email: ingrid.bonin@laposte.net
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: février 2023
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33781230773
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lorenzo
+– User GUID: FJPEEF3EHJD4TBDZGF5N3A5J2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800812098	nfvdid	BQFmAAEBEMvb6NwDk6zDtbrZHeSSulZgXjlRJB8WdGpIW4i-LCU8KWL11SVI-K6eeO2RAmWWQFf4dN261J4z3Gqrtm8azsFkYfxSJ_v8q-qkHHYoOs6IqNIn3EDcC0hCunrXB_U7ZO16RouFQicJYkTiwiIMgrYZ
+.netflix.com	TRUE	/	TRUE	1803880476	NetflixId	ct%3DBgjHlOvcAxLxA4XBn21J6QIkg2txnoAXcD6uykFgcRF-el0EXaXBf4naO8qpWoXrd3_f-erD-3WgNu0JpJM_ZqJApKkGbSjJe0bzKlWu7DYQvMfF-tUQG-RQ1hT-ymcpbkOm9fOT7nqED0x_wYSHvV6vNEpA0pv41QMHr1iVbXvAHLkUgiUUp1zflRWWuRussXAEcJ-uNQnt4h1YWEGxjfhp2LhrJSPrX6gBoCwirlJguiRYCO_qPZa__zOamh7lyLqtAkTRa0ifzpRRrolYXyp4cT0u39Lpx6CBDfVVebti8aLEVe5aQq-c6xkNNxBFqqGGX9B6WVu3dEWjzIVG_qlQ1rEqtOUm0tCNm_QMcIcVH-iAuP60m4dCKyxOiQmITEfcoHELjco8r5s7yrp3VWiu53-sfIQx6omPHNP22xCRJK05_tuhWISRuCDrUGF7bgKz0FKcrUUC3AYBJ7rdtDXfeEcwpKfiuljZ2hlhgwqx5TNUK924ZcV8IRqEAHV1-2Odc1pjoxbW_kIb3LrbTVuj2cokx0eE5xFK1vK9_3SovPOs4A7GdBS8K90HVPS4T_-hH8c87Jlqz1QZ9mRcebhfbswi48ieOALOs2su8Ciu-4ZGMTEtLh6MdnO0RVrivK6UeosZFNzYjw4mfDCmzHhoGzzpPUh0GJTWGAYiDgoM7djxRpRYQn_OzsWq%26ch%3DAQEAEAABABR4fsqcmGS5InOcaic_kiIg6hDRN34NIxE.%26v%3D3%26pg%3DFJPEEF3EHJD4TBDZGF5N3A5J2A
+.netflix.com	TRUE	/	FALSE	1803880479	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+06%3A54%3A39+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35e2df28-fb90-42e4-97b4-51a496d52568&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1769275951300&geolocation=FR%3BGES

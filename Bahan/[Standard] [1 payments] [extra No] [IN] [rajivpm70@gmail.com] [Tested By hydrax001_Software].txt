@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rajiv
+– Email: rajivpm70@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: September 2023
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: 0918
+– Phone: +919819313748
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rajiv
+– User GUID: 6ESQTEKM3FG4LL6YMFXEMLVWF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782201592	nfvdid	BQFmAAEBEEmdEZL2ox-07TKDIGK4k3Ng88CtFHJcYLeyHAObAweUp7HCq1uh78xa8NQOwkVGlAKqOjYa0_ojn8zD0Ab_XUM77ar6GKP6oMny_ug-JegScjYv4nlJ1O5RhcsnbdCuqEM_HRX57Ax7ynnvh3ofkMRL
+.netflix.com	TRUE	/	FALSE	1782201592	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+24+2025+11%3A58%3A28+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=927dd2b8-0c89-426c-aad1-6ce32e398d66&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796808138	NetflixId	ct%3DBgjHlOvcAxLvAxAe1It2NIMz1HoCLiazXRxlNoi1qdIclrVYWOBePk3tkRy-IoCm7s4gKtX8hlTZ4aHUiG42nw-cCdNj8Rvquc0uZUqIJvSDNoM03c5KsGeQMeXGLeAqQiONWv-HcIwI8jcvdMrN1xDtRUNpwhGJteUwnwBkGjqz5ADMvstjaAm6D0n6G_VWxqqMiq6YudyzKoNFuJ9Ves1Plcsf-QTUsDr7boUVAHiYpbDgExg3rJKDIbA55Z3q9CuIG8vhWQg2RCHJjgBe1Xt9XXS6PDG7TFIwNNIliy40GzgNbxRjSNIXnXKw_xrv6PZ3KJ7MHLLxGXpUnBLtkkh8fjN2unAgKotqviKDpkeUy6PR-ejSyP_Zd95X3iHn0_7jptWoG57TS8eIztS6mNmbtgee7d36iQ4c-wSnstMsbD0mJ11WwpyWYronGf81UosYg0wL6H51R6krZrM-BXScBT51A28Y1mUemSrQWF0jYgPg2mG0XUrDEzIOO6VIww8pw0h1nUGvwQB7KBz1MZrTmbF5QliX-G5ADm9lYeodR3cpYrOERzXVX4arMPFVFTEtFtIIVHJPiMGIfEO0LZb8d3n_v7X1eMFHNwNhhI8yJ3AoN8qpZTDWbIz6a6eNtMyRk1PLGrWevYZSIJ5DQvTLIkEGTW3jHBgGIg4KDLiMd_wwjIVEM1Pkuw..%26ch%3DAQEAEAABABQDXFErx-VcW4m4mJrXud4C0-YMWKyfsog.%26v%3D3%26pg%3D6ESQTEKM3FG4LL6YMFXEMLVWF4

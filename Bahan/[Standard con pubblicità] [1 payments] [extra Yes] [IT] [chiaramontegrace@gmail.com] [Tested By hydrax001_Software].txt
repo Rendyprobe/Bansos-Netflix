@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Grace
+– Email: chiaramontegrace@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: febbraio 2026
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 4693
+– Phone: +393518246928
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Grace
+– User GUID: HHTVLRM5SRCSXJKBUKRISNDFRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793563006	nfvdid	BQFmAAEBED4T_orEl5MQSY7_B3L7QchgmdqSrxxfasLR6fYBoWoGy13KpdqraTW-HPSYex6nfqpXNWlETV8GcTtWIzGeDLQ4iTfW-3VCt2qqR5yQq6525FSTR1OUGuxyiiSKsHSM_p4TZ8y2FNGkgcZCzVJZ4M54
+.netflix.com	TRUE	/	TRUE	1807129592	NetflixId	ct%3DBgjHlOvcAxL_A4hMYsxdLVFICY1po0a42FrVIPfC_6p8zMy3FQpZBT2kMXQPitc9Bv_pSbHoa46_TZzS6w1dQUBJpDVsVK4yFDvOSZhN7I7hetglOuxZx8ARZxqsQ-qdabn2KeJUh2yDuCgy0ROYDXiFcaG-JgRfERvB1LCabUMEZBigTQ1UpG6yuGqTp20d6dvC6Ur19B17KoWAjFRo3rkdqWumqbAfkE1eqN1ycNxXCbnqapBzg5OgHBgVtJsjGYe5ATzXC15WvCgRxtCfOfkhj_CFBOjW5LmV7vCTYIYDlV4ethk03E7cIG5clvyB8iftJo09yQvtrNzWNA8WwHSNyoYIYBBuUo_SkV8IQxTKG4Jx5vMOwXcHJdrlqWpFLY7d6XMLVQKkumcfhscEMEq-bJJZL480NUajEMLKdfPu_jFAaQ7mnXLQhz2CJc3kJiAXsTusNn4KtWqNLrulLxXxYERApVR5P9XptY_50PiIBVIMaOuFJpn80g72oDz7Ld6r0Hk1rRxM-pFrFyoWlIiIFBj9zQTo0GcQOSzEJhOMy57EuQDZw_1TA5EVkxFBUzOVFJ0VbTE8HKO5yaNwTefWk6d6E6FgCFwPnk0E-cbYFUxwMXKnX1zAhi-yBTcSOGjLs9-fj3sKOqM-5U1-0l_Saeqx04-i_XuG93ngQQAavumFTh1kmQ0YBiIOCgwPslRxsSv3CXbf2AA.%26ch%3DAQEAEAABABRiC7Fr1x1NM_0Q5MNVW7_H4VNpTmS1uao.%26v%3D3%26pg%3DHHTVLRM5SRCSXJKBUKRISNDFRM
+.netflix.com	TRUE	/	FALSE	1807129594	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+22%3A26%3A34+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=749e9a09-f9c0-481c-872e-2e80a71dd29d&interactionCount=6&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B82&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tirsh's Vault
+– Email: limay84@gmail.com
+– Country: ZW
+– Plan: Premium
+– Member Since: January 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 3656
+– Phone: +263737462799
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Linda Machimula
+– User GUID: GLV47ERCANCR3KRFXYK25OEZGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808856888	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+22%3A14%3A48+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13388009-bd8f-42a6-91e6-787fad457334&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808858691	NetflixId	ct%3DBgjHlOvcAxKHBNbc33egVccaY7qca-Z6I8wHGPEAUl9Ib-c8uHSkUejecdf-Vihs1bXncggNDdLDHjpO2-Pug5JVDIxq_OrxMx_stU-PJbQXwHJuOjM9SvR7LX2IGqOeeLtv1AABECc6nMMv8s5B_ycXPU-9-ZxYzW2lP01a_DMw3SUYkXO57xFR6HG9koIvf7gf3DGgRvdCiAJw7hOzmOgKw-z-UFv756Q1ODf_ks8SiI7KJzq9Hjml5sC4IVckEVwyjUPDuG5XgRKO_Zq6OTlSCG4E5n0OkGVg88CrXIKx8evTXuUXNtFHzTDFslpVCtcdVEb12998pA3fQ-qYf2WLZ21qNFUDUZexAiUS5LSPtH3drzAUKRjXzMOT0S8y7uz0be6E1TgO55EuewupMeQb66SH3ge2Km4O6O1nNbvUAEiqrEM97vKBtZVeY46cMkyn3qZXcE1Utpg5n63atpZ4Tm-Zpzy3IGVoiifJ1GlxGDwZuUeW7wzV59oxwOiUnwOPJ-qhMWWh6u4YI1DP9Wy-cAl1XY8-hM5cASRAM5ssqzujhu8URsWkB9sDRfynB0JkWnL-DA8c8jBWKPCqJw2OYiETyPxiTC4gex5Y29zUlDvwrCwb_LFrv7taxAK2tznb9y9i4qdz_kUfEjpiuyBbIHsj7Olsn8fIpxkW2qjXN-r4afDYK-5LZTX_QvGEghgGIg4KDOxZuWBNp-W8hdzOfA..%26ch%3DAQEAEAABABRNm8_KVrNhRuLJETTVW0SvF4v8fL6RXYA.%26v%3D3%26pg%3DGLV47ERCANCR3KRFXYK25OEZGY
+.netflix.com	TRUE	/	FALSE	1801155320	nfvdid	BQFmAAEBEL7Nc2xJPxyR19JhAWeHLY5ghQdcFips8tsOfARKhbnMgPu8Gc2_S7yNLcJHinzmcI02kXiv9nqa2g8ISJ7dp00skMvvsABQbFolvrUqBki2DBPl8n6OEWlNtG3vCmfcupLP0xFlRli9Y5BgkDiSw8LI

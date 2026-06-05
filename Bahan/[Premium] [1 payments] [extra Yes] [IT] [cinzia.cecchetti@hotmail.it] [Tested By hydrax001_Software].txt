@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Macchioide
+– Email: cinzia.cecchetti@hotmail.it
+– Country: IT
+– Plan: Premium
+– Member Since: dicembre 2017
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 8840
+– Phone: +393289557272
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cicci
+– User GUID: H5RMS2BJZ5HSZL3X6PMYFIULX4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785239260	nfvdid	BQFmAAEBECEcNO-v_Tu-kIpNmrcIT2Vgpa1QzoFzhTf_J1PjYbAaeRf5AvSCMo_fwpvdBdi-gW9IDajt1oCAposfcLzCPiAXz7BvR5VjTeLeaU7NA4Ycgd5XDRccgZ-ESZhJAp7SP_g2mHUcMt_kkLwTMQHdeoA-
+.netflix.com	TRUE	/	TRUE	1808486089	NetflixId	ct%3DBgjHlOvcAxKKBGH2PPGjjHAL3KQyOWOLmskKFJVKM9HaKJMyBCj8URJ9Od-3FHfmwbhx4wP1e4hLxSR9N-jPSWI-5-4aMvbHHdnJ5nnd-2D2sEO_XTUT4p1x0NaaQF7L9Bb1jIaZd6-0ADESpTAsitkwM73jvmaQmALzzTPhUCU2h6S1tJqKHKH5XHO8Rs4uSOPg3FC7CmlleyGnA4JOcBtgBIgZjc7kZfxwGIRozVrC6hqXCW91ZmPhSQfRlwG2ufoj8F0AIi23FkxUQgJGyBjKIc8eLPt7gSVD3irgP1MXdOVW2KwWe13xDt8MNNoClPBfeNVR1IZ0ajI595SHtJaDTbEkxJYJIj7p2Qj8oxplWvMKIkDGbm8po1qJIEMiArKLxsey_hegq1jZ4HBlpspAgVThyU_Na8Hk5Jav7pOehaCim6kFi6nYbGolFGK-GTH7hKTjJf_BLJnbq9S1CDdRKkluATRA7PMZk4rpihxKOXPslYtGqx516YUyIyW_3zSVRbfR8LXMtv2FCL9FO0vtUdtIXnrNF1rcwoNQ9pqyHju-3o4vB175NoOyKuK0WzNOoEm14eNBWTK9r6WYYSRX1BDOiMx_fa78IHJkeGNQRcoT0u2rU2RsbuQ3IqROQOhbRABN6fIvxEIpaY467wBC7nkX4QQHf9ZOI4QYIWnGX0DcA9YIZgbfpwmFN_c8SGsF_hgGIg4KDEmtHcbwKK1M-I5jeQ..%26ch%3DAQEAEAABABTATW372-8RWE4eVDaz6HCl3_dNXchUKGA.%26v%3D3%26pg%3DH5RMS2BJZ5HSZL3X6PMYFIULX4
+.netflix.com	TRUE	/	TRUE	1808486089	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiZ4Q02cwxmJK_1EIOYT0rCtxo597kx20.%26dt%3D1776950089509
+.netflix.com	TRUE	/	FALSE	1808487532	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+15%3A38%3A52+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a179a6c-4a10-43a0-add6-de5f7ad0a17c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B62&AwaitingReconsent=false&prevHadToken=0

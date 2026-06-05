@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sibel
+– Email: titrekoyuntr@hotmail.com
+– Country: MK
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 9529
+– Phone: +905388316919
+– Quality: UHD
+– Streams: 4
+– Price: EUR 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ebru
+– User GUID: DG3ACF7OBJBGNADE47BQIKWKHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802138472	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AtDoPpiAwH0rCn5QUZ_Js3klulcWTcbCuKFfGambbtKSttTHQu_DLGzsyHrFfmqPs4JuwsCj_P9CaAlUOHCpl5cSpvnAa6EWI5MxIn_hQEjQEXlWM-2X-IL5T96hl7QB1n3Xu49kWHCdeC_jIfrQ99ipM5GSCXc5QL17Ct-HysTBhmDspjqNferiwAQ-hZ5i_n6_g8hoXzrNQ90qJaBrFrZ6JPoTuRfOrfcN_8mNQSl_CO1bnfHVvW9OMWvWtFRxhtZ-dHmY_3fdTrKV679waIoFc7gJuvsQyxELV4h8GgJwhEi0ycbzmlOM7yIDapWbj-9-FgEWrNSs8PfGdu3czAhfN-mRlFeCKQ0cfXLLUPXFQT3ZI4ndFP2AVk1pn5XffN3Bb6gloYf4AEi3SIo4tQUOqy9CXv-72GrOE37K55Mc1U9l54k-E7bl2PxewYMWfQwe6vzQc-AsTfZMh27NugWQftpiomtsYvqjYJIJnVKqHLDP_yb689pN6lDsG44YBiIOCgyy11GENn6geP6gDeo.%26pg%3DDG3ACF7OBJBGNADE47BQIKWKHQ%26ch%3DAQEAEAABABR7y4oppuDw3XxM4ALJW1UWcjkzWkaqjqA.
+.netflix.com	TRUE	/	FALSE	1802138474	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+05%3A01%3A14+GMT%2B0300+(GMT%2B03%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b8e9478-a193-48a1-b632-aabf9bfb5bdb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770602465781&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802138472	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4I2SblzOaWnU7BRmdd8rrwKR2PzOp0_Q.%26dt%3D1770602472495
+.netflix.com	TRUE	/	FALSE	1802138470	nfvdid	BQFmAAEBEN1FebBKwTgCfuDRPGFDSUVgzH2aXdZ5LBJr1ZENtQEEXFulMCQV4y2dbDmbVhpyB4YPAbj0Yo0EKebmVKeS-1DC4b6sEKZ1q2O_xug3QNHpHljS1u4bKFwZktZFQWM3eyLcQfcPWbs8wZj7cy909kug

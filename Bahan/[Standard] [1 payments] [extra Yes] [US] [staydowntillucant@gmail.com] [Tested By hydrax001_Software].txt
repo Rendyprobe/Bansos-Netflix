@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Christian Moreno
+– Email: staydowntillucant@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: September 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4494
+– Phone: +12142779189
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Christian Moreno
+– User GUID: YXSJGIJQZFCI5IX7VPMNY6MQGU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783689055	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHAy2EZhtA2i86nKbOYeXZ3KU2j42INwBp8EF1obZpGUC0EeOaqHsFuFjqYlsMeW89FdvAeFQ-8oos-Ngcnwkirw83kWf5an1uEguGAAKZECimYBDqOtAliXTcl8jxZFWje6mOoqX6A99-sAFHwwUJELycQyfMZw9ZIX9uRa0hzDojqFw3zy4UpceaH5nXZFH4lZUCtMzZWqckXDj011EbrzE8Qo9oab-wDs0QYut97r7ORvk_ODZQYV8Q5EHelQoBIX3CcSH9BdNvCo4JsKfc45JD3ErkkibibvcJMCl5Mn8HPwzhE81T6gpGtw2vtP5muCh2G_VZ6pS_P672RRTPFqNqqJ7bfDVt7HAImINBCdS6-qirHVTtzFwz4gvCrjqiSM2aTyrcQ8N-SbYdoHhnH00rkRuoD7zxmKm2uYdGweAzjLAC6Na2TvQ5XAnCLgWO4MABgoJJve1RyPxb4vo1A_T6ad9caqmD9_ZCBnqe9TNnKuLIkTWaQtctzjHlcmWd9c_I3p_Nhr8YBiIOCgyjZcJGBfvxSobU3Iw.%26pg%3DYXSJGIJQZFCI5IX7VPMNY6MQGU%26ch%3DAQEAEAABABQFPOX6gLm6yiKCEKyJvltCj_FUuQFXX6Y.
+.netflix.com	TRUE	/	FALSE	1783689056	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+10+2025+08%3A10%3A56+GMT-0500+(Central+Daylight+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5a9cb01b-7a7d-4eb7-a54f-a4e01e782e65&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783689055	nfvdid	BQFmAAEBEAFfGAHhNivUKc78cP2hZXtgDOdAsSTNtWCb06aRZQRVPyn_x_mKmI1IRO5U8sOHN_eMODD3OCh_xxlsfCMTwzhav275tDDw9PI9L6Rm_2a_5aj9XRYVr42HWOwZJJ5emeY0TXCfXfl3bgpb02k-oYIl

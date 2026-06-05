@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jakey
+– Email: katy_96@hotmail.co.uk
+– Country: GB
+– Plan: Standard
+– Member Since: November 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 8444
+– Phone: +447787224779
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katie
+– User GUID: ZSUF4LON3BDAPB545MMHUQACBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802043055	nfvdid	BQFmAAEBEGuZF42nd8ofnvXlh_PEnb1g_dDEl-ZjLRuobkSH7CaBNstGy4CHS8_s_GHnIefER9g0WsbVsuWrT41sCgn_IS1NGUuROUWLx6MdU9MpmkGixE_SCUsnaHygOHO0vKcrguKPgykGzmIQ_8Hdbp75yzMD
+.netflix.com	TRUE	/	TRUE	1807716599	NetflixId	ct%3DBgjHlOvcAxL_AyoyfOP-I5ol7Q2ML9ysnopWxNFlUZwlx-HeqlEz7oBTzocNlRQ-GusqQSFF5yJsdyhfA1UV4Srn0yskkbUqnsDXd_tnhkYuyJm5uUYOgRT9qGd4KYQ3QwMCnAuBT7-M_HkQfsGYclewlYqwRosoFOgAps5SN_72sSk4Hdzyvn5WeI7pBtobNPW07sdTH6ueJbw9h5zuFP1NJCx6a0ivg92wDJZ7hTB68MxrUo7Qd_oKjKMrOUFxZUTNcr_CUXE_0MKu_pZebpgUxkNBJM4NWfeVszuWWmTXugpZjZant27p8pc1RAZJwPwNybKeNLE70BgfqHrUZ_LUsLlUMl4tRZX5rT2UBTevbVlbPcBFus0bSjuL5V0t4qLVluWmNKCkKSxZQcupBCe0GNMQ8lIIFoKDC0LpEXdUQvg0XYQ8RrsJTRU_RTDIg20BXk33t22nUzyB6w8VjA3MVpWkzCvTzSxSm26CTVFHomGJJJ9Ii9R2uCLMO1UCnnF77UisHFQouguzar6PKIHpLa75XhvZeP3Dg7OSjY6x7xizH3cN3KcR9C7GSL6XEWzxT0_U-5usZWd58imuu6OA3LDuoyT2dDzoukR5U9_OhL7dVV1NBWGyaixBvpZ5L79E4Gihlk7rzY3uoDtY3SwSEvpE6cWjwFhN1ZEMUt7ANerdqD8Ge5cYBiIOCgyvONOr7KAEZrRXwAg.%26ch%3DAQEAEAABABSJMKKiiUI6MmAWsDol7HM0b7ayHrT_ptc.%26v%3D3%26pg%3DZSUF4LON3BDAPB545MMHUQACBY
+.netflix.com	TRUE	/	FALSE	1807716603	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+16%3A30%3A03+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca178836-fb7a-472b-9c27-b2709e0e1abb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807716599	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKHFYTHEf6LIe_hSYKgdAT4AZ2JrbWrY8.%26dt%3D1776180601718

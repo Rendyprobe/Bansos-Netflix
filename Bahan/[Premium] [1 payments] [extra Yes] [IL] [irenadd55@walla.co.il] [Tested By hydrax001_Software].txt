@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: irenadd55
+– Email: irenadd55@walla.co.il
+– Country: IL
+– Plan: Premium
+– Member Since: October 2017
+– Next Billing: N/A
+– Payment: PARTNER_COMMS_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: irenadd55
+– User GUID: 4H4R5BG7PFGJ5DG6SVUMYZYFP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13435003337846139	nfvdid	BQFmAAEBEM5T-0tjcPtog85A-W8_hchgGuJvwhkJKb7lIC9Z4th3xc-bafztncvw-pFhe3QpDSdt8cBBX9d_pvFVyiFsItbgDxdtloZf2l953vIjnzlvyBe-U2-Srgmk5hzqCXWZpolh6P1eOPbJaFKN-DZuRHoa
+.netflix.com	TRUE	/	FALSE	13443459568000000	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+16%3A19%3A28+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=299f061e-208e-474a-81e1-c02850130b4a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	13450492400206476	NetflixId	ct%3DBgjHlOvcAxKQBI80AM-SmWjv_kotVfXbcVAPMo8zoxTA4IxlBEajlhaB3FBT-Is8YXaUg6043esxdxc1BCoNzSPcqKfaKSsSnKKmlhsw-G2EV6-I9OZ_RqdOMDRzWXSKn6t4yIskbJKNPMt6JqV2Z_ZCG6vZ7HzZimRLWHZPAw4cIg9Dc7oq2nOGXLKdRO_cs-g5ZYawnP51841AsdUA77g4rQcUgXBZjnnW3mtX7GtmN5tdZ1S4wpw_cuOgm31jtGZGX5_bPyZZoTSQ2skC0cs2_vWHbBsYNZgNOEfzVfKXwTLYrbNkSRL5B9KSjc4JUplvdTA6TEtqYyHNUDQUGy7TuE4Xyyy1VW7FVEOYXKyIise4OhOwQq77e-87_81eIdzdzdquPXAOpzAfhAo-ZMWeB92K-spDjynVpREBf0zZEK_TzAjGzdFt-yarzTYLKoqkz-tbDPiuEgKs7QZpgORF-a3cc-UdEZfKQ0y46LJT3FINO0dEbPDw5MEYRkzJPp2DYj7I4mkkjmZn08Xq784-UyEUFBtW8iQdbvHbhAK_hS2r3lLVhX5VlLoZuYLLjTZdlrnhsWWoa0cZAezEj-Q303DJLvVKT26zovIfMHyqegTQ-e2Py9eNNYGNARCj9V50kQds7zRiY-MHfRFxUj6g8rEn8ooB_yNQfVyHEGjDMfBZdmQh0bNiOdUIvX9eQDScAFDu9ZfuehgGIg4KDF5I5Twq0FIPGJNXoA..%26ch%3DAQEAEAABABROWEAtDrGGeltFlFMnCX7UGA-VZKeNZ7E.%26v%3D3%26pg%3D4H4R5BG7PFGJ5DG6SVUMYZYFP4

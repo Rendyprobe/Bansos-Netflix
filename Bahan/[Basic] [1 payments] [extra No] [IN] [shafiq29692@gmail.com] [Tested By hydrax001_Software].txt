@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shafiq29692
+– Email: shafiq29692@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2025
+– Next Billing: 2026-07-04
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shafiq29692
+– User GUID: FHL4LWUADNFCJM5TGK3MLPBBYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811652546	NetflixId	ct%3DBgjHlOvcAxKABDSDS4seo13rWvzJg3m4Fa09mhscnn4Ce4ZTiGwCQLOA8grcCoXo1TGIEkZNkU1FlFkugWiDRAtjkgg_AQM-wWe0TM-tTlg_fyiuPxSz2wYYyhdlurFqtjUoF30uR2BApGoErSDJwomQKkuW4URfDyMMiw6jemlzNQqjIsWkRyiFk1U7LsN5W5hqEW0vXM0RfCsQWHjDRHhwdrvLtALXy8RaNoui0RBe9pDawZPjA1-obBynFrjpLiJ9BNSu2oI2DtbubtFGeWPwAFH30ckXEkZ1hQ6p7Xj34Ia1i9v5muLy-n_X5X5NQsWKho5Hg1QFFjY5spZFT7TdiS6NCia1g32BaGG3XLr1qzK1Yvuh_RW8Ae5uttczwDmENnX4E3q6bzqtWXt6evDmHTcxbGwu17Pg7MppQ3R8WHB9O-KhW4N3QeqGQSJXzu1OhnjyED3mzB6ZESCZBAFo2IgCWX83KVKSz4_CINnFdKnbp1muOBqoefFmyQ0xSFWNfD5r90gJL01dtoSfok_ZtdfliIileiQBcdaS0JTnAhGAH6L78katLdPjlcqWA_1_LOPgVNke2ByWJrN-s0Kdck7i_EeB2uYX4KccByBa7lXvjw9OGQ606lvwJoToYgQMhTgdXp7-B1Jv5nVbmZnTwjVDIcAAq6sERQN1DKVQA7DoE_1XaUx_GAYiDgoMMhVUtOfq-WCjGqYh%26ch%3DAQEAEAABABRh_VIhG4TngK60ZHqtQSxOErjjWwruwKM.%26v%3D3%26pg%3DFHL4LWUADNFCJM5TGK3MLPBBYA
+.netflix.com	TRUE	/	FALSE	1811652551	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+10%3A19%3A11+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fff91a69-af2e-4ad6-bf80-8fe242763f2a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811652546	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRO8Ck0I4T7V8hZUseSSS8dYLWhPe6rwI.%26dt%3D1780116554420
+.netflix.com	TRUE	/	FALSE	1811652546	nfvdid	BQFmAAEBEL9JJwtihXakMzT0G51JHoNgjnOG-lLuzw-mTL_stS1lVJZpCcqkBJumTDvehe21GiYiKnbQ3a_nWcMzEbjjub-kc9DbSf5g2O6b2PZt3tiI2WQJ9gMnLoAaDPLvDeFjI5vurtTmB1-X_fW6t1ig55Yl

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Danny
+– Email: renata.flv19@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: octubre de 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 9630
+– Phone: +56921991669
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Danny
+– User GUID: GMETUFYWAJG6ZIKD2JHYJ33UCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792721723	nfvdid	BQFmAAEBECI-tR2nR485jnGJBxfNUZNg3QUMnTzS_0VuzrnR5t0Czl49MKXzo6E0TjlxPOrORBSBVy4kcQrc-3tGEFWMzN-0QoF1f_IGkp6-_Ltr6RJYt_pIYuWQwcfN8um4fzumxF6RXagW1DpojhY5z3ChdKIr
+.netflix.com	TRUE	/	TRUE	1808190071	NetflixId	ct%3DBgjHlOvcAxKzA_AWRKgevTqIRJVZYK_nahTXT_NSHpJgEDYCmMrEuT0Y1x1WTe6aEpQ58glOEHZ3ABYj6z9F0VoJ3AGmJaDRaVaQMWI8v5qOnjZFJg40k4W-LKDcXhmWpBxHkUZ3e8qxIwRXOIF-HS6U8nvUtGbEQdTq3o47KW-icewxqzCgkBIj1wJsCCBm_6nSUUaKILkYar3RH-Jv3EsSOhg9ZF8t5femGUterxWBEl8PxQ15aWBeQr6SnpOrz0cmF_Imf0d_FUYcGthQL3TSW-oFB77Hs6kprJ-YxZ9lFKOux9Lf3foMCr13MUVn7ny8j3J3qS8iwz4TUiL0ajNdW4REMCxtFLMrt07Scgc6jTsy9gKtnvJw6lSPWNFOrlnh5DYsAU0kfZsidZcurMJZlscfY4azuzAO3Bld-8hJj6xsfeLugziEVRpGUpA1OgrJLnGBxSwNMyCxd8McvpjKllQJ1dsOKMO2b7gszQTbJMROIkhx-cTmQEAM23j8LnibjRwsRtEGgWFMnJvO4rtD8FA3-6HhaY4E3Xdb3dY7_0DUSIHVkL1fVW2VCR_m99fTnMgLFQVJQHHQmxgGIg4KDATj67O2M68AAjK-8A..%26ch%3DAQEAEAABABSY7530YLhZgziOFGJ_XJ2eol3LRFUKfag.%26v%3D3%26pg%3DGMETUFYWAJG6ZIKD2JHYJ33UCQ
+.netflix.com	TRUE	/	FALSE	1808190074	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+23%3A01%3A14+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77b1b128-3522-43bf-bcb1-fadf4bcd81b3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

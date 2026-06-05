@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jesus Garcia
+– Email: sagaproduc@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2025
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 5192
+– Phone: +34634230735
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jesus Garcia
+– User GUID: WJQTEKFOSVCC3OY5IL2MPBJ3RU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789863831	nfvdid	BQFmAAEBEETc4-ClQjhRKA03td5nWqhgx8aZ6yE_gVbsvDBwEj8cmtOc5LdSCogI1PktqaQEDbfVeSOmCCZ13dXnCtYy0LeG2fJR2dS58Mkp8TgYD3-HApY3QV0lthP5OGP7ukzReFPrFBi_FSWCjKkjpRPySI2S
+.netflix.com	TRUE	/	FALSE	1807585864	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+05%3A11%3A04+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c45e4088-55b5-4b1a-9865-3151df260700&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808847609	NetflixId	ct%3DBgjHlOvcAxKEBApnRE1Up-rV30qEiM4ep0mp1jkWliMoWYxym54TE5cPnh-g8bbZwGXExx1qjnQz0dMulSTSGt_IIHfZn4qjDjlRVqmYGavxPoWW58ynekIyK5c1hfLqB47SaXXYCfPghEKaPoCnEwYcCojhu9WYgEpw8g1cH7qQHKnxkoFXxDN7dLhK_6dSZT4T0nMx9TwdX05G9ndvffwY2JeYlkTMqYp5eu18kObRKRM75V6MBJvNogvPMHkkxbhURfVhpZ9VrHDY6Y8Tv614gBI0arGCayxABDOfuRaxBG_ojDRrbXvwjZOT-ZSj8ccwzVl-bpTTS1nmuYpblJJ1XJuByDhCp5tWSiHr-5kbj6ALNwdYp141Xtxavc6Iwc5llp972Nd2B8u883QfSf2PDjS_FsAc6uxLzccUX3y8bzqzeqpaGNUSMGazwJt_q88medAJsysXgpRZoTvfANcEVG_-o3ymIgVI8WJo5t80HT35MFARCTEVKhdSiuw_Jg-3a1XyVGwvqNCzLgZ83cgkUQN_Y0c8fqqdR7QZx4oBXni-JXKjrQeqUMxs_xQ6bR5GXvdWOSuiV_Kq5ufW_Xx-yCMJgc8ZGoHhBG8qomyW-6iESJLeVgucLWg-P21riipp9y3MrzdQ9pxQSw5sLHCMkXQnbn7Sy9WAaV9zf7kplybM89poCHrcb0yMlBgGIg4KDNt6u31B9pYG5_47AQ..%26ch%3DAQEAEAABABRsE_vTrOZxVtvURFIKKeM3f1-lTdclhTE.%26v%3D3%26pg%3DWJQTEKFOSVCC3OY5IL2MPBJ3RU

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carlota
+– Email: pduartem@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: julio de 2018
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: 1905
+– Phone: +34672139025
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paula
+– User GUID: G6HVYUKJ2RGPBBJHUA7ZXBAROA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788986642	nfvdid	BQFmAAEBEM--mxn3io7orwX8C_Z3vUFgFunXm6tJaafhi_2WffJSLNneVGHd84Bx_iTa0oosaf9aLglDy9WUcuUN6t1nSfuLBQyYxjewvGsmN_veNZdyumzkQtkYy7j6ffVoXwkHb0CleBfnx__VBy6gSJ6zjvc0
+.netflix.com	TRUE	/	FALSE	1808316319	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+16%3A05%3A19+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=064eadb5-f1d0-4c84-8226-31c4616dcc15&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=ES%3BAR&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808316318	NetflixId	ct%3DBgjHlOvcAxKFBAWbHcbBvItuOJwvFvlyx1_c_KZv0vX5KbcYb294ryCfV5e0XE31NyThUDa5oWBa6bvxF7x6TWPggSqx7Wj-znAoTXa6x4zNzQbkmpu5DcV1aADRXUjBwnLtD_CxJxWAFZIZZHWaU2m1SaZs99eO0rA5croQO25NLwRxxV9VwFdQhBa9C5QZ89Jd9j8PtVYgRwxoQaUm1htwf_nNPi8WMbuEQ9foe2q6zwX7dMqdv1IalA2-TkVbvyYW_wmc5AVSwGdg4MXtq7K0yDmozn9AonmDGphfEMthV4cPT0hz4bBZ4G97PHb9V1ttzqbHHQZpPpqXhaPf2nyfR7RVzdhWQKVp1Dw56vh2TMrNHO5v0cjxaILdVhTijBWUje32-D8wQ3ibdakq07a1AO5gVdYhlZ1IuTn_iGJPp3zd7eKJZmmvNecNcOSbFDVsPvstMrBmE0mPuKxKhBTbdy6KvRsxqNM1aZySWXMKwTMx4Db_ivLB6wfbirEBzELFelZVYZmB8Uc3wAI1A45ibUaMFP-2I1iarGRKg9V-TdEfBXeANtrve82gTrCypwzgECSzEntCnfAA4M9tPii8t6QjpOca1NNj6zcSmUFWLg1lVpiJ99nP1DO3YH_AdOaDIEJ7vMJ68flJTd9TDC74rjufOVjXNM8YH6DzcNA0cvlhHAKn6BwHQKaELbYYBiIOCgzV9bLQ2wuTLZigETE.%26ch%3DAQEAEAABABQE9_mqGXRoxiK8FJrmIGkp_eiHKo-O7QY.%26v%3D3%26pg%3DG6HVYUKJ2RGPBBJHUA7ZXBAROA

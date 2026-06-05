@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: isda
+– Email: aleinalumen@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: February 2022
+– Next Billing: 2026-07-01
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639755690335
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lheng
+– User GUID: CTDJETT56VCJXDPKUSONGXE6AQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793564718	nfvdid	BQFmAAEBEBUET6gpPlyBgVvy_X6BWMJgUt_S-MKWtTt-OyfmvIQgXeg2EQaaKBWoeZ9JGDtzA1wCGIoCPh0zEYkCSE8hR32AGZr4fft2WQU5s-HS4mT0yvItzkgIpuXQqspYb-Pifi8ZhqNhn6OeEkfBkVg3aAnd
+.netflix.com	TRUE	/	FALSE	1793565143	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+01+2025+17%3A32%3A23+GMT-0300+(Atlantic+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2a13ba3-c9a0-4c64-93fe-480a39bc530d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	TRUE	1798842426	NetflixId	ct%3DBgjHlOvcAxLlA8ksA_nbCYx8ASP9XsHD_27Rg1eYXhc4VN6Cs2Q6LMthzzy70Va_Xs1qO0XhFF2q9AM1MobzVVYSPfcgCs-bcfy27DlaGaLIF9-f0tJHFLnpbXSltv6jGFA_pteMluHy_K-cZALelmZc4T8pSbHSMn8Nsfp07ScJX84pHYu17Cq1fplcq4gex2S25_aB1NU1olp-MrH4g4l92zGxRkbGazJ3AbmnpquW3c6BIwWwfxdYj37o3xna8thhobpjNkkC2s1T4CZlWt07R5ceXsEyQAzF5tbkexkaaaZrRoEUKr_eUVSXV2RghEH4FV3_tdyzVqS0wPdziTmncfnFFUiYxSXisN5zOgGPQTyMLIEhDCk54b3ZwBay94IdgpMqhC4irFWyOC-jmic-Dycsu5sZVgvta9suSbymJrcJyU8V32LMXmamsZPF9c-j-8Kuc-KumQ4Q8u09FJRbt4OVQ8oA050gzGhHQOQlxHaMhJEbgXlnnsOyC_FvAPoPzf-OjieTpm6qccxxlJoYtFedi2WrFB3S-R9L1C6KQ_vtkCxN-ORJWgASMqY0taIi3759lsB_334fBin53EOEcE-nKQi7AGn9h_-L9uIkge5QdRxsiGtQaRI22bKvzlAQ02G0CnNifCNeEp0nGAYiDgoMN0QRmZpp76mHW7b9%26ch%3DAQEAEAABABSzrCUpUA4A1SBeFaMDHe_VbgJKXnsuoMk.%26v%3D3%26pg%3DCTDJETT56VCJXDPKUSONGXE6AQ

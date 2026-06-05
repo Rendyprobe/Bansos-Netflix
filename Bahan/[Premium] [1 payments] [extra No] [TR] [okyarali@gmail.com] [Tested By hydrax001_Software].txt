@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: LZMOETVJ6ZFX3NFFYG3Y7IS5KU
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAcErUPdn+iKrdgdnh3imnSKKSgZjDwHrFxj4emnSr+7KUZ1VJlUzUj91EZOrvDcYxPM2EnviV8p3Q/OzfRjgU84P29d7bhbcLo1vyaxm7OPMWyHU9n5xIssb7AwVGh+aowk/ZC3M8mkr6w0S7kSWeCbr8CNaGtabwcZdjBnkhBLWHbmMoqNMqFMU5y1scW3Yo0SB86f9uuW7zNMqrMQ7YgtaqIFKKeRjhQdsHBGW0WAqbkJnZDdKmH1ExtmgptBvqLd7GAYiDgoMadtrHN31md9QHkpL
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAcErUPdn+iKrdgdnh3imnSKKSgZjDwHrFxj4emnSr+7KUZ1VJlUzUj91EZOrvDcYxPM2EnviV8p3Q/OzfRjgU84P29d7bhbcLo1vyaxm7OPMWyHU9n5xIssb7AwVGh+aowk/ZC3M8mkr6w0S7kSWeCbr8CNaGtabwcZdjBnkhBLWHbmMoqNMqFMU5y1scW3Yo0SB86f9uuW7zNMqrMQ7YgtaqIFKKeRjhQdsHBGW0WAqbkJnZDdKmH1ExtmgptBvqLd7GAYiDgoMadtrHN31md9QHkpL
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAcErUPdn+iKrdgdnh3imnSKKSgZjDwHrFxj4emnSr+7KUZ1VJlUzUj91EZOrvDcYxPM2EnviV8p3Q/OzfRjgU84P29d7bhbcLo1vyaxm7OPMWyHU9n5xIssb7AwVGh+aowk/ZC3M8mkr6w0S7kSWeCbr8CNaGtabwcZdjBnkhBLWHbmMoqNMqFMU5y1scW3Yo0SB86f9uuW7zNMqrMQ7YgtaqIFKKeRjhQdsHBGW0WAqbkJnZDdKmH1ExtmgptBvqLd7GAYiDgoMadtrHN31md9QHkpL
-– Token Expiry: 2026-06-04 09:09:34
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1789402046	NetflixId	ct%3DBgjHlOvcAxLbAz6q47vZEOn_YA-wKTHv4gJRHr7CdzRKgf47HSZSpDV2c2SRTTu2Y7JT_hd5ANWkQw59CcdE5y1BhzJQICjyWnQivw_4f3nddjl9dKQ9f5_LkgU2bZvD8Ef5_QwH9_l7WyRPV0W-R0MwX9p9RmvthJU8t4e8acQUJrWI4DiyOsQ8OhkNAomw-i-jzzeFCyFrz-wdQeC6OjNgeMsQaMhShtV5-3oGBj_PcJX2U4xOiCpd9SyyNKhKWqxydl6rI7vu7cr5mtEGnbz3DnyT_YMf3d0X4QTQx0zNqNfrpdysyqe1p29-daZiZJsuar0sFKaOwWZPeCsDHiQWS12SxE0JKu1voZk35mEOErbcteKp95dAb3E0OhB6NGQlLFd0IPdeU0dTsarY-eJ-Gu0nmROqCIuNYv_OC2C80XaEytMGuMvhB3tKgSTSKpPT-2V2E2fCUTm7qjJ9P0Mc-kwrD2eRpmuPODnPRaeuIkQ46PYAdt7oijIb99Gt9b-iWO6oVBI0JBpYbQELpRFLowzgOPIwXkrLx1puV3aNKYyhtg9RXBeaRkpmc3PDd6y-qmSSsbOnXplmb9bhmQ5JZAKzLQbvapOa263JwFe1kqfgCsWCNMkACEvSGOt9YBPvmj4YBiIOCgz3BxzNxE-ulnpHuEI.%26ch%3DAQEAEAABABTCniI2NpzFdtXTK0KrZo9Dpss_l-cumvw.%26v%3D3%26pg%3DLZMOETVJ6ZFX3NFFYG3Y7IS5KU
 .netflix.com	TRUE	/	FALSE	1789402046	nfvdid	BQFmAAEBENPzgfnqC-i6jycHugJgcF9gfNc1d3aLdAZ96sD7SfRQUNEjim8WhTEElQcpVs3VqOdUrnGU9r0Ktr1JMotM5NpVra0ZxDjiIhO-gn58x6pJN8PJVp6Hd5635FnZTEuLsNflxO6hEPlVsYWCoOJeWYR9

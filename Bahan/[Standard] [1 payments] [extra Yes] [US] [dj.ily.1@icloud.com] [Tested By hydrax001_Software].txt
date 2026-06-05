@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dj.ily.1
+– Email: dj.ily.1@icloud.com
+– Country: US
+– Plan: Standard
+– Member Since: April 2026
+– Next Billing: N/A
+– Payment: COMCAST_BILLED
+– Card: N/A
+– Phone: +19255388016
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dj.ily.1
+– User GUID: 2YHKCTMXOFHURCFB4TVO2NTTDM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13436865862503366	nfvdid	BQFmAAEBEApoDDgU00q7k6lwgjG3Fypgi0T2jkLW_2O7fP4iQdKAArK59OGwsiJn0J0P_nTJ3RgEzITOHv04SC3NyWoJz-gufiTTxQXJOPnvWxTEkcpAIhV4fV-5KZSeF1TJeNrvA7eEurmN5EzflkuK51TkEx4V
+.netflix.com	TRUE	/	TRUE	13437983118902067	NetflixId	ct%3DBgjHlOvcAxLVAyiMwHmCZv6iDdJXM1KNhaBCFV9vaTa0ZmMQCX4n9Tu2buIk3TEavhQFvwhYJ2PeL3HFKXIW8htMbXbKZBfr1XBdkY6aKynAaLQ8FsXBmrJySm3IeZJBMv_yGOR2TwB-abvxqkxyQrF3VLqT1Ni9BV3oTW7NR2v42KPNx8rbuLLW75UEU_mYwJS6Ip5WFRQziSswSAfcxQTYFKsvPzMshFiSNTMKTqa1FL3SgNVSCoDwr-pywRQOGcDFoFXmVv8UXLQs2ovRLZK7hMSgV4felXSpLE-C0MwL5QMxlW4Hm3JFNkmygnvwjQ3Jsuh6fe7nc2wmj8iAWoTgaCMxe11EtAviI1qIM8MbEMWN8DXo12lu-PqfOI4l64ac-MNybIUvHlQjvfGebvlizLBCkZ11gyfmFqrhpHNWHqh96hHNIrqGjzYk_xanx7Wj13wotSMStzBdl7gsU6clls8bFQKn9cnwDMRdBMI7KiR9wKoZo7pkuIoccBlM2sVU-EeZTtSG8i2wAybMILZD_KsDGuQQCuJJazofKyT_vf5YouCmk1I6-X3Tl5UrtBJYO2CII3PIzcxaRcwA3eJPsOVXvxJeWXdQU0b442HVWoRT3UpO99j4VbDW4PoYBiIOCgyosQEAyMTTu260cgk.%26ch%3DAQEAEAABABSQofeXE9V-tjkMk7KIsFx_rW9ND5f3C5I.%26v%3D3%26pg%3D2YHKCTMXOFHURCFB4TVO2NTTDM

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Explorador
+– Email: nanis18galindo@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2025
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 2570
+– Phone: +34609337754
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paladín
+– User GUID: KSBNYKPLTZBIVA7C6URNP7EBCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783170143	nfvdid	BQFmAAEBENtkg2VpB_tOw0qmqrBiGEhgjyCgXXTRZJFBoLXXKGk3cXCWK3FJvja2oujTUtYpMEpG3p9_EjJY1UR0hKH3OZ136DlANKmxlwThTUNbmsIF1rT5AINe-WAdd8VV_5ysgOfH4ixnXtY87kIXMRQGGr6Z
+.netflix.com	TRUE	/	TRUE	1786562936	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLzAiTgEA-sjmU8FcMhGglB5OkqDhWEa0obVtjzqjzQRBJfO_w6ffGEIJHxykSR3Prf-ygRpXec9W5KsXtyAq6v7SZxXocBxa0ZuadjpldaqqeZ3JnrLGvVp8MJhTurQF0pnUUG46PCXQQVUaE9inMscYP6DqbWr67NUs1vB9CImwfb1ft5UiZgmcv45M-k8z0x2qZXz6uAY1Ke9NkHTbAZNpsJETMYfNZz3qfkk4tx0PStGZ4fgscKOhegoIzdbpacFBgeNruU_LnLkFdHgPIothJ_LdnrSkk8Agzr6lLTbcqqiraRVRLUMh38QKa-v3las1Lu8VncrraSwtw7BeA3HFixWs6ILfzbUnUQdjBPnWZAtifc5rulJkmfx92RUmboOs-xQS2sOBvA81cKu8Eqq5qrJ4zEjqCOC320LGp3PfQznXPM4anpGpzbvfjPsUDPn0hzJzU6rHhOT-MyIlMbo7wBbgDJPQ50C9__jLHbqUTdoOQrGAYiDgoM6rD9fC-yoWVMrQnw%26pg%3DKSBNYKPLTZBIVA7C6URNP7EBCE%26ch%3DAQEAEAABABTOEQ-mFn3mo3_zsx0Sn_heGHRyDfJxpzI.
+.netflix.com	TRUE	/	FALSE	1786562938	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Aug+12+2025+21%3A28%3A58+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3fa2b70e-ebb4-4dfc-8417-6c82e8eaf095&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BMD

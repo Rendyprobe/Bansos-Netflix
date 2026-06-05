@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aidan
+– Email: jl6109923@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: June 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 4133
+– Phone: +44738378080
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aidan
+– User GUID: UO7ALKWZ3ZAHDLRT4JBAUBLIAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1780856124	NetflixId	ct%3DBgjHlOvcAxLiAxUMRXTO6avaF13cdGmVkKBky5huS7MP-28txBbwjgompb0jGVP0PfppviidwIPHQVTimqz_CpQzUbjlMIIiWAgSBr_2Ey4NW13CmgTnOAzLAToUDc1hFSFZUdJrVZQS5Qzcp-QAjs0HcpISC7KLWMCf8LYFx3k8ruIjD_031mFgVPTgeLE6_scHFj4mV0wV4xUGVhbDApgKlAecVOFq2QPdM9Hc5wfvLwmVPSZum7R_vBirUBZB6dE9-Gv3_W7KNevCjt98UcxsrnuLdF24-KfU6NyirOomDhE0g-msLF50uyVGblQU99ESiJDDeiHrZca4da6ABvdl-NEqsc0-S_zrZoQWj6da13C78em6PHazIKVVz0206bQej2LIa1KlnFD-8hKov3OE32XwhO3VIwGDtXABvn8PdgPtUEkCAF9v4qzjfDkjANXqf0znEoi3YZcwvb9SqhTxOJ9oLrNfmnsyz1zbjg9QoAXmgbT-OZOK2yoETb5QUooTmaWjkvJX0Z-hJG1JCRy0fETTnG19xWHebF_YlBOrsoH5YZOXg2bjUV1P_830f_i_eeo20INJF69vLD8HRBH2-bEpZbhhIDgpMuO4cWG4JiABDpx-t34nibz554ZUfeiOxR3X6r4_4b6nGAYiDgoMom2GTxHXOvqQ6LmX%26ch%3DAQEAEAABABRqd2LPiqVgEILKOeaygNBwaxzWWRWC-5Y.%26v%3D3%26pg%3DUO7ALKWZ3ZAHDLRT4JBAUBLIAE
+.netflix.com	TRUE	/	TRUE	1780856124	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcnVoxut0UeEcfk3XljGdzr9MvXwURobM.%26dt%3D1749320124420
+.netflix.com	TRUE	/	FALSE	1780856423	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+07+2025+19%3A20%3A23+GMT%2B0100+(British+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b6881084-0192-4d5e-8e51-b0af95c17c42&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joseph
+– Email: joverdurand@yahoo.fr
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 3761
+– Phone: +33635974344
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joseph
+– User GUID: H7WAUHNHR5D3XM7NBOC2ZIOK3U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802468627	nfvdid	BQFmAAEBEOTV8NryVEq7LazY1IJOCStgVjNbnxXXZK0OneRRophbrIeGl6UQkpCHa1ydLwPVfO8ZmOkDMea-86gWq62xHlSWH_fAet6KT8jjMgYeWmchjMNHAXf8ee3_ijG9KwkT1GHMC59UNmrGzCgoYI5Lhskr
+.netflix.com	TRUE	/	FALSE	1810758387	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+22%3A26%3A27+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5329a59d-4c7c-4ab6-83ca-c88a7f407d84&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770932083633&geolocation=FR%3BARA&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810845449	NetflixId	ct%3DBgjHlOvcAxL9A5tjxqnrBC97mIJfzvwZad-8uEpGZjtg2SPNsF7KNGABK6h4Ihr_549aW6BS3XTGIxF77jxYxgNdJUGnEZrN7V3XuuliTRb9EeSj2u7RjsBZYudm4SBYXztENSS-K8VF0DfkjEuyLhZUU0JFS1AzuGp4Kvss8aNNUSaMrKJPe9Ryqcoi1xdlyWrcJ9d0HJt9625zssfkDjhljDay3tgf1Xu9Mqe3fgpDjvJ5ASfWHJbe4OyxNajYT-hHsYZal3xKz_F5rnSCIB6e-ogH70TKncihESxWcuq2hLGDLd08HWxLXeaqJqiDikR8SJPaix-kAEutZ8lIT9BvARM8Z4tMrVbhVvhiX_9w2jOlETz51tGWFRgzxqylM6dxsqm0MhvCb-VpSxgnwajKKaTHaDoYSDbb0Y3lqPTetQPjEA20ru5PS86xhoe1tW0du1Jt5tlaGQgtO0hdbcK12GGWsHokUAIh7B4lQUtYRmYyAoJV7WqqG-CV0hBUY590uoXl0XxXHAs9NpoPjEpoJ97_om7eMXKgiCX4fyADbPw16jHnkttUQis44K2s-hMH9rGltxvapKYKw1mjnskUaJqj9FLSxMAeyK46IjsCJmSXArnr_Ueh-snZ8sEZExQnR7xQ2RtVEQErm3USWH_n5puEelQdRob7OkoFuGeIQ11AeSN0GAYiDgoM5InVryx3KI-FvKPf%26ch%3DAQEAEAABABT5_iu6WJS-gCOAfhCJNyMfsiJCF7DDbak.%26v%3D3%26pg%3DH7WAUHNHR5D3XM7NBOC2ZIOK3U

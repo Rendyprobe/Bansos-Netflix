@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Ha thu thao
+– Profiles: ¿
 – User GUID: 4PP5FG5DSZF4LFGV3DKDRTPR5A
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLEAWsoUNG+Y1jYCThpezWhkBAOClnerFlqoHy14OJ4LmjZZF44H2GsxHhGSIKrC61YYbOMms+UHJKpNRjR0wfQEeT5rgOfmks2vZddkRk+AslueSH1al27/toM/nbGN6+E4YEJqE2T1pvYW1Znl/1q4mC6rJg7PKEWu3PG24XSwAYdRR4ad07OXND4YaEdiHK1d8wiFpw0lOrLZNSyfvXPYHnk6QoIgLzNp2H8QmH5k4QKjh98gHNR4/997MuDuQ8gwdtDruEYBiIOCgwZAHwIr3qR401wJyw=
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLEAWsoUNG+Y1jYCThpezWhkBAOClnerFlqoHy14OJ4LmjZZF44H2GsxHhGSIKrC61YYbOMms+UHJKpNRjR0wfQEeT5rgOfmks2vZddkRk+AslueSH1al27/toM/nbGN6+E4YEJqE2T1pvYW1Znl/1q4mC6rJg7PKEWu3PG24XSwAYdRR4ad07OXND4YaEdiHK1d8wiFpw0lOrLZNSyfvXPYHnk6QoIgLzNp2H8QmH5k4QKjh98gHNR4/997MuDuQ8gwdtDruEYBiIOCgwZAHwIr3qR401wJyw=
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLEAWsoUNG+Y1jYCThpezWhkBAOClnerFlqoHy14OJ4LmjZZF44H2GsxHhGSIKrC61YYbOMms+UHJKpNRjR0wfQEeT5rgOfmks2vZddkRk+AslueSH1al27/toM/nbGN6+E4YEJqE2T1pvYW1Znl/1q4mC6rJg7PKEWu3PG24XSwAYdRR4ad07OXND4YaEdiHK1d8wiFpw0lOrLZNSyfvXPYHnk6QoIgLzNp2H8QmH5k4QKjh98gHNR4/997MuDuQ8gwdtDruEYBiIOCgwZAHwIr3qR401wJyw=
-– Token Expiry: 2026-06-04 09:23:05
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798385076	nfvdid	BQFmAAEBEDH7sIQpCZq1qfpkFud_CW1gCrHlOfzliSEl6rF2mrDt8myw4SivP2FJ7akAfSyMv9eXnbE6F8lEiYw3k41eUYXH7Mk_2Xds9VfHanev-phYE88xiRh4h2RCEaLyaTQBk_r9PX6zFSU5tN_5fsGv2SDt

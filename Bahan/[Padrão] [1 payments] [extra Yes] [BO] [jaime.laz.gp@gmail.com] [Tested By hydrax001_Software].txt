@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jaime
+– Email: jaime.laz.gp@gmail.com
+– Country: BO
+– Plan: Padrão
+– Member Since: março de 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 8445
+– Phone: +59160689321
+– Quality: HD
+– Streams: 2
+– Price: USD 5,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jaime
+– User GUID: NEV7P4B4HNENHPF656FBDNKKJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796440324	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA8RvDpjKQeqopC7z8JzCcR91fAoF78luxBUfdAhlAMGhl7Ct_GxPzkR9fsLVT3wulegUXUWIYb71iWu4g1pE3Uj_nSPRCKW5CKtzfm0e6frlmectGtqc0-5nfhufSVbViQcnTccGCp-LUJXYSCEwiv7nXDNLGy30YTeMqnzO3fH9E_Cd8K1XU6JDsbNvW5n-KzRJr-r1Jq7B_ozHLnUvk3YWYkxsfxyVJWuyZc5z9rFPJVa6N3AKptXjTI9p_Ajjf62a-Ilj-OU5q23Uz1QsnjrThbogKSmosJjOHYM7RCWqFfwRPQl-bYOi3XDnTxhJQMZYkrwIai7ujF5hb6LlAzjHffac0q4IQlS8HujNiaTvVI3agIOoRbvaBgffg1S8xvXUkXrI2bYj08YoRyyOGUvXIdtoj2J9lGzvE9BRD_dbV8oF1DAkQP0t0iiNr4umHsLoNiiAQO7px_l1jVpMj-Ipy3HM46q2-54h4A68_cxmPlSi4FTZWDtYHqju6b2jT-iDwdt5GAYiDgoMMF9gw2nkkRseTcGv%26pg%3DNEV7P4B4HNENHPF656FBDNKKJ4%26ch%3DAQEAEAABABQK5ZQKuvZh0FZkhW9foNOHvEmFFBIEF-4.
+.netflix.com	TRUE	/	FALSE	1796440326	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+23%3A12%3A06+GMT-0400+(Bolivia+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c59b8a95-66f5-415c-9dc0-abba0855d883&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796440324	nfvdid	BQFmAAEBENz6ceeDatl4w_Jqzgho9XJgopvMFoTIZKGPTsZ9HjzzyJfXGAfgLaT6aO6wOYLeK6C2egnuND4cbn30fAv6Oc-Q9zKgyTzBrmTq1bSV45iedGaGDTXEv2UtEVgpH8_LZlRGhczz6n3oczn797hwlvRC

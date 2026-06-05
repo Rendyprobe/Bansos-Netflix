@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LilAyoetVincent
+– Email: abertholier@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: janvier 2020
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 5000
+– Phone: +212660232306
+– Quality: UHD
+– Streams: 4
+– Price: 95 MAD
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Agnes
+– User GUID: ITHDM7NLD5B6ZE7JMTTA5JXNPA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804033954	nfvdid	BQFmAAEBEAvSZryjcs9gW2aI2qLrZeJgKFapowUcXMmv3TMWRuRffCLLxH3UKWwiBo4YifU5Vh25WeemzGnazp8hDdwtlGw67ZAkm4RJ7Ji-UTjnQaql_pkLUzewb6glgdMJ95L63_FKfm1vQufWJpKEK3y75hHp
+.netflix.com	TRUE	/	TRUE	1805726913	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA6cROr1EvQuhlOq7OvpJ9IiANSGR3HzbLzCZxRBHy-m207rOJ80-LJ6y7xKSTKxBJa1EijymYWU8d0X_so-4QYt2aUvHhm5Fnp8baPRxtbW4irHXRUy64mYsd5zzFr_kfdP_8y0zLbQP5aaCGtq2dpybrJ6NB7SVp5Tj0aC6k8-hLdJf1BnWTHwVYN67F_iXv4bedRarw0rqf17BRVR1D2NHlSZ6yV5eHU0FUh68vHDeyAUhVJf15bw5BHvVjHdvGFFvmw2AVsWfuCI1haXURlvPKkS1B84Vtm26Ll8nUeKwVDpIoyNRptNudQTo4mP6rm3k_LVdPjX1Tn9YAEIQw2ojgbzj21XS8dR4ndBsyLeEJYACKLM9SUYgjfZNTJhuC3HLCNI9jNaWBp--ucmaOhi-svHyKz445Hd_2K1Sc5W7C5RuxgGpb1KU8eXRY3_jStnj7rPrzoqtCCh3J4Sqe1Bz0iqMOEoME4tNU62o2P5i83xBNkovDkM5hzKPHtjtxvtWHq01tBgGIg4KDHHtRcJe2vHd7er1og..%26pg%3DITHDM7NLD5B6ZE7JMTTA5JXNPA%26ch%3DAQEAEAABABQehppZXMAdf08Z3ixOKV53yxwz5fkI52k.
+.netflix.com	TRUE	/	FALSE	1805726915	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+15%3A48%3A35+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8fb49598-e1b1-4e47-9f84-dacd84c5e058&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805726913	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1VKFLAlAiAg1S8Ouq6TL3jdHL1BpZywM.%26dt%3D1774190913185

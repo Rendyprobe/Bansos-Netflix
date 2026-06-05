@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aresdin
+– Email: mohamedtarek9698@gmail.com
+– Country: EG
+– Plan: Standard
+– Member Since: September 2025
+– Next Billing: 2026-06-10
+– Payment: N/A
+– Card: N/A
+– Phone: +201203907833
+– Quality: HD
+– Streams: 2
+– Price: EGP 170
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aresdin
+– User GUID: A4BXMCPIJRBD5FLVB4CA2N6GCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804292255	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA3nVjio1oslbBljZ7PoOiNqH_kgsYwSdhiZ-WRd1fQV0yh_Ie-Yf94jWHMbW9jW8or2WfEw_n1-t5ypRXhUIOhTTuvZ0pAW2UjANMOvBnVelMImBcdmHtFGJfvEEJ5WQC3xmBZIB9NAjVdbpehl263tTxHfjTJUC-IORF6ixAI2Ei1QrHf9JFS3rmSFaUbHfEMr-mcKalybeea1g458btVcQhs_iEmg-LTuonGQjT4MwZfiTFEE-_5M_BMH-A8blVTCQl_bLgDvtppDtBxb8KWcSJaPm1Dr_CzpU9h-EhhfRniP-ipz6OynJOTdeIQzz4YJIjFYA-l2tYjcSM2BxPT2AG_7pShCH6rgN4KapQyGF8UC1XTVXnNE299LRVGMN6zDoZljZbPMAXsi6D2cmkAM00ZvA3CzHaFtlA16adGWWrj_4zsyOVj4etcIlp5javGUC_zmJdlz0sf77lTNGAMxzNCf4bVJ6Yu-mV3NZ9hMS-_GuHg2Q3qtR60UiKFHNuxLe7-7FEIAYBiIOCgxq6KwvW8pbxxDkEDE.%26pg%3DA4BXMCPIJRBD5FLVB4CA2N6GCE%26ch%3DAQEAEAABABQehP_vAgNkBEvBX9igggci1cExYV-uBwU.
+.netflix.com	TRUE	/	FALSE	1804292256	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+02%3A17%3A36+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b0407e5-d0f6-47c6-a345-4555f2090a12&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&crTime=1772756242694&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1804292255	nfvdid	BQFmAAEBEKKExjcejKO2dqf4iJxideFgc8R6nZUrXA8ljqTBJfnI1QPSi11a5nqecSgIutz1J3uLb21CmVs9tjWLdU59xEJCtpB75BQaAKc8PMRZfkaHha6qZFd4OkHVa_yH715tElpdLYVUIrCooK1lOr0Mnmqf

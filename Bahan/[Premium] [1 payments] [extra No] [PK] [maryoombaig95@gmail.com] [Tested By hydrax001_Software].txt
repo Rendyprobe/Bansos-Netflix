@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CHIEF
+– Email: maryoombaig95@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: June 2024
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 5566
+– Phone: +923186424175
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Măřÿøøm
+– User GUID: O6YAEV47YBAJLHCAROPX3D2WTU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808941227	nfvdid	BQFmAAEBEGnrH-10liikyzOinStfNbRg-8tlw7sKxvQ1YJcCiKp8bCXYI0qUvBg0S-iO1fjnj3aj29MY02DvesZqElTF2ruJShTyX8CxkSxtBzw-hifPOu_Evxgfnhq7LbQaSmSw8Dld4AsjeSJVk8v5bpmK2OOL
+.netflix.com	TRUE	/	TRUE	1810230782	NetflixId	ct%3DBgjHlOvcAxKDBGiCROF7SyHVFg4unfsSra9loCIYbfy2RaX_bGpkyuF6yGIaQvcq2qtdlBf92b_DpkzLRrKKK-cowaKUpDUud2PJphaKNxM8GCRRtUWwe0A8yZVBG7h47o8LFJYaX0W2OOS9S4jtmaeoGa0yKGku9vkwxkUrbZqITgyObPFd_03BvFJLOrWxm0OZS9BjgRcQQa0lvSQOuSgpkCuxQ1jCYHxVjxVujdoHxcoKgRNxH0WnQhdjaNtSNPAdo9IR23ed3AZu9i_U_ykBzzpsPsbVcs1pN4VSlyZ5akyD0WHZSZ-6IzHtRkBityIxwF7BOQI_R_YyJKWjfdkdZzLV8X2ZyJ-gEC6-Z-RWoFpTWf2-faaY-8jWNx_9uZPgufVN38sMSjGPd8I9bdCGpyoJzpbSyTwMorTS_z8U-fA_MPDIDsXU1jZVTNBRSC8Cvon5ZVntSa5jmnYoN0QI1m0NBYAsHTS4unfSBKiQ4Co8JgbQg3V-q2OXd8OvpCehKBPwrhhPhLv_9xMMDpYlahWqJb1_ZyvjP5HVEXnPFjVk6o5FLHXKgG2DzMevkxP12WxkCftjYEyfOrT586kGhRrPwXA3xYfhFi2MlBYsU17QWSi4zCA6erp3yLkooDQ8KOMfe8fO-x2Tesau5slycpzPm0XYFLX1QQCT_FlwmMvqoO_MLtgT58OAGAYiDgoMIR0Sr5ThvRqLrjQc%26ch%3DAQEAEAABABQ1hWPMmiuFd0UgriEjLiFtPBigqGWlJ8U.%26v%3D3%26pg%3DO6YAEV47YBAJLHCAROPX3D2WTU
+.netflix.com	TRUE	/	FALSE	1810230889	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+10%3A54%3A49+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bfa8afcc-1ec8-44d2-9741-afa8076ac312&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

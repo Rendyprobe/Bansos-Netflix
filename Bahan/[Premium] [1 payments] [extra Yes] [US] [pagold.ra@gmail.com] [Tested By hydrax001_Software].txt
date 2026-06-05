@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chris
+– Email: pagold.ra@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2014
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 1666
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mommy
+– User GUID: PNHSYKYNVRAS7AKWZLMKO34LHA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788902420	nfvdid	BQFmAAEBEK3_7jKa1zM-uHYO5JomSAdg5MuDFxMmXAsf80Ep6wcC4wkhURcEsN2ryKVVGbL49ZFBOUiwWied0we_ow_7KTry0cK4jPO0AkDBFWpcAb7qbUoA9mDT2RURyia8CzjPHDpHO7DHGaS4IS3sRpM5JbDb
+.netflix.com	TRUE	/	FALSE	1806452580	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+20%3A23%3A00+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92332cce-f570-4c03-b40d-24f2553abe8d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806533966	NetflixId	ct%3DBgjHlOvcAxL5A3MvZwtTImKQsMyKA2Jrdapu1hP_l2hucCcUsyK9EZNRzXtU0pg735fmPUEQAbtyPHems8h4PzNfzA59Ff_yFIgJDoDJHYgzOFJQY-KjMK2IX8r7LW_iuwVZQnKgM8CiXFKTLyrTI-wU-MDzhQALlZ-_A8R7ocyRihBivY5i80YisOO0u3sQ9DUS9MkcK72D7zCMDKFil0DK7xmauaCAQeeH_Kw7J9qWbQEK4WXim-lSRy9av6ZnEDkPvydU6HyJ2YUnMLzy1n2iwEQm9A2yK4HxUhcT6Rx8xZbMPiP7xdYDoTXHFBIjGuL5YRuYlqbhkj0F4FfB3A6i1Og5i1UrvfdlXDmkwWWKxBovwIJoNAApUaxi8wv4sJIgbdgdduV_mhYg73X-IiNJAU_Xu3MdtGmHAphzrH1JPXS77U2tLD8JVUI91Ve5LMVHLvtjM_Zk2lIISYfEKVyV_1vMs331XTyfHq1c-dPZM2DOv7CeaHSO5N1QJXiWy9wO4lWM9j5JCI_8sL75ixQ30Ag7p87OVr6tScMd-siehj4nGe-F_aHJe1T38_s3OOss3qTC42Ssj-1XCU9WU0_TKA2M760iqo75FuSYRwBA1RUkOAnfaA1M740-VfE1b9BBmKpUkfa_oqLDTvfgyYlFxqO7kQrNXtrXEHxWI8uGUSEYBiIOCgyJkYPgcaULWUqmTk0.%26ch%3DAQEAEAABABS8HLCVT7Q1J_JgFdKJpKL6NIbccWYjR5k.%26v%3D3%26pg%3DPNHSYKYNVRAS7AKWZLMKO34LHA

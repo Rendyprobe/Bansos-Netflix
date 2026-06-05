@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: mpourtzosjim
+– Name: Max
 – Email: mpourtzosjim@gmail.com
 – Country: GR
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: mpourtzosjim
+– Profiles: Max
 – User GUID: W7UOPHPEM5CINCJFM635SDGESY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARhR9hY5ZieDuNUoLmBrto3Mht4jrgGAHDIaBwtrfzlGei5dgH1BeAEYad+K0NwVzSwa/KRCxE+SSoo7y41O4JqCO9FhsCzGm2xelViGhsGHN1v8RUpZhtTHG22yMS13kRId1mR5vCs3KriiWTkzv7YH9NJIYAG9iGt924xsVzyzt+sRHq/8t6b1i4sWzvgYk0rio737kLgaxd5fqvHHDhMKU8Et95ZANBCjJ6akfXw+kY61dtoG23545un8vGyjkHQpGAYiDgoMf7+s4SkH6EPcFkK3
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARhR9hY5ZieDuNUoLmBrto3Mht4jrgGAHDIaBwtrfzlGei5dgH1BeAEYad+K0NwVzSwa/KRCxE+SSoo7y41O4JqCO9FhsCzGm2xelViGhsGHN1v8RUpZhtTHG22yMS13kRId1mR5vCs3KriiWTkzv7YH9NJIYAG9iGt924xsVzyzt+sRHq/8t6b1i4sWzvgYk0rio737kLgaxd5fqvHHDhMKU8Et95ZANBCjJ6akfXw+kY61dtoG23545un8vGyjkHQpGAYiDgoMf7+s4SkH6EPcFkK3
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARhR9hY5ZieDuNUoLmBrto3Mht4jrgGAHDIaBwtrfzlGei5dgH1BeAEYad+K0NwVzSwa/KRCxE+SSoo7y41O4JqCO9FhsCzGm2xelViGhsGHN1v8RUpZhtTHG22yMS13kRId1mR5vCs3KriiWTkzv7YH9NJIYAG9iGt924xsVzyzt+sRHq/8t6b1i4sWzvgYk0rio737kLgaxd5fqvHHDhMKU8Et95ZANBCjJ6akfXw+kY61dtoG23545un8vGyjkHQpGAYiDgoMf7+s4SkH6EPcFkK3
-– Token Expiry: 2026-06-04 09:02:02
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1807655092	nfvdid	BQFmAAEBEIRKQSMhXtDir5m1GZdD6FZgSl4IK13ulfeSKJbDP2YryN27YgYbeP4brBzY-rvsmEWOcw_CXRIY2H4aMktsK6tvjw8VsWIJHr3VP8JUmh03bIfBhHt2PLfTed7z2OVRkhPkgovBtPw_PeNJ0ndBqlwB

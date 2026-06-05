@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: fradani
+– Email: vincenzo.delogu@gmail.com
+– Country: IT
+– Plan: Standard (utente extra)
+– Member Since: aprile 2024
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: fradani
+– User GUID: I4NMVFG2GRHWJGOGJESCMV3WTY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13451666512441758	nfvdid	BQFmAAEBECvu1JKjF9nRSuT1eV7ygEdg7il_mCIAqG54VrFnjOVH7bSXs4mYPh6K6bODHVZixay5xae0Z4xXRtLH4wnsg2gksDZhPscSvwsQZC53b04cWzgYsQ8ux-ULjENnplP3h1WjR2TGjZNeyRmp-FImBdSj
+.netflix.com	TRUE	/	FALSE	13453074587000000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+23%3A09%3A47+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc8a497c-0bd2-4c90-9bd1-4dae2bc07861&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1775656906005&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	13453661188752217	NetflixId	ct%3DBgjHlOvcAxL_A0haY3ESsoDjZeYudpYhdV7BWoUZZyLR5LDo49kSXUS67UJkQHKwFIZZBDUjqSJnNJ0pVwYh497hyrVXBJb_qVew6kGymUpl_PJr9KqVbFYNTtDR0sU4UdIOCq9rWMNQUiMpgR1Mzh33OYM4Vwtt9AfouBG0pK1NXKa-4XYfeHyAHB3ptXn7xBEZaJ6KGCD2HwO8uCoydzPuL5Lp-PgpcNI352ITMExwE5IMJSGN8puBcQGhPPdwe0tZ-snq41rxrxroLcnRMCei337xgsy3hatqOwadjyi9vqI7gIcc_BzGtfCTQw5fTqE8WwgBOZ3FqtEheypWHsn7PYAB2UwVOq0AZsiRbwI-5pW9UogN_L__E3YD7uakBZD-MWmNpXNJgexhykw38YtBppZ7IEpDrJOFz3C0Hyez14FQLHVOZ9__KCHxkhGJROrcbGYjbzrJ_rAGYebXq7KO3Qkl0-YtwyNJJewYHpxb-uVLDZQnKEB6U9-4EOBtg0dHhcw3skJJnP5ztehfLoMC9QY7oBvGgljSVuTnGotHBmOnUZPDa3lUnE7S5V2ut0NNz7LS5CfIwK1WSxMEY0QJjukGitja8OQEqyd4azzdaOXNwCyBLmS8Vh3OBPv59ItS0fTEnjGJ4aOwPn-k1OAtSv1vlIbdL0g417SByaAcunNeJIiCBr0YBiIOCgyJhkv_l6uEQW5lvC4.%26ch%3DAQEAEAABABR2ykAW9n8gN5DW1_sc7yWtpotyCTzDTPg.%26v%3D3%26pg%3DI4NMVFG2GRHWJGOGJESCMV3WTY

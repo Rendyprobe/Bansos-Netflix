@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Xnon
+– Name: Noah Pagnotta
 – Email: qaz121659010@gmail.com
 – Country: US
 – Plan: Cao cấp
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Xnon
+– Profiles: Noah Pagnotta
 – User GUID: Z7H6KI63WZF23A6NZMSZRLFREU
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCATGfMiY/1zs1CgaK7kmK6Ub7Y00ffJ3lzGc9x0jI3aAIhARWujoPYHyuGDKxxuxvkBKnTPhaCodsbdaEHFne4cYHkNq4jp3kIST4dVDx6bP1wNczGX/MXfrA3V+tOb5tenokj+oYC7kQc8O/rlTyWfUHpxmqw9ELfsRIqfadXjuACdUBXHceC514XWcdoP1LGxS9xXKh2PJO/8dpQz7xNIOEdH18uN0aJZDMr/aRE5WFh195e+r41KhSE1Nk5FPSVRGeGAYiDgoM2lvEVbsqFyLUXKx+
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCATGfMiY/1zs1CgaK7kmK6Ub7Y00ffJ3lzGc9x0jI3aAIhARWujoPYHyuGDKxxuxvkBKnTPhaCodsbdaEHFne4cYHkNq4jp3kIST4dVDx6bP1wNczGX/MXfrA3V+tOb5tenokj+oYC7kQc8O/rlTyWfUHpxmqw9ELfsRIqfadXjuACdUBXHceC514XWcdoP1LGxS9xXKh2PJO/8dpQz7xNIOEdH18uN0aJZDMr/aRE5WFh195e+r41KhSE1Nk5FPSVRGeGAYiDgoM2lvEVbsqFyLUXKx+
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCATGfMiY/1zs1CgaK7kmK6Ub7Y00ffJ3lzGc9x0jI3aAIhARWujoPYHyuGDKxxuxvkBKnTPhaCodsbdaEHFne4cYHkNq4jp3kIST4dVDx6bP1wNczGX/MXfrA3V+tOb5tenokj+oYC7kQc8O/rlTyWfUHpxmqw9ELfsRIqfadXjuACdUBXHceC514XWcdoP1LGxS9xXKh2PJO/8dpQz7xNIOEdH18uN0aJZDMr/aRE5WFh195e+r41KhSE1Nk5FPSVRGeGAYiDgoM2lvEVbsqFyLUXKx+
-– Token Expiry: 2026-06-04 09:22:35
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1804328236	nfvdid	BQFmAAEBEIDfyI0Hfgn2798dQAnpVFFgE1dF61XNamTQzYxq0rlHwU3bGGnCGB9mO3vYUNK5VEbu4ladz63t6uWCWYuR0KVxjkB7EFYb8VKd1XH4rTEeegEZ_b1DU6UhbaSS2kcXl_3u1hwxrP1NIg_X348bd-q9

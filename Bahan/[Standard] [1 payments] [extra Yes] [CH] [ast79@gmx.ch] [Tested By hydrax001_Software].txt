@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ast79
+– Email: ast79@gmx.ch
+– Country: CH
+– Plan: Standard
+– Member Since: Mai 2018
+– Next Billing: 2026-07-01
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +41787490379
+– Quality: HD
+– Streams: 2
+– Price: CHF 22.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ast79
+– User GUID: Y77W7AXXRZCPDEQTJP54HINZ3Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798009987	nfvdid	BQFmAAEBEFu8xYMgFRF7b8yatKVqjM5g_mIJa21orArIkmxnALtPnrjhchWycoVkSmdbnRbc-1ccJ7AqI1YlL2GTfMgb-tPXWjFi5PVpfqsgvgjalXCO3WYlR1wzDxsG2Lg_iBEPXsV3YY4Ssh--hAHZcEyneQe-
+.netflix.com	TRUE	/	FALSE	1805719597	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+13%3A46%3A37+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=693422c9-4984-4fd7-924a-82fd8e74fc38&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=CH%3BZH&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805962704	NetflixId	ct%3DBgjHlOvcAxKMBFZq5eT7eEOvQl6reehdNysWHaZFLBejhO225nwY83XEZKGzrz88h-U9bq01eY6SGVOJ3ZDEQ55TXOfQb1epmTg41KZwxc4uZIecRuke-uGHUYhQ5Ll7V3RbSTjIlRvO4B9WxT1gS3qg4sWch9R95_RbEDCzPrdPhcKYKeKAKWJ3AVhyd2HnFW0Hhm2ipxagEwiPgCGNFJ-6gMxWXjxCZ8ZBWIoMAjJILAYmG6Z78nCQoEcuWY9VfT0X1C_QcanxQGZfpgWJjPm89woZ-SW0sxBbJgQNt9vyc9fUup7e-8vEe35-hzSc6N45jL-DTXvaEX5YFlkdmMRHYrHeQfDoAfgw-hbILvQNyCh_BDXvLITL_bgDvnzXwTLN7pWKfCYhM2VbNpzbDuGCaZ4BI-aro7v7L4a_UffwID6CYrlHyPT8qzKCDsgEqvGphpuDLkK4L1-0_cFIBfdoqECkzkGc_gRIPH_2RMlZ9uvfiBi87lIhlGA_ze8a1d0NGfQiSYJ87M8JPWMEWwVuwpPqD5neU2jQMVFF1ejG8dqA7eiT3QKmQcei-nmLoAQjxLgZzOEbDRcrK4SBtnzxQR_rLqVegKVT10dRuU_o0wmDNvhxbPWu5XoQr3R7OqWD11QIDAs65FjhmdlDZAoekZLm7Sv2losKPsMdhwgyX2iSsasqfzfyTwWN30gIX7u4d7msGAYiDgoMPxCaxz8khiqWiM3N%26ch%3DAQEAEAABABTQJ44YcJQBIow4eney9D2Dni6kGjXabgs.%26v%3D3%26pg%3DY77W7AXXRZCPDEQTJP54HINZ3Q

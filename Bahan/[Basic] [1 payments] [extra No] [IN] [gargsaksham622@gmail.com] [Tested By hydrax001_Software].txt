@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gargsaksham622
+– Email: gargsaksham622@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: +918306795115
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gargsaksham622
+– User GUID: FZPZG4TNDZCKFIL7QFXMM7TE6I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809178735	nfvdid	BQFmAAEBEG6r9pkCK6INxQdAe0qdXY1gfxYB3G-S_jppdHT3H_liMrPzoLwtreF4COdNH8ApwfPI2xw0WlkQyLycWCxFKl5lQwNGpieISaQNph7-i5yYoUTrW-Q1g56QxVmTEbjcAmJGngmE5BY4wU0WkyuDnrAD
+.netflix.com	TRUE	/	TRUE	1811574344	NetflixId	ct%3DBgjHlOvcAxKVBPl3AVmm_49hjRO0pdjgjchSTQMzOsJVp0_SZ2HeEjLECarMd64yaV6sFhspcPaoSR4X5l0omPVz_164qRfiq5HpFwAoHp39fcR351htzQTa7zHW43F-xI5cDfCDZLy0R3qai9ppMvJwTCLnaoWzN6axLBKot_bPK9N5Mobq4a653rC0vQRCIv3Gcuzff0vO2gR4783SLJXWAQNjrUzMciCEHqBdeUT-Zg_2e-V-JuZ8QHicI-QBKk9bT9QwdBYphVXpOYzu4KkEMIrEL_BWRsE9HNAAaqE2FnOEI-e6jAN7E9UZkRuROmVw8X_ICebV2HM2l26qoQvH60pfMlSo6Ri2QfjpaqJuSAKab-isyOPormiQD9z9asjxBzViVG7IPv7Tv0wupmkxswliIw2lO2X2CEFlCr_VKRwxY2wqtda4ZAUSicR2JzdGknWXxle1DN0v5jLD9-8nCpRJxKJUueN706XUegGA3k9uaSFfu1n0uZs3o_GVxpH7cOdm6Vytn4P6bYwNCsKO9le7xGm1rkeqYLKo1hRmOguM4QMwPeFOhSGwmwUXMCs4Ddfq5fhOQxPrnUZbNavd4DgadKyombyEuW8tZoKDivRJQ2oIcWSLPFzgzAmvGCDaO0UIQKULJ3da-zPjBeAmX_65uXGyhLJI7k41Jo-LBVY8zt21Sk3cSLMxSoiCQ6KFptDJsgmOnO3h4OYSGAYiDgoM_xuZKXTattQcNat7%26ch%3DAQEAEAABABRqGp3EpQxrhYQurdpk8Oqjsj8FJjaO6ak.%26v%3D3%26pg%3DFZPZG4TNDZCKFIL7QFXMM7TE6I
+.netflix.com	TRUE	/	TRUE	1811574344	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdT3GnIhjTRw95epf-H94eXSQBx0ZMpTM.%26dt%3D1780038350169
+.netflix.com	TRUE	/	FALSE	1811574604	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+12%3A40%3A04+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=273bed49-cdef-4a9a-9c46-6dd5bb3d6dc7&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anime
+– Email: angel7.trujillo2011@gmail.com
+– Country: MX
+– Plan: Estándar
+– Member Since: febrero de 2026
+– Next Billing: 2026-06-23
+– Payment: N/A
+– Card: N/A
+– Phone: +523333929703
+– Quality: HD
+– Streams: 2
+– Price: $269
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Miguel
+– User GUID: J6WHFNFIRNBEJG3FDC45DWOQTE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806634768	nfvdid	BQFmAAEBEMoTpVy1GKLWNP-_NeikdehgfMdjI767xJJu7BQ3qeadDZlzB1M5swRUihhsY3marNqeAgaaFodkT18cPvVefzTotcMJMMGPBC6-16W2dwqMJgEfu-cAg1U6ZPLvom1UsDyV1ONJ301G2U9GsafXbI8V
+.netflix.com	TRUE	/	TRUE	1806634856	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AlPLUR9Ui0j50SjcM9_17VKDuP93ZaGgvkMLAQ1DO--3GI0a38j6uRadAsXGmAOgTHOqXY-Q0aS0T5Fe4plG5VeERNJq2mJsAUSTInM-bCbOjo_5GCk_C35I_nfcBX1fDBdJ25RYDuX-Rbr-S7D7nM-2Hg_jCjMfGT5zCEdtVC5pc1BkG5pOamUAzoxnI6x3cDhz3GMH1BlgQmgibPdI4TtSAry-H5v-Oj4VARKkLpDpsSa4vrTRHH2d6NwesPskqoZCgL_eKpePLN1EihIWaAoCu8alcF0G9Alw24oW5gRd8lxMI0d1IcP9NbQ96Cp1byXbxy65v17k9x80e9oQafhpLVHC0gFasuKBN4qCU9PqiQFTIuNzhbmu83GqSN02NaN_y3v7optjeVKr5LDOk_DV1y42Rpn7Y3ALTvrjtTaphlRKBPrOiZaLF-gFBXKbUATBL7M7iiMGZ5AfNBYnMjpMr78F-H8ULDTPYWdwH8SJidAiuiv0CovwVJIjGAYiDgoMUXliQBtSN9dohixG%26pg%3DJ6WHFNFIRNBEJG3FDC45DWOQTE%26ch%3DAQEAEAABABSapPLMLNBQaMVk6K7sMGlMBuWz6L9WsB0.
+.netflix.com	TRUE	/	FALSE	1806634858	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+21%3A00%3A58+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f421606-3d0a-4394-ab89-ca48b4c48df9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772776121666&AwaitingReconsent=false&intType=3&geolocation=MX%3BJAL&prevHadToken=0

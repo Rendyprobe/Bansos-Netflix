@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Meli
+– Email: mattiamilic30@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2023
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 7994
+– Phone: +393927821134
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mattia Milic
+– User GUID: SHE7TMRBNVEH5PPWCMA54WR7F4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792265826	nfvdid	BQFmAAEBEOdHGJmsdrRLSSFdwprUsSpgBdeJnU-jDUpTIaoWEDbMzijV27ppY2JZnbwqLnqSRG0rfEhO_eNjSYSX8153ukZul-HWsxggTij16wIy6WqvfEZmGaM6E3O5U6gapRpNGD0F-jNYnxBp1PxaVATicKaf
+.netflix.com	TRUE	/	TRUE	1793029327	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AlXPP-MKyGhwrGJj1rRGqSh2tgWDe8rKCoWxvoxvsjb9Iv-dzQcBhSVf4ToG7DpAUM_BNHAeQ3YHEfOymmqxAA4_4oWPkaDW5WyFnQl7Xc7txlC4GTKqPhs2-5T98fsIZUVIizsltfEhJdklPqrTLeXugDNIADWbI-Qcout6m-NjUZyEv1XkJazbFZoRCm9WUjFoGjgWl3rqSVsZkQBXS9TS_3F_1QwTXsbGnNaMHvpbL-rSJQofFLgyb8og7i6Uy4uktZ41EOgR_RR2qSp2kBe3KZbc56TlhQRNp4hHOIwGYvN2wAmn3SiqDkltoEyR6mdSAzdFF6KLCURJ-hSonVMpxDjtN6BzL9elkA8h2As3tulxFFw_CCQum8r9rjUZ3IDyvlzWY7H489mLfA3Bnl6VEFxNmPGYS5y2PVfWwz2nRBx3azjjfTK_t866w-598lfMhhRlF4n6UKf4RBBRakBwCf_tYmvxezkwhrtdk-v9twU6Zk2L55jTka4YBiIOCgwMO2gDmZD2R1lLBWk.%26pg%3DSHE7TMRBNVEH5PPWCMA54WR7F4%26ch%3DAQEAEAABABTn74CIjQ-g9RZ6bzhQeCNhjqT_K4RmuRA.
+.netflix.com	TRUE	/	FALSE	1793029328	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+26+2025+16%3A42%3A08+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa68d48b-34a6-4bee-a295-a4495ecb844a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25&AwaitingReconsent=false

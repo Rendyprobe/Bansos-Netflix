@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Wil
+– Email: lynnthyland@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: June 2016
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 4826
+– Phone: +16085562954
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lynn
+– User GUID: 3LAOCSVTTBA4VIZCDHIGF46KDI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEFmOls1juGHhJHsSfEQSTi9gCQM6-eV69m_tLGCWV7CiIdOJPhph4PDum5cvB7h0SsCSO-ta6B-89t2Itta7I_S0mVgxEqTvG5A5DQUm1TZynsT_Tb8NtoX7PX6qU8KJt3hEsjR-WzgEDWpZLHDUyRr3
+.netflix.com	TRUE	/	TRUE	1783197724	NetflixId	ct%3DBgjHlOvcAxKqA_xjKJXDoRNRhqkr16r0zWoYZsXhBcXdWX7tbiaYWxJjEov4dpKFrHpgKpYnaJEcN4yMDlpWB_OLOCzISJ1DMkyWWj1HGvavYAESyVwPtMLAInovemRfm4xVD9fLvPGEudl0H94gGoe9kmUM2KaZZDcBXEG0igZL9w9UBQJ2M4u8bklslDeW-uzU43ygrhcm4ClSFmKdK47havshbQ56EQXu2j9AQ0YsDfT9IfEKZCOWw44Xu_LetNfTD1Pkhj2Bjbj_g5PtQSkT239BiDGPNFKUxxdkDMoi3p60UmIcJSuPZjpgmofFUIfMu6gaAuitWZD6errgZqSakNvc9s0q7qibtWKx4upDAWJp_5cCToUf_vkylNTB-rQQATUKPk6zrxLNNkoyaxf7Oo9BW3numkYzJbbMdroJMTHxNQaPioTpbamjd-2hqWh5PPBNPlJ3OyCmENXmdyjvRo3oAJ8FWM6m55cgzhs1gt-5NZu0lTPdYKPTfY5JDQldmOpVU4FHWq7ppBvLyo98QsaSPa4BjMbYYTnJtK_niQhbOkL_6h27Ap8sjI-VqYKVMBgGIg4KDJsS7ElzbUr0cAIagw..%26ch%3DAQEAEAABABTM4ORK5xpDmW5_XQ4SOW7_s6Eb2TZQOT4.%26v%3D3%26pg%3D3LAOCSVTTBA4VIZCDHIGF46KDI
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+20%3A32%3A07+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f1d91e7-5121-41b3-9d0f-41eb3c1d0292&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

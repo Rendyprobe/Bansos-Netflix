@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: vndcmm
+– Email: 121xkurdistan@gmail.com
+– Country: DE
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 9426
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: €19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 121xkurdistan
+– User GUID: G2WPSQN7UVD6XEHEABLBYSCIHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEOCcIdLF7ecENFY26HMrZE1glNOTX2t1yijkd74lscIg3T2v7h323uqeuzhCQtVR9C-_rjjFT_lAt2zGM8CGoXcgQQNqVS16YB9HkpfW6WjbJPiL7oX6CiZAW4qWNdtXDxDfqhM_WvsKYjGB_svilMnc
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5At9DAr11Nv7BmpMGoSIwvrVF7_qswrUfml6oB9Gyspvtb8cuNUOZqUCyq7BZnUPioad40f1PX1iE_tLiAoQRYET_XK_JerbZrlgmo2Ph9qhWWFBtXLLMqhmg2Sx4ad-6jjKyt8DKtA3OWeVqcgfQlvZg_RL0BMVSFpOZtVp4xHSwbhb34tMkMgtdvzPoe-trCAdO6bv2patvpqHaxLUDtvoL_NL8U7oRIW2eowVZArnsIFB215a25CQ9MkDuxRWaBbrZIwhkCuPvkwMoWPkMED1zJBZ34Wg1yVeLv6kM0xCekk2JD62-zmRKK3nbfy-eptghny68tRJpYtL6q0fyQfGrGis3811SzBxXg82dsQ36_De2CFP4dJwSz8np2mumpCoOXho34qiiJVZuGMs5omZgYmjw1D4ApjgXZEINTFhUrj1V8_ZLTIjDMnoQ4lL494uR84jxNsn1hnjwPAB2RIcpT6SK_umlBj2ga1LBV4Y1q9ypQECPcRLNGAYiDgoMCHKPVzCD33lITpGH%26pg%3DG2WPSQN7UVD6XEHEABLBYSCIHQ%26ch%3DAQEAEAABABTZjuOL9dYfUM3OAN3LHwjbWDMX-XPBCnA.
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+22%3A45%3A20+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4b4ad1eb-5d05-491e-ad92-6ba68e116ca4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=DE%3BNW&AwaitingReconsent=false

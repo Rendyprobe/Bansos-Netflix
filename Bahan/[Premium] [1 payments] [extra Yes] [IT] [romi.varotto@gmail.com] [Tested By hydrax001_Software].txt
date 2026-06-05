@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ale
+– Email: romi.varotto@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: July 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 2863
+– Phone: +393808915654
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Romina
+– User GUID: 2N2RSRS7ERG4TCGQYAMKUAUAIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806513001	nfvdid	BQFmAAEBEKaYtr4QkNTT58BWWZP0-FxgNk4d16D_rLLoIs4dLnG1Le5KBq1ksforMjIGeUdBgP2T5vAdS8g7spdO3266x8C10GJrlIjTB8fiyQv3_6PbGZ-UQ4o8ritsAzvQdcAfsZPkMpDHGH5ljyY1JAE27uTv
+.netflix.com	TRUE	/	TRUE	1806513004	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKwA_zWHQFUI8GvM9bEzYDRbUVRfMqIZoBu-7-BMhaPNllKxvF2LHTsIAZRRBUs8kVpT0xXTCVbq1p3usCDJp2-3XsDKoqmNgdRXmaR5ovt9DJnI0gB886n4gyiHOvabk49qBqI28OwShrKGSkvFDg-ZtbS2DiTTwzGMQtU5Hb_24JR6M22Q1i8MsTwD0pDWAAHm7ou3hNp5QQmXBmxPQ6nG1qL2HVlrdcfmUUGJa_AVEL5YbPjccik3BNqlTop7UjwyQJ_idb70b1p4fEPWdShlDMhCTN-6Vs8KriV62JBoRFQUl_00Mv-XWbuHsGYg3z8wsyvPksXxqaElkjvTNDwMyec-WatytMuypXzhgX-PMXRss5mRO3d-ua6TVCybfsjKwDsif09pOty_-Hs-LRmVkC3gIQ0sKwlH9XPCpiQ2MWNlOXshXqcVBYTj2ZOkDttSI4fsZ7YyCzFM3eY4xEt3xfQZEyyVZ-2D28iP-snQ6ec-nW8zdbpyVBErloOvLTKc7BeKRsaCPa00ikCR1WQFw4OI3OUBJYFNzhLFg03q173Ub5wtVPUlQ4U85xWJ0DXRBgGIg4KDNw6QdiZH7HNjYY1dQ..%26pg%3D2N2RSRS7ERG4TCGQYAMKUAUAIU%26ch%3DAQEAEAABABSek2PeRrkyuoHHChD96ijRKGmdMZm0ibs.
+.netflix.com	TRUE	/	TRUE	1806513004	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYUrundwEj6jmRcRJyZVpoN2kRaZ2KROI.%26dt%3D1774976999260
+.netflix.com	TRUE	/	FALSE	1806513018	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+19%3A10%3A18+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=8d0e15d8-40df-4bf8-8f40-2eefd92cc9f4&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&geolocation=IT%3B34&isAnonUser=1&intType=2&prevHadToken=0&crTime=1774977018550

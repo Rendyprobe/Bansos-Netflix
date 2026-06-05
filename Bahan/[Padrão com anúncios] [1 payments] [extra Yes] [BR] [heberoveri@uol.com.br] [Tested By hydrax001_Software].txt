@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hebe
+– Email: heberoveri@uol.com.br
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: setembro de 2014
+– Next Billing: 2026-06-28
+– Payment: DC
+– Card: 7989
+– Phone: +5511991450961
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hebe
+– User GUID: MQSFJFRLBJEW7N23GUSPP3IBE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AutadWnUzbLmMswxB0K2IvUwxWs9GPvwOnAk0wT1iGrn6rOMbNDLqDxBWn0Tv23Xe9-RUEb7FU_qBxLftjc74Ts6sF8KRpoh6LhVi3CwXV09iqnw1mKJShx3iN0r3OZi2Su2zd5fcKJXxDpAsH4oVg_sVuNgsa-0D9uhN_6KfxakbNCdIxXGGT0wxcLa1MCQFOdm206mMIZJsbRe93fGrAwujIalVEsyvPrKmd2IXeOH8CAh6WHMSi129qLhn2uK7YohuCHjA-TtMpXkLZsx16U9pzAV-f3ndInqzUe80hJjAlYkXNvpUnEASAUfQaL5YVkstw9hWkQBqzEo06rVHJ0lry3qQqMOweEGKfO4cDPoZlvDZeCrzskU7vB0r9os6yA9iRUq7kHN_zLMAbawgPzfh6mNCH6lMYwo-STr-qNTfJyTvrcnLPujF_sqpCVP-1GhwQE-hq1APDMaIam47mw2OC2qmuTi3O8YFxAZyrD-C-wa5xwx9I8pGAYiDgoMxjzbBtyHkfTMPoOW%26pg%3DMQSFJFRLBJEW7N23GUSPP3IBE4%26ch%3DAQEAEAABABSZsghDuU62b6l4ZMipg8cnSu9xiLUoqfg.
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+07+2025+16%3A00%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5a867595-8ecc-4e96-91d1-220beadc9997&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP

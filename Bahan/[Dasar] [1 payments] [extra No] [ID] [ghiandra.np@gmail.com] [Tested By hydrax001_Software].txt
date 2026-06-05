@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ghiandra.np
+– Email: ghiandra.np@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: September 2025
+– Next Billing: 2026-07-02
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281322615838
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ghiandra.np
+– User GUID: RRMH7NSIIBHHNOLNIZ43C6ILA4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801722966	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKLA1kfyTa6yyEMKibIAJyVPY_QRx_IJmaDiyji4dDVzy7P9Orm0sZAdYCwR4Bj5iAX9zzxe8uD-G-3AbtDKHAf0JgcDTu4yplEWkelOdnRb-5smBIzBLuhD4yq0wdIaT2optCfCcev89nnaIrJ9TB84HMdDkN7Yq5TmFGg8SSeJ218TfOB8csGgReDeeboIlOhfdiQxzyqXHA2grzS1Fsqs4JL5HehS9z4vPUHrDGa2RkuXE60ZDBLj96CAu0eOUXQRqsdwvNezY7m04UE_7FUsTQnPXcD6dMrPNCLnzfIkDsxQucLaSA0iqAvTLxcObkRHzlmbxB7hvwNE_4wXO_2eA4A8TYiai8eO1yjR9NvP3l526LfolFjkFjlZrY2KxzMYpFc4MYX34iUNAqW7-aysZ4YABdWKaf_dNrZKUEgPHWYnGqywhJS8QJayU7Cp4hriLXVwAlqAe-Vo2Bz6jKHfRtl7NhxJ_yljtPGSQSweEVKMq5CRN06K7097CC6mZNwHRW2NxSGdOqLG8c6GAYiDgoMS5J6SKqmUDNNJquA%26pg%3DRRMH7NSIIBHHNOLNIZ43C6ILA4%26ch%3DAQEAEAABABRYh3IRPbY4FHeVJ520QT5l-HN34to-ACI.
+.netflix.com	TRUE	/	FALSE	1801722966	nfvdid	BQFmAAEBEFjre_KRUcMBOBtkAs5sd8xgMys-BNuCpVM3pb3Xr2dvWfQHuOMq_2eNNbVs-jfiQq95piMA9GOJihHhvn7wG2mmmxfO3uxnuBzKqT5WgInWz6SZ8QgSDj6puq6GrfYJBl2mtTV99DKcS-FzHYOAkyUm
+.netflix.com	TRUE	/	FALSE	1801723368	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+04+2026+13%3A42%3A48+GMT%2B0700+(Western+Indonesia+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35023098-42b2-4abe-9170-2becee8c959e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770186945300&AwaitingReconsent=false

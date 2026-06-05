@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: aceofmaca
+– Email: alp656@hotmail.com
+– Country: TR
+– Plan: Standard
+– Member Since: novembre 2021
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 3982
+– Phone: +905312766937
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alp
+– User GUID: 2XQFSVPBDNH6BBDUGT54HDFDFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793440054	nfvdid	BQFmAAEBEExYfULXQ3d0ER1bSUQJPbpgGwVrU6O10gyLpwvVabRGOYkIE7l9Ic9u6-zVCVOp7HkKK6x9dqvylMvR20AFFMc0v8t3e9Hit5C43hrUMI368J4WyR4p0ngVoE5kUwB6-DyPsVCU-5YuS2tfVL4WoMhg
+.netflix.com	TRUE	/	FALSE	1806225002	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+12%3A10%3A02+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be2a22cb-c7b1-4091-8134-1c4b9cf38fb5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=TR%3B34&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809118528	NetflixId	ct%3DBgjHlOvcAxKHBO3FBFc15SHgkgO4nJwOYCVvV5LD617swU-e3KnObO-ApySC0rztLeHt91lesmGJHr7otXhNz0978jGCpgvK2CLo7i-WFTDxaWpyROCiNjg4spI0PGxy3lXLZQgH3IrKmOtoswgSmogCJE9Uf3WwUE-pkoowfmftxEb-8vxZQ1KP414jWQJq-1zehFJbTIFIeYlZgCTE_mYOzNbp0HSCmxkJlUX_G1LCSV6h0VFand6sOheK4SOR8xAaE5AmVJLisToB-rHP0itxm5eAsKzviBWgmJ0PUY5UpTjY-_CaMOCcWRWJtB3EeWg42XmEqL0e8VoPN0e8XYlnrLETzKVmt6hKXegOSN1hxcDVj_khJrSsw2rBcezdnchma-xV7ieEG38A23RP2Rk5Tb-tj2NVuoayaP2UWhxy-8r6jo3nAkFvlOqHPTgdz5ZYBej2CBTKnWenMF-yX3_tugRp4JLEmesjsUN56M5BSdMA1jkNka5hDxczfBiKorNqzsE3cGdAhOshFLBvqnaGP-ZiY-mLV7fdZB4YUrY55v-sX7Z6vu4X-VtstlaFxrpplhQBoCxEi6ifQ0HaJOCm4eGy5cE0EltiwUHJa15vQt2bgJxNbb-DSAlE_dirKlXazPPTu9_zyrL1NW_Y-dYx_rdf9xJ40ETIaB3Jm55VTm7cT20jWER7DoG5zt_6zRgGIg4KDP7bKngnAdaW5hfcNQ..%26ch%3DAQEAEAABABQ853JWQqtZ_zJl9MBntvQoV36F_2vSG7M.%26v%3D3%26pg%3D2XQFSVPBDNH6BBDUGT54HDFDFI
+.netflix.com	TRUE	/	TRUE	1809118528	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdl8AHQFtxjJi_Vdl1Qc-sMn1nsYQP3eY.%26dt%3D1777582529726

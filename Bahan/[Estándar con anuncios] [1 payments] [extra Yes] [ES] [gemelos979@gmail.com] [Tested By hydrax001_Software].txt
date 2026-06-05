@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ok I pull up
+– Email: gemelos979@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2020
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6519
+– Phone: +34632125390
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Inna
+– User GUID: PH3VVUWNRZGFBEE7HEEJN7WZXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783516408	nfvdid	BQFmAAEBEBVg_apvsRx-iL79ToFJ4n1ggjWFq3pQKYhiHK0POhciwphuNBLMWgQ0kiN3TvVopNCkm0ULLwgnebutRJBgu4B8gYNnrGs7qhkt8sY5PlHwa9Db6d2b8eFhd2FtjS6v-Ibrhj12d2xpvpVKuBFXJUCr
+.netflix.com	TRUE	/	TRUE	1803735221	NetflixId	ct%3DBgjHlOvcAxLvAzmomThYXbhSzWIK4yFxMP9UzmOLtOM-LubWIS12CIrgPCGNuMX8OWq-C2faDaFiKOQT6XqUuqpvtgko8fw7PI3-fPRCWCGEEUHzRVYa6iDiBDAdhHaodRq1RcL-kp1Klwb4w0XIkwCB1pKanFFru0K_J7IqE8LLe58puqr3p32YbaBLxJ2ETlByJr7UNEoXFTCxdW-KiGqcNh2jbZ6fHgudd9-ljJokaklDBAwVzB_SzH_0iMufUZDTPEdg1ZQ91Bc3Z7lu-AtPvtmnd0PnbeTm_XaKkCOzz2_mPWmj-GWakY07xAsmC8Zh68bvNRXQV8TVVMNosu_Cm15FHnLq7XfN3D1ee_cE4vQ8cjIsJ_MAPR4THLE_vTlAv86NStZsuwmPyWir2Szr_w48mLowV_HwPBlxzmuJwqjKREwHonI2F4vZzY-DALsLiPsnRSzhdFLIZsg4C0lltTgxWsA2UOmI8Xq9lrp-gkMXFW94wnCplqQgggzeHYubb6gIa8vFZL-I2UnWgvqO5XSH289R2QQthioc9n0a0vHDZs_FE4tUPNkNbO-6ButFc2I4haz2c8YfP29ZQNTJkBLY2oxJaVvVroA8hJyN8IieoNUF3XrGhlrmLDqmPCUkZvbHljzPabzCqsC215vVIvJEqIpQ9BgGIg4KDMyA1xzsvNV9AxENCA..%26ch%3DAQEAEAABABQzzOZhkaZVR2JQhGruzsqJ-o72T1hOnqA.%26v%3D3%26pg%3DPH3VVUWNRZGFBEE7HEEJN7WZXE
+.netflix.com	TRUE	/	FALSE	1803735222	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+14%3A33%3A42+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f0743189-550a-439d-a04c-018f48d7ac86&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=ES%3BVC

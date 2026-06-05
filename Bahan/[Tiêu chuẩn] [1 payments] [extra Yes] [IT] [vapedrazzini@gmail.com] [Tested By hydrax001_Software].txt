@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pio
+– Email: vapedrazzini@gmail.com
+– Country: IT
+– Plan: Tiêu chuẩn
+– Member Since: tháng 7 năm 2023
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 3135
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Valentina
+– User GUID: ZQLA2R4PWJC5PEM3EPOC47XR2M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792072151	nfvdid	BQFmAAEBEDZuRHeSEv_I5jigt2H3cSVgsSCPSyGilW6PTHUfr9G9eK_-XvSc8L6TU9BvMikwIIpFAX5o6YXAMFWtaWi-wj7wWbK-lwQ_7751043x685LcNH39AsnPjlL1L76cuU1kQgEDhRhxXsZN6x4eCuhwSW2
+.netflix.com	TRUE	/	TRUE	1793383516	NetflixId	ct%3DBgjHlOvcAxLkAy2EJOktD_DLUoWXUd6JmqawbrfRXN7ztgpId8GQqRQsh1n8qejAMGNP4Vpw2TZuutqKuxqiR0WkxG8wjkBfki4tPjCBecr4PIBTcVgaI_rgMvwbZlY02F320FgUC9WdsSkbS6TkFuzBsThCfthJHDXpQgCtfEw2leeT9BqxX9V0rkIeU50_u7RNskJbr5jFjuTPZteqVnkIkrEAjT7HoruryWOMWUle_AmbRHHj507CA43KXw9gUQirCj9JidfPiTykja7WWj8csri1OA0Yd--Z25OzHlAtTx4TR2h1Hp-Hj6sya-MU-_WpsZUOzO7SHvZ3uhpgAJW18Vp5ofTDQ-SdmgseCrCWyjyJ0YrcTpprkQdPe7XuD-n-dqVUBheBOLyymc_MRb7LwBOjUbnlDZkhRf5jXL22GkROKd7FMcTyptob1eZX1mGeFGb0vAt90hwFKiZD36IK7qBgisdRO0_6iFU_BBouYbrtt2WUXv6f08x3f6xoNqi7VyPKSk91DhNx3B0Tv1s4e4Xm6CRwlN72b0fK3Lodn739jAqBzSJa4NggbPoSjKJu9glYTiKj2uDXwViw32bHM0ynonYR9StrGk6gPxhUNJz3PRSWjVjUeq_QNvrS1pD0mIyUFZK9gNZ5ShUYBiIOCgwx70Z3-RK44MxaUIk.%26ch%3DAQEAEAABABT42ktxlGlz_oCBpr71QGmboohEPBNWfMg.%26v%3D3%26pg%3DZQLA2R4PWJC5PEM3EPOC47XR2M
+.netflix.com	TRUE	/	TRUE	1793383516	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRAwSeA3IBRYbSxDY_FHg2NESIiztuiYQ4.%26dt%3D1761847514286
+.netflix.com	TRUE	/	FALSE	1793383517	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+30+2025+19%3A05%3A17+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28235730-f36c-4f01-8430-b914e0cf1080&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B88&AwaitingReconsent=false

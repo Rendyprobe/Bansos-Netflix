@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: navibeni019
+– Email: navibeni019@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2026
+– Next Billing: 2026-06-13
+– Payment: UPI
+– Card: N/A
+– Phone: +918529929504
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: navibeni019
+– User GUID: TS4VU7FW6VC65FTVC2OXAVUM7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808987530	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKoAzlgcXYqiL9SyD07ife4B5PEl8zXHkIaxMxPlBz_hS8EBlyk4RKPqMeMXH_rnudKSa_83YHH_UQog7xkMy6267HTvNmdk8YuzXIzM3an6gcgbwOwd5lRqHJdNdq0hwX9xu1ufexY_6FnP4mykBLHvezSDmojhi4XeFZniEPPFhP7xAU0jHjsOZ7U322F45GBJ5D0YKYbtIEaawB_5lUuR0ZVoRrLGWFalZ0MqFy4JdEFIEe8lKBnX6pgOzfCo6ewaS10DC8Fx1INluWFyxJoScXB5FudOmjSW1sV5CarW_WFUK4wWvQrOsuoRMpRCm0peNi8TSK4Wrk3PI2jXxkM6H3qVCG8hrYBUBTaMSgXSg-zW-GqsVDNjpOSxOx3qHrMr8jppTqgsU5P4yXq1CVmDYe72kxo8nLwP5RxQJA7FjVxtIl4YcayXFIIW5OKJVupEkmBcqpoP4naKgRXsBABGy8k-bp0ZBTxDCE87E9rOR2wI7qFyvTayj_xUZsP1OsEdB6y4rXRBtUmENLzT6yMod4JwzlTqpk6EPVojkaiMEVo1l_r5mDQJSwYBiIOCgzVB3eSwyYLWrGuE3w.%26pg%3DTS4VU7FW6VC65FTVC2OXAVUM7U%26ch%3DAQEAEAABABTa-zPgW05lYFhhbai1k3wjhmbFCDQMByo.
+.netflix.com	TRUE	/	FALSE	1808987530	nfvdid	BQFmAAEBEDMaSuF8im2PrscKK0pBmdtgi4leOeI2Hvgg5jhj7_jHt4wU1WiepHqrvpT-OoYxz2IgNjedfSdEb0wvde7QUWBx0PX3LOWupOcCvN5e6gY4UUyfG1mp5I-z7dvHznnpQnWwpp-g5j_79bTbhOr2Z3Nc
+.netflix.com	TRUE	/	FALSE	1809085118	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+17%3A08%3A38+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a4f561ca-f5f8-4ff9-9e38-8cc56fe6beef&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fin%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777549118370

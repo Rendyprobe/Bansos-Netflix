@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BRUNO
+– Email: rodrigues.deliane@hotmail.com
+– Country: BR
+– Plan: Tiêu chuẩn
+– Member Since: tháng 3 năm 2014
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 0936
+– Phone: +5562981521264
+– Quality: HD
+– Streams: 2
+– Price: 44,90 BRL
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: VILMAR
+– User GUID: REHA24CEZRD2ZIARNHZM2MODRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796266894	nfvdid	BQFmAAEBEF64jBwBU0biAGYty4sbzdBgvdIlgcg1GZd7cHWKw3V6MdTm1jJCRXfFq1RB2oCJVgfPyizz73q8e_qoZ8Wdm046Y8p_S1A78nPiaoq4kXAtkHXo5RZrrBSItLn2PTconkNYQ-YkApmGSeJv4s2XeEFg
+.netflix.com	TRUE	/	TRUE	1805588412	NetflixId	ct%3DBgjHlOvcAxKBBMJmCn9pwrfR2TxBEcE7gnSoxTyaerSGt8XB1Qa8cBv9GLQLJxZvtg5JyrAoY8IDS9VmOlcfHb4R66WwdFB7C1vuurPSk3UEgJuqulN-Pj-r0_TCCrCfDR6gEJG3PlmHjvn7stUvsYJy1ndgO-H6nTW5vlNALUO1l4BcmdMPrGI2pCyrUAng7zuIOcUvwij19WI5psbPf4XjrAjTYH6xQeYexRD2moRGUWm7TT7PEqjI9hLBN5OARaxBXQPekTYlWXjqfEzDshGxF2aUVxW7w-YY9w2-Wuxvn9WsV6MZUjM2dJfl1abRZ4-zFVW_ebgqyJAa-xIOKgT7nBFwKXwNOX89qgvT3_WInmECrEFoRz6ghqNjMBpcx3zTfdylw8qX-tgYwoZFQ8aOBchkWzHcGUN8SBdfjECU-eOGx7s3RPZWKv9XW575Ayyb1VAk9u3Fmndsb52Fv4tATWkXs8i3NSxY3kL1pTExXWUUJ8xDn-ddqqxHf9uWAMixsbpw2VhwprvJR6X1ZjvMAxuC5xxvwgs915AWZpz9LAlJ3G18I8kAyaD3XpWu59VKh656slDwm1Ana6ruyaHmL5nxj7mYmwv9TKx7M9hLcrKCylbbH-0X_EVXMemYWBa_JRAeyGKpnHqXnZW0ugw7ogIvOl3ikhtNdrnBeK2gJFcRGEAKP_ODIhgGIg4KDFwrFrBqs1XEPxP3Gw..%26ch%3DAQEAEAABABRQJgLuI8V_qQtcAF4Or3OqYVRD3QPMf6U.%26v%3D3%26pg%3DREHA24CEZRD2ZIARNHZM2MODRE
+.netflix.com	TRUE	/	FALSE	1805588413	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+21%3A20%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b925db65-ee4a-4194-b66a-2f88044aa0d7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BGO

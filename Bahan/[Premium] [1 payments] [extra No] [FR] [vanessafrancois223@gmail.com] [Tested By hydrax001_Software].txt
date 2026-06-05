@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: OF426ZQ3TJEBHEGFQBKMAVCWQA
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLDAb8cuOjc16FBSATBkNN3GElg/6Crylm7xtZZ/DiHmFVWa04Ufz+bLpeUD4KRsNi3a5e+Fb5msScU9Dr3hQ02L71YDe4/jUydaV6AvX7RqQR69tUk//0aehwCrxnLtUqGSW8KtRLOuUc4653sV+WYHeTrwdzPyjZWFBAEUCWWAwJymy038Q69KmU0EvVWI2/P39RHfO2cN6atRiBa967+4euol5FTgHldNhMqe46JgEHw1xomA2X+tTRJSCJaj8R8fx81yhgGIg4KDPyKcFlw3gqt99IxKg==
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLDAb8cuOjc16FBSATBkNN3GElg/6Crylm7xtZZ/DiHmFVWa04Ufz+bLpeUD4KRsNi3a5e+Fb5msScU9Dr3hQ02L71YDe4/jUydaV6AvX7RqQR69tUk//0aehwCrxnLtUqGSW8KtRLOuUc4653sV+WYHeTrwdzPyjZWFBAEUCWWAwJymy038Q69KmU0EvVWI2/P39RHfO2cN6atRiBa967+4euol5FTgHldNhMqe46JgEHw1xomA2X+tTRJSCJaj8R8fx81yhgGIg4KDPyKcFlw3gqt99IxKg==
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLDAb8cuOjc16FBSATBkNN3GElg/6Crylm7xtZZ/DiHmFVWa04Ufz+bLpeUD4KRsNi3a5e+Fb5msScU9Dr3hQ02L71YDe4/jUydaV6AvX7RqQR69tUk//0aehwCrxnLtUqGSW8KtRLOuUc4653sV+WYHeTrwdzPyjZWFBAEUCWWAwJymy038Q69KmU0EvVWI2/P39RHfO2cN6atRiBa967+4euol5FTgHldNhMqe46JgEHw1xomA2X+tTRJSCJaj8R8fx81yhgGIg4KDPyKcFlw3gqt99IxKg==
-– Token Expiry: 2026-06-04 09:02:16
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1807562782	nfvdid	BQFmAAEBEIbp7tnnoPHsnPQrllXAM21gHhpq7Bg_3h6wDltAOCYIXyrMHz0aI9G9TpTgEqlZVEhciaVAe9IKzWfl1hUra-B3g8jK6fz9vKl7-R93vgA_Y8vqrgIt72kJT8KyZ6EUnGOOv4GznS-J8HYF-6Du7EcU
 .netflix.com	TRUE	/	FALSE	1810329047	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+23%3A10%3A47+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6cd4b87-0411-43cc-bfc4-783a9b6c4623&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BHDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

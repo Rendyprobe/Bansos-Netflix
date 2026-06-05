@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: i_AMwhite
+– Email: fabbywhite1@gmail.com
+– Country: CA
+– Plan: Standard
+– Member Since: January 2022
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 6215
+– Phone: +14373357871
+– Quality: HD
+– Streams: 2
+– Price: $18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: i_AMwhite
+– User GUID: 7HNZSNDD5RFEJNNTHNECJ2HFZU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788359601	nfvdid	BQFmAAEBELOtEmejAsXvhQ-lLg3mjF9grar6SK95sntfrVuwOe3h8VzZB2lLtbWxYNHg2V2kembQVheir48xl1ZkKwl-j7R4Th-CsjArR7a2UuOqxyxmGPCDYOhcSlfs2iP1L_EoyyBepDYZK0eyhkDHercBr7Np
+.netflix.com	TRUE	/	FALSE	1809183113	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+15%3A51%3A53+GMT%2B0100+(West+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78978dab-97dd-44d5-b688-d78ce1d2f822&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809269757	NetflixId	ct%3DBgjHlOvcAxLRA4Lyrnn2B4juLE53_m-cQV_rhkUU6You_8cSHTs6GauSnAe3Q41jSMn_8XgmnxKVvSKOqODCflCwJSZEa3wKzFchPbmr2OkXqcGKRnFdDKIO0TfwJv9rS2jqJav5akkN6GIyeYAPtwh6txKW0cYb7mdjXqkON2hdLHifK8mc3j-UnMkKAjjXFmzcpIgrqzvvv0n1D4gprcy3EtYL4PHor4GbqP5mpd3V_hRJ0PXmJge_8y9YfYZXkBlIoGQ9EQNLjZLo2g5vwQSe-t8dfaKlcEVh1u3d9I917QWSjVDjzP4NDVwmF73KfTfxgXAgKHiFT_KUtfOAq6OdrDgRkz-nicGsj7P3Ya9t6Y-niNdHeT6Uc1_1Cr7JDwERSJXR9dmQftAz00DszYz3GSrNkyYT8fqdS_2IFfC2KFzANYU5nYamkKJaO-dATf13QcHCjZjywRvyY876w-IZ_WrKXb4uVP2Zav3-m_Y-a9pqbdDxFP45X4KbZDQHnb73JB1zyrgjt4Jm__ISzD3FQ-eQ8ael8oqLRVJgSErzuBBQNaxkqQPWFiVrA-MKPib1TekZEqYA3V4Q5II1eCWku-e6ecKy27zJXK-Xcwaryui_YO_R2lQ1gxgGIg4KDBVnywueE2OX0KPErA..%26ch%3DAQEAEAABABS8u7vAnzi9fxLg1Fz8m7364OEKhvED7IM.%26v%3D3%26pg%3D7HNZSNDD5RFEJNNTHNECJ2HFZU

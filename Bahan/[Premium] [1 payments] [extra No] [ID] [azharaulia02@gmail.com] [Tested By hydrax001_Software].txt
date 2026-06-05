@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: azharaulia02@gmail.com
 – Country: ID
 – Plan: Premium
-– Member Since: May 2026
+– Member Since: mayo de 2026
 – Next Billing: 2026-06-06
 – Payment: MOBILE_WALLET
 – Card: N/A
 – Phone: +6289686518717
 – Quality: UHD
 – Streams: 4
-– Price: IDR 186,000
+– Price: 186.000 IDR
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Prasanna
 – User GUID: 2BE24O5QYRCFZMOSHX5RDHZZWY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAYqfjnyPKmUQqGXTiOp3iVKDgr9W0ty/pPjyzpGFoR5EIec9mSNnts5NIMPTnuLrIh3C8IXeYfnFAV29rOM8cq3X9QkWV5L0dANaPXSNEbgufn+zMRT2iUoDTujVlE4z2qis/pIihIY/3bp6x3qw1rAgeN/8hIfjx+kyswIzLYxwC9/Dp4CCOCN/64wSvDzNZXTZIx41M5e6kJ4fso+7MIrLDAQXGonK+Dt4swNY479WARuxEMtOryrwONGk1+YAOEgmGAYiDgoMLW3ohZ3wr/Ew76ZD
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYqfjnyPKmUQqGXTiOp3iVKDgr9W0ty/pPjyzpGFoR5EIec9mSNnts5NIMPTnuLrIh3C8IXeYfnFAV29rOM8cq3X9QkWV5L0dANaPXSNEbgufn+zMRT2iUoDTujVlE4z2qis/pIihIY/3bp6x3qw1rAgeN/8hIfjx+kyswIzLYxwC9/Dp4CCOCN/64wSvDzNZXTZIx41M5e6kJ4fso+7MIrLDAQXGonK+Dt4swNY479WARuxEMtOryrwONGk1+YAOEgmGAYiDgoMLW3ohZ3wr/Ew76ZD
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAYqfjnyPKmUQqGXTiOp3iVKDgr9W0ty/pPjyzpGFoR5EIec9mSNnts5NIMPTnuLrIh3C8IXeYfnFAV29rOM8cq3X9QkWV5L0dANaPXSNEbgufn+zMRT2iUoDTujVlE4z2qis/pIihIY/3bp6x3qw1rAgeN/8hIfjx+kyswIzLYxwC9/Dp4CCOCN/64wSvDzNZXTZIx41M5e6kJ4fso+7MIrLDAQXGonK+Dt4swNY479WARuxEMtOryrwONGk1+YAOEgmGAYiDgoMLW3ohZ3wr/Ew76ZD
-– Token Expiry: 2026-06-04 09:18:10
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1810131419	nfvdid	BQFmAAEBEGlO9GQDChJKee2idCUeC6hg0eILcFxrPlSxbvYb0_gltPeqMhVjHV-2AgjhYxPqlIvfc81II5YvSeAY6mUHQbM9Fkn2m1iFhzExV6L0h4ldUFUKNazauG7A8YEStMo37FqU7DQLugnXLFElujFEoa6G

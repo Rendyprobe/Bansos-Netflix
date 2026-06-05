@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ladiszlav
+– Email: laszloczokoly74@gmail.com
+– Country: SK
+– Plan: Prémium
+– Member Since: 2024. július
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 9474
+– Phone: +421949767445
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ladiszlav
+– User GUID: T7MTL32JKRHI3FKJNNUKY2XSCI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782201598	nfvdid	BQFmAAEBEJI00aCzRWkoFzqw3V6_dUpgXKsLCbv5Hg7AQBl4eA7o4ooc8FA2buNaiTPtdmOymrjT7xaSQ0FiL6jKdOaPRNTQCizTGRK_57Bfo_wDF8W9cpHFy0oaNut8B_AiVgfsLLPP-scpVrQkbb5lvanOvJoZ
+.netflix.com	TRUE	/	FALSE	1782201598	NetflixId	ct%3DBgjHlOvcAxL1A8ZiFPD99O2btNbC0YVB95Enpci_yBJLIB80gr54wiSz-5WxOJ6pMhh73wSg8dauygC13iefLzsa1m1j5EJlgVrzQgXwjrrNwqSaLYCTbXs3sewu6tFDrnQjGN1l22j5mLUD2AjihZylWios5aYuxTYHqEFJufTn5gY8MYLNg-q9mDjfZLBWweuDcAznPIXOf91QuD3K8NZEB0wJ7HKiLGZQ8glIdJJ54Z0ryC8zs3phwkWMgwhIjpZVNL3QiSG-9oZ0s64RMJY6H6CZcG5urKllWZATAwr8hvg-hak71Cp-7EpzCfptRgsmnogWN09XgdcVynBvW-L7k62U4uy8XautlvP_xKqk_l3PAeSKaFhLwFR2hOOwC8Us_Bz5rQEsUc09KJ2Ckcqe5UyfzWTn2YCMWD9D6jFMvwwqaCuqiF_n3qN4R4IJROhKlbI5kxW3UDDdhb4ODuOthEWfeVQCJNopts4T6m5QCEo5yMUsa7053NgVRvh5WKTp3tl897tANkTWllBoHSCKFqAPuW3MPVs5c7XBqt8JOrkpZi98HAg2Z2BvZYZ7Ot_HzdA8PbUdL4n6zpbLZKFN5_S0iUP89eG5CZF-KmQ0_SlAbJLkkFXULHOmKYRf3dll-fdmahloQAHkyjbRWStqndUIN4A8gOWb_uSoxBgGIg4KDI6clvX1UMZnjHwjCQ..%26ch%3DAQEAEAABABSiwHfvOhf_BcHr56nkqVyDqM0ztLDqX9s.%26v%3D3%26pg%3DT7MTL32JKRHI3FKJNNUKY2XSCI
+.netflix.com	TRUE	/	FALSE	1782201598	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+29+2025+19%3A27%3A58+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7891ccf5-70e2-408b-afec-8171f203206d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=SK%3BBC
+.netflix.com	TRUE	/	FALSE	1782201598	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHqTSU16M9IjscaByLLsgNdbdLSlofcnw.%26dt%3D1767032880721

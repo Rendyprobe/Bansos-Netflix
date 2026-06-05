@@ -7,28 +7,21 @@ VERSION: V2.0.1
 – Email: arindamsarkhel14@gmail.com
 – Country: IN
 – Plan: Premium
-– Member Since: June 2025
+– Member Since: Haziran 2025
 – Next Billing: 2026-06-10
 – Payment: CC
 – Card: 9090
 – Phone: +916289844836
 – Quality: UHD
 – Streams: 4
-– Price: ₹649
+– Price: INR 649
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: ARINDAM
+– Profiles: MAMARLY
 – User GUID: OBJ3DPQ37FHZXHKEWH6TATIXVA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAUQlGM82hrXjujEKm6Xys4c8ID5b376T4puOhe6GpCzsNcOItouB8do1lQKpBtSKaqsq5nXlkWvpcW+PkY9/O+jDOFCzNFb3sNFA8Sfdf85+HJPjQNKUasiDCzSAgwt1NU5gEG3jYxJCf90N3XroWc3JNF07WSOSSfrw8xytko2VAI8Jj2cG5hvC6ROu5NzEuB5cZ/WGZkAfQ8GySK5Qd5rWGiir98ODmHw+U66UeRnhzFL7BHOXcS6wfQ6IZH35V38GGAYiDgoMUb6dy5vKp92aY0nF
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAUQlGM82hrXjujEKm6Xys4c8ID5b376T4puOhe6GpCzsNcOItouB8do1lQKpBtSKaqsq5nXlkWvpcW+PkY9/O+jDOFCzNFb3sNFA8Sfdf85+HJPjQNKUasiDCzSAgwt1NU5gEG3jYxJCf90N3XroWc3JNF07WSOSSfrw8xytko2VAI8Jj2cG5hvC6ROu5NzEuB5cZ/WGZkAfQ8GySK5Qd5rWGiir98ODmHw+U66UeRnhzFL7BHOXcS6wfQ6IZH35V38GGAYiDgoMUb6dy5vKp92aY0nF
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAUQlGM82hrXjujEKm6Xys4c8ID5b376T4puOhe6GpCzsNcOItouB8do1lQKpBtSKaqsq5nXlkWvpcW+PkY9/O+jDOFCzNFb3sNFA8Sfdf85+HJPjQNKUasiDCzSAgwt1NU5gEG3jYxJCf90N3XroWc3JNF07WSOSSfrw8xytko2VAI8Jj2cG5hvC6ROu5NzEuB5cZ/WGZkAfQ8GySK5Qd5rWGiir98ODmHw+U66UeRnhzFL7BHOXcS6wfQ6IZH35V38GGAYiDgoMUb6dy5vKp92aY0nF
-– Token Expiry: 2026-06-04 09:18:33
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798379506	nfvdid	BQFmAAEBEDKt_s7wZVo8a2-PiLjkzuNgFzALZwHaFd7uIwwny_t59EYxRdsC07AExA4avhtiviytpwZI5Q58E-veZkEIaMiUvlSgSWFpx_zoWxCkdBNxMCGY201Wt8wjG27c3P53GtdWypf8MfW8jr-roy7wdwOT

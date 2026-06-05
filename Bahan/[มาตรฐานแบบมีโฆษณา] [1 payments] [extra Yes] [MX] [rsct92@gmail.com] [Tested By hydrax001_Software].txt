@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sarahí
+– Email: rsct92@gmail.com
+– Country: MX
+– Plan: มาตรฐานแบบมีโฆษณา
+– Member Since: ตุลาคม 2568
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 8867
+– Phone: +526692205266
+– Quality: HD
+– Streams: 2
+– Price: MXN 139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sarahí
+– User GUID: JTNQPN7WVVERVH7U66Q4T2IGCM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780860121	nfvdid	BQFmAAEBEFlLHXjZsEWjJYSyldipft5gFLyNoT1kqqlALNc1fvyRAzb5v2VYP204lYaW_wrxCl08Prh4j7L_HV3u-YEFp-L2NUoT7XSUTsrE2HD553q0pRvExQIBu4jOjqwFym7UsBqf5w5oT32adiLUQTdnlJQq
+.netflix.com	TRUE	/	TRUE	1783456614	NetflixId	ct%3DBgjHlOvcAxLxAx8V1ZT08pMPHcLUQXK9gIoyyOb8z4NbgL3aKN6fcw1C_xpo6mQf19Y5Vsj3bymb9TYFg52rGaC-ycrkMbo-TPlMlIsr-NQNg9j9EoLT8fNNsMdhCTKrxjos-jefcRDtV2wZWqEVCSQ1NC7X7zK0mFghDQxnR6XOSfdwoeZQOoSSAM0VWpBqxBOVyzMDdZybHpTPM-EeBaiT1hkwTZbf8gcbV5_iAquKA_onRr-ic-FttHff0rO4Xy4zmFMtpED4OSh_-rKko0bYWOUPfEzAGysrP-3QKZfIyj121QaF_H2vwrSOMNtlPgqweR7EY2wEDxvUOo5hmZPU2fSxYsaJhzdW89q7WBObfepVmmL-faLQ6A2ZkwZumVS55ZfFbwN-tZ9UJu1EHgTwq31pShbkW9n8YmhqKHYsd6hLywbeMUQYb3Wm8XEPT6e4FYVj5r1NVXS0-KzDGwkKvMuDGs3SH0D1-IH4ths49ob9jbYF-Ic6EAlQG5XSvdZVeRLfCMZ2NLLJEWh9x-cCywhc-NVsNW9OFBP1tKeZQ5JvaoPY9z3OeyXw-D2mvvjZqn-o5N90XQ7iQT5jXItF0v6JdvnOPaDeyJ95A1Ls0oyO_-_h4IsutHZqDqfuGoksWm1NO71ZJNthKTcwP3gflXZsQpzDc7vrGAYiDgoMFnxwF7ljHToM9jZ4%26ch%3DAQEAEAABABQkSUpVljf82Tx_FlacSL9d5fzjokEJ0Jg.%26v%3D3%26pg%3DJTNQPN7WVVERVH7U66Q4T2IGCM
+.netflix.com	TRUE	/	TRUE	1783456614	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUzjxfZvM9wjZymMgR0DmtyN9G4KyVt4o.%26dt%3D1767904613167

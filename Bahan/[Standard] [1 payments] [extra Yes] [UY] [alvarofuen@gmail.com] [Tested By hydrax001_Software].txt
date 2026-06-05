@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alvaro
+– Email: alvarofuen@gmail.com
+– Country: UY
+– Plan: Standard
+– Member Since: March 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7029
+– Phone: +59899231402
+– Quality: HD
+– Streams: 2
+– Price: USD 16.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alvaro
+– User GUID: MHHCFRYU3JBDXISSFOQ2RUFYYM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1786074267	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA1zqbQ6DEf7M8gdk0_MtyRMhPrTY7YoDl70JQveVGJt6RK6I9JRtu0TM50HlsN7RyA7USB2t9WIjcbH4wAY7gf8kThA9ZJGj2AujFpcDLJEWCYuqtRzS9pIbUCVNy7a5fdOOB3hVhKnJhg3QfjwSNqJCCZIhevNdQm6hLNqJqiTQpPKs00xpQ5KGs_hphxpbKx6VkjVmbUZfGa9mnqYJgjwTdgiFSNkqWeQAJ0dIyOjGgHw86GqZEV3sxr8hbp3mcrTSkxAMjaI9fJQKLs4LF2_5DhWIXKXnlBjbDsSeHYOkJcFG4lf8K13c-TucV7RnJrSXKVMXF6-HeRvme9xt5IilqysU2o-uErh6FyJ5Ml4qe-hdEislzspw3kTkYMwurfZ5N72HTDNf7NCP90nypknFIFyF0Lxps0Hw_Gh_-MeGAjmR5lJv_z8ynILm4UtSHsZes-4L0ts19uy6w4zwrSlbH2jwQM42P4jlWxrlasmyMoSSwbf_Zfp3_iCHAFjuZlIYBiIOCgxoQ4BEJ3PFSMkEPHQ.%26pg%3DMHHCFRYU3JBDXISSFOQ2RUFYYM%26ch%3DAQEAEAABABSF0o7UhuKC4C999Ic0A2_Qkl64xqjs3OU.
+.netflix.com	TRUE	/	FALSE	1786074269	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+07+2025+00%3A44%3A29+GMT-0300+(GMT-03%3A00)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7b9c8a17-064b-422c-ba3b-388536489924&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786074267	nfvdid	BQFmAAEBEC-gj7YZTpQYksPJm7d4bwpgf-8Wsp01m8uCInAfMuCeqFQ0C-D3zMdAjJnLzshyUNPupMzl5R7fRi8yfW5ZI0KUiiPT4sC32ONaTAQ6zG_MwmGow0Q_FJO8Fl9YCgnkSzf03JANBK2p2XGx0rwzqaVL

@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: nahikariodrioz
+– Profiles: Babi Guling
 – User GUID: V7C3FCVPTBCARPNGZSCLDMQMLY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAV6yivL2FKZvlq5zqdElbJ2mW4zGJnvE52Yl4Wxpz7cs7jgki/EyyZ9tm1c4Fc/xutxPi1F6q99tv0qfGXH4ekC5+OJMH/Ku4zZcrETrxiyrEChJnyf+ndj+dGpaFvjS1XOpZ2db0ixkMlcj6DVotZLJuPH8koKboDMzd55VSR6hKKK/m7+H9kBUSZ2V3O12xv5CV4OS+xOrKc0wdBPyiwbzIzPGHRx7r2M/U5n16/vbyvFQjzgsbCwwrdErQ6DqZOAOGAYiDgoMmnc1GrFrPCTCrRex
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAV6yivL2FKZvlq5zqdElbJ2mW4zGJnvE52Yl4Wxpz7cs7jgki/EyyZ9tm1c4Fc/xutxPi1F6q99tv0qfGXH4ekC5+OJMH/Ku4zZcrETrxiyrEChJnyf+ndj+dGpaFvjS1XOpZ2db0ixkMlcj6DVotZLJuPH8koKboDMzd55VSR6hKKK/m7+H9kBUSZ2V3O12xv5CV4OS+xOrKc0wdBPyiwbzIzPGHRx7r2M/U5n16/vbyvFQjzgsbCwwrdErQ6DqZOAOGAYiDgoMmnc1GrFrPCTCrRex
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAV6yivL2FKZvlq5zqdElbJ2mW4zGJnvE52Yl4Wxpz7cs7jgki/EyyZ9tm1c4Fc/xutxPi1F6q99tv0qfGXH4ekC5+OJMH/Ku4zZcrETrxiyrEChJnyf+ndj+dGpaFvjS1XOpZ2db0ixkMlcj6DVotZLJuPH8koKboDMzd55VSR6hKKK/m7+H9kBUSZ2V3O12xv5CV4OS+xOrKc0wdBPyiwbzIzPGHRx7r2M/U5n16/vbyvFQjzgsbCwwrdErQ6DqZOAOGAYiDgoMmnc1GrFrPCTCrRex
-– Token Expiry: 2026-06-04 09:17:38
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1805798609	nfvdid	BQFmAAEBEK1zm-5j8K7OYMCjzG2Ofhxghr0Dpmbk4v6PFaPvK6AVRYmc_J4JTZ3un1-6EyYppa7NqF7se7EWfJC3TXENXLUEQ-VrHdu97Yjmsq1Fur421d1PRHeN2zgSDAcu0LxRYwoFm_rEocEvbaad_jNAlnru

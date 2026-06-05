@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: MFQDWBF2X5CMFMAZU6NKMYF7TQ
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAf7IqwDihLN8YAo1u31yyBBGrCC25tQyvgorsw2d5nQudjK2+l2G0PGdoSAqF4JHB2nMjmzkHSUQvN1fm/cj6M1XsLbpeqCwch//cWoRh4JZ/Am4K7k+/mLBf8IUMFEJDzHD/IVrm1cFxpUZaLb/UBhuc4Y/0wmieAoS/QV426cwA9AmdmGK9YaFL7SZVQlV5OjCoay6SDFOpwLoXLJ93/MvY5Wvm3ZtVSMxEJPFsRSnnAyAcwk7LA7+fVr5gjRYVcMUGAYiDgoMuuuM4GIbPIuiADwc
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAf7IqwDihLN8YAo1u31yyBBGrCC25tQyvgorsw2d5nQudjK2+l2G0PGdoSAqF4JHB2nMjmzkHSUQvN1fm/cj6M1XsLbpeqCwch//cWoRh4JZ/Am4K7k+/mLBf8IUMFEJDzHD/IVrm1cFxpUZaLb/UBhuc4Y/0wmieAoS/QV426cwA9AmdmGK9YaFL7SZVQlV5OjCoay6SDFOpwLoXLJ93/MvY5Wvm3ZtVSMxEJPFsRSnnAyAcwk7LA7+fVr5gjRYVcMUGAYiDgoMuuuM4GIbPIuiADwc
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAf7IqwDihLN8YAo1u31yyBBGrCC25tQyvgorsw2d5nQudjK2+l2G0PGdoSAqF4JHB2nMjmzkHSUQvN1fm/cj6M1XsLbpeqCwch//cWoRh4JZ/Am4K7k+/mLBf8IUMFEJDzHD/IVrm1cFxpUZaLb/UBhuc4Y/0wmieAoS/QV426cwA9AmdmGK9YaFL7SZVQlV5OjCoay6SDFOpwLoXLJ93/MvY5Wvm3ZtVSMxEJPFsRSnnAyAcwk7LA7+fVr5gjRYVcMUGAYiDgoMuuuM4GIbPIuiADwc
-– Token Expiry: 2026-06-04 08:59:14
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1790532234	nfvdid	BQFmAAEBEIBN9T8hXBFY0LPz2dGFoONgBbsLY0c4xbn0WnGUAcliA-QlsIOkgTLwv6C3_VxwfXrz_k7iaPUP8iAK14R9QDMnO3oX4zVghuLnn2mnbv7t35KuNmDDlTx7tFGUrE_aubUoSJw_UoEdhZp92esq-01f
 .netflix.com	TRUE	/	TRUE	1810417726	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT85sNlKIgLzbyo_WDfOkzNt9lhaUDmhG0.%26dt%3D1778881726550

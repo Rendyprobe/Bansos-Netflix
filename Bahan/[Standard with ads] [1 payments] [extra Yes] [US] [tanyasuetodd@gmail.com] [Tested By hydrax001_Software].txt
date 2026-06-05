@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: savvy
+– Email: tanyasuetodd@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2017
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 5008
+– Phone: +19106199585
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tanya Sue
+– User GUID: MAKXDU3M7VEHBPKGRK6DPSJ5QY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783198321	nfvdid	BQFmAAEBEIeiSe64JZ95otAYI9rOEDNg0pfjvFvQjZreo6yq71mg1M21LYgvOCyO7RIlf3lm7Oy9qguZ3BBbdDsWt6vm6pCIWB8sQjzJ07nfKg2PZRZR0zZTB4rLh32hcVQi_U2cADecpuqiALoOJzzqxJOfs98a
+.netflix.com	TRUE	/	TRUE	1783198321	NetflixId	ct%3DBgjHlOvcAxL_A7oWWNsMtgxi5xP2wiOEabRUv_oZTmqhN8hwBB5BmNTfK3T-6anFFtFaT2AVtoi7EdBosO7JgdIzu94DdMIR848pQBgImWQMPn9OUq8IvfXOL0MgJr9gvu2jMZdnyDTL1WTSrMv_uPkNaQVpDlHa8qLUZp1t0nilHFq9_cjAnU5kM53-MAQfzHXIKnj9C1NYdL8BUzw_1zO9NFG5fcCP5Oc03T4dewO6tBXDeIjMxAQPTaDdnPnMNKwgDXOV05in1fCkXBLqNwkEbB3WgzTX2kqekN7UO0jXMwYqrmDFp_MPw6pXbP9UhkGgyV273xsXybS5yRSdc20-1lkaJAAPax9Ax2Vf5IasMH7lr5Ge1CRcBjIt3btpdqJp9oddO4JeDujEagW-Xcbzk8EqinEY3xAgr1NK77CPBRwTmmcDl5RNCt8OP-YLOlc2RTFVCtv_BpzB9bIrbyEoxav9uH5dyOZariZ2SYCv7-v8QvN6Tt2-GUyzLr1QY40_s9nZPYg27ifJrTeivjMMjj247ToaX3P4zKif3KRjTfFE1FeRwYCCJJahfXr6DPMcyWuyYMAvzKmtk5HGjLDXxBhOWfevJ53PD2F01bcw-JUHXFqlwV486tWUXcdQzQVrk7Te5gJ6gEbpPlUrLdqffNG5oJa05WbTRTnKInbyqZOz_rrBmwEYBiIOCgzze646PDte1SV83YE.%26ch%3DAQEAEAABABQEbenR47_diKWA4wB3zUqhxIhPXCfeCEM.%26v%3D3%26pg%3DMAKXDU3M7VEHBPKGRK6DPSJ5QY

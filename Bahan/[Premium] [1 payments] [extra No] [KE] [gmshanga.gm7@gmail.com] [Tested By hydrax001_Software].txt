@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chriss⭐️
+– Email: gmshanga.gm7@gmail.com
+– Country: KE
+– Plan: Premium
+– Member Since: April 2024
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 4421
+– Phone: +254742436621
+– Quality: UHD
+– Streams: 4
+– Price: Ksh 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papushka
+– User GUID: FBJJOF46QFEHLDIBI3Q57XFUEA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792958001	nfvdid	BQFmAAEBEDTXg2vLvfkK3spHPhkz0p5g37GTttaF45Sfxv8NvcifsR8a7vhUgbrda67HC-aZKnmD9Ke512f1pvBw8kyh8IQH4iY7KdL3VnAtfXMca4W7aSEnBROJerM230C_qHJdz9h7H-V1lc5wc-f_7DatJlMJ
+.netflix.com	TRUE	/	TRUE	1809953933	NetflixId	ct%3DBgjHlOvcAxKKBOn1o2-RD5gonWwwmDtA3qBtGduCK4NE3KvqvgJW1eWrokkn5_05RautoF7GeTq-4pHFi7ufKSEJomd9N6ZKww7PR6VxeUq74xb5xFthXM3mpyVx3pQLggWXmG8YCWagJJbHB4fhPG_8BZ8AyghZ4qdyVoYXy2P84-_Js4mR56uUKRvplWSVef7GNHTaJVT5r0eiuQj91N24BOmLZsHxYW9_Wo-ek8prB76I1QEHVpuk03F2ECoFWC2ujqtHqRYEcGkB9_2h3bdpKWohUalFcS2EaA4pmN_RcC1KXjqaQw8d24fRPOhNA-kb1hxnbppVbrziL9e-lpjYFZ0WMYrE0s_4LzfPng7zSoCvFLrKqJW7LxMNFFsPYJ4qoCx3jppKIkWJTQuKgJniQXa4PH7O5w24O-xT3EzlNz_JDa9cz9WwE4LfQLpfY3D9ftsLTdZxOgEK88M5Bp9eTbiuyY5Uj0b_yayaW6sTUSiq2TXpA5XGPjox-u7IXeR4UL9-EYkNcq8Yrnx1AOXtnaX097dNkJeew8Zga8f3vWxs_pBQZRbjpVQthpN4UtYUyFWrQHBYTtS0TQskywYu5LNo-a_E3xErwN3sNqgUGwyS557b_kJdfH-prYQOshnToH1oiHbmh0_jkt-MfwYUByrV6TtdcI6aMU2TXj1jicIXZdhH2qZRQV6Gh3JgDnfBBhgGIg4KDI9hYTMhBULQyeIVLg..%26ch%3DAQEAEAABABQX5yQz-HKTmS_-vAwEoVwsTwjj7tSft3k.%26v%3D3%26pg%3DFBJJOF46QFEHLDIBI3Q57XFUEA
+.netflix.com	TRUE	/	FALSE	1809953937	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+15%3A58%3A57+GMT%2B0300+(East+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b72e640-8007-4d33-a630-6d56cba17ba3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: LGSEPFUVENA3BOIDGNKSKIDFLA
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAcMCn7m6NOvBclomud2YlVLNPP7jOJHRiWUWloShGewDIKHzSmi2bD5aLis/3usv7L5EJamvNqVgw7OlJMGpEOXOQSk74in6hIVpiDo5mktQ4i1ObcNJfjlTQgx1uwT/1W4uQiFmkQwuHwW3YFSpZABluG4cXmhppD4Fy82hCi00eksnh3Zm+eM5M+gxQ1dgrtr3xHm8Oo4tGWgitGG3eLRR9+Fds729vXzGU6Z+FD91THDPSG2rWbmYgXVAdJfEDLJXGAYiDgoMlPhtVOTB+Yi7bcs2
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAcMCn7m6NOvBclomud2YlVLNPP7jOJHRiWUWloShGewDIKHzSmi2bD5aLis/3usv7L5EJamvNqVgw7OlJMGpEOXOQSk74in6hIVpiDo5mktQ4i1ObcNJfjlTQgx1uwT/1W4uQiFmkQwuHwW3YFSpZABluG4cXmhppD4Fy82hCi00eksnh3Zm+eM5M+gxQ1dgrtr3xHm8Oo4tGWgitGG3eLRR9+Fds729vXzGU6Z+FD91THDPSG2rWbmYgXVAdJfEDLJXGAYiDgoMlPhtVOTB+Yi7bcs2
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAcMCn7m6NOvBclomud2YlVLNPP7jOJHRiWUWloShGewDIKHzSmi2bD5aLis/3usv7L5EJamvNqVgw7OlJMGpEOXOQSk74in6hIVpiDo5mktQ4i1ObcNJfjlTQgx1uwT/1W4uQiFmkQwuHwW3YFSpZABluG4cXmhppD4Fy82hCi00eksnh3Zm+eM5M+gxQ1dgrtr3xHm8Oo4tGWgitGG3eLRR9+Fds729vXzGU6Z+FD91THDPSG2rWbmYgXVAdJfEDLJXGAYiDgoMlPhtVOTB+Yi7bcs2
-– Token Expiry: 2026-06-04 09:19:40
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1807574603	nfvdid	BQFmAAEBEOFl1DGtqmSQgdacznE-VWlg3FE1nnvzSVWW9LhCBAZL27KLQErdNU2ZLg7ibBhJgmbSHNtbGqnqTE3-msDQx0Q_-OxiqPLHOZvK0TDUYFoUQCqk6q5Lj8cWWQdUfc4QKBQZOPI0eAtekZg4tFMj5Kn7
 .netflix.com	TRUE	/	FALSE	1810240066	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+13%3A27%3A46+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e66426c0-f022-4130-bab5-aec601e3dc81&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776285547032&AwaitingReconsent=false&intType=3&geolocation=US%3BIL&isDntEnabled=0

@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: Jhbusiness96@outlook.com
 – Country: DO
 – Plan: Premium
-– Member Since: agosto de 2024
+– Member Since: August 2024
 – Next Billing: 2026-06-22
 – Payment: CC
 – Card: 3522
 – Phone: +18099151621
 – Quality: UHD
 – Streams: 4
-– Price: US$13.99
+– Price: USD 13.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Jorge
 – User GUID: 7EQ6IEKLGJCCLMSUKKIOSE7IQE
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLDAaDIOho+xBI1D9aeOJHAiGhurpf6lrAF9AeI+zovyBHHyASeL4Iao3YX5UwjB1gTAERw8ZtbDiEoSZ3JU4q5BsP1od4CFVD3KZEoa5g611MXcosEHifVQUYEAOARNDpD5Oeml28dEZgvcbaWvfwoxKjdw5O2erXlZWbi1vlwbzhyiYUND3EOpLdCcGgEMi1QkLXLi8djR7cqr79scNdnxwXUb3ke/tEO5s9UPCh0fLi/9jqMbm8t/xGyd2U6zmou6ASgdBgGIg4KDBDThNUv40p2dOvZ7Q==
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLDAaDIOho+xBI1D9aeOJHAiGhurpf6lrAF9AeI+zovyBHHyASeL4Iao3YX5UwjB1gTAERw8ZtbDiEoSZ3JU4q5BsP1od4CFVD3KZEoa5g611MXcosEHifVQUYEAOARNDpD5Oeml28dEZgvcbaWvfwoxKjdw5O2erXlZWbi1vlwbzhyiYUND3EOpLdCcGgEMi1QkLXLi8djR7cqr79scNdnxwXUb3ke/tEO5s9UPCh0fLi/9jqMbm8t/xGyd2U6zmou6ASgdBgGIg4KDBDThNUv40p2dOvZ7Q==
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLDAaDIOho+xBI1D9aeOJHAiGhurpf6lrAF9AeI+zovyBHHyASeL4Iao3YX5UwjB1gTAERw8ZtbDiEoSZ3JU4q5BsP1od4CFVD3KZEoa5g611MXcosEHifVQUYEAOARNDpD5Oeml28dEZgvcbaWvfwoxKjdw5O2erXlZWbi1vlwbzhyiYUND3EOpLdCcGgEMi1QkLXLi8djR7cqr79scNdnxwXUb3ke/tEO5s9UPCh0fLi/9jqMbm8t/xGyd2U6zmou6ASgdBgGIg4KDBDThNUv40p2dOvZ7Q==
-– Token Expiry: 2026-06-04 09:17:18
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1799972578	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+20%3A22%3A58+GMT-0400+(Venezuela+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83e2add0-f677-4662-a24b-0286c7141f33&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768436577383&AwaitingReconsent=false

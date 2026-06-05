@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chetan
+– Email: ravulas26@yahoo.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2022
+– Next Billing: 2026-07-04
+– Payment: UPI
+– Card: N/A
+– Phone: +919848086632
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ravulas26
+– User GUID: YUSDK2CTPBGKNGHKPAEZXRWRRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794454616	nfvdid	BQFmAAEBEC_fi9TrWTwaSemx_ZObjSVgB70IXaMHjLuX6DuwQt3wZBqcpLKWbllZTc5kkFLvtjKjU1HAtzhTNGslTLlV9xmUCeRrJJD4srVDhan84HRyUNYHWf77SlRaFVOTri8j_rpe49_GYBMqso3ODbNyAKY1
+.netflix.com	TRUE	/	TRUE	1805549251	NetflixId	ct%3DBgjHlOvcAxKABKvDiCQ29BOTc5tHkgFe0T1QcsVouSMf3V4y0rBZ0XaIHOpKcCNf_WQx_dgMmpNb5G5XT1py8WvoRCJ7hkb8aU-V-Y8luyTvB_obR7ow2TuLbIEaQWebHjlaIhpdb-mHn-iRfbAQYx_uwSWqUeGvSQ6uB2QWxDyOFMZNU8ozMPbzq5NjBnCxiQwzCGjWPdLJkRN4rgZkd_chwtBZMod4lWjU2GvB52a9Qx2uJCTeWXHkKz6S0hSrbYCisWN4zcdm7k8Qr7umDYXKQNSWyqb7Uh0ev5zKc1pcDPS7XGvrdIS4ALAhdWqsYP7D7BHMzBkIZW4r4zw5F8GPawWbpar_dDo3oyeoYKJmtqesayY37iqEzOFGnL4zqD_L_N9-15QloQY4hlZnx-HpkuylWZHg3vUC0qoFsVMVSzkvkAvDYAWGInsiPrlmp8Pw2clD9SOkAs5TwbzRPPfmloz52f6umP7yMyEPAtlgRruJRCLLvY2vBr1cfOQ2FMogl9XZUHIVYqXkqa_H1Dz2-D01DSjjAjeiZtUDuKV9PgAA80H2RYtWyP3G1FLVZ-ZHJZVCRzXm0fbw-3ixdoqwZbuNnx373Y90WFeoQuZy-lih9qQfJ9lv4Z2oK_uvBYrimcGZ-yK_UsukwbewBmuJHbdvRQ6eIZ_QJaPVMo0JlPYv73nlnZl-GAYiDgoMXqRUQpX6uQwXYKoW%26ch%3DAQEAEAABABTbjDCOlafOoTArG25BgSIYw-Jlcd5GJ3I.%26v%3D3%26pg%3DYUSDK2CTPBGKNGHKPAEZXRWRRE

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Diogão
+– Email: sergildoferreiralima17@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: março de 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1639
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hassane
+– User GUID: OK6OSXB32BGBJGFYC5GF7IBCLQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808184251	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA7KX3Pz9eRfAbzYOCddtfnSSSVRwtyd_TpJ_ZVWdV32IrKrpYc6yamK69oaR79YD-VN_4GI_k7Ltg59OhdSC4Uwy6tFwfSk060ZeOcNtr03onwCKB-frBzXQu_-YdIOT-8kV7U379Z721IshlTWn7ZE3W5c7NhYTbnOfGsP28ihXMIOyp8FJrQMIIuT2QP34Q-YDUlpmVwVkyu8dx8MJVSYjc3fxosBSew0HpGZYjiJoebaprnXuoaEh9H3Ba9uWydIHnP6L1RYIdCngpigeFWCDHtQpO8QYXOfMTlPtLNnCQCjmYY3rRZ8wgvqlO_4S4Jl1zRaJhAh_W6McVGnDsPfDWmbQ15RgqrHcWWJnZx2swSDrzh8NDhtOq5GE9pDWvIpgs2-KJosRHjcuei_2rLGOt-yflmB15UvT-v4XpPWCRe34J7HnSW2WUoh2XDI5sq6sSMC22_NFnqw0cmF7h6zW2SEXDWqY2ZEu-z9EKnz0TYBWbdMji41d9AZ5tUIrPf_7qg6GjaU0EpefylOcZCQojfaIPhJ7-5prahgGIg4KDIsc6Yn4hdPPwRQOtg..%26pg%3DOK6OSXB32BGBJGFYC5GF7IBCLQ%26ch%3DAQEAEAABABRzeG4FoiLv3Ofi_RV2phj_gyPsp-k1fuE.
+.netflix.com	TRUE	/	FALSE	1808184252	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+22%3A24%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=505f8d87-200d-4e4b-9c10-f046a0c17ca7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776648226421&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808184251	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShdVtzMq0lWOJzCmrOKP6BCPjnKmJS0so.%26dt%3D1776648256978
+.netflix.com	TRUE	/	FALSE	1808184248	nfvdid	BQFmAAEBEMtAHcq_814FTxosa8AJCSVgwMsVWxkcneO14ohQkByIQuLA9Qz8BslnWv_uxll9ZD8bXftLazpgR8Nb6wgdv4_RqqHAUblhDh75vdmZAfknOmeaq3wci40Bf5Lr-0_vJYjjpvw-lr2peu6ERxuxjrA1

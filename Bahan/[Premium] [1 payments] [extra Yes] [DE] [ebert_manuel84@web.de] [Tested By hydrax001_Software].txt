@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: 2MKGXJRIR5ALBOAP4A6OWBWOLU
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAdzlGGhfaFKRyVwT7xo+V8LJdGveG4pRnE05qPyMsqsZye4wyobpH1Jh0R7rM32tAJhFgPADgLfJw9KAqp9221EesIlbq5VWmUVZ+xguWaT8IrwcJ260zjK2WL1HkGGJa1h1/x84iW5HLsxgKSwiyDrQjLgg3vkbSAHths+7ds6Fr1dIL+xo8VEuTDD3bCOytBlFmJDqk05gLKFcm1h+LjKLQBsCTFUWplGn2VDi7kUDkivXvMn6GhBspIZ/Y1+H+EtBGAYiDgoMhe7/y4wVugMkb+M7
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAdzlGGhfaFKRyVwT7xo+V8LJdGveG4pRnE05qPyMsqsZye4wyobpH1Jh0R7rM32tAJhFgPADgLfJw9KAqp9221EesIlbq5VWmUVZ+xguWaT8IrwcJ260zjK2WL1HkGGJa1h1/x84iW5HLsxgKSwiyDrQjLgg3vkbSAHths+7ds6Fr1dIL+xo8VEuTDD3bCOytBlFmJDqk05gLKFcm1h+LjKLQBsCTFUWplGn2VDi7kUDkivXvMn6GhBspIZ/Y1+H+EtBGAYiDgoMhe7/y4wVugMkb+M7
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAdzlGGhfaFKRyVwT7xo+V8LJdGveG4pRnE05qPyMsqsZye4wyobpH1Jh0R7rM32tAJhFgPADgLfJw9KAqp9221EesIlbq5VWmUVZ+xguWaT8IrwcJ260zjK2WL1HkGGJa1h1/x84iW5HLsxgKSwiyDrQjLgg3vkbSAHths+7ds6Fr1dIL+xo8VEuTDD3bCOytBlFmJDqk05gLKFcm1h+LjKLQBsCTFUWplGn2VDi7kUDkivXvMn6GhBspIZ/Y1+H+EtBGAYiDgoMhe7/y4wVugMkb+M7
-– Token Expiry: 2026-06-04 09:17:12
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1802099465	nfvdid	BQFmAAEBEBJftaqgsl2w8JUQXPtrhe1ggJjEeu8NHfB-JzI_OfF79Mx3h8T6CIdvG26tYCtsf_ybWPJVmCL7dc6AuHMXUWeBES8ZLfbapuqdwvFaXJ0gNM7-f4_6F2K0kNuEu5WyPePCVu95COJi7kDjsp1GO8AH
 .netflix.com	TRUE	/	TRUE	1808228180	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAwJ-J0RB8BMoGsykY6MEAZxtf5oOQt6K64i3-pQpahZuuFrTqh_djAbbLhGG0hstszJK8GpO7CAGinF5mhc6ZoJiixhgtkOoAhmGedrxV7NxXnT2ZkGIRKsw0G_2wwmpQ5jnIYR_-SAymtALB0Smxcn48hHAbC6dnfe24Ry_QQW-fYtpUSBxtiGgeJn3yH_uZSswVRK93scNDqNMe1UEClJ-tO-7rfaZSLphPQzDihA7Hqvsf3ISQKUaqacfSpyQa-A9AO1JM_YQa-CuPWy3u97XsuSg0z5mlmJUgRpD0M5HWKgAEYH6U75JlKDUMVFsdqmmjJAuxEMarL_UQYTy6U91wXLA1fGXRYJa3W1PsI0fWx1oL81xhXEechJylyyWyJmqJaYgB_w4rj-avH39eEYM050yZLeZ48wlRGYNOa7SFmR4g6_lE95_QCIv_7K3lP2jvPU6dgwG-kKCyLEjZ7xQcd0CI2uhix2lNopLNLU5U17rALoFD1ZrgQzXLXPAytL6K-crtj76CTpXYG4Yit6L0TjiaRgGIg4KDDclWe51g5tD_OBNBQ..%26pg%3D2MKGXJRIR5ALBOAP4A6OWBWOLU%26ch%3DAQEAEAABABTtXhb4Nhtk3NxMhLDx5wOZRA_pLcaB3Vc.

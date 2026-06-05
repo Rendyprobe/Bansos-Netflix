@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: ZKI3J4CQWNGTTGJIRHHBRXWW2Q
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCASXpThyAxsQ/SbGlIeEMtLyBs4piQXsgHANinWHvhXdmIltJ/4FIdtcerswH0M8UQlyc5kjktBjbKOKMEDgH/F3h+LrYA5Rp7QKFIpLDyYd592oshNjOZ22O+oFviuE1f7yiOyxhaf2D/aJNKzRtrOnEiDmmjp92AhKwQh8HR5b3CFx8manGXGwO6BfsaQZkpJaxNJ0C84xsQMtjuoKuJ3HHCB0+GCvvB4j8wmrZaQSzAeMAGeo5IANoMNpMTLlPUwrZGAYiDgoM9CM3feaArgokxn91
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCASXpThyAxsQ/SbGlIeEMtLyBs4piQXsgHANinWHvhXdmIltJ/4FIdtcerswH0M8UQlyc5kjktBjbKOKMEDgH/F3h+LrYA5Rp7QKFIpLDyYd592oshNjOZ22O+oFviuE1f7yiOyxhaf2D/aJNKzRtrOnEiDmmjp92AhKwQh8HR5b3CFx8manGXGwO6BfsaQZkpJaxNJ0C84xsQMtjuoKuJ3HHCB0+GCvvB4j8wmrZaQSzAeMAGeo5IANoMNpMTLlPUwrZGAYiDgoM9CM3feaArgokxn91
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCASXpThyAxsQ/SbGlIeEMtLyBs4piQXsgHANinWHvhXdmIltJ/4FIdtcerswH0M8UQlyc5kjktBjbKOKMEDgH/F3h+LrYA5Rp7QKFIpLDyYd592oshNjOZ22O+oFviuE1f7yiOyxhaf2D/aJNKzRtrOnEiDmmjp92AhKwQh8HR5b3CFx8manGXGwO6BfsaQZkpJaxNJ0C84xsQMtjuoKuJ3HHCB0+GCvvB4j8wmrZaQSzAeMAGeo5IANoMNpMTLlPUwrZGAYiDgoM9CM3feaArgokxn91
-– Token Expiry: 2026-06-04 09:01:16
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798438223	nfvdid	BQFmAAEBEBTXQ-9RxTNfWHNpyHeunL1grbLmV5ublVGHS_q5iYkGiTYuE-9I8SPW4uQQO4f6wbG88P6KQWEbp9J8yUlqPmYixP8ZB1UhCNZl43MXq_8TIrHlwZgZIOin6ILbO2U436huqf6h3HO7XhlcJoYMjwfI
 .netflix.com	TRUE	/	TRUE	1806646289	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAxMV79_8vdChl-0gFf2KLDuOu7N8Y1CenHcHkbOSaiTp05CyGlHkH-Rr_pLMn4kheSOxUTeHyOlZyw0A4RKF5UiA05PyG09DtH6mHQ6UZ7cs0Qln6N5s0ysInpxg0g_Z-_19SsG-idoem3itNK79vF5HBW9cESL7nfBB20vcYNGB_lqxCYO994PT3wAxooBaXHqTlTblxa0OtsrcNqEvPPMaff1kQlGC720949JDELnX_XIFYBzV5XTHZMRhg70goK7Pxzx2mVrWRJ0emIazki-lOjqp5YZhLFVczfQM6jNHW5fBuZcbVmOkUUjyA6uRbzXFzxzqsgNhvVPnUveVLQ6iru7WtnhXYA-in6DnEZnBLOl8USpAwsoyM2NYE_EDPk0-RL_vaSfbYB4hliUEXsH9ac09j8fcAda2boSU3SZPnpZ2wQO_ti_cEXLUS7a2WUnVLdWAWV4IsvzYPKarO-ahm4zOQqXxf9pEFsAyvc-mtWAuKSTExBp41LDGZ4cejy9OdX1vIF1InD_mOJ0JN5AzNDJkihgGIg4KDN9Aalxn-bvN8mll3A..%26pg%3DZKI3J4CQWNGTTGJIRHHBRXWW2Q%26ch%3DAQEAEAABABThgmRrMTkx3qeQV_KK4oPbiOLsWSFwwEI.

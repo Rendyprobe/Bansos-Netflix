@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Felix
+– Email: brendamakwenkwe48@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 5237
+– Phone: +27835075213
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: brendamakwenkwe48
+– User GUID: D7FMGSWSB5DE7JNIE3PME6GVDY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807205288	nfvdid	BQFmAAEBEFe2hHG0pLzyZqG5g6C42lZgY4np6OtZZyy3RCb7wI0CwszyLYkJxAK_gN5l3NNKr3v33qZk365hjMkLwX0LK_HNBkFFvz4YBd1VzEkX-7oTGispjlOihai56MQVRmlNaCrOBmztEIfOdJ1kj-lwGsPi
+.netflix.com	TRUE	/	TRUE	1808991812	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAw5agUKQvxkLIF24KGHMdZAkgY_I7i8YrEJiT9S7h2RZ_M9PvDW5PqE1e82L4hccEm_mMW4V9plobhOjH-JdR9zhKkqRv-JiPW7bUe4jW0qJBbiUSdfbU7XN5A1rceLLJpHUKZruwSZceERKWWpOGAbQuputlj7yXj5S_05dskvi6uLczKRZXVA4xtj3xR3PiyVyLWr0HZqs3sRxwueH_kC7YtDsBezVEVflE4qqUUdMnlaJ8i4uH38hKVU9e8yq78Y4pbVeAvs8451Zm2n10g6j2dRXon5Gh08uCjVlQp_xq4rnXC7rIFnl28KG6HTmZs8-fjNON9TD_T45OTFcvcemOi8mjfFlyPGXXZMS8y7rx-_DZdOfUuiWFxeet55lAC_ulVgVhcMdh8rGVgh6c7P4uYv3HapPsjmNJuI0buvSLabZJC28oCNlIloJgUUCZwjFeopQeXaJdwQZ20K9SEDm_iD81DnZ11G9g_AHQx1O3tdmaAhdCQs4SuXEaxL1DTplgeGIp1bwfug--tKBZnT1CRdv3Ji0cT8YBiIOCgxmsOxsccJuHnbrTD0.%26pg%3DD7FMGSWSB5DE7JNIE3PME6GVDY%26ch%3DAQEAEAABABQ3oFgSSiviCUHUF-0FnYcHjC_e09s8H5U.
+.netflix.com	TRUE	/	FALSE	1808991814	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+11%3A43%3A34+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80e07b07-2273-4289-8e0d-d28949f3b960&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808991812	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS46_PT-qmGpjedTiw0A1lDr863ocFkOfk.%26dt%3D1777455803178

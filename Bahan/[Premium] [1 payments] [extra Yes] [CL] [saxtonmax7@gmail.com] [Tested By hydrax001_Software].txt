@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alek
+– Email: saxtonmax7@gmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: abril de 2021
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 6916
+– Phone: +56961686912
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Max
+– User GUID: RELLNWYJ7VDUNG32XXV5GMU7Q4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787950306	nfvdid	BQFmAAEBEBy2EbOXJjSKKZjeTujIjxpgFLrnpeKkE7Otz-t0h0dN3ayGR-refs2PR7TOyiPkhmRBVqZQd18ykqMi_gmENHzonJzT9C1Q2RZGBHbqdLdg0dUNvj9Gla8eOzxJeC2RDioDW6JLMjsDPGA2hGH5ckZY
+.netflix.com	TRUE	/	TRUE	1788029801	NetflixId	ct%3DBgjHlOvcAxKQA7dPJKiMfcendtFmyyTGY5XkHtI5GV9sgY6HJO6_unnAtHfNsyu8LQ5MzGmtWeoWY4RLEpIQGt40xd3A9Ih1z7OK0qmDRUGEc5nEDSVOMeUKYutE8lR8WTmfIp_VmBgpq-2jGV3PXsmDQWSGrQP433NGXZXAxsVKxSU_DQo0i_LyUQZE3XPR-lCanOX6j97pDP1Rj57A1xq-t1SJtC012J7aFCc2IvCNOboY_M1hiFz_0K-amwnjHCRkBBv1Ck4QQpt_LxSAYBu9SenzHJe1O2goWKvEKOAP4JHPOcPHOVW-Yw9oGeUMNHO-KQAXl4E1UAapz93TGImL_JID7Hy7n0GL2VClY-yUD-6W_g3OhKWJkgxQlb4vLYbY0ZRwOB69vjO5n3spqlwv9FjLP3P7ZIZxxydsP9J7Hs0wWk53V95sWFW9hFB7q5ND5SkBE2yCac9znW_OZPlYYixlD7xQmympT_7-z3W9Aa-QHB4P0-KCWujts_bFwZiFGN77llSRo1Ql3QDb6Y-8pEVSP4xk988YBiIOCgyzDA31EVoQlnj1LWM.%26ch%3DAQEAEAABABQO6NikB99Bra0gx3Lw8pr05-gRsLd1yik.%26v%3D3%26pg%3DRELLNWYJ7VDUNG32XXV5GMU7Q4
+.netflix.com	TRUE	/	FALSE	1788029800	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+29+2025+14%3A56%3A40+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1da9c2a-3151-4a96-b4d4-ae71ed4d04d3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788029801	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQcuu_ljgEAEc8KfYzeTUl_BPHkT69qYVI.%26dt%3D1756493801841

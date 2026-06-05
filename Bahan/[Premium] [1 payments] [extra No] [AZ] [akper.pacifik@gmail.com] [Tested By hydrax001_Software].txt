@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nigar
+– Email: akper.pacifik@gmail.com
+– Country: AZ
+– Plan: Premium
+– Member Since: February 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 7131
+– Phone: +994502414301
+– Quality: UHD
+– Streams: 4
+– Price: EUR 11.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Akper
+– User GUID: HCOMZEOOY5CJNOL7ZYEMK7S4QM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEHWNE2aaNIp53rj5tAuH4yxgaU_fYyUQtTGkKoHZbpPjGCSgdTtmNxrPL5AQNpzBdX_2He9flWTSfE4BrseMfOR4Zchdt_4v6qd8SghCPridRj-E9th32yRCZerJ7kEGM9Tms_rbEd-hxzpfb1CTJAqR
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxKRAxYIim7z9Fz5w3BZULZBGOq_yHIn1cMKpuFzssi58VIhmAh0eIQdfrZ1xufFJuJMCk0XAhFiC2_uwip54FTksW1zpNvyY6J7GOFa2OCZXawfH6Owu0URL6PiHygBtTPRBZ5G6HeOUBjq0maGl-2woD5C8KFIZOC2qoXfcEfw5xXnMprvYAoRTfsVFBugptz_310DDcWoDYwIZim-VMXcIBAez2KIXVyLhX89GtIGmv5uvzTL9KN9UHiLE6A1WBf0SXFZ1zCQ6I51szdDL-JsB77ABVamtG9oWp33Zs7nO3ia6LLEqQ3QVcjB6xnw4gr7Ifp5eBDa0cH4HVRPKX1yhxtInS1r5MLl0-0bKJdosMc8HBvnhM64rG_djp35ujkA9FdxTHZ3fen4SGT-5oQfzd8PUf_N5y5OAFudQ7OF-JelUoVtcaVfh_8yRcWMjrCvbmADNe_ZQIyJ3kU8CffXDulFDbHWxk7C4y9WkoLxQ2aCNrT1Ow0Zg054kkfLBjrqQN9SM9O2AgMp2AD1xvx9GAO4GAYiDgoMb59Jh0OUDT4stmFA%26ch%3DAQEAEAABABRJpLP-Rd3CS0ff035kV1UBWlSBXX5kOm8.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+29+2025+01%3A03%3A39+GMT%2B0400+(%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%2C+%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f2f378b-4bab-4c91-8873-d0bc1ed7ee71&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rodrigo
+– Email: cychromia.ms@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: January 2016
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 8994
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mama & baba
+– User GUID: 6VCUI6A3XZHGPGEIAKXKLTB6FQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801911734	nfvdid	BQFmAAEBEB3HHwV3Q2mW_h9RqwxhaTtgHmCZoz1LVpUEy7Prlp4eyiXZ9zkgmmbfK6HAOvo5NFgDCThspatTkqANjgyWQIVPqLmmQN92ZfFF2E1Pze6U9Cz4K_xl6b4w97wyKierEfdCTN6MqE8Vb1CseSa4ryGG
+.netflix.com	TRUE	/	TRUE	1808980492	NetflixId	ct%3DBgjHlOvcAxKDBLYkrDEAQmIAalYKQ2Jrd9ReAVLLp1-lZva9_mvHLAv2GwvCvo99s1QndM-oJwfyTlvAXEtV4bSNuMTTiSjVFkdl5rNJNc8HYDu8Vpy0qTIGBP5ZyyaC5mlAHTNNSOl8oefBRJLQUX3TWi6SxVQaIzOPIh3JKs_dHGWrvBDmYqnHqw1qUFjttstgZUg6nvyFOwrkhxR_-Hw9SFvS2xEax_W9WBlm8kujjvqjK-0kofrnhoYJpUr5RdTUo0PTXpuU3aIdhTluK0mwxeX-OLdos4kwaqYT6R5-KplklmPq2cXPf0V2Hflk5QyoBn1ivdWK6Ev0_GqxxHO72TcwQxAew3gf2tZN0H1G40WOTnYLJOKIrSHCmftOppST263NsgnYNbPBf-Euq0aHwh-tue8BnVNLj2J5JzRiLicLDZM6tJivTsUraCjlbrVKhiTKcE08Irpp7S4HOqBBu_8z3xeJT8l8ELNvCG5R2W7aplv4Gte-wk3NzsRu3M-Bhe8oRd0IU93g_yafknqCmg1nt4NuZu5qQOVS6L-BItBKRaZAStHtfaqPYKewHYJGk3XuVbXg7oc3rSJe4fVKrg96IOrFL7BjgvUV1PuTY3rSOrSiyuV_OQEJc3drWYFPF7xZKtBMFNe3Ac-SluH2vBZQq7zRfcgbXiTm7_6XcCv2GEMSSrxnLtEOGAYiDgoM04CtdgwaYIPES6Cv%26ch%3DAQEAEAABABQtWGtdzgCKO2dBbVzZoGMuwMCtpuxRYVE.%26v%3D3%26pg%3D6VCUI6A3XZHGPGEIAKXKLTB6FQ
+.netflix.com	TRUE	/	FALSE	1808993355	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+20%3A09%3A15+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=553c95ad-0132-4ba5-bdcb-86c326e1cc07&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0&isDntEnabled=0

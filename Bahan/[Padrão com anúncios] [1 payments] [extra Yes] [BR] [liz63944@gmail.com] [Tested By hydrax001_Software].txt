@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maiza santos
+– Email: liz63944@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2026
+– Next Billing: 2026-06-07
+– Payment: DC
+– Card: 2488
+– Phone: +5527998387024
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maiza santos
+– User GUID: 3527R656O5HLDD2GUWXR3VN2NA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807733822	nfvdid	BQFmAAEBELDHW8xmxtwDqTMIZuS_e2lgZSOQaH2NfcqOL4_LPzd_vwde192POLKqNGazEJe9LOkI7SrrGmPKzcb_vroSL5FYdLjZ5goVX0r-KU7_tvUug6I-VPYDWEkKN_AVlTNgEZoL0jvnDfBCSx0m_oH_nYdc
+.netflix.com	TRUE	/	TRUE	1809655890	NetflixId	ct%3DBgjHlOvcAxKPBJe1zez6dvZ7gvF-BTkf3ggM9HVzutb6QJNcHV140K-7_M6aNVQfIGQGZet8j0F3s6qg9qFdohMqaUR3toJ65EZJNtzFAZE9CvmptUEOZ3DNpcRiPpup13gUwmtmg0bAfIQE64xxmeQx950CG4Wel02pjTBnS9-rCz7tqgxpQs-SIxTy_Ay3aihUBUqCs3DVuqSl6jlSGHB0sQzLhvBY8IcsQjK1QgidoFpVjQNNUxIcnJkU-L_xFzjmli2RAM0Wo5tpWfutAwRGxcwxXGYLYtM7sAxr3-EfuGoWMEPfD5h7sV5gvDyTHLsVRr7TJAseWApCtoUE5B0B4iDoZztZu2Y1MUQuYHXGf113C7c5d-CE8g6-F2WC0pp_YvLX7gGAGsvzQw6FQ0Xa-SxWCFNjMBKe_iQYIXSUFbN8nVQlg7XO6l6gPAhJbIeb26by6uaFa5LxHG5htJpkZ6f1ACM6TpZYcGlNFYHvDA8KwWJmujwYcgeHGs4VJTqR2h1b95-gQCLeWRRcEwYgRMjFnT8m0glmAmdXhHVhDVRYPQEQf3luDKbPp98gx9hPPT2B8pEgGLKDueUqOSBwKXKnctYF9fWtwZ47M19XOJyRqUAKG4PViSakmRHyIlkKv6vettVXbWkRDBrPrw69Xbhr8rQLZNOChxy32XHGsMepK3ok3hhGNGEmyRDWX53N_GPrAJAyGAYiDgoMKKk34J5Nj-SaPt09%26ch%3DAQEAEAABABS93pofN1fyeD_tZ3nx3b9fakjqeY8bqKg.%26v%3D3%26pg%3D3527R656O5HLDD2GUWXR3VN2NA
+.netflix.com	TRUE	/	FALSE	1809655890	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+23%3A11%3A30+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ee082f4-47c8-42c6-951c-961c5ac12671&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776197654224&geolocation=BR%3BES&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809655890	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTpIQdr0DIvxxfDjnwz3RdrYMUkGBEpENE.%26dt%3D1778119889526

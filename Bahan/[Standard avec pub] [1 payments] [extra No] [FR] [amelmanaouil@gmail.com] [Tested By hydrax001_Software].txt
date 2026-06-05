@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: FadyWwwW
+– Email: amelmanaouil@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: octobre 2024
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: amel
+– User GUID: WWPN4FXKUBG6PBM7M24WTQOPPE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791308835	nfvdid	BQFmAAEBEBW2DWewd28C_vaRyLD5XUZgVHJoYx9NSlTA7OnqsMsVvmNEFiAKSLOiF9E9jL8fdBLYPkHRTMSggetMgSzIOg_NJRr98LbeZm_NKnd1XYCdRCHeTo28oasGzdg1MwxHpLTsz3KDr8HF18xGYlB9pIeM
+.netflix.com	TRUE	/	TRUE	1809039246	NetflixId	ct%3DBgjHlOvcAxLoA-Oe7QxglXuUTj6WFi-71yGCEZmUacc8H2lYulbugJevNfU-QJJCGsL-ak7p1Z17OCe5HuXz2zvCvHoj_5h45k5ZZ6Ab0lHGEMkBEa2orLd4kfsb8hwXJ_mUiyQPHBhqEK8j2VhTJTMDVE3gIA_ijajnnQVrXs6GNwj3zOhNDQ1HeFHruAgaijJYBVIWNNW8qbuMA2yUIwL-2qdAdV0kkpiJx0NRVNt6-GeG00RoHWxaFUvtv4qQTvylKofgpw-tGBbPwvwHYj7AwcHP8hKuAUR3ynOHoV-7mv9fnIUh_mAO5objp41AFYAHvxwQxThrHMaU2H07uWGnoPCNlXEZ0G_m1uppv7AWEHza3smSyUnSdlrp8MblleU069RQSyiNJDjMwndObtZeWtNmcnlxvMQ53vImxJvHb_VAHPtH5UYRMmzw9auywMRRQ2cujVC-tDYT5tguO-RYbz0vHc90LeFgio00_bf_9rme2vBra-hYgTNtr-BqLPho8ps4XOdTMEWDjBXi_uqSSNA99NXEOpdQntg2WbQJfZAbc8wPA6s7hgFZKOAZzgW8tGUkSBF5xITOg8SEN1gkS7nH9sNlZjSJmuMlW9SZthUk8C2MOK9rnvrc84rdR-v35s9o1h70i0AD8Ov0sbRkGAYiDgoMdhxDB_dIqBT-TwEA%26ch%3DAQEAEAABABQ1IaJOrBAN1ASzfeCjyRnReXewwcIU-j4.%26v%3D3%26pg%3DWWPN4FXKUBG6PBM7M24WTQOPPE
+.netflix.com	TRUE	/	FALSE	1809039247	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+00%3A54%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=10f2af63-b4c6-4bc1-b361-413cca78ad58&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BHDF&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

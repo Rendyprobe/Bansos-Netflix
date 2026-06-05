@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amrak
+– Email: geraldoriaro04@gmail.com
+– Country: KE
+– Plan: Standard
+– Member Since: May 2026
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 6307
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: KES 700
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amrak
+– User GUID: GCAA6STNX5E27GTK3OA7JTVFG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791620750	nfvdid	BQFmAAEBENOdHLDXKvDEObCZuKURQmlgGTwz50kA7_G8oBcDjSVju9CRfC1sE-3ROyYijjiqB2XG57EEXa5fsi8P4fgaxcY9b0f9bu4DpOSebGnsKW61nY3lo3cvQJT2qVwjoRHJc_SE1kKdfc2ap5Nel2pfLj-U
+.netflix.com	TRUE	/	TRUE	1797072633	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAr0jiPoCG6RVrMO104mp5rGLh14ifU_yRP18-H5wBFb0Do8EKh58-q7pigRc5L1JKZRfEjgQPm-AbxfBUyBJqpf2ZuQ3lDKg0czOgLs96C8tgmDMbs0FKOwfMDhnlWQvCvkUTxlrwKyzW5ooKI_gTMbiQsZaZkVa7-z-ZuktlfOpHuxOezOPRZy-P9clUIs_vzEY7YWiuDT0iVJa7IWXDzxRaz5t9dR0N03lhuiSkSHvZiRxgjgwdAhXI1s711ou6G489OjsnYGamZATOagIjus2rkxrQXTmjFLzYjjGU_wM0HNoWctOqmZq6ZPhNWkpI6ChDi4K6d0yHbR1R-JRUqLeYqN9JYOlaeGul_uOxesXcc1hkwNDzOI3-_wvc-GkUVYs4D19PV3M8HMQYWE7WL2Hqmc3m-OxwYxv5zulf2Aekv5u1H240vGeMqz9_m3ucfU7ErkiyVUJwCXAVYWwRhymUKydBELCLUnMEp57gjmjGAYiDgoMgKvuQ-JKJGLpGdmd%26pg%3DGCAA6STNX5E27GTK3OA7JTVFG4%26ch%3DAQEAEAABABTWYe764nDN846yokPeLHfG70RUy6g4lYk.
+.netflix.com	TRUE	/	FALSE	1797072638	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+12+2025+13%3A50%3A38+GMT%2B0300+(East+Africa+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6b14acb-3207-4b8e-bd0d-d384628a223d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797072633	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSh2I363jfDuZXrV5gy6-KUnnuxO544eB4.%26dt%3D1765536631354

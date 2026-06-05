@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paige
+– Email: readmypage@shaw.ca
+– Country: CA
+– Plan: Premium
+– Member Since: June 2022
+– Next Billing: 2026-06-09
+– Payment: COMCAST_SHAW
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: CA$23.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bill
+– User GUID: 2N5N6MBZGBGNVDSYU7MKSKGHJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEFLPxD1D4Ihz9101zNg3zUZgCja_J6WZT55dV-CS8GV5MVxFxDA6ZyWkBLLqbFck8cS9ams-oA3ifVm4Yj3MVg31NP6NWf4JEhl6wuc5UkQ5TujsIh5gq0WmPFanV6Qmxfv4AG4x8S0k8_zwW8z9DrpH
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+09%3A31%3A17+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3c9d9c3-0256-4576-b9fc-16406b5074c0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	ct%3DBgjHlOvcAxL_A1ZUvtyrrLP6YGolnMy_InHVUNomJ2SPZhZC6uHwc49YIfzsfJW_SWy_qB_XhSShHecRtAtvsC558leA2-LG_9ybyQxziKHNFrNruMu2pbUAErxb6NddM6c6ORT_GYmjLm9U3qNJePpn0YwxAcSEI5FoJoGKG0PT-2xPFbnRoKYMn0YG4CzTtuA1LIRdxJHix9WWrkMZNggNNY-GMx_3kq56ZVJqMoe-H5HaUC8jS8bRScD4aQTbaxhdEiQvRp3_OcDndALaSM3nnzid7nksnVrU02Z3t2gHIv07hwN0JGp3Udn4z27tr3iANFBGNA5b5C-msJrrv_M3rIBUG9zRQxN1hdNwL-BBHs_0TayLz5gNgyArbf2dPvoDHT8JZYwElAdhX0kMT1P-AO0_5mT7rrRdG_PsC2BpsAdQxmumzStpHirKDnXvBFrebfsCh3Da-JJwz_UNMIT-OCKsqtg-PPt24iGjg1RsFLaWNBm9h9tX4xpmRq26FcqKUyvJI5k9tnUADGDg8u8G5QJ_vVIwt9IJI_kYIbmbjmnV8cldVTCnXkltm6yl3VdbPXvAUD22DtE0Ra6w_OKNvZ__K2mUwb7GKpqlMWKG91Ll1HYzOTQdZJ30vbcviWAFm7RNWP95JgyF1BIcYmGkF-kJr9SuxwWbw7wvjo_kLsVkzsfFHi0YBiIOCgz7IvF0IU78yMSrVD4.%26ch%3DAQEAEAABABQEtk1FVIi3ZB-DGhH5Gx6giMcKu28xiJk.%26v%3D3%26pg%3D2N5N6MBZGBGNVDSYU7MKSKGHJA
+.netflix.com	TRUE	/	TRUE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvXWZE6HZT817CMxDLLDkFW81c3QuDmis.%26dt%3D1777079940457

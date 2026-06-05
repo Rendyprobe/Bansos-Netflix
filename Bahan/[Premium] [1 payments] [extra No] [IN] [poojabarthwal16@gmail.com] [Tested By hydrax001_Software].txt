@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: IN
 – Plan: Premium
 – Member Since: April 2026
-– Next Billing: 2026-06-05
+– Next Billing: 2026-07-05
 – Payment: UPI
 – Card: N/A
 – Phone: +917536862886
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: poojabarthwal16
 – User GUID: HOO446RLNVG6PCJ745WUX22WOE
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARsVRn8LZVPfXkw2IDrPZrB4yaWZDhCwZaykxvqk9WTnKwF4ZT8Of8PjQHOk2M667H9sgjMprtUZxiU/RdJJGwelKdaWvP75SP5k+/go43mi6P9Drcgz1oo/YVVhaz6r/iLdXxbfnoxAupY6HPuyxXAM3ffALBNyIw7sho+gqfsyq8wMj7MbXWD5Vuv+c6mZ8T6e37UGj8Q1gFVBXsCngfkXFhG55RutE7LXKVtncoaLCT2aEDXiTcasgFRTT+ylH3cnGAYiDgoMwGmdQH1MKlCLMtDx
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARsVRn8LZVPfXkw2IDrPZrB4yaWZDhCwZaykxvqk9WTnKwF4ZT8Of8PjQHOk2M667H9sgjMprtUZxiU/RdJJGwelKdaWvP75SP5k+/go43mi6P9Drcgz1oo/YVVhaz6r/iLdXxbfnoxAupY6HPuyxXAM3ffALBNyIw7sho+gqfsyq8wMj7MbXWD5Vuv+c6mZ8T6e37UGj8Q1gFVBXsCngfkXFhG55RutE7LXKVtncoaLCT2aEDXiTcasgFRTT+ylH3cnGAYiDgoMwGmdQH1MKlCLMtDx
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARsVRn8LZVPfXkw2IDrPZrB4yaWZDhCwZaykxvqk9WTnKwF4ZT8Of8PjQHOk2M667H9sgjMprtUZxiU/RdJJGwelKdaWvP75SP5k+/go43mi6P9Drcgz1oo/YVVhaz6r/iLdXxbfnoxAupY6HPuyxXAM3ffALBNyIw7sho+gqfsyq8wMj7MbXWD5Vuv+c6mZ8T6e37UGj8Q1gFVBXsCngfkXFhG55RutE7LXKVtncoaLCT2aEDXiTcasgFRTT+ylH3cnGAYiDgoMwGmdQH1MKlCLMtDx
-– Token Expiry: 2026-06-04 09:19:03
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1808582621	nfvdid	BQFmAAEBEJhCn0Q5QCz-ruZBFOf2JohgVQ36lLn1GeU5qtqO5FX3-V_1rFgJydOdzltwIY1Xs8wxSvXCZhj6thGgtu7DS1F_I6QquLMNvdls3Nsr1wUTvSx1anj8CjuO0ms6fsb-D7eMlMWUFfZwxewCsLdHVqBT

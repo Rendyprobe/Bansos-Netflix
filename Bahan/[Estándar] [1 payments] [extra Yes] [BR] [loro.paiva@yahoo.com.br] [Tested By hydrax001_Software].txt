@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabi
+– Email: loro.paiva@yahoo.com.br
+– Country: BR
+– Plan: Estándar
+– Member Since: noviembre de 2014
+– Next Billing: 2026-06-07
+– Payment: DC
+– Card: 3320
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: BRL 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Loro
+– User GUID: K6KNEKZCQBGTVB6M37QTSDS2TY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEB5K1tzUZmirqgEC7AA4hk5gyMkM2bfNU9WKxm3ZR5PrcajgEJV0oA1qrDCxVTj50H0cjOvuGpbQ7_FmGXFTMXYfmpkjTt6_EcykjSTOjoCxjuF4wYbNS6Sg_AF97mnr9VtUUjbyLOs-OO5DLQm7pCY2
+.netflix.com	TRUE	/	FALSE	1802971872	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+18+2026+14%3A31%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70d5bf31-6be8-4e9a-a6c8-0388da0c90a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803945132	NetflixId	ct%3DBgjHlOvcAxLgA9Z-bmV4Zf8D5MwHgPoeE6KdOstT3e4D8lZgiZICTlRGVrqIHefaS24vTL84a0iFos9daylJJzL-bY6jb_3FbAt6snSlsvgHEmc_9u2EqjvHTp8yUBeSB3fUfEh0G_Jm8EaYItKHa0cBLCipIJ6FzvWfOXRPIIbZzveQr_SWOyVMJC_tT6fcTUj6rRWLyIJ49QMdp_a8VU2iKNeoR-wOrjeiGMSiXG9OS7XUZttbqi_xJ4sEkuPcL01B-dRQCHtlAL9jTdaExbKD5c8lE9XzXMamgIJSqRwLj2NysTnBiK4LTy0qaHrYA-XI3xzxmnP4GDlX5f8M8OG3ZVOFWVXLcHfsfHakdzxDQhFhALy7XXPVX0PdUc1S6cVXE6o4KyDctM09olin9hmlw93N7Jg-ixPRivqv7NvPPLxYxsvzCGYp3ZZiRKayJ5U_Gr-aS6EdsxsZxbnPUeUnFo80QpgGmsbOi8xT66wMyZwHFO9OPDb6jYD8_v-nYLP-ajgM3gg_kPoJvr4ayV9f3fT7E9FobZ-agRMKISeDQ8BXs11MXty698or9UK_vjLTgxSKDtwOrDast_2CkImIKr34nblw1t3MSlHsdrGn0v0kKJrq3mDKqCSN6UjeVOrKIkybyn3LUhgGIg4KDAz8dm0YbeRG1eft-Q..%26ch%3DAQEAEAABABSJ-Q8lphxuhak6pQSVo2OF9kMNRxdTWSo.%26v%3D3%26pg%3DK6KNEKZCQBGTVB6M37QTSDS2TY
+.netflix.com	TRUE	/	TRUE	1803945132	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOkXPdAMQlmqc5m3BH-aalxHrfU0IHTfM.%26dt%3D1772409132474

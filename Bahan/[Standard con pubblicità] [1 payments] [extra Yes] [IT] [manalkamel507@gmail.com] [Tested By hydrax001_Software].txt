@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amin
+– Email: manalkamel507@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: luglio 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 3268
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amin
+– User GUID: HP35AANQSVGQDBPCBWA2SF5UH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796242289	nfvdid	BQFmAAEBEDiOlChDPjAXXEZEjN9h0-xg1Hb7S9FzD4t2C3ASpWurK1ajXdLzGv6J2sjovv-vlCf2EXJ1pYQ057oDcakmGYuJU2y2xPqk8SjepZKTcHwU7cz97UeVrNWNQwGYIvS8lw-HeWZqUnuylSdT-pTMtYI9
+.netflix.com	TRUE	/	TRUE	1805669017	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAxsm2Oqe2yA9jyiQbPdXe2w3fXavIXuHXiDe-MB9RxCKZd2gJg765xN9ZoBjPS0y072QoPcS6lbrG3SubYN0LC7ZLeADSSquQXTds0eqQuxn94U9QKgkhkl0Qa2hZt6l3TfGbNFxo6S8N7nSX27LJ6P_Lp6Z0td2a2gP-uQHGUi8aoKcuUKztezpp3zRwNLQY8_rKBfDX7Kv04tomcb_X2Rh2OYqgoSTSj0VC5DqkW7G1LDUKCEbH7dLanaLaFWZoi9nuH2ElvElZ2EEaIrOvl70b_bmDZOsS82TA9GHF1n4OEqZglqOBIedp1A7hLgeoZqGugr8bDNhrm7UA9xM_sqwcKSAPhqbDXgAvau52lEpk8b4XfTyEdBPr2zPbQLDNpmq-uiWqMgUVcpEJe-tkKRIVq0ESt6IySZ76Slc8tF_gqH3ZUhrlBcokLK-Y6Z8WxBwrzfX5o6j9jqvkOA5EpMHWgudr482siGHgNMQy2WI5pbYqe10GGo-W4JGq-riDNO1wPt-uK3Xjt1UsRj4PThlEB0F7AeAYBgGIg4KDHyECNoBoe5utY3QQw..%26pg%3DHP35AANQSVGQDBPCBWA2SF5UH4%26ch%3DAQEAEAABABRaySG9Y7FLzUImy-9Mg6-wO3RD_XNlEUs.
+.netflix.com	TRUE	/	FALSE	1805669018	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+23%3A43%3A38+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=49f10b8e-5586-4607-8aeb-1a00538d6f02&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B25

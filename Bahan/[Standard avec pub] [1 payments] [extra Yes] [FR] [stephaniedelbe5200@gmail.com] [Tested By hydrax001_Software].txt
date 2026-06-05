@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nath
+– Email: stephaniedelbe5200@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: avril 2026
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 7232
+– Phone: +33679838020
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stéphanie
+– User GUID: ZHVLSQLKPZEMNMN6BD5MHLRC7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807556214	nfvdid	BQFmAAEBEObQrTuj6SbCmuf-BDeDzb5gL4OLphMLY8hBAeYn4au_87LxRD8Rif9V7Xt8RyeCcfrvTX1VVidVp4jtKaBlFUogWNiExIT07zt1hiE09sotelUj0BdZEIu0z9iS6p8UGcXpDTmbOl2-YxnX8-ipONKp
+.netflix.com	TRUE	/	TRUE	1810756089	NetflixId	ct%3DBgjHlOvcAxL-AzMMjSl6E0nDf9nvMnvqIcLhoVLfFu22LeIB2TNK3fQtmnDZygfa3UTQhoqqIznnPkedomEt02jP8iS8R75YYGWWPFa2cLmr7FyrDRqz-9dMcw9FyOSMe6ABo7BkRTcfnk0u8zBs2NphhSqFlU4u43k9Ou7HtBTQnFEZ1MFC8vaJ2ldwtwT-W0uD4wmw2-nH8pKqoATAlA1hYTatGftsKoKNj5zOpfK9Sl4BQdKjw9aDCCzC5DEHNgjr8zHXA5VK_3W9m77W4gxYzoWSje0kpDMbx-VvQGcipkSzizYNkLJC1PSgKRV-9sljBr8miI5u2iSFA-UVL4-9ahBfl0bglZGIXKFRc5au0mNNxEOk_JY_xFQ3g2IOHksIuDyUrcA-2hBwucXbE6ia3uwvo3Mo4cDTRdfIy09d-2-zjRhwrjN3NLhlkuVBsdbQxdIcioHEGFjpOlAZyINOiQvDnUhgL3-5ZfNEpBdDRB74-a4r9s7EVGSRNNt7MnLAF06jfMmVRQUdBuQgP__8_87pXheW-PNkWl-TjTsvsUYn9ntog4kUfAVmsyQmfq6PxdfDYDd2HdNr0ZPQKdQLu7pbmg5qkrT6GbNTUOhpa84B1wZheGJfajXsBKY3-0V8kqKSy_fPncBF2Y0z2EkM9eBfQ9-2VzuCd7PsqWmEBWgMvQeE1BgGIg4KDMhMHMf_vrsd1LgNMQ..%26ch%3DAQEAEAABABQVxihhcDTM8crA7xBQz53gtON-nE8YWbI.%26v%3D3%26pg%3DZHVLSQLKPZEMNMN6BD5MHLRC7A
+.netflix.com	TRUE	/	FALSE	1810756094	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+21%3A48%3A14+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9eea0667-818f-406e-b724-616fa23a020e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776020096852&geolocation=FR%3BGES&isDntEnabled=0

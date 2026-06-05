@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CHEL
+– Email: SAMYYPATO@HOTMAIL.COM
+– Country: CO
+– Plan: Básico
+– Member Since: diciembre de 2024
+– Next Billing: N/A
+– Payment: AMERICAMOVIL_COLOMBIA_BILLED
+– Card: N/A
+– Phone: +573167081412
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SAMYYPATO
+– User GUID: 7HQPF5NJYVHONPVLFTZC6D7KJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783197724	NetflixId	ct%3DBgjHlOvcAxLcA883FtPYNOW1TdVGxqAn0h95h1UwNAAdBVPlk-XxUhiBwo-1Z5uGfQsFE5kAQojaDExK0b_56shGhHmVV93FT2GiQEEto2Ll1YH3tISkvqlH9lbmAvc52LnXFZPh6HVZvu09s8-ZpzM8dmSngkDzzxf0uSMODD6LSzrkScs5u170hQAZ1xXRJ6cbjD-Yycp_C-tOHpqW4eSv802oKMfCUFzgu61dYUGZB8m4wy3EE4WTVVmVsSMYEy2GgwnU1mqVtaWisFsiWA9-NUUU84MWfv4k-912ylUXTDEJQaP2iEXBjIsM9_RkBtPMe6UTbUovVCWmoAVAWrGKHwsk50NmSFC6RjIGlG84-4QO6Sj1kXzgPR5qozHtIERNylEsgKf2xSTjuOzamB0HM3NDhxfwXe8RKzEdVhcqdFWpP3YCpllSYM2nyQHvwcFUSIUt5C0lyvzNCtS41hUiqF_dviR-eKASGf2-qazPuiRoBu8oPFrS3xf8jlDWpNZPlNpnxTJ0FfKlFGArKLi4QrqSyE7cBAgcjD_jJxosM00AuPukzSywrJTzFy4ep0UILylW3Rx4VUKoEHcI7n7RSTxw8E3om7xKLqZNmuAsdAC82AO6F4QwvC7VyFnaj9LzRDTWGAYiDgoMNaTlFQOt6JFeM4A1%26ch%3DAQEAEAABABSUY7qDCr0hN19_bwv-NtIhpHJfr0bs4SI.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+16+2025+11%3A36%3A24+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=248084c5-c3d9-4fc4-9bc4-4c3a43d87008&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

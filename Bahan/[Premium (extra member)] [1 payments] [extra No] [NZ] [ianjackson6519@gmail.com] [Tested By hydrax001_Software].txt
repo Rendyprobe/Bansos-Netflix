@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ian
+– Email: ianjackson6519@gmail.com
+– Country: NZ
+– Plan: Premium (extra member)
+– Member Since: February 2023
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ian
+– User GUID: XCL3KTCY2NCLDFQLC2RTHX6QJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796007208	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA4qoQwpdVQWfOeXlOoL2JadpPSlUUesAhvOnzTvYH1vhTxMC1B5nmDCMDhigID8FOqx99ldj65eVQ72BJ9FbMLLxSThflHJCbcELSCYa8KEoqtWdFXkPzIEcRSJT4zhoX1ZlvW5H17IYpQDtRFf9Wbt9LH5wL0XhHKvRxNPLBapiDoBytS7uWN0mkMKjfAtOsf9uOH4Kow7kGxCp62hXpjOs-5OYax6vW3I583iUxdoGvWGJSTI8ImbNeDK86ywLXYyuTcqLZb6zZ4CfshcJe2hisTI0n7cz0DXWIkoWIiQL_hbL9NYHvAwtP2w61PtrRpr96wxUPRWrytjl_QuZWvlrPCI4I2_elkfgrlJg61e-MLfLhTjkH3fQttUHeu7p--8gD1x3AoZqlkLTFEjjcaZwSXVqJ_7s1n4vvrStEbx0jqEN6RgDuzIlovd5Yz9e-8rVGYVgA4yyQp-o7DQirqkWqtawXrfFOvm9WTnYarytEmPslxp7_FfOWoV5QTUX3znwGAYiDgoMAQi54ENoTJiTTw8i%26pg%3DXCL3KTCY2NCLDFQLC2RTHX6QJA%26ch%3DAQEAEAABABQFP0Wy1hRQAYuEhFRo6jYK5Ck-l-y9cdY.
+.netflix.com	TRUE	/	FALSE	1796007212	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+30+2025+15%3A53%3A32+GMT%2B1300+(New+Zealand+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5efb5b14-9330-40be-b24d-cd7c54bd1b20&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796007208	nfvdid	BQFmAAEBEKKkrMZg2xEzfGnsTMRhEv1g2bBSaHHVGZpblnQ6mq1STd9WI4eKPEjGh1pA4kW-XwOTRmeJI9CFNtThnECkcCPmWrRb8ajW7KJMDsWZuP5ifWzr1rJrV0vuWPWLQcATMfZO4iX2PzuhEYclQfGaJnO3

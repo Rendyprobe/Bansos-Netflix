@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sumardika1
+– Email: sumardika1@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: Agustus 2025
+– Next Billing: 2026-06-19
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sumardika1
+– User GUID: OPJZO5SPYRDRTLSI7WXHGT3Z5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790913549	nfvdid	BQFmAAEBEJPMATwWxWp3oUFEgp1z2LBgRIvYb-988_amCnTSt-wu7E7eql_Z_6i_Ne36wfrLM0FhGlDjwBFktrR_MSzbvb-tReBCvUuZK1TiBzyN37Xkpm580MnW2kTHxTMcpdUhifzLlHBc21BRWsb48GpXjHE7
+.netflix.com	TRUE	/	TRUE	1806210598	NetflixId	ct%3DBgjHlOvcAxKGBLVE9dJamhyBZC3EwBimzDD6RXtwohmGH7N686Yrpj5bMEDgci_Cww0cZcFWcb4Ifbz5oqv-TbJYnQdNkJqH_uB3BJkUg2qGpWsNZOSRvVT1leOLeDUouqag7aLomLGChamg5RFS93Wx7fP3AJ423l-ZnTLg8EUpq_8KLitFgQj7crWc_Fk9dgq4O4HE2RSsJF2h_1UD6se8EqRuB6h6BXlKkfPOo56Gk_K_lA67I8lBS-23udcnC_OF4wiuTRbrr3aNi89todmJguOYSsxIRLj9x6ECysRy0kg4c1Elii3Sqd5VaitpGSE7GK5fKv02EFjT292gOabJeGNuFKUPeuSZGpus5FGVMqv4cCvNtFtLMyyPLf-l6mTfYQdgzC83LXQ_6Uu6aNAAtP0k2ee5lHujAsFMbMv7uiBwS3gH-PklhX08TUj6MQ6Bg42WHwqQ05vRpcofNrQ1l4CDbjA1WAsTczehCu5z-Dh6D_cj2ph8lc6GmW5Yx6qHHP1lLzYESTSzCBCYqOjWbfRAXmEnErKU-9vR-ejXLumaRoVzyl1id1AyrpdIQZ_Z-bRE4k809tFmlFtFMp95qmw2G6LOnl1Kfq3WA3ssBsyLaQO_pc1JDMaYD73KuDXEe03Z37j0ys9icyLBOjzxYjsaRw8QtlCTKB_4lvZ8VDB3cRAFUATUjjmV6D7FGAYiDgoMHnOKAlN_LSLyEivq%26ch%3DAQEAEAABABRcjroCtLWoIVSlNi8_5o6FNsnIikuX0aI.%26v%3D3%26pg%3DOPJZO5SPYRDRTLSI7WXHGT3Z5A
+.netflix.com	TRUE	/	FALSE	1806211099	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+13%3A18%3A19+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=54155257-4d84-4534-a798-324f1c8cab57&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

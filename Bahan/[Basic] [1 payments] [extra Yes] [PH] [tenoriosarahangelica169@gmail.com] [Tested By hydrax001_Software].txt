@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Seirah
+– Email: tenoriosarahangelica169@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-06-13
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639482254542
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: tenoriosarahangelica169
+– User GUID: OBRITN32X5DFLB7VFU4SPB4WXM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEEKxwnuVDZ5urxuZYQ28nulgG5le4Hc8W5IfhX1BfZsYrP8puAOZMArb98SaZ66aHjjRGI5eNAvhO7K8tBnWSMPLtagD_zrDlUrKASdx6RvrceBomD2dT1PaSCVhB1bUjJW6KpBfk2jwS95Vc_ssy6pp
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxK0AxPfOKAqtXZxC3j3jUSWdCNnODMCbAFfsEUvyNM61Twi098gvRJDU0-4b8rjqV4J7Ot24I0tWPCTrV99g7Av8a7mT9KfMDZ8twI6rJB10X5RXsWrkbN230ghgZSImjCBLI5GNqCn6vMWiqKtsSeJLVoDcoxuD01XI3tuNEKY0X3V6VvGMJIUbDfcXk8neEHKVZsDmnIt_oMAiz0cMDBX8flYsuNQ_pqmGIRN3xYLK6dr-N3oRdfuRWtEw2XORH1boR8ln4-ilGjtvm6UgbLPe0B4x3vy1SpEThG8zmJgV4PCGoB8P5myYyItrIcmZZHnmvS-nQhDOEC2CLfhfFfrCNAeO6N7SxQl6w6LKl-9k4c6vgaaLj0lAQgAymXLpvC4ycN1b7CHYYuqGddpbUvsQOGuzVfk_aDSRi1zKs6nF4XgX5Jcrdk8BVVHseBwvCDhMo_MLceUBjY5eoimOk3WSzI0Am4-fc9zbLttoFtiB9B9wCqZrxgcS-UTDE-E_uLooFggZqhG8yNFEHyRVasPL-jtLGuPnuoSoYk-GTjV98rNckrJq1kwSOUrduV8VbcbMYrIQjEYBiIOCgwnLpnK0BfYfYbs8dA.%26ch%3DAQEAEAABABS_mcD3mLxSCKqc7J4jKnLeOb1Qg24xQbE.%26v%3D3%26pg%3DOBRITN32X5DFLB7VFU4SPB4WXM
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+00%3A58%3A14+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=251210cb-5530-46d8-a586-fdf2969ce004&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTP4QNtyBLa4W9rXZJOwX3rDZTOKeZT7LA.%26dt%3D1777568292415

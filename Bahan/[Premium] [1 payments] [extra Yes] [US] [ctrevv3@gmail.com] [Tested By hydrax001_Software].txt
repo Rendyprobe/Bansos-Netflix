@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chris
+– Email: ctrevv3@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: Mei 2012
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 4383
+– Phone: +17045768815
+– Quality: UHD
+– Streams: 4
+– Price: USD 26,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chris
+– User GUID: BITMKCC5VZBQ3PF53WAES3R76M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797979633	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+22+2025+23%3A47%3A13+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6a71f68-eed3-4acb-a8c0-5141987b3968&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCM&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797979632	nfvdid	BQFmAAEBEOfB1JjcY9mYRjKjzX4mdXxgUn-z6-3uV6LjgPET8GR2pBBti7ww7_1HSIJW5GGQsNIOnb9dON4IUjpvPF_RdOijwcEfYSkaotQW0Y-1Rd25YmSKVb8mBkmJP6kA40wjTM7V-63-Vt0IUSNXzrg-jWVo
+.netflix.com	TRUE	/	TRUE	1798036564	NetflixId	ct%3DBgjHlOvcAxKTAy2LKLnVj6U9ZO9ZEtPAyQE0SD8mGUOReabU0-bPJmgcnX9v3RCzByebi22R6VBP8qO5hlzYrVmO273ldrABt4JRdoupRmrGrM6dbFmf_Nx6vhPsitjyD1r_Wg-oyfNUn8jL5ihNwUwDKkguqX9uMbgBN-phRtOdxcMx7lnZ7kkU8wJ8I8kVSaeed6fgZsek41u1ap8c9dlFOj4k-4JeRD2u1AqqmqkkQAYewK4whVRj0_MPvxNUS_NQa0bawM_1G1xNrSyJfox_2gorVpIOxgv8jW25wzwNUTxhXLWv0HGStEmWTyaZWEp1hdyMJUerNzV_gLkwWwGkBsrYQP_wHjcePiOlPNaT2Im3uTkNy3xiw5-09_wx8TPDBNsramquiEOZfa9OkNfML2rhLH-cA-cZUnbRv43jyhWYWg5Vu03uSSK-WqIP9XcH33Fq4Bvi6I6C__W3dPbkJYH8EJsT8sA3qX7sHPG1wcHwOZxDEhuvJjcZ-a8nYAK6ATKNvQ_zwwqcUjwD-sl_gpGcuLBoBI_bQQ8YBiIOCgzg6n337iDs6oubXmI.%26ch%3DAQEAEAABABRMANo9w5PSL2PPBrPonmP2NfD0YzXdI9A.%26v%3D3%26pg%3DBITMKCC5VZBQ3PF53WAES3R76M

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sara
+– Email: salmanahmed0464@gmail.com
+– Country: PK
+– Plan: Standard
+– Member Since: February 2022
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 3580
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: Rs 800
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: salman
+– User GUID: 25NSXC7BFVFVNNJBUKEYWNADFU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782533885	nfvdid	BQFmAAEBEPtm4gspZ4aqjDXe3YIosFRgZblkvyaC0KzMvCUwf2qyIHwIxAgWd06W5rBRztzbWy9ooy49-fBAlZCyYpeBD9k_e2AQuXIh3Kp-TUUCTYZIhTigHHPrfn---ta-mg9ospuIf-tfe_YrYQsOaOq8l2o_
+.netflix.com	TRUE	/	TRUE	1792417726	NetflixId	ct%3DBgjHlOvcAxKRA-jdAqX9MLEUoGIXV73mFinWcqWTgUGaWYqIMw49-HiykiusZeEkQqUKR7v7nTt-45rq27BmRz3gQR6GkC2eX7drXnDlHcFrezDey5UQejpu4OzEItDJBV7EHe0Bfoggb8RuRICwYYP4cxKl6DPGr_Wwkcue2aI8eIUD8RIGh1xeXbFRQHgMP_mx6RZRzk1Dwkq3-enLjWCN8lanTpGig52Nobt0vc-_F0gkFW8DgyyU3HY8V-XAoWiiIRHSuRdouDj-ZINM9WVwYh_bs2j-AjKx28XXEjXfCve726CMSirJNRW4wpKyEciu-ITbVr6HKEPcxqfxFf_jPCq2wSdpSMVOwW-y1HBiAVLo8whvpBWsN671tLmydpFsXNmK-SvpYl7i1cZRjsQJbsN2fVVn6JgJwOo9VKQJ4vRL2rONfXFdNkQUUTQArx8cugfUwXR4Fa7wENM1B09cFD5wB01oBjxvAlBHJSognQsqXTlMni6lH77sn6j-CzFLtfW4CgbHpCFE1SJxM6JGK-kX5VzZRGZOGAYiDgoMPuIJIVUKgj81M-mP%26ch%3DAQEAEAABABRZlperzloGkbszWpPU6IpUmruuCjGPK7o.%26v%3D3%26pg%3D25NSXC7BFVFVNNJBUKEYWNADFU
+.netflix.com	TRUE	/	FALSE	1792417731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+19+2025+18%3A48%3A51+GMT%2B0500+(Pakistan+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df525ef1-f4ae-4a6f-a674-4021bafd4c3e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

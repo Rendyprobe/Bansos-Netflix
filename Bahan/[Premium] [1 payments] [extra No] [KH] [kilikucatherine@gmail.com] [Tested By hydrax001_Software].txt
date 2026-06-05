@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: WESYD
+– Email: kilikucatherine@gmail.com
+– Country: KH
+– Plan: Premium
+– Member Since: January 2026
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0935
+– Phone: +254725448443
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kachii
+– User GUID: OPGDNRJ33JCZNCDOGSUFEVCHSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792596778	nfvdid	BQFmAAEBEBqhui_W6p9nkMePziusFltgb3zOyX3PFD6GlUuZdIrG6Ox0ArW_oe6yPr2hrzgbnat_6XGIpgfrz6DjRHp3Plb6mN5X9tT9xwYfd8r2opmEwHWm4qkpV8xmOz6df2I4AHHQnVE5wJjZcSIkLSI-rqlw
+.netflix.com	TRUE	/	TRUE	1793771317	NetflixId	ct%3DBgjHlOvcAxL_A8tN743MceLrOr6My_6Xyr9mlrHnxh05UIo_fqOckPDXylvk5WvcGpXOomgNHJ-iUV5oDpm8OdNwKt_CXpN2XX5mhrLx16ST6spF89tpNxLcFNHQfLro6mYm5QSl4vGk2vBP2OFqC3ru6nSspoEgCz_SvakhCBAkK8Om8aXsps9fF9woLk84Nrd7sBdQUTUhx5xe2gn8wPYz-t5xb4WVj8WzC-7WqcGP_CRU0NgOAsldVhtLNJCxqpKweYRhjsamns4tJOADPEWOS7Wv2poPF2-nusItRg0AVcPI1TWY21KeLw7z7tgDFNAQ7mucfa3CF1pt6D7aXveGXHnHU8v0vYz6X8fd1nimGtXNKVRRobbW1gZwil7kF0A4zKsaNfARfoKUeJ9CaejqFpNA2aCbz2rV_uSh3miHEuhBCwU8_A68XVWLjJtUJ8K20I-dXIU0MqbDXmZAOPHbt3UEjXhK4NXrzq1Q8HeW8NumIGRoCK2jxepRl76MmlM-5ZReYPJshdfVI9I_V1VlDWs5RIfEnL7oyCvXvpixm69qWjNQMjxFkXNZFr_8FHA6FmVEfWCNeajU7KXNEV15ybcoETxdM2NSklwb2ewVyXEcmXmdTOyCSyhelIVRngeWlHTQDRm6dlMdyURGKVgFwDdPCTpCudb1dyKw2CXDLT-hUT6W0xsYBiIOCgwryERV9M1QE2BqnvE.%26ch%3DAQEAEAABABQfED__yPz6XoL73o_Drsg-3bii9wjWS8U.%26v%3D3%26pg%3DOPGDNRJ33JCZNCDOGSUFEVCHSE
+.netflix.com	TRUE	/	TRUE	1793771317	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS-S2su_Is-h9hVA3qTGdhHwBbKW4sATwM.%26dt%3D1778219316618

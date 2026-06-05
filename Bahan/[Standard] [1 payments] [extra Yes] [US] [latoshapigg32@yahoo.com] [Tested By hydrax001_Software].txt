@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kitty
+– Email: latoshapigg32@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: July 2013
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 6158
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shio
+– User GUID: 7WIN6U44SBA4BKOYBRZNZY6TM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798760138	nfvdid	BQFmAAEBECRiWRWhtWxaQkuJ7FeA0AxgqX9KVY1uGyp8SV_qOytddJQ2xnDY1wTCnvKTsfBrReq306zPDC9WquJXZPk2ruIA2RggTHVGVeLsb3QoD9zWGThGjkRg_99CYFwdifNnoXvXmQ9GZ5MXLF_0Ml0t-AUi
+.netflix.com	TRUE	/	TRUE	1806256111	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA1D7cn09Tz2U5mWRzwHPyDxT0XY88n5ZBOyU4eU_L_TTQIs9cm-KXc9Tu0XVvdpQsfCCddMNrRcyiTfXMKdCJ5K2c5ZY10Q3P9Fqo9i8E3QFq5eco3swLIZ6EZ9QoVw1J7SOxtbU392vcThCX0N2JJQtle_KAfHAhlIzQiMWDsqBxAOzkExD2ukNLjdHhb8QNbTFqQ2Iioc2RctVKaJ5a88YH_bpFpdD8xi-wTOodeUoHtjbLP858r3nNCZqFa_CdSv2f42EGtyHbCkflqRHxmFOhCRc_8ISarSR4NOrzzzyzSKkmI21ETZ7pL8V60dmnxCfGoWB-dT7FWphCj_zRbziKH35kSrg--23Ywo2jcpeMCGcW_25Uwuo0Qmfgh_MhEwGhjkAmNdoBblDQDAVGTooEFRDAGw0B11gFkOKXO2Ieyo-SNutXnP66SDU0KRAOdG0Py2vERt5VdgKEtTk2GTbsUR0oKXM6fdp2yJnIsHplXuGy3DRmTMZ4WXAnZIuula0ks_ieJzXCiMhGNa8mxJrGAYiDgoMpEu2UgNh0cLkkIO3%26pg%3D7WIN6U44SBA4BKOYBRZNZY6TM4%26ch%3DAQEAEAABABRl928UqZ7hf8xcBfWej7Qzigst8KrQ7WQ.
+.netflix.com	TRUE	/	FALSE	1806256113	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+12%3A48%3A33+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b792c1ba-8605-499b-8f84-feef4223968c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

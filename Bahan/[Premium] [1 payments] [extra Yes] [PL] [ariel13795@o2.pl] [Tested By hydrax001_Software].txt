@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pierdek
+– Email: ariel13795@o2.pl
+– Country: PL
+– Plan: Premium
+– Member Since: November 2016
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 2453
+– Phone: +48697054672
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pierdek
+– User GUID: VU7ZODQKNZEXZGJO7VCTGP3XIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783973922	nfvdid	BQFmAAEBEAkGVxc8OA06HOwi1I4_e-tgOEPw19QbAno302P5w0OsBDjMVWzMqyTmSWKakV9aethYXozr0AvUWj3n7xOi8psUXYfzAFcdxsaPhLfX10R8a6CBi1LiJO2D_QLHAaHdwehLKAtPNGP19McYmor6UbQW
+.netflix.com	TRUE	/	TRUE	1784411422	NetflixId	ct%3DBgjHlOvcAxKeA8_rAHcQPJTyLBbFdoMCn1_RyqYmTeiozqHxWGgFWAmbF5WXNyf0uUa01LRv0vFYDuI1gIWZfuDT_T6uv-MTyejsF0nMvVYCGs7uNl9GJFtsrFpKezqBDxAo9yjSpoh24LlcPc5qjOVa1Sa9eO0L5u7q0Q2llHbk-4h_HLatnLYQhVFPLX51L99OtmMI1dp0bAS7THe-haHCMftzgB5JCfixyloYv4KePr3aWeiv8Hh6VFFx6sBxePlmVcSQeUjwu-_fwfgZYi4irwxy-NO3IjDMHh-T8Ym4gst11S74e89kANoV24DNkwLIO3wyifNniNOE-cJmFJ2P3Am5OsvilVkaydT2mdUpFqZYjZ2RxNFeqVN0x69Akl4g810liWpa52Al1CZjEt0lMZ967nKOukhU1AW8CYYogu6PsOeWV3OYSqIwk3x8G39Kuk6X_qsIhdJPH0Cy7NFXzqfCJv23xKPT4eHKGBodSWHYxg0OK7u8F-feWWse3sdsfvN74SNpODgOM2ekTWfUNNK12TZsKxOcUCLmEJZbJBxdEQ0JixgGIg4KDFoQB3cJDI7OVprkxA..%26ch%3DAQEAEAABABQb4y2AONzEtPjW249PNr3Kbuyz1lFQizA.%26v%3D3%26pg%3DVU7ZODQKNZEXZGJO7VCTGP3XIM
+.netflix.com	TRUE	/	FALSE	1784411425	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+18+2025+23%3A50%3A25+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=66731d53-98ce-4771-bdbe-5a96506b2cac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B14

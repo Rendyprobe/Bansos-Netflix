@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kzx
+– Email: aldjunior@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: novembro de 2025
+– Next Billing: N/A
+– Payment: TIM_PI_BILLED
+– Card: N/A
+– Phone: +5569981217233
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: aldjunior
+– User GUID: T6WZDDJQDZBTDA3AUKTIHA23PY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809646843	nfvdid	BQFmAAEBEP_yJeggyF_YWl03OTsPLVRghqlPO4meB-SV_AgN_kBccNQEAqn_p1EsXqip_LQmmFNyQ2te8WNh7An5DS7TwKwADkDfHGeSEkC3eRQHx5kDin90kEa34arLpq-vgV66Kb3j4yLLGXqTxezwa1zz-fEn
+.netflix.com	TRUE	/	TRUE	1809810212	NetflixId	ct%3DBgjHlOvcAxLHA9EIFPK9q21qooO3zceRMZ-MXsuRVsvdqehmW0OHRx_gYZZLf0NkWPd2GYeMsQMZe3KkjYMLiZYGpUHDbgoZxqZEj9GntQcyzfZ-z_zJ2CdpPnDTclgJKK5ppWH6dvyq_Q-jN2meFUh6a9wmr3boEVicFr8at35gAQJ1gJfoS-BDfhGxuFRjS9if5rMmmTaJbnGva_FLlpwNaX2mJQGSV9uzGt2gjuLDTGS7fUfVzGg1owyyX2noSwclAk4ZnHvuLzWDg6LYa_LaGPzqXGC9c9VQXUrlRLyKtZ4WBkzOlVjgduZmnFWfWBjAg8kNIQO8JspzIWdjgub3-UlwjLKuHZcfuTAEzhfjKEeCUhRKGqm6rlqqkejDcZot18xEdm1c2f3Ld6iUC0UTMYIrKrxx_GgXdtq_59d73zm6EAzR5R9hVlLMoDXSMUpdTCybfkOxIVYAKmggSvsUplCaUU7WZ7hrKG-_RiiDqRTvjprSGZOf1XugU8GD1llUMOWUClq_5EKfLOMj7tD33-6onrMGRTL7vwd7p-xDh_hZEXs2cN0-XtXiI269lgyXes-5fuW_KRydBjMsgFe3jYCmjWo-JppguPThV0ceGAYiDgoML4dAlB6kLC6tSI2O%26ch%3DAQEAEAABABTH3bC5Hkq4pg2lpki19eC0At8jQYfh_sE.%26v%3D3%26pg%3DT6WZDDJQDZBTDA3AUKTIHA23PY
+.netflix.com	TRUE	/	FALSE	1809810216	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+17%3A03%3A36+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6f414d4-994a-4195-8517-edff906643cf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0&prevHadToken=0&AwaitingReconsent=false&intType=3&crTime=1778110816537&geolocation=BR%3BRO
+.netflix.com	TRUE	/	TRUE	1809810212	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJjVRZ7tA1smxQEyded7kU0seWnD7rg78.%26dt%3D1778274214338

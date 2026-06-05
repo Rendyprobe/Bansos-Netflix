@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: saamirkumarmallik
+– Email: saamirkumarmallik@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +918902152642
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: saamirkumarmallik
+– User GUID: C77UANEEQZFWHNS45FGRTNWELA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790918365	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA09XYsDYvagopOPzwNMwkBTtKb4YDcQlOZgvk-jjSVkOkiS0rGPP9q6slpscr-QrFV00Gaur0ODDFuwBGqgs2rXpZcUWEAAypltHkUYF7o2SyI2iL52dWQ3-p94B069b9BVcs5-cyt9wMexyL8W7ha5WlvHFajwdHXQ9UbWKAgfhCpN9ABUaBjbmZXtAo4dwfaeRmHa3MLOmBMPCyk1I0N4f4VTNYKBJ9SqHJ2QHXSEJnyJ3BIM2rpAVcWWw3_x6n-MkHWW_ZckrIskgL7DB_cVNWHalJZjY6e_yIeM-OTIJs1W_oyfQ2Ybmug1eXncN_YawFd_kd4KdDE72k-kqjBY2GhhgxmG6jL3hGkxKGua_zVbSWZpvTbqYi96K6ANua06xdoCnC4jfbMVi2CIiHoirU4vNFCGquuioJoMq99wCoxDICPfTP10R12eDhdvgYkxsQiWJSdR9Ayv4vaoWXkQw_eF_fGTBQQBgBCA-fEmcwI_WFfbDzK9iIHMihyd52WKcPpNiKk9IGAYiDgoMsL_1ZViCIk1VRKI7%26pg%3DC77UANEEQZFWHNS45FGRTNWELA%26ch%3DAQEAEAABABTquWy66U5h72lSymIGPvYdYMoDzhKUf0Y.
+.netflix.com	TRUE	/	FALSE	1790918365	nfvdid	BQFmAAEBEIDW6GUzH2Im1Ebq3ceSMCBgPULkfwWUR7vrV11WKIG8q5NVBrNONxPcHngA_CSmgtzdR43TdRrVOeOBm9NPp5Rk6HnZWfDg81KNm8cmJfvGyjUyFwrveCRglU23W6xhhVCBR27vC_yP08uEUJEFTqhn
+.netflix.com	TRUE	/	FALSE	1790945687	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+02+2025+18%3A24%3A47+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ded40f5-398f-47ed-8b78-7a450a7d85ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

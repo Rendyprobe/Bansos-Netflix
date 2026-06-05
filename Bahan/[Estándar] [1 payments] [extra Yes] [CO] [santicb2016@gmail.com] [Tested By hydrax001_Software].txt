@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Famiconsu
+– Email: santicb2016@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: mayo de 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 6241
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Famiconsu
+– User GUID: LF6XLL7EINH57HAGUNJYGYQMGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBENhBX8i_m5bz5rf4mG-aKztgh8_kv6G7f6ThC30X7-Yp3mPYK9eKLIH_dyOW4pth3hOkGwz9pAksLa2GoStvde80N0wBRdF90sfWqelWsxkNnvKagWJydD4WgL8im0Kx3mddJxpE57hZAcuDYMu6S5Z4
+.netflix.com	TRUE	/	TRUE	1782786421	NetflixId	ct%3DBgjHlOvcAxLdAywsZZpz0sEzBZcyKw0jiNkWBHw_p55fxOd_zl9gOM91c-Un3I5TSgibhmZ3fZ3KhCqS3wWB0_VlPN3Xa2nQQkW4DLDRmercrMN0EvlTMloqoktak-vSW_YZNb-Mu9O2sAetl_nJVCvEjmVQ1nHQItarjDP7sUQ_YMLC1LY7Vmlrn0-6GpVlYY-yWjeqAwR6YqQnutG6zIa7TtBQpMAYAahTbzMb9YtZEyW0YzLcUagsiSHCifRhxuhR8dpG_vilkbtiS39N92FKOiqxoNOzUlOWf7dgJ49t7P1lS5X1I6yzw72xng0I_gsQpc0Ldtg0EbDZrMhenwUzPVmt6ptAfwMrHrRvJ4JpG1TPtZgfgU6QwUiHaIM0YeX-niKOv93IYtqytaCN6qN0i4FDh-RZge8kn1mMI91ECeJnRIpfvm9vde3PGTNapn0eeifbixEJW4XAY-0lZwZjSc9sg_HaWnlL-KljLuI7BV0sMlRHXgvsuFBwXv9IUL1ScPZqzdBWJ8O-Vd5YZbFxFR57Cd8xePQmd_8PBinD2SUC98PLHJ_tqlfvYIn3NkBXJ2K5buMxKxsk4zqDQZY6-dFGamSaWGvPv5V2GlpRbQAv3x0Fua992KB7GR5ZtlRYjDrrtBgGIg4KDPWldi5-TkPpSe9qXw..%26ch%3DAQEAEAABABS35cbf-7KWTw9IrBWxEG2RG9p5veU4CV0.%26v%3D3%26pg%3DLF6XLL7EINH57HAGUNJYGYQMGY
+.netflix.com	TRUE	/	FALSE	1782796540	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+30+2025+00%3A15%3A40+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f39bd493-6d19-4af0-a611-c65e0a826752&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

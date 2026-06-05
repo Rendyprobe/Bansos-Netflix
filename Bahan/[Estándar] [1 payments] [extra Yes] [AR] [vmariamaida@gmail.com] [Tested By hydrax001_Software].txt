@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Valen
+– Email: vmariamaida@gmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: abril de 2026
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 7345
+– Phone: +543813284029
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ariel
+– User GUID: KLNJNSYGMBGX5ABTY72CAITMHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798390759	nfvdid	BQFmAAEBELT9Wgi52CLjkXI0KsVYKgtgrXedgOOad77mj-wcaKheIQFPPY1OWa9NRib7E20IvcKoT3YTQ62TwGGK-XA17xq-_KlIz0VvVtGiWdyCoT9CxXcEoVAR09JQSXqf8mX9RJuI4LXSEevr8RCTWRvZB01-
+.netflix.com	TRUE	/	TRUE	1803821560	NetflixId	ct%3DBgjHlOvcAxKwAxbQQzNoBCBL7oEdj2jUgsW_3DDP1Pq8XDZ1C6rNdlMlgfZMB49od8Gw_Bok1Y3BpYO3QjyYvhrG0-AwsvkEstPfZWAYWR_mLWWwIeIH9J-Rdse388DD6dUWohi_N66azip6MC0pnH6Cp3v2qZo-UQ3d7nMugN6sqyNfDi8obWPbwKkeTBLXoE-rk0rMvl7KZNv8lBVStxHp-3GA_iPg-wtBd_-dI4cclZjbiWelvz67zRtviuWEuQ3Lobkrch1LYUFKPUKYWwghIqWiFX-hl0h-pYw9bRsLfJIJ6qmuVDdW8RiRNwYO3FzbLxzqmdaVGCiPm_iNCMqe7s0sZ9EFBq1i1DxnIsQQzpJfA492lSCY4Chjy5Wme0gfADIK0zpSSP_IZJnlfPuNQyBQCwKzBcFkTA8McoaUNkbKdPBHGOevFmojSyI1h3BbD1Z84eFZ6GTFulfjuS_SqF5em8xuxLSKJ-K4elMJbAL9dX2mtFG_vE5H1KelgPwIkTabd-4E9YB3ttL2Qq5kwLe0VnMLu6BiQJ9K5it6OkqEyILyxItNYDUwOZUVR331GT951gI8nRgGIg4KDGsCN-57YiIw8e3Glw..%26ch%3DAQEAEAABABQharupnCP9JQZv-CxwDHVj_jjCvlSRiz4.%26v%3D3%26pg%3DKLNJNSYGMBGX5ABTY72CAITMHM
+.netflix.com	TRUE	/	TRUE	1803821560	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdCMsDxuyhqQ1Vmg1blwOckydote_UPIg.%26dt%3D1772285555993
+.netflix.com	TRUE	/	FALSE	1803821597	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+10%3A33%3A17+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b84c9c0b-047e-43b7-a2cc-2a124e124425&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

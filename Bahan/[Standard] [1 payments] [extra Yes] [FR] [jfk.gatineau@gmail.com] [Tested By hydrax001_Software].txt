@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Télio
+– Email: jfk.gatineau@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mars 2023
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 5730
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jeff 1, 2, 3, 4, 5, 6️⃣, 7️⃣
+– User GUID: 44ERZY4JSNEOJLGSAALK23T5WQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEDIv0uJHTnW1smqOmtJIZwtg6LU5tJDyBkj3fJ8w8lJ4XJsw4zJ3WuP4XklN9-qWCEyCy-0QE6-OtQP1U5gv5AAiw8Rrgv6A61PIGELCGAOm2QuQSb4LLCwjRZqCpzYCJ7YGn5s-Nci7R0LM2SSBTCP9
+.netflix.com	TRUE	/	TRUE	1783197724	NetflixId	ct%3DBQAOAAEBEB-iWjS4rwZ-2Xo1h2MWEAaCkDDvxOeuv_nr0YtTec3Jx9w0uKlXKQssAi-ntr-7F1ihigsL9wSO9TnRIp1IotrkqHx2tTQaTHHvf33TxZibhXc-Mgf9AiCbX3YalUonQ9j4Pg6KGl-ciRR1v4Aiof3o7qmWgPHv3JLuoSwKkcYhoZrKMzCfzd97pXChqJlhvaJnjInw4-_b3ar7sk_JGNp88hzk9vQC3UCPnBQuCokGEBfPQsTRWU30uBbEH0X5FIpxSCL5BMytWbc5dygvBJ5k0snFaHIjE8_fkW2ODacoW7i2Xu1IcHVnG9u5rWU9LRBVO4kOVwOM4MY7gc2ZwSwWyD7NZ1m16iAzW3_f0HS7T61kJSdnX4G-JvXdOwmCedE0MVWtgClifGuNesetv8rtMSkfemNdZR9rDOWYXSyOefR0gTfQf25SNudic8CDxBPediZm0JvNQm2EYKvBWO2HUK5T7tP33HgNqPMbrSdqKot5aB5O2ueQqUL2pVQv6Sg0ReOQCB8WW5twc_KBTDcgx5PfQMydcw6898unidDgbcZpSlen8tPW-C01z8Ip6mbqPTHvVDuenD1xM_28Dg-FCDZTBWet719P5JgFAn7yEFr0GA54WkAy6tixVfteelA3mH5Sy9GrqByaT9J4pXZOWzzqSsgxoOwHtAxPeLJLLYTYDgbOJiBIrJMb-DBN0x4yGnSqUU4peJnrK1hl1hbdu3yhUG-qz_d-1G1IYhqVDSAlRAMZOS2T_nLK3HmA4iVSpJ7_QIR8tUtKus5SKkjharmwSukITap00A1J5N1PUZiTEvH20d0825zEEHHm1T9HK0wS5E4plxqZ11MiomPMXDsB_8tqhk35oBxZwd7u3rhXxyaRBlrt5w219sxbJ37_%26bt%3Ddbl%26ch%3DAQEAEAABABRFaVMMEHQUaUmSAV8v-dgC4Di_GqV9U8k.%26v%3D2%26mac%3DAQEAEAABABRkNKPqFYzqDl6vKhSwXuZd9bAII2ouhxQ.
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isIABGlobal=false&datestamp=Wed+Apr+24+2024+19%3A46%3A28+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202402.1.0&consentId=705b16df-60cd-4c95-8662-a1e19a92c787&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=%3B&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: TungAo
+– Email: pitchakorngraph+netflix@gmail.com
+– Country: TH
+– Plan: Premium
+– Member Since: April 2024
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 1291
+– Phone: +66831453539
+– Quality: UHD
+– Streams: 4
+– Price: THB 419
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pitchakorn
+– User GUID: 33OPGDZCY5FHVCVQUOBWDYTND4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804752757	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AqdO2otOC4ocohcUYbc8OcBY8i5GCCdi-XqQY1kNlsNhMGpfsCGWjUW9c78DID8aT8LJ38ULY4gBtRp7IO-Fe8VeN4wRzSm7gRZRKfxTzhfgfdcH7oar48-DfRDbUuOsLsqQanvlLkDoOHUfU1iKC9TF90zsW9oHFsqSYsw6aMjs8UiyFY-GfSvMbeRaPcqpRWObGafv2Vmz8bAYsH6-CM6zlkL_aHZH4L_WcIXVp2MBMU7ebeAicubKVVRY1td07lRG26N3XUUf8HDt_pPzHZLTbqbPdPmReJCZFBTyV3HfAONbrEncWslkMzuxW9wfoh7AuNG8euIh9kYrvnUz51FtPUjeFVw3FehPEktOcqYNTLNPwLsnFnrxJFAKMkw02GOsp-c0vW3hMWA5GkcvGajAoKeK7emb27pyqxO3-knRlr3fqbEU4cKYyuHLIDJ9MwdSTj8k1EZMZ_GU1cusCjjbUvgRwKPQEvsG8day8Ich8AH0HJjxMHsYBiIOCgyQzYlmJMRT4-CaxK0.%26pg%3D33OPGDZCY5FHVCVQUOBWDYTND4%26ch%3DAQEAEAABABQ86STIPM9r_O-02RBWrfuwiO-_xi9iHLQ.
+.netflix.com	TRUE	/	FALSE	1804752759	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+01%3A12%3A39+GMT-0700+(Pacific+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad173cc5-53c1-46d0-a9f0-cb0f873f5906&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773216671091&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804752757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWDNNXuZLZyn9xFRWGfTBUiDndyoa-W60.%26dt%3D1773216756575
+.netflix.com	TRUE	/	FALSE	1804752747	nfvdid	BQFmAAEBEDTyGJ8nRpPZ0kyFcQ11kn9g02tdeC4MKLDdbtBTGlSnOnpo0sVMUF6IzZUdUUAC4nq0K_3LHtctx7ZZ8KXIzsTWJCDDxvRmaZDrmOGNGzqwSIUjPKvRiQe-UfOsyntySsUuOunU4SghhoDcfa8aAwVH

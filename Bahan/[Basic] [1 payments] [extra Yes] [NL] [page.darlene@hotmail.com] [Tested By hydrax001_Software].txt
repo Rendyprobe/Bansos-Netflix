@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Guilliano(P4L)
+– Email: page.darlene@hotmail.com
+– Country: NL
+– Plan: Basic
+– Member Since: January 2024
+– Next Billing: 2026-07-01
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31685738855
+– Quality: HD720p
+– Streams: 1
+– Price: €9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Page
+– User GUID: GOD62NEPVNC3PMEJJRU5DHUDVQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783159121	nfvdid	BQFmAAEBEKlJRN1Au090KR4SkE-8OVhgoG3cs9S5RsHhZsSuOVnKtaijytpS0K5IYD_Q30RX0XgGHYPz93cSFqkaE0PbJHVgkvLt3Az9BrYBzVWnFCgcXk2JqXmasBd9fQ2xMop3DJpsaaRNaWY1z98wd0nLKRM8
+.netflix.com	TRUE	/	TRUE	1808179532	NetflixId	ct%3DBgjHlOvcAxKOBC2S0cy5-Ch26YUzLd6vo_1jz5FIyT0iCzfkWQSPi_UdIGBkO_sE34zDe5hTYAr5oQU97sWPfbEF4dL-mNPXDHoYM8T3wwhpSwxnXlSSpXQLNxvswrC0zLFwUqIPF0ZqOaYOIXyNNzOIxY-m9MIcTal21M5EzI_l_1dIC-F-KIMr6Dd_8ajQ2EIK2GPzfEdb6HazMpa3AQlUjByU89c1-Uev6EoVsyE31jg9CMvcYfoukBllnhj2d9XKSK4eos2PAaG93qEWc8B8VeSAoIN_ov5c1PMLxKQZaxHp833l8LIzBHkayT9fjCvGmuEH1GMbjrnfeG8iXDJAMfjLjf1xSdfsrncv6Yuxg51IM8jk_zhGLoME4KZFiEPwteRGMCxPeRAy_3jyT4x7gsx8OpbioiAatg1oiwVq8g-fqaSXKHbDDwzFPl9bxIVijWTUYDSJnKNj9jnhQhS0GF1qQ-aJZ_6zt4kt_pca5KS2AqSUiNR0Nhk57JaeBbkvMVVWd-jv7H14C29NHJe9HW5RT51BCzWFuVHGnhLlmJsa9bQRHFfvGxiN_oouVPl7BiXz5f8_poqiQrtOPNJhChhLfph8OviS21CwVWHDbU4SxrBXhXONHS9NlsDCN5gsgOqZY73PGTEl2mRAnLBi70IbpXJ-l79yMyneAYxj8LYok4Iifvw48bm2wmXCz5YgtFrJUD4YBiIOCgwkOzeeArMv6WrN5oc.%26ch%3DAQEAEAABABS12iF61k6JaJvqRii0t2idB3sJYA9ffcQ.%26v%3D3%26pg%3DGOD62NEPVNC3PMEJJRU5DHUDVQ
+.netflix.com	TRUE	/	FALSE	1808179532	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+02%3A05%3A32+GMT%2B0200+(Midden-Europese+zomertijd)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d605f70c-2759-4962-8224-70bf5fb7fe22&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=NL%3BNH&prevHadToken=0

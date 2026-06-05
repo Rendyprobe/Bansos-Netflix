@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ragnar
+– Email: ahmad.ammar.nnp@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2024
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: +919694926869
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ahmad.ammar.nnp
+– User GUID: J5GT7724IFALVO3O253ICGM7AQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793042096	nfvdid	BQFmAAEBEPj-7ULVY40kVSiDiy8Yqhxg0KLsBwV3kTG81bQN57RtyhZUHYLLnc_8UcokCFsHdz_3dRSJ9V333zWfSdzBiQ291ksDpgB6Lo0yqnyEFleVlniDziJubU41s4280PY-Kmn4zqeqDl8SW5nLrAA0zyil
+.netflix.com	TRUE	/	TRUE	1793046720	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Aqe0bGzITQLiroX8ASrv4rrrTvvHlA4WPsCKlRuACwCjvt-GQFwjyr8EQcYjeVwr497X0OxZQarsNv28rm-_7pZq63emgPS-6szc_UjdVkydgykw-wJnnH8FKrXVWA5lBE7HGnZYTcvCAeiUMLKcBjASPJgC5vXEWm4xZyPiejdxdqAuc7qMOvVwdX2jwYmDv3CJQFw71F8QanDR3Q8DJWJ5yCGzyuPFQJHrcAtVbCmPdbAEycd8pdk6UTUBfJ5bZRLXqqi_laZ9XMvxyytU-ChQdGM8hYdUH2IeepA4T6AVA8WGBsCuhJZgx8x2II4WIeJN5Kru4_g_arv8TQCKCP-QT2IC165BY7HB3Rp3eA02Uksz1_npNA8he7SxX8J6c-3gU1FcvpWb29Lat-y74M55sKf3ljsQoN4Kgsf9zUGlRpjMrgbruFfDui99QJGrJLQHidclmN8pv1huzFYWrODn7G5f93Xcjdct8stFASZ8yp_bBtQckyRjdSVhbhgGIg4KDPcor7w4eQF_V9LVww..%26pg%3DJ5GT7724IFALVO3O253ICGM7AQ%26ch%3DAQEAEAABABSWbxm0_byu9MJTWZ1QP--jcrwTPxG380c.
+.netflix.com	TRUE	/	FALSE	1793046722	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+27+2025+02%3A02%3A02+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=663338e6-fd5d-4206-a238-60ab1be68df7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793046720	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqFQuhYSjFxVWxx77oeFHNHaGA3A7-lZI.%26dt%3D1761510718817

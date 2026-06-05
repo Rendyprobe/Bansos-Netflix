@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AFRIDIGITALS LIMITED
+– Email: afridigitalslimited@icloud.com
+– Country: NG
+– Plan: Premium
+– Member Since: November 2024
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 2772
+– Phone: +2347033719801
+– Quality: UHD
+– Streams: 4
+– Price: NGN 8,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AFRIDIGITALS LIMITED
+– User GUID: BRER64SCHZDHZPPLNGERPFNWAQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798310772	nfvdid	BQFmAAEBENh5kEQOa9FMwnaqKM9cr0RgSJtp_yyGuQJUo34Z_o_dAznWFb_phbOjHpjkAtwNnR2VhyawymjwRT7QgiRed900jcpdSHm6BX-p2dVeaVrs3yUCPBSoYwEAR1jIRO8uctErWycjNCHk3_r6YMb47v1z
+.netflix.com	TRUE	/	TRUE	1803031421	NetflixId	ct%3DBgjHlOvcAxKoA_mOWHccPTJjYxkdH8BhPFgLoHjZEtR15aXk9Rg2_tXDX0IAmCDTS16kTERST_hL4KUcLAw_II-n8AJ8dTetxkYSWbWoeD8wRS-sIiZXbRujdCdlKXJewCorlPbHVL1IdEC6WFd06XmAHYI6fO0wAQCsI7HY2B26zRPk7G4ILaWAxqxhzeF4gENZZ5rEcJ3PaPqgtm3FE2QbFw08ZMeF92nG-1WpxHJ6kkpsDN7XD_TnYGmmOpemW3vSzspVEX9MI4yZboogdT2EhulVYY1ZKLwPIXbROhhmOIIv1OdB4CClI9ZIziIMEvHi118L4QJ1yLZaxZ3_RiWPUnAkzSX5nQc61YvZV2UasCntaqI1mauYq6VlkV6pDz6N7zX_kS_mrl_QuulNbUyvNzpPS9kpFuVFcF81NSRiAivGd-XGE14H4VvpzO1IynbpBgEtjHx3lNmVB_7ybFkNVPGOFfi91ScmiSzd9ltLY4NJteWY6Juy-lKVrg6RU5ft5ef4dvwXPW7UO6GdEaLzp1Sh-tuTu8hj7pbUmzfNzS8TloD9IS77pY8IXltShgQYBiIOCgwgcQgDjF1k4bHkV0k.%26ch%3DAQEAEAABABRAVGfhw4uB5ZpgKzwqS4zz93ldpYRQyEA.%26v%3D3%26pg%3DBRER64SCHZDHZPPLNGERPFNWAQ
+.netflix.com	TRUE	/	FALSE	1803031592	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+19+2026+11%3A06%3A32+GMT%2B0100+(West+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aafa83ff-33bc-4e1a-8c18-50ed56341b38&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

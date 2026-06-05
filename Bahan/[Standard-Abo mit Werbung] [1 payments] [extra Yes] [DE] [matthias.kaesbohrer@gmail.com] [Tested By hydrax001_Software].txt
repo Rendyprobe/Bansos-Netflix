@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kess
+– Email: matthias.kaesbohrer@gmail.com
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: April 2025
+– Next Billing: 2026-06-25
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +4917647641985
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kess
+– User GUID: AIQGX46FYJBSXBVBMGU65OFJHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782201584	nfvdid	BQFmAAEBEHeS0eqE3-kRFlTl-AtMJbJgdilzXGI0oiFGZk87aeQHLbq6k1Je64ZmemReFy7nZeZjxdQu-9cijM4amN06Gm-ifJz38Tjc2XHye_30gUzSNzGMY6v_aOX7MxIY1o1YjKkU-tJwhliC81RiUhWU74Wx
+.netflix.com	TRUE	/	TRUE	1805710947	NetflixId	ct%3DBgjHlOvcAxL6Azp2bfVXpohyU3dG5Viq9eKKvuW0BLVEajzqb70yK7334kAogP8Ye0piiiUEETxHZfo07g_tE14mSgwKhHmSJbW6PdpP3flYaCdZWOc5atRilaladgXwPS_cZxwBAcwA0uFxgo9kOQ8IdNEeKF2YVtXC1jKm7kpbBahL2oyLmg2fOcQAN02CyopVqfbM0a7exIzTmDOKXH8hCD9TicvjEq0Y8JXJQLvdVwps-wH02yvWgb5t8vxT1ekqCoxBw1ikJaNvBCOuCzIdcyd0CW3ZbvxLTW59nLwdRV3SMQElRH5Cpe5zsA-m8oLvce73mx-7o7dvp0ELvn0WmCatwnDrpyj6-jyPHmKGFle7fLQCOWhF-a3Ul70ktTvqJvRQo6yQN9oR_-B4oQp57C5BDMMaJ1vclAaYZ6PLzkDs-OIwW3rCtUvLKAR441h62zBRiU94XuJUydfQ_B49vbsZJcAKGIGpxM2yr37Q8gpXiS8OV1ErrCmjed66mmloSt28ne-zgFbiFHaW23ZGTKiIh8fkGc-C_cH89c90-gKDGTFqOmS5XyU_nizYatp3udHsyZpQF3ZVpxnK2QR7646l6GIO0RBBOqtVQgEJ260UK8qDP39PlhvdLlaAz48Va2MfzUOweTPYks7mrZHeGXaWAHojj6hs-zbhmaPSpz8dGAYiDgoMFm42oT881h9WnEpJ%26ch%3DAQEAEAABABQXdOEBjXZPjn0xuQDvSLarGd05DbKVk2I.%26v%3D3%26pg%3DAIQGX46FYJBSXBVBMGU65OFJHM
+.netflix.com	TRUE	/	FALSE	1805710949	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+11%3A22%3A29+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=79257661-5fcc-4709-9cf1-4f37fe2537b9&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=DE%3BBW&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=2

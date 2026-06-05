@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rahayuoktavianiputri
+– Email: rahayuoktavianiputri@gmail.com
+– Country: ID
+– Plan: Standar
+– Member Since: Juni 2026
+– Next Billing: 2026-07-04
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6282199827881
+– Quality: HD
+– Streams: 2
+– Price: Rp120.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rahayuoktavianiputri
+– User GUID: IFFBBDUVPBCEREAJ3IAIWFFFAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1788575147	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPAwajLwwiZ4SAqViN0j0MSWaO6XguWf6ETQcydLx-TDZX6Rx-NIC4zmXVKIEGd9qWE54yGwGAhoOpdRBpDxbf8vfuYVSnqbP5ulqN4my5ZnbRH1ObBrEEclzrW9dYcLgyKHxy1w7mKa6ZhciLOpN5l8y9k81OAHlits47FzDbf-WdeamNxrUfhmQYAQSBSz3X-B9cPcCrV-DJbL7RGxWBN6FMYzLtsrdPzcmn4KREKDMkcEedhJgzcUbm9ljpkDr80sQTnquuSIJA7Xlz7EMfbOYnrwi3kcCB_B_8hTf7GiqgXTNv3lxuzGnm9rUdjiTcsRQ6Q3l6MHgBnKb1YmiZCsgVZkIQ8f9XGZf6CKjDyPX3T6IhRhLD5K39Pz7eJgQkovIzst4KQ6zHBcKdHgvNXCSxmSK-Wp3BBCeY3B2wY6ON5w2TmH_cRz0iUUYFBOJsayVeBwKuPVz4M67sILIjTfN2urqjyPFiIwcCbRsQ6yTcJQrYDj9ZWis8FZPe_kN89S7PFsg0uXQ-2zLajrw5RBgGIg4KDHwICFpmQzZtFNb1zA..%26pg%3DIFFBBDUVPBCEREAJ3IAIWFFFAI%26ch%3DAQEAEAABABQKYLJZvthLx4EYgG2sCP-u1vZfi7eqfRY.
+.netflix.com	TRUE	/	FALSE	1788575148	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+05+2025+10%3A25%3A48+GMT%2B0800+(Waktu+Indonesia+Tengah)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b886f6c0-14fa-4771-8c12-ecb520ae554e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788575147	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEztAjzJDZZ3CwZpTRVDE1-TCHMTwa3uU.%26dt%3D1757039142987
+.netflix.com	TRUE	/	FALSE	1788575147	nfvdid	BQFmAAEBEJQ9nAnXNZx2axehMSEczDhg0_-WrGpn_6uaD7-JFcI8MiQt-5PSNjj4Uo588ULSeDCpiXOWJR7_zA0jmfq70OIcExXDziy0IQWbvy9EG8JUMiWuBXZ6_9AlW-JwWd_oIKCPhzfkIcS6sdBZyRfe2l1E

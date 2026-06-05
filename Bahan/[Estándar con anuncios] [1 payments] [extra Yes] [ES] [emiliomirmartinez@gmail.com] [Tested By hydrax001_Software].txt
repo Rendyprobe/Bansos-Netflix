@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sergio
+– Email: emiliomirmartinez@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2025
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Emilio
+– User GUID: J5QLM7K2WFGCTL57QGYKFNRAII
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796126587	nfvdid	BQFmAAEBELPlWevNB_qhWR2IUa-kzNtgEuA58o_VUE2TObifU21cAudivZePEmGoNv8Va8pb9urfySZntWGFCf5v3ezzHJoeFLqOHde4Z5ycZAccyVwOLL1DFGGofJfn_enZE9fYcjlyrrWmIGHY6MzgXOomC72h
+.netflix.com	TRUE	/	TRUE	1809169230	NetflixId	ct%3DBgjHlOvcAxKABCGMOVjXrTHZjAv_EGBY96jnjbEHemmGDz_a77i1wWo9ci_BvaP3DjYdMSySXEzN9YB-KwgGVTmmqwBBPWo2AlIzBPMGmqDGNf67B3lywn5hMaEgQMbUPwgtVLpAhD3Px2prdUzgJdZlzq3j5QWQpHYZXnQq1QFgdsEH-vmj56FaLk2b5fowtv_31t8VwSWSHA6vcF7gVVyCWc9BWV15LT1nZ6i-TB2S7mxHp1ZA4VLNkTHCzgx2LzMtJ37-u-BqrZvD0vTSIkhIPrjxJglBc-Cu9iFkEambuKDUPS_iOvZhnxWrfA4gJGleHrZYUNYhu9D3_TNeyKrCy42M2frXr6V0LKyOeVVjX7U56mn1n6KDC-dOXsTLG_KrGL6vJBclmgf2ur7V2sLqPKcHEB2eugDnsLPD_BaOA3QSQ9EHEUR6kKuC_E1nRFpl-Fp-EjQOmg8pszGvZAc5VRo6kG3FCN92OKGSnzO8qymimR-nrVLaIUCt_JUlYaZcF7KiA5S_9VcOtlcOrntMLCCLLjzmsWKcykuQ9WQpP_XTv8itXHL6TEOZhorFB4qsIQ7QhfPB7iVx9IczrwoGHe23NlvMMpV8Uqa-iDzHWNm9HzaJOhU0S6hSIbfMBuWcGpX4SJf_bgWPiQHOy1_UoMj75yc9-gvUg9B1uSHsc6gzAgY1vW5PGAYiDgoMHBhxlDHjYAcqemTX%26ch%3DAQEAEAABABTRIb0bhf8tObfVoEH3rQPRAJA5id7onzc.%26v%3D3%26pg%3DJ5QLM7K2WFGCTL57QGYKFNRAII
+.netflix.com	TRUE	/	FALSE	1809169230	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+13%3A00%3A30+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4425c368-ec77-4791-9121-dbf6e48a0dde&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

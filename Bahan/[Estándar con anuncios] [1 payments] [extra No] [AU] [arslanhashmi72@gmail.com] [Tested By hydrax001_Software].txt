@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Baby Hassan
+– Email: arslanhashmi72@gmail.com
+– Country: AU
+– Plan: Estándar con anuncios
+– Member Since: junio de 2025
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 7720
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 9,99 AUD
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arslan
+– User GUID: PNG65MWTNNEU3P32N6II7KLO3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801505405	nfvdid	BQFmAAEBEC9dSkHOPI7I3d6MmaRd-1lgOr2U_YztzflFKKV3s2TfUWHpkRV5SP101itekAmAOBTbzmbI7xfNS6v62LSDadHBYu7bpIYiVCgK0kM_Jo-yIBPSJt3L9F88v3fdQlAC7wFASZo7XgLO8f5H3V1fQWQu
+.netflix.com	TRUE	/	TRUE	1801505456	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AuNQASsHaXyHWr8M9BljXbXJrMwTs3_90lBLVcm4cEW1_6s8Lswm7zOROmFjrJzNwKt77T5cwYp2SbZLRY31eDnD9dUWVdCYpbmKcvZFIa5JOkdn4OOSNaX0P5zu2LtDa4Ah21Zi6JGw-_PPs0lItz2TmBx5Y1KSwKuivksF7ijK82RSaNsMVPB67Q4jLdChvTWlvhCC8FK9emgYtl_CmPR0cQyZmvkpFI2UrWRJGTTOcewUS6mKzlODnQeJkcQWW3dnzSYlcOWqePgsQ2FfjNnsKQJL-qYwlJz09M8VyMYDZ_pkpb9e1-XNMDCzba_xuNUeE0lteG6xlXRH0Ji8cJfWJCy4aTas7pWJ-77k5yR9rZr6m2Yg0ufkHsfi_E4_2WZShBQeneCgOsBZzzdd7_zsKIt9BajsrOWcO4incRj1yN-_eMR8Gdvo9cWjvlTMbQuGxLC0U2njgJr9VJpzkIJFpDMK6wgjzsqm7P7ZTn4WzfOZph5QtUlcsAhRf-KoGAYiDgoMhHouP4-_05zolGvf%26pg%3DPNG65MWTNNEU3P32N6II7KLO3Y%26ch%3DAQEAEAABABTIcQafUMqZyjIdX6v9ImiEMjmeoX7ygaw.
+.netflix.com	TRUE	/	FALSE	1801505460	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+23%3A11%3A00+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e68cd596-6348-4aec-95af-5cde4062ee4f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

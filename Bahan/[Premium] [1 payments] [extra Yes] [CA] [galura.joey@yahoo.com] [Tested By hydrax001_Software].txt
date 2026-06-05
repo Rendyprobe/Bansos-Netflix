@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: galura.joey@yahoo.com
 – Country: CA
 – Plan: Premium
-– Member Since: August 2022
+– Member Since: Agustus 2022
 – Next Billing: N/A
 – Payment: TELUS_INT_BILLED
 – Card: 1248
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: boss
 – User GUID: 2Y7XUY3H45AVJOZUAKJRGAGI34
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAUKfBKfj889KQkdqnJX7CUaGQW+IhH2QD3N/nyD8OrqYY718IaFbTHu8E7ptx4N5RDRNfwYfqXB2MfxF4fGH0jbyr/nkPhh/qpaCNBXddKEFWVAidpLu2mpNab9h4R9JmTu+ZP0mRnAPmPQlqOk13ged2glUW+p3SYBs6mgNTYTTmtTG0bQCsjtJiHBSPC9PFtIJ/fvmc5RxLp1LSb99T82I1oeEVhNNX7B9OQh9HtfXPB+WImw0npitbwefRTTT05iAGAYiDgoMw359tvviR//kH6C5
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAUKfBKfj889KQkdqnJX7CUaGQW+IhH2QD3N/nyD8OrqYY718IaFbTHu8E7ptx4N5RDRNfwYfqXB2MfxF4fGH0jbyr/nkPhh/qpaCNBXddKEFWVAidpLu2mpNab9h4R9JmTu+ZP0mRnAPmPQlqOk13ged2glUW+p3SYBs6mgNTYTTmtTG0bQCsjtJiHBSPC9PFtIJ/fvmc5RxLp1LSb99T82I1oeEVhNNX7B9OQh9HtfXPB+WImw0npitbwefRTTT05iAGAYiDgoMw359tvviR//kH6C5
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAUKfBKfj889KQkdqnJX7CUaGQW+IhH2QD3N/nyD8OrqYY718IaFbTHu8E7ptx4N5RDRNfwYfqXB2MfxF4fGH0jbyr/nkPhh/qpaCNBXddKEFWVAidpLu2mpNab9h4R9JmTu+ZP0mRnAPmPQlqOk13ged2glUW+p3SYBs6mgNTYTTmtTG0bQCsjtJiHBSPC9PFtIJ/fvmc5RxLp1LSb99T82I1oeEVhNNX7B9OQh9HtfXPB+WImw0npitbwefRTTT05iAGAYiDgoMw359tvviR//kH6C5
-– Token Expiry: 2026-06-04 09:16:36
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1783113361	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+10+2025+23%3A57%3A14+GMT-0600+(Mountain+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c66a915a-0083-4028-bc2b-d612e0e9be0c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BAB&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yağızım
+– Email: emrecaglayan@hotmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Şubat 2021
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 7507
+– Phone: +905066710427
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Profesör
+– User GUID: XZXM5TGCONCQRCDF5D2BA75RSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794332958	nfvdid	BQFmAAEBEIDGHOKeD9ssbQtEdk-dh8NgRy8FOdjQQVr_1_VyNzL-tj631L6qe_kJGcg1MoAIVuXQcURWoXrxupz4oEqfFq1Ku_V-y79rlpXb7oDMqkna9YWMEHI8q4yyNS_50lf2pld7zrTz6SV8B_dFwaKgNgc-
+.netflix.com	TRUE	/	TRUE	1794332972	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA6fbyzDbWKwKpp2G5Uk2P5A6rqWJCrppZj0BeTfih5ckpW5h9-RJgkYDVeNMxjdtb2lOokRdsjK5qVGDLpNrUZFHbbGSDBMrQBu6km_260l1mg1fjvU73sHbUmv6NMhMep3YRRx_XSN16HSbgY6e8-un0ZWx7oVd23UoTiVdAGb8oOnZuZNaxtwfRuxd38PjbwKk3CzDFdufwiEAl0oSpFSolvARhig5duoIlflNA-bbcqn6uKzPzN74ts7_3NaUbRvWR0QtVXl4ZPDiYfi8FFnLG9qKzQsItLdk86vRIrYAR6qbCvJ1xlSKTDu7AYHce-plLdOCmQ382nHWBISQ5kCC-jvcL8Zo2lkU8GLOID1IykHHx3cfBtAGHR1RJqbSYLXJdhfFztdmZ1SnHZ3aWvXAlpqrAAe6e6aM3f9RshdUWJN8OMGicohC1OcF5CWdQrMB788vNE7AAM_Z6Hh6Ru6RBLKIWSWNycIpf9dF1LZ93Z20g_3v9397DBUwwxjsmjYYBiIOCgxb9hQ_3rBNInNyvEc.%26pg%3DXZXM5TGCONCQRCDF5D2BA75RSE%26ch%3DAQEAEAABABQoIUCgykfLsMCBEcxpbn5LwHgrRNRmylY.
+.netflix.com	TRUE	/	FALSE	1794332988	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+10+2025+20%3A49%3A48+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=873f45da-9fb8-4b4a-84d2-049fdc9d4f38&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B01&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794332972	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHmURkUJuUXxoRBXeB_xhRlFW8SWschmw.%26dt%3D1762796970230

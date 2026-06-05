@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Andrés
+– Email: rafaelherreroviturtia@yahoo.es
+– Country: ES
+– Plan: Estándar
+– Member Since: abril de 2024
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 2867
+– Phone: +34606702907
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rafael Herrero
+– User GUID: 5M3REIKAQZE2ZABI3BKNW752JA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791664128	nfvdid	BQFmAAEBEOBM6Oz4Tk_Qi2_QfwMgXOhgsR6oS-_5WDFc4ks-Q_s-MVl-ceVpPEWmPWm9SOx7ICwC_PiDm9v98TNqQCK403ulRBhLLOvLfYekRjP-xQanlJwE3IZXbD0kRsYk7z1iYx7L-ukneMC0PewH2sOXZ5rS
+.netflix.com	TRUE	/	TRUE	1791664195	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-ArlPDKtUKSdHaGJtNIBLLpV7CS_eieSZGKe4elMvijnNG74reZpT3RZU4p1Unqse-FA7T93SDm46g71v3AZEPbHT6T_TLlegAkXHuUCpqR-GPABBFEyKXOGuypK4er06KIZcfkBzSVEFkYkXnrlhu61S0mg_vW09SV7Lsa_kR8RdoeXUxtNdHrGPdzIqKT4k1EkXZ-3YmD8kSTXB9T4OgQEukLFxWeXUGLrHL5OYTrugBV6CidydUVu9t0ozqtxcnZKo-UoQ4biAX5zhWUuF6jLjWMt5Z0mX0kt6NjdgvE6Y-oyvsMABqbc_IZQArgy9Sezvg0i0xLzn2_57wtMUi3eTYdq6JuowDG9Zm4p5QGsOimTyRy4FF7i-4m4UqWcWM0Qkm6gNwCm1y_pY7bi7ZLTi_QjehZq1ka9TFJLwgcgYSgfza0SAqV3af44M6v_boSR8VRiahmOZUvaK1THqbL3hgoL-FNhPXpnfVgg8koW3gScdS8GsLeHmQB1gPBIYBiIOCgwU7gF9X_tQMqSGRR4.%26pg%3D5M3REIKAQZE2ZABI3BKNW752JA%26ch%3DAQEAEAABABTigxWwAj62SSbFze2pEsSBDzCNtmCzjdY.
+.netflix.com	TRUE	/	FALSE	1791664778	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+10+2025+22%3A39%3A38+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ac0cf14-8bbe-45bf-8ed7-d5f5cb56bdac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BPV

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pratikbhosale3109
+– Email: pratikbhosale3109@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pratikbhosale3109
+– User GUID: MSE2HIOSRBAZFAWAH56P6O2XCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785441876	nfvdid	BQFmAAEBENrw1kZZT0hvXBuQT31oDYdgWgWCRaswgR9Zp6pF4-z2xU1qGmjp5zUO5l435ftlcN1N3G0BRCmupc-yG68G2aYL2b_LBMusIvIXY4nu6ttv8vY7Y6P8KM1UaY6mc6YCZ4Vhu5L5GlTkTCabk7USB7fz
+.netflix.com	TRUE	/	TRUE	1786002168	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9I75f_RLVl8H5J_Wvp0KxqEMtgmu_coU.%26dt%3D1770450168490
+.netflix.com	TRUE	/	TRUE	1786002168	NetflixId	ct%3DBgjHlOvcAxKrA6aya9-R22pw2S3eo3t0iq07HPOCUITrnHsulBwLQmhaP-exc_ofYgJLxPn7O7Xj0oxCapF5f2OZsHvrFcVsz96B6da4sVfddT35vRNrcCUzEMH3dkSf1jsAn_ekwqPNBA9FvomhoPWBAku8gGOPpY3VvAkfRthUgt0BvK-ZCzbscg8CTsVoAFHbj9NS9VlDi_PCaItWV8RXvVBixE78z6gxGY07VKKzDK_HnlABpa0VR1CMDdUrpETVmAXlwu511Vn5cY_0Jwzn1S7s8yahDG7m90Iq9UcdOVJcRhTJbgevLwP6RPObX6CxjdymVkmm9_t1YCIrLGQbmUnawOwdPmyNzv5TM-Hw4hF3bFhauzrjEzgkdx8rKYc8ySatLkH1poKHT0RRs1AjArUf9DCjComS1og-eLw1HKUhjssXJM68HfIJ3lKKC8MSWnYFRtkTA8Y1tEX_aDVr-bJHqmmeMDcyBm58appjIdMS997jW-m54kqpLW11E81qUWnSohniyi4Fzz4vNYflW7uP5lCIle9X8Bthwxby1PmXDTW4QkH_vaf0Nhbpl8p2tCsYBiIOCgywbQqmrrJ6LtqGgYQ.%26ch%3DAQEAEAABABRUdktVy5653QHEhcsEUwjQdNpDiWio1-Y.%26v%3D3%26pg%3DMSE2HIOSRBAZFAWAH56P6O2XCQ

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Çınar
+– Email: cinarkabak.08@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Şubat 2026
+– Next Billing: 2026-06-15
+– Payment: DCB
+– Card: N/A
+– Phone: +905365967841
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cinarkabak.08
+– User GUID: RDGAU2VU65B2LMBQ6H3DWZEBRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807486977	nfvdid	BQFmAAEBEGk4fE75myUAZdQZsTkuTUdgMmxWFIK8uZBqKZJ0uBMtDsbrsWzTSv5iD9p0SG4o0LkaV4Kor4lYMNfzfA_8vfeyePmHVRC1uAUZU3YT_GrAiGE288Jyd69POX4TpI-OlFoB1e3BOPaRZV0tw0K1cxq-
+.netflix.com	TRUE	/	TRUE	1807887198	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA4GbxB09wwPk2bKJH-yfOKqpaNzS2r14R8IVMrZJQgR9Ov4YTJUj7y9L2g9QKUXCRKVUfm9zrDUitvcRpksKx3P4ZFgrd2cPgvHbS9OKrCLO7d7ujcHBQoFvrn9sVeTWyvgyMrKeb8-pPFyuvo9uQT2jIzJN6J9jNTikdavchy5we063knWZSZrxUFcxnobENMq24Htnm9G8NgxMxqidKUl9La9eHvD-4r0dYyp8vpRlkSfzqvzykeMOFEj71ckoqklhSwB7hp35ltNZivaulRqDHTuvUBSFsL4EaV0NnUtzPNAuVI0IKXkgHWakJbrQgMs28dMT94tRcA-EabavGtUMpYA-b5LRUescnWOX4Lhi1lLH51LN-8yPQgK6x29GQ8GhuowzuxI6UZ4cxoK3UqEwZ88PduhdatFhG5c1WJPs3RK3hTeO2I6rCqbwHJ7ytTmOstyjtemh-LVIW_lZB392SADJeNhsoVhBztD2QelCZE4ZcqlzXSNXb5Tusp4WIXStuLEd0Hm5DXPEqbaT736SBMkdFSUYBiIOCgzepTpoOpS9nAENndg.%26pg%3DRDGAU2VU65B2LMBQ6H3DWZEBRU%26ch%3DAQEAEAABABSjUAZYjovGMnuN8o2tnJHSknKi0cj-iPI.
+.netflix.com	TRUE	/	TRUE	1807887198	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIl49HdtH4jbz3SQKzJd0VF41YMImJg-c.%26dt%3D1776351199456
+.netflix.com	TRUE	/	FALSE	1807887200	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+17%3A53%3A20+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3862045f-6f20-4ac1-9ef3-1370bcf5e0ac&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775950640772&geolocation=TR%3B35&AwaitingReconsent=false

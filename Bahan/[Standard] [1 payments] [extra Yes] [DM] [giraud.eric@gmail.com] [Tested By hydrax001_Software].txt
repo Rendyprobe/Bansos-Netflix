@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: arique
+– Email: giraud.eric@gmail.com
+– Country: DM
+– Plan: Standard
+– Member Since: June 2024
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 8478
+– Phone: +18633994961
+– Quality: HD
+– Streams: 2
+– Price: US$5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eric
+– User GUID: RYHNA2C4GRGXRMIIJBNA5WLLGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801627624	nfvdid	BQFmAAEBEALbw7sXQbfdh6ebuMK9OypginG9jama2EaqFL7VD7Ck864fBTzm2chNaE-9L7MQD99OM290nLnOfyEAuzLGrRbi9hQBH4Ljy3_X5QzqaezETiIoKwmejd2d_9WKqNllEHUCEaztK5U44H-26VrisEYE
+.netflix.com	TRUE	/	TRUE	1808639587	NetflixId	ct%3DBgjHlOvcAxKEBE1Pc4BzxyRF40mYKF1ODRFoFzCHi6UkNe7WingdxLuFIzohQY4EfIzwg03Yxf8rIPALFI68qDnjCVDgxrpTkamJYMjtv8sKAglhdXlcgJxGeoycWPu5a-MO7lbE8RwK8HWyu0le3izP6VTYz35FkQsneVCyViKpEdHdnmw4-joa8ccoZzk8qOKemgih1_Fu8DJUd-3xc5GvFpqwPaALjbYdVlE87duymEmzTyQGXXNlVsn107-vKNpxUpukadXAo7rdbQS7hxJHaQgYSPj0EBESVGl5HZeR_YpjIN6G7K4tipvoTQGmr2qOPNryF4O2Nwhs7mFeiWgi6J2tT9K_ghWPX4HidIMilD7vQsjHnsjTCXK40ODxNTAe1OlRGZfjM94j3g1O0skP2YmF--7dwlpffDr5XpQALQeNOgXkVZAoSQcsJRFCpC7dWczzrx53SKRZfhR6FPcGwWiWLhvEkw3W8m-w6OTdSgiYzX_uwQUZPdusD4WbR6E_srtGhB_rh6g7XZtbWAaXC_C49N9bRoC8OHYYB300ANj8-w8moxGE6B8dWKCyB_ZvVWFGpvcyGRJSF-a8AwYfbZQICB7hxRJ-yr2iIy1QcqsQOZ1EUeJliyoBTgLqI32UOvFRLo-0zLjvSYLLwSWVemAxchvWbS-gEZbdrm1Wt_K6UyMIS_Ih508zHBgGIg4KDEKBTg6aUlYZmPAPAg..%26ch%3DAQEAEAABABTwVYzFTXNzqly7CfN2XmASoG5eddwm9D8.%26v%3D3%26pg%3DRYHNA2C4GRGXRMIIJBNA5WLLGY
+.netflix.com	TRUE	/	TRUE	1808639587	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStiVpmkLK-EtIfMCWavMLYIW6bKyIYvt8.%26dt%3D1777103587891
+.netflix.com	TRUE	/	FALSE	1808639595	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+02%3A53%3A15+GMT-0500+(Colombia+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e921a6ef-5489-4e98-9394-47ad869506ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770090945183&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

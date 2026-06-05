@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: bilalyaykin3@gmail.com
 – Country: TR
 – Plan: Premium
-– Member Since: Ağustos 2025
+– Member Since: Agustus 2025
 – Next Billing: 2026-06-11
 – Payment: DCB
 – Card: N/A
@@ -23,14 +23,8 @@ VERSION: V2.0.1
 – User GUID: GNNIJ6RW35B43ABR7O73RMABFY
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLEAeluxqLQ04s3CbKp2GPKU/UYarPiYwHOJ+iJyfGG0TQbsX6iMvh3mCtDVE/5yTyTVb15Bt+Bb3Pm3UHPCvGNjQrhzi2avzv/d6FJ0nc43nA+0fDhry9gOj4GJVSgumDvoCgO5/w4igGJ1Dr9zkXGucYHG0UnZWfHgmiSGHqp2G9bnPxjgJdODHM+Y3mYFQMFRw1ibT+WPBQU/8L1Du3y8EV6wHjhNZC8asQZRCWsNaCgvTFmBn58qCQEzqfYjLBr5b0+4KQYBiIOCgwBTpdc8BfwCe3kVuI=
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLEAeluxqLQ04s3CbKp2GPKU/UYarPiYwHOJ+iJyfGG0TQbsX6iMvh3mCtDVE/5yTyTVb15Bt+Bb3Pm3UHPCvGNjQrhzi2avzv/d6FJ0nc43nA+0fDhry9gOj4GJVSgumDvoCgO5/w4igGJ1Dr9zkXGucYHG0UnZWfHgmiSGHqp2G9bnPxjgJdODHM+Y3mYFQMFRw1ibT+WPBQU/8L1Du3y8EV6wHjhNZC8asQZRCWsNaCgvTFmBn58qCQEzqfYjLBr5b0+4KQYBiIOCgwBTpdc8BfwCe3kVuI=
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLEAeluxqLQ04s3CbKp2GPKU/UYarPiYwHOJ+iJyfGG0TQbsX6iMvh3mCtDVE/5yTyTVb15Bt+Bb3Pm3UHPCvGNjQrhzi2avzv/d6FJ0nc43nA+0fDhry9gOj4GJVSgumDvoCgO5/w4igGJ1Dr9zkXGucYHG0UnZWfHgmiSGHqp2G9bnPxjgJdODHM+Y3mYFQMFRw1ibT+WPBQU/8L1Du3y8EV6wHjhNZC8asQZRCWsNaCgvTFmBn58qCQEzqfYjLBr5b0+4KQYBiIOCgwBTpdc8BfwCe3kVuI=
-– Token Expiry: 2026-06-04 09:21:18
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1805961714	NetflixId	ct%3DBgjHlOvcAxKRBDVaTYMfo2pAfCt-U7_ntKvrW4T5Y0urOb7hKPMbosXZecj2M5jUnmQup60MGjGVg6BKeidyDpxijZ-eYLasPKqQdErC1r-C3Y9Lx8IJDklOFtKk5Zbe7QPOJZsTei-mG5MR2s346XBcqII2NtntGqCsCEWbnCy-qLEJcfH-FPauW-FC0h3MuoU3P6xl7vcTg3sQX9SynGXZaeDmCYkGK98pp38xRwjkG9Nkk4rgmEX2sivGz2pWRG5LU53fzfUCVPfcVe_zVdSspHZWbHG46N5JKeH4bvVYQ-bh6mn6hbxS_1HkLCRcDI6OXsYOOCGbypIIWIgc4J5wuaBEBJt2uQZSaKiI4UHDe0pKOHzSceFJjkwXH7BfZsg-e6mDMMN-zAhacMRDnMy48VQ11qVzJTgKy96LsgDaNxccPuQNviFWnnn1cSIPMg76EAWCk_pcucPkuhxaEwhDfcGw-4W_1qfXIykqJJowBsGXGJVU8McbF_9eYh8p9BBOkeLYNKFRwzJwjaKt6oaDk_jcXd2qsHdyGMCzix-d47VB8TwFOdrQE66RGfys_1k2G54YJmiTvZZ-Bx4uCM4t25p4Xbn2ncnDmVQgpWYE51OS32GsrO5913vkzvBDElMlMJkZIT6_0Jh1GjeQxqk1hAIdEt6Uv32czePEV-ZWv53UtTnFfNP3VuKjg43-wBxMuHLlG2xiDQQYBiIOCgwjXFk-fOeCHu36CGc.%26ch%3DAQEAEAABABTU1WlvfbVPXYMe-_ylVSOLFlNXIbsMEKA.%26v%3D3%26pg%3DGNNIJ6RW35B43ABR7O73RMABFY
 .netflix.com	TRUE	/	FALSE	1805961714	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+11%3A01%3A54+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c5cf84b-7538-46f9-9582-b3a254e0eb79&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771182563851&geolocation=TR%3B34
+.netflix.com	TRUE	/	TRUE	1805961714	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbXEN7ArX7fHys6PzjmmZmK2pnf5GdJQI.%26dt%3D1774425713327
 .netflix.com	TRUE	/	FALSE	1802718589	nfvdid	BQFmAAEBEBgFX-JsD0iwKvZLGKYTZdNgh-0iYQLC1TEXeC19gaQjTFvwYWmYztMcVnFNQbMJo8EJE-XZHJr1u7GBTPEqr1K2oBqihAPUGSypTJqKKuV-CjobvbkmRi8GNpaAzW1ifAxOTl7XwqUPr7kcVoRiOkTO

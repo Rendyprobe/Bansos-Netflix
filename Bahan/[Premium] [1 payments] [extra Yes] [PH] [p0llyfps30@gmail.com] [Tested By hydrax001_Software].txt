@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kim
+– Email: p0llyfps30@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: September 2024
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 8207
+– Phone: +639310608216
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kim
+– User GUID: 5QS2MCOEXNB37NXE3SDFJVSUQY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1789557949	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA8vHEAxuqImOxdg2TYIm0p2cuabyAEy4AJwHX0PKXrOoQBNDqoRpvMfvnxj8yqg-yayQtCYnu75hduZqaSN6DSzuNu-hbpDYz_mb-U9sh4yrN36hgl6XnnRC8atA_1EdQ5INTVZgEL7VEUi0lPsScMf8ggvp-JH7gAgTcpPcf7qVQWSRBT7tDC5z2qLVfCWCOa3u5s5vQmKH8_r4sx_g_7j6B-N-jVbwtOYSQ2mtLvKm_mKG9ReVkRBbm1BIwCcK5To9pAs0jm6VUyOUj9oAWWNb8gUjastgt9Bxzr798Vtu3KV9Qls2dK57WxGNXh3E1HkaRUYOn4x2gdh11RFoAa9zzXXyd-ZyYeKVlwHHKXZXwrnzMV1IaJQSKDZJ6bhNiou9E0MKFYKay_yM_hrFTALm-laj_yjCGavK4RAqrb6HPWS0EE5pVvuSS3frEcT2KkMp9XV5fWQ7d2pwltthOYPnDsvaum0NMBRS2nWLpugghxBEc8y7j1dXRooBPGUBM6EO-BswqNJDT5h7DqHuWjfrPVpBM7FRVGjzIIgfh_pAAhgGIg4KDLfQsYEHXnIUNnv9Ng..%26pg%3D5QS2MCOEXNB37NXE3SDFJVSUQY%26ch%3DAQEAEAABABQIxHpUHo2u_08ue3kULt6e8UfbV5StTuQ.
+.netflix.com	TRUE	/	FALSE	1789557949	nfvdid	BQFmAAEBEE8ay4aKOJXkBEQCZjHwMFdgi5twnilvaFWvomhcRi_SxuBzwG0JLOJMBW9qrvrmGn7b8l1tMoN2ArTsJrsWSvAdEvFKj4V_kQ72lB9kPPiWCwSNqfNL8O66pIYDFsDG8N1MRiai5YJ-2YJ7-LxywtlG

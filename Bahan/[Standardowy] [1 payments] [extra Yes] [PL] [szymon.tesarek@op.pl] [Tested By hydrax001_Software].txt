@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oliwiercik
+– Email: szymon.tesarek@op.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: listopad 2025
+– Next Billing: N/A
+– Payment: CP_PL_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: szymon
+– User GUID: QWJUEFLJA5CULFWREROORSBP6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801851514	nfvdid	BQFmAAEBEIDB9kHic3CPfhLvaa8h_TZgq_k17ssTXtHHePU6NDmOCfPYOmawEVTlriNFwb8LbDGNf4gjZIWtvFCLdTfK0_rMvVMEwJaUlS5KZCRO7AXi17mW4Qy0_p6P0CmMhPXeQeTpDXZ1DR7tM7J1shEKPPN8
+.netflix.com	TRUE	/	TRUE	1801946729	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTeiqQjkcSH8OJXbCwOftdIkZGPaBGm44.%26dt%3D1770410729602
+.netflix.com	TRUE	/	TRUE	1801946729	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AupM1Zrb-qJ7E25G7u5CFBpoj0wQBFzOi5MdM_pBdNmiSR5cZ91ztidi2ceNKJZCYTfwjTbiyhwGiFi25aqPBpN627USuAMHgPxqxzK2rxdX8KpOBc_TMK1MXwfDq3xiHL6JO8T6hTs-mZxVsb9QNVum_hkAUwRt9YQt0QtJUhJIRh3p3oq2lMEYFPqNHkWlV-3ABI0NhmOZrlCK_KmoBEOUxSyQJImD5mc4wvA7ATEUoHp6IfjJp4pzrkL0MwdfTw296tz2Js8ojUWGd3iGWJilQKgZllxFzoNCHqDTWFkxSHQ-vjS1b6LIOIgzG7M12JeLC8L8PT4v7LE4oG5gpGjgOn6IpIZY8dHQNOi92IhI4SgFdYYojdgWvFrEuzoC-F5xDsa_Cm5KaDXfe_BGlKnkbVZdxBQ2U0QN_b5kSIYv7y4_HZCDB651h7x4kG_poG1qWI5PHQpbzHVocJYmokk9OGrlhNqa67k0i-WQrfvaYiOcONS9h72bZhd20asYBiIOCgzZi6MP2a_l0lf_1F8.%26pg%3DQWJUEFLJA5CULFWREROORSBP6Q%26ch%3DAQEAEAABABSXjG9E4jr713_yA2GMyK13YNkuI5a2Uu0.
+.netflix.com	TRUE	/	FALSE	1801946730	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+21%3A45%3A30+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e23b8572-84bd-411d-bb51-8b94d156cc11&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770315453417&geolocation=PL%3B32&AwaitingReconsent=false

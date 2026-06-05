@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gean
+– Email: jean174jk@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: dezembro de 2025
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 9573
+– Phone: +5583994121938
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gean
+– User GUID: WJMMPR3OFRDTZP73OEROVK5VYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEHVVaBUC0C-fiEiggOqJrN1g02w7bAy4Rz_L_AUJE_trGT0DMxC7_-IEFkAStUsfQzKHQla3cGPzyVjlfw3QHZdFlQiUyrvmfqOifQQGO7Q7Is96PD8mgpm-G1heume1C9l7tYnrC9tw78z3kA32a0QX
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxKyAzq6tcyAYoenZlXsWdMkpLEqRBbd2gk1egZNE1isk3-8x8NOuYLr1OLoBs-lJJlSfshJoRHIb9Ne0mfrMlaX4oluWZIIvpyt-Q9OJmKn4vmXMPSux6RbemSwaR9ldjfrOsiR7DGRH2-g5pBlrC8cMxZqLP8d-dvhgwDajGsoL3MDBVqFfWUzwXaKD1Ru9ILN5ceywmZBNiyFdFhJ9aHryCVFXdVsK1I98JuyFHBVd39WRDuaAlINyCKB1Q5-Z6SH_xd1ddmPnx57Yc5AS9PEwYOgjkux6hUjQc7Y_ATjP9BpTMs0BavhL9-c8DjX-JdNbjXMS9mgh-zPmYam750ZV27rMc9l1Alqmh-uTLDDT7BuyPkBWVEZEqKMXUcLYdP5lF5W4B3e2oNs66MqXEEgfIBKHzWyVKl9AfhwyvJM0_Mids39yn6gEnbIOcek7Z77LLsIJHV83kd-KcEizDDO4AkoQIaqvMcT99sTF_W8e-dZaOIs78KlqiCqk9eHrk9qw071stHcgvPvbpO4WiXxyU8FLnNiXrDwzO16y072CVBYHGoeRrXyCqb9IqoJyVEH7sp4GAYiDgoMV7lQLMV9PQsXr3wR%26ch%3DAQEAEAABABT1_yfzDTWisEEwHnRcoaKialoaiXqaoQM.%26v%3D3%26pg%3DWJMMPR3OFRDTZP73OEROVK5VYA
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+19%3A19%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b4bb92a-735e-4d74-b6d2-e19cb76284f5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776633231009&geolocation=BR%3BAM&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDZEWdK3zAYuMKbzDgSqfJDGa-8rBRotA.%26dt%3D1777846758626

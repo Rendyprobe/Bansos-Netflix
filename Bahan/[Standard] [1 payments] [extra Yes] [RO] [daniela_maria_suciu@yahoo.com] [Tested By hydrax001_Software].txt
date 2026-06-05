@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alesutza
+– Email: daniela_maria_suciu@yahoo.com
+– Country: RO
+– Plan: Standard
+– Member Since: ianuarie 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0464
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 10,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cristales
+– User GUID: HFYL7A5TAJDHZEQUHMZCSAAKNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802690025	nfvdid	BQFmAAEBEHNCkzb6FT338oJkjWm59Ytg4A3LoveDo4nGpLYeSNCQN3Fy3_k2plCOJJpmVYtoQuA-8iyrHMo6FftovIg4BHaZVdCOxIlMd8KhsOz9T3lBpQd01ouw1Qip2VHbniN5bAE-OL2Kk1pyLFTBGJwD8yR-
+.netflix.com	TRUE	/	TRUE	1804066641	NetflixId	ct%3DBgjHlOvcAxKZA0UxQKAE4ZKS8HSlcmd1QGDyc7YCBfO5kU-A_bCZLBlj0ky1iSwdZKEFIE3OqhQ_R98vEZEEeGMmaQ3c1Z62WH7MrP2707kMeKEpmZ83OL4N8nvO4Ve1FAx3xapC9YtWHRS2U0GsvHUMGewUKqNyhNlXtOdUO2iU7eFy7Gi0yZKW2D_SrzIFmthEstPyecg3rDz69fmNiRIctFxhUzohCkWLYqyH2vpiInyfKHHm1f5OPf3lx1jjcv5luS5wFRr8ZC-s4bOe0jvOE_HTkdzoiMnbZ6Kjo8E98tXDG_5lzKO6yCP1z1L8WaQ-ne0hi9PyLqOkZ18teS6GixSzJ7w0NYRg7ul9EeP0cH7NxDazYYOdiGw2wHt4vtGZqCWgHLSl3kUjHKyXVCjcEU4hyOv-ulDbaPBlPc0zgPquzwWO0L-ZEsc5jbD5A2eAeqbqAVAmHBV5HDSWOwbaS5PJ0wmxbMBIHimhxu9BeYmBWkLl1JT3W_mEnQTSg6npapeICvVJGzOFCWDHnPsB-mBLE1bKFw_aKZwIppXC1hkYBiIOCgzbu92ivY-aX0hkdhY.%26ch%3DAQEAEAABABRt3sBrgwZuVWwufWn82bTCa1U4V9VwH_c.%26v%3D3%26pg%3DHFYL7A5TAJDHZEQUHMZCSAAKNQ
+.netflix.com	TRUE	/	FALSE	1804066651	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+11%3A37%3A31+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ddf41872-0403-4798-8057-5d2fbe6fb92f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=RO%3BCJ

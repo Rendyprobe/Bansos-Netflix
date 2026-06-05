@@ -3,32 +3,25 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Gumelar Qodrat Abdul
+– Name: Gumelar
 – Email: abdulaz817@gmail.com
 – Country: ID
 – Plan: Premium
-– Member Since: January 2025
+– Member Since: enero de 2025
 – Next Billing: 2026-07-01
 – Payment: MOBILE_WALLET
 – Card: N/A
 – Phone: +62881011300031
 – Quality: UHD
 – Streams: 4
-– Price: IDR 186,000
+– Price: 186.000 IDR
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Gumelar Qodrat Abdul
+– Profiles: Gumelar
 – User GUID: 2GTM6BB3QVFYTK2E4I6BVHXPR4
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAaTw+2yjELTvjhUzSYeEDmechzcbIQpKCPJSc7fnVFBV4kMzcUWylgJttoXCZDp8Pbc/Uiq8aDiYVVRV58Le/N6G2Eq6z02TlLvIBfzx0DwX144ZPNxR+GFDTh91S+x/ey9feEC+wfWW+GTFPNfC54fRgwk8CfqjOK0ru33biQVjTSzwFWLCQ+4ryrNNkMcqcg5xTKCLySG89aqpyA97Wc9x1BUTroThQcUaidelyC+MOYuGwxJ1+ZKVV6yd9yUSYVMXGAYiDgoMUJw/oL9E3dx8FVz7
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAaTw+2yjELTvjhUzSYeEDmechzcbIQpKCPJSc7fnVFBV4kMzcUWylgJttoXCZDp8Pbc/Uiq8aDiYVVRV58Le/N6G2Eq6z02TlLvIBfzx0DwX144ZPNxR+GFDTh91S+x/ey9feEC+wfWW+GTFPNfC54fRgwk8CfqjOK0ru33biQVjTSzwFWLCQ+4ryrNNkMcqcg5xTKCLySG89aqpyA97Wc9x1BUTroThQcUaidelyC+MOYuGwxJ1+ZKVV6yd9yUSYVMXGAYiDgoMUJw/oL9E3dx8FVz7
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAaTw+2yjELTvjhUzSYeEDmechzcbIQpKCPJSc7fnVFBV4kMzcUWylgJttoXCZDp8Pbc/Uiq8aDiYVVRV58Le/N6G2Eq6z02TlLvIBfzx0DwX144ZPNxR+GFDTh91S+x/ey9feEC+wfWW+GTFPNfC54fRgwk8CfqjOK0ru33biQVjTSzwFWLCQ+4ryrNNkMcqcg5xTKCLySG89aqpyA97Wc9x1BUTroThQcUaidelyC+MOYuGwxJ1+ZKVV6yd9yUSYVMXGAYiDgoMUJw/oL9E3dx8FVz7
-– Token Expiry: 2026-06-04 09:18:08
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1804280130	nfvdid	BQFmAAEBEPM4eWOsdA3dzX7I08LvlLlg39LUrhzBTVxBfQ17ANxlghUDjwCJ7wsuMx_AtpgOSEcPQmGj3TTR9cMvrtQAQF0hMnrUuTCAwsUPb-Kac8JxXgg_IfybkIlGzmuPc3nvwhXhetYeTZPMCZ9hGBkU6My9

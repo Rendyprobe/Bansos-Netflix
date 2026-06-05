@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vincent
+– Email: xerneas65000@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: août 2022
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: +33601495483
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eva
+– User GUID: ROXAHLBTSNFCXKT6EPMTF6HY2I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787676993	nfvdid	BQFmAAEBEBgfwoT7RLW_iCy7qWIAaFNg07j0OZK5kqs5R5L_oAJQXw9q8-38q9Rxv7kWl8xouizrzWhy-tuE_xvg0fPFM54RUxdXC663_MGbvdGPv6E8oiqCEghmmjxeaf7X8EryDFLX24wB7-UqzSHuugeUYT7s
+.netflix.com	TRUE	/	TRUE	1809542708	NetflixId	ct%3DBgjHlOvcAxLKA34krGVCCbbXxYQNe27hogndEWiaCd0xIWifXr7TVd1iXZi0SB7n6z2Eqv3tR39V-DltMKcw59AbLdM85XTyKC4G1fm2fkGYXSdc8ymxlvR59R7WOd9m8gbqNBQl90UwmGyl_CZaENGfKI2HUXfg4XdDTU-3KYggi0K0GPYohIQmxO_vazxp7KBqElWjQp9ag04-f65JkEif4reNQHOxk3e_aajutJGHPzGDe7-4imbBLgi9uHjrYYsTQRBHDpIVhuxFwUBLYiiZBu1SpVZOvTWSoeGgOsC0HvdOx7vYCV6mGdBeKdQy5jeQhRFWJ5j7-k4sMOA2lS0139ipXeIY3LIUhI40muZXNAxHlusvCW91JkIyBj_jGgjykYTlxwSoD5nP5jbrr3ZNnz_9ufEPIrWj_MwU-cGjKYoH1ixHqR7EGGS5ViDm-qg2i-xUIM5OFL_VO4QJoFCWtBvNsOzuneOtyfsnWBhUO4ZUtXwjgaBvTrv8pgJOVZYVbmXgXmfoms0A0AWQq5iPqRmmiOOeowVfcZWgRIAhRhUSPGaXfT3LYsVX0JYyulENoKwXh0H4kIg_YCxKK6-GCc_n252Du-MXmBmqHhmoIlYOGAYiDgoMs1YcgCLxzVZPI9NJ%26ch%3DAQEAEAABABRTGl1XKbJPcCs1RlreE-AHG9KeIAxzG4E.%26v%3D3%26pg%3DROXAHLBTSNFCXKT6EPMTF6HY2I
+.netflix.com	TRUE	/	FALSE	1809543752	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+21%3A02%3A32+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f9364a6-2291-4880-8486-63ce1eb03661&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BBFC&isDntEnabled=0&prevHadToken=0

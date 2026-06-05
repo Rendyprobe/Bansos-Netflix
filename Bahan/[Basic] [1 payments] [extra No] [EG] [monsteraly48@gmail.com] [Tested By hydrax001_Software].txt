@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: احبك دادي علي
+– Email: monsteraly48@gmail.com
+– Country: EG
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-27
+– Payment: N/A
+– Card: N/A
+– Phone: +201097646299
+– Quality: HD720p
+– Streams: 1
+– Price: EGP 100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aly_Lander
+– User GUID: 3MP43LKSLFAYVBLQEIJQNMQF5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799010277	nfvdid	BQFmAAEBECNaxwCwdwKjNHvb8y69x5Fg_zpb6G9OxzFxSvf91NKQxAqSp7PSnFrERsVs5nnRI4FR9cLqyyNhsXJWw6F9MhaelD0a8APYkOo0AQN92czPxS464XGrbthYCQULMV6zcUyALX_Q3xtT6qq_7qTrqM_C
+.netflix.com	TRUE	/	TRUE	1807902131	NetflixId	ct%3DBgjHlOvcAxLGA5qavINrZ4ncUUzbEgtjc_B0jPWFK94h_U-vJKgcRyRW5EcQ3irx_j6xhUWa3PH976efruCMa8H6HdK20mFmpi9GJ5E1vao3QHfYVRe9V2_EPDsnkRdV-D1zaTcK7Rogcn3_a9-lnCzQHmZF1AdtvPaCrxq91PW8rUj7odh7mJ1UfTzdyc8Gv_gCBRXjK5BCic2RBMmxjwHnT6T8kdrWftXotqXtHxBeYZ-Zz2wneT5jzC_2XQCU3CXgLFWWFuDbk9xP1oqYOq08X8wX03S6SpXP0Z5EAiVflvdybfKD7Xbnu0W-DWQ8WO3eG7IYItMga_gT3Oy7W5BmH-aUK_kZDnNlK_cPDszv-9jBDgrAYmuNm5p_NvuSh32FvHp-5KmQLMnvKRDrW9QEt0UOj4fo6cZN4jmPXhdn93adklw3S8B3OKMd10lDZ95fdKWZz7w8EJYn-7H-5cvsStPD-o75LQHIabhlne8jApYKwHQ0eGtPKLeILalWakm5PQ_y7mZxVbP1Q20yC6emBLd3Jo1d1Y27i2yn3Y377-l5Uzq7YflUcJPJ4kMhxCoBJNWSjE2TDrkig3g6HsOr-0bbLQSnq_nV3eY7iskYBiIOCgz6G0nu9Uwbieu_MhQ.%26ch%3DAQEAEAABABRyhvjEcDbeMAivKSWsLduSnpXpNX8ad9w.%26v%3D3%26pg%3D3MP43LKSLFAYVBLQEIJQNMQF5A
+.netflix.com	TRUE	/	FALSE	1807902133	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+21%3A02%3A13+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c83f3de-93fc-4209-98a5-55cd2762f9b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

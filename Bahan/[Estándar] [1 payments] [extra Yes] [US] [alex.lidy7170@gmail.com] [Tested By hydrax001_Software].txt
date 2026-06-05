@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: alex.lidy7170
+– Email: alex.lidy7170@gmail.com
+– Country: US
+– Plan: Estándar
+– Member Since: enero de 2023
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 8728
+– Phone: +17866563043
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: alex.lidy7170
+– User GUID: UQM2XBYUGBFM5DL2IVLFXMBUWM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798486742	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+28+2025+14%3A39%3A02+GMT-0500+(hora+est%C3%A1ndar+oriental)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=473db389-7d82-4e98-8db1-50f5b9accfe8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798524517	NetflixId	ct%3DBgjHlOvcAxK4A8D80rpC3idaiyeOiZYJLMBJmzHh5Py0Q-_lFs3bs5zv8ylgn9ArPmvuTd5qTOWeTYlg2lVmBf2-NnCenVkoOzCHov0Z4QdxC5wnYIUhduXKRRo_xLSmYr-q1pU2WvxOuAByOgzwVdfxXLKKg7eb3SpNQJca_mGo9kZlWktAGg44hvQja700wDn0QOkC3aHjyBhKex-AqvclmiAXDJ96WIgpDO9qYQyQPZ3GmwtK6qm2SVzSnaC62S-OdHDhZ3BX_jKFuFlgsSNbAhPh2QmPRfByyclbgTI8sbyluz7164ccjLccwtZWvPquV3o4URjaWP3ITqgBkTlIJgUAeZG5YOtf9FCKbxFoF__HNNjmAxhOOU8PMrhPCg64nWV61tdbn1gsSeSYMRMdu3of0xk6vqSNl8SawH7O2H2hkMMAlyK4JXR_wZ5qSLb-AAdyRYS9v-Ddmxghz8ZkB2mx1pOgm16B18llwkGRroaGdGwQBL5n4zP1P0lh2IkiweRvamg_QXBEsctb-4uOo4xkRsrQWP8E7snjFHyXqnSkzx5R3dnVIcoEPqznQcUHx0OXPwKdQXQk9JbpLEukGAYiDgoMFldlCDVVwzr8KTVQ%26ch%3DAQEAEAABABQaq2rXLELsIuPUQSKtxdmRQzrlR8B533w.%26v%3D3%26pg%3DUQM2XBYUGBFM5DL2IVLFXMBUWM
+.netflix.com	TRUE	/	TRUE	1798524517	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTWGP4nTY3RKd9AVocxSgpflE6IaG0pDYg.%26dt%3D1766988518109

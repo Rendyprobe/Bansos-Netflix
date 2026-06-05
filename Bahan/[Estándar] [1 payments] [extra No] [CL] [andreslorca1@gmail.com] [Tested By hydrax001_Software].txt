@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Clemente
+– Email: andreslorca1@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: abril de 2024
+– Next Billing: 2026-06-19
+– Payment: ENTEL_PI
+– Card: N/A
+– Phone: +56989049353
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clemente
+– User GUID: L6HKXZBZHNAXDMHHFOI2BKF2JU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800738081	nfvdid	BQFmAAEBEAAKSvBVPE4ZK5lUBbYWaetgqFxqkOVclK9DEtx74oc6J52qthN0i8MVSy4SQNmB09aBWAQE6iLD_xTpGSxvQfHx-IIC1GU3KS5NaLw6T49Ox1N9tYCULOPYnyR-DV_HJmB82jbZuW_6B6yWXtf-e1MD
+.netflix.com	TRUE	/	FALSE	1807841837	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+22%3A17%3A17+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db3d9c42-777c-4b71-8fad-6321f36df882&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807921277	NetflixId	ct%3DBgjHlOvcAxLQA3rSIo0vWPas8CR8nOH0ONAf-iAGEYEU2M4eJ4icJPiTGeuSTW2j-d3LDzH_mYic8ia2P-4aUoIdn_NLHopVuARoy8grqDq914ZOVqW3UIRpfshO2FUUIMssk94TGqyjoPaUi2XIqL1uYXpzTx_i0D6epww0KKwg2mO3xTbH6y5l7y1dadOx1QWcu7QAR5deMFmFEnwlDInJYl8bWYU1oeHHnbvr1rwJj2R4ChYGklg8WucInd1Ah_cTED5-iBwkBxwjhxBrNE9f_Wif1WJTGagM6uE2c8iV5vzfLzbf9GK0huCMGeC_2Ofre62HfLL33dTbrA0seyNh-lakAsv9UPtzRCYfKNUQDeVd2GoaFdtyk_8aErG3izxhFe4t_KmR6_EYMLMA6APgJkJojmQMw5_MQ8SWokOHVPJqNdu3QiK4mMfHeOLBKckmWxvGJQJ398GOChGhbNyj4eMLIqEWJs-q7QzwQ3ru2PBGEcMLmqq-ayJssFEGSyxWyIv4yZvzxefr79qQRI6tD7qgSgQgRr_TE9wcqrPjnZAy90HItCFqBrsfy-0-WOuATYN1U9C2NkiySJzWuJdoqJZR9DcYFRZ2IWiM0kRXloXp2tzObeCtGAYiDgoMkGszthl67H9JTZdf%26ch%3DAQEAEAABABRclOsBNIfq9HeZaCKtbRckOrxb7ExkKr0.%26v%3D3%26pg%3DL6HKXZBZHNAXDMHHFOI2BKF2JU

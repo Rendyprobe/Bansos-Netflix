@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lome
+– Email: adm.alunes@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: outubro de 2024
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 2912
+– Phone: +5543999217912
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leandro da Silva
+– User GUID: DOFRLAUJYBBMVFKSINTAF3TFZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783781685	nfvdid	BQFmAAEBEJJs0Um-YTFsWJYO4fC4Gl5gUbGpRQDxG8-xgJBvyklFG9BjKFA0p9GLmsM7lDb5FlrsI3u24I6fUazSY6GyMCuOjW7ncvE7PvtqR56RwozRKftzdkuNXkmW9B7e9sEpejBLmhoydLdtF0dvvxUbEIde
+.netflix.com	TRUE	/	TRUE	1783834405	NetflixId	ct%3DBgjHlOvcAxKRA6_bY6dpTx6262UMGbHtjvMj3sPk7-iwJf8tXj5Va1dkeZwdnsuksiiwUJSC63cxk5NZ0a0SrMge5zwo8Gb15gfk5FB-64Z-Mf1d3-KcJQRHhOLhSg4snxZmOyZQeetSX9CciEjprEntSTn6F_3JmdOU5p8_wdPJO5E8aH6BuW7v88igrb5TnleJOStgT96RFCMKWz59fCtQuFyfP28QBPE3mhx3_wuMrjPHOsv6ILMc67zX_jNHv-_wpaXsRMdCl96wB9z7dGfW3s8ckrV5rLCs4NBtgoP8euRd8JBj7lzAR05RcarMtD5x1X1Vpv7cQY4XOUHZHLW4rHpu2VhOElb2prg6MRXSXOVo7zpYT8EZ0UxsYMUtH8al-KOk-Gqs5VUl4htWjtVrjIJJQUsgtpwWiXvG3XSXMqg4XK9uRHOcdLsXfk-7pbLDf6iAkV7-tpiREv9EepFVG_v2-aFDaCy867CS4Suv6lAGNr3X8stu-nxIxTn4LCE4aYBeUQms110i4OX1sbSVmrLTccM-MpNqGAYiDgoM5i778evJVPTm0wuS%26ch%3DAQEAEAABABS9ylZEkabkAg_3lq-VD7UmHSAV77I4W8Y.%26v%3D3%26pg%3DDOFRLAUJYBBMVFKSINTAF3TFZ4

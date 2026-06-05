@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: daviii costa
+– Email: singhsanjeev1978@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 3005
+– Phone: +919794862300
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: daviii costa
+– User GUID: TNR2KXNE3NB5FOT2BA6SUEG6MM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787564009	nfvdid	BQFmAAEBEPLdhPhSM4d1hCGuTkFdJTNgMXmkIZQFLlMwZpwBbhKutIMYTK5Jz5GSFfBRS-HcCkDAJ5y1zLD3IVgI1NiXAUtIyXHWwWw6fenfsQ6hbPQzdrLSDnh_Vk5dkbBzVwXpRjqxxDEHhe5tcM0DHZZjKIiZ
+.netflix.com	TRUE	/	TRUE	1811763846	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQfMDJP809-LWptla7NHAHliAvsIh4ZaY.%26dt%3D1780227847844
+.netflix.com	TRUE	/	TRUE	1811763846	NetflixId	ct%3DBgjHlOvcAxLtA-FwhGDBvRw0bV_YLh91UL8iaoDgip145_8R02pPNKex-aiiPCW0w0WGuinFY-EXmryBNcNcxwbXlPxpwdZRAjQa3qrE2Mp9fRMQufV9So1lZobx-Q-4a2pnJq-3q26oCKB7dtlab8wNDicwBgyqZ4T3gkr2qOJ1_NeE4UBQ0eUCGRKbFDXLQsZE8jjcR-CP4uVZFqotCLMj0NHl9hIrWem5LRNPfe2i0eryEMsxFbf92OHDQVOPmPY42HQiql5Ydi-8P11yRZqWbbL_PeyIIs60vH3TyXyWalCLbWhVYJqng8ySr-0LRTuaMuKI9KAVWGsFOeLH-n-BNm9yTIGCNMboLyBHVE0H_t_qGCQwzBaC2IgYNzVnxifbv5rgrgnEjlNUgJHy58vepzsUxPNwy_8G28YCLhYz4Acywve_5rGKTvyl_7o-GiIJEKDvAyhHhZ0CnGqlQ0QtzJaJSUVgo2sGZInpKsqjPqeJdav9sjXJM8Qd8-q4ASFInW5f5Z3B0uu0P3H9BmowUuvC4uEQHQDALNjdC_cu8UigwFTQ9eUehQr5Q7aUze3pqay6q2Oty_jrLHdqZqfon93gtqk2fzb3MQb9mzcFnuhZtzLOeDTOMXVgKqCtDzmr13bJryOqqgZ2Oghsz9rqD4FiBZAYBiIOCgwujkcYqqUe-scsRQE.%26ch%3DAQEAEAABABR-VMKYaoQB7MLNZhae7NMVY9ypS5-aU_8.%26v%3D3%26pg%3DTNR2KXNE3NB5FOT2BA6SUEG6MM
+.netflix.com	TRUE	/	FALSE	1811784556	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+22%3A59%3A16+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=45afecb9-0e29-4712-8cc5-1a21265a28e7&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Santi
+– Email: marisa77moreir@gmail.com
+– Country: MX
+– Plan: القياسية
+– Member Since: مارس 2021
+– Next Billing: N/A
+– Payment: MEGACABLE_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Muñeca
+– User GUID: WSSGALGVIBEM5JLFKTMPOORSDQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800641762	NetflixId	ct%3DBgjHlOvcAxLfAyR08Pc17-p_ST4tOv91alm3HKptMltugvsZkMshiEwrovWwpXUVIJdj7Yai6lzaC3EcFQzgjSpsanXiHoN5bKsRBWLdBcOxzug7GmUizLHthEfNtIfs2ZnFNfUC3s4nVk-KHmCRUyWNu22AIdcQu6cEEv7l94z88Aw1i4Wu29AXpsPJgsvdl__26qBk3VWetDohTqPDWVyUtxi62N7ESGjbQo4BIvpsY7_y_Z7Wc8TPYGACxzSfqtuVh2KdfLEy2yDkvXvx9QTbjeMxRlxiUQGE1GHIGrEQPnrqgj0EjfqpmTw83nyhGahsQvpg10aKGxGfTD0jLVS0alxMYTPxSKb9dsyrWBvzDrooZ_kasbta8lvorbqfQlAjlhOnmA5g8A4fGT653mRjdqxpftK2I7IKVNs06pGhFLyp7sWhWnf78tcg-hAFNC3mHbp0mmHChqaD8TqYIXuuus7UwiO7A3SgmP0V0mj1gxPgTHOYxCZSZFSDHYkaENXvYdTiV5oVEATB7mOY1NYZGCiHqUzjmU-L9flgcGbEUjRL1h0Eyy6hOvqrohuiXpwiA55v50O4ekK50NLeJaFBff170Ik0CrBA07siYBrVqxf69tkMAA2TrFbz2wvTxGn8BDvN1oywGAYiDgoMo-TT13hE5Bkl-PXB%26ch%3DAQEAEAABABSlc-7aYtLHc_RFdHkfeRx_VpnZ9s2cVq8.%26v%3D3%26pg%3DWSSGALGVIBEM5JLFKTMPOORSDQ
+.netflix.com	TRUE	/	FALSE	1800641762	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+22+2026+12%3A16%3A02+GMT-0600+(Central+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1eacdf1b-f2ca-4a9f-a0f4-e3aa5ddddd70&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BZAC&AwaitingReconsent=false

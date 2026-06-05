@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Këyron
+– Email: Flamentkeyron7@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2024
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 2798
+– Phone: +33081624042
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lyloöush
+– User GUID: 7BEYZE6EBFBNZPXNVRO3XIGXXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788281823	nfvdid	BQFmAAEBEJp9cZJPZ6WN51SLoZUn1Rtg0IB5dPf3kDeGPMKsolMZPFeTIQMC44hMcy3QHKu4-GkKZqSsQwmeXQzyaZknQ9H4kzMBe1X5J_RYC0LWqY118D3Y4WR4gIubgH6VfUup6RGd_cCOULzb_nx9yiuJuMtI
+.netflix.com	TRUE	/	TRUE	1805493927	NetflixId	ct%3DBgjHlOvcAxLLA_HPdIX_TwnV-WD1QZ2GWF513qY4t_VhsW3klkKlTGjktN9T6BxppSpfCph-_EmNmYKRAaWM2RNZ7X-_4Go6W_eAYhwJ15bcvCQuFOzt_fvih9g3BXRmiZKaItu7Gf-voqhOdb0eqeIIrTbxG6W70P3NE7HOvxvFH_1IogqoVGbQrNsgg2_EP-PTFgHQRsDVzN4K6iNqRGS6LSZQPpXZR1ucMHUtTr8XirK7SzUQb1_Lt73gweFur5VdfOLvbQYJTs-lfeduG20mG17XWlALy_A9PUzGQybHU4ZIgnC09wDOAXBJMjpkQ7nsZM2-ibuLM7DOiazYzO_tgz4mHazs-LH5kRb9Bup8BJTUGla21MfZAg5nMCI9x7vbQY98wnZgDPCjBAAJ2l6uZ-XPQ-HobFJvnoC8MMCx7O4bMbuD1d6pAbP9xyg2mcykj4PR3jYCiqvao0YDG4ffr1qB0HOLwk66WsJNDQGVmPCyP-ityocPNeAgduh7cVesYAn__Mfn4gM7hBrWqqBYC1lOEesWW0-GOKxT3oEhfuZg0tKyv65Q0eBJvjLNvCt2CXnL94Qybt_HHQ5BYrcA3nbq1SmZZ-15fn1aegRXR1DLZxgGIg4KDBKyTL5xKpEUv3crQg..%26ch%3DAQEAEAABABRAQhf0UDKpn615b0hJLq-YAb4bnwlpWaY.%26v%3D3%26pg%3D7BEYZE6EBFBNZPXNVRO3XIGXXE
+.netflix.com	TRUE	/	FALSE	1805493929	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+23%3A05%3A29+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf8fa4aa-2634-4cd8-a4b7-e5752d885353&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNOR

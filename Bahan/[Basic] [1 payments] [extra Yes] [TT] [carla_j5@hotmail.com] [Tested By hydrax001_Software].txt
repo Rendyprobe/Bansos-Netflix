@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CJ
+– Email: carla_j5@hotmail.com
+– Country: TT
+– Plan: Basic
+– Member Since: January 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 4005
+– Phone: +18687875139
+– Quality: HD720p
+– Streams: 1
+– Price: $10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CJ
+– User GUID: MAGR3IACYJDWBN3ZGSHWFWUNOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1787259828	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AsNTuJFcitBrGXXpplIHj9_ZVCKk-l7ZlBCiXkrh6pglVQ5X4zG7GLOGBrpqSAq20G6st4gJc71a9Vl0N8KDdz1Yr-UqfkBAtrFI0aVs5X3ZOdfvN2cz4OxA8VbyCNnCpfBRHYijjULfjP8TOgpjYFX4MuD7L0peplY76o7D_k8YRXxDKsDpThYC4tKx1ICCEp3Qfu92FY2R7SynO7L528iXg2EMbMFUBNkwSAP_90mV5Lxoeq9R6gm_WzLWmZAjeDZHhN2KoHf-18Dgnvk7GI4qz3Akrn2JkGmj3HJ3hD_wf5oayWy9URnGkOt-V3UeMHK-ZxSHRJuFW6501FmyhYXNXuaGw2mimPNwAMlJAlJePsVBV118iAcnMKHyYfTiDiO-1B3Y35NOVWh3szU9-_-48_1d88eiEjNFtNxqiVFi2K7--impX7eFSKeBgExc2uzNu9DyLtO3-4BbeFVtxlwMBlP2HvvK5ohYS3d1v_O35sOxV2ZLAQRjGAYiDgoMXmIuPDyNXdvYP2CB%26pg%3DMAGR3IACYJDWBN3ZGSHWFWUNOE%26ch%3DAQEAEAABABR2UjyTe9KZJS1SRoWGGi3B0atDsKNyvrw.
+.netflix.com	TRUE	/	FALSE	1787259829	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+20+2025+17%3A03%3A49+GMT-0400+(GMT-04%3A00)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=84ed3740-359c-47fa-939b-1f03c5393c4f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1787259828	nfvdid	BQFmAAEBEDbGYT3ZOhR63FJBLEH8IuNgw5KtUe7xtTSPAE55ge10xcHO9ugPTCn7U6S9iCe_BzZltWIgYxiKLXHWgjOPlTAShcAPoLud6DEgUMzTSAi5IcT1t5UAuFdQ7QYozkVX9mcpiIoudlV3CnZpJz-mNiD5

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 장재원
+– Email: loxury1024@naver.com
+– Country: KR
+– Plan: Standard
+– Member Since: October 2020
+– Next Billing: 2026-06-17
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +821062133112
+– Quality: HD
+– Streams: 2
+– Price: KRW 13,500
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 쩡쩡미
+– User GUID: W6ZKQ4I4R5DWDMSQJXMZLTTNIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799666124	nfvdid	BQFmAAEBEKemJXBgvdyFZNY7U9IdZo5gBQKO7gfYThoJJBLMxy71Afs0a9tMg-2kHZPHv2o7sSJ9uA2Iacijy6XJPOLlcK8OfIGJKFZCGQZDDbFGfX4dqM48Dowj6CYpXAtrbcasXFKVvZ_4Sc1n2Mitk3P47LL_
+.netflix.com	TRUE	/	TRUE	1805908784	NetflixId	ct%3DBgjHlOvcAxKHBOqWDCQsbQrNKG6PPO3iAxPVNLhB13De2FteSfulvnKP08Ss32zlbL4ofnBef-frdcu4zw6omkgyoDRjDPP65YVDt16D7APRwlW1q1GvhGcXgzElujuzTJwpd5Ur0aSJbkmDKTrKgD9g0Ffm1iR5qpwvgle_EXjnpV7XWcyRpE_t9Mg47uJKkJn7YwzZk0fpkdhpn0FUsYFzHvn5o5G_uzwhQxeHueBUFrTGHwLbsY9wrO4x-RCCSbr4jcU4HR_5TtYWid8W8SSd5QACewZYBPdh2pza_psiWqc97t8SBplKwKVUYJnVzBPQqTaxM1iL5uWqzC_hEUE_nfEkMH2xg2y5Pi7eOMXa8_3R3R2t-cc7FJ-zTxLCHDwZtruQ4aWcfHZcIYESBxWgclGL4HJcPY8IY5L51uw_2NJoK-v6wls0ohjFp1JWR9PjoO755qFb-kZ-Cxgc1Pg19j5yPqhspdHnVId2CIgTG9wf_-jCKh9w0jJscw7ZBgMq5QQ0RqcMetCq8BcvtjMD97LIyDcJtFKtNVK2YpumeN6RP2x9vX0jiFyPvA2S6_vEXMXol9Q-8ELMCQg3AnKDUXNOzzvUr5Dr-b57j8LVKloOC743M0zOlw3mxymtN9eSIErAWk0iaiHelLdmLlcUu61DQn89lZ5D5mmhdC4kIOj6aM7DZwXr-oHodktnZRgGIg4KDMVmXmgqyCSvisMGow..%26ch%3DAQEAEAABABTmQUg4Xwm-UPxhBfJkQosfVm_iJylsFSU.%26v%3D3%26pg%3DW6ZKQ4I4R5DWDMSQJXMZLTTNIU
+.netflix.com	TRUE	/	TRUE	1805908784	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5KAN9eJvKIPwOr_d_W11uArEdgdBtn9Q.%26dt%3D1774372783561
+.netflix.com	TRUE	/	FALSE	1805944157	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+12%3A09%3A17+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d997a67c-7650-45f5-bb67-6150f2b82280&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768130121829&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: John
+– Email: 1magpie46@comcast.net
+– Country: US
+– Plan: Premium
+– Member Since: June 2019
+– Next Billing: 2026-06-19
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +13174377565
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maggie
+– User GUID: YI4JUNB5ABAFTPND36CAVOWODU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805424114	nfvdid	BQFmAAEBEMg1qDGIzBb8OFS5aEwjs4Jgii6EJvuvdhnR3os4ZpZAZoxPox6Mr2qf8TJXb-MVMhW7WQTsR4CIPsiQTBGIg7hHwyUSKkGbv0RfMLAf8W4J7FDzOm1PFCR3PEHV1VV2h5spoBm3gNDaS6sKAfO9cyM3
+.netflix.com	TRUE	/	TRUE	1808121027	NetflixId	ct%3DBgjHlOvcAxKABMUa01COTsTZDjHomi_69-ddcLrM-chnynySuEKhccIROuSBx6TpE6_60xVsXgqZHp7eU9SyAv1XYWVhK8cMhxAN2U7qwwxC25rMY_Q5Zsd05tBFBVLroHxNyCDq2clBREh1iojpUM4VJnF6R9_9YWqjkUfbaS0JcaqkaSweQSPvEOegrIwCW8oAn8eiZyEvikZo4blAFxuVY3aZNUV7_fTeUFELKcPI5eoaBjEX3WAkjUWH6lozRoH0TFqYWIYKU4HccXjH4AWydJh5uUHC2IKiP1OPC0OWZ4P9pMzl66VGnR40VHRmDsmBuT0ulqrRE-KMQcBlbzkkeoWupOYK0kSZZ2asAR-hipv6cjGX3QAHX5EKCnsR_52EeC_JuvZtlrzYCX88RpYgKqHWuBevAlzhifDz2PVD5jwo8WSXZ1aLvG6UuH3b1zd2yX_svtXc7JdTYiWFpfrpSVJEEJzU08uZb4ipBD_DTOayriCaJKAQacraa-lCfURFtwSC3Y7r2BzYgrDnC-FUD6pdpTA3m5-ZCdh5q2njS5Y9b_OtkveBQJU0FW6V6CQrVTl-RRPUUn7sxgnq9y201OIApmV0nBlYQq6IO-4vImTB6bJZDuQKacyak8wc0S33if3sMqry521D9zq3j391OroTpDTfXEN5GxcOR_TZJRI3Y_FDL0a3GAYiDgoMKULGbljrNcupZdHg%26ch%3DAQEAEAABABQBQQK0xU7CTPMK4AQf3iLxeU8FgCaHxW8.%26v%3D3%26pg%3DYI4JUNB5ABAFTPND36CAVOWODU
+.netflix.com	TRUE	/	FALSE	1808125285	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+05%3A01%3A25+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1aaa6e6-0c56-49c4-81cd-dccf848ac10c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773888109055&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brandon
+– Email: brandonrega@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: August 2013
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 0264
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Brandon
+– User GUID: YU25N7XT7RCJLEHAR4LC5YWB4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEPOvRK4cjO5eZLrOX-N4BtJgUNyfv0WwPqhfVrYBubYiGBEHN7r4v54_rts6vkgsoSyHaVwk-RiAJP46rJSYvHb61r_r0Jn2pDeYHXrZolKQtw4tEGbpbgbCg0OpO3BZQB07TJkH_Hu4gqdH5gBtw54x
+.netflix.com	TRUE	/	TRUE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTgyzbzpbAmJd6SMecIGW4gvH4T4LfZkYI.%26dt%3D1725302711604
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAgQTaAiHh7GMtrZqpVjvBh2n9a8QzDW7s6VqF-eFFD30BPQWOCEEa83_hGL2S6bk53Lx9BtnARLiXpan-DQLytxygCR50Un-7ZCk9hnJ95Jlg00mhaiFtO5byEbBrjf6KzGCrvyp-JRkXMahlnM43T75qof4ntV0qQyKH_2_CKBo_jra6mabKhP1eRMYiIfhbIHC8zEmdUh-XjG4H98PMUioSq_JyUSwaezYjCeO5Uw5o8J96udWOa6w9RQxlrMy9k4__z0k3Od2OtRh4uJKa8z6I5LELWBfvS_5jhqFu1i2swP9EUBivf_gBca2wioutZgv2Z0p1v46KTYrjpgVczmGmPKfWtSCL6kkx0YR6wuaa5alpj2gKeHX1ygcWsEL1Rw-Jj-wmHg2vPDV01-ZVupUf-PJmOYKGHQcNX-cU8F0WDyTgYMpm2zLlEgtimnQIuzV4wq3JDt9usQYlAnnUeo07uJPbW_Zp00epLCiy6srGAYiDgoM_7UCYAnLFYv-J6Rd%26ch%3DAQEAEAABABTNCtwft9RQ5lX_hner2uNtEfaQ97Ix67E.
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+02+2024+14%3A45%3A12+GMT-0400+(Eastern+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1eff6d74-001d-4760-b806-95c633cf6b38&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

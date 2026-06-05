@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shizuku
+– Email: sizuku052@gmail.com
+– Country: JP
+– Plan: Standard
+– Member Since: April 2026
+– Next Billing: N/A
+– Payment: JUPITER_TELECOM_BILLED
+– Card: N/A
+– Phone: +819093913604
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shizuku
+– User GUID: 34W6DC544ZFDROADQ6DACFQLKE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806905072	nfvdid	BQFmAAEBEBb8BTWhVrx_lQsI7GrUc1BgvaRqe258xPSLHrQQfnE9mm7fQlF1dXPqfjkJ-crKHJdh75dlZYrN1RfqkYnT0urJ-bAf4K2QuqzevcCr0Gu1e4jV9iGGDudDOD_MJFxVU_lTlmvitaPNWFBDSZ4RC1_t
+.netflix.com	TRUE	/	TRUE	1810488516	NetflixId	ct%3DBgjHlOvcAxKKBMPxJbH9i8U0dDW-PhnKm42C7yPXbz7aE19JsDdjB0mhsOy32bUWvUM7MXklyTCk8WCVK_unSIDoGMLaSKuIHbZzO5_Q3EzrhaAUbkDDPfLFyXncAX2l293vyE_RGmgcFrOLJiWgaLg5YtKCds45mNXUyV5dt0V2AW0MLxnWCNFXYLpzSehMKhAh_I6imWy7NuteEwnPY4YZh0Z3R8emZiYALBLtBaecCUYuRFi3nYdCEAhVy-zz_VowqDOFg6oG8GlOfmxANkeOKofurG95S0y1A_PNwKfAOUGQM8yRy4uToTNABcqSkWwEwKOlonVj2g1o04wV4go4d_8YaEfvZhKgLjYMInUD2ffESogLr9p9o63t4NXfFEqEE-qfGhAOoBJi2vlDOT6xOyWHOYLBLMcTY6RzJ2LQQKnElYJRxZ6E0LOID2doCYMzFYSvjD5GhdhUfBS2bfGvroH2T1DLAPRLU1D83AMMrPv95hPukXcjHHRjCXX2xWgcpzYqwgvEqsq5hkujOLBn516B-q5_jdWrzgS_52BiDcveMH0Vh4GUs3A5pekDWM_RJPO-V4kkSFwElAi5icnjCO0sTVRBILWv2bDKh5poXsBQVpnXS5IIZXVM_Z_hzzs730eA38OqCWSjiymyUXgdHlo2mfqIkwPkUgQyDm9R5lrIGrMDWXMzDlGhgejj1B1ehxgGIg4KDDZHndD921Qow-jTew..%26ch%3DAQEAEAABABSh0WUOt5Sqzh1dV8XVQAoumQ98Gia1Z_w.%26v%3D3%26pg%3D34W6DC544ZFDROADQ6DACFQLKE
+.netflix.com	TRUE	/	FALSE	1810488519	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+02%3A28%3A39+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ed668a2a-adf7-4e65-8b84-48ec23c716bc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775369072618&AwaitingReconsent=false&isDntEnabled=0

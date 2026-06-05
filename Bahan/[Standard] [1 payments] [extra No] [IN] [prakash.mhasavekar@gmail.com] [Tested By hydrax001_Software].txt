@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Atul
+– Email: prakash.mhasavekar@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: August 2022
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +919920651011
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Prakash
+– User GUID: W2JUXILAUVETLDS7VT54Z47IHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802230412	nfvdid	BQFmAAEBED_lJ0BW1xfcfnPUTc1qdklgOsJEUhYDoCISdZWJAReR4HJT4jZ3Nw2-C8mUu9m8-cGzC4WcwfFdn9erSOTwm2ExMPSKCvSGCgmHN4XH_NLWnuXBH3CVA5hcBZzWodPjCVz7Sy92yfIHVcZd1QNhKjYj
+.netflix.com	TRUE	/	TRUE	1811084618	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA8-3azzunGxuI8grGN83Kmna_lVl1ZETCtGTbVG-5p2K07UcGofW8Ia0vfkYELTLxzku6lhKG0ZLjHJAuwwg4C0FzKDYDlGGQ6-e9xoPfZuwlfI_0YOuLCquzabGx9QjLNh6hNibHbgr5epbKYDlA2ugzEtOd_rHasNkxvV3TwRO2myKgpjTEUrGZla0QW2WJB2je9nyDMzANOf1ENOtOLBVRiKbhjA53I0JiJe4YIotDdBbnxLQ2j0W1mHoL0gDYEj2mwdiF0ZdUoXU5whfWEulQv5MCjIGjwh5Gvr3tI4Gr-T8nZLoh_4S2rRe1BiiR00foPtNt67_ByZxMQo5YbcgU8lzsFkqwPd52d9TSRALF3KzQbcRXaYgN-a96Ymv0H-Oxv2EnzYJszS1msZzoNP808H_bMSrDHLX2R0VnJR6i_kT0DehFUstIlgCwGDxkZ11e-uuuuV9JrNajmDpZkbnSAgfwleF7dwHXsORhMihBrnOHADGPVPXPaL5fLwAM1KJf9DwfdmJyC5eyjsSmwwAGEjOAkpsWBgGIg4KDFsFMOGj3acJpre1Qg..%26pg%3DW2JUXILAUVETLDS7VT54Z47IHM%26ch%3DAQEAEAABABRXlSJWLLVwVpNiBfuLLcYMOYGp6dzU5xk.
+.netflix.com	TRUE	/	TRUE	1811084618	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRT_DL9c3NHF6sAf-Kq69GTUeCW9963JOE.%26dt%3D1779548619639
+.netflix.com	TRUE	/	FALSE	1811084637	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+20%3A33%3A57+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d96b3a4e-04dd-4dcd-89bb-dbcc8f6dc355&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

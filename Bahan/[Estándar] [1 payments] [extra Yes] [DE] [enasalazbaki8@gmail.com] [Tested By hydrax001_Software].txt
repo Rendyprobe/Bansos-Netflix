@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Timo
+– Email: enasalazbaki8@gmail.com
+– Country: DE
+– Plan: Estándar
+– Member Since: febrero de 2025
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 0259
+– Phone: +4917624619620
+– Quality: HD
+– Streams: 2
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Timo
+– User GUID: K3GQ74SQLFB2XH6LLRAQAUKEYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113371	nfvdid	BQFmAAEBEHiYsLY-NswutYGdrIZoYS9g_qc5B_Jg3B7AI6vxBNB_B1v9uf3MfXrmrjgIzsO4UaJmGoBb_OHxF2IFQEbjXtSTcjgh3PxYwfUJrEeiIV-EUY0xzGIa1Erx6SCgTIrJ7Ljo422-1vbrjpNEJM8ljnrN
+.netflix.com	TRUE	/	FALSE	1783113371	NetflixId	ct%3DBgjHlOvcAxLuA9JKTpYk2HSuDQb7mlxVseVCYme8UglFrv0yD_Nppk2u5QuAUbzM_XMaDJ_zNzGA-J_sYpS_ubrzsEZPS69vBQbSyBiCmN-b9JKVwq_pZxxvil6FRgNZrGVKd9pzJCAcRDwALCDPMxItRTkXD35QbPwrfkLziJlweKe1IEJpnb3K3kTfqBvCpacmraxHXwiaqpYlC6C-I4wMRm70Qz6zQa_WwTYc2Y2SS4hIZhT63oHQW7MjLgVd8UpIReQQ6kwCkZdFYYkO1HE3yAhBYpIxDOPitNfsKoQXv9GpYNr5LJhfXApP3XjQHqIPtS7m5sTER9VRXxgQHfVL6BC9RQFC4WVay7VwdNs-E6tNbc1tFf846sqkrbPWcg0QR8MHe_FIQMMLpthdmQqxia6z2oEcxpaeRwviL3UZo2h7lNSwfgYEWtGG9lPZl3HEJJ2w4EzMHrf_e2Hi2IjBE9_vQMSUmt7IOD63DkBIRI8i5FyWs4ECbOFa_JNQwqXIGc8MnIH7pd019SIf19yLbrUBZX0l2VGxK5M8ye3BehoVsvd5xRjKa5u8j6ofFC3KqWxyeAJ8tRy1H8Wk_KPlktS2Shg6Qkijs0-r4J61Te_KHtvk_WAIW0cAwJm4SPGfUYcFb4TivA_vxxBK5IMlQCxie3eZGAYiDgoM_ajbULjRYoVJQx_j%26ch%3DAQEAEAABABS5RnE556-2GI7KAETa-LMlWHa7XPQXo0g.%26v%3D3%26pg%3DK3GQ74SQLFB2XH6LLRAQAUKEYE
+.netflix.com	TRUE	/	FALSE	1783113371	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+17%3A11%3A17+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=343a3f9f-4d08-4921-9b6c-3941a70f5d55&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=DE%3BBY&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Leonardo
+– Email: jmedrano0507@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: noviembre de 2016
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 1119
+– Phone: +18498898176
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jomary
+– User GUID: CLOG3ICVCVHZHAXUFDWGUWUP4Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804016281	nfvdid	BQFmAAEBEBE4tfCdPMhxHoQJUV5gAVlgbBPNHjyc41creuJSE4QNvizZVA55dGIVn_R41EXj01JUhwdbHLKMdwzrVX14KVgsZJ8gIh8ysR4YhSg4BQj8-CfLN78NdsaNFexmBnaAcoCaS80zTw1zax_Xu_df81uk
+.netflix.com	TRUE	/	TRUE	1809799717	NetflixId	ct%3DBgjHlOvcAxLqA5rwuqJ-oO_3GfZk1IHH-3vd-jV-PPayOvBlKQ6S8QUqzSMctYkalUkBnEbzIrEogvESpOnxu3rgIU3CI1Mlp4AdFPkraOvUE4zJE6cGi04qjhqd4nwm2m4dcBd5pGiUadpHstFYXmHAKqYQSuztLb6dot-Jc8_OwBaAKzSPkEcgQbtB_Wdget1abMKg144V7pmtHPSPq2VIiXKbrEhgTXLdivXJAtonV1Ro4CQ4nRZcJ1bUUQhZyHZSnYSqdL3WFp7QRzW0LWwPJxbA1H-iTqgXKYCEW9_ONCTkj7mqbE4uIsOW_zbeQccL-dPEQZNsJVpwf_ck3JMLnGs1GgBPnW1-mmUvOVVWpCRf-R1ugkm-1J3w2e_e7JsbeuYETtgN0bACvpBrPNDb8CFlz4Uodavr6V0aZGqS006vOY8fnzZr0oAbVuzOIj8DOX4SM38Oo7dP9TqZ8QVDcrvGRSRSjsQ4BK3CeQNUy2MdBgqwl2O7gteI4qzZt45G1nV4muHocUhmEyG6Q27w0pk_gc1JgJzhMFoXpVnD3_AuKDKfUCqGUFMf3yGCwVirJOxgubpOfrV6C4M-Gp_mFxA_E_W1dOKGM8E6htG5vjnWo1kGhjbhYYkKorL55iYJmmQlel0RoJ_89Ql4NTgftW0YBiIOCgzKoyWfvThp2ny49xI.%26ch%3DAQEAEAABABSBWlgV-i8zyeniJy75NFscJS6JZLx8Wa0.%26v%3D3%26pg%3DCLOG3ICVCVHZHAXUFDWGUWUP4Q
+.netflix.com	TRUE	/	FALSE	1809799720	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+14%3A08%3A40+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9059410a-c57c-405d-bcd6-bbd568804e5d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

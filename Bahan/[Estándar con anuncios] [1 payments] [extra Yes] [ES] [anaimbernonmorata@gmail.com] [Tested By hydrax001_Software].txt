@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raul
+– Email: anaimbernonmorata@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2025
+– Next Billing: N/A
+– Payment: LOWI_ES_BILLED
+– Card: N/A
+– Phone: +34645880886
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mamasita
+– User GUID: BTUSOO33PVAXHHXKG53AGRK4MY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782946788	nfvdid	BQFmAAEBEFQKN6oDpDjTAa_wba0VH1dgSBCYZrdC4-BzXPRbkh_wPPCNJKjI1qE_EoS5nAZE0FKXqrGZkAlvkt4IgdB8p-AfLzCUKfH0pPUQnSCpB3PEmO2VfAscZOO8SpHpDGjp7EVw-CNUFtCSGtlJA_VF1JgI
+.netflix.com	TRUE	/	TRUE	1804115088	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AnQNYOSSyvS_ZnJfaW7yBDY1_lPdolPnN425OJb08BLItbpLGI4sPo9vShqA0MtAtHQS6NKAqL45jdlx3nihgcBDe_CMlz0O5fZsXrVD4Cjzu0yPSuEZj-5pOjgPeCwhLX5fwpfC1_XIniIsimnxVtFcqJuA_dMVeKVZ_SyF3c4NTwsjSvaFF2-7lZV3TqTrcKLDZLnib9AD1pJgFB0DTV-pfMleqGQkVIhPq2LUMnuWu6a99EAagR24WM4DGJc2u0cDvvJRBHLbVxYslhXV08_iJmCFGuPKiBv0Tz5PSncbJ5i1R8TVw6G-w3vcTbqZiW8MuazxHKGTEJJIoh_WC6xPcf07A0E0wwsjavQAWkQCMlYJNbXfbhLAi0V_T-ByHuhZ5-JshIlOTd9oXgZAI2C6Ly69LkTXPn4suugE9WrbP9fr82BIohRnOcGnYUwSYkRT8i_l1B9mLr_y-g82n124oHUnO_qUmH7bNrbHeJJLLxxT4hLlGAYiDgoMVCC8D1O_R_BvvZ3w%26pg%3DBTUSOO33PVAXHHXKG53AGRK4MY%26ch%3DAQEAEAABABR-OKKBH6DTL9v8Q7OD7_jTPlcjNyns9aE.
+.netflix.com	TRUE	/	FALSE	1804115089	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+00%3A04%3A49+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee948d84-b3eb-49bf-a7e0-e20918a3b895&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMU

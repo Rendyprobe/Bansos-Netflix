@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kaiq
+– Email: csoraiasantosdonascimento@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: outubro de 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1097
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Claudia
+– User GUID: JHATMFBTTJFTDBNAAOHIFNTSFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804982338	nfvdid	BQFmAAEBEAarBfArLd4AmD4l-SOY2iRgCk3gmm1_FheAjo59IuoPGihtIPhkJcPSqENyW8_lO3n7IVDFPJi09Rc1zz_8P-DqCHqY4delvH4JZWiXA1cOBCQSB5RxS_jY2NFO61EJtRJA3WQbkvmibD1o3ER9oVN1
+.netflix.com	TRUE	/	TRUE	1805820793	NetflixId	ct%3DBgjHlOvcAxLIA5ngdcWt76Pyfxc8p7w3r5lCw_1QVleQVLVTs9qwc8Q3h8t4Y2HudZ2jRxXZypcsH4DuT1oJC20jAiNZs4piMHuT6ZQ2vHQLczJHzwPyjaowshFDc5dbqVRk-E2mCHCU_FFCHF2OP2il9bnLPVOqnpnf7ntDoZHavhaOC57H3B5SNdPZtP2bZu_3APDcPLSEtsDEOZz1NMM7vKuWnV1YI4OT-rf9k6_AW_-N8WL0rC-Y5p1wr36Viq9z-pnu4JcleF2Z7qqf4XXyVKhPu7YHAzxsSHARXbC5hhYLBke8D_gUPEn1iYOy57FlHcwV4jC5r9ZaWftWRPohMZRDLKAjQLhSpK7f0qxm7NTPD-yX2ZV_1NFaRpAphfssgWSN_z-ObAdsalM3yl8sYeeGA6AUDIUNiltMW2GH5CRG09HGslfYkWNCkB-n-9qoum7GbgLiXJGceXFoBQknIJNsMj6PAzvEW1oym_6k-8ERiNMMswcYXiY9U6ZgchL9wocvUWTPGM2v_LEXs3YTpFqVM3jOpDlH_ttGihb4_GlmVViht9p1mfzIuF7yCYT0CzRMSCWEyhNocvUWDxr9GI_a-3TQAR7t_cTybplY4xgGIg4KDKkMmfsjyTte7HOtPA..%26ch%3DAQEAEAABABTd1gFGPlsmaBwKDS9xSUSgDCLfNiqjzEM.%26v%3D3%26pg%3DJHATMFBTTJFTDBNAAOHIFNTSFI
+.netflix.com	TRUE	/	FALSE	1805820796	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+13%3A53%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f3f2ed0-f9d4-422c-ad72-be7de98d83a0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1773446204224&geolocation=BR%3BPE

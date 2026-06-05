@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dowglas
+– Email: dowglas.silva@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: janeiro de 2025
+– Next Billing: 2026-06-05
+– Payment: CC
+– Card: 3047
+– Phone: +15085609151
+– Quality: UHD
+– Streams: 4
+– Price: USD 26,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dowglas
+– User GUID: NZT4ZEBW4BDX7FUGXHVJ2TBVHA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794805308	nfvdid	BQFmAAEBEBEis8q_JI4JgQalzH0Fgqtgw9ckhEznpftNLHpMNnszv0ik8cLA165f4wAwxN0HDvStRb0eBXEkFtQXv5rKWHvZiMxWDdRcCf6l2nZv9kvbV3AvKRdGZgH07FDQF0UWLxUBU4lDUz7UeC7WHpPhpGDX
+.netflix.com	TRUE	/	TRUE	1811021248	NetflixId	ct%3DBgjHlOvcAxLpA1JgzQtl-BeyL9N_aUtdydt02gJ0BsqFedveRlfWYhr7F720VmaN_F02XdJXWmp2bVaZI8XaFEF3m8LayhBKY8M_4WiTRyW6KegHACS2Q3_cVibDMerDQw5ITtPsB356uT9h_PHb9zlWLRXiJUFR4rulWm9aCrNTixIBqQklFLi3CvdGzR1IegkU-NyyVLYvQCNcEfyjbIWUlXc4V87jeuI9qmJyglwoOQ7h_q5QAHITDS6vCmqwwfV1fQQPDpH0LSrZ85eImnCSZJBh8SCVPuiN23Eii5xhJYlrfjRXuN8AXAAqKW98Iza4vF_im2jL39BF8o6vylpb4J2m-y6Jup73K5AjHj3MK3nBX-JU72TNiIPiOwFONkOjSbMYaK1ydhqzO8RJ5Gl_YEyOqXgC21jZaTFtW_eZqAi2JOchxyVpser4s0KvdBpC2tun4kk863Gb9G2Eqwx-fbJ-vnreXheF6xH5lzV9DQcxkJ8jjX_IzHfdGE6EQ-Nkf-KJzvHQeeS2a-NEXuv3MNl80TYr2fhOnJSelPEQ0f7sdhWLoEU9lmKd_HTYbyjyZ1vyBpNnBxO-Gt5y2BfeAybrlhhE35zAql-eZGb0mYsqtV9JRdbYftYXsPxhAC95NO8eNWnRPK2gocCIJMgJpRgGIg4KDG5s6201IHFpf6axKg..%26ch%3DAQEAEAABABR5wwcXoomJQEj1WWWPgMx4PNzlp7QP7IM.%26v%3D3%26pg%3DNZT4ZEBW4BDX7FUGXHVJ2TBVHA
+.netflix.com	TRUE	/	FALSE	1811021249	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+18%3A27%3A29+GMT-0300+(Brasilia+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6530d877-8e5d-475a-bd30-0c440c2236d2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771635507695&geolocation=BR%3BES&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811021248	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSq3guJKKiunaXpNpLNFJPPT8ioK2PhQ0M.%26dt%3D1779485250599

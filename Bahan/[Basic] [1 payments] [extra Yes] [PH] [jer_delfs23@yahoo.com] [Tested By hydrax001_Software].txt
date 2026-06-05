@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sei
+– Email: jer_delfs23@yahoo.com
+– Country: PH
+– Plan: Basic
+– Member Since: July 2023
+– Next Billing: 2026-06-08
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639166057341
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jer_delfs23
+– User GUID: GMLND4Y2X5E3BJDENKHIIHMLWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805845449	nfvdid	BQFmAAEBEOqqw2XkWyjySKbpOpSnMW1gRgqFjsB6unEYMZoOo93U3ois2_ntX3w9ZUCXmw5IyK-y2jVesJ1opwj-MobekouU14QPxyx8LtV67VfaYm8mAhRPe5VHB_fqSUxcktGdZatRCyNzDDL_fG_78m2b8G2k
+.netflix.com	TRUE	/	TRUE	1807773197	NetflixId	ct%3DBgjHlOvcAxL9AwQ6iVB_-jCT55YAJ8xha9S_7_6tGHqf2Fl8iI6OX_IrjejE-CIgrqtqH1MnfQ2_GXDrOVE_yy90R7ClWrWEc81sWzEk31v78Z2F_Il6K9c8a--tToRfoM0VH258xQTjZcqBaj3YusYg7z-Nxt0HDyX9ISJmyaM_7dS9MMy-4tVzx0lu9pLYJZNZgSrSGO5a8ugQP5AfuHhpSBfocczWri8nRBCXYcTl2YmS8g4B8SHpC9k0eNXWe-E9Qkzvqwbngh8VtPPXZrSRT4oL5DlsxCOh_NMcJIFnxvCDyOMWR8FzW9p3BSQYvXnAhdjqXV5Kkd5lT5bLW0xh_TEpLk2BGPaTxrbtOJs9RVtdZpP-ACUWMado-VXld4vint0lQduQ18z_Vn-co2ORF8O50cBqlChXnn8DcxacQ07I6BH_WPVc4WFBWOzhnO5BImzeAHwPE1UaYOA7rfvBtMpkTSBBUB2KJEwemRZsJJ-fxvvnJ6iZWB6yk81tfwPdhyxxZQEFTLG7Cu9E2-K36FLHhcS7evinxy_6I7MtUAah7UAdgIkMk5RQzKCplkV4cLy4RAiD56PFZR0IR_esFmOznLUKAkyzaLVpNZCFUWK2w9UN9tiOuesPGKM4PF1qlne_uTXAzZNNlN3xnDv-66NjUxL9JesssKGNRm2CPyO_AlByGAYiDgoM1jmOoKTtwOKtT4yB%26ch%3DAQEAEAABABRfI-Qw-gyATicHFGgd5kAhm0hQ3S-0Mk4.%26v%3D3%26pg%3DGMLND4Y2X5E3BJDENKHIIHMLWY
+.netflix.com	TRUE	/	TRUE	1807773197	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXngHJ9_nz_vM7mlj7vQeLKr9Id-KtvuY.%26dt%3D1776237196118
+.netflix.com	TRUE	/	FALSE	1807784035	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+18%3A13%3A55+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc1f3f59-fefb-4978-973c-e11cbfb6297b&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774309454247&prevHadToken=0

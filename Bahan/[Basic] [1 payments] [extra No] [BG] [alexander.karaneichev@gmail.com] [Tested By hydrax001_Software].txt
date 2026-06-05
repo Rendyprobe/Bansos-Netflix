@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: katrin
+– Email: alexander.karaneichev@gmail.com
+– Country: BG
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: N/A
+– Payment: A1_BULGARIA_BILLED
+– Card: N/A
+– Phone: +359896026462
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alexander
+– User GUID: M6OF3WZFGVDSZAPSXYTA2RHDB4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798394752	nfvdid	BQFmAAEBEJ3CJWVSMsjzAVA8H0vQlpJgGwkbmxh3G3as3BzQY-PK4CWH6pcYzatttQpKXFU-Zr0hwYJq-mxXnAO2pRfMrGwP8aCye_pq1KO9ONpod847GjcMy13Za6Q15ZUgr2AGTjUJ3JabJsBOjy_78gxI7LPM
+.netflix.com	TRUE	/	TRUE	1807719868	NetflixId	ct%3DBgjHlOvcAxKABCQGJCtHLhmt4LU0x3IdAomvSxBGpMUS8Tes48us-IN0HRZq3rAvYLB8oKwCU7vsEtBOheOKJoc031PzKuWljHeRvAgYkJF-PuN4XwaQ0AkOr9NhAaAFzZhL5fOR5NAr-Q07pT-GUKB2gSY9zK1Gd2Nkd4rqmQIeS-eomsXN7ggmjwslPrvrBNXnV01FfgQG-jxmBr7OKOSO6-hhS--eMUeV6cUDG_xeA6bUwA_NdiLB4Es8eFlT8GtlrBKj5k0a-62K0Kwh5kTfoNZrfSY7tg49nfvOisbaMXH_9u_31z9zXjy_bXmINETOD1VCv9Bf1lA4V43kpRtFMSnRx4d5w36SrO-tuv8LRpKOULUtuHsA242heJR0v9saq4lGj1xqM_-Xz7QOSnPFAvv5lIvleTyOw8MU-noYAIzYtvQ7N8Hx4bQcP5wOAcB5X0SLoNiKuZfIDJNaQetCijpEEdAC4VSPmOeRSqkHev3F3YgyGJ0WbwMsOUEfSBPWloux6piD8hdcQJFVeIEk-qD8c9iNpkfgfwrUtGKuvNANknSyQOd3h9z0dKKEOxsGpJ1M6tnnYNBGEmF5I1j9mqpIHHUNjNaJ2P6Xa7b3RVY9Te-sm79gcklB2Lnxrjf1nkLRxnGy133fTVjfbqbzG5oY0Do-ISUWyusFiU8Txr_8C6IP0N9DGAYiDgoMnpvrZuhJgi2e4Wut%26ch%3DAQEAEAABABQt12G1Udgp_Vacm5PqqXfucS48M4ye0qg.%26v%3D3%26pg%3DM6OF3WZFGVDSZAPSXYTA2RHDB4
+.netflix.com	TRUE	/	FALSE	1807719869	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+19%3A24%3A29+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa68094b-3cd4-4140-8abc-78506c9cd6eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

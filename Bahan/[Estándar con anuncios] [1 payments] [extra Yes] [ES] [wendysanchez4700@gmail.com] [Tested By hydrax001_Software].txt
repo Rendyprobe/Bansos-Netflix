@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alejandro
+– Email: wendysanchez4700@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2024
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 4216
+– Phone: +34643874042
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Wendy
+– User GUID: SSPIYUCIJBD3LNAZNNFDSGB4V4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795957892	nfvdid	BQFmAAEBEDKnsR0TGHLYadf8vFnGUrtg1sGLyZs68PMDIl6MdNApxm1Xm3xRLIoMslUomnqkFX_UMn6_0L_5DkjR6oktxD4xOgoLMp4Oh2eAgUu_ENyxOKtWsMh6UNDt1ScC1T-QBvuSl4mEEaolzVPDt0PeV1Db
+.netflix.com	TRUE	/	TRUE	1795958211	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Aj1XJUYmfWg1MyMqh0TMgnY40EiizYvty3iXCS26Zx9IGz4Gtxwy0uHpvRqv4fnqdd1KzduQ861rrq0B0UNEZg-5Ec7PM7XmylOHuRNvfwNYzMSGOajixRI1tDzgt9pNj7RuZTrm0r1nXSoDBDu22wpeTqoKPuE1KNSCDoUbSWQHuFcp4rGSQQff4-b_zp3a4vFBhqzb4gd7-c9gCCEjkrTXW9mgEHEoGd7xnZ1twR69wnr30C5VY7qYm3nzRO3zuRzebcNrIwMXsT8jP1nFPfQkdZa_lL3IgCMiCsYyrvSRPctMBhtMQCZmx0iuXOko_0s4fxCeHsE-mrMgaB54rOqlnbqt3K8C-PIr0zXbgLtcfgmrCnsuI9XF7UVBzUD4YPd6_BYpzUVLHRMESXZbjq7taikq1tMjdxzyyHlNONTg_UaU6sGuyaongkZv9_yTu1vwASSFG-UXYDifw4zTeGNOlKyWWovMhMJNfCCRfajOzLRlINL9GFxy1C4YBiIOCgxAXmEAxJjFMb8SL1Y.%26pg%3DSSPIYUCIJBD3LNAZNNFDSGB4V4%26ch%3DAQEAEAABABTZrgMPuOoPQnfwq0-r50XPmoj23s4M27c.
+.netflix.com	TRUE	/	FALSE	1795958809	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+29+2025+08%3A26%3A49+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b2fb58ff-68fd-4f3c-ad03-b9685b45ee88&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

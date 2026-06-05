@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vin
+– Email: alvinbhutia1@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: +919002850211
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vin
+– User GUID: 7FKJB6GA5BC7VEAJ7WEHC2X2VQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809742679	nfvdid	BQFmAAEBEMyDgzhPZweAJxxYlyLQtqRgS4XLKbiCnZ13CeD3qlBzdWKS9XjA4KyUCzmywzxAAeVSToicbXxaLoDfqa6sHCXFikp-AfyDLlmaiDPEOJDmAmy1SH7bx5SWoI7gCtrmhZqfgQVdzrwcndThg1H6rhcD
+.netflix.com	TRUE	/	TRUE	1810856050	NetflixId	ct%3DBgjHlOvcAxKBBKQ23gqQDgEFsKYqU_9Qj8zgFWKO5D6-feTmc-NFg6UlcTnuy4cn2ft6ePcc1tpUlGqSq7aHaG8ChkRwbFfTNhwVk7Sk1gqZt6KzIuvUjlhnXYj9DJE24RNhHRjKLpOb3t3JCoX76AlaRdId3_yXVDNJR9wkTHWDnRq1o5G7sUOHnBwoikJX92Y8buPzfSzk37uNAlUZ08cmRfeuNNDFX938MbeWYddWD1oL2bvOIDORrRfJZVChqKr89Z-YzKhVuMibob80k6_cZs0yytLg1UliL68VfayWoUFewqJSSjIT8-hxsrpaZBU3RzHisTBSwWAE0-_E96_d7OuwS77_nrtMqJ0Q0SsSPiZNflpJwt56-aUU1WxanCER0BDwpRZkckUVCIsghoMUdnxiz0Mi0FmQqPxbiZZL77SAM9OYL_gfM-6ra4rNx1liD3H7-wBlYlPSZS4nlV0LxXC6ighkxsRhav25tnqUkNRJMswIr3UT1NgHj1ZwUL2j6ZRU7LdOoZe_UwIfWH91Y3fk6WuPMg_svrmgz8M5USV3NoZsWsTxe56ndc2wQMS77xtyHG5g5pcY1vsC0LwvZqA_O3kK8cVMj1XT_7EBuRGYcUhj73n-a_9FekQfDhG__f4zXCuxz9UStjGp58ssf4z58um3IExSAMsrwyf-xxI4kjfYzFXBdRgGIg4KDIraxsGP4oZhxdL7-g..%26ch%3DAQEAEAABABSLdrahregaaISKXEDQS4zkVCT5luWuGLU.%26v%3D3%26pg%3D7FKJB6GA5BC7VEAJ7WEHC2X2VQ
+.netflix.com	TRUE	/	FALSE	1810856052	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+05%3A04%3A12+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=29583ba5-23ca-4155-8599-7e2e0ae59945&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810856050	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWtKr2NIMdj_SvD_DwNX1qLMQj_GL1xc8.%26dt%3D1779320049587

@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: vns.demi@gmail.com
 – Country: BR
 – Plan: Premium
-– Member Since: maggio 2025
+– Member Since: maio de 2025
 – Next Billing: 2026-06-11
 – Payment: CC
 – Card: 9023
 – Phone: +5516991428891
 – Quality: UHD
 – Streams: 4
-– Price: 59,90 BRL
+– Price: R$ 59,90
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Vanessa
 – User GUID: AUXKWJPSP5CXRESY2FLUGS3OLI
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAX6dE53rbD/58D8xp1lo9jtxxBLSyLJbcUZM9XB205prqROar5pd36kWKMpySqiysgkvRHCdkZwyITL5ByNASVy6UW1cclEJGl85EK+C8uNCeWMjUYlCDk+vfBMRkfGr0OFVckZrmSu4IRy4oEXtJ823up0+u+ggc+fyy6eIFMfcR5idzik5ALOVT6WcmZfrTKdfZakNpzxSVKw5OeEd7d2fj2ugYuGFKOzL13zF6WDcYDCxVOHjHu7TvIuolZ5ztdNtGAYiDgoMDQ23KmWB3X/VBL7D
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAX6dE53rbD/58D8xp1lo9jtxxBLSyLJbcUZM9XB205prqROar5pd36kWKMpySqiysgkvRHCdkZwyITL5ByNASVy6UW1cclEJGl85EK+C8uNCeWMjUYlCDk+vfBMRkfGr0OFVckZrmSu4IRy4oEXtJ823up0+u+ggc+fyy6eIFMfcR5idzik5ALOVT6WcmZfrTKdfZakNpzxSVKw5OeEd7d2fj2ugYuGFKOzL13zF6WDcYDCxVOHjHu7TvIuolZ5ztdNtGAYiDgoMDQ23KmWB3X/VBL7D
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAX6dE53rbD/58D8xp1lo9jtxxBLSyLJbcUZM9XB205prqROar5pd36kWKMpySqiysgkvRHCdkZwyITL5ByNASVy6UW1cclEJGl85EK+C8uNCeWMjUYlCDk+vfBMRkfGr0OFVckZrmSu4IRy4oEXtJ823up0+u+ggc+fyy6eIFMfcR5idzik5ALOVT6WcmZfrTKdfZakNpzxSVKw5OeEd7d2fj2ugYuGFKOzL13zF6WDcYDCxVOHjHu7TvIuolZ5ztdNtGAYiDgoMDQ23KmWB3X/VBL7D
-– Token Expiry: 2026-06-04 09:10:54
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1787500982	nfvdid	BQFmAAEBEFKeHnBeMq3in_mRF7cIpvxgtWP10Li27aj08h7W0yCcG7Ez02VDKVohvS_kQ7UsPnWfSYS39rHsmsGnALg1NLAiADAEsVTd29-DF59fOd5Kht_SvxwumoGR0p6HY0Ciw5aklmXCN2kyhC3fB0Cef-0Z

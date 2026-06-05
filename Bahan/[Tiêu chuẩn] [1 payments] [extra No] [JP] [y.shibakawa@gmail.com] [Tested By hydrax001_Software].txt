@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: YOHSUKE SHIBAKAWA
+– Email: y.shibakawa@gmail.com
+– Country: JP
+– Plan: Tiêu chuẩn
+– Member Since: tháng 12 năm 2023
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 3782
+– Phone: +817090194073
+– Quality: HD
+– Streams: 2
+– Price: 1.590 JPY
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: YOHSUKE SHIBAKAWA
+– User GUID: Q6LYTCD3PFFARBZVFY4WW35CL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBELc1TXlNNiO681m4kLEtZNlg7dDkcsBBkc3oCgqCqYOvg6gh4jEjpeWBMfRIVo5FMmwGQDUPFKhBF_By3wBMwPQF2nMcNcvEiuQ8X-2NiBRsurF2M_zh3gcQPVSq_SP_k2d09fqXr2OUQYUIGnYiecCS
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	ct%3DBgjHlOvcAxKUBA91TqKfV59lRYlA0t_nSV54TJjzC0LsTA-yiKC6YqnaKmXIQn8qVapUKnovMlkyDtokD6p0vUTAZ9XVxOPm6p3nNxHIPEb8iOz2WXqufziPxIUPU8eEXVuYghouI9bjxB2EVLYfPfOD5JOY1wqE-MfVsi6Q9NxhXa4qlyf_LNmvLe4zf7lAvwadHcAvwXLnyDcGmJv9orvnYnRkQkpDnH-1UM3oRw44zhQ6OjhM-b2Z5GuX8-t8AyGYEoWMMw9fLlBAnJCiIYAbx6aOdo25XpCJiF98DLoI4xt0OrdhpevZQlo4Z99geoA-3m-TypGgS3QGfIouBTJHnmVYveDyLF4t7-meR9Huxzns7yxxw-fVfkJ81LJ8pYxB9wQlWO-ZcTmYpKX3B462M_aZtbEYdDIttpDXyY5o3VKohtLvlr19dvAIi0y2CcFgh0JXMxZRZ6SErPgbguSoq0CLI5nFbiv7ZChX3C3Af3zwITmPwJEgUiU-oA9kVOAcwfF4Y-nnQsA-swICu_ImeC2WnG9mtEai6nXO8BHb3yTqWu3XQ3j_tWdRLxQutNYMSr5-HJExBDA64WlrwHSD2Tf4oMiOdzWnSU0IroDdWI5ATxEq7vIFAYn9oZttMZ2xerZo0Lg0yiO2_i-C7diyFyqaCamFzsho3Hc8hqpLlidDXX7-a8L24Uo77i2t3Prh4_mQyAaWvnn__1oYBiIOCgwW9gN5oNQtp5sKO7o.%26ch%3DAQEAEAABABR38qEVAEqpmdoO4Q1JLC8yVfDyQH6VFKY.%26v%3D3%26pg%3DQ6LYTCD3PFFARBZVFY4WW35CL4
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+11%3A01%3A24+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e0d9158b-4f38-4b96-91f0-98b1cff719cc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774889702183&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9LWTy-siEyKKdEwrFItDbaaJk_0wc1sY.%26dt%3D1778032883225

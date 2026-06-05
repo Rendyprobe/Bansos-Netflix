@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melvynn
+– Email: duchemincoralie14@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2025
+– Next Billing: 2026-07-04
+– Payment: BYTEL_TV
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: duchemincoralie14
+– User GUID: WFK3Y6SNRBGJXPZ5LGDSRR3LVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795438032	nfvdid	BQFmAAEBEKGONi6yXnokcY8hJYxiQ31gxQh87WrbpCW0dtJf88D9qEXJ8QrcPrWlND921IA_zpFoC0gGwqS3WGIujGya9BY-vJrW_jROvGAdUl04bGURSD8qUEmZggVyRm74ebosoE0OOWd62MYTB07KcBiebzO3
+.netflix.com	TRUE	/	TRUE	1811077150	NetflixId	ct%3DBgjHlOvcAxKBBHP-5hZrHIBzw3fZTk80Co9wzuZjqW50Gl35yMid53Tx8ii6Mf9lejXWGqWhNnXXuFCwxQKUMqUxbtolDD2x9D8n8W3o8plMT3Pm0rRimZITYQiQ8r7pH8totrJ0my5PjkGMi0mJ0R3IFTWYs4_WnJDvef1PqKbhgRbkY0F9mkK_0bQJyjBzirvef4OHTE2Y-4BfACgO1BrXktQcijxv0Qeo_qSVGJVPpJxF8SjhTiLphTVmgzIZaLGnfvmbkIeNPCQTSSVnCG6yARbMDU77SeEYwBev6hUBvrXNAdptHaSZa17l7DzjN-CZAnIC9MWg8__44r007syi4Q45RL0vHBlBm_ZyB3ivz4vUZsOorEPHqFBBxTCBdrktuLg8FqKJ_bI0FC3hqYhJEEQoWfHgTeXD5oGY2jeonjb2nnT-eYn7NUSp6MOiL_WTxS3a0U9dSdhTXfpJIaG51RrWxQTTws8r_sQQlQHbom2y2w0orD4i4mAFCQ57vDOFcyoYBOz5tbLlxrF4sNPh796JYKP63RQZxbGTNd-0sv3xSdmM_6_P8BEdUDJ9YB6UNITV14M31Z7vk7C_rhtc7pfOf11YFK1Zd24sHvHcHqrEkemG0ApbTPSo5DcsYVXf56TJs_MkwcF5uwAQLCpYygcSZGNILvcRwrEI6ZLTPU0aBNxVTQTVYBgGIg4KDCK_IKwcLJ_qd_2OCg..%26ch%3DAQEAEAABABRuNO8KEXWsZyRF-Qlc18FPuZMvVrL26vs.%26v%3D3%26pg%3DWFK3Y6SNRBGJXPZ5LGDSRR3LVU
+.netflix.com	TRUE	/	FALSE	1811077150	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+14%3A59%3A10+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9553d1e6-a083-4eaa-8eba-67bbd3499d9d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BNOR&prevHadToken=0&isDntEnabled=0

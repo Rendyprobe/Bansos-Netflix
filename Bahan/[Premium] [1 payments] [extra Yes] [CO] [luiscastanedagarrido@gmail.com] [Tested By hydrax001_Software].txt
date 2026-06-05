@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: luiscastanedagarrido@gmail.com
 – Country: CO
 – Plan: Premium
-– Member Since: septiembre de 2023
+– Member Since: September 2023
 – Next Billing: 2026-07-01
 – Payment: CC
 – Card: 8185
 – Phone: +573155429714
 – Quality: UHD
 – Streams: 4
-– Price: $ 44.900
+– Price: COP 44,900
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Luis Eduardo
 – User GUID: KP7J5E2PBBFPDFGVJHHB2ZHYE4
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAZtYirhEhOd/+9x5+vKvjdmCNiY5j+wAIY8G5qwzukNBTSoiTdu1R2WDSkzAoR6EkZthaQaH/T27EmwhHXc59GYjp+mAfZ981mKfyrS8fs7oEW8nZMypQ1r2YJjGfESWsHhGVEO0aUDi/gWQ/mniwIHSSKYHyKkD/pHVwPO0mKTD4fQGXoQKzjCc3yi3c71HyVEADWOc6VIiucba2SMGKXqbekA7lhjj6IP8X5DlKRTv5cysayiek2Yi4OLMDjWhw00OGAYiDgoM9UTed/B2yJ/9yXgE
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAZtYirhEhOd/+9x5+vKvjdmCNiY5j+wAIY8G5qwzukNBTSoiTdu1R2WDSkzAoR6EkZthaQaH/T27EmwhHXc59GYjp+mAfZ981mKfyrS8fs7oEW8nZMypQ1r2YJjGfESWsHhGVEO0aUDi/gWQ/mniwIHSSKYHyKkD/pHVwPO0mKTD4fQGXoQKzjCc3yi3c71HyVEADWOc6VIiucba2SMGKXqbekA7lhjj6IP8X5DlKRTv5cysayiek2Yi4OLMDjWhw00OGAYiDgoM9UTed/B2yJ/9yXgE
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAZtYirhEhOd/+9x5+vKvjdmCNiY5j+wAIY8G5qwzukNBTSoiTdu1R2WDSkzAoR6EkZthaQaH/T27EmwhHXc59GYjp+mAfZ981mKfyrS8fs7oEW8nZMypQ1r2YJjGfESWsHhGVEO0aUDi/gWQ/mniwIHSSKYHyKkD/pHVwPO0mKTD4fQGXoQKzjCc3yi3c71HyVEADWOc6VIiucba2SMGKXqbekA7lhjj6IP8X5DlKRTv5cysayiek2Yi4OLMDjWhw00OGAYiDgoM9UTed/B2yJ/9yXgE
-– Token Expiry: 2026-06-04 09:17:02
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1794068728	NetflixId	ct%3DBgjHlOvcAxLnA8BPuJPWekP-Z6TRQ3FI1riNf4_ADpuEevdFgDPR6CPGbqfCuSi5lGTE_QXxoeIFCKig6oWCBBLWnHbU9jnirpnSbAfplRd3X8t7O1WfkyMpmnO2vlehg_WGz9OIofMVmrTkEFIxmnb6YIMKN96hPlfQKafdBXSeRUkaAZA8dOUtEapjK8IWpsB8CGxCQ4Zp0N3i5kxAqWp6NlaPMnFJnooEnN3kXgWPhIGpXnVF6kNjscrvOvy0ODWn8sVqdHxQ3E105fC9tApxJj6RyFEvjVRRDtNt5e5olbzDwvrNMoWu4UsxvH-YOUjc2uGWpfRdyWSiVnktMWc3j9H-6-fF-tzFPYoaayrxSnIKHlt5IYCeBTYzKlMk9V2wDuqHK1bdrUJgXCXasujzeX-GKTlTysyKKtDIHqdsMleCxlAbfe1B5UGZ9GDoWayIX-r_Y2k_Zf4QdsJ-nKOnF4CyXXSB-iaje3mHwUPQwODicHw2NcoYGM50B-vpDAWXHBb6YbA8TizTQiNDitXn-CiXu0O8LeIW7HbVfSVl7DJN9bdmqMVKQY9GWRP4iHX5fCOye59VoPaK5SOZvedppCqI5lTd524iy7qzjIHBZvZFgnwmvHGDzhEgw8jcIAx_Z-UxhY_MrfkEgTKktxcYBiIOCgybnBkxuYqw85RJxc0.%26ch%3DAQEAEAABABQ52bnipPXshRuKbzLIB6_cWfUe2VJF3Ks.%26v%3D3%26pg%3DKP7J5E2PBBFPDFGVJHHB2ZHYE4

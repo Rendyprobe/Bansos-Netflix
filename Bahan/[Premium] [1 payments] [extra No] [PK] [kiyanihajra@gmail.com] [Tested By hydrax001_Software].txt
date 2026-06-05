@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maha Asad
+– Email: kiyanihajra@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 8961
+– Phone: +923215113389
+– Quality: UHD
+– Streams: 4
+– Price: PKR 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HAJRAH
+– User GUID: NA5BR5IIPBBCLHCO7HHN2GFLBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808756692	nfvdid	BQFmAAEBEBE_1bLC3F26bbUXN0tJIkpgVDPC4UeBNakrgj4ggIwQaFsPoljQnm98F4SqHDo_lw4vudlVFRQq8uhAK4YpRcDwJMGG-k2EfniCaRqpRfBfKiH6Q9b7Po7WfvnVj29aIAfpJZ2ZMVfAXENQ-VcVwNUT
+.netflix.com	TRUE	/	TRUE	1811085479	NetflixId	ct%3DBgjHlOvcAxKHBMLCcACmo5_sm81lYmrSCeedCy6msjDIQgq-Gk_AVoxkz06LD5LoH6XlfIs_zXR56LvCLvgsnLU0evtLIvrjDOydd1sia70ndfkyK1yPy7FMBrrmS3xOU2sxErN9RGpr5W95Ibdbdgo37KWdKfU-57SKVjvV9HM4W2c_1DOFVRXXx78gvS2ldFSpKk4V8SsAFPGkSxr--eui_GUuNlXNBfzwgK7ag1U32OhPCQvRR3AJOES2H7NTAkdVk02srhdMGKaeEaZkTyBdmah1-Q9LdfEOKah9g47l5XleKWpeyOPFy0el8FqN3Pbmt3Bgz0B-WF3XWkm1SxU8ISJ2_Kimmw-J0ugQYOUnvguBaGvfNbqsxySdyN2nrNJxOrnGiOS0RuQNsO74ZxpHPzqMaQxoaMrwZlYd5w_EvzHvMMkRw6SPiJkz4M3C3kVyBJR2uoRZ66GdNEUYxpIxC_nLpBrFOrjRbbzA7iYBJvrz3AcJPVTxSX6IZIL-O1_swfsfuWrxXreXxtzpyBgtMTYEYRVadVqCm4LsdKJ_MPyEWRhQICPfa1R2XH9L4nliyCUihso--wXuGH37ducq51HTTfnq289rOqL1xt2bN-VbvwSUBIdqg7o9IhFCGb-9J5gDSzBzoi1P2IlsDR53Xu3k-_7YikQ0V7g8HuZg484hOHVjR_ZAdPMZcR0xaRgGIg4KDNPUiA3NbjrOPgsFpA..%26ch%3DAQEAEAABABT61oT-uI0bVvxdY9jaK5v8UdMEAu3qXlc.%26v%3D3%26pg%3DNA5BR5IIPBBCLHCO7HHN2GFLBA
+.netflix.com	TRUE	/	FALSE	1811085477	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+20%3A17%3A57+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d323d918-ddbf-466d-8e80-91a5b0cf44ef&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777220692276&AwaitingReconsent=false

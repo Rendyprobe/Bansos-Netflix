@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: amitkpthakur
+– Email: amitkpthakur@gmail.com
+– Country: IN
+– Plan: พื้นฐาน
+– Member Since: เมษายน 2569
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: +919065886071
+– Quality: HD720p
+– Streams: 1
+– Price: INR 199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: amitkpthakur
+– User GUID: MZYUNCXPFZF2VMKDA6AAFNWSSQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807538700	nfvdid	BQFmAAEBEG7ojU7ZFYcHNYpCXRzz3JFg23EW7sHtDhrV2z8SCApwRU3NMjGm8EHBJDmxwVywsGpsl5PKurLVV8o3BJOZR2YUqnYK0gcoY53ybYPpLNyDRUWZUqgyeUhu-qNjRce8HIfTIh0BEN-Nm4QJVGRsrdav
+.netflix.com	TRUE	/	TRUE	1811694103	NetflixId	ct%3DBgjHlOvcAxKGBFi_-QhkdHtPygDcitGS4_zSBWHHyGJjYiPuIgebVbqldXeGCZ2egUFu3gkD63FjElItIFfuPvNdXUnvlclRoPtbPFEoVvkIqogMN_JVNW9uKMmVXdUDqTU_7lk_YNaFJGNG48IPy_RYoHtoOEDV7Sl_JPOrIDV8deI1QlZ1hfULMF8pCeoZS1zKjMF52YYfaKzdacDiQduV4HDazA_26PJB-574o5voyE7bM2_h7QGjD46iQHqUMcCXLPawZJMJdeG_GT4q6Kp53fOA6Y7SGgNXoSn1j_w5YiV9C1fUtCcVSjSkaSKAffoyoQe5oTmt9tq05EYcZKFTNE_kfvmsLnmu9scFKJSMX8CN78G6MFWfYANGjX2kgFaDtm-jsydBcp7qUjpyiRLKQtRoeFHPaGSaENZy0jYDPck_xfcoMtSMho7Ds3gGaHZwK3QDoEB8x9OCE7eYas0zr_lgsImICLeoZji5eRtszmUsyZiR8V-80I3K9OZbDexcJpZV937k8RJ4ECjgZKBFTJVYmbRH2jDs79SCLqkmIQQC_Asbjj74AJX50_9cKPwWYFp3HEBL9BCnNJzLcp5t6-sFucwZ0hOvAtWHkE_8MWoGV7rsaBXG5-y3JHF52_XgbdfDdmjpFBc1itwhEQSJY137pka9E9lIyXLzv4Mpdq6TghFmkpcbKr-xl1BAGAYiDgoMBpS4gc9hH2BEE2U7%26ch%3DAQEAEAABABQuQqPjc4MOurdRaKv6fKkpkg95n06vpyc.%26v%3D3%26pg%3DMZYUNCXPFZF2VMKDA6AAFNWSSQ
+.netflix.com	TRUE	/	TRUE	1811694103	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlVWV_Y1mGvBNR9yM8ge7cBijw86CC5l4.%26dt%3D1780158098949
+.netflix.com	TRUE	/	FALSE	1811694454	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+21%3A57%3A34+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=588ed376-3c01-4429-99b0-423b5e6ae36a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776002700817&AwaitingReconsent=false&isDntEnabled=0

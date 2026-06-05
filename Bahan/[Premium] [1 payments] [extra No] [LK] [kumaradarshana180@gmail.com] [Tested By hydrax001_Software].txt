@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 18+
+– Email: kumaradarshana180@gmail.com
+– Country: LK
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 3940
+– Phone: +94741978190
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Master
+– User GUID: BHJKD7KYHFCUVODII7GHWWTQCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809621704	nfvdid	BQFmAAEBELmDWcRSa4r8l4bLHBmy9Z9gMMz_-wjI6iXho24F62-NFmc3NTEHgkm8Cj04j-mA5SB-HLurBW3u_ZN4f4OsE6pdm00cMC_rrQJv5TtGPD-xCD95j6N2eT6sch5VVPtvrhrTXyTeLH2GHbNfVNcRzLVs
+.netflix.com	TRUE	/	TRUE	1810768141	NetflixId	ct%3DBgjHlOvcAxKtAxJDz4vnEVDM_RAzq4ZbFL63lL8ZtW_t42xWJA3n-ipCAzaiFhA9CcKXivNTfUFLPaCh_2YFITh3OM36xhGRxwaYY7wtoSF4158_USaV-WpEpmVn_EVHYM9b3SCfofpXYvZ9VMFaTrGpc48mJTzXX7-gG1XdY7ufrWLqxSfPZDzTmUHX8CqQidyhWmfuJKs8Ngp_Aw8vBTJraaLrv9zMKyaM2Bl4ejEF-T-zRMsAMuBiIuU05-MV_Nv2qJHE6Tw_K1r7SjEx37VkD4CpEelSN1scrTRBhsEXIaNtJSBFyK5V7J7eVratqZ1DVVSJr9pctZrTQalMtP81hdzoRaGAVzPXmN_hxW4ycgBedMXJz2LTxE1DpDPYXrub7s0hslIuue5KSIZnK8Hg9gc6vycNgCM740nB06giIrx921LHXcrJoeuKFwJ5FXGjcsBHEZD5QcugVybAbRkJdXH85mgf04tidU9VM6AwD6pL-KcOrMSy0C5wBte8S7V2SR8Zyg7Up9Q4-3R75Cm_GmsfORGrxCZtg4nN8FgQJNv1onHFiaay_9c2M07-YappRyPSohgGIg4KDL7iYHY8BgPPwDRp5g..%26ch%3DAQEAEAABABS547R9AiJGVD3h2-Nkzaiop5rjYPBUKkc.%26v%3D3%26pg%3DBHJKD7KYHFCUVODII7GHWWTQCA
+.netflix.com	TRUE	/	FALSE	1810768138	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+04%3A38%3A58+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d3ed451-c45e-4b76-bb48-cbe6d1d96e7e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775766209360&AwaitingReconsent=false&isDntEnabled=0

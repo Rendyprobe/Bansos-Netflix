@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kazuto
+– Email: balllovebam2543@gmail.com
+– Country: TH
+– Plan: Basic
+– Member Since: May 2022
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66968135962
+– Quality: HD720p
+– Streams: 1
+– Price: THB 169
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kazuto
+– User GUID: DDXCSBAYHZCFTC7VNY5P65YPJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782711589	nfvdid	BQFmAAEBEGGcvdvIAC-038_mcpreWAZgj5GKEb7EHUNb91RXU_YfMTHmiDEtCfLTTYaI59ela9sHH3jep9IHRagDpidMVM-f8yd9hqWYZRE5ft9Q-BkX_8B2BPFozXlYzjKi2RqnE251IGMd8sgXH_HMhSSLPqFe
+.netflix.com	TRUE	/	TRUE	1800175716	NetflixId	ct%3DBgjHlOvcAxLUA4UXK8nr6OJSqyTvq35IVLmSqZwXS58saYk2qpBJQ0NmwDJSTNjtS9OpEWTJoEG_6aKo4nNWyTOBMXoFbND-c0VDIEvWkA0hKrBIGoxDTKzcCpUw2x-cb2BjEgGwmCLTGhYKH95O9qIWpNm2z9OowxIhjj5irODyHw0rtRxKNUAjPo7wNMDreXeTKPFaom8V8SYF99a-TxdtKr1Ptv1HqIQYKE5H8xP0Ru_fi_9bKVvhPG9XXTjMM_javlr9lAwdmVYxzhPXbnz49uBhXFmrxnlbXzLAirWnSB00VIWKbrqavCNpeh9JteRy6iXXstOOp8VtFsgCGCnu_IA4O2v1XVevFO8_aFDuWeC6YMyYc-Vp3u2YxUxv_Lx7LNto5IKC_i04i-V-NyQ0C3O8jB823K3m8vtQmSyuf5IL8DHZOCnT87X7_b5pwORf4jrcjrSO992baJdYWoT4FPksI8_esxrio0whVdSJZcaYigphWm_W4cjR9v1BUfo9sA_Jv_dwbcmpIruZLKn4TzQo4lNDvBS4RgDLCr4PxxwvtN1Qpm4zahcURmhw9KYX1P6KWSlaSnor61AjjmBN99Ql9RCTWRlK0h1KeFUw02LhrDzgfQ4YmsKOTxgGIg4KDCacQcUwGBfjl4N3iA..%26ch%3DAQEAEAABABT_D6WK8dxJD4A6yeYEiwqv05938_gm5V0.%26v%3D3%26pg%3DDDXCSBAYHZCFTC7VNY5P65YPJA
+.netflix.com	TRUE	/	FALSE	1800175719	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+15%3A48%3A39+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f790324d-880c-4160-8264-43b4a82557d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800175716	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOgUrQNNii22Aosh9fpBbe1dDCh0Et5eU.%26dt%3D1768639716176

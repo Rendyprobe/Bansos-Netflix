@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Younes
+– Email: joananp1962@gmail.com
+– Country: ES
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 4015
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Younes
+– User GUID: UML2KR7SGRFTXB2NVS27U3VZ6E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804895700	nfvdid	BQFmAAEBEJzNo5boTh1g-3JlcBCB29FgLoMJz3qq2qnodIxzWeKLiTlmpV_ftiNTYs7mzI6LSGy59Wu2qZNVAelQc25eTWqnZ4mdRRj9wAJNYPyGf8L40zM9yBuwLS7R-VuetgD_sBm5LAoqn4pDgllyv7wnQ8kt
+.netflix.com	TRUE	/	TRUE	1804895780	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAz2IUJjcZBNT2_YgcE9TNnB_2rpiI2iLzPCrjacj3x56wy__3dZ21Ig1_5Tda8smjJZIY6I18AYjh0u--04WZZHEqn2IF4SjGJLWFuhWbw07hwY196N1OmsAgc1m8zgKgbcpihOGg7eoCAlAuRK5XuB0a0r3efnBGwKUrYO7Qd1zNS7qrhWJOZojwuJ204o3OYNlavLAoth3VfBEe4AoY-PZIP-a5_1E3LgYUtJlFIzK0NCaPh1DIA6pCJ3iEdrJ-8wagAOxl90kOLDrpdirb5wRSdTyo8HMGICqJY_XlI4BY7PCb7mmTBBUq5E-HhvAHsHmYm1RKgbqPoaVst2x3UvWX0BURyVUui069SQ2KPbPdbHSQO_N5FNQvIDRqY4X9zind0onOPkd3cZcgao0QrLYUwPyMHMmqFuuR1qTJY5sQwu_1J2kPlWsKTdXEMC2iSdOqp7KdKBWC0itQISjm7ANJ2T-xSWfVaEJPsq6DXuVDwzWtBljS8mg6FQDCKteAiSDt0RSbljIg5fZStIlvNnBB6Doula7-lAYBiIOCgzYE5AKpQeBvKdPt0s.%26pg%3DUML2KR7SGRFTXB2NVS27U3VZ6E%26ch%3DAQEAEAABABQfrYRmsQXoSaNfrNYmZuFHrY5Yea9QfxU.
+.netflix.com	TRUE	/	FALSE	1804896184	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+01%3A03%3A04+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d48b877-d6d0-459e-a725-e70c4be42445&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773348783370&geolocation=ES%3BCT&AwaitingReconsent=false

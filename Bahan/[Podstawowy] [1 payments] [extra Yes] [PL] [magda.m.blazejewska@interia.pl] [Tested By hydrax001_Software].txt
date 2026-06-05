@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JULA
+– Email: magda.m.blazejewska@interia.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: marzec 2023
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 2033
+– Phone: +48723896462
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Magdalena
+– User GUID: XO7W7Z36TREMHNJ7BTSAFYAPZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781732276	nfvdid	BQFmAAEBEA193drEo7NqtTkiAKg43_BgJy_ODrRKcgJm6KiPLgCBjj-hziMXlWL409-iicu50q03IbswA6un1FsL6Jvx3HVzNUI8pkysuu_2Lg1MU4oXsr5DnxXcGVgaq-K75RbbhxuiKbuwNQHvAadXY2J_TKdQ
+.netflix.com	TRUE	/	TRUE	1781777888	NetflixId	ct%3DBgjHlOvcAxKTA6VR6RXK5Sk5vsR7DWVLynB5LvBRpaRMWqRv_MJSMMC7wL-6QwofwXo5YZP1Wj0V3Un6nqa23VFl7n1e2NJF3_RmymmETeI5SNj6TY1FFmD5BN4wOYPT3nnVp7gcydgzYK3-xYgjhm8G2p4tz1iD0o2GzcXejbnDdjZ6SAyYwRgRWNaOZrYFCBrWJiJEpXWXW51AMZiPl8adE4H41fZjwi-QRMyru8QRnUcmXq0O6RBpKssJ6eMCezyXQJ8zqspKMiC0L2ijIZr28zdrvxq5lHO3Zmi7hcmxVy1IJjyKGE7VHe6eVVnCo_JQgbeEYLji6VTRBVaRRN2DuPwCvSH0jst5iIUfLwcS_37_yRGXbiW1aDgRMnMycraBt171W0R67fVDGDjxRdGf5p9OKwxI5aR6VlYpr2-uWUwfcCBvL7LJc8y-L375H1DRgrGCbRUtmgDpDnKH6lL54GCiwkqtL3Dd7gBVaGKf_ttDXglutxz2ZHlra2PXO14LA857h38uMkFl3MXp8LoEaLtTjUuJqmMEiSgYBiIOCgyRvQy85zeqVVVcG4w.%26ch%3DAQEAEAABABSJA_FmDruGj0JxRVkDBBBlcPhoULchLSI.%26v%3D3%26pg%3DXO7W7Z36TREMHNJ7BTSAFYAPZY
+.netflix.com	TRUE	/	TRUE	1781777888	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAOmiNNYU1-0HNldyXD6WiNsIDYrX1OJU.%26dt%3D1766225887401

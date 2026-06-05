@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MADA
+– Email: militaru_oana_tamara@yahoo.com
+– Country: RO
+– Plan: Minim
+– Member Since: mai 2023
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 9189
+– Phone: +40765145576
+– Quality: HD720p
+– Streams: 1
+– Price: 5,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oana Tamara
+– User GUID: XX2FVRCX6RFNPEPA5AF6Q2UYAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783198321	nfvdid	BQFmAAEBEIcuoDzBpSFCfokHNZjcwm9gcjrkrgow9q0xqXecqrU7PtOPQxl5VaHBp79Jmkdz1krl36y2BeEsxal8dk3BuAdCvogXqFTVhUjOUpHkq7RYnCEcu2ItQ1XA-5t9Xv6eIe_72QIHgzGTDByZVTpJpwyQ
+.netflix.com	TRUE	/	TRUE	1783198321	NetflixId	v%3D2%26ct%3DBQAOAAEBEOiJrkFc2CcpBvXoNwES0JKBwLMWq564cZfSdQ1F957u_5zj9B_uavyEAkMoNye_rXcesbXpyzVlAxmTEXIMWgoDzbzwwfv8hvaoeslNYk0Ut6j-Osjsslge0PzzHQY5JPpxZoNeHkP_HjtdDYqccPa-8n4Bm4cjL--VCwJeVJ3HZsRR5lw_45XadOU8Ai4ogOSvlVuzbBXEjFNt_gMHLnruWfQcSVjozAorcivW0K8WTR8gm7Dk7IqExze6qbZdA1WlOauIxJeLfH9cKCbn-YT4ZFyjExK4Eaa19cYtv5B-DcAt9Q1SeZ2RWf_LvNFu2e5_xFZtVEHrKcPqhfTh_qSwKXaX7qPQQMIozN7BtbmK15TfAqm1Hkoj_ZX-dCTxpgL5f7YVGBeRaJf1KnyAMpuVrnAeupD8lZAAK1D3JxSDC_bC-2p4Q_3kin19GJLfT-XO2-I25xB2FNi-mgIZjNFKBUMGdVFkzeX4SHGIobqfJ4MwjQ5aduOxtVlfd1Tuy15nxQ_7lHqIpwCFV3w9p0P2ojmRTAikoNUBxPoXRTamiMWlFIY0Vf2xs83Jtqh9ym1aQYWBFJIkOojwXjhwaiOzUciv16LhZYbsq4x7Ny_EI0g.%26bt%3Ddbl%26ch%3DAQEAEAABABRqnSM1Lc0RzdIwBkIUPv9Aw26DHk4rM6o.%26mac%3DAQEAEAABABRPW6k4q_Kipb8LRyBspUthtJF3wXOosSk.
+.netflix.com	TRUE	/	FALSE	1783198321	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+20+2023+14%3A23%3A06+GMT%2B0300+(Eastern+European+Summer+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=7d66a179-417d-4b0d-ae04-e7dcc49f7005&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false

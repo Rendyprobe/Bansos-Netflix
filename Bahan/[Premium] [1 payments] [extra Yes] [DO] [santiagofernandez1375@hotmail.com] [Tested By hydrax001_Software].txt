@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Homerly18
+– Email: santiagofernandez1375@hotmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: November 2022
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 9077
+– Phone: +18296398377
+– Quality: UHD
+– Streams: 4
+– Price: USD 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Homero
+– User GUID: V4GWGBGSOZELHPACRNLOMMSFOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799698288	nfvdid	BQFmAAEBEKdJ03jlsp_32htIOcoNpN1gxjh61F6-38hSOQ6oMpyMwcnMKXbPi53CTsbqjIVCHOroNEzdPNyFO9OG5hCVst7lp4YuM4ZrMzzP391oyriqTJl3Ah6mnN7Wg4Nei-s98iqrB4SprS8bI5GbDa8EzwnT
+.netflix.com	TRUE	/	TRUE	1800647634	NetflixId	ct%3DBgjHlOvcAxLqA0T2tkHq--2XiKnQRoxadqqLS5WzToZmbfZ3GFHVxuT7yBT0tQzVBC35Eb8_j9i8m3vry81prIlOKCSmjfR--JavzZvtZUm_w66mAo0ErF0WWs_5UM3UKLsuuyK92QM7iJwoPpfMwAtT7KwiD_Jgi5YYQ97Tk-JaFoapvXQlPF8N2HRL5EVnsmFCeo8BQG4o5pfsggGtQvogT0BN-AbRGO0_wmPSCFnQ5Kdwz1eSoVGUR9oZhdbXYtZ_06umk3eftAQG6rUkE3Cz_h0V76HwIdhBdzPO8hGUYxt1JdL19gU_CVvCrTEyY6JvxQuFpIQE1oU2-L4Rj1FVqbcxuuP7RvDv07OVo1aMv52gSg3Uvo1zkL4QAxpkzNZfzrr_0A_sELFlEj4Lal9JjaUBHCFR2Tj5AsCXnNEklfM-eMbMSEqvymve3fd_rssP8xMVc6ujXxuqAPVu4ENiOWGqsQtYXe1kmx2YwGLXdwINNnbMXFtzeaaeh_9DPKXruqBr6roZ-yjLXWDB_D9ElKv6qVZmpXgGo01hQBEIkdwwhLSjNXJYESlrOjr7b9FDaIOw5SArOzr0NPwE5I6JuT7ixMdy0gJQeFfNPEDRANmgR6guGD9Tmrvihjvvu1WPIG_OTfyt2lKscIll8UK98AsYBiIOCgxlqARGWRdsdQIN3bM.%26ch%3DAQEAEAABABT8Lat9KBCjiZCDuVuaa2Fkp7KVZi19xy8.%26v%3D3%26pg%3DV4GWGBGSOZELHPACRNLOMMSFOQ
+.netflix.com	TRUE	/	FALSE	1800647634	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+22+2026+15%3A53%3A54+GMT-0400+(Atlantic+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4ce6c5ef-a203-4a89-9631-096f917b2aab&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

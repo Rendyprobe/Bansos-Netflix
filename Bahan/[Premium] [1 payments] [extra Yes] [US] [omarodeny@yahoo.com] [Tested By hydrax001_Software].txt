@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jahmar
+– Email: omarodeny@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: December 2014
+– Next Billing: 2026-07-03
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +19177044009
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Omar
+– User GUID: EQ5OL6M25BEXTB4FVIV4MG3SY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809053287	nfvdid	BQFmAAEBEIbMTAUqSLha0FMG3Kgd3qxgneAU66jGGXcBAUt0GhFVkU2Mn1am7vSwWvBbw6kRgifDtjWvt41C5U949x6rsoRW6kF7jSuttXKpz8vJMD8JCIGVJK8RV0fpziuamfUx9azoa5Uj21Zn31hQlF6uqt0O
+.netflix.com	TRUE	/	TRUE	1809299099	NetflixId	ct%3DBgjHlOvcAxLOA6v9j7w9yUdDHcBbovE3LNkTfcWamByU6Unkpqk6gW89KnLw16iZnrYiDLVxAeVGOAAfjmblFGYcrQo9RbvNJyQHL1rjNKH5oDLRaySbKSQt0snGKiSs5SJplvE1dGzS9_cfT8UZTnCNfSTlA4TaG80RL2_syNFOmA0y-F_aStvwlHEMk1F7bhKSOJDB1D0dGpY1hOXswK9wWPV1FKSQjTVKnxI6Wh74RnB5qTEKVbZXqUssiEZFSUSWFK4y-YlJwGChoTzMgY4kEKIRK7Ben0joWVmE-1YdSkX9nxkq-oGqdApMrR0R0GgwU6e8C1EhArXnIz05ugCVXaUCAMe-ihqyrmdJtkJ9AytiUPGUZCR0sHFcYG23uZe9WTLtKq0J3uRpzu2kmvHdD8v9j9KZI2oNReAFCjJ7mMcJX9IoY9utXWeyukuFV4_MjkEURKFLpRbK53uvHFAnulR6s1YKeAA4PE9KQI-hnIjjyQgtpGWdnXmxe9Y-oO_8KZvnFCe6KxPiaF7BxYMIQtC9zsoWKszMEJ02RoNE23EptebOhShA1AQpc_8D5G1hmTvHsGIsXrxg6s_20zkKCTWt1bHba9OANu9F_uOY36bsWTULSxgGIg4KDA54goPLljYyK3r38g..%26ch%3DAQEAEAABABRkKuwWed6V6ABsgHSPXMDj05geTV_F-co.%26v%3D3%26pg%3DEQ5OL6M25BEXTB4FVIV4MG3SY4
+.netflix.com	TRUE	/	FALSE	1809299101	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+18%3A05%3A01+GMT-0500+(Colombia+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9d3cf181-79d2-4382-8def-6e0872b2311f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777428544957&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809299099	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmepMTB4ZqjRuUyXEXvYM7Se5gwOIJu0o.%26dt%3D1777763099976

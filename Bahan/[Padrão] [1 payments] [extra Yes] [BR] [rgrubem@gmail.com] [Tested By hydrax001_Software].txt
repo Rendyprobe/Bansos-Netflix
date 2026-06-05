@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rubem
+– Email: rgrubem@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: junho de 2023
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 1907
+– Phone: +5581973194557
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rubem
+– User GUID: 2M5UMVCHWJBIFBLYKJHCLKE7UM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806326108	nfvdid	BQFmAAEBEFiuvJoUMtsjXix9zDDTR0FgHO8K4oFkilAFspx4qB_-0bDu1tobi6Xx6rdQCj38uD7KaPjg601OWETxmSbGuEOylN8j8NvAv9FaXelHnDTPi3H2js1Oqe1dD6VYSGuxgClO4k3m9wMVoVgiKi7QwYFd
+.netflix.com	TRUE	/	TRUE	1808849943	NetflixId	ct%3DBgjHlOvcAxKzA0NM9czzYB9CmFzkfOKIipUsDXVpIU5J8V42hi28LK0EZRxRHwbNkxFJkonEJp0L_mnNCi5NTnWLdA8PJSH45T2FkOqUYty1sZYEGiIQknr3pG2KnDr75OYJE9Zmdq_ZB6eN2oQeOfZjULzXFDsIXbDS1ytiPK3t6axs3oQ70KgAzags6x4egiCr8-a4ZnUxkw50uO0q9RF9mYTJCrkixgZasOzCWVcTuGUMIbrGSQYeBFP3zXN3XIKf_eHGOhzbhbfPW21yPIa8Y0znxEQga4uN4gMlbANTbl4_AIH0zx_7CuYfebtU4djGB1z8GcmClM7eTpB7m3jJz0aBocMrRwkudKexw5QGdEc1p_zzjMQiYGVtvsmenom4ThYzl-3vBKQ329kgi1ud21GtCZX4rB1e3TgiL_JlhdTnMB-ojQMU-RRTsKZQbsKawCQA1XwBOZz4R9btql6sIJl7zwq83UINa6mfGelKGesk2ayJIMVwXRE_6O0Il1_Zuz5o9ID4b345lrQ_7-i8M7xDDTFOTjtonQpSQkp7xKgnZ8tls88zukRS5NnKuU1cIpEZ1vi8MdpMwBgGIg4KDKy6LIgqPKgRvPFcdw..%26ch%3DAQEAEAABABRlR6wfsRS7JVv6uRyKoJRouiU03NUj1_k.%26v%3D3%26pg%3D2M5UMVCHWJBIFBLYKJHCLKE7UM
+.netflix.com	TRUE	/	FALSE	1808854248	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+16%3A30%3A48+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d66dd809-9cb0-4576-bfa7-8ec320f2f31d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774790058696&geolocation=BR%3BPE&AwaitingReconsent=false&isDntEnabled=0

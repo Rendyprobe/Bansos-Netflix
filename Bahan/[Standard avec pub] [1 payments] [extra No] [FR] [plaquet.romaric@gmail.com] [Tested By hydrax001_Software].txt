@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Okay i pull u
+– Email: plaquet.romaric@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juin 2022
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: R & B
+– User GUID: JU46QHIUGFCGVN2LCYAYGUBUKY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13441297337549396	nfvdid	BQFmAAEBEBuiSD0wA9bsmNIXp59fCTZgo-87C_v6k06oFcdRGIy3IsUxC6ZQwjMcCd_lCQOP7K7d8gEqk8ltfTl8SzEbcD76MefOMFlqnnG_jSD_JrC3lfmtfYUX2ipHctGfo9WZ4_EIseLpq2p3N5mUjTDROe2l
+.netflix.com	TRUE	/	FALSE	13450259434868221	NetflixId	ct%3DBgjHlOvcAxKNBOmVBX31pG_vgXpr3K613uHwMJjXrUzUub2xkeJMe6SsjtMCHyXr0xm6_zmoszC7U6KkMCSgeNc3EduWWRWLIYtiseAJx0vjB4WysRmczsi2KWihgaAMwuUQOKDcqCjDY-Q90NhkhB6jbzj6I-VArRChtexcnKsKv35gUNPGWFY0PsL2JCq8FF2TyNC4MLp47nfOkpgjH9qbE2FWOC0RdpELRkqDXZVlTL-IYUNH-McHekOlWOP-mqUo-lgl7gemxtvRA7W7xkERNhzOnnMiEdnAFyt5154hgIL7MS40HFuXlvd-wIENH_q00DpZmU8j549YT_52oaZOcNHz1ug2IsD_GhdjQS-tmtYbspBXkZJNSY09vJZsIcpdhHPW0xPy3gWaMYnfHDsb29zo6armFzjp5YGadxVxXpW_LPybonF3cpHoyZ0qdiX6v9zLf-W4KwnITyoteg9v2xSAYnYNEY-t6rw39Stp3o2Q0Mh7mlCcpeSFZv5lNv4owTwyE2XUHbdEHntjQ9zFnaYOqxdIbou09f0dYLEJY0HiAevSulPzKRBfNZwgKnTd_LSJRF3wDMBEIRFaAhBnm-eaha1lfBAUXZ-XsMP77BmvlYIHTKLxoce_nF2m-s75ULJQmJEaI6Pax39o4R2e4HziGmBq9KY67Io-Gz61D7xBIwuLL15XkGdhFYNhZy8LS07W4RgGIg4KDD0zZtc-9qgrrIxbwA..%26ch%3DAQEAEAABABQeF7JB1F3yAOsKyG3IbB22VHkpd3UkAp0.%26v%3D3%26pg%3DJU46QHIUGFCGVN2LCYAYGUBUKY
+.netflix.com	TRUE	/	FALSE	13450259435000000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+08%3A10%3A35+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a95d4b82-d800-490b-8f65-748370299b8b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ

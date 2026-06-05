@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Famiglia Marchi
+– Email: ceciliamarchi1412@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: giugno 2023
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 3117
+– Phone: +393311335989
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Famiglia Marchi
+– User GUID: PYIF2IY74RAYZMSJMA6MEWJQFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBEIwNT7MTTRqkQECSblkDjbBgKWXhKZ-DYnuYsO3PPJe04-jvygJVz7VeRlBviipHG7NVX_uDzsPbkNTn63T43nl1HuIbSs8sAGnpA3-qTSSX4w377M2uuuLn66-TBrmGmy5HXlq70OfLHALK3PtHl0eg
+.netflix.com	TRUE	/	TRUE	1804621349	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA64Lxbnc8Nd8B8kFN5SkYZpeiwFHO7F8v7w2dXf3m5VaaAL_k1ta2hn5wMaRkcOZA4RBnZLISPv9YJQL7vSqmO-l-9KlNS6KS-ElfNZOg0F0JpTr_gny9KJ-JsT2_Zi5YaQ-htrwvshuAR22NIdDHfALfcqUrYaKu-2p2FDPTalSA5VMN5EsBGDGz1PBrasZ9QI7kWiemgTZAqLvDoN9EGHMRmYdsaXecfV5m6U05K4TKLMAelOuVmPyikLKF-Bz9sXMxbHRZ1JkJ3YrlDCgLpUqxL1CMtaedJ6SH_GWo6opKxPxLJKOL201lDejYRrVbF_9GKkXrqBPNkylhItM70PRcQktdlf_ahS-2bCqSzBxb3MBykU49Dp8d67xnaqw_0Je4HGSPtvh79jj9AlMiC8NwiMF3X-SNknOmQDAPgdwtQx1LOB_Q7tdRz9UkT-geRG6M4QFSleedGvAAL4NmGYgw7vDN3skDLPEbHZ8i7B7tlMbfAAVFswi4Ys0aZeqQTckaogZxHsRd9A8kagwEQtZ5uNP0kUw3BwqBTKjXq-qZiEYBiIOCgyT2zeg8QWall000_U.%26pg%3DPYIF2IY74RAYZMSJMA6MEWJQFM%26ch%3DAQEAEAABABTWoOoja6jz1_6h5pzY6l4BvC56cU4TOms.
+.netflix.com	TRUE	/	FALSE	1804621350	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+20%3A42%3A30+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c5dd90f-d428-4b77-8a3d-dd031e3eec7f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B45&AwaitingReconsent=false

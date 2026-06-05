@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Madison
+– Email: kryslachik04@gmail.com
+– Country: NZ
+– Plan: Basic
+– Member Since: June 2022
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 4978
+– Phone: +64211110193
+– Quality: HD720p
+– Streams: 1
+– Price: $17.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kaye
+– User GUID: V7V4ERUNZZBFFAV5NKSDYWEAAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1782280862	NetflixId	ct%3DBgjHlOvcAxLhAzepy-mFvkNBYniVjMT5MKy5N0Uzpcz-yVBrDW_747x53fgcOo8N2skWH2QUHUn47sS4497nzW-bqxhmNyFZD0CodOScP8MVhI_SkA-0KXFi5wMX2XJqL-77MhoB1dwjLeHn-BysqfQ_FR4a37Eoifd8FYbNq3Q78qQnb0-MPn3anLC9swrEwV_SU0lMnrvKMMZWTrBRgcnbPdHP6755mLHnTMJFXNvnXztJjaedgxcI3tKfbG0HLb_eqtnC61uNI1PO5mwkgt0PDnRedc5x0UP64_DXiPUeQJ4AuEIdews_u8M3gFmqjOlDlyOakVrkoB0kgwiCb2Uqs03FjrTlivIHOpGuB2AIQVsIphbeq5SB_W7WOXKmcn89Ton4RCooSmS9Y3E3VJDzfNwdlXLDZjXOXSkI4h8vwlFxjPcU_7R_H1MlvdK_VGA-gu5KeRj1bCHfQAL6HU1oi9yNhOZPJCw7XLjb0oqbjlFO0elfGWGm7sUuDxKFqnhmry1EC6goDNcjaF4QbNcXLPkA3VJam7mSLVQVH7gDXsbi77TaBBTxbUkRuJY-C912gLdFamDgAGDsviex2QR6Qi60NDSI0FRLAC5DWhi1vCZVVGq4SlL9gRGojo2K54s1ohT9O2M7uhAYBiIOCgwFvdzVzaQ_LVPQGeY.%26ch%3DAQEAEAABABSzBBI7cTjFzzoZGW8C11kQa0VeIiGjEj0.%26v%3D3%26pg%3DV7V4ERUNZZBFFAV5NKSDYWEAAI
+.netflix.com	TRUE	/	FALSE	1782280864	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+24+2025+18%3A01%3A04+GMT%2B1200+(New+Zealand+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58e2c980-8a33-43fc-bbcd-2165c945a7c7&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

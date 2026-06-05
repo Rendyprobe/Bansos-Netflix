@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: A
+– Email: thakurahan33@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: abril de 2025
+– Next Billing: 2026-06-09
+– Payment: UPI
+– Card: N/A
+– Phone: +918001566882
+– Quality: UHD
+– Streams: 4
+– Price: ₹ 649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: A
+– User GUID: G27GG45SEVGUZKNIJNGCS3JHT4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801161325	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA3Gurd0yxoFbmvARdp4s6LjQAqffwAkLyPsmaWZSpVgQ2BNHryk9dy75zY2O4gh3VtQxxfXsFWd-hdGna49t4BuV6zmUNSkyd19XTRmEhRgH4WGywZZ40UStFiAG8lRlpF0DuoB0cSR5swv773AKqsDK11eDJ0xayeWI0XFG7TaxTqBB44ay1gATv2xKVgSs_Kambqi7N-t0OEA12LQaXo0ewJOMoIVZFuO2freVk2gmO_b1GDC15wayFL9w5efvJSLddRNCb6ndn76N1HEjWxSgr_9sIoVxPUcdS5gDcROPQUO9n16jW37UHPCxFYSELbNzZwD4YvqaAil7e0-IrY0aOsnE6ZYWtwiHsMq0SH06K5msKU_EI416K7VhJU4Pycii9GEJOJkgTSto3r1Yd-ftjPGV5AfbvKJDklTEjFXjUORTHmbMqYuCScFndvTvYbIXGyfMflilfmA4W7nu1-c2gUwPROA15-m69q_SOUpvMCoDSKgt3vz5p1LKb7XJ8tUYBiIOCgw5QLGfCpYOK_c-vpU.%26pg%3DG27GG45SEVGUZKNIJNGCS3JHT4%26ch%3DAQEAEAABABTXt9rVmMv5NyFjA8KYZ6CL41EwGklO0j4.
+.netflix.com	TRUE	/	TRUE	1801161325	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7-qV3jp9djm37ZM_gDfxXOTfdQuTBeJc.%26dt%3D1769625325922
+.netflix.com	TRUE	/	FALSE	1801161325	nfvdid	BQFmAAEBEHmVQMXWsqf8MWuJ9yePgW9g902tEQf8A120LDYvrtDVuHo71OTktJzWKN-p3Cix3Gm4XHlov38ynZaevZkzfwIUyZ6KQ1D9c5AtutU-AjO-8ArAHosDI-iJCNWcEOOUZMZHlNlvD8Hz_Q0nnGvwUj0x
+.netflix.com	TRUE	/	FALSE	1801161363	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+00%3A06%3A03+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5e076568-da30-451c-8114-284d51cb387f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769625325723&AwaitingReconsent=false

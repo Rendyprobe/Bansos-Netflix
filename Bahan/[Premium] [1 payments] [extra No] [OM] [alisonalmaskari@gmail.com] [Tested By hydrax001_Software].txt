@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Layth
+– Email: alisonalmaskari@gmail.com
+– Country: OM
+– Plan: Premium
+– Member Since: September 2025
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 6426
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: US$15.79
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: House
+– User GUID: TRJZBK4FQNBZVJD5XBKVF3UCXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807003991	nfvdid	BQFmAAEBEH5mndO4uhhHOTV-7ZD1k6hg08WfuawEkiUou50nGy5zfpBfRamdaJEk-kbL4Nn5VOvCbhnL1NiKCvPKa1nodU1140APXrvzPAZdJJFVQuA0QX4dBSGLR2l8fZy6q3A7reXCgKiLGIYg2JHKoJSInufy
+.netflix.com	TRUE	/	TRUE	1809113861	NetflixId	ct%3DBgjHlOvcAxKDBN_BzhlTevsfnzXWMFMFSpriAoQT2k4YC2A8U769KfJjWDNusq5F6evtfnDZdlIiyQKQ8D1QHhD7wom06rO0atqryagtwIF1b5G_Emvpg8BQiYUl0ByxN5OXk8KPWuOFXDk69jREd3GCfDfJQzSMrSP48T6IDgMigf2xMJqf9kX05eDESrbPasmHeFQT2jigeIirg5hSxs-L6UU-A78wZ09GA5_9yCor5w8WPJDpEZRb8DEgeFJsgAgZdNVs91QV4RATDObVP5JNpyxDW7pko4RiaQIO8R215686M8xwjU62BtwSqvSsuJFpbYz6OfeSXQHQvGH-GFRvdpcm_Vta2UIp1IKM9mD9BHQMI_xLQRdbVb4lVAjItmwwYn8v2u-stUSb7VvOXY_a5AEEdwTpW1czKMgcAmnxcBQ-mUMNm_K6Gg9P1A7yVisP3ndC5yW5yfPskeHsiAl1V3WgiyGRVuyvmeu4eztbcslR1RI7NogjEc9Bx-PJ-9FTGmH318tgZx3NunQXYAqzFOQl80UGblq9RA2P6kgXaNpgV4Oel26n6Z7noAWsmdV-w5HQAcwnEy0WJefYYoGy5fiXX3aJ8z9ziF52GP-ykpNhA94FJu99VjSzcG0zigxo2MLWXB_BMuZy9TBaeEt1QZk7-Tvf-0tYrUTel5XVIfaA3Etg89uwvoLyGAYiDgoM_MjfTSvmLpNNoSoV%26ch%3DAQEAEAABABRSUyasRwWFxqz8wkJINcC-XMA5Is0mCDc.%26v%3D3%26pg%3DTRJZBK4FQNBZVJD5XBKVF3UCXY
+.netflix.com	TRUE	/	FALSE	1809113862	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+20%3A37%3A42+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=5b600861-0b64-4293-b097-d808e07fb60f&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=GB%3BENG&isAnonUser=1&intType=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809113861	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_qn2oHIwgWUxCO-lyJGNsONwTeJORmFs.%26dt%3D1777577860848

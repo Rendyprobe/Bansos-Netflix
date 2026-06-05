@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hannah
+– Email: bethhurd@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: July 2015
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 7197
+– Phone: +19139153488
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elizabeth
+– User GUID: XHIBTUXF75CDXANVSJB6YRMUYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784417165	nfvdid	BQFmAAEBEGrDq3BlVKZv39yNlBhmj8Rgtcg4UJAtO8ye9R5baW_Yei26owH9E08c0_mruqjnY6l-7uqmmQKN4CkzduCR8I7VdKpn8Brr57skDzmCxepL0LDQOtIkPJyEnNhq4Dl8khV1QGhJRMPagCHNPpqSIBgO
+.netflix.com	TRUE	/	FALSE	1785092666	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+26+2025+14%3A04%3A26+GMT-0500+(Central+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad3458f0-7655-4bd0-8488-59e10c8f5d7a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796691446	NetflixId	ct%3DBgjHlOvcAxLnA1kCv7cwzHzArxTLohcfbfQFWCn8pUUbHajgerERp8hikLSmJb0d7-LWo9z1AwAk7zQ2E3ku3c4RkQdDVvGlxOFe7NBf5mMfiw5xwkQfPbzV19Vv3kxedl0WWTbxgSxbVhFk3zJ0TMxR73FUSM2WSl5onwEXnHH1-BM9NWVVfrMzQ6oyGB8ugOiDjPr3a5iNmrXu7lTAKuiion9be_PR_EdaMhJHN81Sew-qiOS_GyG6kT80_fMsY74CBwG9BN48GUqbltqDIdDEYQauU7eqI_SaFLK2OqjH8peKUZhzBf8A5Z9OtqdZyv--HT_pZRUu_H8rcYkpmFmGCnFzTcCZ60bQAuOPTy-9JiET02PVhf01Gy_qQr78KK56PYilaVKHIElQ_jY9vjP0iGAlOA4i4TlNhHNaKGrW8NJjUF7FI_KHUgllN-cf6tOSSYIIJMDg-FwGOXjb02AeVWED85uqKghJq2hvKvTiZ8PPM5B8fDvHtpxgBuoiJQrn9TRb05z8jF323syM6r6cTwB9t6hyDwBB-wDdXsUBruulL8tsGm3THzaQGkbydXf2088yMSeXrauE-VSQfFFHxGJDVHu1_CbnM2583N-MKrgq9pQzUjPs9IX2UwWf1ODLsN3WzB6sUf9wWnBgMo8YBiIOCgxQFCejDsr5l2ffqOI.%26ch%3DAQEAEAABABTZK6hZ4W3pTW9sygX_x6Vg5sRknExYRdc.%26v%3D3%26pg%3DXHIBTUXF75CDXANVSJB6YRMUYU

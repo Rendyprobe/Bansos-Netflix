@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Home
+– Email: yash1978@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2024
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: +919990726486
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Home
+– User GUID: 74ZAAM7LNFG7XEQYG4W52AE424
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806503157	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AnhdR7chQnctdl9o9n5Ms833LrdeHikDe5XaQ41edVbxEIeeJ9mvd7C8EygHso9rkHhj6TTYksW9AuNyChqVXZQS7weY8mxXzQlXRujksrHNKQ_PQgoQgOKQCPVIdNiJYjDBkDTL9YUDO-huvWkwDDkNGj8aAeGswfVDG7tcHOohP1TWuvPx-8Fxh1OLpDKfGjZjhQQCzjy2sllzxGAZgnLVyM6vcTtq9owGWMNhQvjY8Fi2rrspIQlrNCKY33Uf_1u3C6SKvJqqtMVz27ly-WhgrJFCdRRpgfPgtA9NOUiktXk3VqihFfsgYWsOUs-Yp_ecI1DWrkhlLwZEWXIJmtKG1l6DsLYa_q9S--ZROxIbOAgJEvUH9g9QYNx34cJewJyLLw0DSHNL7NQZUWjNkhsbuuwnE6-V3AZCT1adwk9fVMcVfwSgg-jBIj2GRV-x-szspSHNH25lUVZ_V5p_YGu64FITN3X4AWCPboHCpJFY814FdWo6MUCYKagYBiIOCgwS4J826nHCwFLPr30.%26pg%3D74ZAAM7LNFG7XEQYG4W52AE424%26ch%3DAQEAEAABABQ0GX-aHL5xvl-cOwPM3L9v4hyi-Umz5AM.
+.netflix.com	TRUE	/	FALSE	1806503150	nfvdid	BQFmAAEBEG__J1m1Ow0ods-opEYBi3NgLzjbK_qsDLo7IUz8CEsD3vfU-uF9HjcWdvltHO6Ugaaf6nSeyv26Mn53AaLKmd9OP-N-r8H6rpPAymFVIBSCTDPh_6jVciH5Uk4w7H6gP3TAQcdomVZnGAV2E1Va7fqp
+.netflix.com	TRUE	/	FALSE	1806503161	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+19%3A56%3A01+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2fef01ee-ee1f-466e-a2ad-750c61dd8753&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false

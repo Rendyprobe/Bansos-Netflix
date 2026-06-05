@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ayush Mohapatra
+– Email: ayushmohapatra060@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-24
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ayush Mohapatra
+– User GUID: L26Q3NSYAJEIBCFPVMPD7KEBEY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811150502	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSeMltp_dhihJj1aOafJIhwbrRio18koo4.%26dt%3D1779614502452
+.netflix.com	TRUE	/	TRUE	1811150502	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKsA1X-VVrcYLMKpV-_RmoB-1Go9iaFL01oBDMMJ9p5EvEwSVhtyrJGa_uzXcHuhan-TiEqRXet6Ouu828Nf7lsRQ2qgTrYamPVJRkJ6eRkrHTRXp-8LkRYmr1TTwgUylGnF7Y8wG5kYuIJ5zFCl2tOIZiTOLVsS9fnQ7rVMBG0xA-npwjZnC3vN2mHxfHcWWxI96oRiNyT6ai8Ek7F3tEhP--Ew7FY0O9DVilRQh18TLOi0mwMNHqEgqJgcrowo2000pu5atRIrd6KTW3jtERiSGu5oKLxIj9hkAwIAfclw2n40z1NhsepEYLb7FFZU6xpqgpBvyVay1tRXDS8NtdxHj4TpL-0WsB6okfv1nv9HBDbTP6Tjf-rQuhYRfyBD9LR8GTwV0S1V3iqMQh9TMbL4CuLVaUEWfxDowQdV2hTrgryDsxQc_D73EkWPXPnj4BnNzucruskL5OUzZz0_REaiROClfMGdLSr2u2RjZ-rVEKd6fOu6zQnh0vChe0sldyVLgxiHofw2FyE3GmnBt0JMVtrmsyiZNY26f1883KLo42SHd9sC_mw8PfniENPGAYiDgoMWDYp8fzscGRjV-dD%26pg%3DL26Q3NSYAJEIBCFPVMPD7KEBEY%26ch%3DAQEAEAABABTWEIPNuDSFQQde3CkyIY-LuWTpx1CmmlA.
+.netflix.com	TRUE	/	FALSE	1811150503	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+14%3A51%3A43+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=049fd0e0-e0e3-48c4-bdfc-138a70b24e26&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779614502846&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1811150502	nfvdid	BQFmAAEBEAoA_E68hF1xFiAIrLFCu5Fg6LZONG3luqMkKwKfuQmFf_FWDJotIrFsWQ5-Cnvd2iu7QE4rdo9WGHWWWuq6niTb6Hmhdz-pr7A_z4lStpD48M5mwqLXlB04bnSxaHsOx7tKsfZUwqG8LGs1x7FnUEEH

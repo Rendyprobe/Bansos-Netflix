@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriel
+– Email: niclas.anderberg@gmail.com
+– Country: SE
+– Plan: Standard
+– Member Since: November 2023
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 9764
+– Phone: +46725838643
+– Quality: HD
+– Streams: 2
+– Price: 149 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pappa
+– User GUID: 7RL6L2PDAJCOHGPOWYPUJM7MOY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786736033	nfvdid	BQFmAAEBELTn2jktMVNy4aH-eAcNw0VgefH084RPEAiALAkf5Xg-DM_0GnJrb9ZjVMRndgSBD2OlMEG5B6vESkPRTKaKBGAIfXs6UZvWNRpIIxb7qk2FdfGZGRY7Lnq-bKkqELueATJYnAnBeetp-v-xK2Eq0eCW
+.netflix.com	TRUE	/	FALSE	1786736036	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AgyzaA_qJZ1NC0QXwBO-uVNAXb92-IsaFtmwsNlku92nQJJ1ZeY6wC5X7hAp_S4JV_t7JmEX9YwpU0s1oVEikLsSRWauMFjMCp6z6atybL4knqryLRJnK_CNsJoQqvBnCD9N4Ti8mxvi3N5MqvsqYXj-RUv1euZ72PUCMjJWZ_6E_kFThCtLfevB8syMemPt1RhcpDbO0UkejhhvDTtuLZZIzRMr0fRMcgEAr_e9JSVMYN4ERSlgrsHyluaFRNrdTp12ij6V2ngPiTyMZFQBz6K8FTP-IXnlzHy_S4BT39xhLh29CaItMoh4Vtm3eSx6ij8WHLLVX_qWlvWPKOxmXFt-TBTr5_kGxFddHaACGVGFr3511h5w-_kap0chdBpY__PGIx8IE644XlQp3H2MvjpVy3NZb3d8YVI4zjD6shsLO4WFLuEji-8gvxRXlcTEyd1gBJZROOb8AkZSgvvIvWEH_UlYAcfjTQY2P7ZP2wSbav88YlmPgjm3M9oYBiIOCgwL5V05cQ2yONR31xI.%26pg%3D7RL6L2PDAJCOHGPOWYPUJM7MOY%26ch%3DAQEAEAABABS5zzrrBFGXDfLdq3cv8_iuS9IxCuoyhNA.
+.netflix.com	TRUE	/	FALSE	1786736038	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+14+2025+21%3A33%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=524e0fb4-53f5-46e0-8c6c-684207970e93&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SE%3BE&AwaitingReconsent=false

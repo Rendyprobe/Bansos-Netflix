@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MATEUS
+– Email: angelanunes300@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: junho de 2023
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 0372
+– Phone: +5561993215224
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Angela
+– User GUID: PZYUDSFIWZCX5PYMAHXXEZDN6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798671426	nfvdid	BQFmAAEBEDt55g2hCq9h-8TeDamBtABgsz2Mm0Co4S_v-ubSHvBU5qsfN54-L4iTe-antL08hXgGO0RucXoNu-ww1sxKFf6MLXVycNWiwPFIS2w-DQMwtqOoYA_G3eXWVcW7GSGFk24T43rUpPXERY8xUwebdPmP
+.netflix.com	TRUE	/	TRUE	1808762407	NetflixId	ct%3DBgjHlOvcAxKABAiMqhwJvmjnE1VNpJvQ8QuMHlmM80T8VpZYpbzLl6UCAWAmY8HI20PgA6Djs__fytNrZkR9ixZ2l6pKzggeKvSl3FyfGLPVxo0YF84Ufv5v6Z5luO7hEJeQoeOr1lOpLdaC0b4m-TIndot0CUeierVNgT6cnZoaDkuUCst80NtGEJZ1bwhDOM0HfK0rmrhInF70-rL9tvBt9evp4OXJNT6BtJTu5JQsx9rgCJbQHxn2QR7U2ZRMRfTkWg463V4FWy8tCpR-ih-p37xlzO4SzWsUH2K1rDXzkzQ29JcA0GV5cnHFEMbU_Dg3Vli-tu7rNmBD5clp5gEQdUURXGJ7hKVoj-q-mRjlze2_Cwkofqyd738j3HwL_3JmXMWmszMsd2VggSYpE4Fa7MBbLGJwpcuhX1e8gk3NNZiDTdNO053PLm33qzllWAO_wkLd-70UtirhV_rCMpTjkxqS1R7JnR5sMaEX-_YWd44gw9OPpv6WtFR3UUmSDycXtgiNHR_qQd5tOvjW2XeIlxJcF0ccANy9tWB3qlVaAF4Xtc3Hly1kj6VhDjnuZFC0esyGzVr1GbHTvfaD0NYLrj9RMNpqIli7TRmyaPCR0ybYJqW-puoCXuAF0d0tuxESJlgJH8wo82w5U1-HTxTZpq9tqgCGVKVHWvG2H2zwcQJe_5Wg2QdeGAYiDgoMX8Loz9sU0ZTTCHSN%26ch%3DAQEAEAABABTISof5p8RFJpJDKVyOCpI3GFxTJS6bsts.%26v%3D3%26pg%3DPZYUDSFIWZCX5PYMAHXXEZDN6M
+.netflix.com	TRUE	/	FALSE	1808768342	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+16%3A39%3A02+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=100c3ff2-36e5-49b6-bece-b7acabe55203&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

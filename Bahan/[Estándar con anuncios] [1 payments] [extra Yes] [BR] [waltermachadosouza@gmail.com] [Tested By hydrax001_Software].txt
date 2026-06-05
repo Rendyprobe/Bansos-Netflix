@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: antonio
+– Email: waltermachadosouza@gmail.com
+– Country: BR
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 5400
+– Phone: +5563999449951
+– Quality: HD
+– Streams: 2
+– Price: BRL 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Walter M
+– User GUID: HXPXQED27JB23EK5X52MBMYKOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788126227	nfvdid	BQFmAAEBEMnRX2P7ESJl_nYkR_bwzstgHf4fIQ_sbHrC_E09Bxm1wg-fzEvPfl7POKQ5-SD5U99aj7-jYJ1Pf7CcbbljjzM-ePRo2tfIREtDb0nHbNogcFoaguqmBopirn-_P9XEwSoxTRZO2OWeUvPTuhLev7Xw
+.netflix.com	TRUE	/	TRUE	1790793341	NetflixId	ct%3DBgjHlOvcAxKBBLlvcHK0d-RISHKYpmQfsjv8V64I06dkLnVm2-kfSzP4J6-J7fgxnVX2Nu1ysQLNVNBZ40NDrI24AhpBjMsrLz_iX0H99I3TvLrNVmImxDJMYX2qua0ToWnHza7SOnQExRHIBYhjrqGuawM1z6odqdRNIsPw7unFXGrYwIoV4UTc7ycB3MKeT8xRJUqZ2SzNNzLE7c7p3xxiy75K969Qj4EfT4MBbRRH3MNu34MB9mn1FMy-upwMjsbrkKUNG-8EVSuBARqcHUVMoOvn43VIh8Qsv8yp-4zQTr5fr0dopGFoD7eIC2S8Yf8HPOTBe3eQf1-anQUtThuTzSAOTGx0VA-Ijj5IGOziNmWTwggRewWVja3g-_OS29yQ0EjR-wtzcSZ8BgVrAYrL0K1U2U8xDav3X4htCNHaKDDiLUhf9DdIV95DI4PrlsnzITLlna02q7oFnTuXlbdMzrMS0RnfmhDDJMOOqW_z9aLr4sBEOWojlMo3-WrvX3hdMIWk1ShG6mc3mqLyCnjJGFx6xO7FubrlZIVigrIiH-ydByMGlwNqDLWIp4qvsfEq-A5nKZFTu3f17WVlXddRlb18u1q2rc_StMQ4YT2RAcErytI-i0UJCsxVJKoEhnEGMKZhNkKVbcygefXEeYHjLmWmBTZq5xnGtofJvEhYYGtGtvnVI1-ZARgGIg4KDKd_pDhb9Fla7TO2vQ..%26ch%3DAQEAEAABABRjRFUuRbO-l-fcyTGDpmQ2PnHuD4OQ-Oo.%26v%3D3%26pg%3DHXPXQED27JB23EK5X52MBMYKOQ
+.netflix.com	TRUE	/	TRUE	1790793341	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5vH7VQhDbSHDxuhksHh1BcPsfIWLKXcE.%26dt%3D1775241364274

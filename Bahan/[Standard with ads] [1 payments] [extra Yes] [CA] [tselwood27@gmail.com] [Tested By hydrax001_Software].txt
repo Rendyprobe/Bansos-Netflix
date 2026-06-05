@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ethan
+– Email: tselwood27@gmail.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: November 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 3168
+– Phone: +15199810842
+– Quality: HD
+– Streams: 2
+– Price: CA$7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tricia
+– User GUID: FDVDHLPYDFDW7J6UDUOC7E7ERE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803567190	nfvdid	BQFmAAEBEDHDVyc0dO8eMPylZUjL5ZdgBeo0LV_4eAwbhTxy6DdR43sQrOiG_zrInS3qZsCo02jMkw_v28ZjbKUaPNpGJYCX8M0izgELG5DA_SuhGhcR80LJ0kZ1bZdiOhsYK7aZym9whRA_QdtZpFNt2uBcJJhD
+.netflix.com	TRUE	/	TRUE	1809575443	NetflixId	ct%3DBgjHlOvcAxKDBNJSlEIdOLG3AEzMmXNaOSTNvpWJBpf7TBG4MA6xQYHLuIc-fbu4tP6-ok10hToDIw04-SbZO5r3X1W_397wdIAm039t7D8WE1kiuSV2cJCs2ySFLUgxtpMUN0hDYInFkqfFc4ozCP9smevXYV5d7kSLWe5yOD0e18cn1AXkiKntkG0ztm09ImZ-ipG2XV5lZfc7Wi-ofo4YTs2PuZKDXSN92rwo2092j12BCWWQjXFCoaT0tCGpuuUmtUdS4zMPsSiZnwE1yIRZIwdZYQ5lGXutYhkUD8S_GXtal3BaysJz7FLg8W80agQcePeVbgwhWP13ZLGTER9ZrV6mkEy4ZyitYtWtKbLYIg1UUFMB_5LnldzXX2bxPOLoZMeTDR7me3OMe6IAuBH0YEZhcnPyjslazoM1qsHPZrjBoPZYzYyH-gIrL7ABt_kZb3ORzY70Fwyl_gtIsYYFkKfL3GqE8mlIZZiEWcFk6Y8txe_AdXY3EkSmubHzT_2mzUMOJGs0eHJmsDFYtLfEAv80YkpueKASgQXVJWglIWF471GJ7umYV1OqacP_JHCdtfCky1kZKredQQZzlDfLH2EWT0r7Fuzu4mLAOWITEyaFOHK9x-v7mR-8l92KURasNBr7xHXTy2zdH0suMcA70sfN5F0Dz_BJh_oIuxSG0V-88sEgoztze7nuGAYiDgoMaKamMpFVdeg-Nsos%26ch%3DAQEAEAABABQD2j1H4XW7Z5sULemZx1OKF99lJscsRJo.%26v%3D3%26pg%3DFDVDHLPYDFDW7J6UDUOC7E7ERE
+.netflix.com	TRUE	/	FALSE	1809575444	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+23%3A50%3A44+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63e9d5aa-0445-47bb-83aa-539c734dc88a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772031205568&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&prevHadToken=0&isDntEnabled=0

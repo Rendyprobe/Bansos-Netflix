@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: NUTTAKIT
+– Email: nuttakit.gunz@hotmail.com
+– Country: TH
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: 2026-06-28
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66853535079
+– Quality: HD720p
+– Streams: 1
+– Price: THB 169
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: NUTTAKIT
+– User GUID: 3QERBWM4IVDO3EPZNIUG44TY6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783665667	nfvdid	BQFmAAEBENyXgOyHXLI_B1Rr18F9RfxgUZM0irewyI94g-AWtkFX8LPOmVMrR_wbix_KZD44sjjY9dX41k79s3C1e7JJvYy9_7i7B68XOuc3_SxV6gRQRSDCOX73lIMYiecI8WJ0dWgd9JlMj4deJVL-iFbsDgnk
+.netflix.com	TRUE	/	FALSE	1804218864	NetflixId	ct%3DBgjHlOvcAxLyA7PM3gF87E9SPrDm5Jbzf-ivNVtERU7Yw2eslphT-cbqXDAIdKV_hau9D97pYz-_0Es7lmyzsNzahb38AEf25QTG5AvX1ZqgQWRYWPT-MkxFHYDAV1GYbGNRR11FLVWaz3Rhb777BsnmvcXDz_UywNPM6pCX_LPqM9hyUeuj8h5t5PuUKGYjWmvMSyyXZ42JFtprSO4s1RZejMQajTV_D83kQOe_G77HFIuPVjvnjdpWFaJiC-17Zhv4-cUaJIXTAeGOvrEJ3yh8A6y-urhgaVnjdu8QSblwJzG-m_nwRVvIJjAiECC_0G4jZFczxUE5FyKwGZgWJ3QP7NdZGFvUC06XmYqNHQHLFoJIgvWG6AE6laAltcmlcKJmq4wC5EpsNOhaP0SdxPPVWOZ-a4TxhVoZQEoGTz4ueaA9G4BdCYlKMeqlw2Pt2_HRjRWyzUbcRXRBik3KA1TKE2paxv1dsPOG1Gcln_1QG9Xn9ALEjd27ngqaPhwTB6gdWFN4ZSZpZfbYqn0WM2fDm1DRAH-6I1KsuqpARMRdA3VSWIi5yzYVjiBV-ZlYfecRyRupURrbDMKt5JGMsFTXLhBelee-d_rYVKIoNDf0BjGhUX3Q8rQSpcwW4phUSgYFzYsOECc38IbLrPPZ3ohE4dqYjSXGlnYlyRgGIg4KDAM-T9K08pERLIYFsQ..%26ch%3DAQEAEAABABS2OhS1sZfCcQaPvgHbPKVVGpXkmY-2Kt0.%26v%3D3%26pg%3D3QERBWM4IVDO3EPZNIUG44TY6M
+.netflix.com	TRUE	/	FALSE	1804218864	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+10%3A54%3A24+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=46d7fc49-df88-4bde-9db7-db30b32957dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

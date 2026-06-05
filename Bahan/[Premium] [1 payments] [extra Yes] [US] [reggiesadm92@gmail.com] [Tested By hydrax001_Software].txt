@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: BLJIGLBJURFIZEV3P75KVJYAIY
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAYHjgc5Fg0fH1RPfqKndDQMRDDVfezPPKPzlDaiMm2Rwqv+hqARm9cga4pzuY0fj2Ud2OghaWDzi7c++mNFzNClWVhXRZCgCBM2ZnE6L0mBcxpwTXrAkgEwnsA6FIseV3m0pIU92TyHj6pkIipmmj1K1kS4JXVAVfXii/NH/MO8dX/+ugY6e/b1n0QsIsB9B767WtTKlH7gv1L0hu+IwsyNj5Sev4EhHKirieM2ev2wCIEDGp5jXRel+JEw01FLJB3RCGAYiDgoMY1r9wDcN5QArDbCY
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYHjgc5Fg0fH1RPfqKndDQMRDDVfezPPKPzlDaiMm2Rwqv+hqARm9cga4pzuY0fj2Ud2OghaWDzi7c++mNFzNClWVhXRZCgCBM2ZnE6L0mBcxpwTXrAkgEwnsA6FIseV3m0pIU92TyHj6pkIipmmj1K1kS4JXVAVfXii/NH/MO8dX/+ugY6e/b1n0QsIsB9B767WtTKlH7gv1L0hu+IwsyNj5Sev4EhHKirieM2ev2wCIEDGp5jXRel+JEw01FLJB3RCGAYiDgoMY1r9wDcN5QArDbCY
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAYHjgc5Fg0fH1RPfqKndDQMRDDVfezPPKPzlDaiMm2Rwqv+hqARm9cga4pzuY0fj2Ud2OghaWDzi7c++mNFzNClWVhXRZCgCBM2ZnE6L0mBcxpwTXrAkgEwnsA6FIseV3m0pIU92TyHj6pkIipmmj1K1kS4JXVAVfXii/NH/MO8dX/+ugY6e/b1n0QsIsB9B767WtTKlH7gv1L0hu+IwsyNj5Sev4EhHKirieM2ev2wCIEDGp5jXRel+JEw01FLJB3RCGAYiDgoMY1r9wDcN5QArDbCY
-– Token Expiry: 2026-06-04 09:22:35
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBENkVb7g8gSIvvq1VHlh3s8hg-v0DKm527O6svi2I4aZZyUL4aLF1oNgdLt_B5ypqzIJI9fcYAP_gj34XVc5oUbdaRd2uCDIwKy47P9dtgBVHrlkY5aVdsD2yl15ofvGtikSgdb3i7Q28JkXtNFi2bOyF
 .netflix.com	TRUE	/	FALSE	1783113361	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+23%3A58%3A13+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db81221c-89da-449d-97e8-75dba8b84c19&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

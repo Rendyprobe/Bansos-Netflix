@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Papa account
+– Email: katja.hendrich@gmx.de
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: Oktober 2019
+– Next Billing: N/A
+– Payment: DT_GERMANY_BILLED
+– Card: N/A
+– Phone: +4915172895543
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katja
+– User GUID: NJFUTKZ7UZAVHPOGZXBW5IRRUU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808314464	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA6_irPPu8_Y_T8YB0v2JBwVLi4VexWdpwr10lfuzu0kSabLbFIXf5N7cJggE19oxgLaTAYcWhA_R0gWtgPbKSK3sQ5sRGGpJWFXsvHXGKPONAhzJMpfVEw91C0rikp8Tptdbkn2c-NQ4IEdw6PXcFNz0wSRvpyx2Oc8c3fZjEtoBwxixd9p3QVoo6cv6Lsdg2vXVVEsxojRxfIVMw0lRE3mJ7ttxWFaE5dD7PkXm82M6ntA54xxB6YkMe_JWMEm1fZxsLYfTMCelajFtxmYS9Kd80vUOqtrS8-gvma3nIbYLT1KZNRKF7SHpxi3X_4I-2y0wkDKiA-PH1Tkst76vnyIlUIpN5muztqjGpRpohvCZRsSdeLiiLCXIerdKoxNlAkA1F2RJjw4mE-ZoE4R2aRuxVqf_VwZUkqvYeYGlQZ5y3jC9LYo9bf2fpWxVk70KvKeDVhVI_dySJ5ev5hXzzYIjc5GZd1acvQHwKeL4-AmFqb2ADuakPEOG1tgfprcOHZ7iVwWgUvWUKHUjyhPsyyLvfrQp_hjXubIyOggfn-yXcgMYBiIOCgzwXvuQGVz3SIMGTRM.%26pg%3DNJFUTKZ7UZAVHPOGZXBW5IRRUU%26ch%3DAQEAEAABABRBTQEBx-t36qZuZVvjapy30WYlBzj2Suw.
+.netflix.com	TRUE	/	FALSE	1808314466	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+15%3A34%3A26+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c7c6c30-97be-43a1-802a-e46c25a949e8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776778369829&geolocation=DE%3BNI
+.netflix.com	TRUE	/	FALSE	1808314453	nfvdid	BQFmAAEBEI1bh1QJ8qEGDKrZ9bbe7RVgEipSiQOlf78e13w8iKgFvb-QOh8UrmVVHmObW3Q8Gr57AeMJ63rmkZ1Gu-Sf5JBoeorqdkXEVjFoGQ8raxHQiK1X2heGaD6VVVz5YF0V85Q4uhbtJK9UI9y4kvMV6Cxw

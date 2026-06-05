@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: abhineetsinghdezire001
+– Email: abhineetsinghdezire001@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2024
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: abhineetsinghdezire001
+– User GUID: OWZYS7MYABE37L3WXRDT55MZCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789219904	nfvdid	BQFmAAEBEK0HAZYbdu5-g26SjSI9ILhgxU2YJa5_WxOTQtxd6QSKXEtCl_761X4C19o-iptEQnyAyGcBliIZTz8Svf7pBzshRXI2U2gQTMp7S9RuhJDcitsX1ZZQZQ5JAuXxfVxeK82GrrLICFs0CnlBGuERrFBs
+.netflix.com	TRUE	/	TRUE	1799493771	NetflixId	ct%3DBgjHlOvcAxKeA8A6wYbYPI4l5yL7-QAznG0nJGpB05TU70cCU_IHOAQVNdyB_FxUIFAOrRpURgpHdx1hyA0LRg1fX3AFEuGCw-O6jEB_5M5RhUOLwmf3xRwQXef3QUf0bpC3g0NcKSSm4cAq4-rXyL6zHHcEEeTlXt6w4K3510uVhCtvf6vpMq-rgbqDXfgHDCP3I94UbyE1LK3jIt7qDdwLKEVhfHVDpLXvxjOK9J7SaG9omn1kv-ZN1A0_LPOWmuHgnPzbm_rqQEU3E4WvZPWONT_M-nsG9yhu8QTbHpLKl9vLb_cXNNDqw8eGlNShinrTqg8QNHnegGbaHcUOQ_0FTI9xeqe1Pg8MOdqNTAp08urgEyqd5oppZ3c-3f5XgSPUVlERot3OO84SXteGKozISgMyW3LS0DrdqprujsqWQiOd0GIOf_GKDZ3g9k2lw-QGyngU00Ed_RI29tSm2KCthKBeq_ao0eVh5dOHoYDmK2yg9eJ11ABn4lGM4wpS00V0nNxYbpXvi9FDC0MwkAHXOqkvROyrbQv0UxogbJUF1oSlQ-85KhgGIg4KDO-RzK2LAjH84J3ipw..%26ch%3DAQEAEAABABQ-mau_pn8bZlYK3p39pSnXhyRnEEvcbQk.%26v%3D3%26pg%3DOWZYS7MYABE37L3WXRDT55MZCY
+.netflix.com	TRUE	/	TRUE	1799493771	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQi9oQ0EvDje6H7aF14gbQS0aER8xU9VZo.%26dt%3D1767957771043
+.netflix.com	TRUE	/	FALSE	1799496001	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+17%3A45%3A01+GMT%2B0545+(Nepal+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a5b3683-78ba-425e-a4b6-4c149fa85ee5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

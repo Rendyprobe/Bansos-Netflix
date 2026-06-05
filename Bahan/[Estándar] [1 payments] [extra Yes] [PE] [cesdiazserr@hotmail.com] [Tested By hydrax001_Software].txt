@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Franz
+– Email: cesdiazserr@hotmail.com
+– Country: PE
+– Plan: Estándar
+– Member Since: enero de 2024
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 5037
+– Phone: +51955555948
+– Quality: HD
+– Streams: 2
+– Price: S/ 40.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: César Bonsai Bonsai
+– User GUID: YWMMIXRXDRHGZPYFDHIERFZMLQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796787575	nfvdid	BQFmAAEBEBt3ZBIxQdQ4sa_vq4ku3U9g1VFNGnYRafp1qsPhe_p0h4Uhki3DasIMK593skl0lDJ1ZWo5SVAjta9fq3GKsiNOnvr7FmPbs8qDAGjPGUgcA9ug_h3NPSDQSkc8o8X2_eQ98pC1qpWBUxCBaQ71E2w_
+.netflix.com	TRUE	/	TRUE	1809182794	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRi_YyojaXJ_Jhyh8MaDthfsn0Zq5z89CE.%26dt%3D1777646798102
+.netflix.com	TRUE	/	TRUE	1809182794	NetflixId	ct%3DBgjHlOvcAxKDBM-KsEY7qDau21M9ylvUBPQBZEjhICi6d0jt82MPeM3IhB-KIjzep35tA4gOas6hnUvsNFN2GgDa1H_idOCMhdMaX-SRg8Cjdxu8V8jQanWv83a6CzFjlUA13R-U3jQyco8wyJFTK-ZiLmSuf0BLIvgA_9TtPC7koJPSRDE2gtYfZmnFkyfx1MwJXTaoswk5VljHCJkCb_IhGs_XK9OELhuFV14VZy0H37Ec4Aj3s-niJS7FGLPvEhhTXerT-4FZde9XK0jvLm_rCUM-4Ios48yJe8PQzfVx44_YNes_O23v95Z-sdJ5rw2e2IQZ1smyTxqtcA4hR8SVwljDXrd8jz-ncf-ShyEvhcCtDVPz3ubhp6vvtOkmwGAMfjv_-F-FQ8TsjbQPUaeyMBnFyc9ctdenXqQRCLIPm4a9cyXF_-x2EzP2Hgz_YP4rZjXRIbX0ZsMFEBqEz8lvnr_dIqKHKjUSge2Qyi1ElQu2SVMbK--diiqU4Z2sLvCPUz6LTbe-0tSNuxmDl9vSMxVMLdeZOL4ttYJ1fPUAOsff_Z8nBnmKSbEez6QmLGLPzGIQ5lRlWVQkmQa5Ep17RrBj79FBY6cQftET6MdoKQkseQR9-zZnHrt8evD_0a6uc6U1AmIxmzPcqHyV1hmSmW88ntDFODSbLEDmQVi_5OOGzSvLQ38qd0BJGAYiDgoMVfceTtlRtKaizPNg%26ch%3DAQEAEAABABQPDNMWCXI4-2d30Qt7jve1YyIR3EQr_tw.%26v%3D3%26pg%3DYWMMIXRXDRHGZPYFDHIERFZMLQ
+.netflix.com	TRUE	/	FALSE	1809215738	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+18%3A55%3A38+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b680b657-8363-4120-ba2f-2208c797cda1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

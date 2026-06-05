@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tudor
+– Email: cristina.bulimac@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: octobre 2020
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cristina
+– User GUID: BO5S5IDWRBF6RBQO5CBXE4S2RI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803295819	nfvdid	BQFmAAEBEDnhOMijW2UPcyhlz9kSXotgtrLrcVPfiK38AgV1Q4Wf-dQ2wTaVpsCs6mHobDZz8_emkEJ8NO7NfPK0tjp88Ak6K5fsl6wA9SEvfzJaRfXurMonSnZ1NdZQ2FEf95-K5XSYvZ_H5HlPucOzMWP5nHQQ
+.netflix.com	TRUE	/	TRUE	1809606423	NetflixId	ct%3DBgjHlOvcAxKFBIJWSEbWGHU6VFnNRYY7Sv5yzFvevaAGJEWx1maafnl16FUgpQh3b-lbcyI7T7PwkQezquXJ956SnR_4naZOGu6g9NsOigeOEaD1pPrjVTW9X7ye1KmaTGP_6aGDnB_NOD3I0Ynt8YjkVqw-blegayky3eZ2C3Ss4SwFGRAlkx_eOxKUJI0eRZOXovJzrMpwFr9MjdUIlPN3Fgcb99wTHCi3qTSzioVBeD3_YIEjQ4kKpEEWM65DMjWW4r0w3U5FT478i_xEk6czvUdulRYFaE2OUT21fztfodcI3-egWqAcvm6-6okkDHiLuVceXqp4tuvkGQJ0YNaMuZvLtF2YBp2boOWK4Av52mU989vzoANFxDBDUM-WbT6WKfjEitbqyqMf2fwLA2o3yEwX8XylEkm1_zjIlSzjH4t07pMNic7yzT17eiC_ARtln3V1wJaHQsCORowifBnWCSZUxsmj9gziCJb9oAAkSg8P9DyfflBDD1hK2s7o3EmM3D4vI6xhXBd7zA5BEiT2QEkIfNLW6caWvaRZnH5w8bdQ6kmATkCiRBZIBvBWuaoHw5VPZUceU6z-ifDekiLj4sd-eP15P84c0xpF4WKxauwJlaFT1hRgcOADMpAWhcZtV8s4-HxwCpQ-eZ1l3A34bYAZguH29b6JtAd6lZf2136VNVksf1xJc3wm56cYBiIOCgw9UD5Q7BrZYyutJfc.%26ch%3DAQEAEAABABS82KTJjeRoUGkilGfuWoVaYfCeDaV1oo0.%26v%3D3%26pg%3DBO5S5IDWRBF6RBQO5CBXE4S2RI
+.netflix.com	TRUE	/	FALSE	1809608855	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+15%3A07%3A35+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5e0ca9b7-4066-45e9-9b04-7e981b5891aa&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1769372130169&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0

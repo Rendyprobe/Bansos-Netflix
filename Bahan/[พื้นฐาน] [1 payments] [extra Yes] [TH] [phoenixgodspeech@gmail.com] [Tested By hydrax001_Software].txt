@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pam88999
+– Email: phoenixgodspeech@gmail.com
+– Country: TH
+– Plan: พื้นฐาน
+– Member Since: กุมภาพันธ์ 2568
+– Next Billing: 2026-06-06
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66886896548
+– Quality: HD720p
+– Streams: 1
+– Price: 169 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: phoenixgodspeech
+– User GUID: 464RBJ6COBFIXFNZFNZVI2KPOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797995510	nfvdid	BQFmAAEBEEQSFog8mS97GntAho4xk6NgoCCIAwZioAmsvIEFHJYKs4lCVgsPIsiAQtqkWTvDqeve7L99riVLZgB28503Be1_eaSgG2tK0SqmUknBD1TNg2zQoOGu_yhNhPN-BYFB8TX9tL3rgTdER8R1S4cftKmH
+.netflix.com	TRUE	/	TRUE	1809148305	NetflixId	ct%3DBgjHlOvcAxLMA1kY6jVlf_CkNFEg4CR0dpU1KutXipEcBMEtkX5yN94YdPTKgXd3atX3BpvB7uSnTvVoEhhYol2YMSGLTeKQDyWFyDptDEYCWM0A-0BNpm7uVk6ut6LNBXBqaChFYe0EfmAPYe9qNsjuWlnnDQvRO4DhRheifmJacYoEMRxRJj4yLpf6hx-MAx7-wTKhYX5WfqIpJubuv4od1T5VOPtO-AYFPrkc2-Kor2xQIsHQpq_3W7dF_Efhd1eNgUQAILVR7jbFxlFJ33h4SLuN12JckylcGB7J6tMpZ2SSH0LdVBH3lDXnp-rO6nJewis7pP5iRv6rbhiRFi5tIttN2USWDNfEn-mfCYZ-QfvkSM6YWqg8ULMmXZQ8yLXe5UohxcE1DiZ9aXdM7nly6KA7ZZsWbkNRxT8YAH3U8O0JejDIeoaeHR8U4oVpwdFVBCYtmGbuecHTu59mSRNtRVTvCVRJUxxWykLXDATJi7N2b4XumlUkttvzwmCWqoQ-mXvwWgoj17js6eduPeBE53aiSmRrNggYUp3Am4mYOOGvJ1ihy6qUKuYjDHBdB183SBwoQbuM00_x1LHfHPOzPgZg21Nzdy_kgkomqpDCo1gnsZ0YBiIOCgxtVs8w3pG9pmNZ6L8.%26ch%3DAQEAEAABABTi1QWnghlfRPB4quMeTflq8GSvbSKCxeM.%26v%3D3%26pg%3D464RBJ6COBFIXFNZFNZVI2KPOE
+.netflix.com	TRUE	/	FALSE	1809148307	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+12%3A11%3A47+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e549dcc8-c2af-4b4a-93c0-03ea4d06882e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809148305	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZOIOqqgNmJbeV3cfIulw5Gc4JsezmVSY.%26dt%3D1777612298316

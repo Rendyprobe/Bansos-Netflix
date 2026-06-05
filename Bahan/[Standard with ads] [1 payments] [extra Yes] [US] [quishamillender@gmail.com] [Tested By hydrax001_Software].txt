@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jeremiah
+– Email: quishamillender@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: February 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 4746
+– Phone: +14805471260
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jaquisha
+– User GUID: YSJI2FMC2RDFTNK5F2J5JGYVPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798476370	nfvdid	BQFmAAEBEGY8xo-6Krb0ZffqM_EoWQxg4sT7lJYcZ6hMhoG4dLD2tRkWbOHOxvE6xa10J1G7OGQQi9zjIXGcbTF3mZoXsRqdbqGsICtJUzBJCGaWtvBLT7lgOMx2PEQ2nwnIRmLgIuLJmin1OYIER_Kk7f_tMMv2
+.netflix.com	TRUE	/	TRUE	1798476435	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AvK0uZQ7yXER-Bp5AfrZez3j4Viz3WXpcuVPoBv4j2i9zRcMNSFTWv9duE9-mL4ZeG8qag-VU48pGUw2Flrz33A_8ocGXFN9oAK8F-Z6ZZGKi_thwAq_6HLxmv4zM2pKT3Gj9up7HXfo3O-owD0wtssi3JLQZzVrXAN2JcnCwUUE51AVzm64zIGvbhifU3G3d_J8XloZzBE8uD3M8RyFGNc0rnHsb4RTCtlDIJ7mDEsDdDTsQQQIFfzP8PXE_vNTCp5Ec2k4bWA2FdiwNzKtRsK-14wZJ0lpvQL_wUm0LUfM-q5JPqH3BhqyMr_yvulP-Ffli80_84p4glz7H9MCPajrT2VWcXlNlZES60dL7S341SP4hfvhCgQcCEssIXnmHI6NoOQZbRw0uDQ5ybbEGse1699yrkkvlthg1o0oQgYAkDx0Qz2LPA8RvBrpx3dkTgq5rJ0eWpb39k7073jrN4RiQ0aeN54GJwaorHLBgs3HNq6Av3wGbhw-riV8Y2GDGAYiDgoMnvK-o_Rd3BnwXBxV%26pg%3DYSJI2FMC2RDFTNK5F2J5JGYVPQ%26ch%3DAQEAEAABABS0z1UserT0c-QhwUqHpbAzBei9zbCNIjY.
+.netflix.com	TRUE	/	FALSE	1798478202	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+28+2025+10%3A16%3A42+GMT-0700+(Mountain+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a66027a6-28f5-41e6-a3eb-8837cc3f9568&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

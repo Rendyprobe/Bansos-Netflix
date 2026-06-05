@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: malik
+– Email: mchlndsly@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: September 2010
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 0125
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: michael
+– User GUID: JOVAEYQGG5GXNI2GEIWM6DSHCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793678030	nfvdid	BQFmAAEBEFfnTo3Fwix99da1RUSr24dg15w7lHxmK0vLoDVVJXk2PvbmJzwFwVE3ju9_CFXBoIfMUSkX_JZDDZnwOdxs9_yRxcnazFMmWH5CfQktbnnoBAfUvQqPLe3Ta91B1MPP6jT-Kz-qHIGBbkax107ko03L
+.netflix.com	TRUE	/	FALSE	1806633934	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+22%3A45%3A34+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c32c2f5e-95eb-4532-a11a-db661578eee7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806679581	NetflixId	ct%3DBgjHlOvcAxL1A-Gj438eKUWIIAnPUxXJavtuMyLJHRTQgrZUz4RwddZrK5lQMmP7uFjUbfsyjNX2Oslqg0H191Qk8leI3-kv2dL9AQTfXk9J2SYLWYzq33ZSdoaj-G9hVGi2ixblphEKTl51xt_CDRV7_gUIqEdS9B8wD3-Giu8dPH5JFBnnjORnMAz_fxzqv_XmaCbk1uMx-kWmF5EXhnXx1IJStt_ruvVNJ3fp9qa1BcGT5Sg4ub06_FsP2eutFhegQLMQeZRMzD9ZddM2vC1CIexQJeQOyYZMX7TrMqLm2_jRezZJH7qq2amNM2tXjlZcYd44CkxkiDUq6NeNewuvWWR7-AvT-0C94MBFRbfwl25bM5_6K2XMEPjdjmmKFVJRbV92U6RYsuh0foO7uPZoG_HYEKasolAcW4XVkebzsK-JokVDy6DQD6Fnijhz1Gbjas13G2fNUy4_I39gGBMLjUXlJOlhzdMZIHJuZrfFiIpmf6IZt09TaEUe-yJNwHv4Tl0kdluDbqIicBXyKiSD1JowCiwaayRgsa4Wji1b-k7UUy9MsYyc5vG8OOVUrxsIgBPvjKB8T0jdy_uAdpgRjiWk6IbTOsDYYBriii9KVAcX__bhg1MIJmxveWStg0C3j9nJQRRZvpo0FZtmGf4cQN9ZaKehPNRPAAoEdxgGIg4KDF-r4p4xm6KWSzrQuA..%26ch%3DAQEAEAABABQvW9xDZlIkMMibCm1HmQ-F3Obezxc3j7g.%26v%3D3%26pg%3DJOVAEYQGG5GXNI2GEIWM6DSHCE

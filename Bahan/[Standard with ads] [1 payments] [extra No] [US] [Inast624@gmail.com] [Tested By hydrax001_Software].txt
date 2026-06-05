@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: My Besties
+– Email: Inast624@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2025
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: +12017806073
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Inast624
+– User GUID: X3Q2SE3Z3RE2TA35DTYL4HEOUA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801165321	nfvdid	BQFmAAEBEK_kJ3Qrr26Z7Tz4DLKsA5pgoHdk26yiNyAReo6Kdp6FS5aZc27xISmgaXtRIuzfdhMh_0kUFUB4zmXYCwDmEMbGnT8eLRBkrgYr7No0r6fSSte_36IXXDqygDonke03-IbMjfGyxtH0J7T6gSII4aPY
+.netflix.com	TRUE	/	TRUE	1809886818	NetflixId	ct%3DBgjHlOvcAxK4A-E_h3lucM4h9kryniBZU5CDuMoJgKqGqBPlfiIHmGgV4BaI4dK81znNoLWf_l9x5gB6fnKTKFW_mO8N7Lcg3fFELNY2hAHrT6SBa8_P-UiXPKaXTHhNwbZpT5NbYsatFK3KCUeVsGpPHa9_wVbTzfLZVuny-Lq6oAHw7pwexm4YjAne5ueZcVie3PepWNdi-KroRXENYoxjrzzlQnkevYH4VST6fIOHm8MC_qIRDPlFD___99e7aRoruhhMkQtgha01RveuZ5bAyqnqArx_ocUqIQSK80IcEO6es5OMWghG5uzjR-nACwevQLRPZYmOWsJXgnGz6h499er6_DGLWC5cl8a0wNz7c2mXhX8wqPDl4TwUdNWOFbc3lKxMxZVHdOm47zbRmgi3YSRfQSvGxJ1fyXjH2EGGh-63SkT3H4IsleNlDqzyhLfzrs7BTKTYIomOMhhub74KYITUYB4w-Ov4YJ_cyI-rnQ6NP3wNfNIbCbQpRSM129Ki5Tg_bav6mCKVKmRBVufT67uR13HRL6O4DLlkJhSzpu7l92Wb8PazWCC0S9TkxJwBJefFnO4kxTdk3qV9VPSyGAYiDgoMenoRyENf9m7CwbVA%26ch%3DAQEAEAABABS4eKXULs9i6zEzfQj3gYp6X5CHE8XPE5U.%26v%3D3%26pg%3DX3Q2SE3Z3RE2TA35DTYL4HEOUA
+.netflix.com	TRUE	/	FALSE	1809886823	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+19%3A20%3A23+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad41a309-2844-4719-b34d-1c92ba1fcf61&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770656932972&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809886818	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUfr9rEPU1jBDrGfvC2h-Ejh_6vJ0Ef58.%26dt%3D1778350817700

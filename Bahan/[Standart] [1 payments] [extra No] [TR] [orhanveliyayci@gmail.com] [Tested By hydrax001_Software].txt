@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Orhan Veli
+– Email: orhanveliyayci@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Ocak 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 1585
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Orhan Veli
+– User GUID: CEM7NUIVQZEPHLOM6Q7WH4O3SY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799526922	nfvdid	BQFmAAEBEGTqdSoYbCaHDsHCdKzfd5FgZrMFzRceM7JYDKzB5R9DblF1Ra81_odiY9oK-IsuC931D4eY_wq2pkdyOTdmCYAA2FsQspbaKRf9Z5kDIRednNb_lwj_uzW1ezwx3XBMCZs-5guvc90NQf4pDT1Nz2ph
+.netflix.com	TRUE	/	TRUE	1799526968	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5Amq4VbaKjBXHLEzPXSYT8Rh5fDBl5ABRqOrJMBmgHNiQAWWbR5qCXU8VYwlqm8L4L98Efo0cLUKSVihdSTaqowewyQQM_bsOOm87Jf4CbU6u3oVfG1Cvr0B-uyitewTJcAG72vZz20VT7jEaj4sVfrXY-fGdKrSNTlYOrQZ7e81SKDPXD_JArZ3RBlJfIBGLOMcVPN8U_1sZRkEtuDEM4_HHJIhAWxMzdK2VjDaBK0ILsrMBFTpxxdyQsucbh0qpqoFmjuuXLoHSSb2PRnFvkBx0yls8rn_IITvnJ8uFzLZuUH0OV0xOnbut4edHy0tndGYGKkQDOkA1bBv8ra3SZr21l_GcQNbuPj5GWzuo1z0LVOvTt5_Og9rR1YUN6IyZUfCyNaZi9viA6smkTybIkD0GT-E89nP32Ffx45rX1pr1NWW6K2OUxV1ZSHQTQae2uTWE2I6WFt2o6914FOL1w8Z0kHicEYUd5_EdxNgNd49PWo9kbKorV3uYGAYiDgoMyIzdiJ1Uhwsa8vW6%26pg%3DCEM7NUIVQZEPHLOM6Q7WH4O3SY%26ch%3DAQEAEAABABSBrHcfqjxwMhXVGjTQgjg3fHlWVfbzHA0.
+.netflix.com	TRUE	/	TRUE	1799526968	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQoQ2O28NP3BdT-lO7cei9A7gJJMe62COc.%26dt%3D1767990968462
+.netflix.com	TRUE	/	FALSE	1799527107	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+23%3A38%3A27+GMT%2B0300+(GMT%2B03%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb69c16d-0deb-4141-92df-23dce5920791&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B41

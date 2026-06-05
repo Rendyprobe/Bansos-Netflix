@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bernadette
+– Email: jdizzin2011@gmail.com
+– Country: NZ
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 9665
+– Phone: +642102815829
+– Quality: UHD
+– Streams: 4
+– Price: $33.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jayson
+– User GUID: 35534AB2NRD6RK7772NS5WKX2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEOGq1DEQK9xg6tQ9dXa482NgZm__6J4NQaSn2JvU5O_D5QlaI4xBuaSOuJ8x83iyTayztbxN7CMo9FraTTujLsTIw_pViVVa-vWMiHSaS_ARFx7hZwf0CI9rD17v1TEbQrGWBuf3onOfX8IpXbNvK_Kn
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxLiAxPZrXWZtA9ThZsAzibwW6kecQnzs8eEmKVSrZT0BjM1YWt3CWVNGcUZrr5KH7xQRkJjlmPIuTY-_h6DhYKrr91hrFcLOQNIqPD1WoLAPqwlJwQINYhAghXwfIQ1q1FZiPAuddq3ApBDwPvGW9sgscgcTE5zHEJqaRPEuRhEcXfeCFelZ7Ucjq5G5tfqQKb7q1tQIIaxai2JDDb0ZKGVL1EB-GhLjrWgCFuy3NPu1cf7zRCvyuwGruH2PCBHWTuC4bhTbrT93kU8_X6dmznbQxBTfIh3h6AleeaCHnjTUFSqn6YdsGTq3Ema3dxEGXl_RJysnzPtJdagN-gZNe6pe1mxGZF4IqDS1gyAH2V3vjt9iPvYeAi0Nj6scqtvcAttn3JfIt1Sq7f6xQMM36aSMo8e4JLaX9Q3gBFGY1WZlqZoQf3vnRQWb34ZUv2nIuXsIgb6cRq2pavqm_ZyaPrbIXTvRif_ujjwXR9ZygYxo4f0ca6vrtDCsWRKw2zRKSevLo8JF0Yi8UhtCLj_l3bDv0No2EHLvHH0L9Hr_z7whuvJrvbT_hMxu61Tw0M3IdXO0Wjof_fTThQa7lD2wRKhNP-VwArs-PSlz4glh0a6Pv7re3wiBhEBN3IUe2_TFOgrW7qUGAYiDgoMN1GdK5qZXOeoAr79%26ch%3DAQEAEAABABS8rAJHebhaB3UommVJAiF_4QKuHJ7ebB4.%26v%3D3%26pg%3D35534AB2NRD6RK7772NS5WKX2A
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+22+2025+14%3A27%3A09+GMT%2B1200+(New+Zealand+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27cf05f2-17d0-421a-8e1e-75738578e52f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYjf6w1Dg2FuVuf25pjJYKHxyeV_o0ZOg.%26dt%3D1758508008961

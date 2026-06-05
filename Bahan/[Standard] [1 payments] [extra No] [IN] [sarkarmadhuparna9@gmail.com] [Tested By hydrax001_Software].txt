@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sarkarmadhuparna9
+– Email: sarkarmadhuparna9@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-06-13
+– Payment: UPI
+– Card: N/A
+– Phone: +917047764456
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sarkarmadhuparna9
+– User GUID: IK2ER45XPVBOHALNNP777BO5IY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798465982	nfvdid	BQFmAAEBENg0cywLKeQ--S5J_em6qVNgfyKMyfaQcjRNnCOWC1Oy3j3wMGdef3IirwrH_6nv6fI6AYSqjKE8A6AzcHDSFjSmehjpIfJmwyyowmi6-r9Xf1fBCy4L2QlKuf_Q3VsdthoTfXnobCZjjqso4-YpQ98d
+.netflix.com	TRUE	/	TRUE	1798692267	NetflixId	ct%3DBgjHlOvcAxKjA411WWQT0lbohxLmu71h2EEqp0f-a8k2UAWfhTw12tAFi1t8Z-_PxPyafb4vIxdOooFYVRtVBA0GoHCfAYFqJUyHUSKVbfDyHdoilm7_E_NCxjpghJY0wBEi3v9fRpbPVT6UvmDa3Kxwor6-xBxgXdkBpJV7H4O_RWYxD_lyuXHigRzF628xTByd0TdUWo75zt1v1lM-JRmQEh8d2oErVg3OMz38xqFSIzD_eK2LRqwphe48l0hxWOWkQL8fcrzB1yndqMYqXBNZyc8E_s3tpmJwgvRVnk-tlfGeBLlCG_EBmUB8MOQPteGXoY2wU2MMk6OXxK0_qeIaK81ftZtLIAECXV7O_VOL2v7Y4j07cAkynXPcWOEuwH8aZ7vjWnsoVh-QKxVMhYFxSos6hYnzRA1QgUPrzRfoBBrJdgO16mmN9Sl9-uWmOc1E8BGC_r1Gao1HHORKCpPGrdl3bNQLGtZ8R3gVT4cbvubhjQJdnwbcSxW974mhJfWGiTluyPeaw82RW1i6eZ3V-0Rk40QEskWnjTkbbAlayEeuX1jgoFCioJp6GAYiDgoMRcpIBqvpCZZ343pf%26ch%3DAQEAEAABABSIyisLGnEzdUuXFlCew1Rq_R0zK-aobYE.%26v%3D3%26pg%3DIK2ER45XPVBOHALNNP777BO5IY
+.netflix.com	TRUE	/	FALSE	1798692265	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+10%3A14%3A25+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d06fb3c4-0907-43aa-bc85-394b408690e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798692267	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDzNlY7dOfA5YXoK2G9r4wh4ijert5uq4.%26dt%3D1767156268896

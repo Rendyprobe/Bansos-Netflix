@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vane
+– Email: Saucoiliana52@gmail.com
+– Country: UY
+– Plan: Estándar
+– Member Since: octubre de 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 7150
+– Phone: +59899991524
+– Quality: HD
+– Streams: 2
+– Price: US$ 16,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Iliana
+– User GUID: F4LXVBWRQRH5ZO4H6YVKIQ3D34
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113371	nfvdid	BQFmAAEBEOik7u9YHrBIgW2bK8N8rstgo6ReA4OBKs3quS_0DUXqFGNzUdcCThOaPkudWlyef3X0Gtrxf9hrL1Cjzog9i9dCbaxDMN_77RZQnjzgA0yCazeDxhtQiKsGH0bfokK4MVqRQGx7QYHwhmhI-rTBnvBS
+.netflix.com	TRUE	/	TRUE	1783113371	NetflixId	ct%3DBgjHlOvcAxL5AqO3MoyvgCOHYWxu5e9Rmx8KguOZm92394El3ON1eRT8ITHio9ZH0dUplYANYr8fczJOlzdEApooo7Jrci13kYiwf62pptHN7p6kpA0tvryx33zGtmy73tCPlR_wSJuVqyEINLZpK1sUoPKvzfieP34GzwpjHxfSAw4im5LFBZIx_2UpaegriOR-szhANivIJy0C_Agp7lNilkZgS8mQLNweYljmewW82mxDW-ccEh84mWu1jccCdT8tBFukHsXt80i5Qyo8yThFjG-qhYvYtJn4ANQt4ZGSw_BrVD4XPG2M5RR4dIEdYrcNqWhfNWCDknKgMTFTsxzqzHMbN8j9pL4W2B2poz5LEGLovxjtjF7iMXFT80ns4_0tJg0kWIRIZyuJ9QRst8hIiQ69yuO_BmMxDI1FYRSZq9S2kktbzAauxdH53WXkq0mx8t3JwtQZBvMQJkb15jfib0C2qNk9cOm5n9bp28oJFAisgNPCHQaQSmkOR4uAqWN_GAYiDgoMM6_mNrB_b0qyOn1Q%26ch%3DAQEAEAABABTXAFLR3ri4FMx46sKSID9TEzeFBzsSihw.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783113371	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+03+2025+02%3A48%3A55+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=46a7d502-6d27-49fb-8fe6-c34097b2e36d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

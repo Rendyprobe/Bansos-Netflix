@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Boss$
+– Email: layal.solimanegypt@gmail.com
+– Country: EG
+– Plan: Premium
+– Member Since: January 2024
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 0788
+– Phone: +201020750150
+– Quality: UHD
+– Streams: 4
+– Price: EGP 240
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: layal
+– User GUID: UHTRHKLR7FAW3N4CV2NANUADTA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804258681	nfvdid	BQFmAAEBENynkfFvha1NnDXjOXLGeoNgDf2EVXf4tXY2B2cyMJKZrMhHRNvlT7JHyah5QcVay-3RnrlV2nnbBbexmpvbOQ2ZRkncxqGYwee2tJtcaTkTsebiNdY0BbcG85rSaVXgalIxHSxKgvm49CCeGrnbsfDq
+.netflix.com	TRUE	/	FALSE	1808505235	NetflixId	ct%3DBgjHlOvcAxKDBGrAa5zJmS6lMWKt6QXlBqer_re5wUuJ5Yg-aqq37_de__0aNq1CPcFUWBdCRQujfMiLM9gfYc7pHWROJPqbRjJiiOUUpgloTHHwyFHd0woQbMQn60X-eZ1Q01lT_lrsdPI9emfi2XWZrsWmSv2bxOGwvD5Sq-rhBSExhUjYVy2E-7P9C6gV7KduQUQ1rXuFXWF4h9S8IHVXAWbCo5ZpdIsnsulyDNvDnbqEAi8uYteo_-bcHhSgStBrI6GahV8hrLY8va90bbY-Osb26F0GewODHgPFcsNmMeeDtf5dyCX8TxNPFxnebzK-JYlsNT3YJE51KQh9CMxcbMscblD5ZaDsZYS3kRheIca6Q8qKceoOdgg432XJONoZ5CxdQjtPZfnQoVp0yb-cCA-iMQ9APDHn9Ls98f-m8KCCi2LgU4wEwtPdyoogiWd3VCrH2wSir7Qv990BdR_fOKIiFGj-_KaemMQgADVpxYkeg9CUTvW9EMuvZMEyZaA3kTcxZB7zy2sYialEqxUNBc3yErbDgo3zBnMQNjZt3rbkl3kJFysdxuQaxG61T_hiXBfG4k_yzZJuuCZpD6lJ_GiSApkADRv4qNzJCOz-Xy_0K4GSiPlkEg-IMjRyIFMnBvU3IjU96hflxpq3pSSOI8sPJyt71iP5DMi2HGticJeEDx73GJ1M4JDqGAYiDgoM4qpaZslYf6pWS3HB%26ch%3DAQEAEAABABQnMYQRyE1xVBX28aQm8R7ZnG4Xi7w4mCg.%26v%3D3%26pg%3DUHTRHKLR7FAW3N4CV2NANUADTA
+.netflix.com	TRUE	/	FALSE	1808510104	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+21%3A55%3A04+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=49364cbf-5c18-4620-a439-282d49465ba8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772722681204&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adelin
+– Email: simionadelin860@gmail.com
+– Country: RO
+– Plan: Standard
+– Member Since: iunie 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0117
+– Phone: +40743569185
+– Quality: HD
+– Streams: 2
+– Price: 10,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adelin
+– User GUID: B632FNXMFVBXBK7LNBENT7IGAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBECq-XxmO_pSboqrbOpuVAP9grbrBSHQs265Fv9bG__z4FLW7JwTmGF6UWsiBU-YtYllf7H-y7JZyFht5fsL19JvheycyVaSYXgOSWAMpongk23rApWkxc9fOgQ1W_yLNB7U1xsdjLHX9etp5vQzCps4q
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA4uZrf13pjIMfcWJE7T5PHIJKhNEim0C6tYXxU_FkKsa95Y-rGCC9xI_LL_KV_VyMHMCjF2rkc3GDomQVQ9VjzTeKfctKQt22TPeF0dWhVm4175FrVPKoeUAYy2-wZsPlU12pKJhV4mHm-zNH7SS3TN6kOSZQva8ili7GWoZqEGggcwcZ_J7QsBf4RISEktVMAlj4WHArDWXljaLR8wEejjeOXA9TKHrrnC1mOyGvj5YDFd4VhU4wSHOtJP6OvjmP2QYK3IxNRR9iZXnALowM0-ibZOIbcmuBMpREugVDmqrPVlbesECIWBYm0jic_ylFlZkdNvUpHf5o861LzkONNiwzTnb8f_UKsgKJtDMa3qMbG3-6rNTCuo_pP85tTuckxy6_9ccEaDMf9LxC4qWPuzqORPwfi4SFl-EEAjGmGw_FqjYB5S7hdqcaYMT8mDGZTjYrxdcOaP5ZRg4kJa4luS95l9SaBmTO2kxMgzwqftBdhdIL0r6OKLZbOYAt-HGJoTnrES83Y-Y3Rp43BjGd5WhZ-kg-v1vsEldGAYiDgoMq34qnvpEL7u9buaZ%26pg%3DB632FNXMFVBXBK7LNBENT7IGAI%26ch%3DAQEAEAABABRiGJ7pkDB9O8MXp1jXY7nzs5kX12PmOY0.
+.netflix.com	TRUE	/	FALSE	1781798731	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAo_SYR8hx8pMgxY6q72sECVSBGIGorBM.%26dt%3D1776168661213
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+15%3A25%3A50+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af223b5d-c603-4e51-b0ab-20390090d2e5&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775331455090&geolocation=RO%3BIS&AwaitingReconsent=false

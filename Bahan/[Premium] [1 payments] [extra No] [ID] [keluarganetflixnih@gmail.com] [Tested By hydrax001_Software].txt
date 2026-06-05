@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: V
+– Email: keluarganetflixnih@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-07-05
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6285773802172
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: M
+– User GUID: MNCRYWBFMVDPFARFJUUB2DMCIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791747587	nfvdid	BQFmAAEBEGgXFD5bGoxXx3Vv78XMV0JgLzHcduwPoSQV2O9lTiLGQG5tkW8H_ZsHeHyqsyzCr7QgzzvrTj6gu_wiD4NRplwTLlOPI6xzo_-s7cqO5PTd2GMg-Kk2n8MU0J-LqzmTyVFtxvFaviwBbrkJIj301LWo
+.netflix.com	TRUE	/	TRUE	1805781149	NetflixId	ct%3DBgjHlOvcAxL4A_ExniCVvw1Zqx9n2UUF6Vb-DT-5DzM-jCSH8mkRUaZvT9752wwuXpk9N8dq1ueyUJs3cN1nlfGQbO42mlF4l_88hHSuCtPu4HtafCTq9bUn_FvCHmB1CfRzgbhh-SKaTKnaihfS7iVFxiav23ysy44c0isXVhijUms2CQGvvjyDXhE6ZYFrsO1_OOjFb8VBmThJQqjmaBaNh7P69b5eCouOL_Cxz04ESNcdVEp2FSzT5RGlX7k7FVUEcYtOITOK8w5wsQXkWepdvOMX6ybGe7fqz7pDBwPpJrYedzMH-3YeIiR2K-upfxqDbcnyPDK2XGeu3BJzDIIqRpX3OQdyPTaaaiOe5iwRlnL8M5tJPBxjL_CO2l49BXMa68IZz4A8Ej8qyfQRc_U9ifXp7Bpl3xSjHhufVSP2RmZqqU6_4NfWC4ui1joHfiS7MCN5T2k8LrQHFhgZLZivkns255TbQpmUhCBACAZO8vnMGWI5iZbHWBf_ruC_HvMkIq0vj_LA2gHkwxZUuJBcIy8tw0WBuU3MJHBGCaVd40daEDWeob2Xpv_fiumSQtDxrsW_-zb_3eaGX08tseT5cbwoOOVkwXkMeDDSOtzKEcIGw40vdaqHQLON4t3UPkhsiKBR1fEsqJeAU3t_BEGzsBU0r5zdbrUKuWKmfDjDbhgGIg4KDELkAQVPZ7E41sZMLA..%26ch%3DAQEAEAABABSUTvr0HcdY8Qa_urb8ZTHH5LXZmnn0IFw.%26v%3D3%26pg%3DMNCRYWBFMVDPFARFJUUB2DMCIM
+.netflix.com	TRUE	/	TRUE	1805781149	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZ0Y0rso9jpIurV5wZuQBNih-Mejp8i8k.%26dt%3D1774245150264
+.netflix.com	TRUE	/	FALSE	1805792776	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+16%3A06%3A16+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=627b133f-e54c-43ab-829e-21b416f4d468&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

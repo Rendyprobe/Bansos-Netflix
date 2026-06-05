@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LheyRhyl
+– Email: israeliglesia@yahoo.com
+– Country: SC
+– Plan: Standard
+– Member Since: February 2021
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 4762
+– Phone: +639270346748
+– Quality: HD
+– Streams: 2
+– Price: US$7.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: I
+– User GUID: RIQUK54YTFHDFBXVFQD4REZLMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1792583139	NetflixId	ct%3DBgjHlOvcAxKzA0Z8XQuSg36UCAsCwKd-Won3wHkcF3bHBkNemP79-v1AY07wpbZMwRK7lFzqI_T9uIscxVCf8sZn_8kKwVTxfF9ykI_xrD8r2ng6I9uYYwG4XWCJuy0AwvhCtVofTKvA8PLy5r2V9-XeYgc-v5kUYixhN2tzCOKkDpltkLiJTtSiAoDu7lpASJ81uDI1c_LKmcIwgwl2wyVPnc0RmsazeDORsWLzljTBLwPzDr458WfM68-C7FSLPtvIx0OvWfXzJTZiSchgjFywKkAQ9_Y6Kt6UJaSEU-rR17oUemxVkFx8pIRX0MMueSgab0FVBFJj-H5Fje4FUDDkCLnT_sryZns3s1ix6LtHfiJNQ2gAMkqSPzeNWQWSFCpV6EE5Ev7WAYV_x_VsA4EONb2z4Ji9qlXvSvQ7LwYjHhO8QvJgWkCOhtX7mASkpr1-VpCb8ZUL_LOGG_sQ8B_ACg8VxtVplxIZubO3K1_gmJHVJaZCHBbsyvIOESEaNHSUTtz9GYBYSXCsjsg7nFfQjCeuT_nKNmGD5ROp9xncX0THnktgUgeyX9m_jq1pNrRP2-epN-pGvpYHyhgGIg4KDBvXLrdBZ5c0_CWSbA..%26ch%3DAQEAEAABABTXc4_Gzpp3D2FSLCkLSY1iCLoWEuwdqgQ.%26v%3D3%26pg%3DRIQUK54YTFHDFBXVFQD4REZLMI
+.netflix.com	TRUE	/	FALSE	1792583145	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+21+2025+19%3A45%3A45+GMT%2B0800+(Philippine+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae9ad209-d930-49a4-b1ca-4de566d03514&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792583139	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGgGGjNEA843rQKtNIdn446yB_9qkPtWc.%26dt%3D1761047141556

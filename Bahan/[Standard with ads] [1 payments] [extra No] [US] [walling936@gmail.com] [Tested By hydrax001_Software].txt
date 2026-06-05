@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brad
+– Email: walling936@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: August 2020
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Micah
+– User GUID: 5DISMRUA2NBXXDNYFXJNFBYHQ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1791563774	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA0YPExPTHO8R-6HMXuA4HSSBeti5Wb03nh0ZbCKsiKksDvbK5ioFwgDr_YlCOvZ3A1f42fii_SKuWXXAk_WFWfpG-FmyLNvO686rvKYnxGN3WUDgUwWCHK9YbqgOGO-hQ7tyXPRsZYVgz22s4G6HVgtyF0gPNi_4jCGimez8jxvr6aQPW_eDOV2Ia08KQ6x0Mvho0j4Lf-Xav-yaeaA-oePaRmTuN92pQXlAfBc3GHI68KZ0POVa9WyZi-j7AcIIvNCQ5WRUZPco42uUcaIUtzRfhXEbqCvl6MTfz6eFWcepaaTeMBwpVtOHHzD7wFHWya4gwKJ61PEDVun_m1iRL7_FIPmX_oe6TS-F38Kl5aMyGjTY_j04QLetk7IaF6GOH4w2PEt4gCidnc6GW-kAXRt8KfeoEdfoBjkRx1L1bK4NHZQNyqW4UcpZOu0ztoLAqj2JiMWmUPwxrVZovhcioOsj72HMDS_tMEM6fFShjFXISCoemcYxRvbG_SPC8RFeUp3McTjC_5EWB_iemrNiaU158KdnNV-7uhgGIg4KDNkO8Y0DDQ28Sz5dvw..%26pg%3D5DISMRUA2NBXXDNYFXJNFBYHQ4%26ch%3DAQEAEAABABSBByrLatRXLmjmpKgQFscgJeCJPkvxhQY.
+.netflix.com	TRUE	/	FALSE	1791563772	nfvdid	BQFmAAEBED6C8X3tTbejmAY2fH1ikShgEF2yCCjXZ5-DIaoD40cQIPRhRC3gfHu548lJMNRVG4ypyIPIRMsu4zEP-AAhdA69DkPkFI-1UFX7W7aEifWPejnU1Mvz6axRojAa9koPwYZUbCYLd4YpPpzk5TQ_JUhY

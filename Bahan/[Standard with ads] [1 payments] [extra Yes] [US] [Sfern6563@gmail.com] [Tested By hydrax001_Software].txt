@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: priscilla
+– Email: Sfern6563@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: March 2026
+– Next Billing: 2026-06-05
+– Payment: CC
+– Card: 1456
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: priscilla
+– User GUID: XPKZEHMSLNBEPPIIXAQPUIOL24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805532571	nfvdid	BQFmAAEBEBbrVimcPRXNeVaht3nSQiZgU-64r24DNU9F-fXhT1jqPa1JogzJfKm0A6Bc--za-hEdYPQpX09yyVm4f4_h6LfjjPJlnFqjtaJOUJnIgU_IZI_DGMfqT7ZObaVoTPg_7fkniOxIdxwyht3KpuKsRrKS
+.netflix.com	TRUE	/	TRUE	1807465919	NetflixId	ct%3DBgjHlOvcAxL2A-yV-3eoIKzQEPzAPR39gP1cbyM_ulIMZjJCS3gjM2vRm9LtcoId-wxXjDyDoDmjo9CKFwvcTSzaMbNkYoddYHOHOz5CDT8MecOZ30O9bJmWqYpaRvArwvwMaxMkZ81CaXscArzVCf4T4uK3MdXR60XYTG8LMf7sE1SDzcaOom4BoKiuZeRFMtlKOVK_dzkveAMo490iCoICj_6KrdRdFpgNW8tdopNXrRR6r36qAgOhzP7y6Ib2jEQGybgeXFrCPWCkxJoouhPY6QP89rD-Q1W2AwQk8UB5MSaNFt1YnllgUmnS5pJzxvs-IPiTLSGk5AQj842OKmPkSB5CFBvgWkVA22Gx-mOY4-TJyaV11-c5qy5dbHsOfoJ8yvsWUgrddezlQ8RySOqDTVyE_uSq716PYoqf2LVsG0Ji5KX_AMlTRokvUdMViwEp6Cf_XRfciag27ylIclwXDaI45f07PXUKNP4ql0rhyOCFaonImU-DDit33kAfGL_HvmBCDMCCGIkG_JOzN3J9CvG6gLM7yKxkeULLXtgL_-Z7uuq4GYhSBRgBpey4eQmwarwELVE8W75GPs4Uz8n0ASqkyAy58nkWDofpMVCESk1s4BLT5GVtd4eNxZPGUqG_V_Q2I9wERGhlsWAyIHgSmQOHOYp1GBjl7Gl5G6gYBiIOCgyuU2zozpZbENbknH4.%26ch%3DAQEAEAABABTg_2L1IfVMi5CI17kF84-Z-UQf70QJYCc.%26v%3D3%26pg%3DXPKZEHMSLNBEPPIIXAQPUIOL24
+.netflix.com	TRUE	/	TRUE	1807465919	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRL4f6OazYPSP9iA6Fiy7q-vUIRUYSx_Ug.%26dt%3D1775929918266

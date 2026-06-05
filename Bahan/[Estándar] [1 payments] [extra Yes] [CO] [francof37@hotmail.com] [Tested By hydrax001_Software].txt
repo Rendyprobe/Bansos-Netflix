@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Universidad Referencias
+– Email: francof37@hotmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: junio de 2023
+– Next Billing: N/A
+– Payment: AMERICAMOVIL_COLOMBIA_BILLED
+– Card: N/A
+– Phone: +573004409783
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FamiliaFrancoAlzate
+– User GUID: 46S7WQDTNJC6NITHJPATTC56LI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803756173	nfvdid	BQFmAAEBEOqxyYMjAE_Hta5CZxKkerVgWIIkCWWoqvQSNgyEFjSilYJ2He-tNEiPmk1066AsrfNukomVvPmcDdqNKBwwAytm6F5RspusVXvS2Tuzus_mc9sUQAydk7FZ7mNaMK5V54rHHjKseSMy1Gb2JCbNqa6U
+.netflix.com	TRUE	/	TRUE	1805855100	NetflixId	ct%3DBgjHlOvcAxLdA7r2MphA_DCL_eIccXmP5ApIfJHo7_2nHPPne0BPY2ZoOtVSNwdlhlCsdv_dSKvL6mHGoqrI7QuhpTaLkgmZjBpoOWL_GGNj_IxGbMBGg_Mb4GBnLRml4vX5eqlogrJ5nI5zvVXhWtdNk-586mSN0Ku-KD7AC35xpepUsiyEgiW3IdZIC7485bnz4ch8drl9PCs2dSBuK-7AR3iLVD6VZirrd74k6KjpzxKZdqUr3i2B4VjRsI5AtW6Cv81U1ynRB_jDp1PA_URKl3nflTDHIr4BvVCXUxXqjOZ5mhxllBbPv9nHi4oojKJaqtnbdcsPaUYOrVctM2-q9R_tOnN_qDP-sl_uANXApyQuiabIuiavgRrsKL9EaaK8vwhAiTgITfpjz4SS34Jmd2Aj3Q-pP-bydrBlvG7-8BhgQSyqaSAZIXTuBf5CFU5LZIOFjWJWEOdMnUDwYiYe6_gQgmEfzVyAOmcyu3eBGrEojJzWBg5GKMDnxYJdAFlQIBI4KMY20YspeHvnRPqjudJVRVZuy_lOGVJjLc6n58WdClgQkRTJAn13AEEVY-3Ec6XhM7N1sUEtMm8y9YpvQA70If3y9m1hFq7oCiOP9gQrXQcxWfcEwNgexCzd8RRKPqBZAhgGIg4KDIM2PKQfeUCGZGhtlA..%26ch%3DAQEAEAABABTikxDzJ96MCNYy4GoWl50RlQ1DrMQ6Xqw.%26v%3D3%26pg%3D46S7WQDTNJC6NITHJPATTC56LI
+.netflix.com	TRUE	/	FALSE	1805855247	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+21%3A27%3A27+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eebea207-8a9f-4e73-b365-e91bd3b0a216&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

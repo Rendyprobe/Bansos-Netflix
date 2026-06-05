@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lina
+– Email: linaviscariello@outlook.it
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: dicembre 2025
+– Next Billing: 2026-06-08
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393274032962
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lina
+– User GUID: FNGXVD46RVBD5BI7WYC534UERQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807036073	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAx6D9GX8qacJg84rkZoxDkaIQjSKXlnCD9zIwDSrykqWsFmIJx8sdCMigdfjn-dH3rzpQiKC3S2D8cQbQQVtXwmLIcb-Q4ukwW2A8pez-tIJtmiEwFBAdh-noNLgmFQVrAxu8QvF5vGLXwfN633y_wf6CQOe3JDdc_TwGFEnTSFgp4AwWQRI1EDpHL9gjR9lx3y3DGdEJ1axvBmMaNZwynRIvs29xNYwJpCMWD_dR6RwTXFR4TsyUcBhmGxb6u1FU0pf3N5KMGbacj_E3tRQDkgxvwmPAwPE-7oEd7YxmwF9CK-D-peIlVPLW2yAxV2s3eQy6m7P8D-7QRfRVMLY2IiX0qW5NYvJATsWBt1dTIGaimTQLGMcuwvm6OqiYoGKD72P9dV8uuCcIP8FmvdHrZSA8ESRxv3uROYIa9cKqKOHSfSfH2ars10QempC_Plg3Bc6MfQGphQPodaMPA2UHfPVpqpvGfL4kQjKLnW00fQ9vgETJXLJyMWFwXtbE7ZjtB6sgNrIBkLu-ybvNFA_V3XWVxiEI4a_20uE6WMcGAYiDgoMb8eUrVg29zIwaX1-%26pg%3DFNGXVD46RVBD5BI7WYC534UERQ%26ch%3DAQEAEAABABQasIEbuyS9tRkbed7RoREAvfJIZAmJtrM.
+.netflix.com	TRUE	/	FALSE	1807036074	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+20%3A27%3A54+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df6c37d1-49d7-441d-91de-3961865ea4cd&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1775500018658&AwaitingReconsent=false&intType=2&geolocation=IT%3B25
+.netflix.com	TRUE	/	FALSE	1807036073	nfvdid	BQFmAAEBEKIeWhQOVbP4pu7WzIwyhPdgevbkQnbSNbHlCh9vzF1CfJRferJC9laT1Dv5oyxe1YMbNIAy6yFkNkPT3oh0xtM3qiXsZDO6LENxRkIl5bh5y6yOlgmTeE8U1Nm9gwMaLIYiTUrK1gKhmFE7xliKDnre

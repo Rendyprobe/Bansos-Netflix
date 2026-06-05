@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: AR
 – Plan: Premium
 – Member Since: May 2025
-– Next Billing: 2026-06-04
+– Next Billing: 2026-07-04
 – Payment: CC
 – Card: 5927
 – Phone: +543764200890
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Cande
 – User GUID: 7UEYAOVZGJH6BEH6AO22NJQKDQ
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAbxQ6jbm/G1xlhRO6fBKEAfWtQxSI6WKzpPAHnyK9529n7JK4VkOlqetSiIavvsvcIqBg9Kt5CceZVJesPx8SZMKDf0athui0lbcKuDSeVdxHe/PzKMindYWuh4r3fObymQLa5n8Ll5vmtHvMqty8YZfj53tUg/GzTfC81aPStkWSePuac8OexduXMUXkQne260eQdh0xndNcQF1K4Un/JYzignJ54qUvftA/nF3Hfc4ER7ZGpkhdTlWZiaAMhBdyWqKGAYiDgoM2WK0KbB2w6OQVV7L
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAbxQ6jbm/G1xlhRO6fBKEAfWtQxSI6WKzpPAHnyK9529n7JK4VkOlqetSiIavvsvcIqBg9Kt5CceZVJesPx8SZMKDf0athui0lbcKuDSeVdxHe/PzKMindYWuh4r3fObymQLa5n8Ll5vmtHvMqty8YZfj53tUg/GzTfC81aPStkWSePuac8OexduXMUXkQne260eQdh0xndNcQF1K4Un/JYzignJ54qUvftA/nF3Hfc4ER7ZGpkhdTlWZiaAMhBdyWqKGAYiDgoM2WK0KbB2w6OQVV7L
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAbxQ6jbm/G1xlhRO6fBKEAfWtQxSI6WKzpPAHnyK9529n7JK4VkOlqetSiIavvsvcIqBg9Kt5CceZVJesPx8SZMKDf0athui0lbcKuDSeVdxHe/PzKMindYWuh4r3fObymQLa5n8Ll5vmtHvMqty8YZfj53tUg/GzTfC81aPStkWSePuac8OexduXMUXkQne260eQdh0xndNcQF1K4Un/JYzignJ54qUvftA/nF3Hfc4ER7ZGpkhdTlWZiaAMhBdyWqKGAYiDgoM2WK0KbB2w6OQVV7L
-– Token Expiry: 2026-06-04 09:15:40
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBELAJpsi3HPdgIxDOnZHnWIBgierSfJ86rngMBEeK0aVGQFlqs97M-dkBiG1xG8FObBHpej_cRntg087mQB3zQ-07Op3GwZx_ahQfOmL-SDjNeANxr17Zs1Fu0eexuI4oEAB1rpza9J59swlteAWsFxuN

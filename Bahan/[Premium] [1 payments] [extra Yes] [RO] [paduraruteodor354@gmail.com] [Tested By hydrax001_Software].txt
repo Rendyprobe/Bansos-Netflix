@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Teo
+– Email: paduraruteodor354@gmail.com
+– Country: RO
+– Plan: Premium
+– Member Since: august 2024
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 2153
+– Phone: +40787523716
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marian
+– User GUID: LMY6EZJ54BD2FOTVVL67VQGIW4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807543956	nfvdid	BQFmAAEBEHHJ_Yd0qEpuhvLroMO6KRlgW5UD-jWDnOC1GXF1aiw3ct03vKfQSnxaxT5ttqIYw4hZF2IrmWVt2CXb4xLObqW8qVUTi4f_n1tu49mdt5e2bc7j6B-4gQyg-9BuBir1w0VigwBiJr_88Be_-2cGp536
+.netflix.com	TRUE	/	TRUE	1807626129	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA0aPlFn0j4rChQxafO2H0WGm2RRTjaA3c0rr5ayUmt4h_IYYcJDATb7xmzb5QEGNhG52GFKiorlR_jvvJVAHpg7VvORq-FgV7b1UvOerku0D8Rcjq64NTvVhoAKB2EnGdq4FFuvrY7xZPcx6kp4I57aOk4rCMusv1Sq8vsmle6s2s6MUmLgv80r78GErwl-9KBtj3a7DGsMNJA4hhiGBT3q1nTiJUdE6Ff1-xLE90zkCV5_vt-5rnJ94YBl7jBRfP2Wt1qIDd4uDvMqQIHlSbc8v5SMcE_LrDpYIMs0CLI_7G4ShFdJnHDICXItpEbypmq1W2srZG6KzU5T_gRb59PjqGkloyxClT1lhDP3hFV6oHzYowIS1ZPSy6sK47tJrEeMPqcGqgAzcZeI360u5CGb3hqxXFBbAigFEHJ4I9TruyyD7WgwdDakr_bC8S8MntSCKVWj9BD68LPPbY4cvE3Gr0eawxMVvr3hQHTcMp24y_ml2KWmyQOZ-YUjgmqihPGQXSWa96aUB13hQstDBp_w8ZEZeGAYiDgoMbPZY5P1Dfb2oFLBl%26pg%3DLMY6EZJ54BD2FOTVVL67VQGIW4%26ch%3DAQEAEAABABRDEPeoNrnsBcz1pej6vmj-Oq0EjJOvDAw.
+.netflix.com	TRUE	/	FALSE	1807626131	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+17%3A22%3A11+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b4591b3f-6bb2-4ee5-a183-b1f0d4b883ec&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773517594998&geolocation=RO%3BVS&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807626129	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfhQQgQRvqq2hGGmrD162hSH9doKdPvYw.%26dt%3D1776090127706

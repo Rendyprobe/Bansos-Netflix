@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: alfonso
+– Email: kuquiginestet25@gmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: febrero de 2020
+– Next Billing: 2026-06-05
+– Payment: CC
+– Card: 9026
+– Phone: +542314489045
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: marta
+– User GUID: VL5BA5PEZ5A5NAFHTRPH4I2H2M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113360	nfvdid	BQFmAAEBELZKkCBRoRX5pyZtKyAZVedg-aO4M-jEAz9JCJW4tXQkLLw0ACBPvoUL4XX1A-dbXBq2Nd2-5F2NZPFBEbEauonzHqsiCPH0ZdU9ekrkn3Y7chYbCRHUFcPSguSmc8RuF0FJ65vijuBcoZGVTebwe_Q3
+.netflix.com	TRUE	/	TRUE	1805906615	NetflixId	ct%3DBgjHlOvcAxKFBNL_bORSDlGzAJOaOlovlqsrq8Hm9EvCWGtxsUR7BseKd5VOR6edGU9icdBq5OBUwrZaTKT_MLWzH5jqcZ3q9k3B9V072PbKWmGBUmy5zB4FAdap_wHVIZVkJ-Kikmz0Gt2mA7jwe1JqJwUvU-pAtEJTQnS0PIJv51pSBI3N-Ofx-XbUZ9wwxqpMfxB4aiU93CzLpt4ZwQN4bQpdMOdEn-d_izitYZ8vH9aE0OeWUGaqyqsofvRIPcHNzCqr69mzho1ZDxE1Yt_r9ZnjYYL9HESJnVbVzNQC9qSjpIdjstR3jLn8bPvARcTLe5aFQGD_NU8Azx4FjGlbzx4eis_nu_ZIc7h4YoWbJEFN5AekehggM3cmnDTuLjBusX1BUv_g4gfiPJiaEI08rQugh5OqWqoFXRnO4nKmkXdUEvLwkNdvB15DkAUv8oqu50F7HyQyTG8qtOJPbPOjI4uk8WRa6wknpteitIU5iygDg6muSthCs784y-C4re6MZJIH957pp2C0vjmmOrpIcqunezyL7scbk718Zh1qbLYyRnTB0HG7ysCA9s6Cd0t9f9TPy9pDAifbql9gkWPdb7Sm1s8wXxZ0vpUbkrHPtmDam42aSw4CByccVsqgH8UAzSqds9JMK8B-fXifOWkgIyYqq_NZYWVlYWHXSNDhzP5ESZsLM0B7Bq1h8ewYBiIOCgzbouaz_K9CggDlYVg.%26ch%3DAQEAEAABABSjT52s1-jlJkf-JehhxZeE1Gr_Bc6jTsE.%26v%3D3%26pg%3DVL5BA5PEZ5A5NAFHTRPH4I2H2M
+.netflix.com	TRUE	/	TRUE	1805906615	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpyEC7S33_4IMrR3DdkLFMIrqEAKZxf1s.%26dt%3D1774370614501
+.netflix.com	TRUE	/	FALSE	1805914034	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+15%3A47%3A14+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=697f5987-8e87-4a8a-85e7-b0f1a5fdf0c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

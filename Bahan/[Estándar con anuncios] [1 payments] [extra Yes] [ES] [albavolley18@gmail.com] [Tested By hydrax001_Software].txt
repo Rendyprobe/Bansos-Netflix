@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alba
+– Email: albavolley18@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2024
+– Next Billing: 2026-07-01
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +34611497440
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alba
+– User GUID: HVWCT6MCPJAHZHJDTOSGBVCLIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790081607	nfvdid	BQFmAAEBEI_5_-ZtfiGKKunZ_UxE6nxgptEX7C8EqVUYT6Xax0jC1C-y1xprZRdLWeiHVnTaIA4Iy01wsLE1INP867uDDoiV_0SklAQp_y0wShd8l3-RFOtCoajRxXAkdmS9UB5BjSlWQesVfUqmV49PqKzqm7IP
+.netflix.com	TRUE	/	TRUE	1808547923	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA9uBjOhpnoNG5mEdP9_6tvcErkiPF-p1AhOWJo7fvYXSQ4ifVLmh59-007UytBO4VbY2_TROFVC_m2YcgPN8KmLE_VHoXdGEOkz-Pg2OytB1DsY2YKmsjmlgguteiyvzqrN6vlQwFR9uylTEMlEpOCNbPcArc5kRvkq3GYYp7hqIhG8ev0f38vCYViFNoq6FPfgLs6CORdprNX4rseLTi360im7nbox0CD9Hrr4EAwj5Mw_adZAYzIMjdi-iaIvythhnjExWJYKw9xnSAbMgZpY7wO45Ikx7UJ8lIMIGqOeRzb5_bT5iq4ZK66672kkSbsChGoRi9Yc59F0JQbryVPSMeyfEknBWj6qC8n5IHpUzAxB_CmtMQbKMBGAeUgeNNXwESSSkHHJ4U7i6vtOLJm7QTY5eTNFmeI1SSpy9UmyD-sKMNtJkCCm9GwjUqLCRQOBmmS1ToEZOGPZKpIQMJGFZqz5hZ7koBo0nazfcSyoX4lAXC-UXct7oW4hY2z1vnsTE6SZG5kRFcNTBDhmOjCnyV60YBiIOCgzcy7US_r9ruCPmOmQ.%26pg%3DHVWCT6MCPJAHZHJDTOSGBVCLIU%26ch%3DAQEAEAABABQpY8kunFZP6IOcE_SDFJI0PInpnQeAnE0.
+.netflix.com	TRUE	/	FALSE	1808547927	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+08%3A25%3A27+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=367f9858-d322-4004-a537-69a3b791d53a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BCT&prevHadToken=0

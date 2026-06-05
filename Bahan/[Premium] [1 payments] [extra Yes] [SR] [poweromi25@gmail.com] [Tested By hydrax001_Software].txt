@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PowerOMI
+– Email: poweromi25@gmail.com
+– Country: SR
+– Plan: Premium
+– Member Since: March 2025
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 1458
+– Phone: +5977134900
+– Quality: UHD
+– Streams: 4
+– Price: USD 7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PowerOMI
+– User GUID: M6EAQ7GPQZC5NIJKBXPBSBH454
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804898426	nfvdid	BQFmAAEBEJKHqJYAzVaMhJF-qdjGbjZgTWl5j3RZbXw2WZeeiB12WAkFPa1mxSg8eR8laVSNuHH8iIfkKU8lWVHq8H585SUHjqfPZFdvvN-Eirlbquem1amVzfTkeLpyNIlhueOnXJhMbVxK9TdHnaP5KQM2JZE6
+.netflix.com	TRUE	/	TRUE	1809028372	NetflixId	ct%3DBgjHlOvcAxKyA3iawOuN9olp9oKbaYqyZGn2YocttGbEHeEP5ZiqxKYW0C45JM-eYHazJQdzMlogq3ArgEKnjIGMl6DUNPSK7FunpeY6q7xJtu6XpKe7nA7GEKmsba9jcyzgR8ZbWaGNG9fvE1ceh3pyI5WYl1HhlF07z-ih3wrWbbqhXJjLK4F2qRDHIiJZBID4Rc4KeI_-iLePNXYVVKKmCRJxrf7gf_nN3kKm4pQCVH0-PpwANPAfOBjBJuKFivguHd1cz3PpdaVtvYOvQHbRcwnXXsxdCbXvkPJVSA2aHpwV6AKhmSSYubiV1tg5L2j0LyLJHS05FR40nuUPGnkkho2mlbW4-9_b9dQLHCAfwtap2KLM4mD0qplJx13EmxIV8ExfHzWKFam8YsKZWZJMPyMFHS_UcY3ho7Jroz3aEzbiK7D8fshUo6ZpoX0vcnIQkH9_UnRP3ya_CHMsOkxFlPJozhxJHd7rwU82EHgqQ2vsu9VvvWY3qczsXA7XSUVB2rbG2XetfUYwNtbh8NeDJvqrfEyo2-bgXLsGe-bK1Uyjzpa1TNVC94FwYbVrYvUBXSgHF8BfBt46GAYiDgoMWZJFSdFYHjrmbo49%26ch%3DAQEAEAABABTgN8T7yb_C9hL6-NbRT8RrdeZiWL-fBWs.%26v%3D3%26pg%3DM6EAQ7GPQZC5NIJKBXPBSBH454
+.netflix.com	TRUE	/	FALSE	1809028396	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+16%3A53%3A16+GMT-0300+(Brasilia+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc9a15f9-129f-4e3c-9b60-4f73b30631da&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=NL%3BZH&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809028372	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQzNjpxjceeh1XNMLqodBLWZEIzID3C5Qs.%26dt%3D1777492337181

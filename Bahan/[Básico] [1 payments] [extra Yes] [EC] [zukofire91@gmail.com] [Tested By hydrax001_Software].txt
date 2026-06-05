@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lennin
+– Email: zukofire91@gmail.com
+– Country: EC
+– Plan: Básico
+– Member Since: junio de 2025
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 8142
+– Phone: +593991581526
+– Quality: HD720p
+– Streams: 1
+– Price: $5,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mario
+– User GUID: 5Z7WM2XLEZHD7LJNJQLA5FZFUU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802153335	NetflixId	ct%3DBgjHlOvcAxLnAyPTCCPAuQxR4heBtVcr5qmcRoWA1MxmAwiMqBRcQb-gd5UbZ9TudphTkm6nml7aYcAeV1yGbYWXKH2Hx6Jg2Smet81UX2_n9VmtuwyT0VgofvGhxB2OGoi3_DCVFGuM3EmGBGup8GZwLnKQ6neXJdSvRpB7YvhfjSZeFvXJ5zdyZU7OHJaBEHbBG_F4RoR6IeQ43FsD_BoiONOZuUBJQFZbThcjc6PxLUaGVS3FWMCEbTzIHbWZMIo832KF1-WEqvrWB_YjQ11LaIYbm1ZSqNTkHMh1lWMMO3NI6WlI8QKx3pAMnDIJOsT3Hsx77cFTd5I4Zp6g3SR8zIZNYyN-6u1AlDt7ihDa6DS7V3R9jkvIQ_tWYc-Q4R6EJU1asf4f7V7kXgNZiPwZe-D75x96qret022aj-kguTF4um3665qUAKEQkAYkpyXU6zkeBJoo7nzfSP0Y4kikGc9pdCuKd_7X8BWqrYO4UEnOaXrc5L4Xe_mFvTQeKXtjMx9kELanrMvVesGat9lWC0Yh46jz0l_W0MQ6Z0xp7m8zbjtif-xaIrOkILr5sQtySTHudMM0zSb1Zr5fTcb0MWyOutNavehXEY5cFxrcrA8X_p23K7t35eHEEA6GPZUwQH6coB1D8NL5hjlc1-YYBiIOCgxU5ZtYDFx9NAmKRmM.%26ch%3DAQEAEAABABTX8CsZS4hye1uYA1ko12LY3wwNy4WHXfo.%26v%3D3%26pg%3D5Z7WM2XLEZHD7LJNJQLA5FZFUU
+.netflix.com	TRUE	/	FALSE	1802153336	nfvdid	BQFmAAEBEIT-Urtc6rnEc1wFfrl2f7dgO3kjlu29LMz1WT3Fv_AHwj5Rwydfj5sTe-ad0_bNzB232hAUZ2Scotn-QUImrZNLDW4V7vhp2Kba0Jzxzg9RgDtUHUEq5k600iC8ZKKQAtfwmwIzNB7V9lWlZVmt2IEi
+.netflix.com	TRUE	/	FALSE	1802153584	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+01%3A13%3A04+GMT-0500+(hora+de+Ecuador)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2279973c-552a-4085-a913-8d052461b4a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

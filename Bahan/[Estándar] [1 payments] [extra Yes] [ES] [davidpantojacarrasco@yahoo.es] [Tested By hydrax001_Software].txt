@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Isaac
+– Email: davidpantojacarrasco@yahoo.es
+– Country: ES
+– Plan: Estándar
+– Member Since: junio de 2024
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 3690
+– Phone: +34610123077
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: David
+– User GUID: ZORJ7I5JFVHSFJAEP52CKYPJNM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799357418	nfvdid	BQFmAAEBEMWMWU7ZKLteRkUxeKaU4QtgohgViVvOokfExvLXEEWjYGld5J7yplzkhB-_mUq2abB8Rjae5rTH-hjUp4e9m3MNDKOlhWdQL1QreN7EyGXIdRAJxW-Fg0eFJmTFXZD-ELdBSldWMObOzl6LHFcow2qL
+.netflix.com	TRUE	/	TRUE	1808834747	NetflixId	ct%3DBgjHlOvcAxKDBHkHKyEu3L67KtjQtSplXsknIVZQIkSFN0akKIpVbeJKk2NsL75QXbLUmeD_juJdpJbsVvqCFfnX__eVYIPITUnqRJ8eFA3yDkQGkuOKZ7h7_l84lTAHz2cPkva1TlE_x2jC6sDKTc6nqGc_JA_QAlrppyr56bBrkfhUFxU35aGQg5szRL1sshEpQWJleHnVZ8krJahyi8wCn8aIDeksFL8hMJiep5txr2Jl-vlEOtUiyIySqCthkd3TS0WB7C9fA8ArOu2SacgmUjfz2ehIUd9tPB8Ybia0O047cpmRR0F_lYY8GKN4olS3G34zxnm41MKZCXTFFQbp1KG5xPw7y6fNJ2mS2a0M1gLLaFyLqPZTl0DnO2BseP7a_ZAVUR3wezv3TyaQs6WVC5Sc5dOpo9Hshkp5yCqEDolg5aQmB109CyEiibYqWD1xgWpEYWaE8mu4S7aNNb7Xc_zSQMFRLenHapUJ-xejbJFz4liLQO5mYk6y5m5oymZLHjDFZGag45Ymk2TIaeysZp5bjK6EGcKNVOdT42OXah2yKqxPB7lMmMD69u8Pyd6iONAmYQ2QxgZllcSnE3w7G66Ilpt8Dye2pm3YrcLnXrwCjKaKkZW-LlPsY8YSVBEcBgB52_-MbYval7__7eoc2LGwKy4ZE4Mf7IITrYf3hYlGY55bZlwKQQDiGAYiDgoMjQlJc6iFc9_mRC69%26ch%3DAQEAEAABABRGci6z-HXf2M_X_C6p_b2Vh6-prfPGMCk.%26v%3D3%26pg%3DZORJ7I5JFVHSFJAEP52CKYPJNM
+.netflix.com	TRUE	/	FALSE	1808855583	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+21%3A53%3A03+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a28abbaf-b2f6-4377-8a71-682251220020&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

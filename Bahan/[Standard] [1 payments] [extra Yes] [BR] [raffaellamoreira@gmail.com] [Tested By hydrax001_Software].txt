@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rafaella
+– Email: raffaellamoreira@gmail.com
+– Country: BR
+– Plan: Standard
+– Member Since: October 2020
+– Next Billing: 2026-06-29
+– Payment: DC
+– Card: 0020
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: BRL 44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rafaella
+– User GUID: FKMIQOOTXNARVAYGYH4GJSAW4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113361	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+02%3A05%3A01+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=16b087d5-4be0-44d4-b59d-0477272fbfd2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1778580422237&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBEDp75lFR45SeXvMtk4uL1D1glfYj47qlZ5BPgjrUiBMq4pQmhnw1JU4enY8mUb7AHsTglprXOYEYCXBP7G9f_hnScUEBc6NoElvu0qnmElvsysgl_W_bjIRS_hs5ak-Dpb-kq-FMBJGkMVI3AgvQlRVg
+.netflix.com	TRUE	/	TRUE	1783113361	NetflixId	ct%3DBgjHlOvcAxKLBLoCtVsq4xuQRj6lWHrwqRDfdb_V275IZAbmuKLQUB42aiwbdnoAetYAfIDYlMev_06clDkvY_wk-0SyhGXo7LgDGJXiUCTm14EdenCToZGkgYNXWxi1HCbBL2h1c9PKAQNu0g72TCYTUXV8qj5r2FMGHVWUo1h1FOpRcJLqdfOz6hoIeCQBnHgXKrO0ZdbXDkV4kric0ZF53DxRY89NeTsslmuine6bR1T-PKwaFt8apUEjdrpoOxs9c_4k2biimCg67f9G5eNXXvmvIrPYRAUtYJEsO27YwDdM3DxcTHmCnFt6T53m7pnwtwoU-JTBNDg4zKAHBa1gBOeg23AMlm5C3vvttqmA2OW3HRTnThYIvX2lms9bkWaOl0fe8CPXc1i69l51JHavER44Kj-fCbGXBQLEqJzGtq6SENvdlViMfrUQI47QqnIMMPi_khKBRQLctZmd6qwQ2TS4zrsZiMjuOLwsaMgLNsZntlfb38MFt6pwwqBmza2tS0rN2LtQ_9h0G89Aqgxh90WkM-Q4EA70301-w2hCimmDlf_DmgN5zqAmtO3LQIqyIb8MiImw4yno7ou4LQCC-0uUXzbnzRFIeYMEouTg0R0D2rDacM3hCMHyQBam53c92J74z2_U7Qb3nBmXteMFwKcNIoZzHQvI8KSrstoOhqw26l6mmPpSUaTZ35_0fKgN32YYBiIOCgzTHb2WRoSQ1wIehfs.%26ch%3DAQEAEAABABQRU-bmbAJDsP86En9VDD-Ibu1odXRpz8g.%26v%3D3%26pg%3DFKMIQOOTXNARVAYGYH4GJSAW4I
+.netflix.com	TRUE	/	TRUE	1783113361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSrYG_5iZL2yNL0-BvPxqY3yl0rDkpBchE.%26dt%3D1779108680231

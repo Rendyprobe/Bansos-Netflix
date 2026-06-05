@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Miko
+– Email: johanone@hotmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2018
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5786
+– Phone: +33781455134
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Miko
+– User GUID: 5FOEAWKQJFCENJ6SMEPAHDMTPY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804114553	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+23%3A55%3A53+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0173b364-e0de-408c-88d6-a14ee946c305&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=DE%3B
+.netflix.com	TRUE	/	TRUE	1804120931	NetflixId	ct%3DBgjHlOvcAxLwAy_c6T1VdGz35GiB4tpNfcyVeyFwR20F277Ak-xogYnwpeh1h9SPuqjOIkOnmME_q2xC_5RD00Qs48GdY0wURwXf5Rml672cgpOfr1BQ4-Iksghx4c1utbI40n2joWIMvH-GOWuxBpuGGaO9glYEAl_BEJfgYjYn8uKWai3hWHgdIm2KKFz7bMmtTsCYgISmGA1tIPMDJ_J_M1FLM3wZedf8-HeL49M91EMGSxOUki0sBLQ8_rwjNGACaIFprN6hr2DRSO-aBvLfOKxA7bW7fTeLU5j1r3TdkgwA-zN_fskyNWSqISUJjz_at4wi6sINJakYn4lObgmffSi7aHtnavw-v_vW7BKLcP3YYX_kU1gcN458efse_qWKiSVngTx1Z81X8mtHRKl0NpMFnuVKXhY6kw-6LNtYNPXZbuT0GUgIxUQDG47MOY-NOWUjXEMwHgR1qZ9ufPQsFrbNwfJDbplrCcs4WGOpDaeY6LMjw5SkHufXj4RAv2VYoSqEvkkqjyLJtKMpl70FKfmkGgNtqwTUjBPDqobXkufgWwnmt7Qjx6IDGA2MldmOrqwvjYutXEJIkXENTFW1Vo4oDVe4pdaerGGm0v3O7lrp0IW8ZQrPxAXN7eFCW8ykNIw_IlpttZkW25JWldFm-B2rCXPu-c8YBiIOCgwjxuqMHGEf2GMmPVw.%26ch%3DAQEAEAABABTCZtUQJW-r_zUANqcWYlHoxOkzWBI0diw.%26v%3D3%26pg%3D5FOEAWKQJFCENJ6SMEPAHDMTPY

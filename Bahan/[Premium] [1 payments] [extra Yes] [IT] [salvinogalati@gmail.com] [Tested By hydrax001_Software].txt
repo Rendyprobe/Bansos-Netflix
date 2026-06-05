@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gioele
+– Email: salvinogalati@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: September 2020
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 1452
+– Phone: +393713443527
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: salvinogalati
+– User GUID: SNBLMCWMGVE6XMY4M3UOHRRUIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793743924	nfvdid	BQFmAAEBEMe3gggR8ZCAv2osAs9rGcRgk9byycfjfyv8IzbsHJmjraE_5jIlMhHDMVZNHgoV4dvPW31qpaU6H6L2O-MeCD2Px-GykwhF-On_Fe2DD1N3p0gxUpqw8FZZB2xUFylGG1QuzGCZOF6qERYSUmCSVMw2
+.netflix.com	TRUE	/	TRUE	1807345766	NetflixId	ct%3DBgjHlOvcAxLQAy0hzZUTByzq5ET1r1iSRFYfI5nVOGULuYv_coniqnjcnmYpbLzSMXizFz1NtNC11Eer_Oc9thzbxjSNBC0NclCTyPdCf4VrT--Te-uCGOMq7S3A0sNEHcaRaLiAHhKxK41qUBmaPsuNugEo4fd7pQj8YnrHMglcGB3aG7fupBK9v3u5rZVYHjWQMH6GsayPxWSTaK5lkabSC6vihsm5JdK-4l4vZ84cisDl69cpmXjMWcJIMqf_AMItuffvsL8qIir3U9-oC52M0OeE2k4_9y3zsEPW5185YP1MNJpScvNZb-glZ1l60scqOhRnCHlfBXn8q-rIQonwE-lXpEHMdf2QEE9UXvcRngy3xsDgb0xFEQT_5KAn28htcxz4c4eoY3Syc6KyuSjpaZZA_EZdUHRSV_pCXgoEetmw6CJvJvB_bQUU6pqYmyGhDbWjMoCyd7ReLxSm9sfp7m4DBzjlhBQn_7nvNIcbMPxDEHOPSqLEjhWbKth7k9adfwAUwapsPuGdaaPlos-0mqsYsursFdM0nZdPWJsso88dl_mUEgJ99w3w7q-0OMcV93pk-JQYNvFGavhO0DN6Y3QJ6tz_7cAaAXQhkSG-mCta3xdtQKkYGAYiDgoMK0M3Y3VI6idNl89T%26ch%3DAQEAEAABABTF-DsDE6gvgcNwuDLuucKcgvbpqM34Aoc.%26v%3D3%26pg%3DSNBLMCWMGVE6XMY4M3UOHRRUIE
+.netflix.com	TRUE	/	FALSE	1807345767	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+10%3A29%3A27+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=735c0513-600a-41d5-ab38-ca1c5a299202&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B52&prevHadToken=0

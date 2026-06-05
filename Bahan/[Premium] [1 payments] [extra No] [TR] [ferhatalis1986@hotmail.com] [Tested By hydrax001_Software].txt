@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Levko
+– Email: ferhatalis1986@hotmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Kasım 2018
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 7015
+– Phone: +905064495686
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ferhat
+– User GUID: NFRXXXRQ4FH3JPEGEXDHTIL36U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798125319	nfvdid	BQFmAAEBEHiOW3fJd510gDmy-JBoNhFgG6o7v-8UZQYCixiqZD_c0tQDFfTcggkVd4_OQGK8-2PalnxSAo-KqcO_nmwyeF-4Qhf2ahckg0QkcnvtMoAkrKLGt8UVBwF1deh9UzwAycfARf4-LMnQgocieeQvhl7L
+.netflix.com	TRUE	/	TRUE	1808844519	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0itUqu9oYMWdRxLDePfaC4y_wnYyCvnQ.%26dt%3D1777308501871
+.netflix.com	TRUE	/	TRUE	1808844519	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAyp13gft6liSMhccJkrBM1eudXCvBeNy8FEwf0kDWW45i8XBG6BYgSQdgBEy4zY8xJTIfVVHtQZgsG8i08dunJYc0oH1g3UCpT8XWRx3VpVMosYQ4Mpj6egbEXeH4uDX3s1myOJkRuHZka_RUaA8w1X720dOst8BxFhZSCtOxdvAvF5zvrP-Xsh5axfpnAB9JQDhb1GVURQGLJFFxAzSLCjOM2OuQFgbQh77O_vCOrxnVVHTNeKf4vS6_qLzXc_N-j2P9tMY0pZ55O3uQjNGR-qq_kc-O9eRxZ_B3RbIrEKFKgA3reh0tYSLzVmHAH8oYcy-ybpr2K07szMpcvgL-vhAlJf3SDdFcGIkduvoEKy_amWyqSG1ztukx86W8rHcFZcODtkWWIIdLN99iubw0uHCGlwTVN1zfRpYa-JoA62k6jEk6IUoGfWQai8AZyjnQ0CencWPSrgAk6i7TO2iPZmuc3EYMSWUSl64aZdmnDsyJCVXr8TnrQ8w1wLjQDo4Tfz9XRV87_d_lEhslZ7LOh6DnbGZHl4yELUYBiIOCgwtXb5swctk32xUEec.%26pg%3DNFRXXXRQ4FH3JPEGEXDHTIL36U%26ch%3DAQEAEAABABRR17kJWAulGcFnMEQ2k_ebsLNYaqniEvg.
+.netflix.com	TRUE	/	FALSE	1808844522	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+19%3A48%3A42+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc8c8c3c-5e58-486b-9c03-c1e6445d386d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773492454298&AwaitingReconsent=false&intType=1&geolocation=TR%3B34&prevHadToken=0&isDntEnabled=0

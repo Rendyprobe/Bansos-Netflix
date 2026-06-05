@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Meven
+– Email: meven.ameline@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: janvier 2021
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 2142
+– Phone: +33632063859
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Meven
+– User GUID: F2GSSOB3UVCHNNJP5AUCTEPU7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780862079000	nfvdid	BQFmAAEBEPWTdGg7PHvVozwT6BCB4RVgHF103XVYQ7-kdivnYKOz2-KDy6PAGEvytDbL6It43EpWAZ4A8oMoMw2lcecHw_kgUnMNpi-uOPWm63WVjf78Kx0GxMIP9kpUBCegBdp_cQnU8QxR2B17j3GOvjScFLPq
+.netflix.com	TRUE	/	TRUE	1799196595089	NetflixId	ct%3DBgjHlOvcAxKsAwrtuohldmjC56h8BgCrooGQH_8GR_qUpn5xQsW1xuSmTnP0wwV48hLcnE_w-SMFJESWPi0FBnFEolSTtdKUrkLDGf-zxcVhmZJqdla4K2nIE9WYSURFiLkJX8r97SRqgEgnzcvh6I4ZfCXyraz2nGlXzLg44l5atOG7GZxlFcaqjes7HIY0mXwxus1Bx--r3GSZE1KIHNq0RHGfc5MT5zs3kwUjomwcr2azbCVpP47R6iqjfA4a5TWArD7B1DaV14NKC-4NkWBzbdC_ibmXy-HjgdOt3naJ6pYsd9-Xh06mz-XKhAdhi7Lmo6UrTy9qHPmpgwUPtny8BQ34c4Xob8x9piIa_jWu83Tl8wrpuZqU9mIXtNxCQEp6qFZK7kZglxGqcRcGAGzDONNrdaDu38r101g9ipdNsrNTabto5YLe8hUoB8BombkVw0vtXGQDGZzlmUF8P2y5zZ64FSh68RcX6QTI-sbPsCmMtpXE5thwBQ4qdmsnURRQkmzLDjpUGn46NkQGVa330UG7YjD4DAnETqb7sfBmogkbiIhUG_rTkfn7MeXLKsjpkj-aGAYiDgoM56c1Xavn3TRtA-Az%26ch%3DAQEAEAABABSyIeZAjH_zTM_jiCZV0gN6XXSL6JuB0Dc.%26v%3D3%26pg%3DF2GSSOB3UVCHNNJP5AUCTEPU7A
+.netflix.com	TRUE	/	FALSE	1799196595000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+06+2026+01%3A49%3A55+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e39be2c-7421-4e2d-a3e4-50c1a641951a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BIDF&AwaitingReconsent=false

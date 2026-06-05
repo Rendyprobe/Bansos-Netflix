@@ -8,13 +8,13 @@ VERSION: V2.0.1
 – Country: PL
 – Plan: Premium
 – Member Since: July 2025
-– Next Billing: 2026-06-04
+– Next Billing: 2026-07-04
 – Payment: CC
 – Card: 5422
 – Phone: +48535371406
 – Quality: UHD
 – Streams: 4
-– Price: 67 zł
+– Price: 75 zł
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Joy
 – User GUID: PWZ4CBJP4RFU3LJTVXH43JMNXA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAayUMPW4FZlRGkQtvtwi1qDAtFi8amlAjNMoQqvLSYjVmp7+IMuublw/9PRqPz4++cE9R6lVUrliydnAcRqaYcc5g0HYHtDv34SFxyAlg/xhnNuU4+eQgfpXo4qYxqHnh5rz/umVMRbTMzS+AhgaxS1P9/VinxkTFdp9H7dFrTD+7I+i4+Du3c+RFzeJfIAxqg1R5ucDk7ABbWasWBIyME+7MwNQd0KqG488+WpK+vC/YTNxuCKldkYL420qHke3iORxGAYiDgoMyyrc9nDbKo5JuW6F
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAayUMPW4FZlRGkQtvtwi1qDAtFi8amlAjNMoQqvLSYjVmp7+IMuublw/9PRqPz4++cE9R6lVUrliydnAcRqaYcc5g0HYHtDv34SFxyAlg/xhnNuU4+eQgfpXo4qYxqHnh5rz/umVMRbTMzS+AhgaxS1P9/VinxkTFdp9H7dFrTD+7I+i4+Du3c+RFzeJfIAxqg1R5ucDk7ABbWasWBIyME+7MwNQd0KqG488+WpK+vC/YTNxuCKldkYL420qHke3iORxGAYiDgoMyyrc9nDbKo5JuW6F
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAayUMPW4FZlRGkQtvtwi1qDAtFi8amlAjNMoQqvLSYjVmp7+IMuublw/9PRqPz4++cE9R6lVUrliydnAcRqaYcc5g0HYHtDv34SFxyAlg/xhnNuU4+eQgfpXo4qYxqHnh5rz/umVMRbTMzS+AhgaxS1P9/VinxkTFdp9H7dFrTD+7I+i4+Du3c+RFzeJfIAxqg1R5ucDk7ABbWasWBIyME+7MwNQd0KqG488+WpK+vC/YTNxuCKldkYL420qHke3iORxGAYiDgoMyyrc9nDbKo5JuW6F
-– Token Expiry: 2026-06-03 22:30:16
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1810794656	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+14%3A30%3A56+GMT%2B0800+(China+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=75a36f88-4276-4cdb-9c66-23bed062ef88&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777701612749&AwaitingReconsent=false

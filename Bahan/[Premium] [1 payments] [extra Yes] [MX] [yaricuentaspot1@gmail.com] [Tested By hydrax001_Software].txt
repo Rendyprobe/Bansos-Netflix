@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: YarEdy
+– Email: yaricuentaspot1@gmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: marzo de 2026
+– Next Billing: 2026-06-14
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: YarEdy
+– User GUID: ZDREMONRCBEU7LZZS3VYQRI6YE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809673714	nfvdid	BQFmAAEBEMisNh_qe4oufMlbM69JJ2VgrZ6NF3VisoQJavkaVqQ_VcuUV9ZhhMpXG5IkSoSEJBT96owxhwvrdcNmgR6slZJNmIpjPQeNwKqBnzbPGWB3upAXGDBfBwOSVQJMOPWwoQQJX1mg5FugXQk1LmMWOQ7V
+.netflix.com	TRUE	/	TRUE	1809742804	NetflixId	ct%3DBgjHlOvcAxK5A373f8-eOa_xHmjlf0RBPqIoNzlN8xx77SI5pNamZMX65ZFULghvBt6p6tIblHWjmLRSb4eOw9LMydqSvkYhw27cg0xkO-zGOSMgoFHMIty4eg892-2uq78WhbSOnPjF7S5IfawC0TTvXi_amKhHml-7kwZS2rWJwkaU24U1NNWx5d3s753u-cxm8lncsEcZxV46OZY8BGoyVv2EBBWOaQrAtV0tjE8WAoSPksxRrU_uQ9TVpVYtIaYvEKm92yXAH9KXHPERZ9RDkkR3TkV96SrYO17Vpf6ntqy1owo2W8FT3nFpSg9HUhmfOy9XOUeBiS0nncEdP3DMbyIrrWR-8HjIF7rCw_mZSPC7bOrUfV3qTMFDuNPfzid7VMsS46t80GD5IzOduqH0Up0gw0ElrVWUw642VA_LSM_4vEgDMDEVenyDcSFfgjXovceVkL6Ga7mAZpCGA4UXUJEQTg_YLerZF4mq9HarXd5Sf2OTAQpItrjXUNzBfwd6who-G99F8_Xy74x7SpbYywQmgpF4OuD4vGy7N3il-orsUH8od2oJqGJC5BMNw5Z9KpBCGJoKUk9SCSg1v3wwfBgGIg4KDPpsFzP_81Nx4uwCvQ..%26ch%3DAQEAEAABABT9SZjMZvmjmr3_r1XNAe1_iein5QwLz3g.%26v%3D3%26pg%3DZDREMONRCBEU7LZZS3VYQRI6YE
+.netflix.com	TRUE	/	FALSE	1809742805	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+20%3A20%3A05+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fb08d7ed-5b2a-45a4-b37a-3ae865e97110&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778137594478&AwaitingReconsent=false&intType=3&geolocation=MX%3BNLE

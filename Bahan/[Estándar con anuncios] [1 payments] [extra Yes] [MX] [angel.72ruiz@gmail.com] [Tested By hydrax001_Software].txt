@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Panchito
+– Email: angel.72ruiz@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 1643
+– Phone: +529811098310
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: angel.72ruiz
+– User GUID: FE266ZHA2JGFPI2EGETARSZJ6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802555289	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA-pYyn9YiDOVRkPj7r5QSBWP_JbqnuFe7RDNLjRbNhTtymjLMhfvMpkDTyXE3ke6_UCq3t1rawmi4XVyDYWg5wK5wrfy0bk7OGvXAZeAvK6ZYEZRWlzTABB6_BrPOhCcSZcZ9pbQQoBY56apWnWytet0ZqKW6895sQQgsiESqsJx5Q9g2kKzQ31Qsc9y5V1o3Qm0krzUvjjXDfFZgTue24NIsUOeZwagfjVfcimSN3KFkjk46is9wWhpBJBqEkHyeLuXYKozEUO8ALdtdlnO-Ph7GGTMIYqKZXmERFXWul2zbmayvGFswRP4r9gSK_-qsV82ht3UppOcscXIYk-5WpgVvCWX5OLloKjOO83X8uczYsWq3sMPxsuldImiddtu4lGS8zH9iPJ25DJsOvvpcrLz1i6taTFkocoIv81sgK9aud81EZv-VvwbddySom0wU4pVlwZ2G1x0AUls1koz3szHY4b4-A4mubO3FHwCb5DWhroOrTMoz7naJysHVzlveiIYBiIOCgyNd8IsGUwHVsdRRgQ.%26pg%3DFE266ZHA2JGFPI2EGETARSZJ6M%26ch%3DAQEAEAABABSYWdfpqRqORaPRVQW2OHAIU6xJ4HRCd9c.
+.netflix.com	TRUE	/	FALSE	1802555291	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+15%3A48%3A11+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2b198ff-1bb1-4619-950e-9bfc2628555e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771017610575&geolocation=MX%3BCAM&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1802555268	nfvdid	BQFmAAEBEOREo0TKT3l-gnsFU8PDtz9gb25-Opl3QsCFBPNo0CiJz5nyPNPqfP9Xn7-IOHIAH8J2PB0hCBX8ucrC1WmB7HL1V67shu-NyFYx4THwFijnOdQCJOcRwkDnvwIFb6F8cNHr0fnTq4vxVlfd3OP2JrSC

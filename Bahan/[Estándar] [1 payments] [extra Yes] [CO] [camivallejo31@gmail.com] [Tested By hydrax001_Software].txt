@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Salito
+– Email: camivallejo31@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: mayo de 2025
+– Next Billing: 2026-06-09
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cami
+– User GUID: LCUHYDVATFHCHAWXQCGY2CBATU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEIDIfzIxa1b8ke-cFAD0VaBgM72O94ZgRXNHfccnrn-qXU1STstCwkS9su6L9UVmmNcIY5X4AZrna3LJFaNmH3In_8mdutv543Yyw1FPC8BXpqFosYbkcACLtw_a-IYkjwUNsU7_y_vUHwCAjCRk5qns
+.netflix.com	TRUE	/	TRUE	1796485119	NetflixId	ct%3DBgjHlOvcAxLgA65JI1sJ4bi0cenDPNXNVPVtj1K01lcXOK-4zmf_CauWUp2BqUJELlR-g0jbbE3N62moQMu31QQWWZtVx1Rb4J3xVbD5THFscJyAd8kFXum8nVp7y6CiE1iy3Mh-GL3V7FOKKiMpZT-mBJ-rU9aTK7H9Gozz-0aDl7Un_5wwoUYmjcfEf4h1qUnSS0y8FWFPJH1Oxc_V6Ui4aM1Q-KGDrZvKY9RkI3fSpzPqhrTBHid0GJraRDld-CWq17CNJRyvxPyn9-cYiyiXXKjPvLQGYGEbWYMt1vM54AWxiqHXJs3DP-mFi8sMQieO-DViKELuVFsOgux8BSPCjmjw1tpGV0lx-kBHKCdzMDg4swpz5Z-CQvPYrayayarOEgrrMFO-5eRqZciKCdLxy6M0ZEArNNO0LjBBZj5Bld0QaFN3JvSvYA1-w60tHQt_9GC6-ZqzSuOhx7p5HbIUsLErhKh0XQcD2mfMzkyoNC0U1tMamBGZfcTxxi_l1RBJAztBz-NiQn1s6D6TBi69xNtBfUp39ITuqIc59bjfsry_yGLEYoTSYUuTPePYsaYjJDtg24MEWypJ8hEZGJot88k3nGs8rCe95ABguXTp1OCgXcAK5Vvl900pQ-pgjFMXWrlJgV1NARgGIg4KDBK2cn0bG8D4H7SZGg..%26ch%3DAQEAEAABABTpZj0zpChl6N9aQsbFVH7MNN_1hi3gsO0.%26v%3D3%26pg%3DLCUHYDVATFHCHAWXQCGY2CBATU
+.netflix.com	TRUE	/	FALSE	1796499506	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+05+2025+14%3A38%3A26+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=39bccc94-6a31-4168-ad7f-642f876fb1d1&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1

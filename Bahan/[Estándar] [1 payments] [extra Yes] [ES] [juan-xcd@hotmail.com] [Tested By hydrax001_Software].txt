@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jacinto
+– Email: juan-xcd@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: noviembre de 2019
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pepe
+– User GUID: BSE7SIX4Y5DQRAWOIOPITZSA3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799958393	nfvdid	BQFmAAEBEDok0qkHWtjK5YjTAxKa9gVgFktq1ko-OrkWyQWHlnTG3HQCC5m1Vpe-F4zw0oGyZ5vbBpSqPT7oy-dOJUJq_4uUOr-Ipf3ZHnq3jMiyeA3KOcTdTLN3OXfMIifwXNoHd7_8UCq1G5qULeyw3II7-Jtx
+.netflix.com	TRUE	/	TRUE	1801155179	NetflixId	ct%3DBgjHlOvcAxLqAyY19Z-4BVoNg5HHZCY4YTs04pSJfHM6n-fu9GAcqFSGUWLS37TIKjFPNKqx-e-K63oxQqmgJwyP263G-BiJGz-rmFFEeZKWTp_xvE2hZJnMUAok1aa0XU0zLEuS0GxxqsSCczdfDEFgk_gjCg-N6Q3VUjLkLX5klec0Cf4ICxzp8S5CeIZrKj0-xddEKQ3o4GcLxFZ2aHDknjwO1j9Umi9Ns5l368ZPPjs0cqMd4yCUqJ5k9iX_AZEGk7C3bwJ0_HcfyIoeq1VkLCrot7WkVo8d3eN7Sr98s_UMrov3q37Qvg_4iIzMlfziCi-sk67lRrSRWM9-_pd5qV8Y6xJImfL0Yg102iVYTGy7SXDzDWAU9HX4RCYRxws1O55IjTtcV_E7DeS6uAKyR7yx6VfR6CMowlLU0FoCGE_4s90ljCGTQbf7hiOugld-XVACIlnnDBXA4BpVZDbTNM7QwaNm7eWL6tY32CLYXt4RYPGX-0UrDHMiMHkex_SA09BPqRd_cE9ZWqoB2f8iV-ExfwBKIE-KRwvoTvd3VEzN3UM1g7ojKAO9kzjwy1eEs1-Z83c_xPAwsPrVcR2nRtuQ3hPsgPyY9JvwOdGif4t1dh_XCEvA4aX6ALKOXRE0lXevkRjCqd7ipvLMNYrQDscYBiIOCgxhdAekSudCxJae4-M.%26ch%3DAQEAEAABABTzBpEnTAboqq3gN2C1f9-4AJp0a1g7OTs.%26v%3D3%26pg%3DBSE7SIX4Y5DQRAWOIOPITZSA3Y
+.netflix.com	TRUE	/	FALSE	1801155179	OptanonConsent	isIABGlobal=false&datestamp=Wed+Jan+28+2026+17%3A52%3A59+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&consentId=9477d42f-f748-479c-adf9-0abbde6849ac&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=ES%3BAN&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1801155179	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBQS4p8ifD2D5uALSIDld4GWxWYpChFBU.%26dt%3D1769619179697

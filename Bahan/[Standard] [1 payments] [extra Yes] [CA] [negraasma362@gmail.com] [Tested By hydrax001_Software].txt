@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Asma
+– Email: negraasma362@gmail.com
+– Country: CA
+– Plan: Standard
+– Member Since: October 2025
+– Next Billing: 2026-06-27
+– Payment: N/A
+– Card: N/A
+– Phone: +15142264591
+– Quality: HD
+– Streams: 2
+– Price: $18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Asma
+– User GUID: RVBGCOMDFRGA3ENCDXCFVR5IQM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792688687	nfvdid	BQFmAAEBELQRGfgmsvruB_XgtTVhb4Rg2jZFrHXKTIlm8harptx3AggYlj9mOBI-Av36LVS1TLg75f-i-pXoHDOvXTJ7CSNBtjxIT0Y34lN5Yu_2DI73-2AxCI31VvGqiJK2bZqnFcJDOStwxAMG5okimGXFwHlF
+.netflix.com	TRUE	/	TRUE	1800145546	NetflixId	ct%3DBgjHlOvcAxLlA-Y0f7odeHRI98fKxRF_PAa-L6ENhC0nd_plfHEYFC5QMbb4X0HfiNCBspGuJQv-12c7wcaefjAmmD1pUDIGcecuNTzorP3DzdCFTH5fgE_xil1lK7xoE5l7wAW3X6NUihwqQBf0MJEMxeKRjm3jTjL6phWjFw7mVyTrmhsehZwOoJJkteKug0XUjtBhzRviO1HS9GacyFTFd0rIz3gGvq09YdRvvoK8gYeDPMvYNTTfaUYtkSwJah1byQThj6Ugy6Fuj6bB94VrQxg_qg-vcHEIf9SEIA1xc6dioMld2QU_90vLCYJ75S5JIdYiyknHlovYAJ8Gd3_x7DdERHqXBUcegxv36Y9QeUe-p5Q15U8mf5XBxootusDUgH0hoWrEa-Esx1WrycSb1ZrRM3ypgQCTH1tbGmECBBG0i8lxzb2ZjNulllMK-lkLl9rSQsGXVhQ290X9rlEj0JYMkvzBhWFvjFzaCDVDNQVY63TULyXSJrU3JWH9FQwGNSsUrlpu5pZ79Ef8AA0ns8ZD7X6BEyNGCtQ3ir7VbPKhUD-E2joC1oeb7V0jvx6Wtdk6xuAIoTEAayWxmyXMdxzIYI1tAtn0lM44th25i-3w1uhhYKj9iffgYom_mTuNXS3epZfqlVO7KRhvGAYiDgoMQoeui2EdJzs_dfPS%26ch%3DAQEAEAABABRiuGy8rU_DvhnUfX_nE7U9CJueJnbNZiM.%26v%3D3%26pg%3DRVBGCOMDFRGA3ENCDXCFVR5IQM
+.netflix.com	TRUE	/	FALSE	1800145552	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+01%3A25%3A52+GMT%2B0100+(GMT%2B01%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9fbdf850-19e0-4aca-9086-b622cda36a15&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

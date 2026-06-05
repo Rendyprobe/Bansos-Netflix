@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jayn
+– Email: dianatrxn@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2024
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 2291
+– Phone: +15593004546
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: diana
+– User GUID: 6IONVC7AZBE4JD3U33BXOFSJNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805861080	nfvdid	BQFmAAEBEKomf7LDy1rbAlxKOzH0LoVggfx-nBz_ocuO4k-7OMb9v_VAel2S_5AOaS81176sAWoxzQld5rsZ7XrNQ2g3ynemLpXTDEvWN8SfHn65eaisG_szu86Vo9lwF-8_-7wtD0vDPRiZz48LE9KAXZ9Jb61T
+.netflix.com	TRUE	/	TRUE	1807055313	NetflixId	ct%3DBgjHlOvcAxKCBMr-ONuHsTwF7dXL6l0mrEqaY9SQ1DT1vc55iEMrBr4MbMCpugEZrvzWh4og5sd8eo98GTDQPgreMP30RiEcy6HYr6lZhUcs6m6Im-RZvnu6RAQP87aanli3eKt0LaFDYSS_n3dvtaZV_YEFGxvHXQ-K635wn64DaCmoRqpnXmE9_kTObZPQfMzv_ioN-QZeCEbcB6asF4S8-epIaL591u9UOac3QhWja5tEvupamBYZqnUzUluV-PMEqQeUN58FiRX8AgpvKuUUWhda5KsGbhtNA2eMAfSHfs29vV2zpyMauKbDYjLH0rWhV85bB5zEb5Tq2WRIV2LHksn6tsA2yuTzcU8PZV0XBffe6dCoCumYIB5LmX_oPwWZaQ3dOK8yzNIZRdEY6K-mWZfa-vfh93c_wjPI5rRVBHSYq8STGHLf-gxWlfG3tHVgOz6LW_eG9-WjJtA0YaOyiJF_AvYy2Jub3i6HuZAaswwGuMAbkWhqLRr2VLBg9gcEGNZEvCPQFmkvvg94Ae92aMIOkDVqsAKLHcEYu9haAVBd7WVbc7MZo8fia45T-FvEq4aDsOn_ADEqTl3t0J_bdAUjrD4jnkVbI1Ym3CAVJYpCPRYnSO-XjHICB6vwpasV7vLAB81JPEF_PJvdjuHeFKPH190PQDU8vd-jHHyiqYwVM0naP3mMdRMYBiIOCgwANR0afuG_np_FtqY.%26ch%3DAQEAEAABABTjkMyOC_a3ljCLU1K8C9J3QjXGAsE3KRY.%26v%3D3%26pg%3D6IONVC7AZBE4JD3U33BXOFSJNI
+.netflix.com	TRUE	/	FALSE	1807055314	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+16%3A48%3A34+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e1ae5c90-c225-41d6-8431-78d2f8559c03&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774325085537&prevHadToken=0

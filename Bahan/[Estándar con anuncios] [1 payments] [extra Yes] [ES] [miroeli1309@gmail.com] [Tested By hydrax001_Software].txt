@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DARIA
+– Email: miroeli1309@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2025
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 0329
+– Phone: +34641601854
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elena
+– User GUID: JPHZXR7XFVGEXDNOGFYAJGKDWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797429077	nfvdid	BQFmAAEBEJiZ9VlT4QxTm2flInrU-g1gqlOitJpeOIBJkOCgaQiENtFMCHYaBTkTmUFUdWi9OTOKcqtc7EPf6QKGDl-0tFMEKDABxi_NmDEHSg4xdkqB2wzR6pYvRgb7JRFvlrBEOzsTn9U0SjG0Gi-h7Ghr_V49
+.netflix.com	TRUE	/	TRUE	1800290630	NetflixId	ct%3DBgjHlOvcAxLkA9G0V04UQzLlvYknMhojm0nhxGTxGOYlXopDbTSnyYmi-UfrH0ZylgKv_SiOcPPaP-1IGyPeC27mPdHCf4QWcQcJRbkY4oBDVnv1_QuFPz_nnu17rrWBHxBXqFZDQJa11ThYYbBQYgYhXXjeTBVkTpH0H9U86Ani5Clf6L773OpELI4Tch0HBRV7ts3pMAiLCJVm_hoPu-6CBih4zsNRH0mrOTQuYIaqXNjg8waxanVRFviMKlt5I-G3y_sxX4w2jLZn3svkdZ5XYm2iaYIgKuU9xpzbcmAJpma-zwRElMzscQmvqTJPf2IkhlAdY2Yg9-193EoK1WFyDxX_vEEBtkSjBBoXHOSsjpXAk12TTnlm7EmlEWIA8FFNnNX-Lhp2D8A24DHT7ETKPjiptm_rfC7vReGLs2rgeHWzi7pQjLHiODBaElzCPdsy0stRWuGY6caBGrjCrMRHfpDHre7C5X0vQiSO128JZsW9w17vkJqrp0jcb-jKM1bgk52fEL-0ZBcd8CbyYoF9pgxU9RVF2H4s69_L6EhzziKDA9bvwsCArCXKlYCRNamM7ZIyhb7jEw1-LprXDG5vgZImOP6nJbbIQJJ7qEsSF442mHkE6gWGXAz-JZBFRUZy7If0aEKVcfp9ensYBiIOCgxTWTntiUTzrfeDj7k.%26ch%3DAQEAEAABABTeDbUjPJWShzKdmAWNLc4nCAnnqA13aps.%26v%3D3%26pg%3DJPHZXR7XFVGEXDNOGFYAJGKDWQ
+.netflix.com	TRUE	/	FALSE	1800299774	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+18+2026+20%3A16%3A14+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d0f2a6fa-797e-4571-8c66-c4c489c66e45&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BVC

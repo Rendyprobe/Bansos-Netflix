@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Filippo
+– Email: cinzia.bresciani@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: agosto 2023
+– Next Billing: 2026-06-21
+– Payment: GIFT
+– Card: N/A
+– Phone: +393931075783
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cinzia.bresciani
+– User GUID: SBRG3DY34NBPLOTM5DGINMRLAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798549837	nfvdid	BQFmAAEBEKBQL_FO_LkB4Jjsa4P-UPdgMbVTJ6bklGcf6EUYiAzeTGDzLFWxlK62FYcodyAImMKgtNc67zRIyN3JiuWmXHg5eQm-1Pk1uBhHu5rYuXbcziIVHK3Il0869eOCUwAPfwVr4jbRiHrGpBTP2K8egx88
+.netflix.com	TRUE	/	TRUE	1798549914	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AuYad386yx1HBtn35QYjzviOQKnYtAJfWALokqotGxhDcb1jSrFxdmkJGmsKrzJebe3Gd4pcPgBabJhh_IpJlVNwXF6tRRWKseMhNSYHgd6r4CviglpixGJ09eAG_c7dTqWbU6xaGVIEcLcE4RdkHM49Amj0_S1WQlAmWLZ-l5e8kRL-lSXqoQ-KLPJDY28qppxNFtRLnBp2gBAsICrBkENrjmbqF75Rt30AuYfbcHyQxztxa8AjJu-S2lSbJLq3ijQxRkkZFyVX2-Regut6ZwqBNCf9jDVCcrHIsouDLOLBXbstZFAZH01ej3zdsMbVXJ0L89ELjcTCWZnQnR2G6JSH75AwoOdvOdWxM1csLWKeRQAHKLLU738ac1FrphQBtRwHghjC1WjGGxr9Pe1omjhrPYsaSXEOY7vFZmJsARoY7Lfcw3DO5v0uEP5dNHsxhyFN82hiAHVUk8FSNRVQp_uN2X7jNmB41FqkGTPJxPnJl1K85ilJguX3GAYiDgoMQZ-QJo6EEcWMjsah%26pg%3DSBRG3DY34NBPLOTM5DGINMRLAE%26ch%3DAQEAEAABABRot2j50rLis9BIaM0e03gmiMdk8WNoTFw.
+.netflix.com	TRUE	/	FALSE	1798549915	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+29+2025+14%3A11%3A55+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=01768160-36b3-45cb-a43b-95990e28879a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798549914	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgDIW1U5REuRFAGbjYhoc5lAZjr4ze8co.%26dt%3D1767013905298

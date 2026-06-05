@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Justinas
+– Email: linetadar@gmail.com
+– Country: LT
+– Plan: Standard
+– Member Since: February 2018
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 6679
+– Phone: +37067340233
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lineta
+– User GUID: M4QN5AKILRDWDIADRAZ7AJDSZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798489621	nfvdid	BQFmAAEBEItA5ly4k-igWh2UfB_Bx8VgMDyQrsCULl1kFND5xtkdgra9J0Tw__j_5SRiCUJw9wSDefmlUfi3JwhUzph52cTkbPkiUHsQIP8J2Ote72EDgr4f3XB9bigBAu7-Syt-1GXus2Oa9BNlLnUtwPkh-cy8
+.netflix.com	TRUE	/	TRUE	1804282343	NetflixId	ct%3DBgjHlOvcAxKIBAqZ1sRRxMk1X3ViSDqPg1TjeCanbipeD20NhYi_QMfuzwizwIC4qkoW2Tiz9ZXbQx8SuzfPurufs0PRnhqsXJeqZSqWyXCwCJIjnrZ1zZRY_oUxIBOErWovoyRjM_V8GliLYKRQM6f4SEk5wmxLs7xT5lxnJmEXSmm_GeEM6GSMBmuV4JFdjB391y6evg31CGUcuTH5XNjYpQaJdMyomX9shvsOov-hfYN5DR3J9kB0loLPgcVDokR1OOOCgbdXLsO70P3W8fGhq5PQEG4uDlTplvi1krvgl8-pn3WHh0Aa5By5FxFjBYEa4U0aXK9TXrpZepCoHoY5qqdEkC6qHFQZ5uoT2Rk3vvnjFe5tRVAEByW-rlNo2v7TMiIHVmNZog2gE9Yt9czwZZeNNpI3BVaJMbE6qTm4SkbhY18oiMpu-7xFJapmWHnipM8tcqNKUxISKrUTd0fcVA4iTB6s7u2pJC7LMuO90OwwLk3rXERLGdOQCQSigDUw-PL2W-sH1OxDwbbGcTGoeSkchBZMVadkpT3CrHQWqyn1dh8nntVYc0NPgicPO1gzG4HDYaMIRxW1bH6HuUhQ_axXwGP6yA2jZeedLQV2DI4OgF1lE6_ZolqCpItOxeK_lS1mM0rpq69rbkS4CxeTEc7f1nsfsE65gbGX1d6D_ZJ_bEdzNTTNEYFwNAD4hAcYBiIOCgxlZoBlHLyzXJPgd2c.%26ch%3DAQEAEAABABSoS0DkxT52hnMWZiXAcLsqdTL4efJTaiA.%26v%3D3%26pg%3DM4QN5AKILRDWDIADRAZ7AJDSZM
+.netflix.com	TRUE	/	FALSE	1804282343	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+23%3A32%3A23+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c3e43503-bfd1-41f4-beac-82ab537eb51c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=LT%3BVL&AwaitingReconsent=false

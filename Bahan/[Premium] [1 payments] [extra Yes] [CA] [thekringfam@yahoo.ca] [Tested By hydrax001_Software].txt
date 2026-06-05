@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Logan
+– Email: thekringfam@yahoo.ca
+– Country: CA
+– Plan: Premium
+– Member Since: April 2022
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8094
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: CAD 23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DAD DAD
+– User GUID: K7J3JKK3KJAOBGEDMDRA4VGVB4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1803861273	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Aun1Q-i6M1i33KRpkvMEwsAUozX3i9Q1A3poOcoIQngkPuboP6hRe6yhFBIc5d2TAcVz4SA9mKx11v-1h4RR9Uj1tBSxZAOgT0g-BSJkOn9RMMFuVRhLq4dOhkSXJ8FfCdzFi_aetJG0KuYEXF50BGV_f-DhkeGFJOYA3YDG7-OysG9jJylfw__4vgU1o0YxRA65a7HiIB_4S0y_b91qvgqZFeR3KAepkawbsSnPK734u-rUv4UOE8x4s4E1Jz47b6-082XYTJ8ZcZ3HeWxAOya3vofT76icZ-0SYdL4nlpByVumrVuvPb8Vz_R2ITpJCdJRoyvL88y1t0Jb3sQ19XSVRdFiIX9WFBeX5oPfs23H-fc5OEHDFPQPHEvP0tbofS7yT8-Swu5kfSECWf9Yl6FvVjyiSbJeXxm0ri6aHpNUj8F6LE-IjeVw7r1B4HM1ufuyKmGwaHUGu_nakrqHdR9eVxsHOzpi49-b5qk0I6Iv62esw2dnkuZz0wzbGAYiDgoMQBZbOtb8DslKGnJ5%26pg%3DK7J3JKK3KJAOBGEDMDRA4VGVB4%26ch%3DAQEAEAABABQV9ICv2MR54H26p3ZKpyZuUUbKpPrKFz4.
+.netflix.com	TRUE	/	FALSE	1803861275	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+19%3A34%3A35+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c063529d-c152-422a-9626-62b2ef07fbfc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON
+.netflix.com	TRUE	/	FALSE	1803861269	nfvdid	BQFmAAEBEBmDctvlXLIm0QkF13FmXVNgGnLczNX90q5t12QQ-NwdUKWRpyI7JnV9-sJpCMLNKTrEwPU63OxC1b1tx1twahF66wE62NfI_tchqEEQI5FoqjEijZiUOokErfR-Oc2zLXUp7tkXxUHlUCIUheZXcA8D

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cooper
+– Email: yogeiryaybar.opx@gmail.com
+– Country: DO
+– Plan: Estándar
+– Member Since: diciembre de 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 9106
+– Phone: +18295586752
+– Quality: HD
+– Streams: 2
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yoge
+– User GUID: R4FZJD67KBAY5PWXW6W6M6DAUA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784314840	nfvdid	BQFmAAEBECclEavEvcO7Yo4BAFZ7Dkdg9AShdoG12OgS1nkDmX9kagUsrEIFRC_GjDiNnKw-87e-qz226MS4MO1ZNNdCl9WPrKdDWHQdehoEyZsgcMsGMxKBrwnWfLqYKhlUvuTgaVKSU92paqt9uUT_XY9oRWzc
+.netflix.com	TRUE	/	TRUE	1784314846	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AhGWtoUXwmwk75Sp05FX_jjz_P97LNxXSqrVatPL4iUGBe3TOjK0I9uzLtettLJrpWZSrrtRsQsszuQiotGlJY5kHrwXd9O_3VOMpCOQQnXuaORoK9HcV2nFV4JY8FKqhDYPY9lJS_yxGNOnoWxGWKLyx9Y15XxBALcpDfWdc5ZYDGp7ngu8uDsKsHGHvX_XanOVNYDzs3ruwRdyrJO80sQ_WOrZmLm8Rve_t1Qnr0CbXCUaePAMt4Baq87PXCXo7-ygcZieO44Ospf2p1AvmXdCuIsHOBMCwyWbI0ySpUecnZHDEdh26nI8KudlaiuX1DBVZiYTztnhpjgqeGvFB_cXxJ3tNlOV_pSBwaJoQU0tIZHnCJF9f-CRX_fSoN83k0hfAspQlpf_cTdzPRyHhKwuejP1L2XCmyRf632hAVdflJyKak3OPv9BWck6ynlpt90VV6ZvUwYp-5Tu1wPL_tIOUbb-G2aJG6uDhcZIcE00VsyLqRzEoa4YBiIOCgzVQnx_W2MDJ2PP7Lk.%26pg%3DR4FZJD67KBAY5PWXW6W6M6DAUA%26ch%3DAQEAEAABABRP781cjVTRAKw29aETCbH8URorri3Juy4.
+.netflix.com	TRUE	/	FALSE	1784315248	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+17+2025+15%3A07%3A28+GMT-0400+(hora+de+verano+oriental)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf836dc4-76d7-40e6-91f5-dee14a4f16b4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

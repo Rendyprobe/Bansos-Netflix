@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: cedrichuet49
+– Email: cedrichuet49@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: août 2025
+– Next Billing: 2026-06-06
+– Payment: DCB
+– Card: N/A
+– Phone: +33611317265
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cedrichuet49
+– User GUID: 2CNGPEXYWNCWJOE454RMSP2KZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799965862424	nfvdid	BQFmAAEBEJQXw37CqTP2eHpGYG-_WtBgc4B9iUXs8NdPvb4GjLlRFvB5Bf3Cab1HTyxHuKvH8gVZlalXpmL8k0bc3-IO1x1Ho4V0MfTCfMmYdXCFP1xPBu5AKHX23_LmGQd5hMFk46UQVcDUOMGvBtzxvJi5ZecO
+.netflix.com	TRUE	/	TRUE	1810385895890	NetflixId	ct%3DBgjHlOvcAxLwA3bKgTYSAVuqU3YOMHINev0XBEU1TOMFmPQBi8ypn4Je7UQhfY7ltCH_YCjC5teJ3BxJ-Yt0xVHjXSQSM94hNngVPN1JpH55S0OItJMEtE6icDURdX9-yWp9zGpMcGHLw-ExipBCYoPZrQuJNzZw9E0qzGY1ZC_NqGmmKHkY3AObHxxtFlJZKwJbRX1AmhxthDVlse1xRwm0EEsXuoRdk6Q8QCjK0QkG906MPqKd-8ExuDaXtooWUilf5Z5L8k0qgqQSrsQegqI5VULE52Umhnqc55s5eAkwHHa5s8Cx2jSPMcx45Uio_LmaM2cYG6giprygqxvb4OMu4uhsJY6NwsW2BApTGKMyh6rzgj0-TzsItOut7uJMDsqeATXfk6hC9L35aI4TPffw9t1B8S5CJhkO3zLYHZL0l2g5xXcEE_tO5cILLjmxV1HYb3zUcvO51xDwrSO6hTb0rEAj43vKaGnokbu3CbcKrGe_xbExGz9ao6vbhQVortZd5QdpLyk8-DWEeineskqaQ8MwAhMFxDHas1AFdQOfsK1gWDnj3spXtSFcfkBk79PkCpkH6m3iN27Rs-SKFSsK7mciseyozsQtEjkdlSFFrXIr6CnpNg2DzYoLhvLfKwWOMJURG2UJRAz7vMs1KV6sjRaTTMKlUBQYBiIOCgwlIXechPZl-5elhzo.%26ch%3DAQEAEAABABQpAhqHaz3JJXwSiv_xhD1onUcU0CKOjbs.%26v%3D3%26pg%3D2CNGPEXYWNCWJOE454RMSP2KZ4
+.netflix.com	TRUE	/	FALSE	1810415236000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+23%3A07%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8373846c-e0bb-4117-946b-dfab9e2f60be&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BNOR&AwaitingReconsent=false&crTime=1768429869317&prevHadToken=0&isDntEnabled=0

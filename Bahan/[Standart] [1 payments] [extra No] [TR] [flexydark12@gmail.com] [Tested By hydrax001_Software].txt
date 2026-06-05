@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: vAlihh
+– Email: flexydark12@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Nisan 2026
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 1933
+– Phone: +905071082427
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vAlihh
+– User GUID: 4WMIOLGDLFHTVCTXTC3N5ZBNWU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787518594	nfvdid	BQFmAAEBEFiS6gGs8tedIM0PCySWuPVgjfdowwxeySe3uish7GwKoOm8PBWaNKCGTVm3_7yLPq8h0GPqqo7XUI5K3tnu_zldo9nvIcCkmViYqMRntgxp-yRUxENLOY7qcRsuZxz2tZrLPhAmTKfn0NtwfJUbc7U4
+.netflix.com	TRUE	/	FALSE	1804020548	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+23%3A49%3A08+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be8701e3-1dba-4f59-ad35-f36b29b02c7c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34
+.netflix.com	TRUE	/	TRUE	1805231406	NetflixId	ct%3DBgjHlOvcAxKCBHGyWSc9ac6q3ydoHfpwVlLeIQyi2etqcxNe6dHw0YgSRUCIL_yg32-sKw9ZuJLSFCYGABFMHkX4aP4Sb6v_Safk5s4zBrsk7rGwcJjfjqlvdPxjxQUoxlhIApMSvjEVLFsbq8w8PTrjNqoY5ldLKJdei7dsHq7Hu1QWtp225KMoPDplkoLIh8wRtUgBv241qAeguTn0CgGGkvq5pR6k0Jpsui7U7daRKh41rhH0wxbxFD4e34dtHYMvbIxj4p4Dqv69ufMCTzcJTtsiBs1OQNHSrDWLqMPkewpQPrwsI5NFgzSGgOgbcG9Jab_edtgsudZ62CRZ6O6W4VDXTVsOp2u3IBkOMh5tbURdprl3r5v_kY9IOwX2e1ED3knGv1FD40PaovZr_iKvCTE31AI5pRNk_soBdpz4b359Y2WSm86Bf5Elv4eL7DfIRyTW7pGkhEGbmXe9PUdPI-NwJ8xpXPd6oio8GnYOAZQ0FR4MPYY-rWP8MTZ3WdKuC6AgiO9s0QeLzx2XnoLVwbHCEhB_yAlsD_duppSx-3iEKuVAHd8w2vK02lLrmKsk8u8X0TPX-XCqqMRGCq3Vos87vaqeLR5uibUlIJRR4XaKW-NZ4dyQaWka5nhTkuBksdnWjEG7nh23FxZnvjWeWOfrtdZL9CwEYjxzXrkwiGh8E0OtivjO-6IYBiIOCgygVZIh0sV5XRlPjXU.%26ch%3DAQEAEAABABQ5sMc2__0-IH5pcYQ2DTc1vXCPX-ZHc1Y.%26v%3D3%26pg%3D4WMIOLGDLFHTVCTXTC3N5ZBNWU

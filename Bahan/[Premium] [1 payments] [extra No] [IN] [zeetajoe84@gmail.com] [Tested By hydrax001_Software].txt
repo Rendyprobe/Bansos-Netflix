@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arish
+– Email: zeetajoe84@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: agosto de 2024
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 4753
+– Phone: +918891945524
+– Quality: UHD
+– Streams: 4
+– Price: 649 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arish
+– User GUID: BBNNXETW2JCOHHKGD7Q76O5ZRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805798976	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9ApFk_q3k9cKomGLaPbbwXiGSXgzimLfU75aNJKZJbEBMawDdEPCF_dUehCTKgEDHcjR14uh_sMKqIlA2avDIjzdIdpK5YDv_Yr3JL7w6COKgvCTTots7n_Fqj8MG7Ope8gQH26ZNxsGHBc2LhOEr7r5DSrhwSnbPrhlBWVqBn9GFksVaAnx5x69bbz-g_wyfB630HPL6pjdDeY9y-9rrJDDi-i_i0oNeyjsQMmH14zch5pimDbV2bSmlnDiAxi1c0FmJ7SYVK4DwlFsm-QzFDpvCx1CCk3w2FNc94bsIWKuAK5kh4Dc_XwI4wGYBUqVromEabqdgvRtcpXK0RbBuI6ccUDlpGXr82FgtW0_Qtq0kauQQhwGAsBgrzLTRrPKup6s2eKyuCjJT0FpgZe-fXYGVkNoDMxfHwNKgD2vbnur5ertDNAGQZnrAhJRW7I5Aa6ZYEONNTDRjBw9pVzWlkphNvCiplEGCUfyHgJ_9y2yJRzlmjsF8xFW-SIicchgGIg4KDPNmlXgbKTHOAUx16g..%26pg%3DBBNNXETW2JCOHHKGD7Q76O5ZRU%26ch%3DAQEAEAABABTeiu8JSlfmGKmThpBOB10kGSKZo2iUINY.
+.netflix.com	TRUE	/	FALSE	1805810270	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+19%3A27%3A50+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d03f781c-7b30-418c-9cf4-a150d5a3fd84&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

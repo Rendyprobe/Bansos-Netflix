@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ryan
+– Email: mespetitesfilles2019@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: août 2023
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: N/A
+– Phone: +33674694325
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marie
+– User GUID: E3MKRXMDHZHJJNLEBJ2CD6YU7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13455067537533109	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA9wX2oB78h2Dp3uCVDhNDMQ4EcSr-j8J-ONUaOzUN4acg20Ouqt-L8GekG-uGDIHXLOFrO4V8BH_D54X4ojR1VzTaITq3e8RoRnxFYngJTRiUexN7eAE1MwJ8sEKoiHOD7xIeI0SAVYxJ3EMsfOBo19RPBo1KmgMwgbbMS07MhwZc_gqOSHi7TlKUUVuH46MIGXmfwEf-e5qc_XK47U3owXJyF8HMRseG_tn1InFvUnmfPMO4apzpQeZuHeitDWfwGVYtSIB-yoQ8tQllT6BMZ7jDfvKaI6_bF7OeP1gXxqSwvZXcqiZp_YkiCmPYSvLQPUqasM3ZIlKpOn70YHpW006gKfeO0zF5w2OqAJXUWaymu8w0NLDUxClVgoJbFsLzeytpOvtI408IFcMddrpVLqSIweAkB1EIpUUhN3-0sgeX-Ytn2VZIpwvGpaNZ9YGNKZUlh7ggsspo6bWF4gBEi28hbKZvgbRthAk5ujF_dHF-1z02ptRcSlmspE35XN26D7XXqwDYEPLYSZc4k3gWJ1CQLEZh373X8b2GAYiDgoMSVCtDUazNQ5HyyQd%26pg%3DE3MKRXMDHZHJJNLEBJ2CD6YU7E%26ch%3DAQEAEAABABSsRXFjE5121rvDUduNrAccFFjixwztXGc.
+.netflix.com	TRUE	/	FALSE	13455067522564236	nfvdid	BQFmAAEBEP7dn43FoBNHPdOEbyfOZz9gmvBneiSXXlV9Upfh65J0mFMIVZ6IErsGAvtWgiBJn2km9cW__hRbbbSInD21G4lO3TZTdE9l2im4VXo7-c_zOq83Y-JDWGWAWVZ6fn_Tq7TuuS-HAcEuv_7iMOSSEDZR
+.netflix.com	TRUE	/	FALSE	13455073039000000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+02%3A17%3A19+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7d09afc-6fbe-4ef3-a6c8-e0a6335e78db&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775224642111&geolocation=FR%3BPDL&AwaitingReconsent=false&isDntEnabled=0

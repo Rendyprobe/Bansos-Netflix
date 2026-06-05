@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kamil
+– Email: kamciooficialkamil@gmail.com
+– Country: PL
+– Plan: Estándar
+– Member Since: julio de 2021
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6623
+– Phone: +48730698680
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Magdalena
+– User GUID: IYT2OH4GY5CXXJWORTV2FEGZKA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBEFmIZK9qr1HgJX-d5CGoJBBgScSzm6L42cerdALtzRAbe43FZkIqaqeoW4gOFJPwEIWoKkknP4FFEYizEWy0oL7hA9ljxJ_JLzYRvI7HRxlkRi3nA8NV_Ej_zJUqMbhLvNaPg-YV-hPws7ZshFqtZjiG
+.netflix.com	TRUE	/	FALSE	1783113361	NetflixId	ct%3DBgjHlOvcAxKFBGjp7DoR_xea_Xb1arQsKjjrp5qgBrXAX5_0Cw6_zWUbieQBjgRCZoxGeL1ZvvZKm-zcLOdHDCIyNmfcMmyDf_rMBax9wf24k28039YqYgLl_qAH3X9vodxAqLIkvHMcywkj-r0uh6F_kIA042psfkaiiepOscGcKPCoeLQhKNOQsF-Ym35gRo41EGUz0xs6MsP3r2WeYhvf8W-8hazrj6NuIu1TigDuaCIMTd2C_wpHQD_KjgUHVPdBOONhTor_gfw4Fn42LzV4M-vGD5mEBDZbDdp8AjBAVGRWyxKT1dOagwa4OxCxZEN31CW5Mib0Nps6lD191-UrIcV3fJciDQmyNO3Cxf-N_SYNewqgNlKY7RbvJJpie6v-WtRhOzmWUJSTVC9gwe8uvorv9Q-PFtxKR_q3WVgVLenSHMuXs0_xBQoQGz6aj_8XDJc8KNb3lEngTEvHWgmu0dusaC-K1lRjFR7CfRAr3fGzqmIYAI94hCTgLpp9Qc3CZpNo30QktQ_e5DAGz2CgThj2ig_TQUiiJMjouR7mG76chxIEH_noTXVzy7KnYWbKW8_EWfOES6u8zr_pjDsxAjVy1N8R2X0S0jqh2ubE7aOWF8ovZpSNaPnHnfCbPNY-sUuY7nT5DOH3Ldl6ZY0jHmSrGzFXRCPOdeP1gQJZ750CYjw0CGdql2Kcr8gYBiIOCgyMD3JdW8cDHUX9tLg.%26ch%3DAQEAEAABABSpNb1ZPkbfdmJ3IpM4IZ-DPl7YmDkacKI.%26v%3D3%26pg%3DIYT2OH4GY5CXXJWORTV2FEGZKA
+.netflix.com	TRUE	/	FALSE	1783113361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ4zpOn0LieLPdJ6_qrh4qk2EbrdV6wNn8.%26dt%3D1774701694890
+.netflix.com	TRUE	/	FALSE	1783113361	OptanonConsent	isIABGlobal=false&datestamp=Sat+Mar+28+2026+18%3A14%3A41+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202602.1.0&consentId=2f373f76-2a61-410d-8c7d-f13a38afa7bc&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=PL%3B26&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1&prevHadToken=0

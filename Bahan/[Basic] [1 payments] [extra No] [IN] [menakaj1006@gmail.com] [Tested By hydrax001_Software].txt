@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: menaka
+– Email: menakaj1006@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: menaka
+– User GUID: FZ2BB73KTJEOTHAXXUJLIKXYOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811656682	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfAzXNnNbXZYJf1qZUKXHdTkhQ7LZnjdXr5pwUA5yDFm46_A2agJPsgj68LsUE6sFbwbtMC-3VbO4Sonn6MkHBiBgCIx75qnW94ZDnRhuVKPHW1FPSFHoqaNyq5MCe2LwpV9PAKT7vssqoINxyiOHAvyNhfsxSzmKoKPyKZALVVKd10bQlcu8-eYh5ehTX71zJJdajYHHMLfHKbXimaEfUS1n-cZkToIq9_8Y19eEPjeyrwSSDWmFgJSuGLuZVFgTc30ZRGjDcfkHPpDyLk2NbzD4_IYr9dbYRRJxv4PMfPN2tqs5zZBmCUv0rbDecc_rhJaxojHrB85r6jrGBCqD98pf3R7xq8CXdaSxfvF_74nl-z6mFIqN70L3tCTTENW8M8LwGiVfVp96worY7aP2oBBV1TLF7PnuuGXT4QMFwJfoynob-MgbMavHa-k4Zj0qVfnOB3jPHNpZCVSZaUqDxSAIxvXFjuq3VkVwvfYAqQvyZQikT68wIoR5i53T1_D-VPzraKyQdM4Wy26atvqV3ic8QnfzyY8nFy3EDc3W_miwYBiIOCgyJH8oqafG0mrr0U14.%26pg%3DFZ2BB73KTJEOTHAXXUJLIKXYOE%26ch%3DAQEAEAABABQZw51MWWw0dio2yYI3r6Q_pbhFaSRn088.
+.netflix.com	TRUE	/	TRUE	1811656682	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdQg2cHyLnrat64FVqU-ZrV2By_dQoTWA.%26dt%3D1780120666680
+.netflix.com	TRUE	/	FALSE	1811656682	nfvdid	BQFmAAEBEBwkhd8_2siTJitj9412lfBgER--Yc7_iH3H6fwZAaYyV29uRK5B9FUNaGBKt632O0U0_Ege9xbuW7kIDxDU4odKFvNNO0OwN424SGA-yV_7OzlDIPtBJEQ4mWtYTTu643N7MDldHS58uYY8mGUfomTQ
+.netflix.com	TRUE	/	FALSE	1811656714	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+11%3A28%3A34+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6064a854-143c-4179-8732-ce80304bf7cd&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780120077896&AwaitingReconsent=false

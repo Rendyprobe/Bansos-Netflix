@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jimeno polo
+– Email: elianacpo7@hotmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: noviembre de 2024
+– Next Billing: N/A
+– Payment: TELEFONICA_COLO_BILLED
+– Card: N/A
+– Phone: +573166981548
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: elianacpo7
+– User GUID: POVEPMFOWRA73PVPPJHYSULKBM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+18+2025+11%3A47%3A37+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5861be9-4038-457d-bc06-68dcf20ec3a3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEKAi8BPMFs76_M8_s31hb5lglWfL_xW6gZLyF3L3U-1PyeGDiTysCFgBKxOdjtKuqJKPlAsFLXJqpx5YQ1HZYS5qSnbog_u9ewa2KywGwRKkh1Ok1_hElnSNFd09gDdjb0LlWuomN0cbqqjamudI5E1h
+.netflix.com	TRUE	/	TRUE	1805114855	NetflixId	ct%3DBgjHlOvcAxKRBAo613ZPB1xBKf28myAhO1s8edJWpWnEEzLYvYUv8lPuTeI7dZArRM4YuKQkLtcHn5JvTTRTQjMXI4rfbKgVTSvSddE01O2UggZ6qpjhwG76zPrzb8gDp33X2II0pLBD3QTdvWwocZbMzJm4Y93w7mM_7mKo7IjJsr0quKYCtFNbc8ld0J0Lu_VTXEHrPA7eI4HLtmNOdHbp-7ib-_SX8qx3Ubis1-5jPKNlJv7jCN31LVcuKRCy-bFwcLir9lgIcAK84zVmx7KBetEc-pQwXYIzWcg9o8tgFSlF0IXoRPyg3ZHhr6H0slKwXfL_Vg_U5tJa5OpacW6MfJIWWZb_YjlGEAxKizRSOn4Wi6hBPbwF6oJeUQDKRNMv2FBTj5GAsdOUCqtjA4FBThng9UjBHURpQ6sbaDU2Lcryz-wyIUUf_fXnfnU5VFgkapzIzXxkLs3mzFidlwvHOavtdXeWaQb7dQRKv2JR0f0c7q-ZKax6cYx3bF0ZCFJkcYe8Y-hxL-RmvbWR-yT9KhN6uFttGvkucpLz0EmKhk-1355zanoVhV59GKONyC_4R6bNkdcWFi7NpAnP5rW2dCRHiCH2swxa2qZrC9Di-J5BGjxs7CJLITEIZzBOndCPckwd8HS5NDMQ0qhkdG3VYoXIFQcN9UqXGNvDObUcFax0RFo5jHCDNKBlKRNxI2DZE2n1PB28ARYYBiIOCgxrWxIfLYl-CiFzDeM.%26ch%3DAQEAEAABABSZ9auk3fYTgFMzPVfMv89XO3MTiDg8FoM.%26v%3D3%26pg%3DPOVEPMFOWRA73PVPPJHYSULKBM

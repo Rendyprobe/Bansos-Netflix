@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: FirasOG
+– Email: drnkumarmdp@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: Mei 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 4004
+– Phone: +919942619111
+– Quality: UHD
+– Streams: 4
+– Price: INR 649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FirasOG
+– User GUID: OYPSCG56SVGOXKMLGH4IIE364I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797941762	nfvdid	BQFmAAEBEIiNjoEHIEXTEaZtXqzMdtVg9Zvu5G19G4VeYMop7Ba9h-ly2hZJGnp8efKDKyFCMp5gERCFTRSvUVel8CJMyLww-nWOjFNoTnKBhL-G8d3Rvj3oAnQWY0Ix4lNGq78IqE8KIqviOoC2n4QRnZuhKg0Y
+.netflix.com	TRUE	/	TRUE	1807718012	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA0WQCHUXxgNFdee_tJWQDoQvulCiC7y4AACbX2s3Q0JhV9-3Uppau9G-P9wFzf4o_fMnGRfNYuvdErAokXEK1oZQO0T5SakisqEE5RrXQYMg3gio0kKuvbskzlIbp5Cnix_a3JkhHWIPOXTHLWNwCfoW42862usiURHgnGaMTdZgtfLt-Dbj22AI59qorM_I63B4zMK6WaTr1LbqMy7uHOiiSuAvlECKnytq6nzbuedQMD2P35zSTafaDxbR36ijYSiI9mNYa4_cm-SGka7ytc2ledKKtGDXQ_RlthLRBugidmOCUBIcU6bPi-zS53rKo09hjyk6MSO0PlWJ6h24ia3LXeKCLiTq2k0rhjyiPbdCA60PNDHlqhnNlwFgtY-a7e38ZYmvcnGDlR3knZV1AOp9DndirBXxJ0_JEMe4CobKUzz8oPav1FkZBfqXua4StAIBq5frhDFjj5DPjiXCTaDxMr1TS9CmdNF8sY7CEyAfF2j0o5L0A8WIwQHiivjzJACBlFxMuKrv9NYvkJ_WWTHYkPQnGAYiDgoMuQTiN8B-T_mM9xGY%26pg%3DOYPSCG56SVGOXKMLGH4IIE364I%26ch%3DAQEAEAABABTkfxwIA57XxgcSmiBnjK4Sp8HaaHXjqYM.
+.netflix.com	TRUE	/	FALSE	1807718015	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+21%3A23%3A35+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e924ccca-254f-4304-a28e-26ce4f65297b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=NL%3BNH&AwaitingReconsent=false&prevHadToken=0

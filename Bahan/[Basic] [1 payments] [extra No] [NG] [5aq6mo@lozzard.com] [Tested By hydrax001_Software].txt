@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mom
+– Email: 5aq6mo@lozzard.com
+– Country: NG
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 2268
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₦4,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mom
+– User GUID: LXKCW46HLFEHBCKEMTWRHBMH5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794771782	nfvdid	BQFmAAEBEELLz1IcgUyichKaksRK-fZgkUv0PDTMr65BYEvRKXx0fMf5ecP_Adhu5lNCFCcqUxf3KvxlpU8bqUGvm5vJx9L9xyz_6VuqahI-wX3yt9WS821dNSsY_LFwErOIxMtgZcOyFQYYQ9glY8fxxDhEFi6S
+.netflix.com	TRUE	/	TRUE	1811170745	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSAwYvbeOd0Unfsy8Co0RaaocDLiXGr-m5EzKQg8QMrt9O6pnUd_IbKRQbZtygKSU8ueovbUOjHN8PYNCxTbMDr9S3yCKIMJokH-ooiFPMFdRHZxNQryxMPzToAndThUzTFm081Rh_SCdx2QG8BDfl6EOsy78v4ISWZTQqWSXfE6H-4bzLDqqfCditQSDLq8vXGAuzc6Q1G3fCI1w58ZB6LQOAxWIdcqBAxSWm2zVjQ1384LaSPrukOFv1-abdo9mCwYavK2eUBUs-Uz3HiaHBYmzWzNOxQ1yai2LUcobruiX5XBmkdrEd0g1AB2xj8ssdzK1Ksy0oaIExYeSn4IfohpvjIZye2Og5t0UVNbml512hKQuLx5PBkeifPJysD7c0oF0WhIXl-v9795452tv76IClTYFFGHBR0fWMcaQo1V10fkCWXaoF5XtSnFs2INaUVjKT6ojZG7u-UnEiJ-cqmXQHo8H8SfWBWb3ETupeeMjdBmUIXCmKFgFQCeuFTgQjUoB7uQm5dLO8CDcG4lUM3ou2ChgGIg4KDOsjTQIVhe76HyECng..%26pg%3DLXKCW46HLFEHBCKEMTWRHBMH5A%26ch%3DAQEAEAABABR2Ib-5hH2a8_CMZxDgRKv19BOQupq3Vn8.
+.netflix.com	TRUE	/	FALSE	1811170748	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+15%3A59%3A08+GMT%2B0100+(West+Africa+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf93de3e-88f4-402b-b94b-e9203098d974&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: agusdaud17
+– Email: agusdaud17@gmail.com
+– Country: ID
+– Plan: Standard
+– Member Since: September 2024
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 6521
+– Phone: +6282259340737
+– Quality: HD
+– Streams: 2
+– Price: IDR 120,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: agusdaud17
+– User GUID: Y46IAO72SFD45PUDWR5TOR6ZLI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799120076	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJxoV8BGM-gsOJH4H87tOKdw2aYdhLmpc.%26dt%3D1767584075153
+.netflix.com	TRUE	/	FALSE	1799120076	nfvdid	BQFmAAEBEEyhBkhG4HNvJfrUFi873exgH8G6iKC0U6rlsY_XEDqkzSGTlVFw1Us3WAmWpKbhEOX-doayS_iMmdGmYuqOROpg0AcfS1m69yBxALfrnCCpK2Zs3J2YEiuDFUgJ3h-wQEnodcFyIO7maRI3lSpqAumb
+.netflix.com	TRUE	/	FALSE	1799120113	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+10%3A35%3A13+GMT%2B0700+(Western+Indonesia+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff41edf5-1496-46fb-9619-89afe906aeb3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799120076	NetflixId	ct%3DBgjHlOvcAxLsA03JeYedl9j53Y5VW7j-91qalxRJUhvhSptAoEgliG0K0nHb8Im1o1u3W-QgkjnSZ-b4KD1BP3Fvz7fbIL1YpLFUM7rZO7afZ5YpHAoahVGNwVgkZTI75RTnffGf7RBVF0lZog1k3rKtrs4uAhsn4j6u7WJZZZUhBkZaXtzWFfSjLgb2Z4mU-VI6tqLeW9Kmd-ccRIBV0tqw0FPiZ0nTe7ynUalkwhReXY2ZA8mkW-prjo_TpaiPxJLOVOkvNrZ4YCgV22PYoMUUOnQ8WVQzQn4d4c0vIKUDnFjKmhnAz0d_qp8sqM17ly5WeR9h2x4k2yf24kG10gbeGceXHgJ2wZwBcxoXjn6yI3mQWNkZov3h-wOTrhcGW_EuImwmwqRkB1qRLYby1FDaCs67wJhTlA-IDB3BDu6j3eHFiUXEIz-iv22PVi6Nh_bl0t6B-q-7pj4x4BnEA1KO4WJt1ypHeetKurYcORN1jxl-mIXpwJtvqx86viqamRv2UuaHhnVboqaW2prFqC6GSGThNWe7slYFJ8-JIy859o9BPNw690A7M0SvV-S7fhOSKmD2llssEks02ZumJJqUcX0wIdpPYgF9ffk2Qcy8iHb1lbmKPtKbCQ6Bk6azMtgEk6oE9Vrp-IoqXkC-G_Hvuhq2RxgGIg4KDOju2cKk-pC67ykJTg..%26ch%3DAQEAEAABABTOZwkVyOoHOOif1qBQNEIz0PeAaYloh0g.%26v%3D3%26pg%3DY46IAO72SFD45PUDWR5TOR6ZLI

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sarah
+– Email: f.faihaa@yahoo.com
+– Country: JO
+– Plan: Premium
+– Member Since: September 2019
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 2925
+– Phone: +962795913939
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Firas
+– User GUID: 34BKGOTDRNHFVEM65GBPP63VAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800737795	nfvdid	BQFmAAEBEGpLBgn8f4QjsJck619bC0Vgq-dyV2eJllJOYXFkoAjy7ooWEihoueH77GWBLQELWIk-6XFiIktQa_Q-SLLQplqkVGex6bZrd7dCI8bAwqgQUjYO7a4xEZdR_KtDyCehdvqZLT8_BBfLYX0XgCCOWjwR
+.netflix.com	TRUE	/	TRUE	1808170831	NetflixId	ct%3DBgjHlOvcAxKDBOi9u061elIS-8MQB9w_2DguoqmxtlZgMRkpbbwXWe69GI7Bdff3WiiW5I9LCD5k8tcFvNNr3QkNSfJnjdov6xfLmT4-PSJTJmuH3So2-N2FNRI0N2M0Tpqeh9PRARcvbdS3OtRRANVy24x4U_9IwAUI-lVnJ-GcUwghOb19_unQPeTxa0t8c5RNepSnK2NE3kkD06xdI9efycnckzSlwkH1ZIWc6t8udEmbweENvWg5mpJHNhJ20a8wGKEp2O7BInJyLkYwesyAharAvMK2rJfTEtHn_XIRsBjcryDCc4YYIUQWaga0XsqJTQRgyEZxBqCF6QjARx4TnDZpckhsjzP2aCmOIVqY0_QpQJ-YJ7EP9cIsxEwRENvSt3GO3YmtyDLxFD9j3l4IKDpGRlEe6m_IQixfITUAQakpJc434e6PN0W-1LoT4ccNtWVi5zQ9PS7mvZvAQCnWJX-4oC-YRLmVBLdk7ti8vecs0EEqAd8yMGptV0BkhriL1BPEkhf8HEma4aCF2e9fquEpV6Rz5RN70Nq3gvd2A3tyMPAG4ELYc4axvdmamHgqqxo3K69KCWy1JvFrzGiFicTnW7jCFlntiCykMv6MGOhkGJFcVAPmyTXBaw9utmb-jRpA5nmAvQ-8JiW7XGguyn86ytu7GPJ-PkWdfl4GupN9U3SgSzgEoZc2GAYiDgoMq17pofbRJeJL_crn%26ch%3DAQEAEAABABTbVx96GsdRrGFpwql6O2QZcmihKiZri98.%26v%3D3%26pg%3D34BKGOTDRNHFVEM65GBPP63VAU
+.netflix.com	TRUE	/	FALSE	1808170832	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+23%3A40%3A32+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5db3ee06-3860-4d98-8acd-7ba5b608a878&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1769201794828&AwaitingReconsent=false&intType=2&geolocation=CZ%3B10&prevHadToken=0

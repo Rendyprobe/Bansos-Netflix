@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nicolly M
+– Email: chocokitodopao@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2026
+– Next Billing: 2026-06-09
+– Payment: DC
+– Card: 7928
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nicolly M
+– User GUID: GC7UBA2A6FHN5HZEZCTTY2WL5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793488361	nfvdid	BQFmAAEBEMqMiOvpBvEF4uhb6pEEr-FgyRXEzRF_AIw3PBrp2JN8DJUCB-L9xqT0yIUiQ4l4vZMAS2D9RMsj9e3T4kxIUJTjtp4l8NOfzAsOLTXQE8b8mgi1P76zylDZAJ8c1AQD4Pw07Y39V4tgk8c-uuq6mwWB
+.netflix.com	TRUE	/	TRUE	1804380591	NetflixId	ct%3DBgjHlOvcAxLqA8jFPEi4Kz_GRolI2KrW2NJ_J70e8qga5JZToUY5BOAo_7GaChZKZL_aeQ-zB08XVMpuTqIeA-_LjFskkPAn2uNgSk0w-44xKB4MomQlCiVvjYtwp29LQfkril4lyFov8FGNRCp75EZoTX9y3m9zMoPrRizF1phE8liBmVvGvB8T7oGGMq_xQZWxpTV9_pDgRTLedbnQCGsTlQnWbgfgIyrmNKn6BiokhwM2JOQq2akql3xBcoahlfwyat3olQcPJLeiUSZ39EpF3dq4I-azTH8ys-XDl3msmTCKS7x65mzNWGEYNbMYtjhlss2HP0h4_shx_jBzRbxwmatJ9Lp8Sa2DH5Ya5ecv5OiQ59z5Ixm5teQKSVIGRnY0XfYfX4j6OYD5wQTfJpdNZU4rAY81UNEoM3599yG-HMncQDUlKDDriQL3q5kWXcR2JCWFNmsDsKyeWmNx3EWLjbOvA_w-Er9tGhKoACOXhXDIpBU01PspZhlbF4WXWnQ4v7CEQrCL3WDfscUV-D38ohyGn4_jqxyH5drH_mYVCPdhLoECkaCJKp2bUCT8mlpGHOWFg-CmX9wAVYtuhLlsGYxaCaxPplAg2Q4xgps63Zp7Us5k7LHzO1eericEQ0N3t88obeuZS4Ekw6_agkgP_GkYBiIOCgxE9xtHI9hvp3UAIMs.%26ch%3DAQEAEAABABTDQ-AgmsaCOPGLZUgYY4KJ8Z4lV3iObqg.%26v%3D3%26pg%3DGC7UBA2A6FHN5HZEZCTTY2WL5Q
+.netflix.com	TRUE	/	FALSE	1804380592	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+20%3A49%3A52+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b369fe1-e542-4288-98bd-e84b745e77ff&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BZH&AwaitingReconsent=false

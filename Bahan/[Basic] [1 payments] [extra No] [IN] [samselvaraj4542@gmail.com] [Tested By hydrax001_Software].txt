@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: samselvaraj4542
+– Email: samselvaraj4542@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2024
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: +916382744628
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: samselvaraj4542
+– User GUID: FTSLA5UBTBFXBMEWDPHWFMLY3M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798888566	nfvdid	BQFmAAEBEEahCcZ1gbiwMDSu-3YgfrRgHByw-IFoJYZjHCtOpz2_qqOlRm6KZuplGjEB7FwCLDN0TH3EsKOoT3TTj8bRw2I5bW7RHEOeCqaEHD9vq93aBFTpLObx-Ciq10THFXVU9TGAkf2-PsHL_MiDCWwh3kRG
+.netflix.com	TRUE	/	TRUE	1806078995	NetflixId	ct%3DBgjHlOvcAxKCBAD_GmvIihQmE4EWSjyhu84EL8axYa3p9aQsnmrjFNhEWBS-JSGVuZlYPiBEt_cEdiAhhYfDdkSCpc1_R81axdIyOIgAYA4JtDJ6_V-VTpKj6fMPv9RaGG9D6xpu-PM3f8tJtn7I3NIE7n0eVg1KW4crg-3S5tktAVM1Td4KBpaSpbBP6ZgzwI4YwpUeu6dGfgT4FpwSe4lX51LTGbgb09LBa2Yog2v8U_LJS3AQY_s8qaY56-YmaFlZJcB1LcCyuHrogIE0O-FqPqktiDt0VKWxQSEFPDKH3HNN2Iw7GPS-P7pH_4m8Te9S8RlDwDQPJ9Q3yAioLZBLnHbzKNll3Ba-7OgHFGWWobGK3NQRsTaaMvJFyUei3iy6zEsDRHhAYW7N3FMv3PiFUHWWyCzcfFeFJK1jIWZdVLQbueExW0nuPyVE8ncjX2Sv9lu99eTN_Ege2JIHV9-XAp2X5AIH_KjrBvH6RgxzcWe8ZviRGHL_rF4t_2w83QtJGvMSnGoOi3aq4Rpcaq_wDGheicphWDfRaoZQ9qhOuEL2jNhOLZWMDo5S0nQX1Savx6mvXJvvphsfUZ0pbcsWayieFG-Ng0Oq9KQQCRN-rvryCGz2WDINCtGW7Vb48Cg4v2SCSh9Waf966WtF9XtcrJ47NcvTuRiyChUgIVlFMF35m20Kpj7WGMkYBiIOCgzM73HI2RAOJTgeq6g.%26ch%3DAQEAEAABABTMYGBW5KkkbFcay1zevRqrGIjXdxBKiX8.%26v%3D3%26pg%3DFTSLA5UBTBFXBMEWDPHWFMLY3M
+.netflix.com	TRUE	/	TRUE	1806078995	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKu4RHtIjaLXgWZv1a-XCDkVjr0Vimgp0.%26dt%3D1774542995656
+.netflix.com	TRUE	/	FALSE	1806081173	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+20%3A12%3A53+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bbb23bef-afbd-4527-852a-19683cbc0fd8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

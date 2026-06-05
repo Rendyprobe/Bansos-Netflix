@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alessandro
+– Email: alessandrotodarello2010@gmail.com
+– Country: IT
+– Plan: Standard with ads
+– Member Since: September 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 8596
+– Phone: +393887216465
+– Quality: HD
+– Streams: 2
+– Price: EUR 6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alessandro
+– User GUID: LLMIRGZEQVHWJMLGWFDX7C6VEY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795810187	nfvdid	BQFmAAEBEMTUCF2lVkWyUQri1ueZczBg4ydoomGIUdyUlx0BPpL8wLD3JHfioVtY3lkoEGJTxlgWhgzKXFSCNCKprZ_-iUxzA2D_ucDiOPm1WBaacg2Dtn9b2lCg4UEFjuczEhG0izwYIryNndV78VjNdXF-2vql
+.netflix.com	TRUE	/	TRUE	1810117622	NetflixId	ct%3DBgjHlOvcAxKPBMs4HYDZB5oETZUm89oP2xCR55ig9zSmjqLVnWql-7vvYZu3lUoeWUf6B5e4PB6pssWdKl1hXax7BzAiJRCtfL6nXs8hHuVklctR2-AV4fjsrAXLXNdhxAlb03HR5dPd6c6D13DhIHwbuxxwk2au43IJ_UUmjL53bF1Xq3AIyz47bEFiiA9EJ42-wbGMoXHYW3FipRWlADla4fPvd2URTPk91IcPZ6S9dsHO3PNC_YERAke5bkewV-TzVgzXMB4GARFGMHtsc6FrfJZ-yjbudHmzC5wSqcrJnyeYQ_6foiPSIeiEqhIuCc5JDd_QWZvVQyo-nG4DiBMpybYi_CI_raUvPDZ-D6gufMF2g0rtwSv2NEuG17cXFAHVCd-GIPiVKBpsb02WPZnay6BUgj7xNbCDs-4cKwJ-FHRX7WbOPKsDbGqf7C7SMAwu97W7p_40lw4wCCRRrT7cnh-IRNe6GopOnRxafAL515IvSF6M87iqAlLEVS3SNda7rCDKZ2zpdby2jkQtg3lVWOdzyNBVVL9L3fXMy_uDNOuV0yTFrKCC9Ql2ftvhj9Kqaq9QuWvD-JTA42-2fbiuUDtGF0lsfIdiGzbqApjV09NMXW6LlLoD0XguV2EqGrA0G1zBN-Mja4nS5loH4-idn7f-UsMPygJ4BSwORtox0PRpgvFvdDM8953PfpX9vAVQCIUjGU_4GAYiDgoMs8mzfgCqZ1I44IJr%26ch%3DAQEAEAABABSNIP_cmIH1y1PfILuMz4951Y-DMLwSmJg.%26v%3D3%26pg%3DLLMIRGZEQVHWJMLGWFDX7C6VEY
+.netflix.com	TRUE	/	FALSE	1810117623	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+12%3A27%3A03+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44a4488d-28d1-48dd-add4-b28236eb6f2c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B82&prevHadToken=0&isDntEnabled=0

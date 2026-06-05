@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emre
+– Email: celycapitan@yahoo.com
+– Country: AE
+– Plan: Premium
+– Member Since: August 2019
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 4125
+– Phone: +971564428816
+– Quality: UHD
+– Streams: 4
+– Price: 71 AED
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arceli
+– User GUID: TAWT4HTADJAHDPETUWRQ5JDNFE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806590801	nfvdid	BQFmAAEBEB-JxMDugIkzCOE4n-MFsCxgnp-yFih73Um3GedXjVVxMA_V-_Zr5-1NGXcaAUxKHUIpBW8CJ7aeV9mjiIM_chwVId179G40YFarzeF9HskAsNA9Hsz3zRxx6J89BV7qW2RRsx--e71bGEsLrQjy3SdY
+.netflix.com	TRUE	/	FALSE	1809786650	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+22%3A30%3A50+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=429f9453-eda4-49e7-abe3-bdae99ebb63f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809850273	NetflixId	ct%3DBgjHlOvcAxK1AyIY2mkvkrCbDO7rd64eL93CB1utLzlDlNwt40Por_12pQ3clntV8jkHja16k7XlI7ZAJNNxj54-QeYbx-J8YiOCBvwYao3b05ua3QDp-Ues3RH4MSiSiCV0Vei2n9jhheYwSWd8g3GIa-2numsc4tyE83grpVMyB_bePMMxRh93zpFVsLGyDY16AXuxFBxpk1eSozc7rJU9j2_m4xALDkZta97yMa7LcPZts8RLswTbSrR3U3mpFkB9qabcKiJ2YGiMuhVmDo7TwCxVww0LXSzaPF0hXf8XXfTrpHfQ3hx_WcV5GMBMNsSjbZtF8byD4VDr4i6-Ql7sJPb-qGUNOAEpJQdBFnym7IFCDcPQubtQCJ_N47BFCMhoiHnPYfC9rlRbz1Bu9nTFJQ2OTdLrFHHn9qDW40KjGfYy3E5M1mK6okLWU33kR9LpyAVWcPtTPjMK5necTc64xI-ZyNMINIhgdxRGAUUK3IxOvES9kv5kO29ZXg07GiSuqeYPFY34QakuUz6L0k5_C6Na5e6W4GZb957p3ZBvyIK0KUOv5iFBpya5ZS4PUnPJ0V-oaZL5AijFjVcdGAYiDgoMvQmHz6ghsR5pG5d3%26ch%3DAQEAEAABABQw77d2koRH9SiIqJ2MPuDWFRFXxg5DAo8.%26v%3D3%26pg%3DTAWT4HTADJAHDPETUWRQ5JDNFE

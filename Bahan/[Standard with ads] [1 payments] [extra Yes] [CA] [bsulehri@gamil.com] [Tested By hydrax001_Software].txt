@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mohid
+– Email: bsulehri@gamil.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: January 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 0386
+– Phone: +16474085264
+– Quality: HD
+– Streams: 2
+– Price: CA$7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: basharat
+– User GUID: Y4UFYBXWBRBBDKO4XZ4CMURWEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789347396	nfvdid	BQFmAAEBEHPiVXRLHWx79BcBNaWQXxdgVCM8niPSQsRICUY1fy9_xaBTFh9yd_ZZi3SdSZsaEyWo_ZcnUX55aq75aIflcJ5xtHZf2tfGNLKisiUYL09lbqwym_47DlV5JiyPpWb5X41xddoBLbPLsEzustlV6jBr
+.netflix.com	TRUE	/	TRUE	1808194040	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTphn2GSYJQo4ZZPU2-plO3awT_maFD-aw.%26dt%3D1776658040413
+.netflix.com	TRUE	/	TRUE	1808194040	NetflixId	ct%3DBgjHlOvcAxKDBOPWarYZGG707mUwXcWJWOn5g1ohJUNIcxh-gMPay_I15fJDSCpLFHZJmuDoCZqIw26vJfHPrtV9EVy86zpTCgrVcSAyVvGgndtwod3IhNoISIUiUE1_bQsId6vDAPQrzKvPj5WVT7jy0utiinwlpwCC70YECO22t-bkX4Lr5ZoAyh2MsDtSZyNvxFWSuMWfdkLEMO31WH8ZWFCdiNp1eGM1LtrkQwRBLiPN1AJ4Xr6Sq4AVP9zUbM51xk4euSNdh_25kCSwmd42vRzTklBmAs6D13ozJqeMgIUPdBRs14fSDS00BBPPp7LVK4SbzX89fOW-BG1VCvfxRh05Li4HfBnaVHXHV4wZov2PegT0bnxHWOVzmBEvrHpiukbNUwmg2TGdGtW9xPPUSwSvrg9frcKdoDHUpP4mlKB-sv3P6j--wQBN-VjYstjDd8kmKqIayzk8IGWeYgoXwumZoe9BiHlmM8JSXBuuoZBVhHsuOWUKI8kQk4385zs_QkYYZFiaNn1aE6vi6VUoNLkUfLrYHR3z7BVYbhodVAUm2ONN2ZPRU3F49ebWvdFOrGbYA1dUd8DuXuZyCrit1u4jf3Mf6omLqDnv8qaZhdKzJ48GVuJcfuA0gUYRKeq8bPpF-CUiaytE7yEZqByKmlZhKl4wMZvGfpF8pfLbqGGx7pRIDR9vcKSjGAYiDgoMIeC8Q1wM0FEGiCaD%26ch%3DAQEAEAABABRrf7-AkOlFeAOUBI_iKUuVTLJqQbI7eUo.%26v%3D3%26pg%3DY4UFYBXWBRBBDKO4XZ4CMURWEI
+.netflix.com	TRUE	/	FALSE	1808194042	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+00%3A07%3A22+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ac869a0-a1d3-4a3d-869e-e12823829704&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&prevHadToken=0

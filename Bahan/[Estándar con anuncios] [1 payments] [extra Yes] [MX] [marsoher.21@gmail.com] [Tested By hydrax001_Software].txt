@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dgus
+– Email: marsoher.21@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: abril de 2024
+– Next Billing: N/A
+– Payment: MEGACABLE_PI_BILLED
+– Card: N/A
+– Phone: +526674788942
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marisela
+– User GUID: MSZCL3BPBFG63L2KGIJF3E4MYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811204493	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLxArj_PAXlkYzSf-V5FRJ-vLKoYnpRR9wHo61IRnTBNt1yonipA0UnPLQKIM4OdgXjeNnwoFe4nX3jwOqA3O4zHXMiDl0M0t0MWdKt0b2gUvzpy2sJkQnWM10D7kIZgoV64YLFmXCQvedLC1PhiaWuf8c61b7Rmd2YqtXEWLJeRtjd_p_wp_PLF5uWAwWUVhjHMupWEA0nru3RSFHpPk6OZHGDSCh7fLNuO1apKv6br5GstsOp0SmYka_JBe76Z7jFDDhORHAL8lsK-LCNDotZGACV3VufaxUqrm9_KZFZ4igtDjf3XHkaF24NumbdZA0nYF5YewL1GybLAMNbIZsi8BiyMJg4F1GC3r7JtM_zHuxvaQ46Ssxo8oKKkWK02WhhQukrS_q9RGSbnwSKY8HC5za3gMS_Aq2_59yfVHzTo5dYF7JE_TqD0v9mdHtl1eEjltwofDu_SDf0YPoWPgKgAw25iNpepXHLmCOa-xt0gzYSgxgGIg4KDHQjS4PdMsz4FWK26A..%26ch%3DAQEAEAABABSAaAZ39vuFRX9tSAOTzgLGOhVxB8CWI3I.
+.netflix.com	TRUE	/	FALSE	1811204493	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+15+2025+16%3A42%3A32+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cff7d7c8-4577-4c99-91e6-b20ff9a813ee&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BSIN
+.netflix.com	TRUE	/	FALSE	1811204493	nfvdid	BQFmAAEBEKvXtZI5T6ZMiKl5a1YeJPpgjYGftAHAtSDbjxayHc4jNyRQYEZ7xvB9qB2tZgeSZaGx8SFt3xwuS9AFWsOyzVVBJX8YQxOK31SPTbE71wicWmi5In5M_KH8CKWJioTl9_Xw261XW1ktqdYw-2Uu5TqG

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: RHZILI AYA
+– Email: rhzaya34@gmail.com
+– Country: MA
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 8100
+– Phone: +212619861345
+– Quality: HD720p
+– Streams: 1
+– Price: MAD 35
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: RHZILI AYA
+– User GUID: KPVUBIDK5RB7PELWFWJEYETSHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801060091	nfvdid	BQFmAAEBEKTOqntWl0PFebycL9vuTp5gpqJJwnJqREyJTDT1yEeXMrleHPlXkZTjCydQwng2RRZhqKw_GQRwOGDIKlld-SI1G8sv6J21aSxS2IxGgGW5zIKnvGJFQVJsemckm8sdPo3Ij9rRVQPK12zvKFn3-yiU
+.netflix.com	TRUE	/	TRUE	1802612155	NetflixId	ct%3DBgjHlOvcAxKgA7rNGFiybRptYLHWlaV_lbVZI0u1ymWrMEQYLXQFtgu6It0cifxQ0QiaaqcdTIpfhwzv0JSyiyZafvDWqflZbNysKJRl0VOQjAJyYQo08Xa-UwdAPyDHTO6NF1xkPJ1oHB6vIgqaWRBowAmmu5Ysd-tT-nk6r8ssOLk_XUuetYRTUk4sEQ9seT-hkHTveKf6osbgxHNTq3k4P3ok4zrcHo_nESd8d-3l7ySnDj1o9Q2VW5UsqLDGwODE4pzbeqRfS1uGQD8Q--Nv7wR-wBOg2X95eiyN-bqA7hxk3YGBHgYzxP79NxcplFZf_7x270lShagLrewP2eZBeG_WMGMvYgPjrQUiLExee11YTBIvpR9sgFxM7S3p8lxgnEUwGzVZU9jTEpJEsOCIsX46hK7Vz9ScwwDxPqIkUJuex9-Gce6ZPq4stU-R5KHM8f3-LGw6SpxxY-NoSmb-uUZ-KVYaHegaBADCwmPo1tIQGvt3JfwlFTLELoqjh-33nigZZPWkNtz74noLkL2ljbBf1ZXfcYR9QmEm7-xyRSFIInrGkZwfGAYiDgoMNX5Hhwle3LDhaGaz%26ch%3DAQEAEAABABRfFbgIhYwZ3ujxY2YIunWtZmsv6TjgMcA.%26v%3D3%26pg%3DKPVUBIDK5RB7PELWFWJEYETSHQ
+.netflix.com	TRUE	/	FALSE	1802612161	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+14%3A36%3A01+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d2f65b70-3630-4386-bd47-ea8c570de847&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769521314848&AwaitingReconsent=false

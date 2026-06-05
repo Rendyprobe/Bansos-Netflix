@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: tallurimanvitha2006
+– Email: tallurimanvitha2006@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: tallurimanvitha2006
+– User GUID: SN37A7WXRJBLJJDW6XI2QDQ3IE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809155073	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+12%3A34%3A33+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6aba9d91-d613-44c2-8b44-6336f48edf4a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777619072138&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809155072	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKsAxt8bLpFydhpVBOLv_TabUVXdq49sHPOC-8hazSFiN0AjB9uG3tSfcB5-Bm9L_EWB-DH4f9gKgvuVbr5lBJSBVtOYcIWMm-saAVIyAcx8q5UAI8wqHyOBMYzZe9BI27L8MAc2Rt20-cmw_RK8DIwZgXyI4g_W04EbvQxmqwe2V0AU1W6dreGNcmi9nRy_5ThS83nlzyDq21jlsEHf8YLIL5KlsNCCrhJVDlEff7rfqPEvFG0p2a0q5FqaWfB3N0N7YFpjVG1Cw_j_begKGV1H19Ux0W5LdHnL45TW6dIr96mNP7LBLx-_0uwW_qE0ANkrHBTOdHMM14DYuh9vh-8y3vm9SzwltI-DliaNdfBfexp9cSS2uEYLvRKK8TSBJmgZ3g88XMXjxZFV383WO1VzySOLLE9E3wCbdAmW6uOeTGKnIWx83XfLlXw5SrnKAiIUR6q_mMFGIm-zE-qwBssq2RQfoYcC-TDYBCso-Tk3TRihfIRxv_rRXFW-Zi73FwpyccYLvPS6ciKbDEb7nTBaPynwAUBH9rpq0yv5WaHhPr9XptJ8fhgD1ptkiSVGAYiDgoMPEbKs6ahcxi9qBLw%26pg%3DSN37A7WXRJBLJJDW6XI2QDQ3IE%26ch%3DAQEAEAABABRBIBvA9cH6nW55mF_UPgxZXC6uO3_uJG0.
+.netflix.com	TRUE	/	TRUE	1809155072	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQReH5lZfckJTrfx6xMzsIUWsiRsKEhNg0.%26dt%3D1777619101938
+.netflix.com	TRUE	/	FALSE	1809155072	nfvdid	BQFmAAEBEBfNoxnhhLaM1XkGnbV4V01gfxa-MRZZ1DrndY36fffSsFYTzSVfMd3LNBeADzGlTeOur9BLueaVGS7d5cKYMnWLDPKgSBcSrWMBjDJfZm-PbzYeGYg3Ggf1gg_r804Wl7nGBSwZ6sOu_-uSar-wyntW

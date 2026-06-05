@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tuku Exe
+– Email: ldiazporto@yahoo.es
+– Country: CO
+– Plan: Standard
+– Member Since: December 2022
+– Next Billing: N/A
+– Payment: AMERICAMOVIL_COLOMBIA_BILLED
+– Card: 2114
+– Phone: +573016675240
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: NITISH
+– User GUID: KEVIMLBSRRAM5KVFH64JTS5LSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805594781	nfvdid	BQFmAAEBEKnLEf94Q3sxwtWYhU2nAIhgsDB-47dbeXXvbbswJaay2vtzZ2fiSiW4kgT3Qc4bVqoZwV8tTQGkgTfwUFauCLv56dLksM-kVfEmchGvi3SD4QfKc3tayMr3MQULa0iVjDmhc5yAvrTfwPYTOD0r4_0q
+.netflix.com	TRUE	/	TRUE	1805659116	NetflixId	ct%3DBgjHlOvcAxKyA_RuK5wijOWbvfi0-bjjnpAgrhCWtmI0JXvG8vKRUTa6m1Aj76rtkuXwkAmW7tUHOikTGSOdyuKtvdNLLcAV-rWWAYDm1p3MohaT2l_BXwtoz0q_o4u7tEe6ZqAlcA_iiC0xYefXx4NUf-Oe_pChLyz2T2a9QEcRYWGNPqnGtnRYM2Uj1Ue17LFPsH7XpiVOjGle5wyM83UdFmUUVD6tI8PGRWBjAhNROAgTLqW8LJpfWopAjBnfjtO4yvxQnfFBhN3GSw63wuADDi83jFw53Kwmcy0Kgtm_MwNjFcXJX2QN2wqTbVyvHzplUiH-Tg_53NB5PG4F3WVOQKIDZFPXywqSaKtYNABL7sOjCjRu3UFpEFQZgZqw_Lw66HAgxfGKGN_i2jkaTsY37HF4m03mDHD7g3tdI5BQv4ZDF86ph27J2C7rChMZR_-mr_PeuKiBrDuG2LoM3fEZwBpBmW8oOmCQRpxbQp2m2k7eghB7vmiNkWhdFdGArkxv2-RNi0kQFALj2MMrmuJqJIUpjgTDAjYVn3RRe3NCpuhd71HtecFxnvCVdndZABjtrtIyXvBbUuJsGAYiDgoMoo5bJW_SS3-wy7QS%26ch%3DAQEAEAABABTUnY9qanSat4OMqZBga8VEHGEwNDYvbuU.%26v%3D3%26pg%3DKEVIMLBSRRAM5KVFH64JTS5LSA
+.netflix.com	TRUE	/	FALSE	1805680100	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+20%3A48%3A20+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea3fd4e9-993c-449a-97ea-68bc536c3aea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774058781869&AwaitingReconsent=false

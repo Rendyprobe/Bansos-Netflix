@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kevin
+– Email: elodie.oliveira16@hotmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2017
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 0690
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elodie
+– User GUID: RPZUMENZJNH6HL5TFQPODUJEMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803755550	nfvdid	BQFmAAEBENQWeU-Y4s4XCJFtPpty3upgYMziyuK3QB6WGkEtFJKzIT-fLF52b0wOrVb2lsTtkjVpLIM1Xfnb-h8kJZrVSldIxAxMcoq-ON4ahtpfBUxA5mq2-2yfBbiL28LPC1MeXGPIVAhakh0XTOI8v-peWpT3
+.netflix.com	TRUE	/	TRUE	1810808621	NetflixId	ct%3DBgjHlOvcAxKDBDdWsa0o3SLHrnQANQKemfN_H-h8cznSfRyIoAXy23x4j3v8gq2irensbw8KYlzPVN7bldk2LGX1dXtHyob2iVsedJ0ijoOiye-s5ECx_ZrM0ak5RNiF80kAtKT-RrLoZDc4RMlddRUpRzKl5JumJzow9N-HmCAIShJuK5PBttdVvgpcfx7K7dnXjUVfESU0JpN0d4iCcP2pZm_j4xw5cQRRsYc1ruaqKA-pOYkWTvgBUJIO8rK3JHc-MfMrMTqm1obTklzVCHW_4jm1arcRTAaBu9RH-8pCeuMeFnNxnbQv_j3oHYKL3Swr75We9diAboUEdRI2gzT5gRVqBTQkrKm8hMYqq29-umIMn6XFM5DMC9MGRwpIM6fRLXZauU7L6undFLpyuQwAHPkGd20wBoJfZVRFOM0GSPc-UKve_OT4IpcA58dAPtpLBUVvKCK-nMPGmjAuRyMjzYJtK4qbIvk-M0U03gwNiWM2Oa1uLxi_pSglx0y80X3LLzIu2NUTD3o_ZMajCJSAeTxblhc3IOTq4D3JUCXawwgX-eEc8IG4pa5fCEcrPtzHPcuigbkPc_En_yORr3zWJ7pCKhg74XoQ1EknIXmLQOhyMvJpcn0UTSmPM3i1uydXywJIOLMMLhYstTY0hfY4e7Tit4fYtcTHQI9fbxX9D_8xRyQhPpcCt03wGAYiDgoMpAKXRWfRh34uamP-%26ch%3DAQEAEAABABQbnOXFmMDfGDdmwB7dHJ_IiuRh4EhC_7c.%26v%3D3%26pg%3DRPZUMENZJNH6HL5TFQPODUJEMQ
+.netflix.com	TRUE	/	FALSE	1810841450	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+21%3A30%3A50+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72d529cd-e9af-49df-8e3f-f7effde956c2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1772219540756&geolocation=FR%3BNAQ&prevHadToken=0&isDntEnabled=0

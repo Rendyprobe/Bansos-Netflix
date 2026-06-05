@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yeferson diaz
+– Email: jadesmith_xo@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2026
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 5979
+– Phone: +19373136585
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yeferson diaz
+– User GUID: H3GC5RX65FBXTJDXOOVGKZAZFQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810485628	nfvdid	BQFmAAEBEKbCrmWsvT-z3bo4wL85nAlgj29UCokZ0vpdeJjz2Os_H5qBmfxUtAXK5vOzhF8eYjZhfzqkQJxih0YwpEaxy31R9XkK4RZUh0fR2D95FTwA0R9X4M-maRe3YSW7_uc2hYHPCBjSMefiZI0Rw-Rk1FGo
+.netflix.com	TRUE	/	FALSE	1810522279	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+22%3A51%3A19+GMT-0400+(hora+de+verano+oriental)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f92e99ba-d0fd-4542-9dd3-f9376ba58319&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778949348038&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810650100	NetflixId	ct%3DBgjHlOvcAxL2A2AO6OSc1570LgHS1BELfIQtabyBPsxblq8vM72hrR1rBIqWJoi8umUEJLd6sEUri_r6vXrU0ODNdmS7MJ1kYRqnIJ4kyU6a8-o2TS02THzQn3wc4G2LKXE2quUNOYORIcPLSuxpgv94QvBmPlk6A2XNq69rtf9620G9FITq5yI6X4ecG06gmhi9hdDI0yp6M5FHaR2WhJW56fnBGI91MLwk9Y9ipnbO4stEVfaT3brB6Uwfqru89Kcl9oNvN7VkX9G_W6DPqlRa_mY6y6S4Ifmw81R_AMwrQRc4mXkhRUrjAOOHDdaETnw_EGx_fATTsURrzlN6Alct7o5O3S-eD1skAUBjd0mch-PI1Ua9blDaAnHxJTZdSxMpdHq0eiy9fvIY9OO_MemSmpXEAQYNCT-sg6XCPyZD_tab84ASCeC02_0MsGgd1_W9dK9Qh1GJToXnrHojKjg4E4NT_je8AOksAY8MfKKnyHuHihx3KCNZIo9wNDey3RI7A7JIuAIZnDnx3qk4cw-WvuaVLk_yjG-uFjFLLXCuZ0v1VpGIcfmDwi2P3lRds5mDJAaR-k_6z9O8RWZAwfkD0c6tLT7xdDs8OUDGAzRaCo27MJBYGFyyDrjNjs4itsDV2g5ky4U1dxQB5ArqAOkLwaQ7GFyqNSfO82rwwsAYBiIOCgzQhuTpIHt3mcTK_cE.%26ch%3DAQEAEAABABRELLGFiJCQSCmJo4_fpS37K6ojsVuMTl8.%26v%3D3%26pg%3DH3GC5RX65FBXTJDXOOVGKZAZFQ
+.netflix.com	TRUE	/	TRUE	1810650100	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZdpLkd09rjEcsp_FP7tQFdswojd73oxM.%26dt%3D1779114101593

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Omar
+– Email: omar.zeidan0@gmail.com
+– Country: LB
+– Plan: Tiêu chuẩn
+– Member Since: tháng 10 năm 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0389
+– Phone: +96176859116
+– Quality: HD
+– Streams: 2
+– Price: 7,99 US$
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Omar
+– User GUID: BUUXGVKC3JCDLIBXRZSXTGRCNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793494391	nfvdid	BQFmAAEBEEFTKDD7jazYMxPubWYcGihgfQ8LI62FS5GbHqR_-w_2eU3ss14WLlyb2HwtoAangxliXshh9EbAbWrgvAfUOp6npfjyQOJ5Of3WOco0iskwQFrZ7bheupwN9-P8MVQYkjigFM7aDBQLhbmOGQJTpdD1
+.netflix.com	TRUE	/	FALSE	1806100560	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+00%3A36%3A00+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=d484faf5-35b2-4276-90db-b04d6d255609&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806358025	NetflixId	ct%3DBgjHlOvcAxKyA6lkpQlPdCekpX_FQM5MI9Td4wBg59Ar_eGvVLafYGasESNGv0fiYqe-fgSE7rbYaM3JDt18VoWQ-9VlY1tROg-5QkOUkrhgQipRXWdhfEFMD35-KB6MBC9ELClccPZ5tR9XCOnV8xwbZYNMQrvSPZH1xlsJefDsQ0p65AZ9PP_s9g49Dl7hNUUIKgDA_8HwFS8UaJaQ8HEfCjCR9aDee5VLlPUWVq25u3liDGgLBMD4kSgNots887mLGSyv2To0ITVKQ-UJh2t_T70fhjuS7bTND0uNssEcYR7VG2_GoRW05Ur9UgikKi4Jj5YXEUS1g34lCjEkyDmoQAS8kLU8e0TigzxLbOnnEcQRKU9jdxZyBtAE5YGyowxM65_r2xv7A00sHg0_PRMyjIWMncT3jPBxcNL8uu_cn8OFDULoE0PfJLTY-E1UveKawh2JhcktP_Fi8FAdd-fobvvCl-1c2cTEPSwz2tyZC2tvmlRDj6a8D2h_uG8p41pruyYyvOSZbDjrf5MfNQKUQkzu94CHFMOt9qY6TE6ElvneYpJt-70B2a-U3zzjTHZf3rw3le2-522dGAYiDgoMCnC8LXqJNNulDGd2%26ch%3DAQEAEAABABRN3lF-UdCxnoU_MLkzTDnbJfsG74I2A2I.%26v%3D3%26pg%3DBUUXGVKC3JCDLIBXRZSXTGRCNA

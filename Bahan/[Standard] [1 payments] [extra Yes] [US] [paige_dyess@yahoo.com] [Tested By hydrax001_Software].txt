@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Levi
+– Email: paige_dyess@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: January 2016
+– Next Billing: 2026-06-30
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +16013828140
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paige
+– User GUID: NHAKYWXIHZDK5N3YIEQ5KZV54A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799715688	nfvdid	BQFmAAEBEIEVwq7DIhUtDtFHWt2Ud9lgzfBdSRnKJWj6joQ82b3UdWNZU-9EDM4C253W0kAkto7DkC76U4G2iOAb_Q3WukyFNScAYWLBfYA-nRbZXbyymoEZqYicRK28jPaiaj5wdmSzJU5YEQLfj5G5r2nCsJF7
+.netflix.com	TRUE	/	TRUE	1799800578	NetflixId	ct%3DBgjHlOvcAxKVA2CbF47OHEVt8xYspfS8Ti6DfPpGKiMRw23V8HHmoqPjIgD-efbsuRXhcbdbo-x-8mxufFVHxW68_pGt7U6XmTEAYBw165hAhDjYHDyEaFmJWX7JqdP8M1Pduxa-XitEEL3r2wGj1oMVVkKqS-r-AEpu9Z6x3aa1dQsnyojD1m7MnKxJm2Hlr7ZbeXy_QcgvpeHfxST0JRfsCMqL1IWJX-h-0o_D63nu8V22n3g_ukuyO6Pc47OZRVoxVan5wRkWNqcw2N20Cd94tETu7Guov8kAS6WYOrwwqcGK55zZCoM7ZfRh2wqVoVWULc0hTiNKtsJDTIm2TeZh2tza0xFPCht6bh_isfagICx7G4zBgHCqC_heigeIcBB8zsuvdhf4uuVQbEM21mXcl6mnMyMsIO-De7Hu4U1RYVQRdjZPG01cSqpdOvGJsEu9v-EjiIb3-lQtpf6d_JwnWXaat_z734nJXpOwz1pAkM1Xt3s7DSbHtCiD6O2cGtdMWV8cynHMjcX3kPS13k0opmtkvXy7A7bNCLWXahgGIg4KDA_BZc7wKvZropBl1g..%26ch%3DAQEAEAABABSFp1NJjhqwHhAIZKYHx-6Q3BvF8nP9As0.%26v%3D3%26pg%3DNHAKYWXIHZDK5N3YIEQ5KZV54A

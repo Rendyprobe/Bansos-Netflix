@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maison
+– Email: dedecoop0@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: septembre 2024
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: N/A
+– Phone: +33676144118
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maison
+– User GUID: ATCIXQBLGRBQHCU4MHNFYUDEVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13453489539930756	nfvdid	BQFmAAEBEK6SPXy-Cr8pC82EVnHzuAVgFSkWH4njT4x7WF9W6pLrpYxFX_W8zKP8JziX5WvK-PSE6glJdhIHGHW2KlWlvHVl3ODE6FntnMBQ4D7uW_RMM-HXXYt0vWIGGhi0SPRml4rHuZ0tcmvFhZoLrUHKo-Ld
+.netflix.com	TRUE	/	FALSE	13453862261000000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+01%3A57%3A41+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0a8d4e28-40c8-4e63-bcf5-924537246942&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777479922824&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	13455061289979702	NetflixId	ct%3DBgjHlOvcAxLTAx7GXppBF2aPinZZD7-ttR92Y855cXYEa9gIR1dB6LY9kFsYAmEZP0GeS26FBeO6GK2CfFN4Lm0C10wtPFRipwNhXEFhbE2maQeNQSkWFcUVXvfBdCAJx0Kyz5VgcU-rDytcRZaJOXs-6zHPytChvtlMjN0oyEgVI2g0M4SHCv53mUNoruwT7D4BSnDG7IkNAOYr9Csuoe34U58Yjb6a9xsiWMgKo-dQbYje5p5xLLn3Vo9rGO8FiBqw_62pI4CWfno00S1qOP8X3ZH4xON28bkOulJUaasII6c7BDuf24-p9y_Az4EGw1eq9urvjp9n-4vIdk6ZUd4sGBemg6QqOdRCZOsz6P8IM89r2OTPnf8TjQaOPiRvivegZGRN_OvdE3SMyeLT8fGgEQ_JHh5_X2adPDN-lbJ0hSChpxzzUEoD9rDC5dUwPEhPLCS660F-ZLtc4xWW8tal-yLf0SHuBckfN6KHsqbz8JQeyDjYxhTdJLHXvzN9NY73uiQhmwQkRKWn7VJlWnWD_ZkK60blR52Lf12XfRRrLIXd-o49tbRhF1g4LOgw9BThK2saQMTCuhzgr7xqjOCYCRm8rrVcrBGYhb5gLuvKYMM_ZBJQycNVsRbHGAYiDgoMDsH_PTPlx5ANEkT9%26ch%3DAQEAEAABABTQ0uWmPv5afQBkgl3U-fcaesKJwPsfFJM.%26v%3D3%26pg%3DATCIXQBLGRBQHCU4MHNFYUDEVM

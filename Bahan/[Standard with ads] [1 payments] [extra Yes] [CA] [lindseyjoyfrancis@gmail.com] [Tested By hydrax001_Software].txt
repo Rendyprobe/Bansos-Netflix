@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LindsXO
+– Email: lindseyjoyfrancis@gmail.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: January 2025
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 5654
+– Phone: +16136187345
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LindsXO
+– User GUID: MWTBJFZUUNDKNHE43OKOC2OUNU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808252089	nfvdid	BQFmAAEBEGq-jhUSy9kPxuRqC_Pp3lNgAkKQo8jF8XC4hOUvdOn2MoK0MbKU3zW6RbBKEfmpTB3TuxPfzOCIdFzr2Yau7tTTFcyjg70K4PbF8qzxJQ4EQfILuCE9DyumpKuvl2MViZlMF6029EpVjExBIKXYeDpQ
+.netflix.com	TRUE	/	FALSE	1808354092	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+20%3A34%3A52+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06932020-45c3-4ea0-9b53-9fed4ed06687&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776716084202&AwaitingReconsent=false&intType=3&geolocation=CA%3BQC
+.netflix.com	TRUE	/	TRUE	1808688829	NetflixId	ct%3DBgjHlOvcAxKOBN84mm2Rpj1fuPMY_xAzxtyagHqcrlWs91tyhoAbmpN8SO8XxWDkHZPRCzTbp7IH3hV5f9F9Ck8yTTBWBV_z1jAan01vyuSiz7UtkzigLBrA8r2tsSZwi34aXvCrrYUUQohcUps7Z2lcIa5BH5I8Pu_Y-oQmtgYMCxHVZUesfY40Yh6XnUBQoxJXgiwh-S90R6HzbpvNGA-hqx4sAbqV49TN5s6j7_AvQqBVcClxxXbbN4fCHIyg0xaT7h7V8rCuEFgT4HdAloRdhSX8GLso-QFlDWXEWQnODMzLw9yORWDo1EVzkZ8aLV3Qx8_1fFu6D4w7PQxbRLZ4LrC9uLL7MI3W3arPBSfBBl7_9Ts4PQDD3c-Btr-TfV31eRIRdEBhqXX_PJdEMAMjfa5MwCxsTnw5QPqZkfV7jLxK2m_wsuyx39OpMx3kTdM43balOtqQgaoP7FWVJdy0fvDCKTOyt3Xlu6ty4s55nK9YHkYKzMWRP1Ap4HyFF6sVY841sxIaXPXuBy1M2CL2-Jko4D9hHVfinaDu1RNPyKrbrWRhSH_NdY8xyDkp5b1YVqpDoldisgzBS0SWsZJ72LHeOwAOt8WF36tfuO1MwAIjwvrWktJFh37bR7uIXnKh_GWksa1zMLnpxsjeghL_7wNnYnxqvz_5aujK_nohqkv-Dg6OSrwdLtMsJcgSDyFkP57_hgkYBiIOCgw3_IEHOQvpE-WxIFY.%26ch%3DAQEAEAABABSuzf4GHqTc3ftJ7jLkGHkJFpnJkDVShP0.%26v%3D3%26pg%3DMWTBJFZUUNDKNHE43OKOC2OUNU
+.netflix.com	TRUE	/	TRUE	1808688829	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6Wb2k1tlANX7s-z-tG8fCk9vSHlEFeCA.%26dt%3D1777152829372

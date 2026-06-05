@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tholoana
+– Email: tholoanrakoata25@gmail.com
+– Country: ZA
+– Plan: Standard
+– Member Since: April 2021
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 2850
+– Phone: +27658838232
+– Quality: HD
+– Streams: 2
+– Price: R 179
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mokolane Emmie
+– User GUID: WVJ2SQVDZZCWTKKES6Q3PTGF7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800895263	nfvdid	BQFmAAEBEOZUc86Rpjzc4vImBJybmuVgBeq0hJS_JSFcS8stJx6-H0eF26XGn-hE8tqXi-Ft_Mcw1ExCp3NtkYgAqkIOI-S0Wn4KBl3Bz8MAW_yIXAD252aRsV1HxnOzi466Gg1e8IaE-oHLt7N3JpWYLmQBX6OS
+.netflix.com	TRUE	/	TRUE	1809496052	NetflixId	ct%3DBgjHlOvcAxKEBMoRXyg1q_f21CQg9vMilrbH1AyzSvuy1Q1pl-n0aKVSZ7GVq5J_L25RhQJOe8BlnNLxO1_TPi0PAGuM4gUJHBasL3yvOQgijcXW3I4Jgdf1l60hB28iNeCFKTotc5loNnnEXIg_sU5Y9Th-W2-lYaMgvbCpim2Npe7a91jJyVMxZjs-71Y84OqLQKLgysrDqscElgnPBdItgiS-ti2hjwqgWrkByxs7Y5cScg8BC1xEIVdWHEYfgJN51WGgfi0J7Mak5S0Xba1PdQd9gl4ne4Y1NO_XH_FBpeA43g18pKU2i4GzSpDOQ7X764A1T1ntb1GzPqbn-TgkhRy7PDr7uzSf2bPEoOw2OkZ6IrB407pMC3RYYCSI3wYnZWmzI2y6QJN3V9L_nQJrbzrYCYEhOpxy2WBjRx7zEeJJPdxVtC-Oh5RaMhi4y43CyPcwfm3jEVayEyG8Rmaol5UQ00VjrrvfwiVqGYRVWL1hAhc8L7op7dWE-BD9j_VEFquooGAoJuRSTMEgRg2Ha8eZ8REj5ufXlGeBdUNtzjkTiZxabKEc6HxJQJ9usuT4q7_CE-PAW3ybsl9kG_WAOtO9dM6lLQPOHT38ElkdTBmrDw7A1ecX_uXV9ouKV6Fe7NinHZZdcmxruwN8TstzkgOO37h6ZqAVd-MU-9R1Ssmc2dpzv5JhdVLfJBgGIg4KDBkmAODlkcnlOcFw7g..%26ch%3DAQEAEAABABQXKblyk21kNLC6tGpaauMU9Hbb-NK5fpI.%26v%3D3%26pg%3DWVJ2SQVDZZCWTKKES6Q3PTGF7U
+.netflix.com	TRUE	/	FALSE	1809511574	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+12%3A06%3A14+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=74b3bfa5-96d3-4843-8973-5c738a59cdd2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769359022442&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

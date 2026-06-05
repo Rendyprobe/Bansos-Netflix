@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: andresfelipe2088+20@gmail.com
 – Country: CO
 – Plan: Premium
-– Member Since: mayo de 2026
+– Member Since: May 2026
 – Next Billing: 2026-06-13
 – Payment: GIFT
 – Card: 8414
 – Phone: N/A
 – Quality: UHD
 – Streams: 4
-– Price: $ 44.900
+– Price: COP 44,900
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Felipe
 – User GUID: 4FYLLLA5Y5F6XBWQQOOF2ILHOA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLEAenVUzCwOlRzUKfchfLgJgLO+Ha2RhEYrLf1fyKer6zl31qGRM/lzAJCZI4PjneNGdaTyIyRuvOVTy3mVCkSWBdS3pW677YUYyIpXiLuLxHnkPMaQgAjmWJ2vSSYFxr+OGtJZuqo+hVt3+FddL4c5GVE8GH3ohcnN+JpbVRnmvPMYkz2/FQiI0w3j5WJnOAjWRB/LwYmv7XJ28btfORsFewzOrE7VAPhDLRUFbWarWMa7RhrF67uPTK3qqPqWP7fFEWcNYMYBiIOCgxKUvKnkfZCuvrs0SM=
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLEAenVUzCwOlRzUKfchfLgJgLO+Ha2RhEYrLf1fyKer6zl31qGRM/lzAJCZI4PjneNGdaTyIyRuvOVTy3mVCkSWBdS3pW677YUYyIpXiLuLxHnkPMaQgAjmWJ2vSSYFxr+OGtJZuqo+hVt3+FddL4c5GVE8GH3ohcnN+JpbVRnmvPMYkz2/FQiI0w3j5WJnOAjWRB/LwYmv7XJ28btfORsFewzOrE7VAPhDLRUFbWarWMa7RhrF67uPTK3qqPqWP7fFEWcNYMYBiIOCgxKUvKnkfZCuvrs0SM=
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLEAenVUzCwOlRzUKfchfLgJgLO+Ha2RhEYrLf1fyKer6zl31qGRM/lzAJCZI4PjneNGdaTyIyRuvOVTy3mVCkSWBdS3pW677YUYyIpXiLuLxHnkPMaQgAjmWJ2vSSYFxr+OGtJZuqo+hVt3+FddL4c5GVE8GH3ohcnN+JpbVRnmvPMYkz2/FQiI0w3j5WJnOAjWRB/LwYmv7XJ28btfORsFewzOrE7VAPhDLRUFbWarWMa7RhrF67uPTK3qqPqWP7fFEWcNYMYBiIOCgxKUvKnkfZCuvrs0SM=
-– Token Expiry: 2026-06-04 09:23:24
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1801259515	nfvdid	BQFmAAEBEEhLauhUQ3yxoLaWTlqqcdNgu81Eey13gcm2vbcqjkrp0OC2UiwH0WeaLqAjDBZqwIvj-Ux6z6mM2ICZuZX43YqpmfM4OS-lA5VNLJYjb5n4lPKaNDKKaZSV2Ez12Skdrjw9Yjo1QzZ-p0bJFqaHk7FP

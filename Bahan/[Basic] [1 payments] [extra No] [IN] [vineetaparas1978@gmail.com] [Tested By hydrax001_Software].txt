@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bhumi
+– Email: vineetaparas1978@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2025
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: +919759151118
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bhumi
+– User GUID: 5HI3KPVS4BCRXFUT2NCB2K6RUI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805460531	nfvdid	BQFmAAEBEKcKsyq4KfuFOg-IygB_iRFgyodEbVGgaQ3f_M541aiLwrOVJPmHOPJmNP64v0_ryD8lmT_jhc5o_zzJdTIvdnFS76LKnLVeEH6eyNe933C6T68T13HwOpcUmGpXeMyNaKBE0gIH3ND_GSZmAcvM9Yjz
+.netflix.com	TRUE	/	TRUE	1809140352	NetflixId	ct%3DBgjHlOvcAxLJA1yE-FOUs2Jy1_QTWuI-447O_bXQWIKpz6n-XDaSo951sBNSSBsNLU_L6oZkQlwm66kYrbaO0gSU1I9fIPfAssfVqYWNPNS4jkUIn9jW39sqmbGRRfbvqPsC6bfk8dZbXGb3vJ29DVl1iOVqNy1iPSI-FS-tBafaletsjONxG33Bs-mfwwHwAAt1tqglsygPzVK5DEyjIH7O-IK1y11m70asPMI1fdjmhbmENplLZWjzB31fdCnkZyWD4vcOHbW5_P6kU-JZ1Rje9H07V5SR6N5oFePSNRB4Tr7VIYCW8eEqTqdOX2R6A47Ce25naU-fmMp6XpmHEB3Od3YZMTB9uTHqE2_hOiCrj5EWUbGFJLbmyUw8ZIWsBG2rEeVVp_qpwzt6nFuOR4FtbSsNj_8FfndXObyzVD93Wq9T2qwwx3B2Xx4EhmsYADgjIq7PwQPAmkjXaYzx9-NUuHQMQO4uJBRo68im1wgwtp_zHZYTzwSoVTk9Qyz9EmWTYTBDPTOuML90sid6wyCrOvclinAIMBshWp4ye9UXo5lSvTc_jVauunGzZtWbaNd4KkXQiCKEJ3xng0Wghhor0ffp5LlthYTV6x_bsPY3dXEYBiIOCgwaW-S2p7xIIER-h8Y.%26ch%3DAQEAEAABABQ7sBJ0xxsNdLQeU6wbOeZ-ZykEg2MDm4c.%26v%3D3%26pg%3D5HI3KPVS4BCRXFUT2NCB2K6RUI
+.netflix.com	TRUE	/	FALSE	1809140357	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+08%3A29%3A17+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=da3b7110-126a-49bd-8541-3a578380641f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773581643210&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

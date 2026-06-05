@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: roshanmakwana9
+– Email: roshanmakwana9@gmail.com
+– Country: IN
+– Plan: Cơ bản
+– Member Since: tháng 1 năm 2026
+– Next Billing: 2026-07-04
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: 199 ₹
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: roshanmakwana9
+– User GUID: ZHOXJTWSGJBPVO2X7HKIGHMJE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805706832	nfvdid	BQFmAAEBEFkualMzPGv3GfYszMVsSZ5gWmkez1GVFZajEFl5WnirUb_rHQjL7vWFz15BavXtcP6Yw4_6HaPvrZRHMWej2BZAMbcEs-xLQ9oVD-2Ru3Zn8hyJHHcspdUnZ6rQMc5V5YnHHJf0uUPnRXG1DrFl68AL
+.netflix.com	TRUE	/	FALSE	1805709742	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+15%3A32%3A22+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8da8f64b-9559-4730-aa5e-ff06ac2b9df7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774170832112&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806103466	NetflixId	ct%3DBgjHlOvcAxKzA5RZ47B-HsfpqXc5KHRQOvudusAozUexb103PND9juJWOo3E2gzBaxGIGJnh0ziiZXd5jJVVW_QbMg-8PM3GXp8Ia-AZDReUYoHci1hvzPF5A_HOmxRab0VeVsc-Ows_9O_29Bz02_Yt7yGhIXiOSCdKSE-5nd-_5m5ygsDkIuXzUR7wumVgZ_WDE085azXpYFa2IfZNjPe28D_HqOPwikBr1F591KqZmuN4z-2ScmB8NtQxk-rrb4HFSlwIDAPVbIuT_lmTGrIrBCyQLE_yByqN6kMXn3LY9Zt_ntW9EtDpF9IHQaP45U5d5kr3q-AMM8WOjgGsMc0bi9oIGMqyX21TFBedDiT8lKR2I_lc2Ph1pO0cwGrUXHV0UD7uyhhDGOsoWyy5ACZvQVRuc5A-hvdO6rvE-llVWahKbqUpCnOmL5bBoK2lQPHdu1X8ttoPkmJ5Aoe4tayRs1-xL0MalwjTnZl993V8VtmL-FaXofvMmGzbZyceBCJ_JKVq8zpVGUO9a39kGFhrOy3QLJEOJdV9WoZwJX7m7kQ2Qk8ufr6AZZBazPBlW6Vxh3B-2eOP0h1b9BgGIg4KDFbI6Z9XAOpGexC3DA..%26ch%3DAQEAEAABABTYCBk6SU-QrjM0diS2YKBu95-nmD8vE9U.%26v%3D3%26pg%3DZHOXJTWSGJBPVO2X7HKIGHMJE4
+.netflix.com	TRUE	/	TRUE	1806103466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRU-3nFX6-U4oZ37vexlJEkbiueuTuLJk.%26dt%3D1774567469396

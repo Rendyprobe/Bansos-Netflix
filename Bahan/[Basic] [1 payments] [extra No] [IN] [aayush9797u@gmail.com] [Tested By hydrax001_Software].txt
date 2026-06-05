@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: aayush9797u
+– Email: aayush9797u@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: +919558359870
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: aayush9797u
+– User GUID: NWSUNAHVWVD6XOTVI6OG6XPDSI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782533884	nfvdid	BQFmAAEBEMX-hkdj4LRcXbybP3iFZBxgA4T8jbAcPvwp2vlWGq7lTFjvFsfPL7T8FqLbFv3bKgwr0Lv8xJGomu6LSWgKfH2CRJ_PJ4IMib5RqxDpeYtqOfAreiur9AVjcTorsF9EoFm-IfyuLhyOxkdqH8-c-HvX
+.netflix.com	TRUE	/	FALSE	1803582639	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+00%3A40%3A39+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=41289386-9134-403d-9132-ec731dd297af&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805526081	NetflixId	ct%3DBgjHlOvcAxKABA0STE0qXzFrVPkrtZOGuf_Eknhr-2OVaYfZ9HoOykhE4QvCYY5mx40bG_26MO4oGVIueJIxmlSwZH8-lAu0eAWN8pzOOrtL15djLFptPQbhiDw4keWKA2RZaTOkVI26Vo2jNdSBsit-6vxeLqTkO6yPrHeuB5QeAeQjUgy74nXgDVoAn0jLPSK-DqsTq0xvTHTue_Ori_3xf3JZ_tQGrlHemrB09nAUW8txJKwUEtSbhy0JV202dv4Mu0g6JDBzBc1o-CD-dN5WcTJAQWdYZYMPAOFSGHpz9ysoEEyMbHnisgbCeHb_jDGYsipaNHzjIQh6D8_8BD4F47tSmWGxCfNN4WEnAex9m5zNCrdDofpEREzaYwcW-mJ7pInTxumXxYPHeWyJqXf7x70pC6A0DH3LG3m3w6ssy9g9beyKa0OetmAaR6UPe7IqdXqUAxCoxoNaF8hzSAwOeLW2xbog1NdZbKFt6WE1DbHEOEXegT2GhYWbSdA1el_ZYCIoX4YzmvJsM6DvcYchE7_H_9jLps85mFvt1k4xPF8jNY5cbaV6BC8HQbRXWycxBVf4mpJrMoO_UfSnJAmS93JDeu-FnEcIx2bN6QR7ZxGwPWfQB-ERhDYszaGgRdAMvuUovfFMrXbDfHnRgu7hryQt-DsftHLdxZLlMledD48xUs4Zh_93GAYiDgoMoJV94boaJQVpXTT6%26ch%3DAQEAEAABABQ-LzyotF_WSaI_oFuAfvkjzrcJzEYseCw.%26v%3D3%26pg%3DNWSUNAHVWVD6XOTVI6OG6XPDSI

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: __Mordeczka__
+– Email: dorothy.hatcher69@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: March 2026
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 4873
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: aiden
+– User GUID: U2CO5CJCVNCT3I4GKIWIJCNSQU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807876743	nfvdid	BQFmAAEBELp4g3qG81uH1fzjZSom-4JgzR4y8ctnMgf4loxCWyxyU3HcqBMOY9FFwADpTdajZPsdd7rFtMfNF8NHl0-hnL675z3GpvpPGg8KkaiR9KBzM9N5ltio-O369IuR9yNLS3YmBvJecoPvCRf4mrsoQZDt
+.netflix.com	TRUE	/	TRUE	1807876974	NetflixId	v%3D3%26ct%3DBgjHlOvcAxK4Ay4VonZLLEVsJ5XBkgUz83PQ_BAcAuPs_PVGTusF0ift28MkgfpEewx29wWkUi3Kx3S-kKDR9RbLFGjpdeaHrZLA-BMurgY5JMVHMJJMC0BdYHvCdKO_Ah7z5Liw1X0QswnBIF38H99tUEB42bnpVsETMh3ZqjTHOQCw_lfMMMKsbYBGDEMQc7CsjhIP88BiPtisJ9NbAEkyf9AUpZ9Qrbf-PlH7vKgFSEgWJsPzv6EXyWa1HVJ4pF2ntgY_2om_u69GLDhWpauEuEQQPu2N0T3shnMBADs_uFPMA9WKDla14NrOSgI1BujX2PYXUESCx16nFt6RCeQFA4YuqF4OXHDF_s-PfrJk7BjcjtC4ySPfOEpb03YdbQx7qx5UNOE28dvQg2Y0EFhFPzm4fT9LBDUoG6tOf0yHlod4j3zemVzwPps4bSSTEJG8Rxa3l-S2PHjD-oyn5LzqIgr9p2rkccOrl9tiM9sgXSwgEV46AIbbfhplWrwjaHbMuqtDfKN_hR3M-exSL6T0JbEgdrn82MYew1grt0WhPcZdzWI1D2v50tSCJ0C8KJpaMMCYEZ4znrJLqqk_NHIaGAYiDgoMyXIaDkkd1tOAj7tb%26pg%3DU2CO5CJCVNCT3I4GKIWIJCNSQU%26ch%3DAQEAEAABABRDLyrGh-q-emGyU_EZVcuWYtltEPe_upc.
+.netflix.com	TRUE	/	FALSE	1807877106	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+14%3A05%3A06+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d5cff50-c41a-4023-8317-5b571fb4cac4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1771782912152&geolocation=PL%3B28&AwaitingReconsent=false&prevHadToken=0

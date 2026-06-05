@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mattia
+– Email: rheasubba15@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: November 2023
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 4731
+– Phone: +919774301739
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mattia
+– User GUID: 7YKKR2RJEVGEDAUCWCOQXM4T3M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793411916	nfvdid	BQFmAAEBEMp9HZ07elH5D1w3NM3VsfxggsFmfstZFBJaCbIHanF49ISNniH2pwB9G3_5EKDMcG3jqhzQAYrnWXxG8yHu9l37dLUvXl-wXUUSbgbnGJBpPCQ2iGX5JhD6RFCCVaLzsG9QnL0cbwpCUeFIkaxX1m-R
+.netflix.com	TRUE	/	TRUE	1795715163	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTqIgx9Ae7Nrd89kA1T4NnPeAsLiD0YXjo.%26dt%3D1780206379789
+.netflix.com	TRUE	/	TRUE	1795715163	NetflixId	ct%3DBgjHlOvcAxKNBGR-0frGoII-Y47OhhXar3UArKQUFeFTxQcHuhyRFgVMp9kl50YAYgV4eRp_oK16rWmmwvItz-1alitNqNFinEg4eWjS1JFDxWwkbelrCXFHaowYXQg0NCyHXFm1_fSmI-v2N7ZwXIFA9kP20VAygEB4ZgkkDIW2lmfwAaLofYevLrlbobU4JPjsfk92rdweyRiCv2Kj4PcKO7oFuYuKX9ntLY-S3l-JYBpQpXFVcfXJ8AhUcGZbiUjk-R7NuROAWtJ018RMJz4tpo24STec010BO1Fk095kI7Jn1ooFa1X5mzydMMjnFyZ4ElUPg8O4_RwpkpeFMehGNwdv-pFTOAesqJnfBG9nfDbI0dHKrC0HcZMkmVaFjn_X1vcp0aku4ictIT-cG5tEo-jWaHQVZkXgCib_jlnrwZd1BDsHJRNtZya0kfxoA7UKIxUol6WYwucpTcqAQXoGXuIkpiH-t-Xr3MrqenR_9NULjpDqTVh_JD2OJwta5a0eLu6pQoncIPhO--6eReRPrqxHup3mzw6M9oe2g6s-47OmPVWuIalCsTGloSSucoR_YAh0DqkjatLMxoTFIaXxt7x6xW0RRL7bLhZjFnFpnr0s_7ldeVKnO5GKLHhVdil6qvgpNONBzxggMFV1R9OSh88aYBzWd9_rj8-JD1HUtgZsFb06Z7r81g6olBXxz_Wz21MCVxgGIg4KDCaDRc1sR27ZnzfrNQ..%26ch%3DAQEAEAABABRmgyQAO24Fvh11G-YUisoWtS3YeUMBbqY.%26v%3D3%26pg%3D7YKKR2RJEVGEDAUCWCOQXM4T3M

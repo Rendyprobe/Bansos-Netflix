@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mikey
+– Email: prathul.progod@gmail.com
+– Country: IN
+– Plan: Temel
+– Member Since: Nisan 2023
+– Next Billing: 2026-07-02
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: INR 199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mikey
+– User GUID: 2RAQD6HPQVEMFG43PLZG45IHQU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795005931	nfvdid	BQFmAAEBECHQElCzM9VRtjmPJNoQ1FFgQ8qtbKoFPd5htAitfw9il5Fu5hAMHWDMq1N0OFhq3LHykBb2yb5tl9dWji0hobh0saaASsrumft9oKniaEatHmJnpnHp76gZ3YcF-saYPvRMI24N42Dzmfeq7EoFAt5V
+.netflix.com	TRUE	/	TRUE	1807631767	NetflixId	ct%3DBgjHlOvcAxLkA2EHD9su7DY9onHpGCzqsOsQOeAztNOfsVFn-5IzIg43l4odYbItpB2BqeJBN3tLi76YI4voLs0lK1zywIhNCxqllpAIaatGxv9Y3gT5NtPNfsFr6fI7v1plBb9AqAjXbsg3acu2nuykipGC-V4bnNnQWz-1M7PcO_kK6S7XRuzIwdRBJrXI3KyP92WJNA8-Lujj8_sRKptDFLRTIvI_p7JDrXiZMqXqdQVkjtITBSv_3hZBAZ19B3ORHnEeFjQzrW0qlMV8OyN9R0bpjRXJv5wP9AiGSCiV6cyu0cI0a7kBXoEyZCUAmnxQ2H8oxqgKXYvBXqLYHy3nk2n0AD3zJanlY6GOk-CMSeF1srU_RWylRiNkvl2jWDrpwsxaNEmVmPREa608JGNNmy-goWURmvGj_IjZ3LQ_kWNbHBgVV36XIVlm-LA048yqo2W51-9xWtA-_pn49LlQeCNEPOhLS6PWOQXCE9CP-CXFF3Vk5sembmmj7Y5cheUfe8iroDtfy8uL1RySpZKI8S1ZDIcJQUPlMa3u5k618I5YOsVSHNjQCtst1JYcLHRs2mblZ6q7X0bFUa0-DjvankJ1vJxMAoo2YQEAFa7v4WFwe0xHKGXJ5GsRQa1zbz3vQYzLJnwcXoltc4UYBiIOCgxkyKYckmmXl9QSZkc.%26ch%3DAQEAEAABABTaFvoEt_Nn4Lxid-OUOgIEYt397_txJDg.%26v%3D3%26pg%3D2RAQD6HPQVEMFG43PLZG45IHQU
+.netflix.com	TRUE	/	FALSE	1807631769	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+21%3A26%3A09+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3e3dfe4-5132-45a3-be97-fe5b43e9ee4f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

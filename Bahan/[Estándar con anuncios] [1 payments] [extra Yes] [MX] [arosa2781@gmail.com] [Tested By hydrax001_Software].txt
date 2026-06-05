@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gerardo
+– Email: arosa2781@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2025
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 6454
+– Phone: +524531322442
+– Quality: HD
+– Streams: 2
+– Price: MXN 139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mamá
+– User GUID: D2Q3X34ZQFBZNLTCNVXXG5FY6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794862951	nfvdid	BQFmAAEBEIbaPjHegxRD6y-guwz1aKBgh4LskQA04hf40vN2a0zfAhhB0SIvPYtL43JbIuY6miyZ0WhJYxF20WEOa55Qg5Mglw4DYXoNAoXyh4uIQTiXF5va779yqNiqi_K3HGuCLVqrifEnDu7L_NuxHTJxty95
+.netflix.com	TRUE	/	TRUE	1806381147	NetflixId	ct%3DBgjHlOvcAxKFBHnGbmAlteWqPlV2MkmVrDrKpJjWImybaUb5q45sULU3_QqvHnLMwMIz2gGxI6pwszM7YQiYO9WyzamVXraFWp2TF1nz8riyqW_lKVl_e5SxvymidWj0ZtVT68o96QPKomM3vyfNaOqud9VgHXjr3aaWAs7A-H_iGoajS9pDF_yMqxpD6f26AifsHVGz_kPsuuHEdURegMPxyFppDr7qAtP_sf8mFhMvieDx5wjBju7QoWGeWT2KjX9_C5J9um67MCqo3xb0bqiXzZ9xS0QHDOmnOzq1BZVkBBmhVPEC4gdd4_EbP92Tp-KjvCsM3NJLqDo5ol7NztuSUDyw7tPQlQc4DK7bEzXkjn81kE1aAHeVf7R8MFHPhXVTIVk8UYTc2Mfo0zMIod9gqYHYtAQOwa_wlH5z3--7uROiykD9BkmCnOv3vaiqAZdb3nfL8SjQKG40-13D7Dc6BdoA-HG7j3DijjXy-3m2f9rSkaVZXSvOUyarr6BvdoSZlB4QFNtUe2u3BoceYhk8OuYxlX62OavGGPZ-ZB5MPJum7kkkoMLyzCkWRJpfJjQB_I27IC_InQW3mKKa6Jtyk9vt6-qagEXTOiLSsSZ3JdVRK73z8OlMs2XopDWmnFGqMoXkS-MBuxGet_J2YJtPy_1hS6KU6911FIp0DBgDE0eINAcyT0YNnH_LRN4YBiIOCgz4s-RqrQErahSqCNQ.%26ch%3DAQEAEAABABQLzSzprrPXQ1oeDzKG0hVtuxiAnpa-gEo.%26v%3D3%26pg%3DD2Q3X34ZQFBZNLTCNVXXG5FY6A
+.netflix.com	TRUE	/	FALSE	1806381151	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+22%3A32%3A31+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9daf9f74-55d8-4b2b-b7be-f57879f22dcf&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BMIC&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806381147	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4mCPwZReYNREypyRLNduMReZuvxpVvvI.%26dt%3D1774845153394

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LuisyVania
+– Email: vaniasandoval.r@gmail.com
+– Country: CL
+– Plan: الأساسية
+– Member Since: يونيو 2025
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 5595
+– Phone: +56953339958
+– Quality: HD720p
+– Streams: 1
+– Price: ‏7,190 CLP
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LuisyVania
+– User GUID: KGL5NGWSKBAGDBAR63MKOX5ZEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785036015	nfvdid	BQFmAAEBEBnqiDWTBDwSoGk6gW0VmvxgB0IDmRwUzCzeKKNwTHTJ3w_BZm9nLT8ai10yezJfRqCqrns_cM3cTh18h98RS1KZWcht580ZdYVqnpAJP13_EsvsjiErs7VWvdrn781LzrKfncSNQ-tFbbMdI85hv9wn
+.netflix.com	TRUE	/	TRUE	1801104629	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AlQU7QYBhuk2gJ9O-TRz0BkwQpSNYIALd_rZGiMPo5AnInhfIFy85txYeSqstU3IKMKNO0UT3OyWE7JddfUT04nczfiqQ0Kh5hjWza4Z9HHdDl4wYiRX8xf12CL9ziK7SYimEKtMTSXxNTGXxzPnGb_s5S4hA3vHbU2TlUfVo_TI8FgOumlXrKbPZNE-CKCn3CJyqJ983homDKHwzDrYZsypQldhxf_Bd-i1unDoCHANgaixIIiYWiezGFggJNLnQe8P5M1D3il1nTY9ZjoIcLUadtTibx8hBUcaRU3ZE9YwZTnI9EHjWGTYFr7m9cDliVjAzwoH0BG7qOMRKni60rLQ-_KvrnNspXfYvIYVFvJup5PcfzMVrT7pTgIxVm-9X6t6CwBYH_HxRqPm29CsplZG_ovRlsaB1BISO9xUp8lWqe1nYaGenbudSUAodbQ-Z3sJula9fc-7F-uZH3AVsQFvFLJXFgvCHZ2OwSowv6ZkoHeC_WvH1kWBiqFxyN5pGAYiDgoMPBVJLOIMzzq9o4fC%26pg%3DKGL5NGWSKBAGDBAR63MKOX5ZEI%26ch%3DAQEAEAABABSeg_KonZAvYb5N2XaAFMKLX6AhOQm8f7E.
+.netflix.com	TRUE	/	FALSE	1801104630	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+23%3A50%3A30+GMT-0300+(hora+de+verano+de+Chile)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=057086f9-19bd-42e5-b7ac-e18f741867f5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

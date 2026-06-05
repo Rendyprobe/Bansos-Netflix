@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Azrel
+– Name: Hiber
 – Email: azreldeborah@yahoo.com
 – Country: PH
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Azrel
+– Profiles: Hiber
 – User GUID: USR7JIBJG5EOROTAW55SHZ63DQ
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVUA5L+nfp6+6ycvfHpj7M9Y9EpA5LR+cKJhsKbyXqGW7BvH2b/ZkaVMkCrrStqti0LFm/3hrAdJBkPvUFEws209epXmovxvG3XnrJFD5QZZk4UkKX+SF4EDmZn1oAzCUEDqpYNlTmsnPoWGH/Ft2wlNT0+di/E933V9dYkT+hGTscH1S98NR0iEcJCxwvz1Ot//fqWy8TvEpwVE51Duk60d8EynFPiEdSRpsGi4SDGjcO/IVYzgQmNCxbFFWrBKFj3nGAYiDgoMacOGUdD3CSTmsbpI
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVUA5L+nfp6+6ycvfHpj7M9Y9EpA5LR+cKJhsKbyXqGW7BvH2b/ZkaVMkCrrStqti0LFm/3hrAdJBkPvUFEws209epXmovxvG3XnrJFD5QZZk4UkKX+SF4EDmZn1oAzCUEDqpYNlTmsnPoWGH/Ft2wlNT0+di/E933V9dYkT+hGTscH1S98NR0iEcJCxwvz1Ot//fqWy8TvEpwVE51Duk60d8EynFPiEdSRpsGi4SDGjcO/IVYzgQmNCxbFFWrBKFj3nGAYiDgoMacOGUdD3CSTmsbpI
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVUA5L+nfp6+6ycvfHpj7M9Y9EpA5LR+cKJhsKbyXqGW7BvH2b/ZkaVMkCrrStqti0LFm/3hrAdJBkPvUFEws209epXmovxvG3XnrJFD5QZZk4UkKX+SF4EDmZn1oAzCUEDqpYNlTmsnPoWGH/Ft2wlNT0+di/E933V9dYkT+hGTscH1S98NR0iEcJCxwvz1Ot//fqWy8TvEpwVE51Duk60d8EynFPiEdSRpsGi4SDGjcO/IVYzgQmNCxbFFWrBKFj3nGAYiDgoMacOGUdD3CSTmsbpI
-– Token Expiry: 2026-06-04 09:20:20
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1783113360	nfvdid	BQFmAAEBECIBjtuVSmyUguVFs13JK7xgDGNYfTlzr2XJ12k7ZmDptQh4fPVj1VeMO-Q43d7OKCLhC9eAO3jxbrBBdye3sIX9onrKXJvn6p9uvoBkRD1Dz-S-WuNtm6NYzUhm0weQYw9pUDqNZRQtqzXvge3XU33S

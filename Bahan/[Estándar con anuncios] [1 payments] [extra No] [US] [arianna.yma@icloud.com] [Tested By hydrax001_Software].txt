@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eddiel
+– Email: arianna.yma@icloud.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2023
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: +16562038388
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: arianna.yma
+– User GUID: RIFKNQZBDNHMZIYPERYTCWGTYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798466674	nfvdid	BQFmAAEBEEoG0BRH8lfBNLbElNljqQFgGvopRwVzRPAioacPbV7IjvXrcH0sj1IBTZB0sthhdn_sd7eGV6v2LW_oSuYg0ZSVDt5ZVKzAi1_89GlWSczHTOEtWlSriOtVE-yT4WFI03E6Ko7pZVIcddWp9XFweXFr
+.netflix.com	TRUE	/	FALSE	1800705362	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+06%3A56%3A02+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=904eebf9-9f69-456a-a6ed-04b1ed503268&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801137004	NetflixId	ct%3DBgjHlOvcAxLnAwF5EosjJlqRUXyeNQRqY0Lc3bqCVcBWUfnn0jUMqeo0U5q4eSnXP4cT5kOtNz4J6DhGGZ8acaKO0PDaHlf_qg_lc5N0D8rN9vg50moRrpNstXh3XlBV2HB6rNJfV-ZE5tmWKuduferSY6Sa-cx8Ycn9lm_o2OkCab_u3a0lkwe4-4OKrXd7dXqj02EzduBDYnGn7SwBx2hMGpSzQL6-RoJWfHq1s5jZ-hzwm_r0kil3Iop4rPN0SND1sZdvKd_AgLywTMOvcF22ELSdNECA8OnR6FpczHdXTypvMhwhj7OGCsjLqE-Wj3devuq0H1kK9PZFpXCfQ9fjx_UGkt0eyDkqq5fKLB43zkJ7izUTcJ8ssycVmtmK-Nd4EkipmaurY7-0Y9i1r-h0CMFcXX2OqP62KnxQ5OPVMeCwax7tjEGsHtAT-4mt-KmVF9BXL25SeVCab4pZMr64ImkLHTWMvwN9J4xGPnFJZFF5IEWUn13SFkSw3_yit32XAxb86rOcOpzxzAzEJ9ha3aPyH5XGBChtrrpxmEAW4ltTZi7aDIbMJAv7Af8jt2J3v1srz2wYAoCdpb8v8C9eyhyz97E2HuGrYJeRQ8ca-shxeWVyUyjwZe9h4sJ8Alu3wi3ZSyqpi-SxdC01JeAYBiIOCgz0Dgj41cNcfRYDZmU.%26ch%3DAQEAEAABABRh4Ammdpca-e6MQYWrnm9Vu1vdtPatQrU.%26v%3D3%26pg%3DRIFKNQZBDNHMZIYPERYTCWGTYE

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kaleb
+– Email: pwr7549@mac.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 2003
+– Phone: +19893973878
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Patrick
+– User GUID: ZPPJGPI7V5ECJAPLEEE2SLIZNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782533885	nfvdid	BQFmAAEBEOetjWAWO1UQzB8CpZRa6G5gB9Upw3eqZaNp7I1Q74r-MsS8aY7ucTMY2WnBMiDwE5WRRoAx3BOSHxATeLenR_PgR61kUR6IV-HtWCWmNLPiyFRX_G7-_qxxfx6XY6Gpn0QlhbzPimJdQVunTSfqTIdw
+.netflix.com	TRUE	/	TRUE	1782533885	NetflixId	ct%3DBgjHlOvcAxL7A8olgW2fF6eF5ixU7e1q8iCW-zHWYGmMi0lnPx3dxyAy0mcCdoq8ZHvyhrxNfdmvVWHidSX3UdeCfL8sy9v6sz7WjAg96o7YIPlcJP2DZJPDRA3Zg7rfLIIoW4pIPo_35ag7R82qnj7s4fkNV6S6EEPLT768DtI4DjuRZAVbm9l5UwLd1xK7ggMPB0So-ILdTvqr6vWQZVDQoBOclFjzlJdi4wR71PKbM-4GGpg9GYXA94yTX21sOnwa2M2v2F0pg_QUoYTpR5IHWdSEeEFAycziArOknqRAWARMxsxw2rEL5LzhjO757sjzRkZoNIIar9QMZ2PWcyQMjkYnYTgggOWTdER3K5Wt5DUNsvoZtMEF7JBahl5lGqasWsxnm79HQaGVIEcbG2vEWjMgRvXSClkRBGuK7_ljk0gY4JAmOUzXaVmS7SwqkTKX5_R8FZyNLZWUU9ygzQf-KEMioFjCgeoeK5vyDl0Exw-bPO4x6Asta0GTnEpqXwhI_gRCKAVcsueb6wwSn9GnChCTJNq8_PP_aOCUsC-3wkji4wKPCJImEPg-PWyd_DoQm4cl3wdVqBkvbXipmLdWltyO-SLlX_wGtZDb6NqGxkIhfV2aQbEIWGwSUsjZ98_k0m8kI5vnoQHdDwKofYO1-NeFAVe0yc8X3CjI0F_3-K7qmhgGIg4KDIK0poLBpxHtR3K8ow..%26ch%3DAQEAEAABABREUC5aFxy_8cWmwCkzNPC2Te2WYRV-Ess.%26v%3D3%26pg%3DZPPJGPI7V5ECJAPLEEE2SLIZNI
+.netflix.com	TRUE	/	FALSE	1782533885	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+22%3A04%3A53+GMT%2B0100+(Central+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33ff8824-a27a-4fc9-b12d-ea587ef4e18c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=DE%3BNW&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Guwenny
+– Email: wongkargwen16@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-16
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281388882740
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Random
+– User GUID: 2KOU2NPZIZASLBFGZV3YYP47YQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782201589	nfvdid	BQFmAAEBEEn7YFpxG_VgXehWXR3Cl3Zg29EtQ2zLO6LjvCFyj_WsdQSgF1Kc2f-PNpz-f7Y3UZiK455GC5mW6mn2m7s-DD1w6TE-l5Nxz8tHGNm03lcty2fE-3jNjng5XqRrVZvjSDDdzU559HKZUF30_7eYS1u0
+.netflix.com	TRUE	/	TRUE	1782201589	NetflixId	ct%3DBgjHlOvcAxKnA3On_MdJ65QGSgTaCSQDKDfMoBXH_Qb8zrCi4eF_oWE0kRJKuHB2Opfb0XiydPeHuwcmVEBi2SL1bvHKDtDLyDb4Mu2qfeQMG-HRuZ2Znf9cfXNoAjUURaC-qBRXOWHRzVdXpmb1RC21-h_H5lRMTN-91b5KmHNkD2cEDtw-HaxB_WtE5qsTAyzKAZik4yVCDh9WjNLNMAzMbWp7-866NRup8g5ySyZ0LHCIn4rrQXVPL-Tl4o2Roc_gz6NObca_SZ-Il-cVXQb_27OcJUlNQelrb5CIZs3d1O0nlPPyvbCXetwt3tWXf40yKdUAvCOXi5YaqFWtHjn_FIk9wIZjwDU__mZKJOXaCsMp_RTB2eo4w1uB6zqHOeXsY4ORYtLEizrn0j1CiZKSV-i84UpnSowDi9AujkaQJpq37zbn9l37iN41ouE8UhOvKI5VgiD0KFXSDQt8S5y2wfbg-29GnmanJClo-ENeotKrQrDa4H_y3aLT9c71OPOcI7cB18Rw2FXJ89jP8xCdWyj9EFhNqE2l3jqU-oON4yk7D2ban45s8bb1I_UFqxgGIg4KDEaNpWPx0EjCFO10UA..%26ch%3DAQEAEAABABQ5gllY-Au2gO89P8TGBJtBpfbYzcqaFew.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1782201589	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+30+2024+08%3A08%3A07+GMT%2B0700+(Western+Indonesia+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f009b91-9cde-4442-9d5c-661405ddf053&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isAnonUser=1

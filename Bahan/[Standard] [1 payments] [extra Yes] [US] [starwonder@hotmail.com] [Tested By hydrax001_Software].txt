@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kenzie
+– Email: starwonder@hotmail.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2014
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 5568
+– Phone: +17032976717
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kristen
+– User GUID: E23K6QPMB5GUPD3J34ZTUDQYCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801154679	nfvdid	BQFmAAEBEIulo9Nng8Q5D2qI-7TwnBRgK3dvbCi_BN5HZfCeDh3J3_Cpy2Kqxxx977E8rhrxfJCziCkOKG8lje81Y6E920nrBdZoqYZpOLEHrwYicga8rFwSegwsEDQiKFA7qJknavprTuRGHvz-FcGdOognTLF1
+.netflix.com	TRUE	/	TRUE	1808241221	NetflixId	ct%3DBgjHlOvcAxKEBC-dK8zxLPMLZMOMdGw7-IwE3QWbIk6Qn2W0U4oAum5k2oYHKuYxTM4CH-O4KlUN4Z8vcUiT8R7gsEAcVFl6RRPq5StA8LQ0UhEVzFoes0aiPvRoN2wjbFucjUqt08c4meWohwbEUmOkLvD-W4sDDh7bnsnxLG-pwacLu4Gz3wiF-QXVmEAhienbftWR8KldwBPfJoUmO_tDdTD7IgadtPUXa80xNd76V6STu20tv7RumVTjTrgqWdAzXxW7CCdjhvER5k24GewKp69ftRSQ9ftHJEWXYyptZiKEy9MHqpeSrLMIDskIK6M4uKgY9OH7NsbD5ACeyyOrNNWLokMZ0MxUB3Jztw0IzQLu9BBmA41gt-EhvajS8B1v2BEOigQ_B74JlCUIBYCTnUgUvv8Gh7RK9yAW-7xrFcSTygqE4_pYPbd_smpcYYR50lI4HP8bG_vV989TgGKfhR45jCIAOIwOds841nO3Me9bXmJ-zIvGiQOEOyyHksBs9hxBzpU6SnmIUhej91EThKONlQUlBicr_ZDO1l6NgiCXxqbCvQ4nHisZSUwwJR39BSIfFWWoMoWedfkOu22N7y1z5xa9JRweWPOKqQxuxLBAzjsmMJjfox9KWeHc9OOgIRsji-3y0chR_tpsNDqm1NIm3j_05LfAkbwpxkmIYDDm29kuGyMZYtBqYRgGIg4KDLL5zXucdyTApRcQkg..%26ch%3DAQEAEAABABQPZD2XbnuYX0f--mfr_E7WYvKsqPmw42Y.%26v%3D3%26pg%3DE23K6QPMB5GUPD3J34ZTUDQYCY
+.netflix.com	TRUE	/	FALSE	1808241243	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+13%3A14%3A03+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=144174d4-4c0c-4b2d-870c-314fcf8c94ff&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

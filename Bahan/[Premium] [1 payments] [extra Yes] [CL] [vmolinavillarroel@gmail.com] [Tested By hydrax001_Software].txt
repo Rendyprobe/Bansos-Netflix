@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Franco
+– Email: vmolinavillarroel@gmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: septiembre de 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 5698
+– Phone: +56998796491
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abuelita gruñona
+– User GUID: JMAJIXBNEJHLFNKUFZWUV56VNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792370837	nfvdid	BQFmAAEBEJLG3Zz-dWuYla7JtaxGmRpgsk1Mt1huIWi7ywZBnw60PMe-OYTIy-IVOMGi1-Mew5G7Gq_Y2D0zRrl1LQ_Ie9p-berbAVnecn40Xf3Ucam6J1OmWVOd2eoDPAZ65SD_Nc8gu87mHAQt5zeDxQJstM65
+.netflix.com	TRUE	/	TRUE	1808334376	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA0HE-Ja1IBHtss9WapGzozf4kOG4ZOCkhP-Bd5yq6l4GXmyC55cKlehZiU72ocaR3WcjCRT2pNU0WD9yY3EOd_w5p5xrrcvrjuzd9Aaf5ucTtp6ZC6Apvc7fBSQZoAnZ0amsUeAGgVguK-nKEv7aFHatRooRcNmA4xyUnbvAKwjVlnoCmdQxS4ooIViZGrOEjb4MWUycJ80igyNLDMMKz7TUM5-eh0EnbnUBshS2bytXxOe_7teJzS2kRwmXo4xrSrqoa5DrwRfNkRS4banCL2xJthSY5qHQHy77v7tClxf2YNPwQhopWf33hInVrQWLOCzT9qD2BN1usVzt5qqyYmpqkW_-Z7dV9KdC9Zx1NglGGtD02Dpb2gwCvFrDmQdu-kgkiUeMOqy2EHSQBQtAz7sEGQGkpqWJf3maqd8seX-UEs_49-mEejuMx8TVQOtBO956lTStUtQXSCMdxDOZGVdh-ZMPII7SxgUT6NPXjG6NbFHGZKLQ--z2Tormhm5GLXPKe1bMAajZO7inQQ_9vO-xBtXY2BgGIg4KDIXGvXoxsobbqQWcHQ..%26pg%3DJMAJIXBNEJHLFNKUFZWUV56VNE%26ch%3DAQEAEAABABQg7-j4Uk9cHHFEV5Eo1hCuZLV905_fhW8.
+.netflix.com	TRUE	/	FALSE	1808334378	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+15%3A06%3A18+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bbc901a5-fc82-43d6-852f-9b6d8cee5113&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808334376	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcPDfDTVxu3DsYO8v-QYucWhlYRk43n8Y.%26dt%3D1776798376231

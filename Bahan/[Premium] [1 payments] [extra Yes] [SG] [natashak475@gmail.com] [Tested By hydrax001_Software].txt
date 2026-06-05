@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Neesa
+– Email: natashak475@gmail.com
+– Country: SG
+– Plan: Premium
+– Member Since: March 2017
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 7659
+– Phone: +6592714459
+– Quality: UHD
+– Streams: 4
+– Price: $29.98
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Neesa
+– User GUID: JGGRLG7LPVEGVICW7ZKRZHKX2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1	nfvdid	BQFmAAEBEHlYC0-5ksJAxpIluXPM-iBgs2L9Rcxt2nj_JqlFr3aJ7Bj5tSJWcLNiw98ksg8DPOdIbq1GpWfsTU7NRXS7U0q36Vo90YXzcr5xB8L8c9c8q24XiTSgwzQbrtbukvZGme0Nn1jBMh-oVHsljm-YxRGv
+.netflix.com	TRUE	/	FALSE	1	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+13%3A11%3A18+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=833d2688-1c64-4954-98c3-e5eee3400b62&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1	NetflixId	ct%3DBgjHlOvcAxKzA7Q5345xOzaIlLXupSWccieplvhwkiRgq6NpT4vWuYNV-RbMtHlYB1OYh5W-bpxrSMpG7jSDJ6S-wA8XlobC_eBrsH2m94ksyYE6xPD-uzZMUMvgNq2zubG2pU1zf_KNIsM2Bm4XY0RtUZlPizVdVzfda-40eFfGww7aAzUI4vEtXhyJPQR_OT916Jo9lJOKuvRb-2kYwcB__S2JfAPy8-gkPvbNztFl7buRFUvKwM7e8eTHPo1YLLVYxxggJ-hVGU8GQWhcv0jI2VwRnwj2uaXj9cfQ8ThKif2Du4WrdsDXTArm6sk4Cm6LjhtFRMXKg_YwA--po-yElzT8D9jEI6mv833gLfi4_UiBNrnL9AW2AeXmC1hKby9eoqZ2U40qN5peOEveBZAUqqcEsTBs5uliFL44Gz3CMS1Iw9u2oyV7RUYYS91Y8vucZLkZ7roYlxPxGVUO5aJoj7-1C94vzBz0B0kX3j5PRXGJw6CjGcFdSt21GB_X4lrupAFOvvN-FCprrFI7JtDE07hMhwkC5f1P7q4eM5NqdgOp3NZWcv7cJNxkNxV8Nk1wgjyIesCCavcfxxgGIg4KDEcO_Yud0zR3wI22oQ..%26ch%3DAQEAEAABABQJZEJsPINvapRf5u-oBdzc5PaCtn4N3eI.%26v%3D3%26pg%3DJGGRLG7LPVEGVICW7ZKRZHKX2E
+.netflix.com	TRUE	/	TRUE	1	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZo4mE1DHkVSk7kJ_wIU0dJMvliK7XyyU.%26dt%3D1772885102831

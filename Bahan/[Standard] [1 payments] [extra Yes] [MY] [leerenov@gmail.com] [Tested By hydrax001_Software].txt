@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vin Loh
+– Email: leerenov@gmail.com
+– Country: MY
+– Plan: Standard
+– Member Since: April 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 2943
+– Phone: +60164128947
+– Quality: HD
+– Streams: 2
+– Price: RM 49.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vin Loh
+– User GUID: JLLDJOGFMBHWHDUAWX5QUFYCRY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEKxf7mlm5jYJoZzCezLID41gwZIT15-_Tu9kUg87_lM3xVqmmy8-lJwnu36oRUcH8bGgq2HQWJ1xPl7RzdLpyAtvnlHDGBzWtjRnrRXfmf5-UG8-DajpCZhXypRecSae4GDGsTYG8FHnxOp0C5vO-4X2
+.netflix.com	TRUE	/	TRUE	1805511710	NetflixId	ct%3DBgjHlOvcAxLfAy2aSBeqaKCDtlKCWVO_IE16hZFXtGjqzJF6K2F5JWh25FDdQX2Kw45kiREvfMeeQI0w_SpSpJovPHEzDaWUFfQECWzLSxnJ4H9SB0YnkvL35W93pCR61b34I8KxfsXgCQzdvDegx7NxJeLjR6xe-khcfnuQ699vWc4Gih7Iv4-ujaSTE2u85X60z-Hm5zYtimWDV4TMvJT2KPfS8GrazaonplmzWwPmuD8ipXzhVCqRCugnFGJK1p1iJH52ABIeYdD5b9Nrhdk01LYZsmkuNLaxpRJnz1WW0ympnTLmgOxICSlgY4oRHftgSColOJu35TN_W87LrQsq_dSO-dAg06CD8vlOfVt4mfya8uyygHYUt66yo3KXEIXI5nPLE7tCUYt9e2UlLu-0AKs8b-OQE8lqaOnhsGHUoq3OIdopfeM7hQaaKhITzDjBmufX_s6zAGS1I4VL-ZF_7EdsuqN9WUwYFJSBaL9aAzQslZ32zlko40xwLOZGeNjyuZAzbXFQp5E4IMPydzENk6Por6AoBsxQiaJTD6EToK8TJjN1amg7TdT45DTROfjSAmeljJF6F63srFOfE9ziAjsWqwc5P0UI8EEhFExOjjH4ZA8v4hxuMDjs_6f1zTqAe1dn3zPWGAYiDgoM7Tgiuv1kdjVF_twm%26ch%3DAQEAEAABABSKCBz6H8M5XBpwemIorenLELG1yv7RjUE.%26v%3D3%26pg%3DJLLDJOGFMBHWHDUAWX5QUFYCRY
+.netflix.com	TRUE	/	FALSE	1805511710	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+11%3A01%3A50+GMT%2B0800+(Malaysia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f0ed8cab-3afb-4ee3-8033-f2a73a7d71da&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805511710	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpUW3mms0D42yFN1RYReKt1i03nWI92AQ.%26dt%3D1773975710057

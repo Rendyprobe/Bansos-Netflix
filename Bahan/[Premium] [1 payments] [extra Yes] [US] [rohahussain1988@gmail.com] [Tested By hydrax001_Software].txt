@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: falak naaz
+– Email: rohahussain1988@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 2761
+– Phone: +17724531252
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roha
+– User GUID: EM5GBN2GFZHKTLYTTKRIRHSJV4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783718195	nfvdid	BQFmAAEBENGsMpfwNHqgwAOWX01HAnlggBLGAKnxBUlFzMAgHLS5oZ2OgJr0dPe7NnD14eaYCXFPk_ntTi_Md3YAl7s7VQUPYfwfbWJP3UsdzPPuEQ0IMpq6PCi4rGVuc0dakrxHuxKJMdNIH_RamRZ60HKZDKZM
+.netflix.com	TRUE	/	TRUE	1792691354	NetflixId	ct%3DBgjHlOvcAxLrA3dvPLKqzNsqTsUXy1czOscaItBy9B3kHZC4SlgK7r9So1RAIV-CCX2sMGvR0jWfUmzGy4QnSaz5tGdKMUFpy4t0-Nh005xyfXUSrGWxAx73CDHDMhDLsG64aG7bjONXaxgRuf8WfyPVUvSiZUaJWRlswvO1vqAfIUz_g2y1wrKW51I7Ktac6m0NaQNsLyWQbqN7h7Qt5xqn62li6tnh8g_lKAX2owAjde3SDbuyh6VtisGMZ9xYi55OxCBaEFYE_7TI0EHwE4u4C57-bNvXAxw8S-PK4o-tHYIeegXRzHERY4WwVPgzhEeuSGcMh_X0LD7HWIFQqkNYSVIYy_wk-bdhvpGiWFe46HGqEblwftpXJ2vZ07ilMYIdEfUGqvaljlz0p8DQYvpULw-Y_66RsaDjUpbHF4BETmPsiUzVFWOslCyrce0UHIHL9K2OxLUooTPyzjoOTR8TFXXcrsGu-vU2ZqnZrnM12SIbMzZoaxqBWb1duF_T5Q7DuF-ewxICkw_9n0qKG9XGlpTgLRudxJ2wUduAcGSM0klK7abaob2WhfziSTodJq00gfDaeIC5YJ4N6a69LmYDN6tSUD5o_QIWpNeDcX7wksgvqhevxgx06PsW5ANwYIstxtqymyYVnfeso5HXjM6A96bVGAYiDgoMgYpLVlR2HRBo3zwR%26ch%3DAQEAEAABABRsEtSdsHopiBMfF1RWYmS-KtBQZM3BOkM.%26v%3D3%26pg%3DEM5GBN2GFZHKTLYTTKRIRHSJV4
+.netflix.com	TRUE	/	TRUE	1792691354	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEg3fEL15J47JKJKMXgpR_UFV6AyK25xg.%26dt%3D1761155355433
+.netflix.com	TRUE	/	FALSE	1792704549	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+23+2025+02%3A29%3A09+GMT%2B0500+(Pakistan+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5718a03e-97cd-4e29-b6e3-d739b7ec6028&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

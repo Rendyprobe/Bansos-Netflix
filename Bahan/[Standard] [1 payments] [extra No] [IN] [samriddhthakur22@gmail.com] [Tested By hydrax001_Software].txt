@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ojasvini
+– Email: samriddhthakur22@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-06-07
+– Payment: N/A
+– Card: N/A
+– Phone: +918817825080
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sam
+– User GUID: WOOC4FO355ARPJ4A7VNNDYL3VM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804452565	nfvdid	BQFmAAEBEHFPek29ge_0Bciu3Rqj3b9gCzm6sZXn40IQsEm2nJYLbddYjjDpWB8qaYGiazjNeb7xbAaa9HR4gV2LMfqAgKWvJ8muqaDf_BPrN4cfBKLq8WXRPMFfawwpw2YTvYz1eMnpZn5W9bzlqf_rZTqILfsL
+.netflix.com	TRUE	/	TRUE	1806133019	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA5DZfQ3oO7N0SOGsEsUg6E1lIzCehbQJQpiDtoKWFYuEQr3KEIYsDouKNjpy9PnUGwO7DCcHKbpV1wx-os64aMvMFYD-EHTVJoCm7it_9y3wu14xpmlzRjBegDHudtdFJ6Nnd08zE5eNjMZTQHM-6-AkseL8S_ff8zXGevd7w4JPgsN750R-HDiJzFs258_mnfgNYcqa-2zIfBpXsR8Xq6O3xT7Qr2Jhi_CaybvXmI6oNZANnA1tt49PQKneNU-LkJQNdR6ZUi22Ubl8F6exeg-T9J5QFlmr_SSNUgrz_K1W7D3r0Y8PkFBC357TFTbWGcS2j27b1u_O-lgRDZt1W1VibiH1I1hu26IzrPJGm3fmx4LjnoXHvDUefv7k9tK0u9c26UvinefDKP5Qm-Enl_viKbYAPgldWLePQ0fUKcGUJGj8V5cECHVv7Wi9LSnGS90XzAqDRF2XVXfC0kyDGwdzkT2Ti6Go5xTyu0Ot_aEPZdN8PsYFRXj7TmHLQuyp_d5tMJIFLylw3I87mn10ndCloAuIbyQQl8fWWYoYBiIOCgyTY_u9RlVxnpvLe-Q.%26pg%3DWOOC4FO355ARPJ4A7VNNDYL3VM%26ch%3DAQEAEAABABQB9skl3oxgu-BaCg5DPMM6RkRGkFn1Ovs.
+.netflix.com	TRUE	/	FALSE	1806133021	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+13%3A07%3A01+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1b56ad0-2cfc-46c8-ac6d-1b6aa7514336&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

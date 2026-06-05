@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mike
+– Email: johngrbcz@ameritech.net
+– Country: US
+– Plan: Standard
+– Member Since: September 2008
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 8549
+– Phone: +13127201979
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abby 100
+– User GUID: W6QKATEDLNB4JGYBAMGIJIYHLA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800841220	nfvdid	BQFmAAEBEOrgjjOiv4j7wxWIfkGuTr5gCoHR6Rd7SleZ15C7Avtd3yNHZEKvesDmAXjMalqKJ7mixIHlYOYkV48w7DTPY1XoOiFLgyMhgm3fQGdUJR4yBwO-9luhng0KYAOj9Ny3qfk5Ek5jdpLE3upacwSBtRIf
+.netflix.com	TRUE	/	TRUE	1800841224	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLpAntWt23kQccNBW5-7eTIK_qFBtFyh-p2EnKA-rqWKJy8xXRN-c8gE-_PvdKzv6qJc3lvoyEdMaeO8xb3iLvSjb_UAiidbRgcwoEyOl4K1TQ7drEbsbfNTvcoarZi4dH-IJ82sLTYrnKk3ypkYfLaTS2zo2jgoVLadc80sGQ9eeW8UhdtBU0CxDmYTv3cxSvELponzZoONX9As-QK9r4vEGQCdYtSIKhW1U1KJxkwHnSHet1QX9Xelf5eFOXYMRIGeRO2sr-ARtPvJPb0riogYjPu9PJfHfBMEWBo30QwQlJ0Oxr9K8Xp1g6FKuS25cclnK2Ickpxdl-EppmQriUg5mQx20VrsEcP1ptHx9ypU5soLzK4DLXaV6WXadYYWHoViFSRw_fafK0fWFA1YNpUvWo2RQFuv1dFQ-oBGozGqs60iuK2eRhBu34zKVBP3PQbsnHGejh8AU03bvYF_ipJ8M38PV8AChx0Ds8YBiIOCgwxPF5QhXVOItDxLPc.%26pg%3DW6QKATEDLNB4JGYBAMGIJIYHLA%26ch%3DAQEAEAABABQDnf8RTLBmmZAFVu8KO3bpuWecLwiilAk.
+.netflix.com	TRUE	/	FALSE	1800841226	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+19%3A40%3A26+GMT-0600+(Central+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1801b94-6128-4346-bd3f-be178c4a9248&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: poirotdelphine
+– Email: poirotdelphine@yahoo.fr
+– Country: FR
+– Plan: Standard with ads
+– Member Since: March 2025
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: poirotdelphine
+– User GUID: ZFCTH7ETXVCWBHNAVEHSODKYPY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802114613	nfvdid	BQFmAAEBEEwYGwDO-T2CewlG3fjM3mJgRDPqT1y1aoO5UFNK00W6IgT4PG11DA49EKKDhQjVBz8gLcoRTxsBDBhQFLjXHJjZPcsqSsJ7iRFMC52cGzKbNmMzhAktZL3jOLwbeknIBzazN5t3JCkke3qpgNOjoegG
+.netflix.com	TRUE	/	FALSE	1807700318	NetflixId	ct%3DBgjHlOvcAxKTBNq_sStoQElPeuktTP4Ycxdi3nasW8jVeIKRTbYqbilbEhgzUNmudW83I7R3zc1Xk8GLiRKU2tgIEr_-sw6VprrPddAOlrWkgETjjNkuuluUKqEhuc3Ts2SKf6YLNj_WqAQq43OJhZS2FLL_dv8nilp7g_W21DDHA1Uyp7fBsxe4qGa8yhIHajigsL5nJZanBIJY2fmgkKM2UEYbyz6nrItLYmN8oFzB4mlPxRu2dRl7awsotyT4Qs4jZkprbXTvH9GiWO262fZ5ZgETTkvKGKFoCit9Kd3gSs0FjGm0aiUNaHYShCn2oKBW_TEK3pGwTUyyCkj0fT0JvEDASJeUQ86bIws1Zcj1k3cIR75dS1qYe0D1BhkEKp0BGzPF5ruwO-XmiNiFR0G3Ot2Yv_4W77GVblWPttFfqvoF33k4Bmf1uUBOaYxgQfTOYLLzGdKKN898TXQV4vPPn5A5z7aPHDAiWqTZkchkqL9gvCDGkdnfgj-qxgZSihpR8tE7c9T86DbOrZ2mOGNHtiD9AgFKz0DUbsoVpPKgyoOtpg1IIt8dZF_yQVzTnFtNoTXBCk6pBaylaHpreiA3SYM3Oupx4k5X1wvFMi3BCVmF2kWvc6oCgjrVWUc9_lFKQuLFCuRZffcHrBzXUSUcX7ssCP9TpCeDfc7BixlkxCNsHZiNdmLpqfaY1xd2nXkPzC8xyGWDT-kdjhgGIg4KDATS7-xA9duHsIvXAg..%26ch%3DAQEAEAABABRYVr6LQi7-URW1ptVUYB6FC4_zo80AnxY.%26v%3D3%26pg%3DZFCTH7ETXVCWBHNAVEHSODKYPY
+.netflix.com	TRUE	/	FALSE	1807700317	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+12%3A58%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6f1fe235-d46a-4481-9993-8c49b3d02fef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770276130395&geolocation=FR%3BGES&AwaitingReconsent=false&prevHadToken=0

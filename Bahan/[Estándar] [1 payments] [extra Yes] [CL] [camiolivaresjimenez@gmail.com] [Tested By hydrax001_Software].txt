@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mati :D
+– Email: camiolivaresjimenez@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: enero de 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 3500
+– Phone: +56937151846
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Camila
+– User GUID: OUWF6PZSLNGM7AE3HR4L6RA2QI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801704176	nfvdid	BQFmAAEBEL4StRGkmh3ju7lsRfc21MZgACkEYGLLPuasIDeyf_we4EgAA_Zr7cJNUD09aPzkqUX_AN0847167xyHAmIHN3k4_XTh-JLal7Qmfih_JEW8N4Cz0xEFIyOkrqCpFUKqoGj4MQzGuQnaQiy58_f1o0Pc
+.netflix.com	TRUE	/	TRUE	1806091297	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA56FJUvtyJDW7rcDD4o8KoZciAuivqAAk7TM-BQOxJamYe3YlVKoQHShlBX8ZwOB7pvqu5JOaEF5H5dsmP_VTZZzN6nEMga7umosH-7LZXhkbzDJPd-xhCFA_db-1EUfJeVnARdHc3ziqhi0CDAMY4jecJS9-uDaxE00mFmIbswbP7ivU6NF58YE1mqBDzS_MDr0kRqOWtT6nOxmpkNBHfdalLvVyDqINeIHKZoPuMdX67smoGNGA1mFdnH58XGifubK7lS5Il57daoqNdty8oUl1Dkdm3-DqA543Njk8xEhv3bPQzoXo3RNi_YHFqiGdMAKVC6Z4AEKys-HEF0LPNhT0vV9qI6SODzbp3BYQHNf_Uwn6-p9bxBKdNxWhFyGUfE1LtBDz8LaIcqewR0UIxJViApDwKG53TZXzIQIUYOQNslIqE2pS3IMt9yBlnqIHlXTwCXIXEoNCZC582PbzOcWxA8rb9-QpR-B-WcUjpg30E1hQbUZr93BxXWSrxxmmQrB2-4XvNqXDJwDYtxYgGUgU8xUOvVpcMH0QxgGIg4KDCp9P4tr8THR5pyxeQ..%26pg%3DOUWF6PZSLNGM7AE3HR4L6RA2QI%26ch%3DAQEAEAABABTcFoa1eobEfmOkMoVRJJPphrmrceJmHkE.
+.netflix.com	TRUE	/	TRUE	1806091297	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOjL9q1Zl_Nyul36r9YIIMXOAnVEZWAJg.%26dt%3D1774555297877
+.netflix.com	TRUE	/	FALSE	1806109573	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+22%3A06%3A13+GMT-0300+(hora+de+verano+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=98dce84a-4c56-46b1-8ab6-905699a225e4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770168176519&AwaitingReconsent=false&prevHadToken=0

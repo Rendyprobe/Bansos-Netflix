@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: akilanga
+– Email: adrianamarialogan@gmail.com
+– Country: US
+– Plan: Standard (Extra Member)
+– Member Since: May 2023
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: akilanga
+– User GUID: YWS5BO7AZRHYBLAZLKF7F5253E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782198426	nfvdid	BQFmAAEBELuKUPLraTeeX6c4xYMwm2xg7_fwV8jCX5BvcjGEAwFEI2_ZdYQ1ixagsnKCZU3iy1mY1pnPdc8fjNWo7dTelMELe7n4nLPQiD66THbbBnpJeD2cin-a-XpZIrRJgPANpw2WVaN1cE8ztEgq6KT25CYf
+.netflix.com	TRUE	/	TRUE	1793786727	NetflixId	ct%3DBgjHlOvcAxL_A0t7ZKJFaX1vpwLL4poltLVHUUDlvLTvw0LrgL4svktkUvGrLKuz9hlCJAUgH1scf-IkQCjolOu5OkFivFkNAOeIoGermRWaeWwpJwX4hcicy-T-owMXPDPjHp4oNHrLaxp01gKnCDfYrvJreaXEvl5z9ZpJcK3wYarMQKJKde_McZEwGJVzKR0zS8c1nbbRBGpeHF0u1Ac_aGAg47ovSsIlCNPs1UnI8NqQZoAZ6ZfmeCQMrA-XShaLLuUJtQFseOVad0_I96Y9Rwco7E5f2h-R4LKu5X_M82Yslbf0aBPyv004Jbt78S7vS7n2FW1xzOYW4iM3waX6L3NOd28xyroTZcuR1rZPWoQq9lbpQv_RXl4CpwsgyMCjtUDrKFtJYHvAL9KLMqpDJRSmEK8Q6oHvSo0_XokKRyEkqHIFJ16LKRJZch0jYm_CZC0hCJh0M_34K9GUGP7cQ4UXPfQ8REj1c6FIE2lZx7BJ1wrDUOkq6KBQEDVg6h8H2Qc5uQNdckWH-uZiKb0WGplM9kBGGJ_Uo9QF3oXQpVaDynPWamMXkMAYeSn5SefwrqvDEhq73C-UncrOasvMku9fhs1rTzevE9ciO4zGjL2jqljFVPG2NsAmPeqTR_cZZbBUj4GIQSXy0_-3cPg0ahCXJtGNVBylqJLufZ19-mBkPRwLb9AYBiIOCgw6whta1vYYlMZu1rc.%26ch%3DAQEAEAABABRVT77EVZrn2FJNo4Dm3CKTzrUL1Zpo8GM.%26v%3D3%26pg%3DYWS5BO7AZRHYBLAZLKF7F5253E

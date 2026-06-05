@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: fortunep64
+– Email: fortunep64@gmail.com
+– Country: NG
+– Plan: Basic
+– Member Since: June 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1384
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: NGN 4,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: fortunep64
+– User GUID: GXGNXSOAQFDV7LG6VZ7BSP2SHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799481273	nfvdid	BQFmAAEBEJ59axA-U1jaLau5W-XCYCFgvZGTCOJCSIOAkckwglQsnHLDGugF0vyMibZmTLPyYlr679hz96UYmV9Ojxd6araAtvypENQPrdkud7W5kP4dabXhkczeAV8IPPpLkR4WltKvnFbYn-TWwaM0FwbDFqOD
+.netflix.com	TRUE	/	TRUE	1810073199	NetflixId	ct%3DBgjHlOvcAxLSA3gY_JyA0VcPdaYSMqQWJpW7WX3dKSCWRUEtb23PUJsD2FmJtfPHDhO08ImvJLW0lkT7BCpKM6MtG_p3D2GFDA7IRhKq4-OMvJE29pkX1E7RS6dQ7WRxe9gSzGQXCKPlQ4SgU_hMMWOMCL8AgoEsJV7BoePlRH3K0E2o0-dQBRaD0lw5kIZpomUL-fmsWuu1TKUTKS1FH2woTsIwsKcNoJOSSbaO1Tw-xsojFn48nlmyWAUUrotvT-WQPQWIjrK8wBB2ofhrwJbmE4rw5XITYRh1pjTGQO6in9bwvZwGKXznHEjWo_UPXeRPB5RggWcTCvi5eLkoyy2vcefbdEpJi9I71x_73ylNoi0vpb4R37RmTtZ1xcBwqpUqUdiTDye2v1MgquOibqnAwR2K_sNlMSK310d0nKi-dSBlTQillfJIPDuRqHIh3E4jYdWPDagzN9b2aKbstjED10SBoNMNYMGj7lgdUyDN9ezU1ucYWR-VC6N_f42wKztunR7-NMZ2HehLIyx1yOGjaaQAYKC3DiUCxeW86uI9F8wbOytceWUrrwuPSHnMsS3T7gvRKBAVd7XCkh5yTPYpM2PqtCFgfdcp8O5JxLVxXt535-6vmnXbtfYYBiIOCgz-3Azrg-GavpKeiWE.%26ch%3DAQEAEAABABRtjU0U1xgN4eCTdO9RmxLdYJeZOXposqo.%26v%3D3%26pg%3DGXGNXSOAQFDV7LG6VZ7BSP2SHQ
+.netflix.com	TRUE	/	TRUE	1810073199	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUUyKuVDcxs2ZMZ9ie0lplzgnss2mnCzI.%26dt%3D1778537201572
+.netflix.com	TRUE	/	FALSE	1810073216	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+23%3A06%3A56+GMT%2B0100+(West+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=901ff3e3-23ad-490e-8d93-b316c38e0a9e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

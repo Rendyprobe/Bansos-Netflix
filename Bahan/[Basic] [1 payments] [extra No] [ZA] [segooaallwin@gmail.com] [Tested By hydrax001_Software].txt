@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Allwin
+– Email: segooaallwin@gmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: January 2020
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 3259
+– Phone: +27823503024
+– Quality: HD720p
+– Streams: 1
+– Price: R 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Allwin
+– User GUID: EIWRZQIGWVF5LIFO64HEGTLZD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782232416	nfvdid	BQFmAAEBENf3B98UeFuRAHztyfZMC0Vg8D-EKe5buXSytgq00n8hrKOatG5iFX5f5tDd3WMsfrVaUhLRkCZanFMuKZ5V9Ct3Wovfusm1lhcj3JOadvE25cxDmnNPjCpR_7rFk-VNTuXyjOA81TR8JXjlJ4-IhVHN
+.netflix.com	TRUE	/	TRUE	1803236577	NetflixId	ct%3DBgjHlOvcAxKkAxmYY8C4S6tqv7A8nQak2Vz-Vtmr5BZN5TogNRe7_DhTCoQ94C88m0MPlyIuueitAospVWVa_Vzau0zmq4MGDbawWt9dx1V38q6F3hZYGOrxxG784uyRxbEYWYGDGrC6B1H-hH6mXMkXrmUXxv7VGy_SCBXpskCNoFMCebhjD0oF5bpwxcqxJ2PeDBM1g8id35HushhvWgPNWWj3I7kNMjIFxopqWVf98eCNTptmNi310UeiBuJ2Z7Qxs6eplzVFAorizuePb6f_Jx1NkrGOQNg9SbpvKOHVcRGhuBugCLbMhGDB4FDQNsP5_i_N5pyi4273QJZ_-zNWJhdjluUAK6D7vpkiN8PXms4MLIaLWm1gbDsFYbVSwEK7-UMBdcys3O9o3-bpjmK3fyTLA8RfseHgVVe3WAXNbNyEOmqNBOnwZtzC0_EwNr0zre5z-bjtGMY3Snee8eHfQDHw1Ya9rpX3wMT-8ehSIk1c-sSv6lK5kDnLxIZ1CLX-DLVFq8Bt5QwpeRvYssly7UaSQQeW32tr_x9uv3217eC8auFFKAdryVhnhRgGIg4KDHJ93Jr-98QMPoaStg..%26ch%3DAQEAEAABABSUxljCAnSOQf4w9ciEZdp0ZB7g-yse38U.%26v%3D3%26pg%3DEIWRZQIGWVF5LIFO64HEGTLZD4
+.netflix.com	TRUE	/	FALSE	1803236580	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+21%3A03%3A00+GMT%2B0200+(South+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70d0ea6e-0225-4532-8d0f-705c76068efe&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

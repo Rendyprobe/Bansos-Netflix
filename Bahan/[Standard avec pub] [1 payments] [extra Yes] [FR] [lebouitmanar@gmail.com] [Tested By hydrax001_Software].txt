@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: diyaeddine
+– Email: lebouitmanar@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2025
+– Next Billing: 2026-06-09
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33628594187
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Manar
+– User GUID: F4IACDLAQNCEJDK7L44MX73XCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804977302	nfvdid	BQFmAAEBEG1fua48w185ZtjbXGqrV65gtX9akU9zHbAaO6FMQQw-8OHewt1CgpOLl43qAuUBHEffwO6HdcYZpgGMkaekiO5V_5j81B7GEgiuJ6gISZfcXhlXVSQBxF9Xo7INsYsT2SOfyoXyhJ9TxSBOOlk5qnTV
+.netflix.com	TRUE	/	TRUE	1809114400	NetflixId	ct%3DBgjHlOvcAxKEBHXtqCBQSEdtksJe-Zhyi_2Q1iOMGLuw4V7z2DVDA_12oI0izaEzn2bhgzuqVXXXCVcoGha7OQwwT3om7HNbnjpRd_UBnl-w9tZw2xKlmKHL71AUAVewVWRI3Icg7N5LenfTGXzskI2wA2PQo2aNXra-dGnqXwE0TNFKFLXq4rHjSm2nOiG2YWGK2CzYJbJdzhb2d3kQNWWQF6mwuVgQMG3m0wJhNP6BHkCLxocYxQ_sg0JRx1GtxUE70WRHT3H9MsZRLXl-yH22muKvr-cOi5SiVtCbrLMd-5DfQBBw55pnY04OLndr_EJm2UUnXnXW6h_JNKIyKmuhyl3uZ_HMrsxGEfZIpKE3qLy37MsTLTqcv7H_SrVs3sUFiOLwoCrnvLmvMb6TONEacr2xiDpl8olfGgXGI4L4MPdhLO-vXdba1HAZ2U-BNGi36voNOAsUb6zDA-m9yffPnn5PoUxiR2MKP04SzVm3rJqguK1x0xsdEp1W6osOw4AmxZGJY0n1hm5Pz9h82r3DDBnihanvjC8Yma1V1yQ2IxLaohCqIW0s7OhNEyL5VuhepFZs88148nm9PUT34N4-aW4FeYIAzyud1IJgJ8rsx0G7YIORLa0f435xMKZdVuWqy65E0eMo-x2pk5qhHmHOuCIlDSqohwZttNNZ3E8zol9cfljqF9PycSkP_hgGIg4KDHHbjNakD2T1drD6Gw..%26ch%3DAQEAEAABABSThik2fcEF-x57Wne9u3JVYLObdqaWtL4.%26v%3D3%26pg%3DF4IACDLAQNCEJDK7L44MX73XCY
+.netflix.com	TRUE	/	FALSE	1809114402	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+21%3A46%3A42+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80ff9b27-6eb0-4971-afd2-18019ee28a57&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1773441248668&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0

@@ -23,14 +23,8 @@ VERSION: V2.0.1
 – User GUID: EQ7WLKSAPFAEPNNWAJEXIJFUVM
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAYlBAs548bRWOaRLHkjCsDxsKLtEljtTEjbOvOOdJzVrMNm/OXyF0a4eqd+QwA/Ay6/aYXW4AvEp7JAd+TViMbS7brH10iw0whiXQh4RdJ0krRMFefODIEHSaaRIau+eYMb2F5b1dDE3aBJxNPAram90O7Hj7adapkokNkQ3jdHr2RYQRkV1QQv2hCXFH5SnPwwDs6Xr95REI5ZiLFCU5Pi9pkrGUa99sgxIGnAKNfbHsuuPw6Z2WackWSl5P8KM9zMiGAYiDgoMZ3A/JjfN7pr4XGM2
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYlBAs548bRWOaRLHkjCsDxsKLtEljtTEjbOvOOdJzVrMNm/OXyF0a4eqd+QwA/Ay6/aYXW4AvEp7JAd+TViMbS7brH10iw0whiXQh4RdJ0krRMFefODIEHSaaRIau+eYMb2F5b1dDE3aBJxNPAram90O7Hj7adapkokNkQ3jdHr2RYQRkV1QQv2hCXFH5SnPwwDs6Xr95REI5ZiLFCU5Pi9pkrGUa99sgxIGnAKNfbHsuuPw6Z2WackWSl5P8KM9zMiGAYiDgoMZ3A/JjfN7pr4XGM2
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAYlBAs548bRWOaRLHkjCsDxsKLtEljtTEjbOvOOdJzVrMNm/OXyF0a4eqd+QwA/Ay6/aYXW4AvEp7JAd+TViMbS7brH10iw0whiXQh4RdJ0krRMFefODIEHSaaRIau+eYMb2F5b1dDE3aBJxNPAram90O7Hj7adapkokNkQ3jdHr2RYQRkV1QQv2hCXFH5SnPwwDs6Xr95REI5ZiLFCU5Pi9pkrGUa99sgxIGnAKNfbHsuuPw6Z2WackWSl5P8KM9zMiGAYiDgoMZ3A/JjfN7pr4XGM2
-– Token Expiry: 2026-06-04 09:01:13
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1802916322	nfvdid	BQFmAAEBEJ-l6HcNuzKv5V_toYvWmINg4hh18pwne1CtVCZR9KCV3K8qF2vseqMXMuSRr_WF5PmrVNGRwnTt9XcNeLGRT0rQMTncWIFZGRKF7YX2zFAQapf7InqZSr_LHyR96Ga_LylwyqCmO82SqcfcgfIveEBI
 .netflix.com	TRUE	/	TRUE	1807942579	NetflixId	ct%3DBgjHlOvcAxL-A2jzahm9mZYy2rLG_nkhFgtk298Rdtth3rsveaIk7Ht0ulTQeQkl--gvJUV12Ha0d3l_VLauw7rjaam9xi6uwlrCbfvoNN5mTW4tCK9p0hbsUplUEsYaHWiPs_l8SDBE5WLUpmWGbZyINLN1RhC5S6pW-7Q55POBUdbzMUrcK8VqryjaVIUzIiJaDuqijEawiAAoN7y3J7g1gy_PZ80cT0gOPdym3P1TvsRNKCi-mjmcp38uHWZQngOHJBzDlxJwpIR1q4Wl0GVfbRswr7gpFgWk_tDHL0itaHzCMBk877Tmber5mpmjq3EJYv2MjtSXUqj6qVlZGfcxL1-WK4eUqiHnr58jNku_9Zd8MiyZV6RuTF4QAYboIPl09Fo1kfkyvKsniYbTWFzg_G-BxCumtm4coYSDl-gauAc-Fh8qcW7cMLoLQLCfxSXfUi29X_82xt_XdimexUzzsqj_GNnIKK2q1DEOZD83QLrecICaQUgpZyY2FbOVQdhqbH-Ld5-Uclzhyq00LSc7Hugtn8NvFa919M0fZWcx7v7eN6suc_GivRiIfFS8FR5HkcIBDHLjnaIFVLRTHWyRbRqfVpo7urkfgPsa1hHaVCSiHHhxm6ZIf0qOoPYUIJrfVIr7juAsMgODoyBarNEqSX98L65134-0NZNDC3V84BdvIkTt6BgGIg4KDKgMiIWxQt13qO3ZIA..%26ch%3DAQEAEAABABRzmMt7OtdjKq9w8nvYKwEhUFvGXUEjiXQ.%26v%3D3%26pg%3DEQ7WLKSAPFAEPNNWAJEXIJFUVM
+.netflix.com	TRUE	/	TRUE	1807942579	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9pRjslFXWntO1XvoY7gljCe3hBr03kQM.%26dt%3D1776406587657
 .netflix.com	TRUE	/	FALSE	1807942606	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+01%3A16%3A46+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af717a0b-5b16-420a-9990-131bd84f7861&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

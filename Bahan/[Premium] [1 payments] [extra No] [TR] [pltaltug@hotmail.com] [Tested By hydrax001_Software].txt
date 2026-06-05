@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Barkın
+– Email: pltaltug@hotmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Ocak 2019
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 5385
+– Phone: +905324211373
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Altuğ
+– User GUID: 6BNWINGBLZH3NJF5SPWR2PQT54
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795362946	nfvdid	BQFmAAEBEGvOZKeWFEJxBsxF6-A_Ac5gA1Hiiu5qc2ziMrQzx2nP5mVOJiXQimZL5-eh2gjjcjqC8Oj67FIFjOJLola6artjfhgnr6R43ln14RY_cczeZzIl9a6_q8actSg2JpeeyNIgi6ePVDvki6ClNFM0TFDd
+.netflix.com	TRUE	/	TRUE	1795362955	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-Ai9UKsk5J-3Kmb-RpUN4yqwbcJvTbNRI5cFCeXBkzIpnLumdAO9zZUT3Ci0MTvmF8KeI6HFUkS8CZo3EbzeuPrbRJGyLDbMa9E0f17g_WqG76tBGo-0qCPW68iv5_0lcCBpHpK_oJpAFSPye1LBi6xoc2xnQ8Guh1I7cjD6dUmjDNXqG0DIkevJyvGmb6VjeKnS2io2e6glNXvULg8zIfg3-GjfNz-2DxxVbYEnIID41-5tnL4PIEBPFM2feZa7yG3H-Qgxp59_i2q9HtjPS0UvtolaFE6RRNgG1ovwSHGnfBFwTpz2znBJ48u6MyFEJJ7x2M1muM8cf5Xajcm0BsHr82AlpH_84UtpSy7h2qi-Lf0fmx1qX3Vu2Uv547Sxw12N6oDRsRmqukQlnBWwg9Tg2sBUSoYXGt0K_ozDqQudIOl810T0c1EcoFLKn56A_xy6Vffs3OrGbPUVcvMvmPp5-wAhksWU7DmhhCpwgATazU8U8s-M-bEg_0IE7Be8YBiIOCgz0AA3xeZLYxoT-dpE.%26pg%3D6BNWINGBLZH3NJF5SPWR2PQT54%26ch%3DAQEAEAABABQDjGA8srwW7-Lhric0Uepo-oveEbz34Eo.
+.netflix.com	TRUE	/	FALSE	1795362956	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+18%3A55%3A56+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=751e5020-d4af-4293-99b0-9eec28da38b4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B34

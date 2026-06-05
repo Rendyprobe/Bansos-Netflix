@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bhutto
+– Email: bhuttoazhar729@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 9178
+– Phone: +923494584612
+– Quality: UHD
+– Streams: 4
+– Price: 1.100 PKR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bhuttoazhar729
+– User GUID: EMDNM5AHMJBPVIYE5OKLE7FIM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805450638	nfvdid	BQFmAAEBEHGjh1VIe2oA8huaj1_43yhgGSD7y5ILzwXZuG9BYlRdHAxT3HY2Thv9Wb3IzfIHmbW9Ha6bSGDFIoo68BVwTUsca-uinGQlbZopD17dSELwWCFGJQe2YTBgk4La9m2b3D_cI02KCaR3y9vOF-GOLWXS
+.netflix.com	TRUE	/	TRUE	1806120053	NetflixId	ct%3DBgjHlOvcAxKEBIL1thYzkErmQcrUNdtNY5fmycozDai_xIcudtTgIcJtcrdajJzPV_TxU4et_DRTM1A-ESTLGoJcFqqEBEuuOFT4scoWbPMTeFTKSWan5SWAbFBPlb0AnaoSJyj8AeTD5r7oACFQ9sHltI2TM4OzbMziWX3kFOediapU6RbxFLXFMZLPAD1hmdYzpHzbAdyPE2-vgqYvMq3dCLg0YvhZfKQ3Ea-nwJ8sl-bNJL0oTQSa8pfImuJJBv6PQAKc73ghXXXtM3fqB_P2cyTAuMp_QJITj0mv06xoMoZELFRBpRknW-fDFMjqsaTPytN01k7-DrGBpIMFJcxho0RQhEDLncCgDmivz50Vf4FzDa6cws1Q7QSGNjM6EJlPRxp7_hDLjV4F_pSkdSDsHmWu9iG5dPzx61Nv1j-pkNtnBHNWz6lSv7Yn7d4f9IShDpzFFrn1x8CqcNQRmw4AXrOuP6r0aTcGodRaMs3f5Y-5vUW5LyJmuEZyVzOEXbxPlATqZgaKMSDG_dih5zGXpmyTy1YLdxpjkmV5v5Tc1ajoY7TKZLPLN663UwuOAv_CGGo79mcpQ-P_6noJjJun17lzCdZyDbal7zrFY0Rru16beRI8M6yjDFMR8OEh1FWKG95Fs7WpY2Yn2ji4JVx61h3jV4X5CiYRAorbl1wxWSJpgmZByak0AvkVFRgGIg4KDIdy4r81lBXWuY2z6Q..%26ch%3DAQEAEAABABRlRjGBrWzG8WSAPjBoPH7BDq_RA1PJfK4.%26v%3D3%26pg%3DEMDNM5AHMJBPVIYE5OKLE7FIM4
+.netflix.com	TRUE	/	FALSE	1806120062	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+09%3A01%3A02+GMT%2B0500+(Pakistan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c736d6e8-c95b-4a93-9c5b-7413d36a341d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773914629745&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806120053	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjV2wtpyohr7OoQXR2RUbdhMnfs0xy4Rk.%26dt%3D1774584054686

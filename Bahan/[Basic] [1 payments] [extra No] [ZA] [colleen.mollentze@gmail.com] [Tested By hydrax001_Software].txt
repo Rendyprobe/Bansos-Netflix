@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Colleen
+– Email: colleen.mollentze@gmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: June 2019
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 6013
+– Phone: +27662577253
+– Quality: HD720p
+– Streams: 1
+– Price: R 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Colleen
+– User GUID: RBTUQZQPCJGJFO5LX6SF3BETGU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793727658	nfvdid	BQFmAAEBEKvC6RGaQMUlrVMOIUY-RmxgIIkrvTtVKf3If5DwVW_HdDMW-PZwtzRmTUzZ2wdgpXsh3e6TROAPPpuh43Hq7Euu7byMRLqtTBMhW3rFFFY3t8b6jTJiBr3BcPIJamchwC9_3vIWkW8uyAGUKYKdSZVW
+.netflix.com	TRUE	/	TRUE	1793727658	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFAwhoAfaChbXCZkj2rGuu3oOKOJ42ZGthkEzGYpQMqYy2GyYh1qVx6gr8ZXay9NjcVjQ53NqnNL8XRkFjt9dmZiy3UcK8ISrHVwsBa3IPK7-zlzRs5d74GR3R45oJwJrXyBG12uqpaqKE9gDw9uYy1Mgops5-G4aQ7K-VoVbOcK7gSBSMcktetLTIKWL9TdexVa9sqI7Z5LlOrJoKOn6y3vV-czJ_rMs36OBQGJIX6C25Q0Q00X2ewtQd5dBVtLuE9LcVzIUee9dtxScd7zwRLnaEi5Py4u9wI1z9PAi_66yETge3LfSf2xnavaNYg1wrm-Kln0bsuxDUBa4cV4HT9wWFnvVW3zsm8D6Hgw0hjkMzsOg24kWRUi6qzt1T1VVsPjmJ8VybeD9OSAyk5qbN4m5tg0n0HPyPcoeS5PB4owmZI1CAWbqm6KauJTVDIUt41GZZKxCOAttXHIRYPt1_0WZl7_3mH01-W1leINipY6Kv6_UK1yRo2Doo38YFRhvahUaDrFhwGAYiDgoMeFUF5nmaa4mXSRfl%26pg%3DRBTUQZQPCJGJFO5LX6SF3BETGU%26ch%3DAQEAEAABABQtDBa2IxIgOghvaSfCVevdU3Ub-eYN6RU.
+.netflix.com	TRUE	/	FALSE	1793727659	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+03+2025+19%3A40%3A59+GMT%2B0200+(South+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=871f28f1-7ad2-47aa-b703-0f372b021959&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

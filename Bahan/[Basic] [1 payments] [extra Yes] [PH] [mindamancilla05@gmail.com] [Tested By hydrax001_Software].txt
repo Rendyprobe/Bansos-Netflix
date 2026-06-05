@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: K.29
+– Email: mindamancilla05@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: January 2024
+– Next Billing: 2026-06-09
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639279545558
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mindamancilla05
+– User GUID: KIOF2XQ7UVBXDF7NPP6FTHQZ64
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792331489	nfvdid	BQFmAAEBEGfo_sRrzC-5i0SDg_Y-l8FgaGZSpuf-CB8DasydabUx0RoFPuOefdK9nK0hyPDqCcH1Aogg0LRiwY_12lwnqvLvsXDluqCCHYxPwrMwtgf1wZNRUy0JRZgdqLdDba8XCAOsyXYD5VAXG542y3n3Bcav
+.netflix.com	TRUE	/	FALSE	1808270095	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+09%3A14%3A55+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5b9dbd8-4407-4505-b39c-bc0f7664af11&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771068794433&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808351904	NetflixId	ct%3DBgjHlOvcAxKCBCtZXC_UN1GJI4XOsWVWT19DyjonoPs5vPlUiCWfcImfdgHeqNUK4vp4ni21Ur7iVqE6_ZSGRF8vwWAxI_ejMFL6Xm7PilIdeyU74OTTw6boxD5Aps-LOUSCFaNXj1nEOUCbO0C3BZOPNeL2LfvnnGNLiHgI15yWMMErixvqxr8ylFVCRAlnozgZjq4ohOdW0e5hQKOpTrQDBfeKEuTNYw3hl0lKGwH0iUCSpyuTArMvf8w-ZU-E2bcgZKYFGBzfGPHF8C7ZTND4tHUL33yJwwIdc2A_kpS4_4d0L3kI5yeBPbUbelPziRs64a38hhUBDuFV9ZlhmHJ5QMwXXwMf-uBZyW4azgnLaJ3HSNKa-ywZvl6VGGmDniX0pU0EEXWaecLNZ9t7R_s4qFacHIvmwCU6mxkNcYMmNWsRJlhbXWggDgOQBtssKi1KNqPEzdoXUWOeSm6cdxnl0W_QxdjVE9R_PpHHwf_mMT9s-t-4RuteE1i05EHij-ChRuDj4JX6bFYqdmxe83Mo3k9C_uIXxF4kh37IU-Hx9bwQZBd6kzc9aB1pv-EO0PHPA9NemmbK7CT0lIm7bcY-4xkDJQGtogTJoxKHjaAcJ3voElpCCsWb605m2x2XOMHmV8w92LmP5kDSejey9ruLlbaeUgpxC93Ppj8pIUmLsSDkrjPjZnbO4WoYBiIOCgxr9WuMZtTswRzbBgc.%26ch%3DAQEAEAABABQfZxXNWIYXKnhXp59OKYJlqcBjQC8uymg.%26v%3D3%26pg%3DKIOF2XQ7UVBXDF7NPP6FTHQZ64

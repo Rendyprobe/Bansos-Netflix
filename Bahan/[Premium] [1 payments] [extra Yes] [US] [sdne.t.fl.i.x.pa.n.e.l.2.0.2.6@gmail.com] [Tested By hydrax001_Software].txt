@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Megan
+– Email: sdne.t.fl.i.x.pa.n.e.l.2.0.2.6@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: febrero de 2023
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 4590
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: meow
+– User GUID: LOKBLGEDR5CQPE4SNHCY4TYO44
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810378802	nfvdid	BQFmAAEBEOexb-VGuv96thZnQ2Tz0Z9g230l4eC8OohdgnGHLJwv7LrRztwPsE4LmyX3p-20wSZPckDF_VwaJMzxryNSDZCQTOeaH1peHhQIT7dobx4LkAuew0Iu0l6h7orc2zcespfqI7vhomiW-54P4ui7_AxE
+.netflix.com	TRUE	/	TRUE	1810812403	NetflixId	ct%3DBgjHlOvcAxKvA_Wj3ZVThLKFsAHZfqAEPGIGsoMTKTT4-I7VgXNi4dQITVmIOpUcrY89fYBufMfozU3i7y8WizCHV12BrNB9C7a_-zu_CDCw3ovP-7B0ine_p_UarnCEbrbNnnfH3WQpO7v9u6y2eNzPwBDBbkCWCKZbkWFBtt5bQ4crZoOPSB5CR1yI3PC93KyFpuvDH8VqvwMFb4jSbDZ-zdwsQV78RU-jbOLV3J9OaXCz9eOYSAJ3vNsLlpCbr1Mmb7HI7pLVpR3iya0HF4MiJ7AuZjqk6N0DNQL-PaugBVsTKOb9GuBlkOwhy9mRK-Hza-9Jtt6QFjpmJK04WTUdHebZWq9Wv0qIGBpAw-nInBadEt_9h-t4iQV4If9WRHubTeFP3SkNG0DI7AJFPQzbNRdnsacDTdUJbxuQKGzEUMACk_-9AMioqUjWUEyeSLoSo6T5gc1Uqssw1AMOS_vejq9-MCY63gysdqqVKchIBZM0KK4txltkBxC5PmLM7YCD402g1PVlgVVwzmE7iceAqZln8ZgglR6olORowO3KZrzQ9htyV16oqO3cx7JWTaRsdQgP7iHDGAYiDgoM7BSvqxfFsAnk82PP%26ch%3DAQEAEAABABR7syt6v4a2mDKq2DEICDPzVI6FAOz9yPk.%26v%3D3%26pg%3DLOKBLGEDR5CQPE4SNHCY4TYO44
+.netflix.com	TRUE	/	FALSE	1810812404	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+19%3A26%3A44+GMT%2B0800+(Singapore+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=886daee7-d698-4bec-ae67-52f2e2f07366&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778624751996&AwaitingReconsent=false

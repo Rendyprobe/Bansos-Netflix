@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alex
+– Email: iva.ivanova@hotmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: septiembre de 2017
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 8339
+– Phone: +34642836687
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alex
+– User GUID: JFAGM7WFRZFOVIOQPZZXFNFQCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792679614	nfvdid	BQFmAAEBEPgwl_j70p577g0TRwI9DhpgvsfTKiaTBKGCzNCUHQA6cnMS0HhwG305jaoybgfTmTawlmcHkkC7wrCmj-m8KgTXm4Nh4TEfBJ1RTlUjnKkkjJTwmaddDyNG3vkaZxMQHJIgwnYNunyAcFls28xrLNhF
+.netflix.com	TRUE	/	FALSE	1808618868	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+03%3A07%3A48+GMT%2B0100+(GMT%2B01%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=514af42a-5cbc-4e3f-973a-cc63bec296d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BVC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808621609	NetflixId	ct%3DBgjHlOvcAxL7A4umiD09l5YkdR4jqvMoaqhxw69faVQ37Q1zms038UF8LnKV39ky-rjvtKm196_ur7CgjJaOFN8DgBZ59mEPOQwTgonAcswITv9UGsJjQyMU3jJ7TvuziA9g_fc2J9YZPOBQmahXyQZtn0OEX6H01EgkJoUgtmM4AoO_bectJ8vJUlPSIm4Ho87vhUhalOKxJdiZWHYcgBpX0sfwDcKmXaIlAhTdsOmiafsGz51GeyfoWmGmnDNqH45tnzNyWG_Qk95jA3wkUe8vBk6kJjK4bOntGwzYJoSSLHqOx1s9G54WFHnGFPDQq92U5WQnqtVUenxHhCDEl4RiTSeksoPoc_wn4twzOybJev47SFlyJFaqtIcWRVjB7HJAyvi1EbjqcF8TukshYw8L2EbVbgxSm75TArehW6_Sn0eHqKjOXpvf7-qyvSVHXLyX0m3uf6PChTzHkkNiY5gRBj__bfgonf5oujx_W9iMZ3VLnJ26RbiAXOuTQE4qZbepj4MfIOYg5ZGV--E-bGmLZpBZOTsC5d8X37HLZL4iV7l8yOzjYwYVIEYl7XoU6QXCtigqfLtk8lacqckKX2XkDMNNcH0AMS7di0GolD-nW4uLnoAFv9OxMp-1WDIOOzDwgM-eiIjnaZ8BN93kx_HITuklMNJQ5pBcJxREMOfJd4X2exgGIg4KDJn9W9AJGjH_TPsR9A..%26ch%3DAQEAEAABABRSeCbRAaqO4xvey_NPyX8x-6Iaj7iP6Ts.%26v%3D3%26pg%3DJFAGM7WFRZFOVIOQPZZXFNFQCY

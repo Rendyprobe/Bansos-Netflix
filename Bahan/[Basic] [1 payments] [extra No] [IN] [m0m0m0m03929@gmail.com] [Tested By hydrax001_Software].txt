@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: m0m0m0m03929
+– Email: m0m0m0m03929@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2025
+– Next Billing: 2026-06-23
+– Payment: UPI
+– Card: N/A
+– Phone: +919381325157
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: m0m0m0m03929
+– User GUID: LGXYWDCFAFFDHIXDXBVOTT3O7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810448502	NetflixId	ct%3DBgjHlOvcAxLlAyUCjB4SjSRlTJX42V1JTqWRSeRa7MKuRf7DzBzQWnueuWwCseey9Zp7299kxHqI1BRJQp2-Dgt1Lc7S_Ks6vfyc--zLHi1mB8kB0n0m-_6i4WKxqCHzxKXf2Rmr7SyyFO4Q2hPd-NO-DCC6K4faVa5gopFYOAj-KUmAHalLqHJL6IRzlxHJfFyENc2zWMlUe44QicU3lp7HqqUJd9SEdxTj0cSdHuzAQuRxgUNRQiy3khOPQOSdzJSaGC_7bsswb3VF1N11_NJQf1vY9S_IkYWMl47SDz1zY0xUGsQOniOcAlYeakTLl0Ouxul6LFMxEHePR3VlFd5Z_MxtgL5EA916K-W4COe5G2v6YaQDzw9Qcf8MvjlWdBE2iW6G52Suq3PmQBToVJPdh2QkPplHQZwZHDaSKWDXbRE2s3UCl8za6nPb1NHbHO6CO6WuquAi5f4Ab3r4BX__IH0QnZI0GPKCumiCgyQMflYWvtzaVYVFixaEAoGWkTpuXAOrjK92Ec2BFbnzIs1YdOf2dEb22vo5rybsK1oTZCUBNrBRJpuj2l0tFhE4ev75hGMGt5A4ddqf1Ii9qNRHFPCTjeM87We1URqBUmXIaYdyegAXAukrrE2Ecw-H3N8SUAueTFCnEOdTy95yGAYiDgoMXrufChdYzoDUKTez%26ch%3DAQEAEAABABSGthnRTRkTezK0-FZIt__-TZyQWJ5DMB0.%26v%3D3%26pg%3DLGXYWDCFAFFDHIXDXBVOTT3O7Q
+.netflix.com	TRUE	/	FALSE	1810448689	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+11%3A54%3A49+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7944bb5d-ff24-484a-a02c-e299222ca436&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810448502	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcccdZhFTEIBca0JLJFOV96lhmL0_ocag.%26dt%3D1778912501886
+.netflix.com	TRUE	/	FALSE	1809846292	nfvdid	BQFmAAEBEDlq4CV8daTc-ay1JrTIVtFguD1WAbEqz8w166spUvNlaLTjfSxp3jTjksBS73H_6kD9jtS1HVp8oQPdTf2IlYq3senn2mEytxvQrEqLZrtS5fo89sk-3IgWfIVyd5S68ueINHyZwKPb7yuzISYAyzQ9

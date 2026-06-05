@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oscar
+– Email: laico95@hotmail.com
+– Country: AR
+– Plan: Básico
+– Member Since: febrero de 2017
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2859
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ARS 8.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oscar
+– User GUID: C6UO7QMXWFDO5J6GH7D6PTQVNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808147660	NetflixId	ct%3DBgjHlOvcAxKKBCvKLNvvOzFevQhurOdAIRFmBThn8UB8bi7L2PzZQeDkKhLfulNDLZsEvEppQ2fJoDQx17HgHvsuhgwZdMoJ6DuXz0V0eyCnSt-1_msE0kfIM-Sgtk6bTv6mUjgZTOzFdztTeIg-Usk5txI-gGK_2oA61hXg1HH_gIJ-qdosmml4ert5NC6zxE7-x17fun-ZFOiwzzbaRIFCCHEhAP_s_YH05F2Yt15v-Rv_SDg2Xcd_yAVUzofHoSFm78nMc-Htwy3yo8nON6cRSEyvOWAZ5mKlLBECqi0AttYwlsQZCvR_XhB3sY4AGcjHGt0Z2a1S7ZkEYQDqZC-E128lcMF0HUlQi_PFSqOtLyo_9oa_19B1uof7LyVzrhGj9NYqkKsWWIjcmqYZAnRuocHtLHUYERp9XXMCKVsAEZ_6FKIK6MYe3d91GvTeGF895B8i0Bo7CeaWUVFQy-fbd6KEEu_GegMGrX0RTm7U-uBWRq1WV48RyjbCHLQTcZAJ6dSRxQCeFtaPiC3520uUrfpitg9SlP7PPeFA_E33jk_D19vRHSTlWPHyFhJeuitXCC2HJ7Zhh8zLE5BHCoqPI_e5mH03OKcr9tqqANk1ZS3-cuYHEPpok7mJujhVCoAUkBibSt0o14g7MVH7JnvSBWYZaUJWBYuTyD0nVTiKSPRFMkyhrMMYmA7_OPCpqKPM6hgGIg4KDB9XSKQvQFfTxUszsw..%26ch%3DAQEAEAABABTthhXk6JJzxb46tQ8EBUi7722jHGrDbNY.%26v%3D3%26pg%3DC6UO7QMXWFDO5J6GH7D6PTQVNA
+.netflix.com	TRUE	/	FALSE	1808147666	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+12%3A14%3A26+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e633288-02f6-468b-ad4b-2e3bfbdc9b73&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1808147662	nfvdid	BQFmAAEBEO4LarVOasKngNONBYozY5Bg4MB1K-zVF6Ll_kW1z4OsfCB9XILilJsZNaeOaaw8iVMRvIYeFYP1Iff8FyVGqwLa92M73_vkOrpqK7yVR680eTqaNt-mlF0CrJb_HN3vJjUg8F5c6F5FJH6QrysX38ES

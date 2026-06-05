@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sumardika
+– Email: sumardika@pmibali.or.id
+– Country: ID
+– Plan: Premium
+– Member Since: October 2025
+– Next Billing: 2026-06-07
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281239471171
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sumardika
+– User GUID: TSUBZ4JIHRAFLA4VRI3VQYIWOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805262359	nfvdid	BQFmAAEBEGMV7Ow5N8kobugZ8eqgFMtgV7KjJqwx3wTb_WNhXEOpUpbF-3G4Jqm19qcOALjdWcLj6UpPxhwsSBEpZKZdfS9yHQu49pCjMFRtLc6mQTz-8ltFQ3xdSxpQmNmnVKI_9IKqB2Lpc_aiVhfJUQMeUyZ4
+.netflix.com	TRUE	/	FALSE	1806235321	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+20%3A02%3A01+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e9ee9a4-2371-41c4-846b-90ef5c88e32a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773726353249&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806239568	NetflixId	ct%3DBgjHlOvcAxKMBKqEolzqO5t5JSlkdK-ZEZqUw8V-9KvxT949CMlDgMs_Vec_TGGIUDebdD5j94hFC47qilU5mubgYfU278EZabtnTjg5n7a_s2sU_eO1zgD4PmcjBJv-J65YU4hMZyQmpyyYV-_Fw0QujDh26twqdfgkEaEqJYYSOMEgyupc2mDgaCq_rd3VY2oJI1FEMhn8j0uNgLLtM0mkUoiBHTiuv3XJA0jZETbnSFCUuKNg4TePWAwg9uhH8XC_y9rjTIZPzQFsvbdCvuvo2tqfz852UJ8HQcA1wnNON1p5QxS2n_Zg8gfM6pi5Ck-TfyX37e6Bfq0H0Io93M-u1PGWSxhioIAXbYLhhR9IfBp_29-uSyBhuKvUOiBGkoQgD1jM4h0GIXqpjrycDbTTQLBZW59aAoU_QLUvxlxz5_5vPapSjGhS3wLAr32fT-impPsuHBDT7j3yUh732T-JPMuioc5AkOTdJbP6HCq5vFGfAugEH14haqvFydciyAY3o8Xm1oxfj6kOonNVa6z8WinGQygY1Cr_zLAzovLvn1L__NkAC-a5pvY4bT5rENjSbdwkZH2c7_Lg_2IdSbMLcnpy5cSI-YK8wX7x5E8J6huCStqrtu3AZLr695EqW-UmPeaua4wBCB_-DwXop3qi_mvjbUrRrk1c7wtc-PVjOC-xhNX5zzZDoapcxwjktQzPpc59GAYiDgoMAOB9dOzRXRZG64PI%26ch%3DAQEAEAABABTX-TjVcNIgJUV4-NfRz1fb7Z8flegafsg.%26v%3D3%26pg%3DTSUBZ4JIHRAFLA4VRI3VQYIWOQ

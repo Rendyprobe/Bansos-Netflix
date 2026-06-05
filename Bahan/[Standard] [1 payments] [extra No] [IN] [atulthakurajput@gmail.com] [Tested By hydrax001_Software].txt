@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hindu
+– Email: atulthakurajput@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 3300
+– Phone: +917051904133
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hindu
+– User GUID: 2DV5ZJPF2FEFLC5RJ323ZBMRMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1792660240	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvJ1sGPLwN1hXIYJBlj3SGqIVC3lp1lTI.%26dt%3D1761124251212
+.netflix.com	TRUE	/	TRUE	1792660240	NetflixId	ct%3DBgjHlOvcAxLAAwsPiRZJ2Xrt9hkG0sqRmM0TwJR_fTNu0BDnuijVGCM3PMSwL0NY9CVag5oS6GszeX5Uc83UkZDxLY4IJHa8wiYTnJiwl9ODEMbMB6gg7d6FFRf3qNGPUtwCtv1KSOh8X3fBycOOJYs4Hwx3lNSpSe7Wh8sb85VjrEgLj9WJwwdwOPlFeRo5Xk08VlwBPkcpim6dhU05qLN8yKupbFUl2HtraArr06WnPW57fixL4gxTKQKO7PuNR4jB3MzKGp4rfrePg8RQxtNo0s7sxsLrlG7v2YjdHJaoaIG8Fhf_N-JS9SANLgIbbMd2mbZOcm1M0bb96iEf4WK4HnTEAPO1Kv3YCozLaGjdbIn-r_RtBfzeER4ujT5qhhb_uPnHDqCkJGqBtBN9gh1jhq_Oj_D3EO1LbWdqRJPv27l-sbVAel6_bt4vwdXLmhofECMotbAft4WXN-f1c6iTvyCLWkclpBir3vkK1l_l5v23id2iNmQz4bm5PDH9JBOmgbjTbsDgB_EsXRkN0JzZpMuyrBQKr57X4WqiTASgXzRB-eUKs1CTgA7PjfLh6lcn9J-N8NQzCbkYRYGrHhCfwyzs1cucE5EYBiIOCgzWFaw2LICtqbN7eKo.%26ch%3DAQEAEAABABRM3rKZ40ddWYugKah3kBDmfvqRIu6BYpU.%26v%3D3%26pg%3D2DV5ZJPF2FEFLC5RJ323ZBMRMQ
+.netflix.com	TRUE	/	FALSE	1792660245	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+22+2025+14%3A40%3A45+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=40e2207d-c93f-414c-a1cf-7964e26f1064&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

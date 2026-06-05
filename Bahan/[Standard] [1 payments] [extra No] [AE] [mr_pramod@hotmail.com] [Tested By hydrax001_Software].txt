@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gouri
+– Email: mr_pramod@hotmail.com
+– Country: AE
+– Plan: Standard
+– Member Since: March 2025
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 5384
+– Phone: +971525897964
+– Quality: HD
+– Streams: 2
+– Price: AED 49
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pramod
+– User GUID: 3DNST76U2ZF6VBBAVCCQ4XI2PU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788972014	nfvdid	BQFmAAEBEN8pmrSMLvNJI7m4PH22Mr9geFtZsv9u2vo-z0JWf7DTF_uAZG8w7wneVlN_TdAko-HC-s9swfIbwlctJYgmC5RSzYAgwHKVscrfNF2yz9vTxMW46jxJkpEdXCN91JhWlBklbzCdBBV2dJq_WEo9MS5R
+.netflix.com	TRUE	/	FALSE	1804449432	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+23%3A57%3A12+GMT%2B0400+(Gulf+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=352a4ef4-a75c-4813-8af4-3e3a84b6dcd3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804522375	NetflixId	ct%3DBgjHlOvcAxKvA0B0Saqy-Tnn8xEl6ileFRCKS3Yyf3NpnncShA-25Q_XpsVItfCk5DfwejEoIjwO2LQrjVUyPGfqbZqhLXr031I6hPeKcuYPpFExF78aPhlNQszrt4o7FBdQlRKwnkcg8my6_qw16v2A7f3rJZrnv8NfrYawUMtJLYc3jc3PATv88KYkNTy2OPZCQErseulm_T2Ht-2TqOI327tDDtprFQN3UmxneUhhYYHDYqV7wY-MjCAOTuc15-CAtZ-m1urTHq6u_8FfEHhCItZCwI2GPdC7CNmy9iiivfHOJhPDsGGhQkEaF-eQMp0CSSmhhe7vKVpgM1pa2pC0wLfp4kUdfmzXErsTAcSXGcizKw1aYE93TSIorXTKPQqjK_KWOOyu1X9vLJp4NZUdpB_AgxM_YUYZtpVFsaQ8nv7fhPo0ZbJfgRmzbnqunA-9l1oURvVGaf5L-UMSCX22Xeysp7fB1GFzvN2TRMoKvWl-i17TI4aiyL8dnFtzEPWwjM5X0qiFDWkdaCDwsWefV551fMSrLG3EfCNxL3M3SjVK0u5SaO2MZbe-2EgagnFgw4wN0MZVGAYiDgoM52frVZR0UrUa0eys%26ch%3DAQEAEAABABQUasJaZr8ORGE5_407VBP4Ll4xX4Qu2EM.%26v%3D3%26pg%3D3DNST76U2ZF6VBBAVCCQ4XI2PU
+.netflix.com	TRUE	/	TRUE	1804522375	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhOqN1fKJAOIhd7N-5kKtZmf9jTAlvnrM.%26dt%3D1772986373473

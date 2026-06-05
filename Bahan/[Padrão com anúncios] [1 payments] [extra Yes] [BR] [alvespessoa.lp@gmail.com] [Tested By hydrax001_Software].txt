@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriel Henrique
+– Email: alvespessoa.lp@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: agosto de 2017
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 5668
+– Phone: +5511958962172
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gabriel Henrique
+– User GUID: AJDXWQK4VZDJPMU47J5WK5YFWU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808246401	nfvdid	BQFmAAEBEOKvaO8PLrnhlzX-PX9TfGVgzAsyStSsKUGs_eHb7lCSG8csHIycm5L2RSI_AsLw9QPyq7p7X0LD_pnqW63gUfD4dJlGDcBRf_ohjsCvJYwPFunhPkl0BAR5ZRPYywxMG3Ys__MSvQzGBhFfOrfKn9Eu
+.netflix.com	TRUE	/	TRUE	1808284782	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA8EyIv2wMkbrfvLHUd3XgMnk0m-L7CEFRJYMkdkQQNy-AXQj0QuEX3jifevc5jiip_tLIO1IkSJ70usJZXTKFD4afCH-rQaAXL73R0DZV8VlOc3FaCYW1UbEDotSkggSkY_OR6Qx1lrNnTN0_nWzSGOlD7XtP3PJlJsaEwS04wCs7okVqQEzOhA-uAnRQhSv8CmMNx7Gf-GjSKHe-tnze5eVuIhT1-4dzwkYaAudnVTXnpB2iKNaMk_vTDQd2RWK-LB1BYKC-pTXuPIFpV4Z6qXHNXa4WzVRP49RJB0YZWT0TWMMZEA4vEq6c8pVEgdnw_fFDlRlMAYGS66VpAUCh4w4Rwl9q2SBgtK4hB7ND9SsAebeOvXKMATl1v-ClOKElB1DRXesKFo3vCOBEW2zC314SU6kvu5MmVoiKQUayMB-gekYlqOisLWUSfmavDnaawJMN812iNOkXOucopqYEMGvafcpeEi8sGFAR7SLxeKUN9doURIwIkyKBqolFBzvseYST1Ui611sThV1MSEeNceo0E9eSj9gR99K4Kv16CXTsQas-hEYBiIOCgzyrFWGx721RVVfPW4.%26pg%3DAJDXWQK4VZDJPMU47J5WK5YFWU%26ch%3DAQEAEAABABSLXy-4P5IHRNJlVqtADQZ6ph5yftVZS40.
+.netflix.com	TRUE	/	FALSE	1808284783	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+02%3A19%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb9c1b65-2737-4a2a-a8ed-e46b39fc0457&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776710212468&geolocation=BR%3BSP

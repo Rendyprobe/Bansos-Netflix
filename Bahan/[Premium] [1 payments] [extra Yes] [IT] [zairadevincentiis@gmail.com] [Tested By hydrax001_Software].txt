@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: UASDFBWKIJCQTDFZTIQSJCPFFE
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAdsk5drEY2cfxoRwEXPsFK1+nbTmCpT9qDg+qs4TYGO0bOAjQrW1huVpb2V/lCQOOWqNmDvI6XQaX9XMyoYnYqqhZCaaTO8xM6jiiHcBR/44eNy4njDbFpdxv2oceF5fGQDPwaHMslMl7mQ3oZLmDV9R6XBrsq9CaITxTGBJi/6CHf1kBWRTdCA3D0S3hKUetORpYBjV8NVb3Ghn4PlrjCVmJO1xw6/peE6mx9jMqMCRbLzB51OZSQTuJ/oa5vmv38l9GAYiDgoMSzZS1ZXdAJlKkwah
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAdsk5drEY2cfxoRwEXPsFK1+nbTmCpT9qDg+qs4TYGO0bOAjQrW1huVpb2V/lCQOOWqNmDvI6XQaX9XMyoYnYqqhZCaaTO8xM6jiiHcBR/44eNy4njDbFpdxv2oceF5fGQDPwaHMslMl7mQ3oZLmDV9R6XBrsq9CaITxTGBJi/6CHf1kBWRTdCA3D0S3hKUetORpYBjV8NVb3Ghn4PlrjCVmJO1xw6/peE6mx9jMqMCRbLzB51OZSQTuJ/oa5vmv38l9GAYiDgoMSzZS1ZXdAJlKkwah
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAdsk5drEY2cfxoRwEXPsFK1+nbTmCpT9qDg+qs4TYGO0bOAjQrW1huVpb2V/lCQOOWqNmDvI6XQaX9XMyoYnYqqhZCaaTO8xM6jiiHcBR/44eNy4njDbFpdxv2oceF5fGQDPwaHMslMl7mQ3oZLmDV9R6XBrsq9CaITxTGBJi/6CHf1kBWRTdCA3D0S3hKUetORpYBjV8NVb3Ghn4PlrjCVmJO1xw6/peE6mx9jMqMCRbLzB51OZSQTuJ/oa5vmv38l9GAYiDgoMSzZS1ZXdAJlKkwah
-– Token Expiry: 2026-06-04 09:19:28
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEDl-0DNtZIspsTANfzH5-dNgdpOtinbyps3ZRvmQCMvWcH6-axdlB2-J572tqxOHDhDBow68RrlwIxcbm0p07DEebYAI9H0sVZGTp1SIhdc9fYjDZkTAI22jKMoiat5PjW51gVzQ9ifEqS6UlSkJXH-A
 .netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+10%3A54%3A07+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=163cb323-1cdf-4bbd-8ed8-0635dd3e8451&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCT&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

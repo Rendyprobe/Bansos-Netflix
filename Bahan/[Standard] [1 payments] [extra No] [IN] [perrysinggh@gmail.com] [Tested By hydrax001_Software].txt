@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Perry
+– Email: perrysinggh@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: June 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 0686
+– Phone: +919781584154
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Perry
+– User GUID: JLGSQONNPZHRLG5T2FU3RYD2UI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781248900	nfvdid	BQFmAAEBEDLKgsY9KzWE2lnXz5QW6fhgilipRdBP7QB6BwBqGHOBx-Bjx6FovcNVqJUVUB2_mdiqAjQLUiuahJEuIgTMAtgnry9KB7tfHbYZz0qititVBxHaj4u3-3jVAWW2eVbBaB0cKUQ8aW2ntPBu0VkTheIF
+.netflix.com	TRUE	/	TRUE	1810730732	NetflixId	ct%3DBgjHlOvcAxL4A3gl0zhzrdkpl8wfXdNd49DnlL564Pb32DNv6t6I2otwBWMEn9Dvcmc3rJYthpUPf9ElqQCn8IudwWHG12C-KVImY1bPuNjA3IPV-2K3rFSsI_CMQlZ0_gafdodkNFbw5grTGim15YcW9tah7ks_crlbzhZa86OIIiztNaSgeY4MtJfpkAbjBiYdayx78HMGB_dZywarc5J-apiV7VX0HJrA5aw7wyp149r5GOhVvgascVuY9vb1bd-QkeS-yjhruOOLUpthAlDqsPTu0cE9cPdyLcU02ydqdoh_QAlC-edo03Pz8NGeVVCgSoJqq67gFAiHtQb5Env5PRBZmHQ7UOhWVbxMITn2jJYPai22QgemaZHwc7NMlKo2k1352HXBZUxdLlWp-JS_HjTrBWfOmhb9fyp23SBU2l-gBJfeuyE5PECetvXlo5ESvOABljTawQX2N9s694X69wpmfJUqkFjkds-Zsvu4M_rzGBvk_riFQbR5YHfwQYrL0Q_oM92twtCYH0A8vPwhCb319n-xkQAOiEaUEvJ_R6tWpwcAUCscsxeCm1ULJImZWEBY0mRNPNW6drhvwI4B7eAKc3yrGl9MfR4A2TpVa93RTguSLwh_tbojhXXlBvVhgTGh5c7vKgdNFK0WxyowK8wc4LI5Fpd5WBUWLHQNbBgGIg4KDP2atyVT15sDkleUhg..%26ch%3DAQEAEAABABRIcOEx17Isw6vpB84Z43Pd-lu-2P1o0n8.%26v%3D3%26pg%3DJLGSQONNPZHRLG5T2FU3RYD2UI
+.netflix.com	TRUE	/	FALSE	1810730734	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+18%3A15%3A34+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&isIABGlobal=false&hosts=&consentId=862d243c-5a7b-400f-9c7d-44c5b5354ad2&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3&crTime=1770476458217&geolocation=IN%3BPB&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810730732	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkuTCd1w4_K7NqEgi4w-DImd_27OM_0zE.%26dt%3D1779194732115

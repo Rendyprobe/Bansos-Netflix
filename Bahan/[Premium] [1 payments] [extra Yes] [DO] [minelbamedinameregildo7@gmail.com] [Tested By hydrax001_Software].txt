@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gerson M
+– Email: minelbamedinameregildo7@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: abril de 2024
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 8038
+– Phone: +18293811178
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gerson
+– User GUID: VZY2TTS7FFGY7HBZEUBXFBJMYM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785977213	nfvdid	BQFmAAEBEFm9BOh9XQ_tyo8-a9CW4XlgeFyi3GCS-Ttg4Itvs9EQ6GZ8BPY5qOy8_4A_S5fVF5w9bS1_HzSjSZNwo5eaglYNz-Nu3YvhyNnPAhHG-v-Nsg9iMteX4ODD5eZ4UqAQ05dNSxSWEGytDoQIADHyfE6f
+.netflix.com	TRUE	/	TRUE	1809020527	NetflixId	ct%3DBgjHlOvcAxKCBMxQ6-HX--qRqflKcKr4FIE-w_iX3ZnaXyQ3l7RYn-YUGpbCPzKy8wGlbatqzpCAkiw19nBVnROxyA6jtC0ipX92pUgYz6KVUXPO_H0oCz2BKj5YCJj98oukOw6iBjU3bvob3RDqwn2y_J-Yeu-Gc0MJaaFt0RC-w5E4mWrcD_6RdXVt5V0PseSjefZT5BEuDElVd4gDdhKSRO9r_t2HlHz7-5LQgpwvawLKYggxr2x7cGvHZ5OYOCVU_EeSXK2Fi07maukeUS-xaImzk-qPt962adIDib7lW2l3EWaz0DQ8bPsUA6gCFxLpF_8fPv10j2HfnK7AaHwcNlUdPm0e2LaTwfDSvQhUD3AwkBny8nr0XrjZF-or4AM5stDHY4MYjBDVFp0Tr5lbG84th5YWhDi4D-wxkas3qqRiETJfj1Kcg06OozSi7cuvu5c5YzkRG45YTrK8hMnsQk6NLWo2R86d1aojQWTRm0wA6t71psybeRBngpGxDrDSw8YLbxyPSdwmDv4J1H5xibPOco9vkpEMljGJI6ojoRed3uBxlEcwp__LWpYcObnbSwZZipzdoZBItDlONSlY1aYMxftDl0wcfhnoSryAuaF3icOxJfAOF_mslMmJiu4aPIbD7jIU22tZEcUWlV4SnJ5gPps1vgV7zh3x_bgz4UinyhAGh7sih_wYBiIOCgzAVIgVIaNTdlO9qE4.%26ch%3DAQEAEAABABSGVdQyouZy9D_u3NN3ZQm7jLk85lNEZmw.%26v%3D3%26pg%3DVZY2TTS7FFGY7HBZEUBXFBJMYM
+.netflix.com	TRUE	/	TRUE	1809020527	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMzlW_bDaHntnrALu_EYW8OI4zM4aUgkk.%26dt%3D1777484530561
+.netflix.com	TRUE	/	FALSE	1809037082	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+18%3A18%3A02+GMT-0400+(hora+de+verano+oriental)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=02f1523d-d2cc-45f9-8255-0302f9a71f60&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=US%3BNY&prevHadToken=0&isDntEnabled=0

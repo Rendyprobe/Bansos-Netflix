@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rowan
+– Email: rowanps44@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: May 2014
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 3545
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: CA$23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chad
+– User GUID: NOZZHG7JVJEYDCHZ4OXFSW3GWM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802143431	nfvdid	BQFmAAEBEEho7eMgH7itukHp0CwPWhlgFAlnOyhTMcxFxoV6AzfoACnu8C4KVNq4IuW2kywXzFEYYZyGgy1LzZosYR9CClDR1JZdJeFP8XGJ4-xGGiNHIyAKhS01AT681lBeyaEY9DGLw-VnmZKndCiMslokHaKU
+.netflix.com	TRUE	/	TRUE	1802482661	NetflixId	ct%3DBgjHlOvcAxKmA5sPVnWdC4NZ-GtvIeo3sSvdzIZ7IKvl2fDO8Tpvn9llFqrlUM74gF_dPqFhri4t50PljeubdU6_oRtEH3VT-JNB2hGZol9zhSwX2jeoBkU0NGSksSJE-H2yCw4-tL0kqjQBq81ziIdFj5xX9Gi7fn1N1LxjFsRBBukbo-4xWjKeiGxbCz5YCukcbbhXh8NkecnYiMRwu9Ez2KK0VwstjfDUxBOZkLoVLwqLJxqN7qM8uZzL-UbMFgT_BUBjGqvDbe8N9auWCcxVYreimEw1bDZqm7iNoBM4Ljtq7gKUvzJBKK_DDRl1atydE9G9Z7p4DPSIZwzdqNhJwL7Nwu8Ay6GguXzCgeeW0cC_yC9UdvHqM0xXG1pxos9fbF1NhnWNW51htFOggnA4s2Z2jgCd5YIQq5lHFiC7O7xAUt0JTOpbbTsWMFQSu_8UEUDj8n5WfIx9x9VV7opxEwrxE-vve7a8Lo_yDKbOL1qHwPmIQjzrRx69hiYx7WHL7Ypd2LCgGcRzo0dQ-KewdNNPzv9sSr6VF9w7m-1nEs-SyZ12OqYHbO2LPilvGAYiDgoM5WsVaZ57hZBE_Kwu%26ch%3DAQEAEAABABQ830f6cdfKn9e-7fQL-14xfgJZuzKbySE.%26v%3D3%26pg%3DNOZZHG7JVJEYDCHZ4OXFSW3GWM
+.netflix.com	TRUE	/	FALSE	1802482663	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+20%3A37%3A43+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b353e74e-a44a-455c-a8c8-599e7fe33bc9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1770607397872&geolocation=CA%3BON&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802482661	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8KJAgRUeNY2h3GFPoZ8Z8fYC6msB314g.%26dt%3D1770946661201

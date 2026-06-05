@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Daddy Rey
+– Email: reyengana@yahoo.com
+– Country: PH
+– Plan: Premium
+– Member Since: May 2019
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 3030
+– Phone: +639152853937
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Daddy Rey
+– User GUID: MJDQA7DCXBHA3KGMSJAC6ZZWA4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795248171	nfvdid	BQFmAAEBEPd3ftCfEIMIyP6HWVqD4r9gVjKR06DIJEEjLfUti0-8ITQMkmREP24YTnBxSPxyq9bQk_4zF17wLfa0qoOlGWZV8OZeTb70yDLiFFLxARBC56XrbiThk4l1cB9NA4pOZeUiU--nubK_rWABBO7XTxbv
+.netflix.com	TRUE	/	TRUE	1805007825	NetflixId	ct%3DBgjHlOvcAxLLA_fAy2Vc2VsUu2Zg992kpK4k9Nj6iT99oEu_cKHouixhLetJuZnQVUFTCMx-Sj4IVBLQcJiKaxBwDSLmVkzJaSpMOfLXP3bc5SN4eTalQ6OcaPW4NFAzmXuqVchbblyIH9CzkHYnhZWFx1FT5bd1h8KNSe4Qeu2PII3NMf0rJ3AV_owWCfHTyoIDDE1q51lO6n4Q7ePix_Zca_UHz7l8GcahCfo6ARoQ5SrUybps0DI8mcQQCTL_K6oYG4zaak7PhuooNEZWwwfEr0ehjsUGjqV9v4tWPejZLx3nhbVWXbDDUgMrS7xnVX_Zky88VFXldIH2HlD6zpCtruaaV9KcJs7fhwOWAT30aCoblTU3_4o-Ken5Z4Tjvb6Obdrb1ilzFGDb_k3wnFq0pQYFtZM9HTtqOd7-pQCC6ZdOK1R_opXNxa4qAEy4F9OPph4hHCkKtqbbT4yEJ9vck-VMMBvcZwt6fUZbFXgRcdXgggFbBx2cyvWzGH29ImpM1eTtLAy1RUEH5RP0puWyZFhzaAgDfba2Q3DWuKqzU6jNqDmLaNDsr2QD2fjMx16JMC0HzW_x3_qFSDK95FF-mApuquXWnobE2217MmbrAK6CDxgGIg4KDKS5E16kM3ycyu2wvA..%26ch%3DAQEAEAABABTKT-83cK9mnjRsKAKzfN3k3Iun7zl30dg.%26v%3D3%26pg%3DMJDQA7DCXBHA3KGMSJAC6ZZWA4
+.netflix.com	TRUE	/	FALSE	1805007828	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+15%3A03%3A48+GMT%2B0800+(Taiwan+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5d98946-ab17-4e97-8f60-a645c9fb5cdb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

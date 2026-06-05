@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sree
+– Email: petchetti3@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2021
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 1142
+– Phone: +919652279281
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sree
+– User GUID: DCSNK43D3VAQNGXY427OEQ7JTI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796140574	nfvdid	BQFmAAEBEMre6d6M-AYuZXwE5vW3vrNgfpz4Lb991-_gdHjF-oVn8qvzL_FMJD4fFYFBhfvGJZ5W6Q8OOe8Z_BweI7s_gpTnJlgcCsOSkPV15VGiOJf4lp2EgjISkonSwui_Yfqn9rhjzBKVuKAo71wBwlf-Ev7M
+.netflix.com	TRUE	/	TRUE	1809705400	NetflixId	ct%3DBgjHlOvcAxKCBA3bcgNITDwF1yY_64eniDEZN2q-31xZziDcH_8pLKfTXvIpVGt1kjmwddhrssJTEyX0mqgxJ_MuS7iQ4xSkpz3J4F_YxggoADnIiSifzukhkK13QieqkVYMIRXerI6oRDM3diLGwGca0pfpJGf2uGOxnn3Ih4TtZwA2pNx6mCFhZVlYED8lWksRj2qie-RQmYBi-fOUAzOWaB4R5WcfzQLuSPY0staMsEJp_ggW8hTJsfKPXrLNEWX9YsEdSVSK448mOpEUcmuiWNEW0_Lwl1RP514hvtPCEv8uldWOuae-gRnL4ainj9Vs1VEyhypqaLv36CFpKwnbzdJSMVH37_IzApS6bi4To6g7U__0GimhZZamZw1cYRq8OqOMq9EBPlrHw6mULPAH_8vjVQ6jStshWl82jpuwlsQXuy5qYPqAya5YpByg5wWdRE9sO1Jo4i5RUf96igN385TwrO0Vvl2IBYJMG3EmybWZOXa6PvOBzwHFJ06cwlyJst2L3_QHZl6xqxbZ4gT3UrD1W6f7ZfSYXv5SKzZvdlxhWhDlYiqfooDkfo-L3j0-TLhqi6AFWjFPqKMRm3oUW4fponh1b6AaEpgI1o-Ly76EN8X8hJAvOH2yFYHsKc2BpsUAv0MqTku6KDGrHze9DgY_1jqCQ_9rkY8amYEDD41V_PfRsRsEkLMYBiIOCgy1hOx1uuaa-GZayQ8.%26ch%3DAQEAEAABABSbnHuxFgZTzjiF204Eof9mSycVKzMhA9w.%26v%3D3%26pg%3DDCSNK43D3VAQNGXY427OEQ7JTI
+.netflix.com	TRUE	/	TRUE	1809705400	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTv7vf3RUlHKjchKstK89ntLlbZo7to8wc.%26dt%3D1778169388949
+.netflix.com	TRUE	/	FALSE	1809705592	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+21%3A29%3A52+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75be144f-2a6a-4b08-b816-3ff274b736d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&isDntEnabled=0

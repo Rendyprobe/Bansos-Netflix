@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sascha
+– Email: karsten.huenlich@gmx.de
+– Country: DE
+– Plan: Standard
+– Member Since: Januar 2022
+– Next Billing: 2026-06-14
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491791448186
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Karsten
+– User GUID: OBT2I7Y3NNBE7A27NIZOIWJFAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782922170	nfvdid	BQFmAAEBEA2Qdp-iw5KzpS0LOG_AEr5gLRvv0JL-XA-fU9iba7-N3lkiJ0d_kEx1CNiIHLT7fHpsZN-dSAO-wrd35XsnbUEUpU4uhcUMBpDYXl1CLqQBELLcOngIAxgTzALWzVnAkvjl0wUG8CJupMtOdzNbilN-
+.netflix.com	TRUE	/	TRUE	1808046310	NetflixId	ct%3DBgjHlOvcAxKEBCYejhZ2rmE9TYBgguqSeggFkmYgSyZz5CBtNE9Y3iEKOKdjSWy9bwVotNjN_KIs14DDP_J-UElSKRixnhuqPhVr6UQWrF2baBEy1PTjX1_4lkJ7IM6L6-ahjqE7JVsIE8YV5QvLnzecbSpo2vJmiFuU8ZupUJx-9pQxmpBz0XFxf7NziPodRvI2P5qDpSGOpDFCx0eukF83LKHgD1StuOHYPzebowUFazuwJEZBUpm6XiXoyD5U2JOQsZNLNErmQObkHT96sQ_jql0HUxepQLt976T3vVN9ggaqVfVuQC_YbeKAYl2UfRrN9UgbTp7r9ElsL1Esvev3-b4czsNGp2V_Dyu8PJk3meqSYhAL1C0C2iT0JkMyJtBrZTFsqDgzcVkuiJsRdzBIe3uRGi8jRvrI-buELQkHxRIcqNseZuUqBLLLUqBuVdVn0mk28S94NbdtCORxhmqarJlQmwGglfYCrUHSjc2t51oKt1xF0s9Bc7A1cvP9X5T2q8byvQDKy4iXz-znAbX6QCDwxejrRHz3CI4q5jUDiDnPyu8LLOWKyqD7X5cz1i7aHoo6vyg-yTIXPmi2IB4PNUrYlpbnntrhsesggR19SDuvIXZ4342GoazDNQdu001UXQdk1A9D0xKghwauIFKkhUmVbvfwxTg18wooURYH1_sAuUY6uLLS-NYoahgGIg4KDExzFTGbYughQ5gYnw..%26ch%3DAQEAEAABABQR59mVZKWky9QlXpspSfTbSIiRcc6bTxQ.%26v%3D3%26pg%3DOBT2I7Y3NNBE7A27NIZOIWJFAM
+.netflix.com	TRUE	/	FALSE	1808046312	OptanonConsent	isIABGlobal=false&datestamp=Sat+Apr+18+2026+13%3A05%3A12+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&consentId=a677b4eb-deee-4497-a4a6-308fbaba95a8&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=DE%3BBW&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1&prevHadToken=0

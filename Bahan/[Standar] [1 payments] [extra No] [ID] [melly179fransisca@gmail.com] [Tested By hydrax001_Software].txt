@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sidney
+– Email: melly179fransisca@gmail.com
+– Country: ID
+– Plan: Standar
+– Member Since: Oktober 2024
+– Next Billing: 2026-06-17
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281390080049
+– Quality: HD
+– Streams: 2
+– Price: Rp120.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: melly179fransisca
+– User GUID: U4KZBIHUWZDXRBNVD5Z3UVB2OM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEDEQBVH4ADpXJDuFwHrRovlgpGlH6iiw4pKFrihcy1rroGsThpx9o18tLV382v4pjOu_fxzbjYNspoiNghB3_pc2Y0wlgnUEj9_9VKcp34PoHrzIbbaR8dFCk9wysWih4pwDhT3VTX-iepsBNZ9Vy2mD
+.netflix.com	TRUE	/	FALSE	1805658249	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+02%3A44%3A09+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68db1aa0-d784-4e9e-91e2-53c4d6bf7458&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806142508	NetflixId	ct%3DBgjHlOvcAxKyA5EsaAaX2jeB1RJwWszkgbzTHaIso2WvYdynqoxeiz2OU_iamVUS0U3qKifm035D2MzdcxbOaJxjP5TItcO4HY-4jyTwfsXPIM4G6k6OLjLUB7A4jvSBjY8ea8FlhhhBJT8NIyvtmQC2i0Zap5s3ECd1E7w_HnlwbUmT21yrtXTy0sSB7WKzZZid8SzsYFZ9q0wVs6OBJF9doBbTKVk1HeHkQ4vY59q7wq6Ws_IcTX5RRVOChGhEQ42Goub97UDCT4jlWDbtf3OuRN8dtHNg9C_w-HFlokUXeoZjm6OPI5iaMfBUM0Fgf9Hvk8rONVxfvplLWwIteCso00SPNxg2PfN4OjprUrpmRFd9Yg7geE6URTfWQ7e1GdU6UlyjRC3OM0PqbqLmGWZfkOVLbgPrpFaKXoy7S-F5iF3dtrxww21rf4OZyHe1B1cQMInOwGc8233htKDdFyptvDTrGb-W1AwurxR6bkrGrtgrSROwOuwRcWyPd3r8z4AjAsTnBqchzWTWI1eT41pWmrlqgVgU3JiuocbnlYcxhlapsProtqF5DEsCgwFnsea4s6mMBigoQey9GAYiDgoMdYujHvtR34Lsxegs%26ch%3DAQEAEAABABRQYIaYLfjv6b2eiOwZw3_s2zfMm42Jt_0.%26v%3D3%26pg%3DU4KZBIHUWZDXRBNVD5Z3UVB2OM
+.netflix.com	TRUE	/	TRUE	1806142508	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxpqo7Nwpj9m9ZVw2kCbSTV-tKMLh53jI.%26dt%3D1774606511988

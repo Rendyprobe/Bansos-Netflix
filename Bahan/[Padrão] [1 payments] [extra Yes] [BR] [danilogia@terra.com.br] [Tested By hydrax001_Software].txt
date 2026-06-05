@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Danilo
+– Email: danilogia@terra.com.br
+– Country: BR
+– Plan: Padrão
+– Member Since: maio de 2023
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 2939
+– Phone: +5511973357127
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Danilo
+– User GUID: IAI7ZILDDBFV7JAUQ65ZZYGXY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795215612	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA7z2pz1zg0JqxjG8fCvqHLtlGbiAVYh-kEpbtXju9nYB3sZbFHFDHSOR9bxnKpfsydrnMytxQprBPOEzILq7GIyTg6R8eK0pPe1e-xMbK5ElqVzg_jfp6V1Z7CRzcCj9aBVS5plcCCKFDViVj0R3rQtlNMp96ea3RHWlo1pTKbI75RiNHp9S_95U-wVeqtmUz3HTXwiemRcnor9rspdcVQLiqiapvFh3_Ae9eBM_6tvK9SHezMz8mfcfOgD4jVpflnqYBy56AIvbVm_v68fL7xFh02kTqiRpLZjGZydsnKnYeVuurngoNYyIq01Vo-B6wd4UuBX3iU1Ds4XKBnNuPGVSqotZTuMz7BA-mNn0lU8mkbm9hXMCOUqbfCpAK-CawJsVK3kdJgIGNO3eDWRXOIfmAITY_eQ1KOjBUiZAWOh4TWzosIxUGBwiMCnFZoZmWfnza0NabNThRfeX7Co-WhwnJ6M-MTsFPrYk5U1OGSHhfBI5BzsWuGDwpIPav_Nbf-Dk4VnB4hgGIg4KDE8KbP-zQBMAnj7SKw..%26pg%3DIAI7ZILDDBFV7JAUQ65ZZYGXY4%26ch%3DAQEAEAABABS-oz5478XanRyWr0ZEnnvB8g052gBjNWQ.
+.netflix.com	TRUE	/	TRUE	1795215612	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1X_RuPQsBt_u4hU57D1ZaBXXrYMVR194.%26dt%3D1763679629909
+.netflix.com	TRUE	/	FALSE	1795215612	nfvdid	BQFmAAEBEN7btagC4-lN-Y4oeK3RVchgilDBxb00gAzI-7MJ6OwN4WJX6RT-gdQ1uMq2QiECFHh8Obopon_OIc5wBA45NkRIdwC1gxEnROqG3oUJZXl01RmfTB689S1pEiNlKMMex9r1iscFjM7-uVRxHaOVkQSY
+.netflix.com	TRUE	/	FALSE	1795216000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+20+2025+20%3A06%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7c3cedf3-8977-4e43-bb6b-78192b713813&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false

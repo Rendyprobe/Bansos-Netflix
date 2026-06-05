@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alter-J
+– Email: juanjoseg240@gmail.com
+– Country: PE
+– Plan: Estándar
+– Member Since: setiembre de 2020
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7638
+– Phone: +51997172223
+– Quality: HD
+– Streams: 2
+– Price: S/ 40.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alter-J
+– User GUID: 5KTEB4YZUFE6FAJ3U25KDKQZRY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797786116	nfvdid	BQFmAAEBEHWt2h33YSL2IUz8d7B62xpg7YXbfkjmWRqiTbjTJ3oNPZ_Ko1IZ425WHtQUyg-KprR6yf7ElfY94Oyyh2_WbSXrzYAsCGs5oJAAleYCOMyEkD7PurFhOtdUkC2FcTuxHdvnWyPR5APLRkbj5HJijOtD
+.netflix.com	TRUE	/	TRUE	1800221646	NetflixId	ct%3DBgjHlOvcAxLxA5kRbgx_t1mSO17IAUssswctvxGIAEMZ2UltXLkP9la1bwSB3EcPwKgIHB6Q3qQs14yzNegAeDiDtYQ3JRWTXXalVZdgQngnEn0ca8aI9o_sCj4rSrFGP1vTYwVvO6EoOaFSbvW0WRkZCT7G-0EJYHFcgQyxBnJgEGugtHCsy-_P-nNkEm6AQzpxvBtfiW81kFIl-JOX6gwaQsuQ3BsBJs3YL8z932MEBjYyhEK8RMtTJv3JrNaA1oM-ib_gAWOMUa6sB2bTrTUk_PSawgHcxrVphx85DS9ZQG2n0x218zqdFHxTJThc6rn_CF-mlckXQ6zGYlmwrZxRy2j4Ecu5QIdWKcU6wIqkL_x7bZUjKtUkM9mZiqCd5KYHVIs0hX6XmMuZYEkcVrBrYwqhpMDwlq9L7uQOsszQxss5L33Z8jXkLQzBbmauGTJfDwDxDugM20pVycD5PcArdrPX0J8h8Ft7DDKd_ZXyuoHxT5wuzGdy52yDKCjXByg42l1455OIVehDDOkcpSJ5_sL6FHqXG7mHavvN6oDFxFMpDZ8njLwXicxA0nkJWQEepshhgjTijWxN2bXwAQn_-yu5C8ZCaNWKlDV9iDRgFZrlh3UwZySy2Mn9r_BGYmn1lKlwEmls3O8YZJBiLPsgigfGbIBuQda2GAYiDgoMggghPdV9UT7IMo4w%26ch%3DAQEAEAABABQ-B1gkj8NACrUABXtQkIJonJbD-uCb5HE.%26v%3D3%26pg%3D5KTEB4YZUFE6FAJ3U25KDKQZRY
+.netflix.com	TRUE	/	FALSE	1800221707	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+16%3A35%3A07+GMT-0500+(Peru+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a7d3cfd1-4980-47f0-9aeb-a6d4ebb73393&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,27 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emma
+– Email: marco9617@hotmail.com
+– Country: BE
+– Plan: Standard
+– Member Since: août 2023
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 9948
+– Phone: +32493145514
+– Quality: HD
+– Streams: 2
+– Price: 16,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marco
+– User GUID: 7DMUQF4QU5AUJC7QD7LFVJOLNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798524502	NetflixId	ct%3DBgjHlOvcAxLFA_rrfLpGSf9xXupNhKs4eqrzUYBHTaTNjaxQTGESFxmCu84nQjmtLa326bjJelL1GaKvW9b1IhELz-Oo_DNmXjAWEITXBCIgD8_qT9bNNX3Q4SfwyGvrn3srVHKFGSqHzg00L30wEZOSZWIwYF8r1i6wN-AaRWGxa93xVtV__1KM-8PK8FJ_9wG6oYTLE-xjKaJb8ewKEoPtka-1G5PfsqcwO5AkvOTojDgaFd6Y00fHcMC8CIIGP4_TovNol8DCLAxU36QIk2SZmES4Ipi4EOLirLAmEc3cAxQm9Qx3Gx0lraxWRr8netPx_RVUTC54dwXShjHfSusZvxK7sNMluLditffC3vmO4pAlXtfg3aOnL_bsVxrTSnxBtpKVuGiGC1mh4Ngem3GEZnPXSR15OT9gUB5xIGyalWILslIhxzB--KX7ijCv47UjCeOB3_IizNmZExXRZey259faPWPhxiUnX7hg4FvV5mTMzvZwbYrSO-UbKRVR0d_j20JqT-SIfi2oZwyOFn-8v3pB9PtXcTd6qjxYaJz1PmNWFoi4jcMaiESsr305dHnjFHZwb8zNSxVyUwfKrgCG1Br836yzEK1F_QshAxgGIg4KDHK-xYlyG6O3dj9F9A..%26ch%3DAQEAEAABABQVs1kMKy8vJZs9SiCGhpAGr2HeI0LtGlg.%26v%3D3%26pg%3D7DMUQF4QU5AUJC7QD7LFVJOLNI

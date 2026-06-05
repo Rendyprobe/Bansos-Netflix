@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Don’t click here ;)
+– Email: pookeybear48@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: March 2020
+– Next Billing: 2026-06-23
+– Payment: COMCAST
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: tosharo
+– User GUID: 2JJ23WQ44VAEDCRPCYMAK6PMNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805760834	NetflixId	ct%3DBgjHlOvcAxKTBAk2Odk8bX6jG_sFTse-st6c-vqkSGIef0h5E351FKnkw3l5Tx9AkC2fIXsl5XCVCljkHPeixoEbwtfZ6a6k_1G1SQqhniwX8VCppMX4DofHIsqZAgkb8Rcy5D_SLgbgHJ7C9hxFXY97kO8pV81aP_bowxeRxsw73VUDgXYBT_uqrtNjyxlfd--pAQFNW7jPgXslyBPHt0vpva9YDqLwyX7spyEHAtj5TTG0PjIXiQR6EfMEZk-KpqKy2PD7cUDk1WGxFKIhtXss_OS0Mju_PL7103xgBkfVYnZJ5-XJ6kMk99XHWRlq5fCqZ4zCZuj1jf13e52XeWz89w-UDD9oYvZ2z6G5OSt9TEeebly3-PRmSrS9JuslNPDCRPVhq1HnP0RlOCxMmFToR5MSsNEtHjTOgp2_2-FxAIhpkSH9TAV4EKUOFcsv3ACQzKo1uT1ospJsNYWnPOrFfC2CpI79trOkNFjt_0md-NxTLI_z03QGd6b9eGnCjB2fsTwtNpVJ4xWgrVCkIAMqyWrjFFKAvJJ1rU61edPufQx31ZUPbgSqNOn9_Pnd3HZMhZYxoVATjmwprG7MIRA0G1xVZNXEv12N5ZE18WsaCOtuDntCYRqNc_YH4kIK82HW4oh5UO6tytaBWz10-qpzsbv6E8O1qFN4NDYBwZiTG9_qEHu5sGaiMXnHnoJMRpNtL-0DGBKfP95vMxgGIg4KDKczUxI50gXM2D64qQ..%26ch%3DAQEAEAABABSADE0bZixvCYhhWMWVZKz0PDTQzFTPRzY.%26v%3D3%26pg%3D2JJ23WQ44VAEDCRPCYMAK6PMNQ
+.netflix.com	TRUE	/	TRUE	1805760834	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxta3k-c8fDch0xgGCp6-gJ4p1qwGazPQ.%26dt%3D1774224834041
+.netflix.com	TRUE	/	FALSE	1805760834	nfvdid	BQFmAAEBEHTFG2LhitjWcKifWnwvXxNgdnzVcRZidiQWCTZZPN0V_OuvAa4wkqgdCBSUxjSI5Q7JbyqrxyRcy9u_l1VsHrvdfNs2Yr-cBjeni6VRYOR0si8Kxd9cZhWUYkf7-9KpgkkptShm9L9Nj965F4AOzHsf

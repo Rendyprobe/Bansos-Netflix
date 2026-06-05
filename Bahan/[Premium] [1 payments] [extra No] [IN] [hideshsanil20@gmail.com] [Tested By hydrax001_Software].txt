@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: EMBER
+– Email: hideshsanil20@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: +918714236773
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: EMBER
+– User GUID: JOLPRTUQOFAMZJAPQE5INLMORU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBENrPI7e1wEJH3UnCDo4zOPlgv6PQ_8WbYsvU34aVB4jEMkgjA5JxgYeKFNayLnN1hEjZI1wCDLY82F-4WxHXEJUIe9B7afnjpCbLly_xN6AR-hNezhCaERHGDgk_lPJxWPs7gfOIWGJhdLk10IyW89at
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxKPBPCdHWVZwNXWnJ1XIfxXEC28lHQfO2wwvYI6_sJr8rJoNbWIN-m_1DwaVHgujYGMjBKscbEQcT7iE4ZbNOwnLlEnBwjVa6mbMyBpGLlqsnBL-4xmZpgX9rstePGbYlC-pKyRAyucVs8-R9mReHNxgAbBO-csyqOwEk0HhUoyGJJUG5DrKtR3siZasnYG8i13dHz5OjSeAgp-YaagRsMqnCDqlW2dba6LAUfplu55wwnyS0reKpQmk6eQ1uCrVFIlkgATLO8LM1x-nUa3Bt9ZsctjoSbQHcdvWJlHCEES92AThtie8IMF4cRgJp73Y-laLCw0GQGNXJ0joN8SKVvH11yeMLGVM7MQvwiNV5ObCowrHVBO_g8kpcgpVIyu0_8ABkr85edL4dnDUtc-ms8Dz4kSAtKMWPcLukAVghDrhIDNV_zmQH1kLswpNWKS_OZhQhHwLXaeZe8LpOQRe85bfW-tWECAyYhB_-3YBtMpSiXW0X_MUmdcMi73Cb0ira7lwSzxMnANwBYUP3AJ4fLW8k6RACJBbsaIrZHgQ8MPb_wI-iYJ0_dxH-BxxrEL1EBz_y9_iuszReaNFJcdFmMq1HQeK5SRp2hH6Q0cbaC8_Ew7onXvMGxPMfEJzILddmeZYbZAPrnYv8JtIPdqKbRpJMwieq4BKsWZ7b6cQXcDAdC4SrD6GApGiQsRfmF4aZWcGAYiDgoMtl_SNksnd5wNl2rd%26ch%3DAQEAEAABABRXbvqqPYszNbHk9OiT2rBJXgi0_mNqTJc.%26v%3D3%26pg%3DJOLPRTUQOFAMZJAPQE5INLMORU
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+07%3A48%3A22+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=21b84e95-b277-4c55-804b-0e9ac4664bfa&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQQCGigwkYpzSXY37cWdKmO_Bt8gnFG4pY.%26dt%3D1778251701606

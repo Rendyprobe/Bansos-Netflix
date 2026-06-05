@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Julio
+– Email: guillaumemariana@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: enero de 2026
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 8649
+– Phone: +34647867168
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mama
+– User GUID: PBKXEQRKCRFPHBCXTHIVEN23DQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803556410	nfvdid	BQFmAAEBEKULFZtwsRtuQQo-TTr7F4VgKYwE_LOWBCCMioPZVCZVDAFEjP1ejCWTmSkVWR2e-TJ3LZ-XVJbcijYlqNAVt6Di9NFSwp9LpsTtpbB-bz1Ucii-IQ1FXfqgjsH6hmaPrISRQf-X6WHPsk7Pew5Qy5Sv
+.netflix.com	TRUE	/	FALSE	1805399637	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+20%3A53%3A57+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4116a35d-0f8e-477f-b518-97aa24cc0f14&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772020355614&geolocation=ES%3BAR&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805468089	NetflixId	ct%3DBgjHlOvcAxKvAzqY-ryzu8JHrfKtMjCwMkuhYYQSTcyDjRbAJd2D-sVCoxV8Qn7oG86x-wr9iqqRsrqsUYrYOoCs4bL80FGjUiTNrv8HofEHoyfJazBWS2J2aEAgpM7yjvbGJNP74y79Yh1BjZoyM6hqviAcNGuGxKUtzINSAVlN3Cw3nRHyJi18dafSYuI831GPKKvTh-gs5_Bh7SsvLhcDcq3FxqxHhfqTz6Bgn4Fgr_B1fT2WOeFzOdpe4cKAkZSGxp7x4VsRY_I3O5XQXzqegopRtnTjRx4wIAY5VoDwj_pL5O7trrz1DyfMUq26cOzaeCT6EpyMAmqqjR16xXE1_b1XpZK1fu4aPCm9fJov6ksGmjUlf5URlbRSFC9CBr1a-ezx4ampWNxiQGSgIR1Vh_VpwNy2KTFHNCCpd9feRXfG0bDq1HbMd-ttNdx_MX4PwSsxAPSlbhYcL7Sygwj9B7vSobNLW51B1h8runaxVRh0M2xOX9CHGbPrnSokeLvoThdT9x1TjyyxPlvHV8_KcA9Asc5OtNXsfODwpvEReWeJJr9FIgFuf0fFljkEf_TjDLy4LL41GAYiDgoMFmsnKwO8CgxtmhYd%26ch%3DAQEAEAABABQl6Iucr-54SkEgo0bA2T5GBmaJlg0Y_VE.%26v%3D3%26pg%3DPBKXEQRKCRFPHBCXTHIVEN23DQ
+.netflix.com	TRUE	/	TRUE	1805468089	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLcvmpE1AzCEF_RwOo8biApBGC7FL4U7w.%26dt%3D1773932089390

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Syd & Co
+– Email: gem.hewson@sky.com
+– Country: GB
+– Plan: Standard
+– Member Since: June 2024
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gem
+– User GUID: TURJ2PCWZJBKPPY5XTRDHZREMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790058600	NetflixId	ct%3DBgjHlOvcAxLgA_Yr-nGD6iO91LSdCIJa8eirCBARpTIa0m8xeIVl5QcEyMfVic1OXuJkbu0_2TjnTjCy5UAx8hajg169S9OOynje0FLsjDDaJtHlf3MBNXvj7Ktw5oPTauw-SxXqbQj1XXzFCBktnGUw8Aa1D4Nx0vOd-h6SwalY5yJrWrHVT_frLQrfnpLJvlsiGM50QhkAFDZVtEgVy1QFwB7fKesVwfRl0FbjY4xDpX0Szsg_JJEVG1IpXygUa2jExQTJYyOQHVBIqL4F-vuU630CgnMnRIKzBDQXYqjcx0TuGFlgYzfxeTV51hDZY71w_viiRX18Y8jtGtj7YxzLdkNq8pXnuJCe-0U4RMpU856KUpTgZMSehIA3TMh37tj7fLcnvUeDI4cRCQM8IJjmIFlFexo93kjymIt9uJ5TUPbRkm82TX0ayfz2maifJ25ttPrOSgfpn-gSSMCyfyrWuciK3tzNF_7qYSmDchT43_MICOeQThoJrVDxON4OWngdWgsB7uCcXivXFXIKGzbImnV--P1UPywi0ljM6MeZm5tqLurg6wfp4x46bAYrBLxEG_-FaQRUXbP20uwc0IZbr70ejCjSu7ZzI3bT1b5jxjSkXelojRJFejVTG9unM8JEa_UQ0-mv_RgGIg4KDAfR937bO8meYP2pww..%26ch%3DAQEAEAABABSWZ3MgNUVNiaCqE18FRTYRdaWexfxgWFs.%26v%3D3%26pg%3DTURJ2PCWZJBKPPY5XTRDHZREMQ
+.netflix.com	TRUE	/	TRUE	1790058600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1Z9Q9WeZhUZq-1U4ABZkwU8XABO8lWoQ.%26dt%3D1758522920805
+.netflix.com	TRUE	/	FALSE	1790058599	nfvdid	BQFmAAEBEDIZKqstAMuY4ZpOnPiKBNhglBA4hT8w2O0Mva3AggcxeeKeC2M0MxcmJmLN79eK9l08x1Ox8qUB5mnU7O1uDAtqskCw1mIwHp6J1Fd_SxSO7PNoy8EqzBGnuh-CNxO2STJD2jDMket2Fh-dbi1jpfjP
+.netflix.com	TRUE	/	FALSE	1790058987	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+22+2025+07%3A36%3A27+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=23552461-6fff-484b-8973-eb43151815de&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BWLS&AwaitingReconsent=false

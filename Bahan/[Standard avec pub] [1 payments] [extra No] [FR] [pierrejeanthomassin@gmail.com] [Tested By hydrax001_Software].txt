@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: khdwfghlvcxgxfygjbvjqlkuzkdbn
+– Email: pierrejeanthomassin@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: septembre 2019
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: N/A
+– Phone: +33688247550
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pierre Jean
+– User GUID: 2QADR5E565AUZJOWTD3VBUX7WY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804972320	nfvdid	BQFmAAEBECuzHWn5cH2NzM7QNx82LEhgDjwTSOjVsXuzOAIwi4hsisnxYluLqzdhJeXJ12PubKhUVP75nF8nvyvAtCnTrDzmuBfNMXI5p9tl_GbYz4rRksi1HERVDT1NHJpgEq_dIbPGIQ9e4QsAoirEEqP0eWHF
+.netflix.com	TRUE	/	TRUE	1808145016	NetflixId	ct%3DBgjHlOvcAxKbBBJMrhMEnCM-9_WvVsfDO8ZlT_loVJ0_MkHp_7QlvD7OAb4d1FdefUz3GCTp8zKFyU8R_8dso6elP69yMHlKoen2rdHUEomLL9YVdBhb2WvormEdj3dNHhZKA8VxQ-2Er5-aivtP13HTNT23eorKhlJKqcY9epPZZw5peL9fLvSz-ql6OJmMVnE7N90SGVRLIQjvCAaPULJd_baiulqfP0L15Gmi7qGyU94_o7Z9he_3I286jrGis-LdIPDaK1eQI1O1FV3DLkXcb82uB0F9NRfRpvzmiEA8Ny56qzWR2Gez0fOqX0TapozYqVi9XREpmEkoQxxVOAAERVbxwoS6JVsrusmjEHai3NT0vKqELx2jLBv7uyf6WNry225Mf7BdcfmywXkp8Lv2k0nyBZHXZJsgI8bFegS3NT0i3x4YfUv14xGcwUfhmtLik22PKfW2W8c4lraRtDtYK_y1kha88XGDSQhgsiziZhs0MOfgGq8zmSsIQ4gGimmAZPBnDoBw1PwG8rhIPaTjgLri1fZEG7cvsbpcWAD8E5awHafbF41tglfRsZrU56ytOu4RwwEssT66qI5b6gqL7vhCxEbbg8lsDnmxxGtJ3jFVgj3_NFqr2tqMtPmjJ8HO6bWCrc_oIIUZO1FLjkB1VxNsWYdtjm1cIkWIp0UGkeWPiqk-dbmF2hBYedi-vKBc5cp-ED5E4GzHK_Zoh-1bzLwnGAYiDgoMD_X-z_DxCteiT48Y%26ch%3DAQEAEAABABRFu8suUy_UVaffagSQR8hyMIQklZUEZfw.%26v%3D3%26pg%3D2QADR5E565AUZJOWTD3VBUX7WY
+.netflix.com	TRUE	/	FALSE	1808145016	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+16%3A30%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=262bc747-e304-48d4-b8d8-273c5eeab219&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BGES&AwaitingReconsent=false&prevHadToken=0

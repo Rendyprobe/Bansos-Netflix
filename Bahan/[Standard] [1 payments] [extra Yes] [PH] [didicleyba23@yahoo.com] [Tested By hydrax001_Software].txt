@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alberto
+– Email: didicleyba23@yahoo.com
+– Country: PH
+– Plan: Standard
+– Member Since: October 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 9495
+– Phone: +639216554102
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alberto, Kath
+– User GUID: ZVMYBA5E5ZGCPFDNUGCLE6VWIA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788227630	nfvdid	BQFmAAEBEIHJeb7WkWNxaWRrIgM8aTZgZaVexfGVSvLPWAcyY4f1XH2dIWwkQnaizRC-_Y_qUc2fW_qvKVY0a677M83p89_H6oAn06uSXjFghRZ2ytqbE-5JGqHmPLMRfiO5oUhgEdJ4L3S-3eQDqKNsm6xnuSZo
+.netflix.com	TRUE	/	TRUE	1810035060	NetflixId	ct%3DBgjHlOvcAxKBBETo5593ipkMV5n9zcyXUPPWsTbqm1fCJxGFfj6jsJ3lghzOEhe-I0pbxsatC6tHdqOV_1jQNlFO5Na9QpWCO-nnlr6ff2zpR4xCptOs9nEykdJBB4D43SNgjcPDLUkNY93fyG85K52vkBHUsHhCElhhYDwP8qe55s9CTmyppXwq3-mxSVDoo72mOkeo1xbNAet_EGLWZmXq95QnAgCjxvFydvxVRqzjdciAHppNv4fgRrAQ5fVugWcPiw5rXHVKxOdGjxz0y-hgleoEtAhggTccUprkwVLvJBEHtVZtIZr2U-pZ9-9h3g35Jc3Lv6Y1VKbtSCOY0XSiGgKOAYTyfHVf-aIsr0vzX_PiLJOhgMDJbJNQAuOZk5J_Qp7QmCxXRkM5zGGVxPSH4HdkeM1Bcb0adURdLY9klsPC46kMDCk8uC_yOBRJrSgGYO_nRP3uwJFnr9z9x4aRFFmeslrOiwMenJR7LZTgrlCR1HdSwnj_MsQtLe5KUEryyaG_pVtYMEiyBvRv7B0AgYGbK3MH0VSEDlUe7CAvgZRIDsvRoL1BAuvQAYFSd4rEISiyIvcEvycRTsA_Og0u8M81Jtm_AgCCiizJ3ma9cHOZDpVO-WJXcTfhSjf6RlL_z9N4zSOEGJJofaAiZdQDMpz1bkZAK49UeDXlMKrcPrhf4Vhivdf5FBgGIg4KDDqpqZP8uEyYnPDFCg..%26ch%3DAQEAEAABABTD5IMMw9kZQX85ahHdy751rVvxJmf_3JU.%26v%3D3%26pg%3DZVMYBA5E5ZGCPFDNUGCLE6VWIA
+.netflix.com	TRUE	/	TRUE	1810035060	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRm8liYjLYrX-_OCd26hd6GKN6r1aEYDAQ.%26dt%3D1778499066013
+.netflix.com	TRUE	/	FALSE	1810074652	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+06%3A30%3A52+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=920c9f4a-b254-41cb-96b3-39b1eeaa3311&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

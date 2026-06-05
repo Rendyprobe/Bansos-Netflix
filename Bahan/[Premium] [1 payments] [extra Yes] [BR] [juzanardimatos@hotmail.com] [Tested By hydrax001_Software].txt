@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rafa
+– Email: juzanardimatos@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: setembro de 2015
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 3611
+– Phone: +5544999340575
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: juliana z de matos
+– User GUID: NGCW2XSVFZAX7PQLECTSM7PVXM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794185772	nfvdid	BQFmAAEBEFitth6ZX2ENH-_HoywidHNg4UVLCqespTYslO95SQpJ4ZTMbuyGFwKanumXdCVzNGPriHJhUkYYpb0rxq86Ut6sYmOHo6jcChBqgBTgNCFw3Vdv_hrz9jgt5qAQevfjsd_RcbB2hHEkpEKND2XD78fP
+.netflix.com	TRUE	/	TRUE	1794531003	NetflixId	ct%3DBgjHlOvcAxLlA8OoPoVcxsnlnnck3WxglsBfO3TlJEWII12ulqoFJ_tv0DxRw6q2b6rbFWCLgeyiokIG1M4uL-E8qq1nruspkPHnwMGJND3_dfSyU5xZZNmjqYVm2M_3nWwFOrVYOE9LWebmu7pUQK-oECgaY16Zj09dCfpgd0oYesBkfIhjgYXY4wV55l_MxIdwOl9vAQcr1z6xDzHGbK2UnkW26PbRaFcBRBdDiAlVoqAPhbTaWKjOujOLXsL9xre-BhyHSVUdV_30FdF-UQ10kD0KR4d7BOoFQ04J1fb_bdUMjO8-NFZQo7IpQmb6_2LHa9C71rNGcDmFPJiFpNbS5tGCKs4UZvQh4BuV4JSHbFwjZDs8riXuROx2EdHx2pHoGJs7WjhGFojS4IwhHNeovVdD3DgnJQweg4CA89oOJm3DMAbj3Ifw4sL8vN1fCIfHB7OaurSYdVrEPxzWNBivZdJbCy1l1Kum5VR_u7L1BrPwzq7FY0K6lDenzBihBtIjsQ3MelRW22qWtB77iOD0Z7fQpJbrtJTcDZG2OVBE7QIlO3EhDkA6Zvtc_cxuT9169PINhGwFPzkjg3FMb4BhMl-BziUMTUFuI78stDUKEX5sjgjHE6OWtdWViHaf8QhQwduaubic_iDaX-w7GAYiDgoMFS2uQPSaGp1qmkQF%26ch%3DAQEAEAABABTgXBWsbrMguX7m0lOS3L_N2XOwpKdchUo.%26v%3D3%26pg%3DNGCW2XSVFZAX7PQLECTSM7PVXM
+.netflix.com	TRUE	/	FALSE	1794531004	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+12+2025+21%3A50%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c8dcff9c-be9c-4fbf-8dd4-032b96823806&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR
+.netflix.com	TRUE	/	TRUE	1794531003	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSuVvDYqang1SeIBCF6UFblQOaOdUzMuF8.%26dt%3D1762995003338

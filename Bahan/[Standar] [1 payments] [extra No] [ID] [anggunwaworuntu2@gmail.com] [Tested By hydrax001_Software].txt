@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Val
+– Email: anggunwaworuntu2@gmail.com
+– Country: ID
+– Plan: Standar
+– Member Since: Juli 2024
+– Next Billing: 2026-06-13
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +62895397332450
+– Quality: HD
+– Streams: 2
+– Price: Rp120.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mama
+– User GUID: 27CJIZDFPFBNXHD574ETEZXDZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787052910	nfvdid	BQFmAAEBEKLOmAWOhimXvCEbMVUOS2FgoMdmPSWbc5PNxSgVSIFe4rR4XJECHxwyZmsGu30349_CvuptGcU6wcUP6JBgnrgSNMqkQWU7ZNvvKVmmyJ5n0u5QQitKqRrn_HdU7qCBWpttV5xwYPhwG1RP7L-37FXV
+.netflix.com	TRUE	/	TRUE	1809611684	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA7pwNOPzmoU4jGY8HkGO2ckMjB4Lel1B9LYGB1OVD73qYAWxVpQyLvgFeLiNRrptJErhlZKPlqJdXcxUMoWBv_DDA2r2riDWjH0YaWpWK5oEp6x3mpo3PBOlAbtUqtr7bsXD2zSBQS5JE5gHGSs6Ir8S_rFdnoHy-Pju9suUm-b1WjqSBpmO8-M9reK_GsaoAEkK_hD1LuBn0cXehThIGtQgHQuopRxFBhpj7ymYIHEYpoXiSRXI4z3srFUOg0kksHdb86Si-kQXJgeMkM5x8pWF0XHkHf71AIhhJ4XuCvRm9FSgrXEX7wGeYDEdPT1d0RRrKNcvMr5NgB6vPbioe1vg6VNu4-2BcrI7V37oX_9w9BTdHYlMwu0X3hbreAsTnSX1OQWxg3GgP_OXwBM08H6HsHyOlFWcFdgpLGsqBA3i_gzvNFXi7_87mRYfAITZpnCPelTk-txGmhJ20JN2DihWnc-G4ZYrIZYRNfU7f81nSsQd8z5hlAJ3aSVf-vg149D-hjvYIlPOgyOBG3ZGoWOvURhN5hgGIg4KDIOs9ypFFbNS95gQnQ..%26pg%3D27CJIZDFPFBNXHD574ETEZXDZY%26ch%3DAQEAEAABABRIsXQANmfUHvHZsr_Q1g9WVxnF8b0S4uE.
+.netflix.com	TRUE	/	FALSE	1809611685	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+21%3A54%3A45+GMT%2B0800+(Central+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42cb709b-3df7-4145-bcf6-2b2da13f8f97&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

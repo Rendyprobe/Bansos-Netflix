@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adam
+– Email: carole_wharton@yahoo.co.uk
+– Country: GB
+– Plan: Standard
+– Member Since: December 2020
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carole
+– User GUID: PAS4LKDMEBD4BCMWHBHIDGRNZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13432935929353273	nfvdid	BQFmAAEBEEvqaA9YeIpG4cyUvh0WsetgZQ-_mWzWi1iGibCShA3opVu12uzfWTTPN-QdchzIOrhFEAT8PnfQuac-75OYSG5zmmk4uVCdLwwA8BUmrGJcUqnDj2Cjg-iyomyZ_gLbfEBFOgrw0k99i8loAAxqNIs8
+.netflix.com	TRUE	/	FALSE	13453403243000000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+17%3A27%3A23+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a0f150dd-8a1a-4903-a5ed-d56366ec6764&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	13453684471296828	NetflixId	ct%3DBgjHlOvcAxKABGVrrDxr0_9j9_1rMOaXl2dwQPiU0-GTAYImYpSpOOCgueKrdRBSf0x_cHAaFlHzZS2FPzG4k233jwdthB0kTHxbkVW4vjvOvlZHPxnKQUQt8N84xQ5dl2K3m6wAEV0scdvMFpV7DBUhg7797BaHx-jPEANPY35WWKYBnVS8wl3Yu8toOjj3ziigx958W4mMz9UM_Ji7D94hKZM0U0NTHxY40EaP9KBmGz3onPVTpJKddUFUzzNWrZkdrpgdJK9SEokQkL4_jOnZmM8uMUpnmEu-zEgmp6qapMB7N6Pw11Pw2KSjEklsbhFNHuBF57ZbQR_xwsi28ViGyTP6SJLttGt5hUT5580N_OWHOur8DPYORupyCyFlMb0-Lba86BZ52PPOgxSPTuQ7pM8UeN1MyHzFXykmVMHbRX-LQYo2c-xfj8JMIll8EBWd7KRyzF2TS838gbC_RkfpCSyYSXD6PL_mb8gLMoC3BQAHoF392O9NHx3kJOQsBf0I2ErqCzMaHpbYaiDFrAuFLHlqLQa2E4hvXrJa2RMb-MpdkAqMofMHbUV0AUmFBe_6X9xMqp_2HAH9d1saV12GhJwKJ1CrJH8h6dMl6P18SKG7kcoMc1Mt7pFGPckUlkJBfp2gf2a86kGL_jO7CGLZpyqnzBNJQwgAlQVwbQAhBED_uwv7cCHrGAYiDgoMQ9YcV1e5M_6tUmLa%26ch%3DAQEAEAABABRIw3J4VActO9m6AhjgukSJysvobLke_ZE.%26v%3D3%26pg%3DPAS4LKDMEBD4BCMWHBHIDGRNZ4

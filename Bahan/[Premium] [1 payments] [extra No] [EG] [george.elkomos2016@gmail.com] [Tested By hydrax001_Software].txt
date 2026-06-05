@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: George
+– Name: Harsh
 – Email: george.elkomos2016@gmail.com
 – Country: EG
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: George
+– Profiles: Harsh
 – User GUID: GE5UMPXECZEA5GKPPVRJFDPTPY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAZbGdQNrzX2hfVCcqSThhCXJ0hf7/b+1yw0c8daZ79P2rMf1AVjOBMHSK+cfCrDQ0Kq3crcnknyQA+ly5P6IfjW2gsq+zs25IOl92D122aJpMKlz0iEuYvP5Z9lUQkQh7X0a6KoumcBSsvh7dz3wu9Mc4cs114tA7EDfpfQ/ungqTctG3GGT0ZoqNvpb1qqZBNFtZBVxRPBrTUzWBy5rX0KSvYc598RdXg+Wz+UbMQcEnCJiq3G8RNBGKChB6HBYn2SfGAYiDgoM+T7HMx1YgZgu7/OC
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAZbGdQNrzX2hfVCcqSThhCXJ0hf7/b+1yw0c8daZ79P2rMf1AVjOBMHSK+cfCrDQ0Kq3crcnknyQA+ly5P6IfjW2gsq+zs25IOl92D122aJpMKlz0iEuYvP5Z9lUQkQh7X0a6KoumcBSsvh7dz3wu9Mc4cs114tA7EDfpfQ/ungqTctG3GGT0ZoqNvpb1qqZBNFtZBVxRPBrTUzWBy5rX0KSvYc598RdXg+Wz+UbMQcEnCJiq3G8RNBGKChB6HBYn2SfGAYiDgoM+T7HMx1YgZgu7/OC
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAZbGdQNrzX2hfVCcqSThhCXJ0hf7/b+1yw0c8daZ79P2rMf1AVjOBMHSK+cfCrDQ0Kq3crcnknyQA+ly5P6IfjW2gsq+zs25IOl92D122aJpMKlz0iEuYvP5Z9lUQkQh7X0a6KoumcBSsvh7dz3wu9Mc4cs114tA7EDfpfQ/ungqTctG3GGT0ZoqNvpb1qqZBNFtZBVxRPBrTUzWBy5rX0KSvYc598RdXg+Wz+UbMQcEnCJiq3G8RNBGKChB6HBYn2SfGAYiDgoM+T7HMx1YgZgu7/OC
-– Token Expiry: 2026-06-04 09:07:32
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798491997	nfvdid	BQFmAAEBED0kHZbzQAS4OeC0qyHPsSlg1MHHK7ZCx4iKVeUh0q9PVcoX88Z_lcnLyrE3CiVzLzFIZUo8as_xaKk-MLE-6-Rn8KcfwIVwIzaFcs2DUBFIeHPwmIxh7snRn0g2yGf0pfWT-30ZRNrdspTr9jqTyfNW

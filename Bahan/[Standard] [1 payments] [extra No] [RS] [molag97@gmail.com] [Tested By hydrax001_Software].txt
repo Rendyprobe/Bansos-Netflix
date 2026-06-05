@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bojan
+– Email: molag97@gmail.com
+– Country: RS
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 9136
+– Phone: +381600285591
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bojan
+– User GUID: YSAA624CMNBB7JSUIWHKZHZ2IQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782919336	nfvdid	BQFmAAEBEF4cin26lFz6m-E63Uau-aBg2M76WtmoDj9s5WWLhR1_sM7OSKY9seSOg9YvgskG0eZ9zJu-ezGvCmdrusViOll1SZuEe4Ke58LogP7O-HwWiLKA2_8pd2k-hVvL7WGdnWOmxMGDAi0_uJxdsOlq-tQE
+.netflix.com	TRUE	/	TRUE	1797353405	NetflixId	ct%3DBgjHlOvcAxKfA_7dzLre4-12glltfM9Pahil_iNt3xkKm3IlZrdgLTWywKmzHmmhBQmybIq985zFmE12G7p0ZVh495MFArMUMhAL3O5tjS1GUTgD-7v_gF14HEduY9qA43J5qR4kp_xxmCQB_yqtC2wIKUbyieukHcXLlgk1pxiEXcD4J87FElWNoWmvMLNek1bW3Ts1Um3QjTbvFLRJgaxMatDK4zfXHU0lTL8rM2blQkdKJIGK-WF9z_IFqTfOjwxD9aWwFWdEMd5JbTyeFJ6KnudYpSoYgkHZi8TL9_nQeFTtT5urUp5uDGGMLkiyAghGwtuJ0oMlB5mJu2c8JiD--XKYiSFYB_F6ZWNfjBiXvXzJg3K1LnlFN_XnvK4iJi2KIS2zu2wVCe0q6klg6b5mgcgoTiblnpEEGr5nMNDAKqXjV4hTuR2-y27_hDYEycpp7f9oIZCbIy8-beLY3MNe6BFF8Wi2-rgoHBMLxgt3INTy0hVYexqOxd5b0lW9abErRdVoC6Y7Fd-nQapWjm7D7iigYpa0CsLA5I3vdrzmhVGmTcsoBwEYBiIOCgyJlC7XNSQVrZM2ZBc.%26ch%3DAQEAEAABABS5poXMcv2Mj83dNYZ2nBk5eB1b0kJNP2k.%26v%3D3%26pg%3DYSAA624CMNBB7JSUIWHKZHZ2IQ
+.netflix.com	TRUE	/	FALSE	1797353406	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+15+2025+17%3A50%3A06+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a9802c9a-9eef-40f6-a3c8-717b6a7b6b0d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

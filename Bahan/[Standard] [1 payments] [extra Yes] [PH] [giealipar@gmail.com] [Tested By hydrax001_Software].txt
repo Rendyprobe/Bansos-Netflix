@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Owe Nate
+– Email: giealipar@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: April 2023
+– Next Billing: 2026-07-03
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639566050689
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: giealipar
+– User GUID: HNDGJHSI4BEEDJTZMAXTW7YAGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788944042	nfvdid	BQFmAAEBELLxZ_9kVOuXdUGD8j58W9ZgRJzgYEKLWGCE9hqGYfUIFoSNmsB4TDDdDZoFMLLewJmFiNyEVTRGMW1A1LV0QFv61BeSEZt3Nf7EVwZqqo04Zo6VClz6HE-LbosM--EupIeXMCbFuJQWFc9VN5YZK_W2
+.netflix.com	TRUE	/	TRUE	1811230776	NetflixId	ct%3DBgjHlOvcAxKGBB_NBGRudOZih2oEeDOubyzjEo5gZN6K1zpzTYLGwCy0UIH0E_ZSe336rPBFCmedaeEptXvhK9o6AyjGUTAddNS53tTgu05fI4njw53jKZWse3QbjjzI03Vjw5dNpBVxbFP21K5VLNVYPj9T1KuKl2BU-QMBbqr-E_7yl5vwzxBWKqglbnGLZARGRIDPncaB9kaDAaI6qZ3EUjWH7qCRnZ7VeEPHP-YG2f37_uypQ71Y0lkjy-x8BN9BZn3kASGf8OiBIFQorO3zlbhY3cmee2WYKB6zn1HW72B47KbFOG4pRHJ_R8-vb3RosMnkvqXCXw3tv34uV7n3lXHaz61baZqffceUgp8JPxyQsNvUMuvQjvGs7Y8zbd3ZFHilbJQsSGltV94V9hkbF1x67nfVNlVYKYDJBLroqOxCb7BX5-h82JnjO37OheskskaFTtNBHVRHOHV2KSNcC12XqkYgQqjOhLMRbG1WPZAi756U0Q9dXFTQrGn8oNKsX6MrY34SltEHh3T9RyaBitnLpWYK9RU3pTZvXwwmaxhhiaIs5_lJ3cnhZkz2m4Ca3hvss1PKV5dkhf4eJGXBgaArkaqN5Mk6vw1oYDK0QqqLjzjaqOU0tXY26OlWgu9SknB8FznG8pMh3cGzDY8PRLg56VpTVowwvP4klzk8FaCi2AzyH50pVDIddb0VGAYiDgoMl8MEf9Q54cp4DoQK%26ch%3DAQEAEAABABRD7G3MwdXoZy_PJbRu2r0ChdNS_UGH-3s.%26v%3D3%26pg%3DHNDGJHSI4BEEDJTZMAXTW7YAGI
+.netflix.com	TRUE	/	FALSE	1811230778	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+15%3A39%3A38+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=3846fc57-63ba-4644-b677-7da4c4ce8643&interactionCount=1&hosts=&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

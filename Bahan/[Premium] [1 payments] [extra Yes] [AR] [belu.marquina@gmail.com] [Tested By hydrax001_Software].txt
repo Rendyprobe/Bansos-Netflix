@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: belu.marquina@gmail.com
 – Country: AR
 – Plan: Premium
-– Member Since: Eylül 2018
+– Member Since: septiembre de 2018
 – Next Billing: 2026-06-05
 – Payment: CC
 – Card: 1121
 – Phone: +542944217512
 – Quality: UHD
 – Streams: 4
-– Price: ARS 19.999
+– Price: $ 19.999
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: María Cristina
 – User GUID: DRQYNHSKKRAPZLGOH2QS6MPIYM
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARffDgzItp4A6TzEXVsHvl0MNrv/ht5ZDtLp1dg1pAtXLSfL/FuASQXqRuGWoBN+BjNTl9q4vi1CkfjNizsnLRisEIobi/5kadPF8HW7YqSUx4Ojg3J6MxuiUeFzuOw27Fg71grDKbtz9EctPwvX9fM2e4aczfTGe8HcUGByPBRjCquAvl0cOu5wtGlcPFIEmlX/S17+hvkpnzy91n82iX6Bj76mhRc0B41yVn9BlFUPaF2r22DMgB7YIpgjklbJ3YPdGAYiDgoMhS0fe9rjTcmhcH68
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARffDgzItp4A6TzEXVsHvl0MNrv/ht5ZDtLp1dg1pAtXLSfL/FuASQXqRuGWoBN+BjNTl9q4vi1CkfjNizsnLRisEIobi/5kadPF8HW7YqSUx4Ojg3J6MxuiUeFzuOw27Fg71grDKbtz9EctPwvX9fM2e4aczfTGe8HcUGByPBRjCquAvl0cOu5wtGlcPFIEmlX/S17+hvkpnzy91n82iX6Bj76mhRc0B41yVn9BlFUPaF2r22DMgB7YIpgjklbJ3YPdGAYiDgoMhS0fe9rjTcmhcH68
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARffDgzItp4A6TzEXVsHvl0MNrv/ht5ZDtLp1dg1pAtXLSfL/FuASQXqRuGWoBN+BjNTl9q4vi1CkfjNizsnLRisEIobi/5kadPF8HW7YqSUx4Ojg3J6MxuiUeFzuOw27Fg71grDKbtz9EctPwvX9fM2e4aczfTGe8HcUGByPBRjCquAvl0cOu5wtGlcPFIEmlX/S17+hvkpnzy91n82iX6Bj76mhRc0B41yVn9BlFUPaF2r22DMgB7YIpgjklbJ3YPdGAYiDgoMhS0fe9rjTcmhcH68
-– Token Expiry: 2026-06-04 09:15:31
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1800749587	nfvdid	BQFmAAEBEB6XKgx286gXpNN7d_6-N7dgNV0B5yaisu-BoimMC-JPba6-mgCOmdnbvOanm2CNxd0Q-svV3oKHPZ1Q07BYVhkEBEbsDLdDaLpof3cifZR2eI_WrwAjqblLL5e_cQC0kAhrRj5zwDZERNdqbUBHh7oj

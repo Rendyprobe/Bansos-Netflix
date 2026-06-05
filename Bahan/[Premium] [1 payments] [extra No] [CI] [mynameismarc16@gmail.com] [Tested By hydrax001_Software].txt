@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: VEXVTE3BNRGLDLYSDOO4TV7WGI
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAchFiRAQ8GEB9XST0/S3vBWP5Gu3rCeJo8hQbVjOej4DRgQ1WQAJ1HhhQcuxN8rp7Pm57sDJMabBPsK+Tpv/LAuf4Gprm6mrPh2Ip9lmlYu5D7lCWy+aGnwagsBVWMPk3mymoirDcoWDqwMvpOcYe6G0QN7UyKImFVsyus0KH89El7IosbNGCZMGx/8NkS0fvgiSLD9UmgTEFhDQO+dE8krb4iHs8IcMvlJWR0rF8M2F8EwQ6p+5mALqpokPpV8Xp2ozGAYiDgoM6pbAU15JSNi9sEVw
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAchFiRAQ8GEB9XST0/S3vBWP5Gu3rCeJo8hQbVjOej4DRgQ1WQAJ1HhhQcuxN8rp7Pm57sDJMabBPsK+Tpv/LAuf4Gprm6mrPh2Ip9lmlYu5D7lCWy+aGnwagsBVWMPk3mymoirDcoWDqwMvpOcYe6G0QN7UyKImFVsyus0KH89El7IosbNGCZMGx/8NkS0fvgiSLD9UmgTEFhDQO+dE8krb4iHs8IcMvlJWR0rF8M2F8EwQ6p+5mALqpokPpV8Xp2ozGAYiDgoM6pbAU15JSNi9sEVw
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAchFiRAQ8GEB9XST0/S3vBWP5Gu3rCeJo8hQbVjOej4DRgQ1WQAJ1HhhQcuxN8rp7Pm57sDJMabBPsK+Tpv/LAuf4Gprm6mrPh2Ip9lmlYu5D7lCWy+aGnwagsBVWMPk3mymoirDcoWDqwMvpOcYe6G0QN7UyKImFVsyus0KH89El7IosbNGCZMGx/8NkS0fvgiSLD9UmgTEFhDQO+dE8krb4iHs8IcMvlJWR0rF8M2F8EwQ6p+5mALqpokPpV8Xp2ozGAYiDgoM6pbAU15JSNi9sEVw
-– Token Expiry: 2026-06-04 09:07:34
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798721278	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+12%3A47%3A58+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6301585d-1996-44a5-a564-04aa3a52504d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	FALSE	1804505690	nfvdid	BQFmAAEBENRGR3lKDLeTgZy90GAi7Mhg-u6ZwYVnEg7Bj_7-xosiWTRstLt7SMIHikGCLsS9iP0rD3RAydU7Sk04XcZeAqt6Wdl3BWrgieP8rii0fcsY-q8iF7R1rq0A87ilVOR0Lo-vKe-vJvN1RYzcmCb-iHxa

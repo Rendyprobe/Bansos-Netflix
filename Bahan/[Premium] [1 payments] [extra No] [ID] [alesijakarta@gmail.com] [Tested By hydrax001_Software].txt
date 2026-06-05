@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: alesijakarta
+– Email: alesijakarta@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: septembre 2025
+– Next Billing: 2026-06-10
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +628814076728
+– Quality: UHD
+– Streams: 4
+– Price: 186 000 IDR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: alesijakarta
+– User GUID: LDF7XQ3OXRDDVPEGS6N5SZ5B4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805791620	nfvdid	BQFmAAEBEDwz_KRxjZUOImyzBldIcClgUnGvV2pbnVEyQvV53tg6Wfw6mJJQANRLJn-WdiXub8Thr8_3H1Il3c0hx8rcRzFREW1uKWoJkdQg6EKw7hdVbmfNEsIIIAz_jVvod1QKqumkxyQZndmaVS7gzJYPNFcf
+.netflix.com	TRUE	/	TRUE	1806022575	NetflixId	ct%3DBgjHlOvcAxL5A1K5vCyVJ0lpNNIxGIjKFFkUJp5V8Q9Nvn5OJyiK2x5uaIS7WzaInqt4oKKRguWhiAtEM30UkoUUC6iRG0NKB3gCuAxr4_lP5sPZneG0wy_sjtTxkoVQv3N06SV7316SBth2dBc7rS5oQGZlvJBtuVclwXOxplKwQQzvZBmXfaY0uk3WquRnObEuLxncqs6e-diUOG7ExFL0OQnfldWzqsky9MPGxFfrmpMbbwAN5ah1M45VGos-_jxv3K7ARiG6s1BNJj6FfSzKCRKkDwZ7Fb3Z-OgY9zo9vv3Zz_R0ukaTfA4sNNJ_IumQgViIpWFe4-ETqncTRu9e616OjTOImVhwI6VR65NcnvlLR3x4lG2LvfpRJx4Zd0A8eF7xwuLHy1plS84sM4gdGQ8r_3-HFPdtbh32X46-8j1gUCv4wI724NT1wgpROo01dGyJpHB7PbVAI7c4p8LLwkUGU8FdGxcYJ4KQ3gov6OzJmQW4yTum40SiXXaxd9QWuBu-3XhcK_E3CcInUJgklaRh52r3Y7mmPT5sgrvzW4pxbQtIokfy44YKGi9e990G4J_x8HfTPT7rgpe89zJmu1euvtu9Rww_m3h-ia62Mw_1qxHS4V4oghJ8M1KTcCxgpyCgkeHDy_ddKVDYpqq5rgQR6xY7-EAwOgd-sydQKLYYBiIOCgyYHCCnzXRB4ac-TrM.%26ch%3DAQEAEAABABQ5l1bfCGjYOkHC5LzYDA5biF6TtGTVFUg.%26v%3D3%26pg%3DLDF7XQ3OXRDDVPEGS6N5SZ5B4E
+.netflix.com	TRUE	/	FALSE	1806022577	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+07%3A56%3A17+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=62d6f4c2-c38c-4db0-8fec-aecc47b32f7e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774255620691&AwaitingReconsent=false&prevHadToken=0

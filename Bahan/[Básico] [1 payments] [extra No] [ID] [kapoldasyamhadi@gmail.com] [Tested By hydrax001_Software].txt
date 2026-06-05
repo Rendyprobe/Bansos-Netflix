@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kapoldasyamhadi
+– Email: kapoldasyamhadi@gmail.com
+– Country: ID
+– Plan: Básico
+– Member Since: mayo de 2026
+– Next Billing: 2026-06-25
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6282379621999
+– Quality: HD720p
+– Streams: 1
+– Price: 65.000 IDR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kapoldasyamhadi
+– User GUID: J6LM552LYVBSHKRY2PPKGPP4MU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799388263	nfvdid	BQFmAAEBEBTnYM5ZZyI-J2gcXjXPiSdgKFMvgHJbXaGMng8fH-Eoo4rZkodPd0AKfyEwe2vIEzBPZ1uZhH8orGDZKn78tQRkAz9gL6YAwyLbHxNOcpbppjBGn3Ypu0ZrjCuR9NXPtjKuOqbHTKiDgmsmmWlxqm4l
+.netflix.com	TRUE	/	TRUE	1802424818	NetflixId	ct%3DBgjHlOvcAxKlA_f25oKcnGpLKiErefSA16M8XH23YbfjhsxJFSCa0Eguq0wRfSoqq6_7ikq1AbS2SwxRvaqNAYXz2nxmGy8hkst2zlXHrzSrwLu15oqpq-lhTcR6gB0vuRCeMihpK8jyDKysGBsrtcLJUZLxxhvP_A7sGVQa5IWFM_sqi_eQd1H8rR4uJkGEAHj5DG_-j4vjYdq0eOzFQKJnGiTLj3QRkGpQx_duyVBHY57035uXk-MZNdBsawZGQdb8FjqDLkImD8PNz51o2A1Sj3WUtIq3CuxOM2DD7vuyDCIxaPG8iQmxryD6nLCW9iszcHwptTsetQkkW7VCT2fumnUGFKXmtLZwLtD5eGhDHdeL5sAkrITPmN2mmUT29OP5xjMXdupyjW2hNprKNbitrTO2QhypxzFSl9o98rLEDu4XRO4e_-SEc4_6FiZPkjsxVb1BCvyb2RGN3Ltg02lDT_8ONWg6Cn-KubTfY7d8N_qTEd5JExii8Z-BnixRf9rThkEY3WITgkIxuZzEvD1GvvmKMl-7p44YqIm_kb1Wt_FNvALtgFivH9kHKMEYBiIOCgzZGPC0UJoiTEMztjg.%26ch%3DAQEAEAABABQ1EEXoRVV_e599mf90RpqIW6YJjuwsZOw.%26v%3D3%26pg%3DJ6LM552LYVBSHKRY2PPKGPP4MU
+.netflix.com	TRUE	/	FALSE	1802424817	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+01%3A33%3A37+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0ad98593-e600-4387-9190-c2608bf41b20&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

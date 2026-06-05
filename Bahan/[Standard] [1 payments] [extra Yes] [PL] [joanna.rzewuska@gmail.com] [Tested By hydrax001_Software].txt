@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rita
+– Email: joanna.rzewuska@gmail.com
+– Country: PL
+– Plan: Standard
+– Member Since: December 2017
+– Next Billing: 2026-07-05
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rodzice
+– User GUID: D45ABCM35RH5ZGTPCU6Q4YKKJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786274582	nfvdid	BQFmAAEBEJp9Vy4AH_2YTs5ojO1UW9NgGDVboglbHZgyH0mwcSQ05Dk_CEXUX1M_zNderJAxUj4I4w5damB1zAN2gEd6wxbjYVHSjyDh9bxplMO1Vds5qdtmaYJ1Wqd5sB6XIttrd-lAmhlkOPCvrUyqcHSxh-QD
+.netflix.com	TRUE	/	TRUE	1803665383	NetflixId	ct%3DBgjHlOvcAxLxA6zk0Dp7q1zBpucb0ByV65zUMr6EncIkBHPEd2noxHcJo7i0WcrrWq_glNrMQAVUm_0lq0Xuv640e_966C00_XHZPqp1_d6dOkOOfO8e0VbMWFL6xIrKY_6lO0CYBki2MSI_UKirdPIlmtGHIYuE6EXcYik8dwI2MB16erXIVDxnQbsT10oU9FscYW_zyOa-DD5HN4-VrZHLzp9qVL4pYYmsvgWlONZeQgrGl8LzO-rU5k_AkjI7UI88D5TyrBIe4cpGchILSGnvQfygWC5ZzMz5aPSysijr0oeef6meR08m8CSdtALzJqVz77vHgVvHZbr0pHU3khaQ_oChS4NjHsNTyeDDilT65BHznqljus5knUly4u9EkZWTBqKtZNKiOL9oIsme6Pd0PBb2sb0B9YCZHy0i7BJDvR4mJFZtQCooedrrHiRrOg9tIbxp0Iw0hfGdeJFBLbd33bcp9MsMSlEXTxoyPzfZCyj7LDJ8Qo0o_oLSuyvwkViQel8X-GsH_u07wF0PKZKfE699ugTKREKQZeJ_oQVSVNriMwgUwCiwh4fVz3jBM4kH2xty9FROqtHZ7tAXrGsRcmc_EyuIJqEZz3DWW7ula0rb7PAZYnBZ8Hm93JTrI43Uaaz6y2FVmOqksVudnFK2dS_n_Late08WGAYiDgoMujSJygUHwHAR5qsD%26ch%3DAQEAEAABABQQ4__Va_jTcGyvB4iVp8liCPlLqQIAW0E.%26v%3D3%26pg%3DD45ABCM35RH5ZGTPCU6Q4YKKJU
+.netflix.com	TRUE	/	FALSE	1803665385	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+19%3A09%3A45+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77755661-5f07-4f00-95f1-56ffba08b4ee&interactionCount=6&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=PL%3B10
+.netflix.com	TRUE	/	TRUE	1803665383	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNQw0gUsY6HOBpVBUcWw6FsSpkyLzuZ08.%26dt%3D1772129385736

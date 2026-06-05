@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adam
+– Email: Amalhmasoud88@gmail.com
+– Country: JO
+– Plan: Premium
+– Member Since: April 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 9546
+– Phone: +962788717609
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adam
+– User GUID: F4JW6R6NS5BRNH4PGTGNZVKKPA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798289916	nfvdid	BQFmAAEBENoIZtloWi1UPdEVRnnD_algCw3fKxsTPuBaLdAY-vBA9xv5-5mI_pIP-0I0mCzvGUk8WsdnQM86F1WY8mWkTEzKPasRUixA1ZB70vG9PecJsh2wWnCO5nVkkEf25VX91vyioPDeByhAOYYUteCiqkyB
+.netflix.com	TRUE	/	TRUE	1808051293	NetflixId	ct%3DBgjHlOvcAxKyAwW6XMCRfvxi1wjzRe23jZwmIprfGO9CbC-xC35Ys2xbVEliLlsbDCjf1yTtZaCczZPq89YcfvZtBIJh1vzvHbEJOdvPJG0699kanut-wQhkr82QzA_Q0KTJMlCz25qfCecHxTOLVHLGj6HQi-hwuCmXbwE3NGvPnq0qiJKScQVcyTT44v_gjkfIroO--CJDE0yinZI0_FGVqN41ldYX1kSj5Io1lSAgBWMHetqXBDldKm36dAmTx2RReKEF17ubV0uTeP0HsoYsg5fG4CAchdsLQOLRouQxFaitMBNKJHT9z2sK1ErItfQDDZDK56fW9LGdJC-w81i9tMTfMsqmoxWgudZScTBgbfI3djnX-P429sefEP0KT5ZbpryUvWGIY6Hj-Ed8PzqjhoFK9yuleU2_phwvocsXHI5jsy4W6WOWdkKPtxTZI1FQh4wVZLnDisxG16vGTlJofFOjwxrCo07Evv2k7nVCjqcIFUitAwwhRB3-5cZkeNdOMFORv5HG58SyWVhl1lor_BBjgmfRIHVoZaB4guS5_c3cCcEfekEsBoIOHcfBKHfy1gPIipGG9JHoGAYiDgoMMEg4VtMt4KxIieee%26ch%3DAQEAEAABABTd6yny3fyqYAEu1jFjBf0tn0GAKPxSXfY.%26v%3D3%26pg%3DF4JW6R6NS5BRNH4PGTGNZVKKPA
+.netflix.com	TRUE	/	TRUE	1808051293	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJ8jM5htWhJ6EzixjQssfeRqwiUhhFYpo.%26dt%3D1776515294405
+.netflix.com	TRUE	/	FALSE	1808066353	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+19%3A39%3A13+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d45942bf-e3c1-4ce2-9a09-aed01a480705&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

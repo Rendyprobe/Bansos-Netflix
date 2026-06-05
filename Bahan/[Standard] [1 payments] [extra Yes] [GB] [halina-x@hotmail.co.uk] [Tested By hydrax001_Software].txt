@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mummy
+– Email: halina-x@hotmail.co.uk
+– Country: GB
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 5406
+– Phone: +447784647622
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nadeem
+– User GUID: FXINCU3YJVEU3NWNL4L2UU5AIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808362400	nfvdid	BQFmAAEBEMKs2NhT6mnKk2Egyy1v0wpgDlYu9X7l0YyvNIxNNRvx3Y1Ow3dTHLiXOnGnAl5tI0V4WQO6rG1sl9WkGcGrbhkdcj5EWdckRAsA9F5v6hF6PbO6zzAdIR9PJyX5nOknKluFQ-M2OUTlYJQvQUt_kgYu
+.netflix.com	TRUE	/	TRUE	1809554258	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA9YUqrdN20ijP05pzjH6CEhr39lUGALa_ns94oFQM7MLNaWq5lZCkcXZ12hpph1ZNq9DcOCU_bxckoVneAugHTotdCrKdHfSDrcI5Z7ed4C1KgKur_rIWTnNBPP3IGoIquZGeL4I7MIxHQX8SlHjDEliGq_prQMDkxZylBZtL92U752vsAJhjaADniZFG8a6EsZ3iAME9pSeetK1iURfXKFERd1KgG7Blmd80BsH2UYppOHoCpBqOeh9LKiKwW4Vse1yE8aZPpBOr1gVb0U-WlUSsNbsmkl4tvWlecYw7MCv_sugqMNFql-XwgvJLQMD3lVZdODafT-lIMCVGsWj74a3jpMV5_YfjQmCN52KDioIZH1zxE4Nuwf4tyvjXEbmhhyMSVEIzp91MgA5mhj1NuXMdjB0yVGXmYswnkIIigFpDwSU2zJ2RtGoTFeMiEMttbB-Ii76nR-2XuuMasND846759Ftpdfv8OpfnPYdOEGPZFUEpjpHWuxZPkI-8wPYNDHX4aqCc33jefkWP7BEUR-fBBXVNdZsl6EYBiIOCgwIaIvNkm3_WIy0d70.%26pg%3DFXINCU3YJVEU3NWNL4L2UU5AIE%26ch%3DAQEAEAABABSGe2QMmpFk6wyaXOg_6uP2LErXGyZsWac.
+.netflix.com	TRUE	/	TRUE	1809554258	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQMWJztfJtiVU2ai2aHqgIIk2BnLVzb0Ck.%26dt%3D1778018266490
+.netflix.com	TRUE	/	FALSE	1809576086	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+05%3A01%3A26+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=62059d18-3501-4dff-9f3a-b36d2ccd6e6f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1776550664369&geolocation=GB%3BENG&AwaitingReconsent=false&isDntEnabled=0

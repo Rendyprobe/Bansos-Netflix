@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shubhankar sikdar
+– Email: ssikdar5@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: November 2019
+– Next Billing: 2026-06-15
+– Payment: UPI
+– Card: N/A
+– Phone: +918017516962
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shubhankar
+– User GUID: COZSP3WOLBAX3PACQQWDMCAK4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809703509	nfvdid	BQFmAAEBEKW8DD1zCN3gCfocObEa8XFg5BOCTE49GIRXM6k-4-DzOXHx3ed3abMOuVu40kwOjQJg6DrATaL7_qiZFRa8NXWtYEPODrZ7XRgOxrO86LDGBgBINbzUs-5bMp2iDeguyFAgu7mVNNrC_LQUmVdGZzwh
+.netflix.com	TRUE	/	FALSE	1809703697	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+20%3A58%3A17+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=811c21d3-d35d-4c9d-bdb8-69f984356fd2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778167031841&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809703696	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_AOj_UYl9A6O97ukDa9eFZdTAtD5eg5U.%26dt%3D1778167696330
+.netflix.com	TRUE	/	TRUE	1809703696	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA9z3_uIsLJWVO__nVVETcqGhIXKwdcZudp05EiKKtyR4v13_DGIIfXSnvyflyXZa_7tsAq8KUTeAxIz7GhB_53lLpxcP2NewnZFfZ93CjRv6MXOiV8waNOW75qh_W4Gwp3l4kmGoYh0N-xgqz1jY6btKAASOnG8iWMaxXuipLuiH4neuDBGtDnFbLc2ZFeFfyD4RwbgkLn8k6x2utesYKo9EQHUJGcc0CPB1OW-BbQNp3rGi7Z95wy6s9mGpnVzrbJY1IAZ8psc2XARlQnGZA8hOl6g6jXdyhWzXsnSMmRlM8OFMgkYtqCbWSgQjhdPMJkVTkHj1_0JaBKbcHNkTeGjnanUzdrpLrMOsocFYvulLfFFhME_HHlTQQ0Qe1_yxc6d6MnZ53VZSOCu4ya4gdrTLIibtzwRUX_Rmb2jx-qcGWJnyUZbFNGYFUGb0UKLoFaqaaD56kxPZh43-MKWXDQctq0wBGsZ5pTuk-cRrd65z5dmYrkYwqsnRFYCLC3aTV0fVYadBoHDSWCyLpoNrGhKGhUaGR7fvXFGCGfcHUf1Fn-oYBiIOCgzpS_JKN9YiUMe8K6Y.%26pg%3DCOZSP3WOLBAX3PACQQWDMCAK4I%26ch%3DAQEAEAABABT1MMqF_9Zd0c3YXK3fo5mpqZ4MNykMleo.

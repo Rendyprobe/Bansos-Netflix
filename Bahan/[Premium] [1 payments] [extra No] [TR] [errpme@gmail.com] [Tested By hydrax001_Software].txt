@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: emre can
+– Email: errpme@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Nisan 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1019
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: emre can
+– User GUID: PABADUKJ6FCTFDRHE54TU6W6Z4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806355034	nfvdid	BQFmAAEBEM-tvEZB_St5Ovsl7nEIcf5gpArkRThg_vRYp2qYCGIjpbV6SfBOjXf9cDSk0sV4LIASngDXyOeItnp_9eqZMLcQBVxwSU3-0kjtxNMdlIWhDoR7mP5I_VOQQIsEab9GL4M87O50zF9wsH-ptRqjg3aj
+.netflix.com	TRUE	/	TRUE	1810830675	NetflixId	ct%3DBgjHlOvcAxLQA5K8ycVJX2bJE7MMMHYg3Jo-bgQaZTNN8SlvZyjtKDpudIZK-Rj3gr8wLPdb_TgGh3pzp7hzaF3PviyHsfwEKcpcu-cMlOLoJRzYXwrlw8PbdqLVpZ2rqQjLzX0AwFl-ykFfCoZnUCLR7trzxdY06n9Jc7DIMmHiMVDUXrLc5zGBTMIfZMwKZr0fg_EwyxAUZCy3VvYMyy6iFqTs786_PM3O8eCvDTxzUNjqnbQtrtZroyPwaMMlC_nnoZN8mqT1SjC8Pqa20OeUTvioSciKF0Vbx5-UDzv9ApEAlmuMCq4-W7_q4OtjnNM5rPOwN05I3yb6ByQN8SHihdp3pfX9NZCgwJjg8h7cnRygx_Y88JRS1akdpvWXhEXaK_42YtCUNWwFioRTjWsBvDhyxLJn3payc2I7zXnFkzj1rzGbi-K6iXVKLnLOMJUlrLzh0YBUWGuabZbD1DE7d4ujVY__Bathn0Gmr-DlkttyXldgYrBEu5-YymNGwNBHID7RlNu9W06rOqS2qBMfF-6oyWXxzJlui1iYl_JerWMQszxeoIVWZlFmjka1phU3Qhjgvwo8ZeV_Ct62cz9wbebT_QEzX0rURh8QNLC0RoVCb-YC60lCGAYiDgoM5IMxwlUesDO346Ao%26ch%3DAQEAEAABABRT4LvqW6IIbOgfF_MsDpW3OrGtKFbQTZI.%26v%3D3%26pg%3DPABADUKJ6FCTFDRHE54TU6W6Z4
+.netflix.com	TRUE	/	FALSE	1810832477	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+20%3A01%3A17+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5dc50751-0557-4c75-8fdb-eac49959977e&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1774818847684&intType=3&geolocation=TR%3B06&isDntEnabled=0

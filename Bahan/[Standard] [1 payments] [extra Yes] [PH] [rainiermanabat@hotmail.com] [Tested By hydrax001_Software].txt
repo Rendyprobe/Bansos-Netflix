@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: cess
+– Email: rainiermanabat@hotmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: November 2023
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mama
+– User GUID: HORZHJHFRZH6PNPKIYIMXACVMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781445299	nfvdid	BQFmAAEBEBwO387Ga8P1C0CNj3OlcWtgH-pbtpOGkqbCm-g17Bv35mzXHujLGybN9WI0quO_yQHsP0JE2bpZ06jbiIn-6jlMDh9jnSe7kKX4Ex_XeHLZ3-4CWf21MIsOIQkqvB1aRHvkBTwxYpNShB9AXV5ki2qo
+.netflix.com	TRUE	/	FALSE	1781445299	NetflixId	ct%3DBgjHlOvcAxKuA9OJq9FENq2AK9iYRCwARxYEhR7g4qaQXemg4YD7b5mqaKuvELR0Xn1JC--aue6HhQHzYE1wHuZPYL_JNdpwqgYo8GHyreSegxchB-BSL6XR1vTt9wb94ZsEcs_9M4rh-3lhjZACH65eAKZnGUWFzKRClLCmeLWrRk3WdKeyNHPuKhXF2trU0F0QdDFfOdpnhwGgMBWySTlSFkjvDo4_Hz3Q3DkaicpeJ-vXOoG3xqV24ha69YD3DppRmVAxGtacCfe9rsdG4-oM1IVVKO6rgCcUJoCPVD2x1wmnZipYyRBR0eveYjtnpz2Dmtl3TFl9ArGjOLXHpJceJp7N16EzYNJLSJtgwbstX5_EIgNwcwBn7j-pY0XHBqoJJjhF79cq56m8oakvYgtC0cCiW3FMHdsDDRgPhGEzMjQhnlZDuFOh8HD5ZLDk37iXfwDXrTQuk0BN7ZZZddQjqiNvQlb4hcq_s5z1T1RKXE3hsG0mAZSLjFXNVJYwxBKjKh9evPFko-T4AxKbuzpfzu90euIUWl0adTTd7KEEnRVe-uIZ1BrVgCfqakztO-34ES_oyjwYBiIOCgxShyJC3XbxPKA-hd4.%26ch%3DAQEAEAABABR4SFfxHliZYHYkrvxoNhDlN-2kPOCxtNU.%26v%3D3%26pg%3DHORZHJHFRZH6PNPKIYIMXACVMU
+.netflix.com	TRUE	/	FALSE	1781445299	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+12%3A32%3A53+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6cc28223-615e-4338-bb17-b3145f6ed86c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1781445299	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDsEfbpDmPygjfoA6ImkZwKroX2PJr7TU.%26dt%3D1777696371524

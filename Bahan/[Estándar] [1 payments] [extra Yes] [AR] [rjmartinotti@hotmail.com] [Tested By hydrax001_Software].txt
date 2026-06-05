@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: santi
+– Email: rjmartinotti@hotmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: agosto de 2016
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 3097
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tito
+– User GUID: XBFXQMYKR5DPFLJU62NWTN4NMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783021091	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3Agtw-HlWVu8KRiCZRvNy1dkgX_TynMCjnuLenwx3wY-lkCyQ-WjwTDrs9dE6odys4tKVGYIJuEZmxgFV2K_rh8UNCK8zZoUu_M9FFauVPjwuZb1Wsjxr2NGukElyCAjh-wcHXD12rmnZrsbxVEDmutg-wCMlGBcKjoAjXGyi5x5xrd-3u4V8tzToMX3uhL5ox9DM7tZsYuf8BrJlombr-8Bui4Fqi2UUQZfz-rayIpcN_yyHwXCz3P4xBFvkza0qFuPOXTtBIWedj1vDBZf0pxnaZ655GLiTaSLlA5xmHNCVsO6BqxCxRvmhNhyBwUfXOANLeVR5rEOhddVxnU83tUwcttVgI-tDaVyDBRjFSJJLiKXCk3IE1lvQX_AOvh24xLz7SYY2uWvZxls9YOAOkONQ9pwyxLTd-6ZK0DfGAJwLpffJLObXNpFY8K-FKywFiIoz2rsafOl5Lp9VIe8aBOhDk1CSR8MzBWBWnlnPJECl6aseEgSElhgGIg4KDFi2pLnY5xsN5CEUtQ..%26pg%3DXBFXQMYKR5DPFLJU62NWTN4NMY%26ch%3DAQEAEAABABSPMpQv7ZAsjuWD9ebsD-PmnuTzd1hqosI.
+.netflix.com	TRUE	/	FALSE	1783021086	nfvdid	BQFmAAEBEEJSYiM4iSMcfB3753ydOeZghqau_HQoC8MnAUxWw6MdrA17w5WsZMqdxLINeqtb1Z08jXxoNZAhzsyhMnCO_YfeZpKRsdhn1U6en8tis8tQ_t2MkOKKJ4UF-ZhQf8yk2OXBjTRUQyE4FBN7bOpwtcQI
+.netflix.com	TRUE	/	FALSE	1783041385	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+02+2025+22%3A16%3A25+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf4926fe-72ab-4f4a-9d29-2f6f1cd9b252&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

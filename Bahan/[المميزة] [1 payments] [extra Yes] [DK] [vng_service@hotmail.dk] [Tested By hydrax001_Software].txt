@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mor
+– Email: vng_service@hotmail.dk
+– Country: DK
+– Plan: المميزة
+– Member Since: ديسمبر 2019
+– Next Billing: N/A
+– Payment: TELMORE_BILLED
+– Card: 3674
+– Phone: +4531322260
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FAR
+– User GUID: X2HOWWYQHRDXPOMQPEOMQ6WYPY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800902678	nfvdid	BQFmAAEBEGBjEwAdlFCpmcqmr5c6ESVgj4XaMP03LYWALL1wGbYjA0sUgxXz1TxbwI-aH9Y9HSPtuskizRrJsMoSq8nw_kaeYCpzcBGjEiOA-l5kJ9L2pS_AaFoBsgQX3ECNAp8FnxgBJr19oDt1xZoG_NvcMU_B
+.netflix.com	TRUE	/	TRUE	1808405138	NetflixId	ct%3DBgjHlOvcAxL7A0g7AlTbXFu2OJLl2jM9ZvrAFno8d0pgsC9iUJ6nKXVCLIIPi1CEW9mkqmc_-g22dCbfFFhcWYHzYd0dvLyWfuyaRJHg47-QoPmsJJ3p86ayaEJzNnuGPdJFC69NDBg6dcp_xJEM5VikrkVL0QaoYKExIP8L0eyyMJ6A3KjUFhN52iZ7s0GqH_poJE9WIoPx-6ZCoqAZDiNxWZs9ZLad54XHcnMgCxD_-vd-Bt9VbmDWAQY3ItdCSeDmm98vjkYF8g1VZZFWK2RiX_0FmSrqShlJrMXvyla5gDOpxO0o6q9i3hoSTW3p7UA2FbEiTKEczWx-lKfH70w3xcpuRtoneOdLCh4Vc_DWw_dJCg6CB4QNKHo6VaKF9tM4-r_A9Z7RxHdu-sS9mNYNR9Wj4xdOEmiiTkILh3lNoU4cDk-jBdyPT3tF8GesCvQhYy3u6oGKHa8K-5JkkwIrxlSabRw3nS6Olt5DK2josxF6C1yNDE_WtRdvysjXqrKvuqs4la2UG0rWTQdCigkJnnuTSJtbUZUDlMEZ4Yo6vVxhuGGPjEJKa-lPXRrLW5mRrH581tPPRY1RF_frB50zHuLi-k7SLqS1I845bvYGrKkjtKDVV01qt83xTJafvEBoKTyAObI3D-XObifYQrGHvzcXsH2HPaC53nwq6NU4zHFgiRgGIg4KDL9Bx85UxwesMt9bbQ..%26ch%3DAQEAEAABABQLx_jFTW61bslyaoXe-i1qtTAZk_oX088.%26v%3D3%26pg%3DX2HOWWYQHRDXPOMQPEOMQ6WYPY
+.netflix.com	TRUE	/	FALSE	1808405139	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+16%3A45%3A39+GMT%2B0200+(Centraleurop%C3%A6isk+sommertid)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75d86cf8-af2e-407e-9850-ff2052e5e7a5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769366622821&geolocation=DK%3B82&prevHadToken=0

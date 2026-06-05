@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: m
+– Email: meliksahozyilmaz@gmail.com
+– Country: TR
+– Plan: Basic
+– Member Since: May 2024
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 2709
+– Phone: +905510898220
+– Quality: HD720p
+– Streams: 1
+– Price: 189.99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hatun Bayan
+– User GUID: MM2TCWDHRRAS7C54FXU3NBFN3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801580902	NetflixId	ct%3DBgjHlOvcAxKSA9GkwBRpKwyGiguVzkrtlwwUcV2WeVth0iKv0xtFBzsNvdxGaeJ23aApN3ToqIgJm2gkWzFzuW9oLhYxWpAkJzhGmvyPOzFSWBUKE1OjCisPFp44PZtwxI1PMz7SCnLDpedEqkpQ6Ddf_pe9Nz_D-R9sGVKoNOR4FT2BkhYVP75BU7gTd6F-dq0TEccNQg1pH78efssm3witsgFxS22ctFyszIodheTbKMTGLveZBWhdH5Fm5luV5hDZ2NZleStmhbs_ZuN5Iv0waAvD_tKuOG6J-I8tCteWq4UEG5XA_YCl5wRfm5orJm15RFS0OQOOHi0To5iLq-LKyQqBkezW6Qmigei2KCFZtwGFrXMOqNe8DYQNZF96SE8Ovw-CGBtt8pUa-hwCs1D4TSY_YXcMNaHXxLtT6-SDw7orNWslz5T0gmV8tCbVAnePHkbOyINdcQ-b8u0u4EFyreQFF1QRhG1Cayi3z6VKOtmnVPr66FsCiC99EK0EKUVoznU-CMQi4tqxYGxBmX-NqeCcB3bLPNlUiRgGIg4KDIkEZBkSRvf-H62J5g..%26ch%3DAQEAEAABABT-DH3_kRoK5-sxvplLToHfOw6MTUNElvY.%26v%3D3%26pg%3DMM2TCWDHRRAS7C54FXU3NBFN3A
+.netflix.com	TRUE	/	FALSE	1798896765	nfvdid	BQFmAAEBED5w8FI1dOr1Z1ht4luR32tgdKNGrIykzihUbArN7rC5RjtFCe9Kj0qZlSkSC4OCoViEpLj0_7J9g3dleBe7kIqMcZf0SXIeTnFA528HfuTR5vllEpQOVvXZOFDxaFU9oE-FGq-bPuKspRU5pYa5OC5A
+.netflix.com	TRUE	/	FALSE	1801580908	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+18%3A08%3A28+GMT%2B0300+(Moskova+Standart+Saati)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5cbeaa9d-3908-4865-9d20-ad04ed704415&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=TR%3B52
+.netflix.com	TRUE	/	TRUE	1801580902	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgA8Um31IqEkcJLiKF5bTiEOtVWwMdEy8.%26dt%3D1770044979745

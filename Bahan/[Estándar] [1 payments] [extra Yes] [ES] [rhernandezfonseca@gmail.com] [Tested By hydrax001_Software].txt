@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ROBERTO HERNANDEZ FONSECA
+– Email: rhernandezfonseca@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: noviembre de 2024
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 1019
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ROBERTO HERNANDEZ FONSECA
+– User GUID: 6PR7GUI7ORFRVPSQX5RXL7XVL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781028110	nfvdid	BQFmAAEBENXbP8RvW6ACHcGLiZMfqU5gBxDhIKHpAQbPHmwEIqUj-OvWa1Ud37qc8Hs6dq0hbAo5nNxhVq9k0HAvgakuXK1pmqRg_ejSzgCdIa0lQNopfIbs9A9ieJinvHrTnsjlwhUBdVKFC1TWAxej1NhFAYr2
+.netflix.com	TRUE	/	TRUE	1805297735	NetflixId	ct%3DBgjHlOvcAxKTBFa_gjsPmtj1AVb2fFdeuHOXNGv4WLWWsl651VXZqL_JawwSTreplTxNKx09kkErcxFSh3XFs52VWl2CrlzLI8-m8yV1s4NjDYK3vq8o3G2GARY9iw2qO9YCWGPRP73ydgLt94MIdwiWSFI0zh-5slkJo2J0YA5v47u5qrEqT3LlqPvjQN2aLB0XjaAjFGwgUZJfTDm7VYnyOjlqkm5pnkpbIjJfoX-tELDQ3v89pv6o48kgu-iITVxk65r-6jZseQaaD88DhC9J9eKYHJ_z_J3IeeH8HfxFGNh0CEff6FVf7N4PcHxgsIctDBWbyb3Z-17JDga2HNzWkfZAGy3BiCZkxj_bg-NWY8AJLBJYuygl0aKo0DgrHY7rMEDg6ydtwlvRLvnzBxJgzgDWFgnq30_ohYYThxV4pU-Jl9Vwpx1f45G0NjSpaLm_-D_P4aXPSQTGYr8WOBKpnhiaRJ6p7iHfcnK31JM7EK-V_SGJ-rBGlb0QOCDVGLw0g4CbeicE_X1-j2cgNhNuFSW54R4LyC3qPao53NFhNBywbXNMBzgtBV4KqhqhfdZAGAn54CPo_pPh93lR6mXC9g6k-YJcnWPz1M5CYFqc-7ArRclqYROnARVwst2JmXX0qEVHQYKdYw2I5-MA-qWvEYEiLp5SomyAdBuRJ8-Pyz7Xg_Rvq20f5RdGdJm_RSSusLUcLiGlgMD6uRgGIg4KDJXp4_UYKlbLlN54XQ..%26ch%3DAQEAEAABABSPuwHEEMFd2n_Pfq01E2DqcKX6YO6A6YY.%26v%3D3%26pg%3D6PR7GUI7ORFRVPSQX5RXL7XVL4
+.netflix.com	TRUE	/	FALSE	1805297737	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+16%3A35%3A37+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06c35567-c6f0-4528-8ffe-b2808d35a3cb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BGA&AwaitingReconsent=false

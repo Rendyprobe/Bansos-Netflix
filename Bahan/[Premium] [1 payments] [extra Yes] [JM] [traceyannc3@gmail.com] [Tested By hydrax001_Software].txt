@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tracey-Ann
+– Email: traceyannc3@gmail.com
+– Country: JM
+– Plan: Premium
+– Member Since: May 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0021
+– Phone: +18768927695
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tracey-Ann
+– User GUID: CRR7COFA7FHV3NNUUPYPLF3JBM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEL-f2TG8YWUY4Dkh9W6Fia5g6lG65Ibzbd10brVwHIeYJ5jhh6D5ErF62YuFF1jzwdpYwYOmmf07OZaiYFgfX141yCxBt_dYQOom59YO0AVzAwDiogeHFYk6xZgZCwmAuZBihloGolcwFHC3BIePCXpS
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxKPBF7_LComq2EkC2uNk9UW-E8SpisXa-nhZnWthrPYQGLGCb6GYOELBzM_IYf7bBO5S0R_sZivjU_84LXES-BjdaIPKdu9d1FtksTvr6mTRnhEJ-HBCi8vMcbBi4xTFqh5NSKYo92r_pgpTl4sFJsbGioOpGZNVq30DGJTlspk2kAr3FUDXEcb-U770BJTQHbie7bPNbfhrMrye-xrqLnDEepC3YNUsqBVsK3i1JgXShZTV09zqNpZhvnLB4TRCJD0c_J4QIuQXkzXncKdd_TvzJxuLXX2RrnXQ5KnOaQ2s8eL2LzmaqDuHbaK5AMFn2OVvvLl1fYXqhmbD8aTWZVQFp3GEZbVqk2iElOoJZv_9wkowbm31n4-p58fl-3HSicmJmJQDvink4H8GU3wj1TLasuHCr-WOF7kp_47EDWgpjVfImYexsxemKwna3sDC70OgsUj6qqaMCpea1Mnz00vU0WhNi2KU-azWHd8ckP8rabSuTw6wqFQv4JoHDcTUwkKu6MCI4TtL0WwQNSMq7IFli0zeFsfRXYGby5-dXZZTfo3qSMI8FF-unmTwlH4FYQm1O7KC_0y78gS_b_RJJ8deyZ0qhfVZvFOj8qd0INHq62El77e_fZCUOz4Sha0oSR5H38rFX6pktnh4rt06HuMseZ8Kl8hneR3RXFPQEYcCQ2bkvL07-Z537j6Vnm3KtmaGAYiDgoMc6warlZ-6zdgITLO%26ch%3DAQEAEAABABQH_X4GtVCoFCnr6WyQIt207m86t_pIR4g.%26v%3D3%26pg%3DCRR7COFA7FHV3NNUUPYPLF3JBM
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+13%3A25%3A18+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=438d1024-daf4-4d03-bc6d-ff4daacec226&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABToVb9KuoDjpdQtiLXA-seZF3XyJ6Vzhgk.%26dt%3D1776882311820

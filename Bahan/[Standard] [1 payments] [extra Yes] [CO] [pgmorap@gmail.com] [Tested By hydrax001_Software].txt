@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mathi
+– Email: pgmorap@gmail.com
+– Country: CO
+– Plan: Standard
+– Member Since: May 2017
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5325
+– Phone: +573103051725
+– Quality: HD
+– Streams: 2
+– Price: COP 29,900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Giova
+– User GUID: NIS7RQCIX5GM7OCQBTDLNXSWV4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792793512	nfvdid	BQFmAAEBENCfoDIpS65Q-qtG_bltXahgTdi0vswv0jmtwiqZyuE79e5m-m0E0wP0OMKUGMJdgA0-57JQ9LTHZq3U04Wg3Ud731wY-Br2rC9BqLsGneyuouuzBns0BRBsrYWbLF-7s4qILXO01T0L5kH6pvXr9nIU
+.netflix.com	TRUE	/	TRUE	1808533636	NetflixId	ct%3DBgjHlOvcAxKDBOmDToon0IIy_OBvbSHDoex0wBkYbsi4R4dHsz_uzTbj23ZIxSEeVBRoKiaiHNvRXLkQwbhJ7puydRCax0-9s6OxYewA1QjYbpByPXHDcTuGrDqpwCbwDpxOjG4TWmxQojfFeF8lh15BHAccheAJ6PsGRIPoiK9jvouEJxPYmcQe7F1e6UAPh6RgwMCOuweftSWAovPCadQvKTY4vQdZ0iN21qt_T6rCA4F0PH-FtySVW41k1caXBlV4JsuioM8G8DNjR6x4uBa1DzRHpOObhYBUYqaVT2W0_ShSf-lH27PAJIJ6LABlWh92qeYau_lG1imRMN2zQBvb0FxKy8D4Ulw-OZL7YtwEOJ6z46jIFkcRVbQCPC9ped__qHmVkPCshCnxjS-V_SYQCinbr0cgyoP4M6JAay4fb1S8NCqBkLYP9_xBjYGNvQOua84l-F6KAzfMUWXFR9lbR_maLLuD2lxaAOzdjjIcfc1A0QJ_q4YgqEZLlbLBPfIH7OcktXzDOWf6d5RZOKrLcT6nuc8dNBiEOuvQB7GrrlCmTRyH52Sphs8QGLON5Be5q0N_wJWB2Ca1bo4IwxYooBv7Smj2PTnWj0NoX6bxeF8sENQfo_2luHluW0VOR984cbx3j4Xh_tJoyOi9dOv3ra6p2BKbuaZGV3x5hgDklK8dFI0IGOf-ICGJGAYiDgoMVZpBPap6yd9DpAnp%26ch%3DAQEAEAABABQDrhfPmB9CZZ3LHu0RZ3xbYMNwLjf9U68.%26v%3D3%26pg%3DNIS7RQCIX5GM7OCQBTDLNXSWV4
+.netflix.com	TRUE	/	FALSE	1808533639	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+21%3A27%3A19+GMT-0500+(Colombia+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f453544d-7072-4b78-969d-4cf368471dfa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

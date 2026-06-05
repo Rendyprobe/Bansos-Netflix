@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bugi
+– Email: maja.wisniewska8@spoko.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: luty 2026
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 0034
+– Phone: +48696880764
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maja
+– User GUID: FKVDLJAFGNCSNKLCZRAY27EBJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786220482	nfvdid	BQFmAAEBEKeesuwoZ9EQfzQKFrGy6EZg7enQMZQ2RYFqx9WwJKCIANPhFR-mvvcdVPoMX9EtJgYrG-ALRgEbG1CenuiNeINLNARKVQ86rkGJkrzCW6JLAGwfeMe_RMZ1s80PNqBIiuUBPsQwumtpegzXlQw_nyGl
+.netflix.com	TRUE	/	TRUE	1792866218	NetflixId	ct%3DBgjHlOvcAxLhA46opSKVXZyZkhSpD4OblGv5bg9dXxV0oN2mYAJoAtoy5ahphLTVEVjwGsZZjR2kUICd4DreC3617F9V7T2yIk_XbeUlAWM5Qv1hGpQ9WJTSbVkPZj6jDckVB9aHezUO7aRBrBUcajGk4bNS9l4O1O6oIO8I0JEYURTac-JGxMRwWL8dzTYaPN6r5FwJjTjGH8Xx5OA9n4WCwwBPtB4Nf0VlAnUlkhomGTUc8_ZoN--h9UNLwHGS8eVrMUzIKXHUyaJEHkYAFw8eRR9JwZjbxUXd39nQDIfr1CuJoFh7dOuY_2bf-aRW0hOMjuDY37lMPZJkrcni6rktFXgmlxzbAVkR6kHxvHMiWNRBuwSYSxc2G1wyk3sJhrhlRnMld1Oxr6XwCmAnZ3bXyIqHtQa2g3ps0wyfH0mUmDbw_vTyVs6JDkGvWExlHEmbfBGYG-TPLFV8wwRRhj6FD2C3ukyghNreVSHDyyn5yTN3tLEdD4-HC3-m16cjwfNpVi9oS_K1ODD07IHH6pA0JWeO9Wkhem2bE5ZXVWxTGlfnBqigdBHIeNMz-Gy97FhSG0io1DoMHj7otZ7ZCiUiC9qvn35h_QmXb0Z1_CKTYNv0AXm-GW3_2SkQ1MGeyMRHlQvHTYQZuFQYBiIOCgxm2ouhNH-bsWzEVQM.%26ch%3DAQEAEAABABTQd2f_LYCplBtwNvAE61ksV44-5SCPnyw.%26v%3D3%26pg%3DFKVDLJAFGNCSNKLCZRAY27EBJA
+.netflix.com	TRUE	/	TRUE	1792866218	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJdqdz0k2fkdN1ykwc8eyXTzO_jyWaqXw.%26dt%3D1761330206213
+.netflix.com	TRUE	/	FALSE	1792866259	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+24+2025+20%3A24%3A19+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e48215d3-0ee6-44e4-8ef8-fc74934a73a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B30&AwaitingReconsent=false

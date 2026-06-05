@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CHEF NHEY
+– Email: reinelrazon@yahoo.com
+– Country: AE
+– Plan: Premium
+– Member Since: June 2023
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 3605
+– Phone: +971568385244
+– Quality: UHD
+– Streams: 4
+– Price: AED 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CHEF NHEY
+– User GUID: O5SQLERLCBA3BFQYXZHJYKFI3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782318635	nfvdid	BQFmAAEBEFGYDpSsbgjeKSocLthSc1pgK7DXI5NT01cOBZEiB_3FYSoGm8b3fWS50Y9tSKqCBrU-FSJ0oIgnNBgOVMMDx9MKqpxvZ1DXXRVMWfeLXJiVu9BEfteDgRISb591DKM-ByYOebtn2-4UfCEU0rRPWIyB
+.netflix.com	TRUE	/	TRUE	1809168926	NetflixId	ct%3DBgjHlOvcAxKHBPFNN6lXS3Ol7JF9kGiFrst-kLB4cIvwcEt1sDx72ZM35VImZINMmnrygOHdAdvxNfu_qGA5Mloq6yyukpyd5WAk7jASvVwtFrF3JpD54FRSiQ94_w1nWwqvbkUT6jOLbfiBo4ajJlWUQf0XRpC65HR0e_-gbutV5i9SB2jAp9gczR9BGJmweo-xkotnDbRr0__cZF6msYstRhRQsaCbgGTCT4WsAyFDnBA3nT3RSZHBDJIoawqvAVClbOh2zrdNv3tNeeUxrZqhq7qltbCM8Pv9hmx-wns5dBR7tnGfMaeucjT9L6LCWLOCbEJQhoT_rt9Lz8OpAWly7QLtJNse5FoAubUPp5Qfx4BRmj-NjryLmDzuG-vOpojE5-P5tD7JR32mI9tq03Ud0Isktdo_-ccKmVqBj9LBJAnbBk_jOpurhn40i3e4G5fXIlz_XVGn-TATJmcm29gZxep6vk-eBx9pvYiiGtXBLifsbzLBGgmOZXyAOQidBBdWMG9gL4I7vx34mky1nbImkkfQ1gi1TEDNJeyKBxi0lAHXjLw8DiH5753vz8HRNmum8WDjumAVrtXpmhfcm2mIONVlEmMRbg6jYd6yJ_ugFD_bWrYhts3d1BqFCDGO9zLkVw0EuszJ_lyplgeibCzxAgWerrQW17M_lOXscvxTOPPrgyh-r7LdKo4eY2w73BgGIg4KDPNEpEfqnBXataJD5A..%26ch%3DAQEAEAABABSwo6E9-pmeym3zFX3OFJXBhId6KYkjNCM.%26v%3D3%26pg%3DO5SQLERLCBA3BFQYXZHJYKFI3Y
+.netflix.com	TRUE	/	FALSE	1809168933	OptanonConsent	isIABGlobal=false&datestamp=Fri+May+01+2026+14%3A55%3A33+GMT%2B0400+(Gulf+Standard+Time)&version=202604.1.0&consentId=3210f153-7bb4-493b-9326-c027102452b5&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=AE%3BDU&isAnonUser=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809168926	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXG7HbJ7cWsDMU79-kVJCOBpsckJevD3U.%26dt%3D1777632932751

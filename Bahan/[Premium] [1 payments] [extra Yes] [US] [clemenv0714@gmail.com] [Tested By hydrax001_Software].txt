@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Romer
+– Email: clemenv0714@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: noviembre de 2025
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 9689
+– Phone: +13475706790
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clemex
+– User GUID: K5WPFVCGV5D3NCLL7SUL2K5HDQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807966781	NetflixId	ct%3DBgjHlOvcAxKDBM_ZVnoklRTTLXzcsL5BTfUhW6PxGr7Fh71s1EToEfkN5SbTx1SS102UIBcFgONXlFokX8XoZ_xNqw-IB7NA9TMO00PnwfIgAksivU8Cw1UY-SKegMHZifb8Viy08l4B7mYaH38Zt4-p1rQbazEW5kIE7mgqJsuWmojiWtwbZkMWlssOVjAIlEj9EytXk_qL5MRQsfpX-cqrJREUWc9mZfg5OUwn116B1H_OIcSjhM4xr7xngSpjYoJXhDMLSgJuSS1Cynufzfc4QONreoiUCf1NdlYSU31dWngDHjSX1DUiwv_7GARZoBdogIV43hGuax72ZD0uZ5WgVdXPQh2-WikRsgNlG5VuXKGZwYe6YI9sxXulbSz3CZf-KPdTVj-A1T6yRTowa9_PCsntXg_DtlkAM_eO2nADt4kmcZ1oW00NInwzsRh2_e3ItrxlVWF5_s9m-XMRb2eVE0clnfQHdvn6xSItAtW_28YhswoOUSqK9wGDdJm4JQUpmzshqjLVFbkRD0xCQ3kYBSrp-Tm8NMmcvYw6qT-imqb3FanSBiOomd_K1rUeNkkA5bdxxdUQIJvHV8t15O-0mZYM23eqwUcQQlrW-sgXyosjCcEGC-7ivsIX-qFAacDGMPcmfdnn-Z0uKlJdHQDYewqefQYUBH01QgiquryAmP06dlOzdtbFtFttGAYiDgoMEfQdfuI4VCnOK8Bl%26ch%3DAQEAEAABABT_IzdaZohucxOcx08EcVPEKkBaTNeoWbk.%26v%3D3%26pg%3DK5WPFVCGV5D3NCLL7SUL2K5HDQ
+.netflix.com	TRUE	/	FALSE	1807966781	nfvdid	BQFmAAEBEE-xnBAgbdXYtYl9YpSLOWNgtUSUK8zjRLkcSWRLBxJIE0tS0ZozsBKie_6N_EslLya8fnYv5QtGHHOyE3eosXolmc5B5rsY5_JxshmkhWn_gQfAZBVjZ23Zf9-sMtDGZKXwFrYR5Q7Mqu6OVVhZzf_J
+.netflix.com	TRUE	/	FALSE	1807967107	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+07%3A05%3A07+GMT-0600+(Easter+Island+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b34cfb8-ec0c-4b03-99fa-e848d016d42f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776431107804

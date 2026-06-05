@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Matko
+– Email: juricmatko54@gmail.com
+– Country: HR
+– Plan: Basic
+– Member Since: April 2021
+– Next Billing: N/A
+– Payment: A1_CROATIA_BILLED
+– Card: 8628
+– Phone: +385997334932
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Matko
+– User GUID: 5G42I7Y5P5GPVGD6ZGRBSRNS7Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798732845	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA9prfvqn7Fzyh6x8F7w6hNQxd0iG-LcGwD99btiDMJWjICFoLloFY92s1jhSWVNH_JBVtBaou1oxMeCNYfHYqnZZbgs9PmFq5-70OXFYjhsHFUlW6POlGkuSvjTKQ9LezqTXJ2F_5PezMr8Z4XvyITkFO645gloKwUUlFz4Hkr-Sc1UPJI7jLkBYDe_2oTvuYI6hmvlLj5NQ84-vCw6siX0aFy2TDutLUCorn5Hn2q5iRnm9W7EVYoiKGKCTHT0_NEM0UfghgAdvgXSqbyNf_0OsVr2pcl3B8z_PfCEV_JXMg90QzbY7hg6h_3ZoWupfXgrUGFCIy7xRE6Sbz-UDNKjNQjMdN12UapHGaZL7IlAMacevAIpF_CNdRDwamdSernqdvJtdGRSZY6wG0Nzfv7a73Ls4SpXJjpYftdSaWrpMAkG7yJuTXf23uIhGJfSk8fL_AfdOQegt904qA0xpR4A14BWVN63RQ90NTwo7lmKH4YIT18RmOwUiO_1xdUohjoxRwFO85o4YBiIOCgyOcHiOcCuHdViejLM.%26pg%3D5G42I7Y5P5GPVGD6ZGRBSRNS7Y%26ch%3DAQEAEAABABRUCbme6ydFrY7TWOJp9I-Ujv_fLk0C3Qo.
+.netflix.com	TRUE	/	FALSE	1798732845	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+17%3A00%3A45+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d127313-0816-48a3-ae39-3cbee15cb512&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=HR%3B17&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1798732845	nfvdid	BQFmAAEBEPILputI0gySd2XNU9nQ_fhg9ip95G-MQYto_eQ3boy6Us8rjCWW7M4nvO-q9O58E9-jp_SgAgLuVea1GExRLpwM1shKQtcJqzfydN_OSEwjqHs0WULoCoAZY-sPnk2SJavO6IPPZ_5U5V_7CWuY8J5D

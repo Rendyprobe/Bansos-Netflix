@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: imadchoaibipro@outlook.fr
 – Country: FR
 – Plan: Premium
-– Member Since: avril 2020
+– Member Since: April 2020
 – Next Billing: N/A
 – Payment: FREE_ILIAD_BILLED
 – Card: N/A
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: ひまり
 – User GUID: 6KRGAKSMBFBOLN6YFC2RJWQ2WY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAfbILDoUU2WXPhBdyvbmIL6wdGTON8UVsun9fRmlwzAaFdDO4VgdiAJ6st5F1EzZ8WxcikXC7EWVuqF9OxPD9sTNE7ggvH3G7FQi4oPLSsmGMi9aO0lkfkRQ2w/T8G0koKTXk1kJsfSIvaEpf5QkpGJPWNfCGdS6SNhlcERLeKdi2zExaGyX/OrvwXD82k9o3imu3sJZ+ZPuk5KW53/4ij5zpdeXBXJzJ3A4mhXbnz9eUgDL3NYSWmwK2kvKYcUwvYgsGAYiDgoM4zUeFZmu+cZ3RcM+
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAfbILDoUU2WXPhBdyvbmIL6wdGTON8UVsun9fRmlwzAaFdDO4VgdiAJ6st5F1EzZ8WxcikXC7EWVuqF9OxPD9sTNE7ggvH3G7FQi4oPLSsmGMi9aO0lkfkRQ2w/T8G0koKTXk1kJsfSIvaEpf5QkpGJPWNfCGdS6SNhlcERLeKdi2zExaGyX/OrvwXD82k9o3imu3sJZ+ZPuk5KW53/4ij5zpdeXBXJzJ3A4mhXbnz9eUgDL3NYSWmwK2kvKYcUwvYgsGAYiDgoM4zUeFZmu+cZ3RcM+
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAfbILDoUU2WXPhBdyvbmIL6wdGTON8UVsun9fRmlwzAaFdDO4VgdiAJ6st5F1EzZ8WxcikXC7EWVuqF9OxPD9sTNE7ggvH3G7FQi4oPLSsmGMi9aO0lkfkRQ2w/T8G0koKTXk1kJsfSIvaEpf5QkpGJPWNfCGdS6SNhlcERLeKdi2zExaGyX/OrvwXD82k9o3imu3sJZ+ZPuk5KW53/4ij5zpdeXBXJzJ3A4mhXbnz9eUgDL3NYSWmwK2kvKYcUwvYgsGAYiDgoM4zUeFZmu+cZ3RcM+
-– Token Expiry: 2026-06-04 09:10:31
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1805820711	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Agx1fMx3h35LdImOxRh0iqXS9k_dESlcXwJnlooeXk-bIq48nj-J4rtLwoovRw_Yyzp6RvMwSs_D5dNxdzxdDj2tlEpjqPOXNxDAwDTcYhoaC4zo8W1BQZDq3QPzlqt3-FMksDrGN-Z4WIQjZs2dJN5N4J3bzAll7E0B50euFyvGc3sbT1X33L4HsAffrf-5wEhQiTHQewAAHk-JSXPiqE3VGBvOn6FbDzboF7xi1MalL573nyP2k2zc017D8-hQL6BiN4rKNu1-MMDE-hPvvR23vQFcSo1ko7hedZAzUgfNtmIHd4m9uSsfyEU6FVz6eL8ODI9gE-D7J-wU-Znoe9rUKyCvHa610y_CkAnpotpZLCaVC8cGvXbGZwJJ2sqn9BrM1bTRRLD3Qx_MYr6ZAymhgvaB6gdGA3xpPj_lZL1XDpShNPGsPEyPmQs85d8rZmjaH7DTBplWaOFBwFehRPYdB3uv-n6crrzr19XHDfJbsPoGJLXM7znB60THOYq1GAYiDgoMbXpxIJBO5GID4Al3%26pg%3D6KRGAKSMBFBOLN6YFC2RJWQ2WY%26ch%3DAQEAEAABABQqIRGJCPO6UmGJd9qhVF--IiZFsmgo4OY.

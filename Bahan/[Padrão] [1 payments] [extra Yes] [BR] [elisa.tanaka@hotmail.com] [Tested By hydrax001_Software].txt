@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tanaka
+– Email: elisa.tanaka@hotmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: fevereiro de 2015
+– Next Billing: 2026-06-24
+– Payment: DIRECT_DEBIT
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tanaka
+– User GUID: ISUAWXEXQJHZJDMFQWPDR7ESGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798246819	nfvdid	BQFmAAEBENHdBs5MfzdZRWiRVAlhJ8JgWpgh4x0Z2mbhdpRi5bI331bPHQtRtYfQGK7aXptMHyrFnrKvWeM6HpmqkK7RllIlo5ZGn7P1DOmcaZjAJMSERrTKnSf97XOq4ji8iaPPygqQ6tTWTX3zYBxrDTYNckaD
+.netflix.com	TRUE	/	TRUE	1800917527	NetflixId	ct%3DBgjHlOvcAxKQA4dQ9k1Frw_Q17wfn1bXG-IqiHu4cUbXkia4B1UUwNzI6F4Kpy-mSBwbP_nUAHC9E9YIK2yvYTcjvqAn2e8aLCt4LYILssSlaMSvQa8Mb3Ed0SmsfmRoyiShz7_VQtogzx49r8FCgzsLbVGPLkxZqBuJt985c13beGtwBiM8KH1DJwVciyxsupbl9tgWjBoj7NreTcB0DccGNt0RaMUa4Y00NNb1mts_i7eBOSmd375NpqbPBpJ2EEUOLFnrWxDXiBciqZQ7K00d9OKjbCTQSI47r6FrbdePF3zcABjxoGBz6gbWlOF9lOhRlt6KKRVvH12KDAVDtM9Ozuo2pV54_qWYU4prM5yWtzHEmxQewMErHxrkKy4c6VZUNXYdjbitVig-LyTfGGJ85aOa1i_g4kAq-S2mIZyN9fFRTnapp-eKR5umFa3aZTwA7v4uxS8viF92KH8HtTqQkDK1t6jaZ6StizU1vE7IT3pyVJ6xeivYLhfAZG1hTIwG52EcJCwYQnQ4p93Pc27oqEVGyfaqLgEYBiIOCgwka96rZdDf1h5payM.%26ch%3DAQEAEAABABT0-_pVUptlE8gk_8FMiLPnnfEiFHgTkAU.%26v%3D3%26pg%3DISUAWXEXQJHZJDMFQWPDR7ESGY
+.netflix.com	TRUE	/	FALSE	1800917528	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+19%3A52%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4a97d6d1-a953-46bb-a293-120e9bd4cc8e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR

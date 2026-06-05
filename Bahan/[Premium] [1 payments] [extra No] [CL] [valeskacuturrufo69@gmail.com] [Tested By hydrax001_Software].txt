@@ -19,17 +19,11 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Casa
+– Profiles: Lucky
 – User GUID: PTWBPUXXKFC6LMIAFAM3B5NLJM
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAZcJUMaBNrll1lVvn6ACsFu+cQBmz/KoqOK1qf+UGKoHn00S/3eakYm0dkemV+tLSTIJnJEyPYR9K5NGsaU/iLSIcQ61QHUjYHw3/qm+ZISVWILITed80B382IDadAphZOerCrwovucrNXaJ5Vf17xXLFKq/BhPITpuLEvgxEY1RO8p6+0QnEA8LyNSWDGyd2Q6Y76Uh4X4cx6JSfqQGSPtS0/plwCXslTOGZNBPkoyZwH/chix9/FUie+gAluS38unUGAYiDgoMuLUehuYCHWrYlkjf
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAZcJUMaBNrll1lVvn6ACsFu+cQBmz/KoqOK1qf+UGKoHn00S/3eakYm0dkemV+tLSTIJnJEyPYR9K5NGsaU/iLSIcQ61QHUjYHw3/qm+ZISVWILITed80B382IDadAphZOerCrwovucrNXaJ5Vf17xXLFKq/BhPITpuLEvgxEY1RO8p6+0QnEA8LyNSWDGyd2Q6Y76Uh4X4cx6JSfqQGSPtS0/plwCXslTOGZNBPkoyZwH/chix9/FUie+gAluS38unUGAYiDgoMuLUehuYCHWrYlkjf
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAZcJUMaBNrll1lVvn6ACsFu+cQBmz/KoqOK1qf+UGKoHn00S/3eakYm0dkemV+tLSTIJnJEyPYR9K5NGsaU/iLSIcQ61QHUjYHw3/qm+ZISVWILITed80B382IDadAphZOerCrwovucrNXaJ5Vf17xXLFKq/BhPITpuLEvgxEY1RO8p6+0QnEA8LyNSWDGyd2Q6Y76Uh4X4cx6JSfqQGSPtS0/plwCXslTOGZNBPkoyZwH/chix9/FUie+gAluS38unUGAYiDgoMuLUehuYCHWrYlkjf
-– Token Expiry: 2026-06-04 09:16:58
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1788546847	nfvdid	BQFmAAEBEJYA4bzK_BNhMBfCd2rNeMpgxz68AZ-ofGzrc1Qokfbhm4zIJu3Y6-8SkBhYtne6d9Y8o28gLmmBGIHB64TRLlwGBA3gfLgIMd9NQvjJcbd6_v_eyKM1CjwV7gF54ElAyLDlKTa3C2OUtWntwnQUUFao
 .netflix.com	TRUE	/	TRUE	1789999043	NetflixId	ct%3DBgjHlOvcAxLrA6NHi9i2aMy1ypztXC9_iFdwTzIuD7Og79LODKwL_gcW3xfPqsnIaJwzo7aLDFj_FQzy1c3seHvGuEaYLbSlB14K6HxjDXlOtgtPOdz2Clc35KStOoKAQpgYDkOXmEa7Sdzjq6dkmVjRQ0yhaFY0ecGbu4ZHRnDm4eDiZOJTxUOKSDFwA6BcOmfsKHQgAM0_pbSYJ6Tevh_9QGygDQeWF1fgwbp3PAQ777OHodq8APRxkv5OcbbNkuZyOdO6R8-UOsyRsGmQ2ekvxiybWlPg2jOIFxDT4JkjecNxN4NZFn0QhCcXhNDumUdUSAlp8VK-WXgy7-ce9xqgmVqaIvuAucZSIScMSB4znw_IR_pfNZaolCFkdFZekZrQiMxlXD26vKNEiH7Nimnp2bXuMDYdn-uFDVoH8N95SBcfRTmamdDTw1uFh8H0i_PLvTgek0yqRhWR6g5RhSpiLQeCN3HmA0szxjFSnwdEZ-0y22lujVsTA1gZ8KjJO4IC2RCc_95w_LLu0lPFBpnNTZN0cV1vWeB1R8m760l_BT0EmAcIWztKcl6hx2OXnJkdma8NivMNLblpDYh2A2xvKEDJnntXL5oayvnPxCHLqSfbmNPDa-fcp4-GZX3NSj8VoUc0dqhNRwBZg3YA7a4eCCY3GAYiDgoMNMMxt4DMQRAmEEn9%26ch%3DAQEAEAABABSuZXZCDgoP9U9IsppFR6yDjD_z8Myec8E.%26v%3D3%26pg%3DPTWBPUXXKFC6LMIAFAM3B5NLJM
+.netflix.com	TRUE	/	TRUE	1789999043	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSimPslXzy9xQmr8YA3wJSqStR-RWpxaDk.%26dt%3D1774447042642

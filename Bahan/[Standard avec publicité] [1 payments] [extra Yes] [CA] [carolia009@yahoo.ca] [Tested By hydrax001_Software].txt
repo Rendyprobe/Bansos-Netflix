@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Xavier
+– Email: carolia009@yahoo.ca
+– Country: CA
+– Plan: Standard avec publicité
+– Member Since: octobre 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 8039
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 7,99 $
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Caro
+– User GUID: RZFCWZKLBBCZZLHOMF45RH25CM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793758618	nfvdid	BQFmAAEBEIbKEw65xrpCtT5OgWj0Pv1gXiYSv3rbGN5-wH3yQBZcfqxsZ7rnVsN0Sr9nRk1Z_cGVQNDS2QqcG3zC7Ov-M7c0MapU0IRRNCjbyXU1b2PrchzwBaeQUOcMwnMYmjmz1hX_DUxOQSduPUAFFZwPaPmN
+.netflix.com	TRUE	/	TRUE	1797008684	NetflixId	ct%3DBgjHlOvcAxLnA5jPrHrdMn6FJKTYvOkqWeFNpWL0rWGiQvmx7Ie-Nc06iro7jLeAteIm3XFs0TyVH5LI8mbAoUzCMGv3CaTRaO68t6B_HpVhZlgEaO4PrT4h76j2zWtZwdABXfqhtqCpZo_jS9LnmdzwxSu4JIC57Og35YR2XbeyVm3F3Em8p3YNcSYZsPN-WXVYElIdK61Pxio6sduRtb6Aedw5bSn95vPhcKNK6BXZ2euunj7RanmibaeDs373VzIuAsXGubtjchU1BhnCLOQiYOIPRz3G_YCTcQVi_oypn7JFN2FYNTSsehF3yHseHxdOIUBJUwolx32rVNvH8o2hFtuW6tjju9q1w621OEfAtUbUBhTkeQOytfJLHRBTQJOOKQKiy1JRdnXYNdS_j3e_4FuG0fnNtWYg2Vc8RJnTA7LEQDnfNW-X7hVyPqyDpS_yykwcpAZ-MF8XKCDDD6t17yvMpYqEedheJiDgacX0Fgsatd-kPL2EyBrUOi-RjhSMDtqEBl86eu70LZGseBEuZvMGAPfn3p7Rhmd359nb0iwhANbxThjzHmL-NwErIHTJPscve9gvjk7RnPA4iFhFFPzOFK8mq8VqX642Xj9IZvMw3Kr2xrWDoGP4DCxkfOIpy4nxawH3etC2x4-evaQYBiIOCgwjBRXf3mG9vY7NjZo.%26ch%3DAQEAEAABABTlOdKbU8C3EJKwnR8bu6qGDfR-5SO26GY.%26v%3D3%26pg%3DRZFCWZKLBBCZZLHOMF45RH25CM
+.netflix.com	TRUE	/	FALSE	1797008694	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+12%3A04%3A54+GMT-0500+(heure+normale+de+l%E2%80%99Est+nord-am%C3%A9ricain)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25ae65fc-3827-4b8e-838d-8aafec3427ac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BQC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797008684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSf9_9c3kLXImvSgZl7ut1mr2QjRTpHkxY.%26dt%3D1765472683295

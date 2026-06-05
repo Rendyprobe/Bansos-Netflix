@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: David
+– Email: calindavidadriansebastian1@gmail.com
+– Country: RO
+– Plan: Basic
+– Member Since: October 2024
+– Next Billing: N/A
+– Payment: ORANGE_ROMANIA_BILLED
+– Card: N/A
+– Phone: +40754803302
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paul
+– User GUID: PPZ435QKBRCHXIFAZRZHRXQR4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784998558	nfvdid	BQFmAAEBEMeSK-zZubrFUCdzS5daszxgQ0HP0W8pZM2j0HmpZeFF5zDHJrcmrOV8L0W-fvtYueHtlJgKO1TUrwwIA5qkY8Ol7uSLndUNjivkuahdxi1PkFJHsR-F_0F4nm5YQE0ncKHxUFKXOL4Oq3U1_fENh8fa
+.netflix.com	TRUE	/	FALSE	1803823681	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+16%3A08%3A01+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=682fba5b-2425-470c-9608-788eb71fba78&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=RO%3BMS&AwaitingReconsent=false&intType=1
+.netflix.com	TRUE	/	TRUE	1810415728	NetflixId	ct%3DBgjHlOvcAxKFBGTva2l6xUbfBn15wFHWYBsGQWSGIpPFsIkWhFYGEDwE6ULNqSoqoJQ4rlH1csFT8D53MMw5XIbS_vOT-ddRETFEUAtVdcr4oGJ-ks3w2LDorTkejTwf_IXSkbmD1HgFGOixs2CxprFHxtQ8ZQi0yF_krV2EzlyHlwxVjHJlcik8dbc5cXlp9Ce7WqIB0N5Hyzntf6tBlotHnokhLenvmUF9YtI2_Qs5_aNco4l6d9UYc9_cgXusomviGGQLXdF9ogSpeFpDT3hpTGpxsgbQyHlNhufMXjWTyQEofq8IisEd23fnqRqYM-c7d7ULDTJo6zUHmk3ZpocPyiFkB_Gf30kg-kMK4LNoT7tCSTZp3W0aJhF_XFIvhD2h1fdyDJi1RonzJ88KwgbJZiiX-YWtMuv0OKQOzEAFQRvcEEsHVQm1Q2yv4_swFwJ3qG0AN9ir8eC77IIf9lA2ontJ0rGzapZ8gCIB0g0Knif9nyQLCIoAVCl36Q0h2ql518YCp-XqoYgoOvYv9rsRFhxIMtZGPYcBgHd4bmhYro-uByEDs4L26MXw0muK6kxIlBZOU7ZrADaabhR3JLHaAoI0_n8iVyOcp9G564h0Z_DHd0AntSj6bW0izVp2rFJEGpNKGrA6YtJAhvQRPTsPAbBvYLCt9MMxz1mR3Xy9DovfW3iCNuT4ZG0dvOMYBiIOCgx5BqnCaNbU9oF5PwE.%26ch%3DAQEAEAABABTgvZaFOYfmyzmXzALKOrjSySvKMDcbNlI.%26v%3D3%26pg%3DPPZ435QKBRCHXIFAZRZHRXQR4I

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juju
+– Email: anamariajbd191@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: junho de 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 9502
+– Phone: +5511955546987
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ana Maria
+– User GUID: N4MN2OCBGRFKXEYULHS5KZ7UJM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782602665	nfvdid	BQFmAAEBEIUq3QzLjjBBw_FL8qaR3PZgmgmcc7bhVao6f-t68fa8o0cZPzef22G1TA3uKzfngh9tn1FO5ZYG5Ldwoj3eQJoRgOgh-V60tg15YTChVHtevMNn-4nUrib6bnclY5Q3AqBkqIMavAtUb_4gwMIgniWq
+.netflix.com	TRUE	/	TRUE	1797716466	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AkZrAQp0outJziABbNY-59TVxh4a4QJlGtu163MRsY32Jl9yTEKV0fwJaN8HEbvb4ya7R00rzMy8OTEThkoAN-BZa7pkd3rZx4tq-o0j9lWchTnCK638Whdjb7CyW37AYikhUhkCXW3VeqV28LmW3jjZo_sHclOEY4WU0wsno6TIJgFCKcJXlB0gUMMDr47R3rGiVdRQmxQn6ByagUMdCL3-Y2KqOHUeaLShyAmW1ucNE39SuYRZlWrXg3X360voOrd1o9AUVEyeRzT3HdmageRWj1tl2gt35OWjYzvMgXi2X10qjXSGUOc8iG6KElgceyX548Z0qdaYxvoBzuOQhDdvVZdaOlJ7rhJ8zKquBiwwmaOScVoy_QIkNJSmEcX6X6HCG9k6IEfjYg3l4XW7I5tYF2CJ__dLEOJ_h96M_3YrP-JI7-KYrHG39oQXUKL54hfOmrMBGyC2m_6-qHKfMd7gOoQuKm6XPSYsd7nG7U_ySfC4X_4AeiuFxKsYBiIOCgxqd1VmmCiP1EUE-iA.%26pg%3DN4MN2OCBGRFKXEYULHS5KZ7UJM%26ch%3DAQEAEAABABQaCbbeHKaF5vOognvGKxUoz_b9JL56Dyo.
+.netflix.com	TRUE	/	FALSE	1797716468	OptanonConsent	isIABGlobal=false&datestamp=Fri+Dec+19+2025+18%3A41%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&consentId=4a8f8fc6-78cd-4f81-87ef-329e33efff30&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=BR%3BSP&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1797716466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8PsoSvfp_I-hsqCPdjbXa1rKBAIRRMUE.%26dt%3D1766180466656

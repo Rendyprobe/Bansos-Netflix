@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jana
+– Email: jana.zivkic@gmail.com
+– Country: RS
+– Plan: Basic
+– Member Since: August 2023
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 2716
+– Phone: +381652240997
+– Quality: HD720p
+– Streams: 1
+– Price: €5.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jana
+– User GUID: VFSZCCUAZZFPNHDLKCK7ZPAYZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798102102	nfvdid	BQFmAAEBEG1n9olHgTy7bZ5xEnMD8UdgEzHlM3zHjvfQGdF3LjWW3BiEd1qN1Ip-hvrc36Oe8tTvvLIBje1o34xstYAiRCWLLbaogrhcpIttHdCQwMFgvVERjsABdbO4PQoOBpj6xPOrNKWSyGcv8an6TXvd1Jb8
+.netflix.com	TRUE	/	TRUE	1798102102	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVYO9K4c0bUpIQpntJP5XQenW2Az7LIy0.%26dt%3D1766566102802
+.netflix.com	TRUE	/	TRUE	1798102102	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA4w2sVdHQBerbwm9bWTFKZRCGuOUgh9vWUcIGBmmUkvwcnBOACypiMJrcPmhqiq_uuqlKCDzJUx4Ut2g37HwVA3YQdW-oIpt-WMw3buNVDLezWYX_K0AogQiAfwU-iuIosls7uJ66cCbJT8YK9Q3RfiNah4v2mi3NMpdWFN83PBi7rEbWuUG3FjywjSBxwEdcGXdMcrPlGVGiPACwpuHT-eCTAxvqm0eGtC8SOzOChkkq-HTlQ2qmjsDvChIpGlw69yhIcIXieEDP0FaELwsNSinlBilSdW5M_mRQ-dFrBdr5UciB_EVI52rDEBbpZZSRt2A--yFv1C67S9LDErTFdOo89rYNkdACakCN-AhYypXrse3teMJbbCU20BrWBT6uiNLTRUNjYYUPuaFXa6blUSlgGUHJ_9Wxyh58csCN9HBwXIUK2YV9KLQ8g2V58lp9T6p-nAuFCHbSkyEMFdJ5xW3dTaUaNX1EzjmSjMjny1h3GhAUq1_N3XpJwpqhi5yIxgGIg4KDDnwzmLdF7W-lLVuCw..%26pg%3DVFSZCCUAZZFPNHDLKCK7ZPAYZQ%26ch%3DAQEAEAABABTm2tydeUbyfzfB4qBCK1aPg8oRu8vnD64.
+.netflix.com	TRUE	/	FALSE	1798102103	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+24+2025+09%3A48%3A23+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=8faf2a6d-c9c7-4c45-a78a-a6d6e3f578ee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

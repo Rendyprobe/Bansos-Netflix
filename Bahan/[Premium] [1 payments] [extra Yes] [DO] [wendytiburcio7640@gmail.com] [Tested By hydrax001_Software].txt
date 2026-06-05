@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sebastian
+– Email: wendytiburcio7640@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: marzo de 2016
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 5830
+– Phone: +18099386544
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: wendy
+– User GUID: 7WKHKJWAFVDX7H7TK2POUYCLIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790044111	nfvdid	BQFmAAEBECiefoYQrPLZSCgbasvskRdgRyGUEIDQ0zcPpmMNUqbIgYinzxf10TFnGefuMTYzIlehLjCmcihbHdEr5SP3Sne2m-Avvgy-lez-0S0FdSlyNoepX-djG0BUyD8oCV3rgXuTBJI0tt_vuB3AolsEfX-s
+.netflix.com	TRUE	/	TRUE	1790478627	NetflixId	ct%3DBgjHlOvcAxKVAzzve5B6765LPSNn7aq2F1JDaOXhTWwILMLUPbh_mN3rE2XFNaI9FoteH1Hl_K1ER1INZFGxKU74PMtoP1zDrNkp4Q0Z4IAl7NolfnBTo6iTdkxlCd7FssBVtZyEy8CkIUA07cx2PzSKTfJ96p8a0PnjmdBMUa8K_GA0ISg7oQeJ215hhxmzBqVROvUDmJXgcQeSouqrW-5dcKBds0e0iWO2iHQSQxUPKe8Ih1DQM9nX8-j1m519eHsMRpl8jYIny5H4KiBxzZ-1qQE4A8A8v7G6_mImmMrupTM5HSkgs8fI3LaHrHRyNq-Qh8He_CuayHMTEIuwU3OG4agCGD_Nqfx7K_671Ph-lpRwrRytBe8E-3BC4rRsGvCcLtu5G4bSE4Vwu7vS6gW6QbnMV4VqCvu2pZ7ElJR6TkiNusWfWvj65jgzeZLdodU-mHSzkiVQ_cvp8X3P0cAW6i64r52OLbMmkikYHQJRDPxjMvAyK-5Dn6cQlRS9Z6Ij7-_zSVKm-FAMeIDkjjonWsWaQhRL_M6JpiGQCxgGIg4KDMmm0sl3AmY4nNASDA..%26ch%3DAQEAEAABABSWemMKIlwS7cNIW43771Al93pAFqnlVtM.%26v%3D3%26pg%3D7WKHKJWAFVDX7H7TK2POUYCLIQ
+.netflix.com	TRUE	/	FALSE	1790478633	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+26+2025+23%3A10%3A33+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c4e1922c-5a9e-4170-881e-5e2b18f883eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

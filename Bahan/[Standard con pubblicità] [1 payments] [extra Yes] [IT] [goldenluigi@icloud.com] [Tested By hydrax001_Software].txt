@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MT-GIGI
+– Email: goldenluigi@icloud.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: maggio 2026
+– Next Billing: 2026-07-02
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393496556301
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MT-GIGI
+– User GUID: BK6QJETHDVAEHEXEUPEN7WF5ZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809308451	nfvdid	BQFmAAEBEBRdjn-Z1i-nQGUvcN6Y0dBgkKq_fuEBoh5ZgaS9nlmZci1v2kTjm7RhoXjUGlFJvBArFrnBFHjS-UA4bwNlax1pKPE1ymjFTMAa8Oor700g_358qdgali-qU5KNELHnVjw25HWvBLi0NuiZo96B4YQx
+.netflix.com	TRUE	/	TRUE	1809777723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLpNiVDjvkb1jeMHXwvYWCAljtZ8GE7PU.%26dt%3D1778241720339
+.netflix.com	TRUE	/	TRUE	1809777723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA8rhzqIiryuUtkwiZgrSVHQ-6Y8XKmfpnoeVqksbef6bO97UW_WhY2o10edJzcVG0ZjI_-Ikb3Dqle1p2t_Sgtwfx3bdJ6131AF7RN7dgH8_HPv-H7WwTOu9lcCKpxmj62ztZxo5pfwAj_pUUPJGthaj-xSuDA6_CYFpYwTdNzGEf6wLKzPBVZ5g5iRzt2-HsO35pZYObgrtNR-0nL9hZ1JL8BWrYPeh5GjEJqS8mXexKUuBiiZN2P8rNeKFW7TW8qCRRmM7dnEPT4UALu6eBBQtG1XgHgla_THepLtgeW_nTRbd7g_H62qzh_Yx3k9sWHobU4B7Kw9RNMRgmV92I93Pvc-s68iXNkmMxBEz4qbSO5Btw4pqape8Eh-uYPDzsw_--TXw1LDfjjDHROvlLQFb94UhkDyZT4uk8rs6ijMTjOpVs1b91X3xhDClSJH3uqFQIg8sUcShRAJKU3XiY-6-23UG_6Q91vlk_YoMdGVTxxkKeWDvuROMt5M39NZemGAMvLKdfEeoivsStwLGbm5aDGcmjswYBiIOCgwq36xywhMR_F804j8.%26pg%3DBK6QJETHDVAEHEXEUPEN7WF5ZM%26ch%3DAQEAEAABABRk0yKHTI2xpHEYmx1WHBV0-kAz405BVgY.
+.netflix.com	TRUE	/	FALSE	1809777936	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+14%3A05%3A36+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=62f8d4eb-223d-49f0-ac33-6b3936d8f813&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1777772407571&geolocation=IT%3B25&AwaitingReconsent=false

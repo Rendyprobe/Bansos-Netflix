@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: fejjy
+– Email: agnes.hegemur1988@gmail.com
+– Country: ID
+– Plan: Standar
+– Member Since: Juli 2024
+– Next Billing: 2026-06-07
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: Rp120.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: agnes.hegemur1988
+– User GUID: 2TP2KJM3NNB7BP5YI2KCZB4EZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802056248	nfvdid	BQFmAAEBEOKWV0OLmC6XLNs13PVKLDZgxgfaiRPQMrYmK21zpGQDb8Cy28VubEZLooERaLEASDYrtUVGeGJwhGFMkyd8HACyP43MNmhUKClyQOOIAv2NJ8FkeYt-Smdj5FbL2_gqzIxSPvbvqnCWogZn3BNRhWmV
+.netflix.com	TRUE	/	FALSE	1810511540	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+08%3A52%3A20+GMT%2B0900+(Eastern+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3c5e2781-c81e-4358-93a9-79e19de9e58b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810511539	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA2IqXaTztk3u1TYpF2-dM0vEMX_IsgAQTz-LZhTBTWEnquXhteylkERnQ-kSyWd-Y0yarMtimXe21RSb7E8SiLIjZur0R5gXYh5X88uMhGu1Zc7KFb8C3A-WpJJrItn0SuaMpoW5ITo_3jaM6HwZ5kGL4xHgsVjjEP0WiQpxL6jo8w0h85mPjbtj56ZzeF60gJOEkNP86WpKcmjSKaLLmJu-4nWuQk40mmVoH4vVgqV7FaQxEI4OueFUVsA3txp1GbhaULoA80DP4MFEWWV4wJ9mrmVV1-LGJ6DfdYkGHwEUY9329KU8wn_KHqhLiOkxvEA3pX8GOFs-ktbAE6s8vknW4li9ngfMgNFcsub8aQ0NWpsmvJXfZN1tYG0ekqqf3cdNqE-To_rR8UGmXREtSwZ9sxxSUQy-i9DTpEe5ZfnVVYcDHQDTFJdPEHVDAj9CnIlvUgU2qk-gSLOqMUAdQ4Xq3ow2K3xTqLdpuTPUqD5VEUF8eMaVxtUrepgMx_weLj05ezS1O9tQCz8iEvkuWhqI4JFvX5SwZw0YBiIOCgzVfnn2HNqYwnwning.%26pg%3D2TP2KJM3NNB7BP5YI2KCZB4EZY%26ch%3DAQEAEAABABSZjolW51IXKW0Me-Njsh8UlBkTWpvPN1M.
+.netflix.com	TRUE	/	TRUE	1810511539	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRFIe5xwfWZ1REBKva5DKgqF7QhBc0Yxug.%26dt%3D1778975376257

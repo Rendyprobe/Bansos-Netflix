@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan Ernesto arvelo de la cruz
+– Email: juanernestodelacruz68@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: mayo de 2026
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 0671
+– Phone: +18494710701
+– Quality: UHD
+– Streams: 4
+– Price: $13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan Ernesto arvelo de la cruz
+– User GUID: CW57P7A6P5DQVBEH2FYXXA7XLQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800851594	nfvdid	BQFmAAEBENzsg9gIcHXRNbEJ9ma3hnBgxafiCwVwehgt48LsON3O_ZivYqhEdVudWIPlfCEblGl72FBipEjt9hgCJNcnEA4aiioYo9fHPRF8mlyUny7wF0odSx6HfX8NL7vOuWPsB8r5UaNGAbSGT5JiXkLqio5P
+.netflix.com	TRUE	/	TRUE	1806287449	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKtA4crdeGet3jUoZgdbPrUULWphM3XNO37xYS_PqlbiJ-3hQ_i5ra7ABFYUYTc-ImzrZrtjEZShc-twywJtPrsxKsv0h7FDeXPE4_ss-ZP58C5-n-ktzTQNDTHb2UrEIVZwJ6Z-iCufy4qpDyXQ2QhPLcd0cWERf7DC0-Lcmm5TTZWofc_iyduuqCfRymJulVhZfBIV1AiDfvwh6yWmMm8uaDlw4ruV1mRZKx7SqUnAXRyM3gToTIWLCvyM2w0G8PZtoYPm_QWEWenQM2RDFwh2NqEZd-Hskmq8IYdAlUcLtiu9p0GhkW3FzvQuAL0bxBW-Te7schVx2WKOfTGCyX-KZ4OaK2XDyYfdP6BFlkOQgA1zNAhr_nelYy9FecJkCfBUnsY8HLmnM7W4p0LJiVYIGIT71iDRlpFWCEXWokBwS5bhRD0Hh2cMjHWPWZA-wKMJFSm_WFznnG2U3is0Wj_-Y0OJ88viYB6iNywCpa6sy6M1UTz4jslOcBembP6Q_tbhp4r9hyik7PBWAqVB0SF9S0BgEq1UoZbEVeiFSrmshryjP7Te1z4SFnqymDQzxgGIg4KDGX8EcpAM7ccKkLFFA..%26pg%3DCW57P7A6P5DQVBEH2FYXXA7XLQ%26ch%3DAQEAEAABABTVu2CNOIuRj9T__TcyRp9Rukxf199KxbA.
+.netflix.com	TRUE	/	FALSE	1806287450	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+22%3A30%3A50+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd09d203-44a6-4591-9014-f1e5009423d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769315594355&AwaitingReconsent=false&prevHadToken=0

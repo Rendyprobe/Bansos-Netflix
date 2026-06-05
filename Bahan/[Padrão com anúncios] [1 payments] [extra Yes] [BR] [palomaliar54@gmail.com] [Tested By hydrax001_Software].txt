@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Manu
+– Email: palomaliar54@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2025
+– Next Billing: 2026-06-30
+– Payment: DC
+– Card: 2330
+– Phone: +5541999017287
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: paloma liar
+– User GUID: SNWELYP7EVBJZL7AMR3I7THSN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800244000	nfvdid	BQFmAAEBEEXWO0EBy0581XCBv7cRwTNg7q8pOZt3Uc-oynWT8L37LzDkVzzDg8McRexMERMjcnVlQ_HEx20hOOU2uCSOGwhm4ddQJnUJuUZglVd55awP5Wyffppm82_gyUsdnKljBh4YY55CNaGgaVnpLeRgiFb6
+.netflix.com	TRUE	/	TRUE	1807665332	NetflixId	ct%3DBgjHlOvcAxL-A7fBr6ZtA1M8wzo6IFYEdOUtAjdK0Zqd6iEH9J-qBqdFAVDq7DmZtf-QkE5C-JUERGEGxue90Vo_PL-EgIucMOFtGjv-lKMbwU4hnROyOlBvvSDsOL-ruHxl54zlpVoX6UkzzzXZh52KDSd_LLM36EdtnVWszSPKC7Me28z9ahbjJYPgQmQXZS0rcF_LvyOcO4FW6OIyZ-UjRvLOhvmmfr6ZDfmdnOdM4UCj8VbD_ELwUCqsbIMKyoolF5KS8mNrvF0iT2NnrtlQ4QoQlBuKo3EDbOH2gN4LNJL6X2KD3gXy_6YAPK0Ix5EBp7wXEGWNfEhjdY-VCwj98ConZD-jjoprcm3Sb9AxXfm90kCd8aL08zjsC0KZJSf4TBVYAsUtaDhgmNAmwTbbHs4rzBhuUuofri0w1rKRRJ5s348hqEc27-YUvpN9Nerk4C7Vg0UV-xuD8KrhnihEvuhOM5cTJwrAj3S6M-C7hITgqfeXzZN8T-0ASbKrL14WM39VPWVKUaS2j8PafSTXAtrZAfVTWEKUoAAbo_Rr6l600B_Wy5FSntGjN7FNQIj38yMVkpuUuHS-VzGMmRXTsvZLQ3hMx5Kf01_KU08jz2brqcHVZzFFgu7NvnCnj7dTAxelhlpGB_n7hvDH25PIE_x9Q6Iw02A6pRn99mDPSLcyZ7lsrxgGIg4KDAjldNQvFzjngNPKqQ..%26ch%3DAQEAEAABABRKHx_fetA_IO2urOBPYE6S5Ik_AzZiAqk.%26v%3D3%26pg%3DSNWELYP7EVBJZL7AMR3I7THSN4
+.netflix.com	TRUE	/	FALSE	1807665351	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+22%3A15%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c52e6fc5-b405-4ca2-a132-38cc39cac88d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768707586319&geolocation=BR%3BPR&AwaitingReconsent=false&prevHadToken=0

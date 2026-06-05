@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jérémie
+– Email: lucie.hauregard@belgacom.net
+– Country: BE
+– Plan: Standard
+– Member Since: janvier 2018
+– Next Billing: 2026-06-22
+– Payment: PAYPAL
+– Card: 1600
+– Phone: +32498468944
+– Quality: HD
+– Streams: 2
+– Price: 16,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lucie
+– User GUID: E43MWN63IRB6HOKVPSXMEVON7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792340314	nfvdid	BQFmAAEBEMt1vV0Dq5Xl_Odq6wh_hRFgxPG1WhhCKJCU1tb6wXHXJWUCk9_2-oB3fNRZO3wbH5jCeh7gAqnjyZtYTb41NAgWEshnTkX5MyxLDa79ghW9yCVZ9lVpzFi3TxClsT53Hks2XfPW_qv6qgiDbIYD3B_i
+.netflix.com	TRUE	/	FALSE	1806775117	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+19%3A58%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=95125658-6f9c-4c90-ae84-fe684946d849&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=BE%3BWAL&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807290928	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROE0P5qEFYdpzhH0zK5iv8gz_FSfQWu_g.%26dt%3D1775754927816
+.netflix.com	TRUE	/	TRUE	1807290928	NetflixId	ct%3DBgjHlOvcAxKJBOmduezD_0-pMMQFUfq-KWptCt_xoCS9jUQZslpzhSBNbs_LHoCO6puK6E1uJi_txPuS2YAJiCVRhWFPjvIPcmO5E2CoMm9lHqGNUdRjcdFXuyT2FcOOjFeIA7BwJ6bIHLYHyT1gAZZE1XbikXM_ZF3ZeissBCmRxw4SLBx27nY4jXjRr824HNLh7yI7E_eEOv-hTxYzpZVt3HXFArPUioKWtZ527GU8I6yGqNaXvOF0SDzdxzIH1wbzodpL-vOTUx5p3JU-36z0wMfWaHW0Vz_3LgcnwgM8XUAGITXebpdwKjL0yLylJO2J1UYAB94kBL0OgSOsKLuYduTtIsMhl2J8xiKUWrN14SsEIdpK_WLIVhvtPx5LERew7IWONIAKFFKQwwHw7YhhPV2Wrjl9mRGQyzVjRNLLSRBwZ1Y50e_CLc9Zi4QOAzbVrKf-JjvPeglenxIzcSs3LIkDmgks7QoRtAZmLQB-CdSzpZ1RktRMXFVemxowty19XYOLggI2qOTuMQrow-Y9sUG6_6gPk0x0AKjECFWm4udWt1AfkGLcxK71-o98Z7YEhirkQkEX9qhZiLXVAyIQ3Di0Z51LmVPDqsGpabMOYiKDRkKl4P48IlVXg3HcougrJwZnzKgy0fUhvMP7L8dwJ1N3Bg4AUGC0QRmINHK6x3S655-bjjRBQ-Kt7whi9sX7GAYiDgoMMN38xZOXbmEBqdaa%26ch%3DAQEAEAABABQtXdZf1jMdFv8A-yyx5wemvC2QK7wSLXY.%26v%3D3%26pg%3DE43MWN63IRB6HOKVPSXMEVON7E

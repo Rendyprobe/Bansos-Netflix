@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pietro.S.2027
+– Email: Pietro.S.2027@proton.me
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2025
+– Next Billing: 2026-06-09
+– Payment: GIFT
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pietro.S.2027
+– User GUID: DJZFC342H5EVHJDDILJQ5OKJT4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810484532	nfvdid	BQFmAAEBENQnkCHPWuaRJw2TUEby4Qlgn8tSdENNMSzdSGxy27PRHm922BUKNw99OBTjZ0ZWG77D3yliwQqwceRINKyM_84UFBUixePeBnn6VtKt4BP2CkbejR3yLMAE6d16bHc6cghxTTEGahKatQHD506qlDXv
+.netflix.com	TRUE	/	FALSE	1810751371	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+20%3A29%3A31+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b77ec328-c7cc-4714-83bf-a8df3dc613fa&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=2&crTime=1778948499189&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810751368	NetflixId	ct%3DBgjHlOvcAxLgAyytAbA4siomfgWZLUgYSFm4Bhsy5ZTtNijZREgZ4YZm5eJUr1H9u5cgOW1Po-tqvXa289oayYCCPkZnkgM2QtHAmRsAwgJUYRYsX1pmGFsbwhQSVNZhWensXh4IfeDCShAD0BBipYFJFUyY63MDIYIST2TUw44p5H0yZfevNscSPhFTJyw1INtUP9I119n0iCw-6RudqXvr78v8l0FGd-HtakNmNXMZfTR0YqSsB4RpLbPVDdzqsrLerLhnnJHLULfwVlQjT8Cz0YwRwRQXNza2wNe9JV2sSldtbWhIkAPopnzZvNDyOykHJr69cpZ6ytnDfI3OyFJXohF7AvU-2flt3ZENKgAeZW0l7FwTjnRQDphZlpc1NKyJfkS57Xo3_1ZEAIaxvtbAKy7F5JjucgcJv7BsJ0LYz4d51I3_v_IXa1bH2t1bznd6ELMP1rVgdJb3f3lCP5hHzdVnokFMXf9yqqh-tbalyZKal4CaJ62gPSTZxy_98uMwf-Sm1dWxHsZm3IzvQblXWsGNWQ2tWKMm7oO0dVwIL2wB7_5oRwk-2MXUSqNGRha-laF7HwZ-2HZLi4X2why_ZA6il7D5oC5kHVHY6pO9Efa8Ezk_VkYYxjDPuC4oNjnXGhcikwd45RgGIg4KDP5ZOBhoQBundpzHRQ..%26ch%3DAQEAEAABABRpxZJsx7ECEaoH65KwGSJ8m0m_zGfOBLY.%26v%3D3%26pg%3DDJZFC342H5EVHJDDILJQ5OKJT4

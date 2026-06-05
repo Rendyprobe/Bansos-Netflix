@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: J
+– Email: sanaz21@hotmail.com
+– Country: NL
+– Plan: Standard
+– Member Since: November 2024
+– Next Billing: 2026-06-25
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31613255007
+– Quality: HD
+– Streams: 2
+– Price: €15.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sany
+– User GUID: VUO7TC24FNFMDHXQ7B4UISB7ZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790364202	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AtVXQ6qodTD6mxlUEvrhCiAkuV-oWVVcQu7NxG6WfyMs1oSGZOJo2t3b5CrNkF5RawXSDZtRw09_IP1d0UBydsMJz_Z4qtvlrOI4EmSGTOgMxBkPR1M6Ot83QXuCZGJaAWjInC2VqXyQDTgYTawTqpZVkJtij4zOJdBIemqNZsRJsFvr_Jkl-teBPdh8PjF5MRRFHW9IGFHs8CIk0LBy7OenT8SkhS1amNsHD4hJ2VfCru71AuDtSbTqeko_hd_2Ov-gnujfMQCtn-87a-a-qTSL-Wst-jKJl2UDR9hNcbO87leDc4JoJb_j-_r8jd_0vdoFQqqXCu3Awwgf6A9Ci_SsL7x4sFkZSozWNJG4z4I6AKZT7b22A9UuQ6Fsh33QqRvL5mUXmKXjg2QZDO5LJbi8A1QkfmaTQ8IM2VE1SMmWnu3SNUcO-lg-kgqiMO8Da-roLfc90lT-k5LD-eF1BO59mWO-QPj3avxao5BsJ4_sv2U9Zd3CxTmgvUoYBiIOCgz1MRczBira9CNNKaE.%26pg%3DVUO7TC24FNFMDHXQ7B4UISB7ZM%26ch%3DAQEAEAABABQcdw9v40vUGIa7JQiU48ip1Pw-YmZiKQ4.
+.netflix.com	TRUE	/	FALSE	1790364203	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+25+2025+21%3A23%3A23+GMT%2B0200+(Midden-Europese+zomertijd)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=21edc2c5-2be0-4d40-b44d-79768297c4c9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=NL%3BNB
+.netflix.com	TRUE	/	FALSE	1790364197	nfvdid	BQFmAAEBELyVIO6U0diMfrTLClplxItg5HPlwScU8U-HMe-WSjCIQ3ZHXw531gCF0b-TiExHHp_n2twTsw5XXeTbfQp0KqzqM_pS6k7iU8b8N7ckKmMat7bdi5VWcoojA55ZY9tHzi9belsNrWNs7KqdGIJtHpWS

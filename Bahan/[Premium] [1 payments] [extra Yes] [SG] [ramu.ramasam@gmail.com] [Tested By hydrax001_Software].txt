@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Laksh
+– Email: ramu.ramasam@gmail.com
+– Country: SG
+– Plan: Premium
+– Member Since: January 2022
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 1002
+– Phone: +6593804696
+– Quality: UHD
+– Streams: 4
+– Price: $29.98
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ramu
+– User GUID: NDVV5WWGPBEADPTTIWULB5TZTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785793478	nfvdid	BQFmAAEBEIsgeapcjd0Di7ph3JFQjEJgTfKFLSNQ-DPWSvEIw6_HGtyMqm-QCookoDzedMJAjvU_qRv3DJR7S9W_dUDPKxckjeLvaszbcQBYrmWbAv5eY63OwEsrsoAjOR07WQilAC6Bo79K7h8QtzzSOsHCXbcR
+.netflix.com	TRUE	/	TRUE	1809528075	NetflixId	ct%3DBgjHlOvcAxL8Ay_FlqfAqTcXtEnV9emvoaePYb3i0kxKkYpMjN3JNMuons1R5CchgrHAbLd-wqXcH_APlfyRDv9h09JLoQnfv-kvGfbDPU5BfmQoy-mooQ-EsYndaNyPq4LZkmwhx6ONpPL51Sej-s13CCQYZwb3EQ6B2UCjXIuELkXVr_1o2ElQiK1MXgMaIjT6OzBCtb8m_gpvIblCDzBSUS5tdYsMX5Gsj97974ipUvlpGl8QuGwAFwTmqymQv60YQCd3ElVubR6U_WcRieYB69Ayypi5nwlfVVt-skJltFifs4NX3NaalhCLnfUT3KsJEcq8b2kalj2vfbsdHhhyoVEQ5V04p5gnk_R7lnQTByDIXRb2zfALIlveswminZI24RzKq1IoeTHJ_o5ryhttIGbSx8NjDQKw0mQeSc17h7BfVD0AE5QI0xNcIrMvy8imO-5MGgottrNK5YqCmSCtOxG8Ual5qiPMgibv7PtPKzkKb0vYrF6Ttqp9RjyuFfA6NjotScfAchIw2C7qXww-ahxfjkoVjy7gMsc6_oDw3mzVsbESLoXXj5yTikahZTGyEvRTtJap2pjxjPpPJfcF6Gs2rMZ55o2_u3aAYjDGr6hRic3sIlFJTMpyTUkA6xS6_nx-CsVndh4MA493P7_zOhBuBnLzJ_8vyX17C8ifIqLH1ZsYBiIOCgyDL3YdhVE50YkZRtU.%26ch%3DAQEAEAABABToJWg-rOvWJb7cTn7HEP8e7C4T_jwp7g4.%26v%3D3%26pg%3DNDVV5WWGPBEADPTTIWULB5TZTQ
+.netflix.com	TRUE	/	FALSE	1809528082	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+22%3A41%3A22+GMT%2B0800+(Singapore+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=825ba2ff-91de-490c-9344-c96e7f045496&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=DE%3BNW&prevHadToken=0&isDntEnabled=0

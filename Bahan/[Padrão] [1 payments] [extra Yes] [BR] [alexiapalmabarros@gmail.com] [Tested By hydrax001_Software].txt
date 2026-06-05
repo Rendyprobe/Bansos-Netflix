@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Wallace
+– Email: alexiapalmabarros@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: setembro de 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 6324
+– Phone: +5521965683922
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Wallace
+– User GUID: 4ALP4WJ7MVF4FPBJTVRKKPXG4U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796436523	nfvdid	BQFmAAEBEOvPfoiEBKt3qbZ4gWsBH7RgBPbO9sykN1CzSZ3QS1SUKeDVaSp5MKWV_4hAWnfdoV8BnPzxiE96idj2A7CvYGVajA4tQBlsCxCsWHa0ktDi9feXAAyk7XA-CPFOj4lT0sF4Hk1jFFrf_93oNUK4_O_-
+.netflix.com	TRUE	/	TRUE	1809446488	NetflixId	ct%3DBgjHlOvcAxKKBJrvbDFgcMUD0Ujlx80Na2Z3Yh8FHISLv1bmJMRQ-JIKAypTNp4bP2gyfy16RTec5KkzRLceyVaAZEtANgOxRZRbzJftmezgL9let12cZI-rrHzGBHsfvNpjq7GyC18yJGGpk6FUQOigUH0j_oFFApszogin5ACCwB6G_MZznR_MToxW7c2qFBDm3CkwVpHRJIGSrzADjk86IEoYJkYXmw45Ab1VZ7vLB18GzjRu-MV-1OqPl4JudzfnipktRRlApVkIgyQ8jJwaYepSs_3I0DqiEImdBteKHQfH0uleYWFnphUPGZI1ePmgG4OC22E_-eQCdggXdFOifm8UtHZ15MgOdQWsnpZv2TmtZ7U_HMXjiQ5ePDZscOIjLIjVBv3gnIEi47Q_Em83G_nhv1MNJ6vNsYkKPRCGJzc6-pjmuU_eIltEvZdyB3-UyLmEVdyxu3j5Rll6UxUbBekZmHqvvcPpjkx5_4vKo2o5IL6Kokwtj1fcgI2mQa6tXPDN4fLrCnJzyk_9QMZXgfQYXi5cPo5d1Mg3Avlaqmt8z1ESX5X6bLRQQ9opHF4CUYViHRLuUsjKvghEwpduhN10uuaTM04V9o84tuq7LVO8exQ7VJ0DTZ0GzOpyrqB2IfQmhPo-38QMVwrfO_yAZJLKwpNE_JlCm2wRlYWV5bGHZlR7TrwuHpwMPbZK2ZhvfBgGIg4KDPoe54sckTkba33M4w..%26ch%3DAQEAEAABABR95RpX8X01Z4dzOT5v05VODmbwuXlH-UE.%26v%3D3%26pg%3D4ALP4WJ7MVF4FPBJTVRKKPXG4U
+.netflix.com	TRUE	/	FALSE	1809457446	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+16%3A04%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3b07c98-2108-45ef-878d-eae41736dcb3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&prevHadToken=0&isDntEnabled=0

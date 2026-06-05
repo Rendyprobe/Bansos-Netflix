@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: elxu
+– Email: jessik.maxi.g@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: diciembre de 2022
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 2380
+– Phone: +56988060461
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jessica
+– User GUID: BUBKHEUVTVAVZJX3BAAYKIJSFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798425915	nfvdid	BQFmAAEBEBE1yVjvw58fUWlYBS2C3uFgooFHxVqBIo73y8EP_RzmpuMGcHr9TOfpRLg5YiYDnjc0ts5859aJSL9r48YyopaoVh0JJfgdYLJs90VEac7bgqlYhDE8WKEY05-Htk_dxtXEdYhA6KxEV74pV6w-slo9
+.netflix.com	TRUE	/	TRUE	1805506864	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA0HN0yp0_ERwL9sIr-4QRgCB0LRsrjLhS9-4F8AEKgnk1jlUfg5emySX2520zXvJaPFz5BmsPuYRbsMBnCsu9Qf05DeIYaCqxUxwtmz3UcFTj8fqTkRQC8rxwyGUvgTSEbAb4Lui02OWQrY057ekQ2kmqDkgBe3C1m9jyAONTIznj2sKhDMtqQbB1vQwj-xvEMw6zIPFT_sG78mzMk11rurGLF5npZiBdMbyD0GHREyR0b1s9-zl07VgUE7wBdooaLNmAZiJ2dlHkVmz40tIt24WTCAL0u3tbUlTOvdqLDbvyxR4WJTGC4uhFtu0jXrG6V4SNK2yTJp-VyrxZ83Bj3mDIkKXjgyL81NTPmB4JGDrRxv_JhRNNspf25fX49GgRnS2Kli_GAzVK0Hgt_3UM6yBfwKzOW5RpPpmjYCarO2SidG90fBLi5qmFNkIC7X2rxpBpBbWVOnF1WDEfdLY_6E_uI2iqfUvnkEUli-I3cAxd5dhgErM3gr3T6HYKDPJHfvAtGJ6cYBXHnaWP4cvjAjgqAGIdhrwLRgGIg4KDMXSj7a-fQMtdNHgFA..%26pg%3DBUBKHEUVTVAVZJX3BAAYKIJSFI%26ch%3DAQEAEAABABRpz4DmwYNA9SWRIWgdtmgNggbShWyhcLw.
+.netflix.com	TRUE	/	FALSE	1805506866	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+22%3A41%3A06+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c3a37062-f376-4415-a1e5-83a8e1c8d08e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

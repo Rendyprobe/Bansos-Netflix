@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Christopher
+– Email: thoper.clp@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-17
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639664590403
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: thoper.clp
+– User GUID: DOXZDHDPTVE67H5MDCA4NKBKYQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807349691	nfvdid	BQFmAAEBEKO_vygavBlojGVKPiNU4ZlgvBrfBmdDZsPi0nZ-hnsHnfr0qnKtTYvlBeOo5dCvRjIh7lmYJL_rGk_wUxIlr4pA3_0OCaZc7z6C2WpCaFm2mZXCOF2FhcA7ro8O2CaYGL_TvlgGMFOs8pCFalFwRifK
+.netflix.com	TRUE	/	TRUE	1809603727	NetflixId	ct%3DBgjHlOvcAxLtAxseCSmXyIwicA1gfvgQKirUTBzT0RqRD_rZFQAdhLvtO3pCmibvyUSzZZ6xKEhzBqLxJqCiILaMOx3u6fF7mT7bzEnEi9Vo4vqyb9vf58NDILSlryqImwWrSs7RHOQniV2LZBGa0aoGRIlYDuPno1F3JlKRj_nLK_8ilBLU3rR0Fg5V50MSUW-38EzhLhkXOSnwyUj2d_Bm654tKakmwCgLbiauXa06dhvl0oOc3OsxUaDYIN8h-1r7Pt6wqv3QY1_c1JP9KIS8rjDP-l1uNlBNxiPV4zRiEzMzRdShpDypQwSDimriDVRufcNdG2k4YeUisk6h4P5x0aN1cXmGV4nrWzRHufRp3yk7yHrB3XSilAeSz-TVeU-OMl74R8lr5p4GkZ7uBjakSZ0BxKmDzz5c88HUWvSuAFg3-6eNl-smUxbk8OTDpWXaCjL5Gx0Z8YshS607gVLz1QJYJojxYeoISv_Cnj2MUt0auT7rQB_bnQRtuCGKFztbwQ372mtZJSj8P6VgLvSKj19c9mbrVSfMORVPlZgUhS_wXUeSALXfe9KPfkvXY_h5pCAtYNwbLUcjAwfI5xk8vAENt0asq_aJw9VuD3wVdctOYtV5bn6KAOBqep2FCxSFc2ZGnpkeIbq5YiEUqcuzRMu43QwYBiIOCgzxbmb6NEjWqs8nkL4.%26ch%3DAQEAEAABABROeRDJhBHcqKjQr7d8Gn5eh8Ob6OSFXAM.%26v%3D3%26pg%3DDOXZDHDPTVE67H5MDCA4NKBKYQ
+.netflix.com	TRUE	/	FALSE	1809603728	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+19%3A42%3A08+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16c36c1d-a2b0-4f9f-8a5e-aa02245dc150&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775813690618&AwaitingReconsent=false&isDntEnabled=0

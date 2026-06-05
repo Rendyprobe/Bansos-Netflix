@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Witor
+– Email: vazdapenhawitor@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: abril de 2022
+– Next Billing: 2026-06-25
+– Payment: DC
+– Card: 4809
+– Phone: +5568992141459
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Witor
+– User GUID: O76BTDXFSRHRRPJONOKDFBC6WU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798944071	nfvdid	BQFmAAEBEBNDNhhPs8zTBVbDECoBsQxgsf6L_UTCtVmx_knCFs1peOhq-688Ccv93cF5v2SK1GLl15xeJ2Ybf8Zu-gKUiQ3kTYjJfaMaQ4LUTjvSUjkD1bSVMsvMXrmZQhHMCo9V6Jj-KoXh7dYG5b-IR4YrDLM6
+.netflix.com	TRUE	/	TRUE	1806913680	NetflixId	ct%3DBgjHlOvcAxKMBBoBhIBfFx2BN9xjEk4v72gRUm87cPKxJ0BzOGnD8Ssg0UmFeDPwxrVXYbsJDwCJfbS0nJvAGWv_MsyfX1hk5eotKQefiAey9UJQnVRvztczLRbVm_Khtms7OGBbZqQx2mP-xOSU6PIEel38L4L4tzzXetYAz5ec9p93ZCHimuJrxQu20_ZreT5pgCfVZKESsFHo9cqOFTCQAqEC3jp-cJqa7axDjIS8p5gK8dZRX0-ub0Y8bEaZqpJ_TTAyjqmpRCNLehkiyL_vjOWxcSMA9uCkltaINqBU41ovQuOMtFirpJadG6pKUqoMwp6utM052m3mRyZYx47sQ6EhLBogN0FxSTMtWe_ywnIld9pIV_qZvvVlxYk3giEaHLqTzF18shrP0KrzypLHj0JDGlm4QUfI9E5p89-MDIKs2xJXROzipIE4UbP-YxSMiljDd4DRrGkFEcWnMByJYtUnY2Mz8ZxnDc8d9TYlNJcpXp8P5eHqdPSlYblLr4-vV0kiISDVzC9pYT-4IWrTK2tYQ1jU4jnKvK35MZW9uWzKpRZRU7GfOGGV9iur3Ti5s7hmkfi4cFShgtWPqIML9_IJObcMLkrEs-dIMGJNeRc1uM5fE6tg8ovBnW5Qbvuysvrnu0aeMRyzj4X_XnsAIIp4zfclvSj_xsBnQJ3XZYAGQRDRmDZKK8ngbPL3zHC9FBlgGAYiDgoMiBnIK5NRvrYoyp8A%26ch%3DAQEAEAABABQL3BgUJ87zp9DFx0O8bdgxqiFsY22qdWw.%26v%3D3%26pg%3DO76BTDXFSRHRRPJONOKDFBC6WU
+.netflix.com	TRUE	/	FALSE	1806913683	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+03%3A28%3A03+GMT-0500+(Hor%C3%A1rio+Padr%C3%A3o+do+Acre)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d73f072-88b8-4e68-9ae2-0d6e3c784989&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806913680	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJSShEJvweC6NUMRD4t436vPeHM1ploJk.%26dt%3D1775377676424

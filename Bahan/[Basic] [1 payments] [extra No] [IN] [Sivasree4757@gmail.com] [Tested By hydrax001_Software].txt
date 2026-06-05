@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ammu
+– Email: Sivasree4757@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-10
+– Payment: UPI
+– Card: N/A
+– Phone: +918790394757
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sarada
+– User GUID: 7GNCDUGH6VFXBNDGTSKAYYHTXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793726764	nfvdid	BQFmAAEBEOs17aHoN_eJ3Qa3MTfb7thgNMge0m85IB6FKZJcpXtD59-XOQH0A26kYy9NRRloIU0QRcljcrChFTpjHBKaZP9G01XUJeQLoNvRgFFe5OWmsTFzt8eA8kU3yp50gvkL7dk0ITm5qdwYY2R8aQn2w5ed
+.netflix.com	TRUE	/	TRUE	1808401536	NetflixId	ct%3DBgjHlOvcAxLMAzw7k_PDTQpZAv3cez07dqhtgfUFh3d8SF6jxCaUyFyrl08jTLF-RvvFUwNd7xGjw1p9VTvhO7fsPgzKMSTt7YMlR_GzXGnUsJRtRDxOBxR7MHIq6ZvTHML2wJioyZrPxN4C15h3lwC606SXliqBvra0TLeX6gPIcFvTbszJPG493QC4EEIAWS8aalEDr2X2KN5rcpr9FtIR_jKwFtVdqj7tLyze-BqhjdV70rc_rM89_tVKWv2S2KJ9i7dyk215LVPQfdj2Fg8BMNlFthI0v1IuIMgzfSKNwn4QKPiStTLm_JTwCtK7P8oiyxHgIHoyHQUg5pDuQ6YrxZNe1DlAWwIUNy_KSEM1tTvNNIo7WTwh-PZVAi5qqSCwmkUvX06qhZ1VZ9fS3WrLW6EbzYphMouiYOGE1y91RFUg3fmJzrfrhCjNdB2Rv5g-Cn8lP3k4Ia8aCLz8tMLWJSzxIEuVJOIKzc0wbwnEsBLUsvjj2kKCucUlnJnPEaepcSVqnpBaSipcic_SjYX6IvCOLNCzRqNmSY3cI4mHC5wt54Bnb6_yEcki7F9IOUI7KI6FDuHCGxs0WAZp8TglImhGQDMQXSr13yK5jmjAqluOBgQYBiIOCgzEKF3SHBFtvqDt2Q8.%26ch%3DAQEAEAABABTYbbcbxDrpePwuhfo0gdI4obaxa-kNDzw.%26v%3D3%26pg%3D7GNCDUGH6VFXBNDGTSKAYYHTXI
+.netflix.com	TRUE	/	FALSE	1808401534	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+19%3A15%3A34+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e13863d8-b627-4e4a-8988-5a182a38dbed&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

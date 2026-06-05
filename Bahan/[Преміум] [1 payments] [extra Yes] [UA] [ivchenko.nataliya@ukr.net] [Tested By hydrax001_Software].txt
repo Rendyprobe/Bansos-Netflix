@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: UA
 – Plan: Преміум
 – Member Since: грудень 2022 р.
-– Next Billing: 2026-06-05
+– Next Billing: 2026-07-05
 – Payment: CC
 – Card: 7806
 – Phone: N/A
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Наталія
 – User GUID: NVCVKXO6LBBHNDBMMDOJHRYZNI
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAalrY/a9FPBRoA338b+AhDUNsXnzxvrO08JnBlDC/neGTrM4ydb71tylEaEtdgNHDLycNL4nlJV6hhmK3vMqgR4bkzyrluc48ISJGdTRRFuEUDoyCzs64WKAMHis3y2ldy78/+0C/7wJljHgIOjgRENNaGcLqL8/R1vyGvL1r0vy5SRo973jH7pVGEJ2BCTSwXjFfMgjeGpFo52MOqtWphHbjke4XDrsoKGJ1goZFqkdzDxCp+wFoKiQJKxmgDOdhG4lGAYiDgoMjtnpiXjp0nW2rG1i
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAalrY/a9FPBRoA338b+AhDUNsXnzxvrO08JnBlDC/neGTrM4ydb71tylEaEtdgNHDLycNL4nlJV6hhmK3vMqgR4bkzyrluc48ISJGdTRRFuEUDoyCzs64WKAMHis3y2ldy78/+0C/7wJljHgIOjgRENNaGcLqL8/R1vyGvL1r0vy5SRo973jH7pVGEJ2BCTSwXjFfMgjeGpFo52MOqtWphHbjke4XDrsoKGJ1goZFqkdzDxCp+wFoKiQJKxmgDOdhG4lGAYiDgoMjtnpiXjp0nW2rG1i
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAalrY/a9FPBRoA338b+AhDUNsXnzxvrO08JnBlDC/neGTrM4ydb71tylEaEtdgNHDLycNL4nlJV6hhmK3vMqgR4bkzyrluc48ISJGdTRRFuEUDoyCzs64WKAMHis3y2ldy78/+0C/7wJljHgIOjgRENNaGcLqL8/R1vyGvL1r0vy5SRo973jH7pVGEJ2BCTSwXjFfMgjeGpFo52MOqtWphHbjke4XDrsoKGJ1goZFqkdzDxCp+wFoKiQJKxmgDOdhG4lGAYiDgoMjtnpiXjp0nW2rG1i
-– Token Expiry: 2026-06-04 08:58:34
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	13440799456364042	nfvdid	BQFmAAEBEEdpLQDbQUvixedikODT6N9gc6JrBsAsOmi3MO1Jxa3UjwuhKLnNlpsi_efK1mJGe7E6JC8QdUVyXpejMMcuN1_fbIiXrMH8S90Z9T6olJZpf6L3eSxyqhl33ito2GD4VRCnsu5IBJoOp7bVs7VtZmfx

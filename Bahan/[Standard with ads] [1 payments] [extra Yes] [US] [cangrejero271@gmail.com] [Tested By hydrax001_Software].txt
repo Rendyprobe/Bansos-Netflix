@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kora
+– Email: cangrejero271@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: June 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1942
+– Phone: +17066315630
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: José
+– User GUID: G7Q5JOKRFFCQJMCLZHRESYEUPE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795737533	nfvdid	BQFmAAEBEKesAMQYartu4KsrkPdcE8xguh-iEZ-HK-aCUVc4JJcUbJ4JLxAlQp5HzEpHTX8V6zYmIbsm777cyrdMWlkI2bbfpZrxSN6OlEs2E-7txGTnTr7FONlK-VPdAEPGO_WA9FahyZU3GnFkyOe9GJgjg7Q_
+.netflix.com	TRUE	/	TRUE	1796085270	NetflixId	ct%3DBgjHlOvcAxLFA21shaqc5Zna_RsLTCaw74jfK5prKqwDch1qBcGcHzhM9rZy4-3-EpR0ay1a2roRGMKqMSXiqASYS-umJ3vZEYwVPhgS24V7mmQ1ss4xe2NbR4RXDk-Psw-P7DNxSjwHlHdegM6d6_CULNUJmMIX7nUAsWQTpTJF9hPfj377UM7dwup3vMG4JIvQ8yWuKWddGVqazLMssN8fbkqKe8KzGsiLXOxi3F2-S_fCpkkAVYwV18xQjrnTr35GoYPGLTmYT418F04hfUWNyaYbpS_TG5d7iw562eqdRVpdT8PpfmVNQu2h_GIm-c3yC4ZhobHzMAnFWMHCJyiYRk2fusnSR0q6hFQ3gpqfwHRCiAezuxP3WFNxF0lJbxr-41nSuWrcxb8WGkqNfXtkh9rDEUDPBXmXWGn65Mt8JM-SZ0IdEAT4n7mne08TRT59nlVRS0UcLnSVV9yEdFXpYbHmFmgsjrnTlkVoH70byBFXWIXEU1LG4htrZPtm2xyjtYrTds4QMpLLNxyK3J48vmJEtmVrEf7X6bEVYazD1fdbC1EmH-ucWwKls9YwNbzb6X_uqOca68KVhdebdfAnvBO3uRRGC8NS9V2IWxgGIg4KDItSBfbcLUOY5NqQhg..%26ch%3DAQEAEAABABSAYdud6_iBxevXHMKDOLUaFua4uIpJeqU.%26v%3D3%26pg%3DG7Q5JOKRFFCQJMCLZHRESYEUPE
+.netflix.com	TRUE	/	FALSE	1796085271	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+30+2025+19%3A34%3A31+GMT-0500+(Eastern+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa9c0d79-95d6-4cf7-8eb8-a25518a356e4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796085270	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRGpLJzKgPeUtfcacFhOxqJIoQCQh9T9sA.%26dt%3D1764549269584

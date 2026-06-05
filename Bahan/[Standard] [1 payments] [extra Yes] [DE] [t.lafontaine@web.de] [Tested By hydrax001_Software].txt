@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marc
+– Email: t.lafontaine@web.de
+– Country: DE
+– Plan: Standard
+– Member Since: Juli 2020
+– Next Billing: 2026-06-06
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4915772626687
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Thomas
+– User GUID: VZYH4KAFQJERBPYD6TJ3XDHX6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798947191	nfvdid	BQFmAAEBEHrOOoLtw0DqjvpUKxHnoVxg8-brtnGG1jkFS46h1OXQr3-SXKh_y7QI7HsRDCqtJT-Xk_u-bE5JhsS0XCgfaJmcZsG2VFuRXuHt2_C4-UbUKvhpQVHBmI3AZEYvsRbq-A4j3FRTETqutMf3IljmgD0T
+.netflix.com	TRUE	/	TRUE	1809160526	NetflixId	ct%3DBgjHlOvcAxKABIEVa2Bl-cdVBvy73_-g1J2aAn8AWWnJsns7SiKe9a8HGJY_zpMZJgKaOEbdkw9YjsF2WoIRiARwHTuGCwnzyKDLYd5gFiV5uOERzZf8-B-MilIgioV_Ckt_qLLKXOJOBmpUn1TruDZboLCt9gF9moex0p0IS6l7uKLRzyWuIEHl1R1JzpezDAs5OQw_vOES7Pcsq_Vwr-mtXxgLtuENnz1CFQpBs24Flvn--K0-sGz-xHX9lYOBTIzGFJjBx9MRLmxxzVDRV9mxWoYdhvkUULU7uh7kWm_YlRSrw7btmYebOeleQ-krTou5UlvVhRHDdhjPGSBWZnNmBl6PAskxjlnOrAvigfpwC4i9q0xliLQ-AJ9-YTNG-hlj_AX7U4lfOP6qCyXV4vhmvA2__pilt2zDh9PXg_gc8yffsAcCubGeXZXvFpJoWtKiTp17oaDRCZ6xCa6IO8tVPp_QQ5JdDsVFsqIgH7I7wC8Kbc7Z1Xakfp07ilAlqqPgexERXZ1z4yUy-3G3uSICwEGLoC5RTQb8VCFk2x2J738ualEqvgwpUl7oXBGYh3CuNJ7yAN_GV9_6Qolmx1VavqcrQCLTCS7Bw3CYt2I-dGlwApAVw8BrAiO19lJFX4ERUms39PXpn1vynXQqf-4LgmoTeKnz9wtmjLNx_MizFmVAN3xG8QdeGAYiDgoMnqIF6EYBy63uUjCR%26ch%3DAQEAEAABABTsArgyO79Mn6FFUjeVE0ANV5R8ZaYfE64.%26v%3D3%26pg%3DVZYH4KAFQJERBPYD6TJ3XDHX6M
+.netflix.com	TRUE	/	FALSE	1809173695	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+14%3A14%3A55+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=054bd7c1-3492-4de2-b0d4-aa7431a29e18&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=DE%3BSL&prevHadToken=0&isDntEnabled=0

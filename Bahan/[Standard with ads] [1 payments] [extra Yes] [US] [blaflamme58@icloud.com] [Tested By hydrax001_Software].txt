@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: blaflamme58
+– Email: blaflamme58@icloud.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 3853
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: blaflamme58
+– User GUID: 46CSJESC2RA6LEZI3BUCUSSFBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806822080	nfvdid	BQFmAAEBEOcq70KLUoBB5eWqQpnNrC5ga3dWLmwPekimpS4nmXuMjyHiPtjQRh3WevnQhLUq5fLVkVnAvYb3c7W96UzwD4ob63egTsHy5cWGCVAJoPVbQO4SMdgM_5czT-Oeo1ymjtcJMFCTsFMpv1wIURo-Hb2k
+.netflix.com	TRUE	/	TRUE	1808006251	NetflixId	ct%3DBgjHlOvcAxK1A0mcyWT6TXvKgxDBjefo5xY0odoKthB59H9OtqI0mDCGXYZ6pLQs_WQaRJe8gW8GBrNMpwYh7ftxoLWWmIU-Waxx_pxb5RReSo5RtpaDbpatcMUDJJy2b3u3AIFWr-MzznIK0UX6TssSMsgjNsmhvTHSPQYIwihyb67ytowYB-rsoscAy2sqf9_PyHEWDqz8pjkMCpr6vFSeygyK7KG53GORak1T5Fpv5Tek7j63vryErQyewfRY9O5u22dXo6-1mb_tb1bE9hH_PpJLmqqYVVm4vlCux1Agg463jzqjUwUdcBEDex5bN1-sD5u9u7EpQc-bAZK3VeKr2ym1lr9pDO7iEQYc0GUc_0UBiwNwXMXUsHmEsdA87jT3xdo0MyFNSKMe1srEWEeL5Wb7i12FTzqes7FvvSQdcslR2vO3IkE8DZKzv3FRO88yC4gUPxbAMdL9QLVlHiki13Gntt74g24A3kTgb8kwqDw9Td1vcGBwZhKN3KuWuBMBXGji8t1QDYDHkPCcCBaDkKDOJtPL-dHkURmDCZuV4AXJOtj7EWxgSu9sRSoUsLKZ8oNxr9gX0UYtAtIIGAYiDgoME3HWaTMzFjoVLR3K%26ch%3DAQEAEAABABTzELyXOzI34CcCJSTIyg51HzHJ61O7yU4.%26v%3D3%26pg%3D46CSJESC2RA6LEZI3BUCUSSFBA
+.netflix.com	TRUE	/	FALSE	1808006736	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+19%3A05%3A36+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=abf12d0f-1080-466a-aac7-04378bc706d2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

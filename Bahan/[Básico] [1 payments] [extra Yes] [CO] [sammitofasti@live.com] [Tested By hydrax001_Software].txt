@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sammitofasti
+– Email: sammitofasti@live.com
+– Country: CO
+– Plan: Básico
+– Member Since: abril de 2026
+– Next Billing: N/A
+– Payment: TELEFONICA_COLO_BILLED
+– Card: N/A
+– Phone: +573177529530
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sammitofasti
+– User GUID: S2ZZZGRNORDDXPLGDESP3YVJMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807394630	nfvdid	BQFmAAEBEEmW3How_C_GC4F0AERW7kBgJWdK3iMyBB4Lk1EJhXxVqLeXVXXIVS9xd71ayLlfAW0M-lPhB8CrZRJeVYBLTLTGBxzcLnYm-D-8Odj3Qg_x6O5Hfuh9KLMYUPX-g0vzzAbKS_k8n1TpTAtiw9rAo_TN
+.netflix.com	TRUE	/	TRUE	1808148420	NetflixId	ct%3DBgjHlOvcAxK2A_-bYUgkDsTqrow4jckwMI-Cao1ykxeTKohoZGOekY4MGq3lytuhW3mceYOTBkrNBAJcA2lBjO3SeXDaaboAgSKizOmGe_GmOZREFAuuEj_Ng3tb924e7gBd7BZOEiAi1B0RzdBpdAXb3duy9Htyx_nDMCFmVkxHDUxauZLrI2_n2MziQ7mAJfhELtOhfwgTIqK5WYD3F2EDpHScmYbZQc_JvzISYVO5onC7TJCExa0gKapK_gYHDxdgPw0qWFEOr5zCrXXafOqu1i7Adrcy1jIROIpWVLQphmt26PT1r1VIStOI_stSu-8e63EzQNCzUr2gf6zBTAhIRET2RlJS3AUps53oRRVEnAH_sF1h4fkTilznLLk9LySpYrgKwPdXxkCD7bhr1rnWOYCjNguvVi-S-rlmAU7fcsmcpDL7HhlNF2Gg17rw3V25Gvx_36CUv1_CcXahbRqYY1ivRu7sGKorMRJMAmiTA_kNKZWGXgduPDOQDATjKdf09Ngg4yIZ-xaifFqmOrzQ_N_fLD7zn-x68m43yrOrzhLxZGtsqSf8HmL_u3qrGCuZh30h72oXx-eJxG3iBxgGIg4KDBAB-ZaExQVokOZlbw..%26ch%3DAQEAEAABABTBBYbETDGdvrZ0ijYv4sNmiS7ZK_DKf4Q.%26v%3D3%26pg%3DS2ZZZGRNORDDXPLGDESP3YVJMU
+.netflix.com	TRUE	/	FALSE	1808177874	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+18%3A37%3A54+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=700f64d3-2b26-4be9-9ba9-62529aac9f35&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

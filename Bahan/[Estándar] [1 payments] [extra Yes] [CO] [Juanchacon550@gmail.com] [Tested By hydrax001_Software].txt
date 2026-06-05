@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paula
+– Email: Juanchacon550@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: abril de 2020
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 1134
+– Phone: +573204911016
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan
+– User GUID: XLQ4XOEVMZDHPMRFMQK6T5D4EY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794250709	nfvdid	BQFmAAEBEJRFZSucuiTMzNicWegxO8hgrPzucAPTX6x04AG9vfunfd0PdP87AILR4WvfULix9tCJAy9Ttl0i914Tw8atsIVIHs_z2friU2l20d6rafFoa7aguXZ-C9k8-V3zTWQb8RG9D3nVmJtH_pP-6Q-7OZ10
+.netflix.com	TRUE	/	TRUE	1808261667	NetflixId	ct%3DBgjHlOvcAxLnA9acFqlIrY06z5qaTzpcdLAgARzg28XQgNnCAlQEchuEoSQb2y6jLciiR9TOAmFeEyE5BGEXVLC8hkNBOEGJcLuX5Nr0pBQJ_6X6KnG0MEdIzJrBuu09wO9OsXzmyQB20iW8wOhCONLI6p2EdwtdDAQk3A22Ibg-640bBCSvFaQ17RyytkFNmyXz8xyXPrOMZoWKN_D-A58n8-ltngjv4NKa0NapdPLyIJNXtZqNX6LvnNoeFNUANEwoKQjLY6zW7UL-WgKJGz4IuWHh7L3nftjLjkcAAsi69GjHyOpSc2H9AlCgXPJCGqM_LiO8SCrrkYKEpRIzCt-eN7VfBhITHH5C1h6j4R5y0lu9T8-mNGbxnPy9Ykf2K4C3XnHRGcCGb8JSWusZG43pWf9g6uvYMJ6bcKUy4XTDDGKA-h4izbUlWkoyYhLjVjct4qrC7Wy3A5-7NgsGcPMgIVY9dkMV1bis89zQqBfyVZ15gsTk8DQ9GwgjbC9Cjb7WpEHt7DjItrSIV_6ik_8P54el5R6FTroX9BwKMrUPDFV8qxEbnawEsAmuUMrrZEVKhudYXsIfkejfSEaRzOUThEBjzTZI5cKhrTQ-zkSbNftCLeway1WfqMO0-kBvoLOpJZ1ABRHBrx6RTcIMcr4YBiIOCgwcOmk3DBTlE8vqY28.%26ch%3DAQEAEAABABR6dLbw-mHnqYgKC1nEXl7PyPVLoZYeyX4.%26v%3D3%26pg%3DXLQ4XOEVMZDHPMRFMQK6T5D4EY
+.netflix.com	TRUE	/	FALSE	1808261676	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+17%3A54%3A36+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=07fd61e5-6695-4c09-bb92-dc211eb07dd3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0

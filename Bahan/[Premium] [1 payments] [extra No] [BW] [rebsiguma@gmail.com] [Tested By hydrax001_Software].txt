@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Master
+– Email: rebsiguma@gmail.com
+– Country: BW
+– Plan: Premium
+– Member Since: May 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 2481
+– Phone: +26772415539
+– Quality: UHD
+– Streams: 4
+– Price: $9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rebaone Siguma
+– User GUID: J5QN6M3WWNBSTDWD5IUTNX7G2M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807587039	nfvdid	BQFmAAEBEDyT-pbuPSEpoT7vslnmg61gS4oXx4ZhwKoub6th8Z8sexT5PfVd-t6VP1tCo2FfbG2WHh4kBjzFhR4pOYjkNgK1RSVHnQxF5s4w1VXljCFARKGPR2TTihmVL9US07mytZglx0uV3qRs0Lo2ydoGtk8A
+.netflix.com	TRUE	/	FALSE	1808787397	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+16%3A56%3A37+GMT-0800+(GMT-08%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa034a10-59f0-4c23-856e-aaae19b4669f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776050718380&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808971700	NetflixId	ct%3DBgjHlOvcAxK0Aw79OyZ0aAlq2S0W-rW4TYEvJZicMjuzHtv96JYY0bpLT9hChLK726pdWKKSvnl9YEnB5MoaqHls9F2tJ3yikTInDVnpB_0Jm_Rnfy0muuxT6XR8WnwRevbI5JoXIIv8spFEmSV7IuAJuY6uPOccFp7UAzvTrNA2nithXLPK6krEZ8NX49BUPQNXAYHtzRW1O9wpnyW75GcaCcK8R6IjXMKiU8vt12_ZwdQmBvrW1go-bVwqocWQp-0bau6MWz6CDO_kxVsb5w2gobv2JyZAypse7nReazDzhRivy-hNT4IGqqsjTEpWixXcSqfCXWsn00uLdjGToDl4BJEMwSo0r35QAiH0VUfyLHkt6h2lcNUfUQGqiimUBifkASZytqhmCsdp-hWAAvIUt6o-tAWW7R4IYWRNapgLGWGGELMbBA8cBEstl_-S_LKlb9y6E4Qap13eL0BzWB7fBhQ4m7lW0OpkJAKIz2OWJ-F_zfADGYhku70yVjqzSz28VcvUqvxanLx72Z4-j87Hn_DxSlws6mEXjp8eqAAyryRL5A2lYdwH42vJyRES0oO3Hp5pGr4powakcC0YBiIOCgy2uYJGomCEVR_QCPc.%26ch%3DAQEAEAABABS9IMn3tQxGAjGjHvm5V0utPP48SFAcms0.%26v%3D3%26pg%3DJ5QN6M3WWNBSTDWD5IUTNX7G2M
+.netflix.com	TRUE	/	TRUE	1808971700	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRa-grxiC9opclYLLayLNPsC-C6icXzD7I.%26dt%3D1777399789646

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yama (no usar)
+– Email: gallodavey@gmail.com
+– Country: UY
+– Plan: Estándar
+– Member Since: julio de 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5977
+– Phone: +59896764547
+– Quality: HD
+– Streams: 2
+– Price: US$ 16,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yama (no usar)
+– User GUID: BHEO3IRGJBFCPFT4LKR37K7DTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808668301	nfvdid	BQFmAAEBEJFvtOxMy7jy3PG9JB5vSqZgWf4RHAFJXOjS9AH-gjsFHAnBeUcFdPSrKcW81zy3CCEuYRYJj6R1mg0sNjAmtyB_nO2Aldsd2G-OEipYdrRKlPVqlOXUrqNj2FqNZWdLFyoQVYwdINjpPEhPG2c2oXJl
+.netflix.com	TRUE	/	TRUE	1809549291	NetflixId	ct%3DBgjHlOvcAxKVBB4H50KPC3PZKHxvklf1T_gr2ymdM8O8W_ZLwcDIo9ZA0ZHfxY5HgfgiKsHGpYzWL0bkZIpYVcxlUruTU0cM_G3qn8w46vzzx-zd3UYaeMoIULMSmFtA7v9iRjN7a9En5RQNDGLbIXh-P4SbubgSnVTtJT3eGXW76DmAaNONSK4zBwSXv2Gfnr1p744rTEy---5ES3X4G76_FOoPX0m047OZ6HtZeGUwEFy6OvXxfywLF0uxiHoahJrlsBplbNifye_-LVh2tDol3Z9UbvxY4Vom40-1PFLIFDcUErcRmbCtOpD5_uP_ZqVaSfDQ9vjSQqguIDnPNRtTWx6GQlY24hotGOAa9xbVike3hBr2h7YQd_qtS6MmXybnYU5V8MHEWwCKXJ5R1MAzbtX-qfSjm00FVC1QzFoy1lKl1vQDNzGTj8wJFd8mhcqqWDX0XqPCUtWyCBI5d8THfv-V586bUY_TSFkkfadca56PR6FI23W-YWc6rVsFTQ_rxvvFNA2GPCF3NzWIZxv0PhF5wGth_2Br-e3hzvkCCO9M-IAphWKKXo8WJQUdBTiHeA29j0kYOiJJjTIc2-tqQv9LeCYtqucI8SN8yyULzshhwc445GkNYB0aLgwdkM7yqstZ6LbrTnmpcC0D7Bg9TcFqiPhDV5yRTsjrTV4RF2H71kp-0cv0l-h0z3oGl1qJ64K83WWBCP8924QZGAYiDgoMCQERJwr5bYYlDtmU%26ch%3DAQEAEAABABRDcUszoJAkdOcYL6Ae7ESjHJy31oEYlXg.%26v%3D3%26pg%3DBHEO3IRGJBFCPFT4LKR37K7DTQ
+.netflix.com	TRUE	/	FALSE	1809558687	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+20%3A11%3A27+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d73d9054-990c-42d9-8464-ba2fa49a3871&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777132301865&AwaitingReconsent=false

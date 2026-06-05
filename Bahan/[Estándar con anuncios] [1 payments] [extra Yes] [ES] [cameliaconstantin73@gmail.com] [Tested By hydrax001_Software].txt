@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sebass
+– Email: cameliaconstantin73@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2026
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 5607
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Camelia
+– User GUID: BTXNYKP7QFA5PJDWSDHSTF4F4Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798470737	nfvdid	BQFmAAEBEMyDV_qrN2QQVb5f0Z5_MDNgimcIqkcHBqyYP4M4NhzloqLBqmLbk2VnXd98TIp7cs6qMU49tjyglQpqfDsrLqd8h0_aUKA5zXuKzFpDytfRieGNb0U6sr0zdX7s5ZrMMbXhIxSP7hmybu5JRXZdv97J
+.netflix.com	TRUE	/	TRUE	1802978492	NetflixId	ct%3DBgjHlOvcAxLnA5Lj0EGbOvWynZWcX1BlsKXwJVee-ThXPJBk7shKrReLK2MZ9D1L-XTsd-SxYdpHX6gxDv5wblJF4eu7usHa_hw2FQe4_0D8M6JWcZRFTAWNAI-QRf3dFdI9re_8jdxeXdwayX9izN8iocArq_zCChYv4dDVAMYElFofdNKCynF41e3RPME7Y25sOdQFCip-4RJ4diZpVyJzmJeElPvSiJzEElN4ipt5J63JyIBnLTni3PNdIq6YSocSnz2FAr9vHk-WgLxkaBDZCZbI2L3vLUDoTZzbXMC1puN_sE4raM6MUVSJvSH2m6jWTDNHKsVn7cskjDwLWkKz6vB1z_VpqgK3aoAxnGDG00LPmrexVmOEgHQ5jn3j1dKH_D7CibuP4Y90ytPApGAlTjp4IWOBHwh-mh3LNLilqrVYELrQhacjI8fCYofrO2x6Wi1xKnDEy90rtHlFdq7VgF8hr5bhyZz_CTp084FY14ttAmLaaAJZpPqPZ21ERaio2jsGdKsweNnESlCf0aqOYzsvFSjYXaWzaTAp2GHfqRtNzELDyEZjHlHsdcS5uK0lEwwF7-EOL7uLOu4yKgYdAQ-8qa4cYx9w4GN6Z-0ciD5vOWrq9JZMX9dgGbj-AlAUra7JwWQdQewmzxOvWSQYBiIOCgwRWIwl6k7WCcUBbF4.%26ch%3DAQEAEAABABSTuuOr4zO34xRRTjCHuqUAfCdqV2FIj88.%26v%3D3%26pg%3DBTXNYKP7QFA5PJDWSDHSTF4F4Y
+.netflix.com	TRUE	/	FALSE	1802978493	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+18+2026+20%3A21%3A33+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd06a28d-77db-45fd-97dd-c85281c18c51&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BAS

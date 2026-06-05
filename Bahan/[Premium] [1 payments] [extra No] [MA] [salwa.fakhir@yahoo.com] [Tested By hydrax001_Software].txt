@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Squatter stalinien
+– Email: salwa.fakhir@yahoo.com
+– Country: MA
+– Plan: Premium
+– Member Since: junio de 2019
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: 6881
+– Phone: +33766722267
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Squatter hitlérien
+– User GUID: 7R3GGXARKFGKJFNZDUUGBB4WAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1782201596	nfvdid	BQFmAAEBEFQu5PgK7kNOtjDqT7ANHmpg0tpOgAzOlo1lFFzoO0FvBNMlJlWNiMHPLiti0X9VSbFDhKH6rWmQakSs3HAdBD-TVRsKNOKKJeg2WAj5FalvN9Fo0cDh1N5E-JAenl0EQjQS2HNzUSyWEm6sfupcNVCB
+.netflix.com	TRUE	/	TRUE	1782201596	NetflixId	ct%3DBgjHlOvcAxKfA44econOp0ba8RfAfbVQHl5PnvEcYUamudoJQ3Lu0--Knmom1s5uzZEbO0LaqjAzpKIYl301VZPazuul22tiqqs8tSHmlB84J5s3vwRwry_UmK_j9GofDTL2hgtJzwXW3YjYZzmaJ1rL9by-KOmgUI2y_4sI5MY7ZXcyKV-0gSzVir0BkKoe2Utsz1Hqr7CNXK_1v9kWfe35HHCRG0SCcL_dEyDqZC6Ks1lx0tnUwkLKmbPB_jGvYJnMzBR06tlfaEDgEcKFq0BqoRzJbgXNocQgDDN9VP6jNn5pczJAB3ASDdz7H-7QOWuWRZcj9MUuqf3IOsfj5mwIt3h2cqqWRSA1JrtBjsbJ7WBnsF-sxqFq02GHUnxKEiyt6Q24wiDlShFH_zzlhM29tfM3G_7JmMDc3xJ1egA67AMeZ_9Zd7DNf2fs9OhBM7NPusM4Og_PsXxxxje3fdl9MJrtADwkY9lDCi681YFU9RdsYKL7Rq9SYR2uqLp2mKJqx8BLRli2AG_l0XzaY3yQkiY36F5Op51cMS_ep5Ncj-g5IP1fnZMYBiIOCgzxMjBHDgDpM50rEF4.%26ch%3DAQEAEAABABSQhJ7zGR_HTJqPU4jkfcTAqjUBgJf-S7c.%26v%3D3%26pg%3D7R3GGXARKFGKJFNZDUUGBB4WAE
+.netflix.com	FALSE	/	FALSE	1782201596	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+08+2025+18%3A43%3A48+GMT%2B0100+(GMT%2B01%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d02e60bb-fffb-4dfd-bac6-bd94192800e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782201596	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGhKJlypI4_CnYXlPGXP3HrIFEeECFEaA.%26dt%3D1765215827756

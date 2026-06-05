@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mozão
+– Email: t.berseky@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: fevereiro de 2021
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 6130
+– Phone: +5519996706448
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mozão
+– User GUID: ID4DN6NZXBBHJBJ26AX7B7QI5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1787925726	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA15OtxsNjSTPptWaIEpAMfkMY3hX8uMR8MZgHemhp1SLMV9EHbIB0BgRdRfwgtf5rdxTy5x5tX8MYQnU9yeFAHk_hgdM82P7QgIXrccZZgeOpYMPRwYMMfKHUAAu_y6iQli8d140KKGZqjbBMWSPRS7vzAKyeRlirTC_YXCrIr8HBqL9WtuJcR7mpnDkJl14x2fPKB7uPvo6HjPJp7LWSElQ3GBHTkmUXC_yqtYx0UOoPiooGGsvN-26uL0fwe36FdRsvcJPjtV2_x3wOUIEyuoAp8fUaFOSwXfeiI0_ZlFiqrtecn4kZU4ZfmWywspCuan_VEJrbxZH6PJSCNcQ7FiRwzuOWsB3-SiIpeE5VdEyVAsYwuF5321YIOlk3BLqYntwcWsbTdNuGLSn8pVDNCxeFNG2ED26xBZv5Dca4Dqn5NHBecWsnbeWf0Rgn-TRI08qZfLCWxx1gB-_eJoYBQsMvqp29Ae96A7dTNnWjoiqjXJQS3WHgSoaCDhst_Xq6DYYBiIOCgwimVdhclcl1q_UX8A.%26pg%3DID4DN6NZXBBHJBJ26AX7B7QI5M%26ch%3DAQEAEAABABRAIBV5iE2IWlw7vD93M7bVOSkNdjXmgSQ.
+.netflix.com	TRUE	/	TRUE	1787925726	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtB_5sTWr6IV8yBRmJHk9Cp23FiOxOD0c.%26dt%3D1756389726459
+.netflix.com	TRUE	/	FALSE	1787925726	nfvdid	BQFmAAEBEFunBUjl7t_vytsmn_xyZW5gZNHHOCiWJaaBslhVHpMfqitmDSBWOSVSW50PKHB0Wc2OwYIfD0a3BOIOPU5bHCRkz5xFJtYBq70sMG6eqx_Y-69eSSueRxjIuYW9f21iAxZBOIyI8Q9sWJDHOVFKU1AY
+.netflix.com	TRUE	/	FALSE	1787925824	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+28+2025+11%3A03%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d95cee0-8b1c-4848-9aa9-126f9937de3f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false

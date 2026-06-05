@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rossy
+– Email: milagrosvaldivieso05@gmail.com
+– Country: EC
+– Plan: Estándar
+– Member Since: febrero de 2026
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 6729
+– Phone: +593967454872
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rossy
+– User GUID: BFMFIHOE6NHH5EJ7S7OKOW25CM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802474878	nfvdid	BQFmAAEBEAtbfLUNpOqCMfrN2aI3nrVg5Uf2UaWhsy6Vo51ck2j_QD2aESZFJRJuUMo5K78M7iknvtEt1w5YvxgXhDNAbZVEbzDQU7GS7sKwJja1I2vUVubMtBsIEIW_0r__2wkiaI3mWpgHsIhK3F0av_FDi7_C
+.netflix.com	TRUE	/	TRUE	1808516394	NetflixId	ct%3DBgjHlOvcAxLNAxUcBG98yD302SRnz3VXQWWdZ9_oOnu6fsTfr1rbPdbT3bZ-UVE-rE11VmqdS2axfPaQwDIpi1sb06eVkAsrs8eoXML_f6zOkPZisb6c7yvLMmmc2z5g6psf76ZOmCAq8JsZYuoKtJP-NGa_ztBW7SODzyjPA-6h6Lbfo0oNLu7UN4KdHiCRZDuHjMDME3WC8cejwyKTqrvYex7eNmfXcFikdQMviFPy_dJeN8po5c1iMFSdKlWNf4n1w0QVRHcRFXsbamgTKvmWHyHk4fET6oPqnEb6OCSATavcNUJzZMPBmQfJNrhYFybqbs1GwuYy7MbGc2DtE10U3q7GKSQssCbHee5FAFkAYj5zmBddWCmTMzJ7vHGdcyrR6BGmKvLRfQ2vPK8_gzuoCkinYbqD3IHDwEZp8LFpVeZ12HL7YGuWKxBfa5R7tE_6wO8hOFEY56T0Z_v3jw3dNC-XrJwbqJccTLFlCoyP3LXS93311Pjm2dLIg1ooxjCmfyxbvVhudD7lfEoDgiJqMlSaoPaoFxkH1t6MeYXItrKVcfLFqZW0f0nAq40vvFKY5NZN0MUueGCX8_WBU2_ICynxKXbCwI7gGbxBSbaPVTi63TvJGAYiDgoMnZJcmyDx0UmR6FKJ%26ch%3DAQEAEAABABQxTafGfKJc-2rdZHGn_wGWZMFzuX1AG8Q.%26v%3D3%26pg%3DBFMFIHOE6NHH5EJ7S7OKOW25CM
+.netflix.com	TRUE	/	FALSE	1808525672	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+19%3A14%3A32+GMT-0500+(hora+de+Ecuador)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d01839d8-495d-4aed-8692-e6d9590436bd&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

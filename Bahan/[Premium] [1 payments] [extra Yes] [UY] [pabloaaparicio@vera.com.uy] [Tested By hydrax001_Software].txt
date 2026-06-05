@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: pabloaaparicio@vera.com.uy
 – Country: UY
 – Plan: Premium
-– Member Since: junio de 2017
+– Member Since: June 2017
 – Next Billing: 2026-07-03
 – Payment: CC
 – Card: 8127
 – Phone: +59898427859
 – Quality: UHD
 – Streams: 4
-– Price: US$ 21,99
+– Price: USD 21.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -23,14 +23,8 @@ VERSION: V2.0.1
 – User GUID: WBLO2YUHCVC3JNLMBMJLQMJJEU
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAeoGsroTomu4etFuqUvPNA+ML4cVTCNeSybPyycuWHaNiasTUo+b/FiNvBhqfZof6trpzqdS+uiSnMEgvmlU/q2CC2fkxCIlJ1ksCR7N9U4uPyOMuFBRIIagfigFvOT7DLyBpvJzmSxGNXengHis2xeBCgEggs4K/9AzQDgFKQ5RNeti5ipyzOpumccmM60XLlMP5wp2Fp7gXpM0RcEjtzkeCEp4hgm4aL7iGE0mbS6Jk6ydtdTqC1XLj4BHHPtEGaCBGAYiDgoMqD02DvDrOeLA7BGm
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAeoGsroTomu4etFuqUvPNA+ML4cVTCNeSybPyycuWHaNiasTUo+b/FiNvBhqfZof6trpzqdS+uiSnMEgvmlU/q2CC2fkxCIlJ1ksCR7N9U4uPyOMuFBRIIagfigFvOT7DLyBpvJzmSxGNXengHis2xeBCgEggs4K/9AzQDgFKQ5RNeti5ipyzOpumccmM60XLlMP5wp2Fp7gXpM0RcEjtzkeCEp4hgm4aL7iGE0mbS6Jk6ydtdTqC1XLj4BHHPtEGaCBGAYiDgoMqD02DvDrOeLA7BGm
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAeoGsroTomu4etFuqUvPNA+ML4cVTCNeSybPyycuWHaNiasTUo+b/FiNvBhqfZof6trpzqdS+uiSnMEgvmlU/q2CC2fkxCIlJ1ksCR7N9U4uPyOMuFBRIIagfigFvOT7DLyBpvJzmSxGNXengHis2xeBCgEggs4K/9AzQDgFKQ5RNeti5ipyzOpumccmM60XLlMP5wp2Fp7gXpM0RcEjtzkeCEp4hgm4aL7iGE0mbS6Jk6ydtdTqC1XLj4BHHPtEGaCBGAYiDgoMqD02DvDrOeLA7BGm
-– Token Expiry: 2026-06-04 09:05:54
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1794148182	nfvdid	BQFmAAEBELR_acQwp-MNA57VXC3AHWlgffYN1NotomRBOki0tfX4W0MFY3OnhcEA0uoLjSA8HjKVouN8FmPXdRmspTm-V8ZNV59hqd--zo6l0H_4LWLFl6TSkvYMw6Frp_dPp847x8SeNK6lqq3T-o8KPkHGOXQQ
 .netflix.com	TRUE	/	TRUE	1809281829	NetflixId	ct%3DBgjHlOvcAxLMA2rOnMzxICkssNidEvqMi4BrTRGvnLxMvDx1Gu18YTQJ7-m0YmHP3pK1unxz66Ijjpz57Vb_wyRLkt1m2AO4IB709Q8k7c9ljteaSyQYHpmue_d2Q14V5vYSzOq_jjQsKGEN0lAJ1eZLvSZEdetvQEHWe-0zezGr8jGj4grLuu6adwElmeRHRm3TN0mL7L6n_C5rpjv0HMllXzyeMw0URJ22ys23Jb_QrZ1RgOwaSbobzzVzucw1oawLbOCF1anxzd_PQ882vp0qPZXZODqPHGYHIF9Bxuqlm2TWubCjKCK6kZdpmTYtSZkimJb4Nq_JcUbyDPvHz-71cZeChVnsJ-sa0c6sOp1h8yga1SpnXyrb4ZxRZ5P58NuZEQiuY65Lqvfah3FFMq2T1-CBuyP3jVpgyvixS5K10Vl68gfWCkwH8NdwHBEi0Ztg-shlITqpYBI2JmTobuOtqxyF1GxwZj-A57Dnm9qAFkk1eXalmmtY6qRgJPNOe_APleUPX2ew6Ztz0pE1PJl9HFmHrqClPnHNunGb36L3zfP-5AGzSaxcsRstabv9r-aIxswFXtduMAQ9c8s2xl92vMRJ7ul-2kODHP2Q4-uiaEPYa7cYBiIOCgx16MWTlbaX7RBkZI0.%26ch%3DAQEAEAABABQYr84iYvOitLZhCvZrSjv5X87lEYWnNvs.%26v%3D3%26pg%3DWBLO2YUHCVC3JNLMBMJLQMJJEU
+.netflix.com	TRUE	/	TRUE	1809281829	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTuH4fLpgbLD9tVcKIYcyUPGh6UbOZvzLw.%26dt%3D1777745830778
 .netflix.com	TRUE	/	FALSE	1809315245	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+00%3A34%3A05+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89ee5478-10bd-473e-a1e8-05fc26889562&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

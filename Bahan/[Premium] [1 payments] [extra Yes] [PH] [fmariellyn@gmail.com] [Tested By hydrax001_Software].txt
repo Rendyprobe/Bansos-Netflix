@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Milen
+– Email: fmariellyn@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: August 2024
+– Next Billing: 2026-06-13
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639057710667
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ama
+– User GUID: 3QDXAIPRNJEAVLAON6KH7H2J2Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783198321	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+04+2025+15%3A29%3A16+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=517c1d32-6d1f-4c56-b8a2-582bfbb296cd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783198321	nfvdid	BQFmAAEBEMU_P8gsub7PY79CZFUNfl1gC3qn3rDdIj1F3FMNW7U5vUwHtJUM6I9EqbR_LLhRIJQKIZs5ENwi-AzXhbCFgP4wksRRW6SSKsPYdBp6OqrqmQlRmaezSLDbBiJvCC-zLlOV7HclNSYkjn1FPNuE4SiQ
+.netflix.com	TRUE	/	TRUE	1794759226	NetflixId	ct%3DBgjHlOvcAxLiA42KJy1n3Hdu99KLxkX63jkc2blvTOTjCQRQyphIufPsahMxXcmhhfQrduvT0gUOSQcFg9EUKy0ARAmZuD_HtiYNXXljZSTeDdLU-QkBXyrvWMkWdpoxZCHBFHlCdbUathvqGZkKlHfjDo3hUWxVSu7lv5H0I4UIMYYlUOzAgcMgdZxBf4zgYs_hd9FjmLKqT6xfTljMYa0mk810uASFdfmheONBKnKMTEI6vorMQV1PVpdZ62FNmLKH4NVzV20aPMKJwbna2d-3LStkMgSczEuTYGOvZ_h1MSyuv4exofPtEiMt8eAAOnYSJ48DcjGQfOvpdo-YpD8bLBQHh0Q7g9PNEFGOtiJ0_heDO2H1n558TkcRC4ablCQ4QMHxxw2io8GEe-dGtfMhi3-rL_GVjHHU2w_3eOAy1US7WbK1GdKuvStswbvpkYNAXkh-FeXludhFB52n6gnbm4q8oqOdKuXHaSm0MTgLkWoLH63cY4ZiiJiaGazuximFomHSNMxlmH2YQ6B_oTNyHAtMRpRnxLRwrEXmv_HndMNzZlxvd3vz1DKQI49Uf_8LQvW4sM20Q4Z3Taej4f7tBAU1QLphswj9-XPmzA1yJvUYx9-7d6mdGQOYlMteloEakjd9NVS0HZo7GAYiDgoM_955g1wVb-Rv7cIk%26ch%3DAQEAEAABABRKW4sIEgOrduX5lWj6i0WvVvwIDr6K_tI.%26v%3D3%26pg%3D3QDXAIPRNJEAVLAON6KH7H2J2Q

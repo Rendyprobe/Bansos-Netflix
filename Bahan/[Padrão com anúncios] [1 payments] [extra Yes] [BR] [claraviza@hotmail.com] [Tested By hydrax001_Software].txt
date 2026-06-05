@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arthur
+– Email: claraviza@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2024
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 0507
+– Phone: +5531984755398
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clara
+– User GUID: KDALZ2HOWVHK5DML7JZGCGOFJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805929536	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA397sky9MsfGtnCcp8bXBQqjZ4xChWiMvJMIFNnwl3ixBG5TaqwJvdc0tvBy_sqtynAG4ydNwaCu_Bm-XXgUyzapfbBLHV2H4cgQlHiQM0JpxnAUUFuKZVqNuS7miss42LZXv1uJSz08kYPC-WEzwRpHOnXUB_VWlDbaSnmL0chNQbN_tSiOLIi8tsQ22cmO4QSaRMPNfMg0AyNf1SxheO5Aw6sSJdzUYc1JoIJmoYjli292d9Siw8oFGbEukirQD6FDrubGUkUT5ww5ZEKMmyQthQ8-ZJlZ2d6ZhYEp2RYX9elsluJ5mVKQLYU15Jojl-WsNPC6RrDrJHJVxRopJ5veO_udoYk768e4lug9AULDMEq4KISX2b5e_nEYi7VfTYerjtyPhUfodGRSdMCvw98S0AST6JvUCEtUgwc1YDYSN6ljKa63-oRSl76uqNBM_DdXKp-dbPhsFEaqvPn4eW6I0_T5QXPVLCH3zbkW3vGoOvOFRKcekHNUM2Ccq9-fZbnOwxaEdKwZcwVbIsBTpjIivaAloeK6Ln0RGAYiDgoMOHMil_fq489u9BGf%26pg%3DKDALZ2HOWVHK5DML7JZGCGOFJQ%26ch%3DAQEAEAABABR7UGMS6zpW5xi_Cph9blGT6KSpF_mIrE4.
+.netflix.com	TRUE	/	FALSE	1805929537	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+20%3A05%3A37+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b1563b4-40f9-4aa5-b214-2cd4893a5420&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMG&AwaitingReconsent=false&crTime=1774393534928
+.netflix.com	TRUE	/	TRUE	1805929536	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsemVF4tsalVSjZ8u49tHj4ZoZkinBn78.%26dt%3D1774393535515
+.netflix.com	TRUE	/	FALSE	1805929528	nfvdid	BQFmAAEBEE_0z9krW9ms7CbAvCNRYchglEkTmuTmM1DmBojyLEy2NeTOooJM_PUrYZA4-rT-4K5J31TCav__N4s1YDl5rgPlF5SmiD74IxalMolsY31Dq8vsbkyLhSNdxapL3XsQmWtMNjkx5DamgyJMRb2IdLfy

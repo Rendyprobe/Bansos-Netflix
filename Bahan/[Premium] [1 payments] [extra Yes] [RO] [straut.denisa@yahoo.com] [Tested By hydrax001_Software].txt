@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sergiu
+– Email: straut.denisa@yahoo.com
+– Country: RO
+– Plan: Premium
+– Member Since: noiembrie 2021
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 4769
+– Phone: +40727425615
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Deni
+– User GUID: C7LGO4CKPNCHJDSYFISLAZFDLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796634457	NetflixId	ct%3DBgjHlOvcAxLpAxuMPvh8Fy4mCpKU6Ard0c6VoT3z6iidl4tPZc8zUDKIj87emE7TQwPhWczh0jGjhJgyWX-C_bS4x_BW3Gi-DUF5YsbTniODf6s37twp458iEV3-CW0agWuCJFp2IkZUkgJGRUUWwYvyLaUYFoldVgsNhfbWOzbrj-X4pcK0EqNtKxJonKe_or_Mbk-vIBK64FMWrKGu6wG675BAano0TXTt2j9Emdid07_kaQZEzcW9q2GiQ-YhoHrPcrvWppOZcE8_CAlfUcr5t7yFPMJo1LYtTmglN0sRqZgWc_Fr5NNyny1w35bCfchJS1QGNqo7CQg-jjfsiKs23hlwR4eLyE8lCjxX0jh0Duv5XeeBclgv5jrEMEfyXUEMwYfy-555pe2vWalce6XVM27G-wAm4UW1yvlZ27phfrVusWqy__zgSDe0X6DPLJPZA7jrLAe97pBcnBAl3uBww2e41b87m2tmchyqszRPr5yh_8oBPdDhrqIe3gAyl41mV2R3FVfrx8CF4-jaNC4pPmLqgBkA0RSkSXv62P7_8IWZunah4eJ0Z6s-LFGQwmESkthtVoC2lfdoqaqXRbvbMbpiTvlHiX7wFcpZApuR0UQamqjuvLvQgaYMwzeWpQj1yUxD5kTJC2MhYQQs4YOU8xgGIg4KDGWucEKYYZcA6lRCnA..%26ch%3DAQEAEAABABTLQAdSQh0xuTU2q7oyk8G7tyNpih4ZKEE.%26v%3D3%26pg%3DC7LGO4CKPNCHJDSYFISLAZFDLE
+.netflix.com	TRUE	/	TRUE	1796634457	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLZsvS_bkAqyF1dTs91KtJRHGIBq6YHJA.%26dt%3D1765098456486

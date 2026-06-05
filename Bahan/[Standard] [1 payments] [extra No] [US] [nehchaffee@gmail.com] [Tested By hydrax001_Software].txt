@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aden
+– Email: nehchaffee@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: August 2018
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 3052
+– Phone: +16822024289
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nick
+– User GUID: 5KEEWVN47FGA7G2HTDSSOV73CU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788303908	nfvdid	BQFmAAEBECU6QU2Hq7rmbP2xwK0AeTBgibGnKAFsJNAl1CafhYXMvyoqh1RXRszponfZ_I-aRc92aomQm_9mfIUsbS9RwlzAf8HVkWbDC_3FVXtyBd5M2mW-IJrndXFVOuAzf4AbEiPOPLBZHGEiBmnfenhxnfJf
+.netflix.com	TRUE	/	TRUE	1788304137	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLuAqqiCvArPKX61bi1Y6ubGxlm1VintKUTbjG--V-EdegIj4veoeugnzgzrV3q4O5qoNLIN1MlDhjs0f0vhdlep8pQlpR7beLsl0GBeAEIjsDscJUpQ4KOn2q5BQwdqiaBHPcID_uCKbc3QiQw6D2wW17EE0AFraZ3PgSUZzFCOiowKvTAQmIVjPRI_aNUP6MS4XbT2lU3r_nukmx5fyNvG-5l09R8TTHGX4Nhd9N8WWeJEGDurtavG0qtV88Gp2x_OB61KqLV4mfkh6rNDl4E3-kgTocYsxUW9yvYgO3q-zVmqCt7fiBx66tOprAP1S6mm7g32bs_DINKWKNdZyfXYrRhZtnhAWwBj0qzwsdCq5rj6I1QRmm-CYLVm16T-7ESwbTOC2UJv6-TribMSV1KzlBOjT0LtqL7dxPnbt24qjyVFacE-gIN_6peMD8_-oRaPveAXg9z5MshNiR_gequJufIOMSYlGUR7CrztZ7aZBgGIg4KDAL8AGuSMOBLI5SLDg..%26pg%3D5KEEWVN47FGA7G2HTDSSOV73CU%26ch%3DAQEAEAABABQbx_kc_tYTZuyT0mY6nLFiY1_Mm75HSb8.

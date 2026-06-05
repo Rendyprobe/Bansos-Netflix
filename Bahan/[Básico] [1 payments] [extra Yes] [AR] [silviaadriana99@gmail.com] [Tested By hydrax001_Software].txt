@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dante
+– Email: silviaadriana99@gmail.com
+– Country: AR
+– Plan: Básico
+– Member Since: febrero de 2024
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 2609
+– Phone: +543544306154
+– Quality: HD720p
+– Streams: 1
+– Price: $ 8.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dante
+– User GUID: LLATHDGS3JGCNNEYBRFMTBVQQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784603505	nfvdid	BQFmAAEBEJfKoDE32CRF_wbihSoI_a1g4gmGI5iw8hW8jehPhhrT6zDh9Cb77LWaoYSlNy8z6Q6aVyuQAp8jkEcFZmfT3NSrRIj1kiA01LFy9VXrv32qcr03Ewzm49o0An0v1f6VEb936UW6j2AikYD2uWTeyHYg
+.netflix.com	TRUE	/	TRUE	1796689457	NetflixId	ct%3DBgjHlOvcAxKnA5Z7U-pMpvKFAOWf_Rgmn9esUFZhPoduiw7zh-pqBVSVofd4au20lBOGUHx4mjHE6fSsAQu355NgwdPePn6_lzttM_FVmeVTTbZgN1z7NJw1AcknRsESalWGDmsezNge5lWVouePztH89IhP7e4OiDZUEcjHb8tDDfpjS1mBrjSs1NM0lFWtAf2ne1At-zYn-SQJkPLFGy9Qf3tTvHnuHL5sZhNRrXVpiZCF3XTKECum8Hbfikm2enY9pYtNknEXO5kVEqx5JbwrQ60KwoaosddwaleaO-OC9JDt0f0Vsk75IFty1SjncXCVRgP92b19N5rJesW1HSizRv69TYbNYwLx6dpOHkmF7E-lrI-3Q8rtuEFMyfwtw6L_HjnrT5deH8kdb4WfyNj74fCHmITp0UrNkLr2wbSY-TH2dsUwzJSIhJA0UwE4zxYgPYx5sWtjT0NTWsToBAKy6Z71qxzbfDphif_veicoOqYG3nQCV6HBDWGZrUucpqFqFaIezIe3jyTKXxCxs85ag47Fbw77hSBPlc5GTUiMKidMzw_XMV6wOlYSOfjf0xgGIg4KDAsoREJ3U8hZlXriyg..%26ch%3DAQEAEAABABRpBEoxjQlZek4dY-ssINz8twdcGBVa2Ic.%26v%3D3%26pg%3DLLATHDGS3JGCNNEYBRFMTBVQQE
+.netflix.com	TRUE	/	TRUE	1796689457	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFrtap_1R5-4uGMetxHsGAytnGxkFLiRI.%26dt%3D1765153456102
+.netflix.com	TRUE	/	FALSE	1796689455	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+21%3A24%3A15+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1793514e-371c-4585-bf4e-f5f58602ccdb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

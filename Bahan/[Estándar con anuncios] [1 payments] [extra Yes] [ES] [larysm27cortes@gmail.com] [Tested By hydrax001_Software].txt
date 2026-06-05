@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eric
+– Email: larysm27cortes@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2024
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 1604
+– Phone: +34633722121
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: laura
+– User GUID: M56BYNTJR5BHVOI6PRPQZ6JTVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13452642934527860	nfvdid	BQFmAAEBEASlaAm747zlNgPQjyu7ADVgYgXOkSWamKaNYrbM9Nn_0cW6vBPnUMwK91p_6KREUASAVG_Bjw17WyYNl2RRW3xDNGUn8rLpMZWKK8xUBYS8vdjIXhOywF6QPipjxcJxNwSUL0BzGJ0lXJgQEHkQFoth
+.netflix.com	TRUE	/	FALSE	13453054051356608	NetflixId	ct%3DBgjHlOvcAxKyA1FuKeLQ-0WfdJwTJAWhBp6jIrKYPx-TvJUQdx8wjGIk9i6ItlMMOibX2NPC2nqlJfhPxEW-HjvseyYsw-75dbw1r9jvS2R9HQBu4_uK-3LL4-5jfJlPrH1YqmlNr-OZYet1Yu5uQaIuVM-Ze2OLVWN8xkPdmfmrLlZSzzNoeYmGW-cleRahyyAWqXCSQxsAFS0HxZ5h4On_TXPVPKpfpRm1QWOSGsa_TOTDFx1DOqLTrDjFoxI3S8YVpRrdiwZImggIz-NSSYk4OXS6_pkul1BIsYcupLM59PEQ_WwMPvwesaqTNRg0q2lkpAShsEKSLgZEByXSCGD7bBP_wmXjatyRx0eyq_TtQQleWRDz5uzz0T11XZQ_tfOzRf4UzL2T_Qg6GmmWiHtBsHhzVq34LJNSUOszY63pZQtVJxq2EjcIyx_xWaF0pBqlLzIkz04nq7Fb_dJuOzgg5eSXoPRj-cu1f9S43FPT5w6nZv7kU5qY9vH08_aqviLXCZiTqZfMHltbx7-Qv0Sdfu92nHYRwVYwwXLaqX_BjWBrnaU2ldwM6Zjbh65g9dESb34A7jXRadBnGAYiDgoMRd0AmXPeASD0Pwfw%26ch%3DAQEAEAABABTqDthk-Y6_IxKSK8T6xb1POHjj9BgOCBc.%26v%3D3%26pg%3DM56BYNTJR5BHVOI6PRPQZ6JTVU
+.netflix.com	TRUE	/	FALSE	13453054052000000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+17%3A27%3A32+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a382e92-5991-4c0f-b8cc-e9adcbea6d1d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776633231494&geolocation=ES%3BAN

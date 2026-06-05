@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Madinina
+– Email: ch.gaujean@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2021
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 6744
+– Phone: +33626386142
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Charlotte
+– User GUID: C4OITUXLJBHTJOSATSRQCOTRYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788691840	nfvdid	BQFmAAEBEOdAbPfUC5zm71MfEiSzE-9ggbN1gjxLQDnzxfqCVjPobdDpW6sBq4QJ-jRRd8_K0IWNvEls-cOXqrceo3bmEAmUThLBirgTyGp4JO1PUmYZTqi1c_HuNIiQdNQ8nKKw1BvNRijLfAIljEUFGoaXkgeU
+.netflix.com	TRUE	/	FALSE	1802447395	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+16%3A49%3A55+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89c53d4c-8669-400c-9333-5457feb209bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BNOR&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808938075	NetflixId	ct%3DBgjHlOvcAxKGBN2p0seQtD1k83dukJvWSTJdxg6LjeCThidANkG4yX8Zr6rmyIU1UR_1nlFholdzWX7zlX_7wVseyP54754WmZinxUZbXarZLWevCutSRMmwzv2A3oMwKSTP2LxEsQGrZdd4Tl1a7rK2gkq5h9-bZ2by6cqA3GUS9HeeToKFkCt3eU3femwOvglvdvS7zTuk_wWl7zXXiafX19LmRzjAANF0Be3_q9aMbbUFXhyG8vrKLeBZIGR68mCmot26zodgnrIh4n8bVizwuPVIPihnHKuSDuD2oey2Cw9mj_M5BvXHvmeG6J9Ws9LSuvHtwSPSouXDbY-V7DVfwvVhNAD_mRUIdME7ouwrO1FLwy9TGZCkojZnQDvVv9unV6pip5TxqBvg74Atm889vKzlaRepuQTlI9QjVdnN8hvOdJ2eFJaFzroqV0WaTxO8kUmKRWTiUw60ObfqnoWsR1tKKhv8klVfCddbTp6ejop1dzrGDVImLspjb4IiLn0rVDyYieYZAnUVwSxXbcg7j_A03sjIvb4-nbDDkV9oqcM0Kg6gf0GGROhYQemRW2HDbMiMFjKQ6_9kCmXww2emuwjkZfnSnrU56JwnBpUIQkU5SX6j6VsSgC_5H07n8d1Z1sL14evaVobar2tpeyH6tcstXOE3Cd5Yi0HYt3Y_yY_SK0Tbl6n3GXTpGx7tGAYiDgoMtsNfvajAIB5UxXMN%26ch%3DAQEAEAABABR_VWUM3z4Ue76ZeVrf090Pja13udusuXQ.%26v%3D3%26pg%3DC4OITUXLJBHTJOSATSRQCOTRYA

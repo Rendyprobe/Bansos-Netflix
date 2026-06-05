@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hui
+– Email: liuhui68cn@hotmail.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 7158
+– Phone: +17789602100
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hui
+– User GUID: LTGLYGQQUVEDHCM75BWWJ5ZNAA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEHxlr1N-N8xQwwyaJpNrpi5gCz5gDUfTcUtROt_OP9Xl5uHXIk79CiveoGRifuIlIVLESQtzLWwMjtQ0jV3UvVtX-CxWPvaArCh8WraKT9yhUBZpahc5MbU75ky8vbrAGCGSoq4XxTCKK7d0OwJ3ln3T
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	ct%3DBgjHlOvcAxKKBJ9E-Th2OkvGsmeAhbWTRCvrNjFCuXdZPnQRuje-UVqsfttMYOY5eoZnrVdltfHaFE0YdgFKiDrVOkhOHf3whACc2c-xqp7Ii1HJcxh7OGS5YvdwPfJoEPFlV16codWh2LHDWaFfWN26vSsfvklB6MEcMC1h-C3y7_FHa692sHwN-I8VjqHWCVWJRTAytMxvFtbw56IgyMjz9W5PMXuLg4fb1RkzcMDo7i5_YvooJR9HEUvjE-lp8l9TSy2AOf3gv5APFi5aJy-LmIEOkOxJPHw2CHh5zZAXK15p_qZaKrVtYoTKaFyKlvplcp0xBl3ZtEGFLgsZW7QxB5HjZkJLe53J1pgDkhHukLZLEu222HIAB9OsqA3fi1F4ojPidmvdNn42XlD9Ytil6JtgHtZYB6QcclyOo0BZEmihu9JX0BWIiUArY85wr3bbeBExG9YufKfmODTIpYTcBKJhrntIWWgDw-Z-d8C_6CAo33kZbXHBqocxF_x9jAgEXAGyI55BiS7xugVReYKGDi421Bn7lnUeCeAHpyrCDqrA6J93bgj2vcpUaeQxh6yfBHpzXR698DuOL6GsEBT8hlgkMT-dk66as0uiSzRNZEJMTFBNzYPt_LUmBmrHg5xWS2IRdBZqmbhIk7Hiq5zKEXdgpkrOfCyKcF_ZIvqndMyE-uujaWvR8clxrG-cErDldhgGIg4KDGDmgaw84-6cvlGgGw..%26ch%3DAQEAEAABABRhVcMFw5iy42gTJ1hGU_Pafs_S1lkAZD0.%26v%3D3%26pg%3DLTGLYGQQUVEDHCM75BWWJ5ZNAA
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+14%3A52%3A21+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78aff908-73ef-4b89-88d2-401ceb0739d8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776728096477&geolocation=CA%3BBC&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzvb4szycXRMwmzU7DX3LQs_DvBi1MoEY.%26dt%3D1777758740663

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Neil
+– Email: nsgaffin@hotmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: October 2024
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 3170
+– Phone: +14077339215
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Neil
+– User GUID: B54B4C56VBGHRCGAFIF6OOCWCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800751975	NetflixId	ct%3DBgjHlOvcAxK0A3_RVCj9RuJR-oBV4jCiQ05Os75qyM0KD8rXPcxIhFyiEm9uYgENcRkPfKHb6p_Tf-i9G3JdK0MD5_IMl8bDOVFHfKxm51ZihtS4yOIcrb42i5HPtWo5R7Wg0_tFZLA0uALBJb_FpanxKk3ww_CO9rumjXxKtM3pRTcAO0OSIQlcxKNrnv4TPJRMx8ttgqJrqtpSl1q4_WhE9d03A3W3bOaPHzmIgrKD_P0yEI8cnVq7NtGG-_coNIawMDejB8l8BQrDTgtkmrw0osSWWaQK3g9W75BuBJ64x9BiFMvTv_YUw6iJtDDpZ8c1F_uLUGN9BcE78Qx1oHbOHenAeHug3uKhgSv1AndsYtal55wGDoxg2FgqLQn5iJkSPMZRuxO48mBR-7yXWEyrfvZ_6CXumSZ_DoUbSuyOIcWhJGVuS3q_niMIpBIgqF4ocyGQuxOQH6jz93C1Wiwfswt5pQBcsuUZJivxnJQttMvV_61HpqsvtxmDA7BKXoRisHRYXZQq7WNaSXi-UTE4EhNPAy-LT-TAno71gKhv0otOCF0LYyv15z3kLadyNF9nLLrAJ01oaF9c1ggYBiIOCgwp8O3LE0CYVcexlhY.%26ch%3DAQEAEAABABQVN-OB9XWXZo3Vph-kM5XRRgztcP1Ujkc.%26v%3D3%26pg%3DB54B4C56VBGHRCGAFIF6OOCWCQ
+.netflix.com	TRUE	/	FALSE	1800755861	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+20%3A57%3A41+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=401f60d1-d91f-4bf7-aa20-89bf1a4ec829&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON
+.netflix.com	TRUE	/	FALSE	1795998065	nfvdid	BQFmAAEBELBxPM0xVRx0pfu1jzfhL-pgjoPr0R1Fmev-IYY51ORLA_UvjNyguVhvtaQh48az2P1LW23y9JO1PQB2VjLIuAzlNqoA_X0X4g3YGtyXh41ON8Tx86CaNFf7WRwcg2tt5JuNnLTnkJM1qom4OwUXYZgh

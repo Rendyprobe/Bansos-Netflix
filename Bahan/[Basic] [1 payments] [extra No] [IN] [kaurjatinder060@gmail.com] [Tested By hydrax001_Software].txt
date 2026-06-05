@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Guri
+– Email: kaurjatinder060@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: 2026-06-18
+– Payment: UPI
+– Card: N/A
+– Phone: +919872724703
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kaurjatinder060
+– User GUID: 3DZ2Y7K7HNHJVLWBUC67EFXQJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789405763	nfvdid	BQFmAAEBEKiEjifwPJNd_m_lvBwXFr1gnVOsCDt9DcqJFw5c_Iy78fuYTJLgbNOnOVBYPMNo68hq0fbAwTULxq6NSw89jpXBb7FQ1XGc8wyeFR9bpciO3ex3MnmCR_uvkXb5Swjytzhn8gUuhfBCcuNRGkGDqRTI
+.netflix.com	TRUE	/	TRUE	1806763635	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA4xwc3CU9TkWdWWr4Hxq--F6stcIgefPWhAeZ0pweCCGYcPmiQ2yBwXdg442y9n5jlP4EQY05vlWD9qLj7t8NTCKMQLJsAbIcIn5rYIbX2yR8xp59HZEnelmJcgeeR5sI9_47GbDoKblUG1z4ps_nk-pHDNNPX5HjMqQn2BiPR8q3T5elp9pzJgT76MXqo60MaVffQdqD_4tKVye1oT_xnOjqO5wOr8GLVb1_8SVYhkX2L2O19X65LX9_RlgE1Pg5zz7T2Rt8_MHI8IkwhCVeOgJD1IsOaWGtKfutwJQTm9LG9ztnOVeonymgduS13o_j8lvLYKRwH29rQEoaHvUfd4h3tbUTLH5SG_eqS5iyDBfg7XltqXjCqa1FjvFfFivuQF9Zt-SUThCWCoB-kQmwO82tl5xZPawSDeYQ1RdcnmYNekPex2B2caKU-mmlu7mvRiVURcI7-1TN6xun1bSharSEnjcjw-bhL_nrvkWsnqGFsIBnKsb34PVX2_AJc-M58R_PSE8cra0D_tAfSuiT4k5BJ7_oTIAkxgGIg4KDGSyM7K6Z-gwTGvKHA..%26pg%3D3DZ2Y7K7HNHJVLWBUC67EFXQJQ%26ch%3DAQEAEAABABQED57r-ltLwhB47mnc0Mvrz4nKQ8376Kw.
+.netflix.com	TRUE	/	FALSE	1806763636	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+11%3A47%3A16+GMT-0300+(Atlantic+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8bd1595-14a7-4357-8243-0314afbeecbb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&prevHadToken=0

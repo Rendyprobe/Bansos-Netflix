@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JEAN LOUP
+– Email: jloupduboe@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: janvier 2022
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 9069
+– Phone: +33603413317
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: JEAN LOUP
+– User GUID: VQ327ORMXVA7XC67UH3CWT7XKI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810487003	nfvdid	BQFmAAEBEJm16zf915zHtfgpwuH4DpJg9Qt3tbb-3cx8jy92MEOJ-KQm9WIgRZZzGRepMNnAYZ-H5t7phfSLvPSkcnHeFqLV-W59nK6mwi5eOAHs0TRFdy0eeOeqgp2kLIyDxnktMZorDIfQjBfKJtBU8mz89tv1
+.netflix.com	TRUE	/	TRUE	1810487003	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKmA-3OMD208oSs3EpPPckTHwYd4ikqPGDmtDRBljVIy7IcAZUppgE00GT1ICFVLgMSICWIAPMbwCuDhmtCG8FuFmFYvMcha-z-1W9iR5l_24N81B6Y_9bDhZMTDtXN8Ex7C_XdjMG3CrQz72u8wkWRSSNZTz9-zE3yyiL-40KRQiwrjzB_Nz3XSXuSH9cXIhqa1X0qzaVPtD2EmzHpz8_n7La2cfyoEwJ3if5CM1i-uCYicoZlnCZIRd-y7YVPUaOOPWiL0AMnMXzj7Q7aHjhn9ymz36uhnnyj2fZt2EFYYQvSVz8sxk69YNlzCmLdRTkX2jYUWO4VRyZeTnQ9s3E9Qa_5gCPdWhmwz3-wpT0m9Sloj1ITYD8vtqAwgFol_r9kfUZBeJLIrzB7Rbaz--2YIjbzuKdYqLGFebwF1KjUTRrUYRUUcsOKMBGvFbcsIO649bE7lgl3uLmOhSTlFREBfR5cNzrtcjBI3mO1lJvlj3PjqomXlMTu4PpCg_q4YcplanMk9DSPPwDzUJ8NpwFWbPdtvvmBfETWGtoYxg_5yhhvbTJR-UuBGAYiDgoMwxuwH0ZXet2kLDIH%26pg%3DVQ327ORMXVA7XC67UH3CWT7XKI%26ch%3DAQEAEAABABQQSeio2Kwqjy_HUlOVoUOPKTLbkbRmZZg.
+.netflix.com	TRUE	/	FALSE	1810487053	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+19%3A04%3A13+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f5920794-ccbf-49d0-a47e-c73dccec46e7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1778950998756&geolocation=FR%3BIDF&AwaitingReconsent=false

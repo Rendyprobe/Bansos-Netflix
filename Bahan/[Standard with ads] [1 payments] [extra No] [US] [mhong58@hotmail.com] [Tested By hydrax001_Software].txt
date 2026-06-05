@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Not Ok
+– Email: mhong58@hotmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: April 2020
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 1485
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ok
+– User GUID: IANRWDGXKZHHJAZ44MNO6CXZQM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782529141	nfvdid	BQFmAAEBEEGryLaT3xSaG4xwlVGPD2ZgVI5Z3l9TIU-G3-BAuRr-kjvVqmPxB4esIBCt9CEMkOnjkC5kg1rCAGhK-_sx6Qn41om8tRNy5woZWnh48NJHA2-7Lr7Y3FCZdQvXpWZl1YqX-_aD23cWp5xNel2weZ06
+.netflix.com	TRUE	/	FALSE	1808365669	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+20%3A47%3A49+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=623efebf-da15-4c7b-bedd-f61d8cc78e43&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808365667	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA1tUpAKmMkGK6nu0pd9RiWKmuqIjAKEDzaz8y_7nHoXVTPN20cxlcQo6edw2239RDydn7e2zx-GQVLym-WBOV-VNdbYGg7xRWx5sMgV_MvjiUElTb5WmgPFC8H9myb8ht6U5Nd5TUfRvBdR7swtQ-iot02OUwZdxHQOo8VwGaS-C0Lrm8pVjM5UsthbwneETnYz_VpavV92N21qARGWYyfi5LkgPH5FANZbn0fr3uqyvfVbI4r3rXIQ4eplcJpQ7CP58MKbr4d1sCnp-DpTbge3-AKXKZEy6Mh9F-hQU2SQCJawpTSrFEy1_tHfb6wPv1QL3StKVVGNZPixerFnf4YBoh2j77c66T8KCXxyfn1qbJPPEOyhooLj3nhoTk3SUmvi0Dz3dARNjdC950Lkd29_7F7Mgge5DeI575OFRaXJdEccWYNiALkE6eKU4R1SAFFYlItR2Gru_Fw0Rj7FMdpLt_7O-B_xr6IO7FJzfqSg3IexjZnPZRWpVgJ5jrxfv2HKVS0q1JvdXfVV0W6NFFDdu53mshG5f2A5yGAYiDgoMs2GNqoEBFZ9g9hvo%26pg%3DIANRWDGXKZHHJAZ44MNO6CXZQM%26ch%3DAQEAEAABABTADB6HsnznJ0Pf-09w_6YACyKIFU_Rexw.

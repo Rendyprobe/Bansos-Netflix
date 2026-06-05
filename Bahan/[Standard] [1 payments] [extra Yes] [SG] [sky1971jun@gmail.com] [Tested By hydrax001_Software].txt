@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Beekay
+– Email: sky1971jun@gmail.com
+– Country: SG
+– Plan: Standard
+– Member Since: April 2020
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 8317
+– Phone: +6598224668
+– Quality: HD
+– Streams: 2
+– Price: $22.98
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: june
+– User GUID: YHJAKUYTJRHK3MHWJFURWPL744
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEPeFIPz4Asw25rzlc_zS8Ypg7qf5IXngf9NKa6ArTBG2MlbmF9ouW9SbnFVgk_j2PmYcTxfykCpnzOs-Y1ko44dDC8JefwrJDcTxM6Qq_oI7cZzge0ZK_MLR8v9G_j1GVbcqwkFnxcAyFJzzsE5j2mbE
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxKABFIHnqoiTsIMFmp_o2ayJk2SsEaTzxAqFAfnrHxkoUHt5TNVNne0GARcQGmzft6po8CjAXQl2Vu3-6HIa_EtnW4KlYzLxssUJNsC7qViP5oK4u_yVuQWuJQkTQZUTFIi1IY_yvuoTxDSB7aqPoeoUyOTJ8s7nkhfmt9BuWk3jbPOiFjjg2jelplLcGWpnjIQeaFOHIA679tlT4iIoXS83q7eLYpZihDZMk4cllevgz62OfzwyQRY1mVSdEmMYGXpW4Qxt6E_WqI4wbB1yVYsudAaBK3RCKUw69mz046nUuGfkQQEf07eh3FiT2XTXhrLXW0E0N3pFsw66XBwS_JSb8UY0qe6B_rpeh5xyLkHP30cnCapOjQPSR-wiwJHeLulXtzMnicES60yDkoLFbfBNHDJ_BYhMlw1-6prRKbg5OU0h0ysDJaGE1gJ_s2AsxWPz2C2PIMnG1MYQh2TiTOw81n68k54BchQwnvZpjaSjCbjt3mFSDubxeFlGMmnLpcyGMf4Lw50QmOzdO_FFpjiggGU5-Cgets8D3hLHkkHq0LBfphSHmGxX1NWojZV_x34uBS_sdEGVz4JATKEDqDbfOhV_YiKKEFKlMJ_HaiSRa8oFU3slwg3PBboF46qYcHnnF7i77fA_5JlA_72xj9-xgvt3d32faBtgCOdxAtnJK_FGAYiDgoMp9TEiwesiLldNCqX%26ch%3DAQEAEAABABTPZ2sUn4iTnDUILGd78gVxLKRb93wXlDU.%26v%3D3%26pg%3DYHJAKUYTJRHK3MHWJFURWPL744
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isIABGlobal=false&datestamp=Tue+Mar+31+2026+18%3A03%3A38+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&consentId=f77d5ce0-d6f2-43de-b059-2b9debf59784&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=SG%3B&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRBJyUCpmvIcgDyNAzLft_X3_absjKRT3k.%26dt%3D1774951419907

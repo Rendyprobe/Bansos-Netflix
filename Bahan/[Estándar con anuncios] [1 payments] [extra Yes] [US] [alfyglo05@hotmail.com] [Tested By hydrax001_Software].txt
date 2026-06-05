@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alfredo
+– Email: alfyglo05@hotmail.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: noviembre de 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8076
+– Phone: +17604773989
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alfredo
+– User GUID: UB7JGNYM4VAQJJWBZET6OCNVXA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113371	nfvdid	BQFmAAEBEKIeDKeWee4Nm8KsIsNr205gPxiQkM2vF79rEJICgfMBkbdqHqbyFcVYvh60aGCeZKagas2eADcYu1WSgURlUKXiXaJWTB6uzbXbYLI0TIz4TX8TZW9gkfnEbbBX7n3DJsoT5y8eZ4UILdrFTTwngXLf
+.netflix.com	TRUE	/	TRUE	1805750838	NetflixId	ct%3DBgjHlOvcAxLPA6SJLh4PyucgcRB-uIKvgvtYml70SUsJp1SyZhFW5AtR9goQkFW37HNk0YxxWxShAqdUR5HY9xlkBFX74mczRZbify-6_ymFRO3v6s1E7YC2rSa6RIWPsJ2Pj9uCgwaNvNXaQcGV96VC-JfqvxcbNOR-EAcG28LuqLRVK-Qq12y-6I6dGVTWYSqB1xSKdsc-wt-DnndscHrQJ8DNyLO4wElyPN-WjTqA34pE7UJPNo_Gq55I1RGN8RWP9al1nmMiw7PmHdLqiqdGJGwKdLDDMUFXxu5bZ-EjEl8EQm29-D58yD4pjnKoF-GO0goUA97fSw6-VklNNitx7GH0hy7WX7l5ZbJwk8QBDWxmkaXyrlxzmlydlmaHhTISWlyuyaA1i_fgQb7KHF88NaZY6UaAyaN3Jli1mgjcwWueuQAq1rIG1CikVlkHeSCp8n62sawROMTnNgv1afEFH_Aq-TY3IqKlFDyFta0Qf3i1TRrIJE0ADz6RJJGmSQEZXADEOxLoUPd9snOXlG0dssP1hKFMESyXiOVDyweqjh73I4yBo5pRQuldHjRgG3bMjq81gAl5ohR-rMxEXlnkz768pmqAPvBxFdG9Ep2t5Mb5qRonRRAYBiIOCgz7Lsel8Zpad3JGdQo.%26ch%3DAQEAEAABABQS4TTggnR5tMNZIcinQqGLpCVy2_mr2X0.%26v%3D3%26pg%3DUB7JGNYM4VAQJJWBZET6OCNVXA
+.netflix.com	TRUE	/	FALSE	1805774220	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+20%3A57%3A00+GMT-0700+(Pacific+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b9abb8c3-afa5-4f45-8e24-0db4d622966e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

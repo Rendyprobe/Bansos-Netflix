@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: maagothic
+– Email: maagothic@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: September 2023
+– Next Billing: 2026-06-12
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639517797011
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: maagothic
+– User GUID: 3BGJXTTE5NCRDMS32GRSVV7NTA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEPwatl-2jkzZbW5F1iRrHEBgLdjLaj42xux6V79MaV11XtNkkhi6DgRaa43gX_RSQmylizJyw-gnviT5jv3UujoCN8nYqh8_r6Fzj5SVzXj_DsEGzhWZjYyKbhmfOO9VvWc_cVcPUWQyjo-exva7fB7T
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+11%3A36%3A20+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=925c4126-c3cd-4fb4-82b9-2ab31ab027a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770972572885&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783197723	NetflixId	ct%3DBgjHlOvcAxLRA4KyoWvmDmoq42JHVMRJ6U_WgMYvaj2flbFoobqYlbG-H_axkpEerKpxJx-btFuh8WHglb_lT7qLcAA7sgPexxzuJ7GrKftZwiI1MecruxtT71PiRrRl1LAZySTTRqEvoFsS1po-gyVKDSpRbxPUqGncbxz1e4NudMMoTOukbeVHAqxt9PVSgx4x1qaA8NG-7Zx3UNwqDPU_rKq_PP2UGWRCU2g2EjQs_2BdoxscZgxvm5VirtiTNjJ6LJvUSsmlfOEkfwggWsKqNYLEHo5Xgbw8gCl-IKF8ySujGr4b-ExFlZekGGDUSEfCOuNifNAl4TlusWGJ62YxvnVpS0OKONJRAOjbVP_jZSPV1slhweK9B8dT2wCdh1nq4Qc6m5Ue0UWGcZm6SXadNxpTp8sQUa6xF5PNp-XJ4Q-rpxAxT_iy_EMQcYSkA0SQ2L5MRRUEZk8Stn0zQHGdNh5fRpaxi0wTRsYwQLDNnqxD-trurasHylMQqPNt4UinvpHOmeQScpOqX1rJ2fXgptqtOqEkGbbsKuwX0dBZQ2rNTGG7oNPgvjtkby0DuiRw3FeWxDQF4vw5v7UyCTnB0fjm58xZqb19YSwNd0OIpCnE_ydV4cl3QRgGIg4KDMZmWrK85I0V9wi9PA..%26ch%3DAQEAEAABABTNfjH2Aiyj5hz7OnOAqkLJNCNmkUXv72Y.%26v%3D3%26pg%3D3BGJXTTE5NCRDMS32GRSVV7NTA
+.netflix.com	TRUE	/	FALSE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJ1vHRR9A53xCvFujB0FnoUIJ0nqcxE2U.%26dt%3D1776182202798

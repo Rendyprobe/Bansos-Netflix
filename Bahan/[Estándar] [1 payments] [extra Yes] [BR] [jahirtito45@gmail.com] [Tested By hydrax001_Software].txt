@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: YeimsC
+– Email: jahirtito45@gmail.com
+– Country: BR
+– Plan: Estándar
+– Member Since: abril de 2024
+– Next Billing: 2026-06-29
+– Payment: DC
+– Card: 5993
+– Phone: +522721437747
+– Quality: HD
+– Streams: 2
+– Price: BRL 44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jazmín
+– User GUID: XYZUWKQLSJBGXGAH2TCGBB6OEE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794969398	nfvdid	BQFmAAEBEERno-noj6A43zCOmBJcnTJgy7Ss_6-n1Hp3GUrbFOadHeHgOEmxwkVFC6U7owJcn1LizBb9OManFR1QM1jEEaTHJoYS-KUxXKHajZga9Ne5RzXomA7UMB0sdzexATPNLjL3kCiDpdsXCacNPE4vHeYi
+.netflix.com	TRUE	/	TRUE	1806619875	NetflixId	ct%3DBgjHlOvcAxKEBIuHoIFm-aH7W63Ztfn9EUdR-U4IpZFbzRs7cQM7bFsaL7zHxuMlP7LkF0w05r_lrBecuXH5jzTUX7GFax6lP7H8Jgq2SSxv5J9r0Jqjk5GsTM1JGViGec3meB_vDqqz6cbW3H9QlAujWJy1-nnuCWoZ_CQ4zC2KkqMCVNAm4SNDpQwgw1WWd8tOLMgYHthhXkgVI3oNnX80f51tSUioTRZZanv2k-3LUntSR9_tp6mghNMsA9bf9euZnZNNlsN2k8eXpAwR7ODyN-8pOjY6CVRVx4tcCxjSG01rS78SaAeurjT8a2w-jMHv_ZPhPxMsxEP8fPxsMJe-tl4PQ6V1gYfMP6k0m6qB1FL_EAqGTvM0K6gYWuzdKAV1DE3tqtdUuMo_V0ANTR3QvMWF-TUryagpzjoABC2U2stA0fxrsZd0AAiMEC-kfqzzagBCHSRBdkHni99GnrpCoDG7oCMkhVzsKf7707hBYNq5RsHxkvF74mAv09EQ_fo2eSQp_FZWIOSUDDqfEWUy-SPIkoS7G-99oS3fL9i5a12RebeRHfzeyrXTtZtDNO5D_ISNcATasoFduihy-iII_qibDi4PwG4WhTco5QWnb2LsiPkYlfdCYdBBJTfMSjyhN4UfJNGErO5Mg4oUQeR52Tff4N2lvxXcGWwSbMib-LJPkF-q7dEaG0cS3hgGIg4KDIUzDsSCEhemgheFQQ..%26ch%3DAQEAEAABABTTg1ctz9Y2nfwuYquRdpXYg4YOsdnVQSM.%26v%3D3%26pg%3DXYZUWKQLSJBGXGAH2TCGBB6OEE
+.netflix.com	TRUE	/	FALSE	1806619873	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+16%3A51%3A13+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=84c153b1-7645-49d1-857a-39db8c5f973b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BVER&prevHadToken=0

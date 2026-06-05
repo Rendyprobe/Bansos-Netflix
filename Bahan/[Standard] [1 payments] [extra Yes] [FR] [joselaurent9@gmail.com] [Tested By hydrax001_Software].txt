@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Heredia
+– Email: joselaurent9@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: juillet 2023
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 3221
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Heredia
+– User GUID: FUCFCQAWIRH5HCTVGNI33756ZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792529507	nfvdid	BQFmAAEBEHK9mDC18yq5nYxLQtnEWjlg9xHIuv-C0XmzPD8v1x7Bdw-tS_6qa94baUbIanr79NxXunNNbfw377IxxlTXfq5inJcW1NihFMsbAmBysGPRsdb_CO2DVg2FKmWcovaVS7-BjR2Lk9suzuxhBd0XEbhW
+.netflix.com	TRUE	/	TRUE	1806012526	NetflixId	ct%3DBgjHlOvcAxKOBPGty77dRDZ5_yfSkYtKjeZ37pzqX4juYLA57V3EtWHUxIFVZq9ipCdAnhZv6ibnBe41l9QSvoWwddp4QTUlXNZlDaz5_HSgOSJ9yprGFA-sdySmiWsYCayjmM1HwNZyDRWMC3bg2VDh9vnK7IERRKJ1EXsABV4wUDfAvW_Y3yHWo2brViZDYZNFD4o_XgxZHUsZ3y-6EMMYiuIAp5_yJmESCIQQlS4AvfMNoRVknGO8IFTjJc8XjPb6sSIbAmDX1Zga8XCEF3kl3s9CyPuP1rgHab_6YH2w4jNzyu32KiSbsGM1zOFfP5sVicAevFmUIJ0ygUNVutiuItwG-BcrFO65dlJNPQlak9DQ4HumOhoHiDINtn-srMRmsWNVsCdX6QYqeobYRLvmfuu2N9lVtvWz_b3rPggORKYnpuCqs-I36JffHXUVqXpZ-U3_3OCp75C_jHLJas6BYgfc0OTAVKCw3qrPUTNfgbH5kUnoJlhiOslTFpbSQU7nVhjYr9miA02JcEyFeCpfr5aeNuxsPFK6qpwY_YoGpokNvAcos8aa1DBew9LDJDFI8T-NQsgBocVw7KjRD3RNnN5rRoptWhagT8TSjZvYUgx8llRWM3P0Ujaw6vdUP54wmK1BINaxQlsEdNR93zMzIDSrd0vupAvQrYtj4slUvolTnUMpbeWyUFRaZmjMO5ebC4rN5rgYBiIOCgzqe-TPn70SgqexgKk.%26ch%3DAQEAEAABABSCj7Hrwt2T1NoKAzsp8UeNW2_RDI2IS7Y.%26v%3D3%26pg%3DFUCFCQAWIRH5HCTVGNI33756ZY
+.netflix.com	TRUE	/	FALSE	1806012527	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+23%3A08%3A47+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6b19bddf-b0ac-45ab-91e2-c65a633d609a&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=FR%3BPAC&intType=3

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: James
+– Email: luzvi_cmm@yahoo.com
+– Country: CA
+– Plan: Standard
+– Member Since: August 2017
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 5004
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luzviminda
+– User GUID: IO7B5LOSGVAY5FQLTMIOGKB6NY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEFwe8ezmu1huTAFkW6jB025gjYiA-t9MkRPLXPPNIHWUElOwzjOxaTY9NIakX9laOtVO3nIdsCJd_UU5mxKD1xeYr33tszkQusVJKD_swH1BdgySZI8a2wv8bD8SITQx5Ub101tVlTa0tyFHFk09Qe1o
+.netflix.com	TRUE	/	TRUE	1789346778	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvNzBflfDFUErlwQtcteBVR-al56LpC1w.%26dt%3D1757810777891
+.netflix.com	TRUE	/	TRUE	1789346778	NetflixId	ct%3DBgjHlOvcAxLcA2vpw55YjPSZxndXfKW9-49CQVhkd2WnF6mB2-rBCUbOKkDm_dDWmlA-gF_-Op7P2HkJkIXiyRlLGPNgLs5HRN83m1_DJQDa8p63Mw2krDSSSrzAgRFvK16uvPZVqQJXRvfMk9_oIQ3Ubf7QhTiN2CpU3jZVnJKv7S0cKHsluG3T2xf61wSX8SvDdtZUBsH6I9MV86veicMK-OLfk-eD8T2tcRoVTohYxMQMqO1_ihLP_BnAZ8Du_amHGUbZxJNNrZE2pOv4r3NyCpx1cZuMcGq1u6lhr9NlOdBboyKtKd-0BXs-HLG1xQjuEB-HxkAB_mUrVaQeBK7g3pjxnHCRLBgDW7E1i-l-opjaePrmLim80_P-ckJ1CcENe-y2enYhtM63O2NZqFamd8mjgFgbR8jH3DHJg6IcFmOmvxZTtaqg_eC2em3vpEntEazax2zNq-G_HhOdhC4946ncX881NtRtqtm1AS8iFpbYB3SifSAYECtPQrfKOhpQjW4Q_X5_RsqUmbjDScwCOMYi03CK5XGUsarT6Dcp63VN4jAL6srVCE5RZvq_GnY86sknjvSqDCu6HxW0RbKvMod9GSxDtP4J4m0aRKqDwn3nUMA1uxErv9GujjWypICaPSHIGAYiDgoMbAfcEnlHi8xPx3tm%26ch%3DAQEAEAABABThpYUd9baxRYy0BrSZZkl0k0YbhHb1TqA.%26v%3D3%26pg%3DIO7B5LOSGVAY5FQLTMIOGKB6NY
+.netflix.com	TRUE	/	FALSE	1789346780	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+13+2025+20%3A46%3A20+GMT-0400+(Eastern+Daylight+Saving+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc5e0c3e-b546-490c-9606-e618c0be581e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BON&AwaitingReconsent=false

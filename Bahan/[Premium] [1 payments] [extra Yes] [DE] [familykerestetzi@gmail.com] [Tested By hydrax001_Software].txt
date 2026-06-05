@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: familykerestetzi@gmail.com
 – Country: DE
 – Plan: Premium
-– Member Since: September 2024
+– Member Since: septiembre de 2024
 – Next Billing: 2026-06-16
 – Payment: CC
 – Card: 7796
 – Phone: +306972840789
 – Quality: UHD
 – Streams: 4
-– Price: €19.99
+– Price: 19,99 EUR
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Pavlos- Eva
 – User GUID: F3N67DO3JBDKZLWXXWRMA27P6U
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAflt+6tjpqyj9Vb3dTFNX/Cbk2PmKZLkgWtJjdwf7oEZyw+sLTLtH46ZcjXpJD9cjrUUFaCzIBwbNsRfYdhBsUb+AaviJ8fxiXeP/vnI/XIajQMPRdoIY1U5sUgr9xh3GJCAyiRWid7OU8dCVZwxUlSV+g9byNkWtTvokk1X46ht4R1f9WfgU2AgsacY1UWgBNK7iGy4vaXnjKZYexfMD5Rae0isspaodCpqPZcOqd4YfhdQMPSx7YJMRmvrjk3bqf3IGAYiDgoM62upY0Z6WWmM/p26
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAflt+6tjpqyj9Vb3dTFNX/Cbk2PmKZLkgWtJjdwf7oEZyw+sLTLtH46ZcjXpJD9cjrUUFaCzIBwbNsRfYdhBsUb+AaviJ8fxiXeP/vnI/XIajQMPRdoIY1U5sUgr9xh3GJCAyiRWid7OU8dCVZwxUlSV+g9byNkWtTvokk1X46ht4R1f9WfgU2AgsacY1UWgBNK7iGy4vaXnjKZYexfMD5Rae0isspaodCpqPZcOqd4YfhdQMPSx7YJMRmvrjk3bqf3IGAYiDgoM62upY0Z6WWmM/p26
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAflt+6tjpqyj9Vb3dTFNX/Cbk2PmKZLkgWtJjdwf7oEZyw+sLTLtH46ZcjXpJD9cjrUUFaCzIBwbNsRfYdhBsUb+AaviJ8fxiXeP/vnI/XIajQMPRdoIY1U5sUgr9xh3GJCAyiRWid7OU8dCVZwxUlSV+g9byNkWtTvokk1X46ht4R1f9WfgU2AgsacY1UWgBNK7iGy4vaXnjKZYexfMD5Rae0isspaodCpqPZcOqd4YfhdQMPSx7YJMRmvrjk3bqf3IGAYiDgoM62upY0Z6WWmM/p26
-– Token Expiry: 2026-06-04 09:17:12
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1781028110	nfvdid	BQFmAAEBEOCwqxOqj3Ch6xK7h3UjrF1g3L_VtarGqmHi0NRCvcjBDtyGyGPNA_eLBKF6rJkFxh_e_YpmvwQ5n7aonKDqudFvC2g77ZjSlZnmiihg8_jvPPPhll6T3D-UXEYvRxyPAsOCRdISwT6jfTIp27Bq4Zl4

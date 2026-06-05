@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: rochahoracio60@gmail.com
 – Country: US
 – Plan: Premium
-– Member Since: agosto de 2023
+– Member Since: August 2023
 – Next Billing: 2026-06-16
 – Payment: CC
 – Card: 9217
 – Phone: +13617990479
 – Quality: UHD
 – Streams: 4
-– Price: US$ 26,99
+– Price: $26.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: horacio
 – User GUID: R66W7KHJKNDCHGJ5GZGMQMNSVA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVnxHKcfL6u4foUvWXktKGZoN7IgJOsDKqWNuyMDjuTx93N+7RliIrWnOBhfJSDFHdShRc+9oQUei8/ZACInLPWo+trWCLWK17o0M4IQqr6bWf+Xwx9gvu3SjMn8mXpS1kX7O3O/W0Rz0vJdaF9oy0za8MH1OnsCD4NTHZvUOyK+q4N+/M8ii63BTYcAVYFkzmydLm+20s3AhO+W7bITwkJO45uhofVfqxrVSzobxQV6Wn3MXkdhnUVD/bMEhORbw5XDGAYiDgoMkiqHqxTFQrXPmxuj
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVnxHKcfL6u4foUvWXktKGZoN7IgJOsDKqWNuyMDjuTx93N+7RliIrWnOBhfJSDFHdShRc+9oQUei8/ZACInLPWo+trWCLWK17o0M4IQqr6bWf+Xwx9gvu3SjMn8mXpS1kX7O3O/W0Rz0vJdaF9oy0za8MH1OnsCD4NTHZvUOyK+q4N+/M8ii63BTYcAVYFkzmydLm+20s3AhO+W7bITwkJO45uhofVfqxrVSzobxQV6Wn3MXkdhnUVD/bMEhORbw5XDGAYiDgoMkiqHqxTFQrXPmxuj
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVnxHKcfL6u4foUvWXktKGZoN7IgJOsDKqWNuyMDjuTx93N+7RliIrWnOBhfJSDFHdShRc+9oQUei8/ZACInLPWo+trWCLWK17o0M4IQqr6bWf+Xwx9gvu3SjMn8mXpS1kX7O3O/W0Rz0vJdaF9oy0za8MH1OnsCD4NTHZvUOyK+q4N+/M8ii63BTYcAVYFkzmydLm+20s3AhO+W7bITwkJO45uhofVfqxrVSzobxQV6Wn3MXkdhnUVD/bMEhORbw5XDGAYiDgoMkiqHqxTFQrXPmxuj
-– Token Expiry: 2026-06-04 09:22:38
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1800073120	nfvdid	BQFmAAEBEFJGB6B27IL_7F2ptCIRAxtgQICTFiV7TgbpR-IJPlklRKsMJ-X9FF5BB6V251rs4XelwoRkv3vKz075ptcZXLCeSmbNkHBZcU86cJZ-0sszxtXKtGaeZorkM2IAveVfR5gSdXY1YrjRSTouPFr29U7M

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aditzz
+– Email: betamart14@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: Februari 2026
+– Next Billing: 2026-06-17
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281276870301
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aditzz
+– User GUID: JGK2FUBUPVAUPGTVTH3LKNCAOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800513257	nfvdid	BQFmAAEBEDyO7WfrQ7h9vTtVH7Luqq1gJDWHRSDTZSmMPbzIMBnxldQAv3N2xzW7usJr-BtnNHTn684OFs04gZiA2oKQ72Cy_2CFid6WdDGgQBE87b4MqinJeuDCYDULLU27xeJc4MRRjITi7pWEvUgrjTzYOW5Z
+.netflix.com	TRUE	/	TRUE	1803421130	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLxAqB5_rS0BMjkPs1VHdN3CsiVdeAzNuTdrzrski9BLBPHwRyBnmiErxE7aLcTRv_jz8SAarHL5HYe-ePd7_Hy2WBiplMjvB9p-kiGEsBjIXvGYxiPgCpSVn66xm3SEuy_WNw0ASpczi6uWw48DwYoOC1I5b87ZgTXLYfw5MnUE5aHkgmomI22hfiKX3mIuURHehQZrsoedVs6qzh_x6SY3sJxNTcjabZ7phVUrhVVV8YD6oGAxt3wC1alALqML6b6wyxcp9NNrD-QxZhgbJNB3DGcwT-2bZLOLtSKTzRX_qgXeyGQD3VbwiICTlvh9MR2rRJBl1Wx06nsxUBlhHHdf2-anZXUAe5bNX8UaW0JFVaSmSGHo62qRBmtxF45xPt1b-4Kx2O_Aegn3xKFxGeaWidKF_Pz11e-7Eq0v2D3BPdtmS1iyB8nAHIfnleZb2e9EhFWD1ubcpvDBC_BxedljZiigtHeTLEghwdbffuCxHwX0xgGIg4KDNHrXWPA5VVvAoC5FA..%26pg%3DJGK2FUBUPVAUPGTVTH3LKNCAOE%26ch%3DAQEAEAABABQb-_TIBq36Vq75cMB9IRt1iIHwFTbGV9s.
+.netflix.com	TRUE	/	FALSE	1803421132	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+24+2026+05%3A18%3A52+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f20e8f2-9f55-4a24-94fa-deb1d38a6fa8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768977195517&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803421130	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtlxAORpn7E9KE1JNw-PAsuQxcfJGj4zI.%26dt%3D1771885130357

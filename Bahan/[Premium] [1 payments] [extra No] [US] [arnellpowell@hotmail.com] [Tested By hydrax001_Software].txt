@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: m for madison
+– Email: arnellpowell@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2012
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 8629
+– Phone: +16462717531
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arnell
+– User GUID: 3TDJ6KWZYNAV3BM3YUEBDZ4USQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBENUtkEL7JqtZa-wPo2ftih5gP1_04ERWyV58tn25RPgIVLwf-SXv3TiRyd24UNyvlxE1mBME7Bn174l-aUN5JLmeUlT6N1m1frJWhSQeikl7t6ky0TP7Y2fyCmuGxa49RHqLwIxWBnGXC_DX_IORx0Tz
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+13%3A15%3A12+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9bd649d4-6de5-48d4-a543-1df0b3244aa1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	ct%3DBgjHlOvcAxKCBD6vT8j8Kii0lhKmuuvuH4aqUq1kQTSuj-mWk6uUmRWqhsYuaqB0a5zopjxsxpuluGExJTIUsdLqR4_8FXPzcc6bR32x5NRjfAuQGC2RUvOHbmNsgCYyzymYbfTR64-RUFYXX8I1xDLTVyttxmkAvhRb1Fq30W4LAJxTwb2SJE9wWwBBAQTHMHw9AhcT7JQ78ixkeYRQJuOQz2o2SIlqPT4Kp_pk_yNQHNV3BkpljpD8ogGr5QNATCcp6YKut2CPZnFSh_FkxBLTVlGjHRJG4fZvM6eNpAhZ1FU8iNMWJfrKMbs0kBKW34F-6Jwxv8XRpjgsFM4UaqoXLC28jzefGbboIoq24wpt4ZmL_VNAMn4r2uIXjGvaDq5_naanl8-U4NpSN1dzA-Z0XDl6rO36C2zGCMcUDns2IygQCQhilUg_oHIHlRbAXZA_m9iVP2eqjWsOunfEEk1fkwQ9qnmq9-CXJ5dNZxQkZXZ-DFRjTxqpZq1ZfdPqGf6ygvdyT66xR_LOHGsasagDoU6AKkYWYrP0fBmmOWr0w2MoraQZ9siuLlmI6mEfWPJoE6ni6ivEBan4v9uSFOX2kLJl4fr9PNiPQMjLTT2hArAiRka0iVMMHBBP6dqr7CGAd-lNB7kASDeMDjJe1P2kBpFkzYWM2gCc15Qd2-VSdscCAvC_s5DB_CIYBiIOCgyoXgIQLxDC443arXs.%26ch%3DAQEAEAABABSwNBKS7avyS_SePtDVPXGCivGbbFuivXE.%26v%3D3%26pg%3D3TDJ6KWZYNAV3BM3YUEBDZ4USQ
+.netflix.com	TRUE	/	TRUE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ4rl-_R9kxqM6qWHDoMK1Gg1DJRFGPO6A.%26dt%3D1777905251646

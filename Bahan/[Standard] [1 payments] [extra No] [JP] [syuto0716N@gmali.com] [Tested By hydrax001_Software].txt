@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: しゅーと
+– Email: syuto0716N@gmali.com
+– Country: JP
+– Plan: Standard
+– Member Since: Mai 2026
+– Next Billing: 2026-07-01
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +818046740457
+– Quality: HD
+– Streams: 2
+– Price: 1.590 JPY
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: しゅーと
+– User GUID: ARUUDD2NQVDQJN6CHY23Q32CAQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1788270314	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA8U9qX7nzfUs-4BcbZzrnLnJlH45-6twzJL3vyhvEfbVG14RknlLdGla-XIJKSC8-haF20Zhbz8HRooQqW2Rv2XUaoPbaL8MbX0zzDhHMrFtNSQh6YKqsWibnqRWpIluT-3m2e5Km7Fdhd6191eUN5Tedbz5Dmj1l0Or6RoG4JfQ51EILW8JYSFIBvpxq3kRRzJThlkyA9ek7nmlsrTIsPw13c0EElDBBHlp6iW2kwy3KAV34bliZU2F8lWWgECaZYCuxFuV8Ok5V80sP1ko9VfGeLr06hNVkP_2Y33D__MiaDcCp3mPcZlGW_Ocs6T9e-ZiiQ9r_NWI-ygxl_W5vuwTh9i7BO9FmpwdpyDJQnsCsHUHNmrXyzDGWosyq1Sp8ocD5dQUrjc11dnnDMnJ37BZDXDBDyp8bzR0icT7DVA_565eUcGmpM9iFhJFK2vZeieHmvdVMymU-eRh5iY-zhOpE9mA_sZ5gIaF11An4N3Rb-33cikkQglgMTtssMEYBgxKDBgGIg4KDDaqXeS13BwbPGVBUQ..%26pg%3DARUUDD2NQVDQJN6CHY23Q32CAQ%26ch%3DAQEAEAABABSe0-YQtwFKr9BlLUTNeUegddxix_-CSZ4.
+.netflix.com	TRUE	/	FALSE	1788270315	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+01+2025+22%3A45%3A15+GMT%2B0900+(GMT%2B09%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=48361a0d-fa51-4f02-9039-a3ca9d221d18&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788270314	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEamWt0he2WLTEgFWwqOca_ZHg-58MMIw.%26dt%3D1756734312739
+.netflix.com	TRUE	/	FALSE	1788270314	nfvdid	BQFmAAEBEChei0usutchW82x5ZRhkWBglH_6eNs5sGlceaBbMg4oqnrnI3dvY1d9oAXbzatI8aHZw_zM6BO-JZajATGmjTUojcPqnCAt8eyvI_cV0_qPA7vbFmI8XsYPKO4Kbb4YYUCMyPoPgQ-GRIx2n1wtkZYV

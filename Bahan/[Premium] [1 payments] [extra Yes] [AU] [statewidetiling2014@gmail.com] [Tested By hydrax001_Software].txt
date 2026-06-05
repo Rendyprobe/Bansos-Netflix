@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: HATDJHPPTNDZPIYZQBTGDPQYUQ
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARaAKF03TrQYnt56+wbeY2vo0xh89nKBWaGIMU2H3iXsphCM52ng+9JWwwLKLrDeaAjwZol5yQVsIfiZL8LnE5oiIyxngNhfEU5ksh9+LcPlKwz4qEKm5XJdl02Porvna5arFdj4pJKwgvvbHrxU5G0clxa2+siSZpB7/dU3vyyMoKW3NfYCxaBStFS/vPVmCavpks/GN6mnxMCNCVNL3Ph91d0WbIVW35VpwHe9OLhOWuIQogjo4HiKYB506UH5hUGQGAYiDgoMr8RcHFOKXCNBdZlO
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARaAKF03TrQYnt56+wbeY2vo0xh89nKBWaGIMU2H3iXsphCM52ng+9JWwwLKLrDeaAjwZol5yQVsIfiZL8LnE5oiIyxngNhfEU5ksh9+LcPlKwz4qEKm5XJdl02Porvna5arFdj4pJKwgvvbHrxU5G0clxa2+siSZpB7/dU3vyyMoKW3NfYCxaBStFS/vPVmCavpks/GN6mnxMCNCVNL3Ph91d0WbIVW35VpwHe9OLhOWuIQogjo4HiKYB506UH5hUGQGAYiDgoMr8RcHFOKXCNBdZlO
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARaAKF03TrQYnt56+wbeY2vo0xh89nKBWaGIMU2H3iXsphCM52ng+9JWwwLKLrDeaAjwZol5yQVsIfiZL8LnE5oiIyxngNhfEU5ksh9+LcPlKwz4qEKm5XJdl02Porvna5arFdj4pJKwgvvbHrxU5G0clxa2+siSZpB7/dU3vyyMoKW3NfYCxaBStFS/vPVmCavpks/GN6mnxMCNCVNL3Ph91d0WbIVW35VpwHe9OLhOWuIQogjo4HiKYB506UH5hUGQGAYiDgoMr8RcHFOKXCNBdZlO
-– Token Expiry: 2026-06-04 09:15:50
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBEJkStfugSJMv4vZ1AWpb3iZg7ZuOcqCnREDeBzleaaUOhUOxsMe0BDI3EBC9j5GK19QXHAeO7KJb8teatW65JMl2a8PI5m59HuyNKQBvXhyc_TOihuz3GwKSe-frbW9VwjCOekk0EkEkA5hoYwE8etk9
 .netflix.com	TRUE	/	FALSE	1783113361	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+10%3A47%3A55+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5f8ed27-b231-4ecf-9ada-9672eeba4f41&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&intType=1&crTime=1778579976197&geolocation=US%3BNJ

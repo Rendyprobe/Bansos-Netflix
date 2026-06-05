@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pablo
+– Email: pablonaranjopacheco90@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: mayo de 2026
+– Next Billing: 2026-07-02
+– Payment: DC
+– Card: 2686
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: R$59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pablo
+– User GUID: N2PJCL6NTVCITCDLSHSAMZK6QA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810670749	nfvdid	BQFmAAEBEKEBY4gdGV2wv2mJFsfgOV9gz47EATraLffjaYAmGSDfltTjUH-KBuHh568VJv55RRDDUwR9NrDXdcEMxeMWHYtjajUPQBEJak12yEa4r3v_gcTjQuIkfNs02o5Y4HkMYUjKP3Imi89d5zP3RRYSg8CH
+.netflix.com	TRUE	/	TRUE	1810925751	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAy-z1Uitw8jNShCGoP66AXirPqtQZyzrvg--lEx4QoC2B1m7SQDN-V_d_i8chCd0oMx0j5X-LZ3Bn33NZCsDhDuWlt6oKSTXysqsclEqCBrIXkBbQZb_Q28EMZFD0Q-QEHBYuqRmOxNyOzBUCk69SPen5KgSgqOVQkXRNRfX4h-PC7bo1_3lhkvCupV56N-fAB4zVf-kehM2m7LkkIuCgz3YS5fV0RVS3GkA0yNdCLrqbZaJmHuPIIzlL2C6bFSMPvrotIk97Bo3CIXzQ_xznjdKOaLkitX4eJj_3RowIUY8XZQ43U4ppGWi-uKYobP8bs41LQpjTHCuGMvR4VyB1wpoXiZacWV-TnWi_wBlLQt7vZkS8ZkW704HywqMOhwTTLh541pLs7tsRzq9FOxK0_i6FacGFvws23atLL3QhsE5-hc8pZT26qmZh3xE_BunPQXziIpRqaU3bvOftDNtj9igHTtETr-3TFy1amRdQ_yd_2GLA05zzCngeWGhloFR92AzftRAQPprbk6oA5brhGjUQFu3GAYiDgoMOU1yLhWFxFdH-Oq0%26pg%3DN2PJCL6NTVCITCDLSHSAMZK6QA%26ch%3DAQEAEAABABSjGUEJONPceNTsczl2NRwBo7AmoIGN4r0.
+.netflix.com	TRUE	/	FALSE	1810934235	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+16%3A17%3A15+GMT-0500+(Ecuador+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e8cf91e0-4b78-4df8-95b7-535d9aaa1105&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1779055251897&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&geolocation=BR%3BSP

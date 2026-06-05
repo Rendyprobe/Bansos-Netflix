@@ -23,14 +23,8 @@ VERSION: V2.0.1
 – User GUID: YC7QM6FY4JBEXJWFVKL33HPTKQ
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARCq3BiJRG3mO5clF4PdQ5Je+0hro2cNkbZEzWqfKnpnmwbpqYVT1WbatFsko5/6U5XjAkZMO3wd7d4EQXRbzBjA/+CvVyv56SDjB09AmN/i6pwSD0VfyoObaZF3DstRw+a9pSMNstsw5IgOzt93UPE9trHFsuUemRxBCiXUGTJzOn0feMR1sv2dMhpqaGm04OO8dymo+3zs1ATSd36U9F1VNuIxgGXJneUmFxNU0IlVKxZ8a+6gkAQ0Fx9n2SqdAhCcGAYiDgoMoC+UATVNiBZNNBkh
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARCq3BiJRG3mO5clF4PdQ5Je+0hro2cNkbZEzWqfKnpnmwbpqYVT1WbatFsko5/6U5XjAkZMO3wd7d4EQXRbzBjA/+CvVyv56SDjB09AmN/i6pwSD0VfyoObaZF3DstRw+a9pSMNstsw5IgOzt93UPE9trHFsuUemRxBCiXUGTJzOn0feMR1sv2dMhpqaGm04OO8dymo+3zs1ATSd36U9F1VNuIxgGXJneUmFxNU0IlVKxZ8a+6gkAQ0Fx9n2SqdAhCcGAYiDgoMoC+UATVNiBZNNBkh
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARCq3BiJRG3mO5clF4PdQ5Je+0hro2cNkbZEzWqfKnpnmwbpqYVT1WbatFsko5/6U5XjAkZMO3wd7d4EQXRbzBjA/+CvVyv56SDjB09AmN/i6pwSD0VfyoObaZF3DstRw+a9pSMNstsw5IgOzt93UPE9trHFsuUemRxBCiXUGTJzOn0feMR1sv2dMhpqaGm04OO8dymo+3zs1ATSd36U9F1VNuIxgGXJneUmFxNU0IlVKxZ8a+6gkAQ0Fx9n2SqdAhCcGAYiDgoMoC+UATVNiBZNNBkh
-– Token Expiry: 2026-06-04 09:16:06
-════════════════════════════════════════════════════════════
 
-.netflix.com	TRUE	/	FALSE	1782533885	nfvdid	BQFmAAEBEEAMTCGlFuSuW5ZRqLvKY7VgfI0TmUQKFFc4srEoNZ9LJYCtc8wBf_-BKuaB4JoCd77-i3YbLw_U8BEb5stAVaa99k8ycWZ1bvoMf84A0pfgA8nfzYLd-3TjGe9UIAT8P-fwNZFdSfeOqED0pvdXVLri
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEEAMTCGlFuSuW5ZRqLvKY7VgfI0TmUQKFFc4srEoNZ9LJYCtc8wBf_-BKuaB4JoCd77-i3YbLw_U8BEb5stAVaa99k8ycWZ1bvoMf84A0pfgA8nfzYLd-3TjGe9UIAT8P-fwNZFdSfeOqED0pvdXVLri
 .netflix.com	TRUE	/	TRUE	1787612867	NetflixId	ct%3DBgjHlOvcAxLqA72a_roEGwmpmwLX3k9IMO9M9DSSLnPcerkR-4avbRYQWnSj-uAz3sd4_0LfHlw0i_7Uxm-TjA7mxwtDmdqFX10yIinpQ7JjSdSz1--c-vN64gaLD3qbc586NGJwvj9WmjP1-Dje_kp7nmJHkSgd3V1JX4Bfl8r3_gcLblNMZ5c9hLjaeHJJZZ8Wf4F83rUCZFQL312fwK0flsxkkEmyrpUktpWDVMBhCT-aUBnTnbGmqdpvIUXxKJiZ--Lg_Y7Oek3OSq2_GZHqqmUHVj_RI08Pdibns1LC2W8oQ6ZZyqGD3Tg8UkHdD7wnAKxUe1L0qbp9qI--uE0PJyyDEA0_jskelaF2ZMsyR0CdJYC4WJdIOVduWrrf6LOPngyJTVtcRZb8CNWg5W3fYvBE38wThhh8diYD1XQwtWVZu3bALNCNhrd7Lz1-EBnIhpNfX8rew5pZFu921Oy9IUYPLV844sjwXZEmEEJQ9OXy6WYry9oJC7qutVZNMborJ-LOkyvI8dGU3X3Pv0jY39-IjqrjWewimYbxfl3jkiqVjM_QLbgqcBlAjDBDg3AE_GAgBWWxplJ55GkIGp6T3V_IytwGtOcRSEvnHUqDXymEFP-S8ftiWu4rPZk3skA_MbYAayf06B9qRDgjLUvqudIYBiIOCgzNlbG5DN5t7E_j3A4.%26ch%3DAQEAEAABABT_1TUyI4BgFw8PjeYGzWjK5WIZj5YuRr4.%26v%3D3%26pg%3DYC7QM6FY4JBEXJWFVKL33HPTKQ
 .netflix.com	TRUE	/	FALSE	1787612868	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+24+2025+20%3A07%3A48+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d11f23a-dcac-4113-b5ec-bca39c0bea6a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1787612867	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbX754K7VHnM1tjykplbeja8u1Z3fG204.%26dt%3D1756076879459

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mir
+– Email: ritaearly0718@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: September 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1971
+– Phone: +17174438655
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sharita
+– User GUID: RSVOJYCZQBANZBGBQDWQFZLAYY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810435616	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSAwaPLkI5lTpIRJNb4aTU8C9mUC3Esl9ScYij5fWojifcnaBSsPMPV2T5nYZmdDO3Kd1z-k8XLJFSUSBO4D74C2JuowLJ70xuy5dc8TO9CGy4roXQD-B04dX-2FzWsBjkREx12Qsybz4d4gHHqWKsKqOGZdGjDn4vtnEhz1HA8IHA5lWO-cVT4DHPokTGXoWigkVzQlqdpSMNNs0RImG-aaflbiv6hnzhcJddY9CrX4WtwjWiAEnZnTuhE6swL3JWNcecaWE0dlwbz8TSk6exY3488IJHnh7zfg82bbq99EI3QERW6LuZ4v4r9JyMrn6nO5NhovlYtkaDP0JC34D5OzGVC-x52jxWljXQC4b6gBpOmAy9XnRaH00onIsWW_9-XWhSWCbGLEXiL9aenuax4fA0UrrrlkdaGNU4dQ2i2d5l0a-RXEtgw1miBSUJ7NjE0RCxrOaQ7YtpengsxPWaU0-O8N-aFfyKDZsBl1DEPLJiq1ir0T_T7-7RefufCsu_YbNzqhZCot_dCUF0G2f0zh7xNxgGIg4KDPSCr_S5jjhMbsn5Bg..%26pg%3DRSVOJYCZQBANZBGBQDWQFZLAYY%26ch%3DAQEAEAABABRQi-D_o1mCbfRSz3ET0MRqpmnhjzkOzFw.
+.netflix.com	TRUE	/	FALSE	1810435613	nfvdid	BQFmAAEBEN6GX81T9e9KZo8CPM09_AVg3_2ItPCW9o15QJWhCHQfx51buien2k2RG1xDJHj78KMZ7HaADxPLmfeBplr94XmO9XA_rFuV5xgo4fud7g0P12VpphZTbmkppAZ7a9w1ruD_FObIOQcP0M_tb2mnPng3
+.netflix.com	TRUE	/	FALSE	1810437980	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+23%3A26%3A20+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6ba40bdc-6aa4-4a01-966f-9a4fbd26ffb3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nigga-man
+– Email: nathalie180673@yahoo.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: février 2025
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maman
+– User GUID: YFAWAWQRA5A45BDCOPOUOHAVJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1781445296	NetflixId	ct%3DBgjHlOvcAxKrA7sEnFAxv9pIuxB2acONCtVTvfqAiAqtoHRa05KZFPo9MI-A5Pfd2GXafAEPJliQrUjxDGoifuy_Uh62TLz5U6PiQBl8MRTYeb7ENhFJ2R1eQ-H3axzyBYs4ULjbqIc68Kx1rsrfzNgdiIym0Rqyg0wD2LbapAQ42ZaKxl5sGN95Irq-6rUjn1oK391jPMiF0nbQQ7nhvzK0oENpmciI1wjOVznBdLoKVQAgwCRovOFVZdvqybL8eU4aR0z6bCIJrCTi-a0eIb8VPcX5jzYWzsh16gNygP-dbXrUzXHc4ZuA_pYntbclOkLTs8ss67294uaKsuc9-3bl88eoIINjDtWuRGXf_vLduijnvMYeaiH_ovhapD9nrrG09Ymx-wmWfvmOFInjl3YrP9YfAe8cddF7AVQbTWqBJTnsAhKffzhYiFzoeAWnnp9G_IFDIOJmSbrkfJWw_BSL-eS6BaaK7IOuPCgIZ-BEo8OWZBa6jwB10Xp5tvjZnvhEhKPoxGPb1osS9XRKqDFwMSYdUTBjgGNgFJyygkFiPthlQAsxuE1dLr1mhcMBpdsTqbgYBiIOCgz6jKRmmULI4RrLYbo.%26ch%3DAQEAEAABABTdVrB9FpfZtj1g54ptnM8256X-HUXYNdM.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1781445296	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTMJZcbjTOvF4ow1sVkVR7N8Hme5DQyDBg.%26dt%3D1743852890246
+.netflix.com	TRUE	/	FALSE	1781445296	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+05+2025+13%3A36%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0974523c-fbe0-4ebf-a0d2-ba3f8b05e738&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF

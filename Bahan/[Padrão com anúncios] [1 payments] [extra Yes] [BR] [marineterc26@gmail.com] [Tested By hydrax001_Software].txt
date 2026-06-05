@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Evinha
+– Email: marineterc26@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: outubro de 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 1289
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: José filho
+– User GUID: 7SRZ6KQRVVFNTLLGC2AYMPPXCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782533885	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AsHEKwu0dFGVDM8Yjh1mATpyZDANTunMlQGODwZDbsbHH1kA7YQ0eSFdOhOajeufOZyuMzAxtdufccHSfLNLf-FoxD4UVmuQ2oyMigZz7kGCfEf3OyVsB_f6vMjTKqN1hBd8kEfg0onXwCFx40MwrUWudQrfAfa5Gq9_sfGpe-J7v_qsmSPVWmlwhzlRheSuWGKB5a9zQ119ZAdc5dhlfYSJ-lAR26b_gFxqJEGdJ_uNTh63-EP3K9xDEDNgBR2llnZBag5qvoFk-jcos7fV8J7ubgFmJbYPs8tNdb7GyrUrvi0baN9dTdaG4SFbiJso20PRo68y_CFKzJ0JW-5PIE_a8d-ygbIurctxgrOXS3N5QWfZpMgcMx5rzXgnI2WoodQG4o7sMUWH3gJ_cNWt1EF6xAcwYru0KqYxNo9wVTI-wd6bKB8iAkWCM85PijcqYSUhwlgbEb4VhqiZTCDs7NZ3NdBNJ9IzopmIqBH5zkFN1WyPQiH7-BgGIg4KDErErj8zieh2wAGAsg..%26pg%3D7SRZ6KQRVVFNTLLGC2AYMPPXCE%26ch%3DAQEAEAABABQQ0ADUr10eQ_Yg6WFoV9mtBdFzOhHfFZ8.
+.netflix.com	TRUE	/	FALSE	1782533885	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+22%3A25%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39660a41-a088-4880-8027-f85a52a88898&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&intType=3&crTime=1775352285829&geolocation=BR%3BPB
+.netflix.com	TRUE	/	FALSE	1782533885	nfvdid	BQFmAAEBEOQlggJCvsLGLYbNtDTq1ddgx66jgOtcNKPpR3qy7vrqU4Ml4JXEApkkao-lw44tP3J9WjnrGRtpqQmbtf370n319anrRGxVZzK6wU4fFUiG6jYkh8B5stXseFfgS5rPQUJs2gvHV9bUtqEjHpDM7QWk

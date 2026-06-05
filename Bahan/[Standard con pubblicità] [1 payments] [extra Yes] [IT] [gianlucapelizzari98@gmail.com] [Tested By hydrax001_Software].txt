@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lorenzo
+– Email: gianlucapelizzari98@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: marzo 2024
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393458587754
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gianluca
+– User GUID: ZGC2HW2QONERNNBMYPVKD7WT4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788899637	nfvdid	BQFmAAEBEGnZShEWltE2fpD9D4qFUsxgIBvVR_BeQZ7FELAbQiJXIcKeBukYr712I31fiSL_iBvfC4G_wlR8FY_-8M9OU0un6pZeTJQfuWrgSlVxSHpNvp_De4AulT0aBPlhdtm6CTPQAHa8dsvg-ETMV9K6Klsf
+.netflix.com	TRUE	/	TRUE	1808654620	NetflixId	ct%3DBgjHlOvcAxKDBJOY-APOvxLeE2DIPN-x4R9cjlFLtRhpr_0cjqq0W3o8fckGoAa3ESV4iHdJC4YjzNOuuL_NgqSBWCjfJhg8gpa0SEvEPLpKznXieXvKP55OjHMI-AoSBDDazSdrjckms-RCkhHkYJzb1WRzIh5LrgcxFpmciAEtNvJoCaGVL7tl4mYZWSoo9kezPTKhcJ7pHpYklSYJ5W4m-ZNKhpmdCnIY61a-JJTeIGNcwW-zweBOLnXBx23saRlySWrDTvtW4xv6bxHFo-HW-ZCwEjOkSmcEUiNmpaMXer4pX7XT4d6-jWMM5BbQxn31w4wJ7swR4gDNgryQCb8TndI8J1ky87GBZsBxyHGmYTZrzmwRhSb13S3xAWAvXzVVG0yRqoztcVDkqlESM7O7_3ER8fjQea_R3f9S1ZLE3jRNVH6pe0R0XlxPNYOUYUNypIbFF3pzQTT4UzLpLP166ilet7OIJyI79rQEME5p22LBctDu4oZuypQ8SgUlpcPLTuhvgzywbMJr7ibvGowrnld5TEMCR8RNI1n055g7RxVirXkDXzavQ-dvaG_st0VuqT-E52SWwc-ujknycBZKDI6vUNk_gmeVrs3kxfaJX0bDlY5KStPvVbuMVANmyuUnTQAUqOdIgRalIWcJBhQikxkspmYMRiCp3bNNzKofYO6uQo77WuCnsh8-GAYiDgoMhH3R-hhkpA-9IOi2%26ch%3DAQEAEAABABQCoMSE13v7eqekLM9rVYKlMF-Ga98t2Gw.%26v%3D3%26pg%3DZGC2HW2QONERNNBMYPVKD7WT4E
+.netflix.com	TRUE	/	FALSE	1808654621	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+14%3A03%3A41+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a4d7e82c-3a79-47c4-bb58-617ec72c5523&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

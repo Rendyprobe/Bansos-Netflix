@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kakou Kakouu
+– Email: tanaischevais@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2024
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 9575
+– Phone: +33679017309
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chette
+– User GUID: PKG5WCHFVFA25M4AJUSCVKDHNU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796166321	nfvdid	BQFmAAEBEAMSeDufWas5YvwAjzayu3tghlETsIqhrXSv_6ETqU-kaBaNi55A65PWF4hzFYNms-rXnqMnSz4PEiaJ9J5MTO_0qNxkAGAC3m59YiugmTQr3tM761YPog6OkJlbYuO5wLR3Jo-D9_9n8lJ72VFurSXf
+.netflix.com	TRUE	/	TRUE	1804197861	NetflixId	ct%3DBgjHlOvcAxLtAzkiobeisVs_8grUzjo-ZA530CJCjFrJ_XC_zwDwnCuI_Duax55x1aC2M_coGZac6DXBM1qF2g_y-qJaxsz_fhcXE-D1lDLtfISVcQZERcje_Xj57Y8a6kIdWOSZbBmt1OFV8lYxyMxeAh1aAaMYCHeq60UTmTs6ewrInZBGzxdhMzcs6U4YkF8KNf0LkPqPIOPDbqUgVvl8yBtkyKtSuzTZrc24bsO_IItOp3j0qvLguF1Od7i-KZEE5d913OxqUWfH-njwRi4QXCLi-aS3PAQpCO8eUDgexxctecO9lF5sfaC1kAnlw2BpTFAqOy9w3R5Dw_HrSQ5KReFcnEG3kEXvkP5X2z7qkVQoprkIE7LCEJ-gpXx5mUcFGZqJmxdoftSL_XLGbZrCZfpKHyZWPVpE08T25PwFFNhei5H_5cLC7f6nKS9KxDmQ4Ep9-An-ghLgXKoxB88Ggwczl8qrwO1JHunkB9tngMuddjB6d8f9icvEDuD7oLczz5onpsOcErpmIoEDXWUQtqwM6tme61HhzGFIdBENox0NcT9EZr-ZmlhFuVI5WM6LuElg03bTjc3sPBK4O5IQHaOoeM339Ly0dsg7dZ9TaTHR8oOPyeKJKiFooz6yS9AaNtpWf9MWzbrfYSnbDvYngFG4RLEYBiIOCgx-mg_r0ZRbUEjMRZc.%26ch%3DAQEAEAABABRDva8xe0V7OpO9paBjGm8_OMb1-_0i_do.%26v%3D3%26pg%3DPKG5WCHFVFA25M4AJUSCVKDHNU
+.netflix.com	TRUE	/	FALSE	1804197862	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+23%3A04%3A22+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=82001d2e-a37f-451a-bb71-ee01c3cfe886&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FR%3B&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1

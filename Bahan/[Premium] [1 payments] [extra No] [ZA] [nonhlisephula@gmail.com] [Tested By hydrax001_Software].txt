@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mxolisi
+– Email: nonhlisephula@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 5336
+– Phone: +27761823141
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nonhlanhla
+– User GUID: 5OSXJ6L4DVCPFHYGZ7GDVTE7PU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780939713	nfvdid	BQFmAAEBECOamxq0F9nRuWCOFI7IPu9gQjOxffw2WRO508GN8rcAPYPzCQ_T9cuRFtqmFSqIvCFCROzdDtc2T0zhC4VGZPh0_zZ00X7AeayW343IihTMSgE9ItQCo_1_-hsArACiRXRoGHGGy_yJLBzTlPjBIr9t
+.netflix.com	TRUE	/	TRUE	1780939766	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Av-tjk909uuwx7CKbWcYME-RhDBlv9-hdA0gqIrhYsWLlB0HCxyqP2wxRgqmGQOXcZeyr-fZFoafro7hxQUxXRsI5U3J12kxKGOr3vMYZ_bNcPnTpqpfKl8HtS6kzmkTkWztX5TOQfn9CrDkkWFNTIH7CWnGzBY4pvdZDWwsVtiCqjgGwuM62U2ooZZPYzAUS2hfT47WsSZWW7uoeGfzNdKfrbAsnoyp8XKQr2oV9vfOhiB59wVLfOGofIIqj9dB3YyCpb15-DGgdb_yTyDZbI-rqoCdNbkQMEPGOJe9lcGp1bIG8pnNxzYsnNX0LCoUfDTNhP6g3f0YCSmLrUqakfwuEWM83wNFLoMxx6zxK0l_gxrmXfq5YSeXsOwQhJUKdzUF4HnT74HDYsvqWsC8P0PM1CuHYZYLoXKYJuBx9L2JsHtdWFupLU-85qSKTjs6dlh4849rjX2uQ4nhfbSMG7uyatFf5qjaSpC75h63uaadTASBXW5FlYqf9kcYBiIOCgy6798Jp__AHf07SDE.%26pg%3D5OSXJ6L4DVCPFHYGZ7GDVTE7PU%26ch%3DAQEAEAABABTPkEh3gzR3Wal4FkSegW7uG9MqW3LadMw.
+.netflix.com	TRUE	/	TRUE	1780939766	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQzh7VNtVojnL0n6E17Xcs0jEXWkb27Ww.%26dt%3D1765387767962

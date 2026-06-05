@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kuya
+– Email: jjaigama@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: October 2024
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 7337
+– Phone: +12092632272
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kuya
+– User GUID: DHW5A7BHXNFBFC7SEAJ6QCS7UU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1777783818000	nfvdid	BQFmAAEBEC0yLImeW90ZMzk6l4czBo5gmvdj9M5EWRkZiKBeaTeSdPKsc1oR30KzAKVfsuIuz9zP9CWd-dl3Mh-_yF-5ADERs7aNGdUcZx5ETRZ5AEMyPqFRaiJ-P0SXoH0f4Js2cmBlWJv7s218AMdt0JIVQqe0
+.netflix.com	TRUE	/	TRUE	1807674665499	NetflixId	ct%3DBgjHlOvcAxL3A5Mt1N-Bkkbwqu6E9mYbMahcxvS5ob88NsZ5wtCUTYNHwy5NM4Rj0Vbpf_Vgm71YEv2PYhtRPIR8xF34j_-HxSsmcFRXwjuAfL7I8JfjHWdEkhqRGnWaLxku4J8qdnnjXeUYfN6ujjMJ4oGk0na5tIZiE03e40H-VwbSjn4qeKvKDYD8r4PV5T9W2O6y3TCPl3M4FMWGbm7-WeA7YRnORubBEesS_LOLOKVkrTkS0fV6x4tCAuqOu0eSiCpOwqzEz51cr2V3_JlgLBPoq7-R5fOfAzg19PYE1UZS6sWHLPY6RnXwa51dVudtjBy2Fs4WDi_E1qWpqk6NPenKpfVVexrSWvodNmN6hIt9xUfjwckaGndM9Jbj_sWPmHUAx69DSdCr9D9PPbEy9lmagF62dAl02kSrNbStE2S2_mwjen5TTO641HR4SiiPzkoZYUc2uQUNKdNw-HuDa4hNR3aM_lDA3E_xKewoQe9LZxu0IIFcBE7zOA_78mbqa-Ixov-cysubiTmWyN7-3qBjdUAfy-_FFx_Z0bPBmgZkrpEKgu0aIUB5JhuwclWe2J-65x_Dafu0zKnGrnmHIK1kFrgNzSUJDXb9kYWM_4d5s0uOe_zcI2nSkdl3TORlsJHuNW85CesUAlcqYvnBhpnBXZtVLPt7k-vGk0qjGAYiDgoMvIrTaK-ox0zPk33R%26ch%3DAQEAEAABABTUzvqvTqxctERKGQ0PQLiyhBktcpDuvbs.%26v%3D3%26pg%3DDHW5A7BHXNFBFC7SEAJ6QCS7UU
+.netflix.com	TRUE	/	FALSE	1807674666000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+20%3A51%3A06+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=0486e341-3951-43d7-ac11-da6c44cd7077&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0

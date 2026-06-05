@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jaspreet07498
+– Email: jaspreet07498@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: November 2025
+– Next Billing: 2026-06-28
+– Payment: UPI
+– Card: N/A
+– Phone: +917889131089
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jaspreet07498
+– User GUID: N7IXDMIJYRD7ZEK6EYOVRJ6R3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805982903	nfvdid	BQFmAAEBEE7R7xYcSNnn5NKowv_lNpBg6LnIbuxtmcVfCqJkaoXTtMGWAhgXV1u3T5TlhGzp78Zl6xpVl7E8KMQ_TtKM22moIrwLMW6nEW62AZr2erk4t2My16em5cyn5Ex74EItDHckkkOd5drjcY493dF7P8LS
+.netflix.com	TRUE	/	FALSE	1808728027	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+13%3A57%3A07+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d66c5920-9275-464f-9299-bb57143e7493&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774446844526&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808799057	NetflixId	ct%3DBgjHlOvcAxL6A0NdweDJO-cZPCHltJ3WEcVbdtVbSlx8_ZOnXz5TYKRUoqr4kHgkrNYokjMZ3S0qItAlkb6nO01W2iaErQk0I5Il6QelgIzAOgurdZW_uQ0fEu2aVh88-R6Db4z0_q81WQKaBXs_fIx_cJeomjl9N2nT8IZIZLisglM_fTC7WUYQGaaVw_w1k8rjgrwU5J0uuqN-86vAZ_mu9TBx4a8FOMV8aznNKk5WPtTRZGGgbOyh_U0Nh_saK0-vCVKL-9FpnSviRYIYJ_Nq9GmLa_wise0dtHzSXJQE2xwY3j9aKjPwnFQzt4eszJeZ1CFaHTOIH_6FWZjGTVBFbd2E_98lCJMDkQfwPCWx2XtOGLm1be5FY32xozupRRI2gzyFWwmhGRXaiyvkwwCN6xiamPEYjEFCpff0T2yAQxAScO5VEWyijD4pEop-r-L3ToCqD5Jt6wBNRt5i7Nh6aRIbdwGrApOmOiTlpBvdUo_Jhk3mlMvBVnDZazr2dKDDXm-YOu0MwnlhBZ-nl7_NrUCfxbbhr_JH2i32Y_U9bL2xoNsHgBMIzh0Lkg_kq1iLiAebkjVUPrdFPRCee8jeeLXLpBOWqNaHlg4PMKjBA8LDm_vlXaQY2qBm1KrYid5YcGqub-x7nglIL9mz7RfeAt4AhiZk5A4n4iurijwE42EoGAYiDgoMqjdulit6Ro_9Qhm0%26ch%3DAQEAEAABABTAd3PdoBmS_V-qhz3E5ChEqodeIcqnEJY.%26v%3D3%26pg%3DN7IXDMIJYRD7ZEK6EYOVRJ6R3Y

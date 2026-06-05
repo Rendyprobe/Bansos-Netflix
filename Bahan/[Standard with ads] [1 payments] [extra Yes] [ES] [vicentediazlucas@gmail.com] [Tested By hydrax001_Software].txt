@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucas Vicente Díaz
+– Email: vicentediazlucas@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: May 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 5262
+– Phone: +34681906713
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lucas Vicente Díaz
+– User GUID: WRLXDMWJQZG6JIV5LIGKFWWRPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794353372	nfvdid	BQFmAAEBEHqDb6FP7YU8FjDQTbYYkJFg-ogIpD-PifnvMAiJDqboMsNvKzur12xRlwh71j2RxYUrquMvlYfAIV_FAjycJgflrIplLco6DfWoWSzj58Qp_uqVvPAhiGatUe2h-GtPqKgJ7uuwPnWuvvKaZ10OCuDe
+.netflix.com	TRUE	/	TRUE	1806923635	NetflixId	ct%3DBgjHlOvcAxKWBHeJRExXjrTtx1IUz7FTIfoLnz8d7dLe6kcNQtHzhRq_aoP8g8J5zu3-lLmn9HNhoABkwgnAxQXTcccd7CstDDJyqI9I6BBBj27XteCgSxhkA_xYNrrOW4GaG7nKlEB-kLEXtOx7mlZuMeOwOw6Cp-I4a80RSf92qJUiCXS7TYbSNiPETUkgj3bejZKZ5j7XAs53yZydij65ys5A_DKjhA4KqiLeWbNsagP6f3f9F5Rqa9bp4OxbcdRcPiD4Bn9yUVCI-GbgHBZMeJaJLquL-FUAvNWZ4aVOhUtnvJmkileaao86aglaXZTvbYYCgBDptksMpDDoi4v_eYzTLfRmxx48_U0P-0asLKjlZQZABaxLBoJQ8e7ZSRYfIvf9lBnZzNLwLAnpEyyg0nBqI_eGBGWRi7O_vZXCrs-i1uHOo7w7GlRxtySR09YKvIJfnC4K-oK5n9Nr6T2Xkb3R9DkhUoEvUk_GLlp6kvmCrkKac8RbmR_zkGEpZ7GTf3r4lQbdop1PjyBUcZUydCmB6_ZGXF81wcaPhJImkEdBz87ui2QKsxGlWFhgZNKDR5m3fgryp2xLgjNPA0NkEge_CjI0RoOXZ8PO5r4iprqihC7wxwf8hKQYom9qcWOCWRrTyvDqoJ6G6MU5r7BQTcl-lLDB1p3YL5HosoX9so3_YX20jKSLK_2Ud51Pj99TVEr7DCAb9BJ4ZGkBABgGIg4KDGrHNjkXFz_iF9eF6g..%26ch%3DAQEAEAABABRNyUt-YU5oHJtchJn5xmGMc3Xh-CjGxZQ.%26v%3D3%26pg%3DWRLXDMWJQZG6JIV5LIGKFWWRPU
+.netflix.com	TRUE	/	TRUE	1806923635	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwkBAuFIU2nMctUDHjCJCvf4jW233UQRg.%26dt%3D1775387634367
+.netflix.com	TRUE	/	FALSE	1806942592	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+18%3A29%3A52+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a9950088-c79e-41d9-850f-95f5c2112cb1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BPV&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alejandro Camilo Ramirez
+– Email: olimac40214@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: July 2014
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 2374
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ogre
+– User GUID: 5AJV6CBX6FG2PPRPV57TPJ6LIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1755837731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGAzaHzz80uVadK5GK3BUgZ6C8xoYXohoX49529N1NlGAPO5owijS3HcKOYaLtTNsXu_eN9uDAzG5CYd43LUeeXAts5IK1G7J7NC5jMvI7lKAPv-DUiLXw8LvJsQjXoeZwFcsDVAAVpOc-kJ08bH50MUvtityQokuP0dE_-DYW6d_xGfuSVRIp_LEfnmBS6GWc84UaMEtKd1a0oSZlP0lWS9P9OiNgxiI5EfkcHF0SKk_BEBO9eM8kCF_IGEA8C94yHNGRbhi405qW205R8XsIcGZ4CK80gUVaOMgmwPRSsRaepf7iqtZyPLZvtmNU5WuIAP0qgF27T5XxXcNduWfZiaR1SpM47ge7dCPnd6RAz-C-0AOiYlNCjKRDcUyTP7hBFKXglCDs23XEG7dzRDVmyU63Zs1zK0FI3zH_delGjtjQJlFstHV8S7bJy8s3dZwGM4B-LQ60QvN9OpJXm7ql05GkWbaetVVqdu15pxHBNEgEMbtVrBJwVAti8KszajsOi2ijjUrgAxgGIg4KDG5yNaKNWrmMeyGg1Q..%26ch%3DAQEAEAABABTE8kEnr_EjUm7asJobakeN0h_gR5QLrvg.
+.netflix.com	TRUE	/	FALSE	1755837733	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+21+2024+23%3A42%3A13+GMT-0500+(Central+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ea7af19-c9aa-4e2b-b6b7-141057493051&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1755837728	nfvdid	BQFmAAEBEOUbIS7xxnmI54ftJydesqRgdUBQnZSEZohZFB9qULufgjcSvpRCN1MQTBmDKZJmP6cJA3gAm4Uz8BlA-jjcefBbuKt_PzVQXzBJ0Znsi1co7DeGjPBj_P8LKiaBVJFxApLT5A9sjD_vrm2coHm4zZUD

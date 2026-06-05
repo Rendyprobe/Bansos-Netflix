@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kevin
+– Email: spiterik@yahoo.com
+– Country: MT
+– Plan: Premium
+– Member Since: January 2016
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 6010
+– Phone: +35699660124
+– Quality: UHD
+– Streams: 4
+– Price: €19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kevin
+– User GUID: ZPNUK4DZRNF3DDZZWOBOLBZM6E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804173458	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+16%3A17%3A38+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=efd6ebdb-2130-4b3f-8ff5-72d69888ae0e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1772637456267&AwaitingReconsent=false&intType=3&geolocation=MT%3B51
+.netflix.com	TRUE	/	FALSE	1804173457	nfvdid	BQFmAAEBEK4URHs5MBo5RzLiwz7egzhgF1DLMTsseLKDRY-JlgpiTMWa9ig3NlSGNfww4GALeh7c_3l8Kl4widzOywS-lg1DrI8Rg_H912Q9lFxtqi9pdOi1UVYMxgU4rl4iC-u_j9UnJ_92Aqwn2QbDYtqgJlAD
+.netflix.com	TRUE	/	TRUE	1808200745	NetflixId	ct%3DBgjHlOvcAxKOBJSsJKcE5HcSTeIXPJkQ3Y-vNdbCAw-ierx9Y7tiM_zed8f9aw1v8-nglAiqb5fhrUVV74Zo1oSCnFxOK3MHe5iegBlXGBhRk_sgALNgHcqilC0wUd_ootEhA9pQWbRN8IpP4HOdYjMrzSQKL7JfqKdtTwGPXi1sZGM1P-t0ZGsesNSr4iyZ2rDuQ2OlYgLBxUAFCFbdkp_4BsfyKpJMiF3Eo0OKOfZHBdXEQudqIZWtWkSKz-WTOT8adWPTGUwB3VMlANZZZ7gkIYYTnZBs_Z3EcAUySrRe-MenpnzAuVuUr8joNy6Dm1QT5yFtUhn98TP9ePIp7NufqifhqfsyrUzDIYk32Y38J3rNKFuBaBtTZHSTSKDCF8-hyWrNoxKMphG50G_-rQlH9K1TCNLzboD_OZytjYaSd5JTnt7FoIpufHp1WroY88jrkz4pA6a-z1epVh_Qdwn6AmxP7EIooKHv6TE72d9BdPvs6pen5B1mNg1ZVAxevZr0VIYder0K8iBzAwV9CoEsfMO-6-BRmWgIufhwPZ321GdneAKyMg9kwyLKEOX0mey1wWIvktTrD3ePj45tZBuNUy-obHQzD5O-DFieAonRC3o0svQwJ24tyq5dCFSaedBVSpv5Rinz3IIvxrdt2UT4YD6Il1EG8Zs55I01mCbpcxjVQEibfSAYkhLa35AgpkU5_n0MqDsYBiIOCgw3RDwhLPZZlJiq1nQ.%26ch%3DAQEAEAABABQvSKixOz2eDIVpcQAvTTCEyR90_KHRZ2s.%26v%3D3%26pg%3DZPNUK4DZRNF3DDZZWOBOLBZM6E
+.netflix.com	TRUE	/	TRUE	1808200745	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkFlRYTi2josXM8q2JpiGcuJx6MTxG2ug.%26dt%3D1776664746574

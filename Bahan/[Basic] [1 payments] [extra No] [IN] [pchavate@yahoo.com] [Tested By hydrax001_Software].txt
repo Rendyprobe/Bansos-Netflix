@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pchavate
+– Email: pchavate@yahoo.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pchavate
+– User GUID: NKQXIN5WTJGTLMTALBQVX6JNLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805910135	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA0zONVOsD6BZtuAG-PlMcJ9ZgZwCBQjpJCdjh4mNwEU5N07OSAQ7mJaDF0ovLfcLORFrqddQmyTW-3AxkpfpIn12LqaCFTOX9Fqm43lYgW99A1aGUuCCzmtRc5xx6WIQvkvnLFAMm5tw4w_12CGVNM5bNmOV5AE6wCCyUD-VKvINstyiP-C5qHb8hND6xuWpOJCASER08VqLU4WStuu_UwTG9nSRl83v2eW196yKNsNpwajzDBFfqpRyD7kqEwJu96Sp-yz9Z_4DBGnvdxuWHt3lt1IDo1KOkB50HYiSL7uZR__wJaPXGkApbpWaJOadrQCuev4KtSWAFK3C5_j3DPoS1JOMN9zI23AeFaVazEI1vAxFdqYaLkPEV7fh_bn4My0V30HDPxuFB-V_XYYsTC85JW3dj9Yloya4V7-u14RWz4PClxtaMv6PsMTBKQxC2oBDrcar9FxwzSRfogUXq9KGXtNyV8_hq_ZaInfcQNpRWNoDMU2q5CTSLSK23L8piaM17Pu2qgpPRfu_3rqypGBPyYZog0KQGAYiDgoMegcp2u9GSW6AIVT0%26pg%3DNKQXIN5WTJGTLMTALBQVX6JNLM%26ch%3DAQEAEAABABTgiAo21KB96TkilefkLjkeP4IgzI5NMME.
+.netflix.com	TRUE	/	FALSE	1805910143	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+23%3A12%3A23+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d93d8a47-a2c7-49d8-8001-5f2de089aab7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774373903511&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805910135	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdJQIfp8nqBS7rvl2L7TClCWKwXDlkkXk.%26dt%3D1774374131560
+.netflix.com	TRUE	/	FALSE	1805910123	nfvdid	BQFmAAEBEJX611XTQJcbU_MBqA8C3HFgLT5JhohEKkvtNvgfn0ZoxYkyPpEcz7IySYUbKEfvUabhNgR9qNTs93zxbp48gG7_IU3F9kSDMsYSxDbawS8SI69dGSWR4W8pp152asv_3pbT4yVCh6lHQTOT8hSaFu0K

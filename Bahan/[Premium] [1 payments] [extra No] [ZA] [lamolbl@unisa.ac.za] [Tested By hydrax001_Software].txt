@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Sam And Cliff
+– Name: Samkele
 – Email: lamolbl@unisa.ac.za
 – Country: ZA
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Sam And Cliff
+– Profiles: Samkele
 – User GUID: BQPYZXLS3BD4TLPGGGCUK32IIA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAaGHacUlF8SnvpVur+di843p1Y9bQ/vF15AppbUzVPo5up12Unnugvb11C6uhJ744YKqUNs/e9s8gxyIGchFJ754qn9OvPzMCMJeSO5lT56vsyzdn9j34RAGrwaOpNIwREJgQbha9Ro+qZkhOlYhXengreAixyQXu41We2luibe8s5/dLNbARTTMRPxDXJJtDw7kS62nDVgV07j5BiFKkVdmJVG0GoTdaNnaR+eaH/9ZSj+pEr6mejtyscLocQnynmfcGAYiDgoMNlXvc2GGDCjsgBwi
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAaGHacUlF8SnvpVur+di843p1Y9bQ/vF15AppbUzVPo5up12Unnugvb11C6uhJ744YKqUNs/e9s8gxyIGchFJ754qn9OvPzMCMJeSO5lT56vsyzdn9j34RAGrwaOpNIwREJgQbha9Ro+qZkhOlYhXengreAixyQXu41We2luibe8s5/dLNbARTTMRPxDXJJtDw7kS62nDVgV07j5BiFKkVdmJVG0GoTdaNnaR+eaH/9ZSj+pEr6mejtyscLocQnynmfcGAYiDgoMNlXvc2GGDCjsgBwi
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAaGHacUlF8SnvpVur+di843p1Y9bQ/vF15AppbUzVPo5up12Unnugvb11C6uhJ744YKqUNs/e9s8gxyIGchFJ754qn9OvPzMCMJeSO5lT56vsyzdn9j34RAGrwaOpNIwREJgQbha9Ro+qZkhOlYhXengreAixyQXu41We2luibe8s5/dLNbARTTMRPxDXJJtDw7kS62nDVgV07j5BiFKkVdmJVG0GoTdaNnaR+eaH/9ZSj+pEr6mejtyscLocQnynmfcGAYiDgoMNlXvc2GGDCjsgBwi
-– Token Expiry: 2026-06-04 08:57:10
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1805309976	nfvdid	BQFmAAEBEHnqyi-hYIZ5YHpzXabpjg1gNle41PLFN7md9Q0qSK--UbsrciHdZ0kFmrcnekB-zqGmLm7SH9zcAwidv6NSY1KoMvo8BTNumbRrcqvhxJtuqnojTkAnr-u0LlFck-kdBFOhpQbKTF9m0M5-WVN7q72L

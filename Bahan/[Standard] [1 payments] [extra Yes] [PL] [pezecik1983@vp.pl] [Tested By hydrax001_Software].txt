@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jula
+– Email: pezecik1983@vp.pl
+– Country: PL
+– Plan: Standard
+– Member Since: December 2022
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 4484
+– Phone: +48603595966
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Przemek
+– User GUID: KTCUDWRBCFGXJL3NXGC72K7QDQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796243981	nfvdid	BQFmAAEBEMC7KlbO0dyunkOEG88g3OlgNGy1OzFMLnxdYrjRQaTtYD0Bb7tUqN6TeNFi37seBe094Fjt06suuEVUL6aDfw5aVzsgVdYsnvi0E6DnLHxlzNcRqxSU0wSeP1WLbW2Kj_HXgR6F9-pROhf8LB0zvfjy
+.netflix.com	TRUE	/	TRUE	1809263150	NetflixId	ct%3DBgjHlOvcAxKABDpg9KI_TCbvLhayNqw8EehG2XXLGLKwWv767WfuHm12dOKJrycKZGF48nORFfaCkl4xj8yTttmwL6Y-onfWBhE_iECWCZTPKJ2SYPoCUpQ66wUSKvOf5K6xL3I4hEIFGClt_GlQQfhJKMSTeJXuk9YPIWa_2_GaYq8iN_YFgAExVrpdBafQ9_HWYHgkFnzhBMAuMfWuUmEVOcc7NUnkC3wCotuQmnCbHeoFRQUDCeUAjTvNgV97zQbPYvuWvf5tXz2Cmpn4XgKe4oJdbWv_T05ngpaMbQuWPbBuHOW4_X8F1QJ4fA4vZXzg8FIYOtogCyuAyYjJ_rxE9vJPpTGTbMD352aYICvZP1xXy2-9XhfuEQE_fHIVYm37HeyRu3ReVcW9J2OS7yWxgD9kwpU-fMf44_H-p7qWzNvGBVhD_qk7Sm3zluwzJOgaLcLTf6g55znLWMpCkdq780oy7LKOwFQ6kIIKcqAtIVciJJpFO5Pv-Rdh12vwePh8CSjCgWBa8SbEvPOFD8oN0qSY2egmzgbRaOI8FbimlXuiGxre0kErAel7tznKKbips9F6K1DHbxxiK0q0Xfu4Dg2BMRk9fBaBUd3fWcxzr-xrgfXtQbUadnMCR7itDTe8zAPRQqCfgJcGDsShcyC9Vjsa6KnSzVxJ-f6pocQmS-i10JoPfvt3GAYiDgoMzpp1NPBpzsXBctsm%26ch%3DAQEAEAABABRoLs7_6440HwlkkftsLwluJQuJbEVVV1E.%26v%3D3%26pg%3DKTCUDWRBCFGXJL3NXGC72K7QDQ
+.netflix.com	TRUE	/	FALSE	1809275090	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+17%3A24%3A50+GMT%2B0100+(GMT%2B01%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eeab43d6-8260-47ca-ba42-d0db1b32e5cd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=PL%3B14&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sol
+– Email: gyr.solangeavendano@gmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: septiembre de 2024
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 3737
+– Phone: +56999146591
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vita
+– User GUID: JBXIJRH7VBFV5PYDAW2R5CM4TY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797408279	nfvdid	BQFmAAEBEDuDKbURZu5S10mJfr6SUxNg9X08EFIIwz42JIAAjlLB42Qzv2LvyrzAZA3Uc-9AX4g91AOy9wpEaJXWMmWu4qn8jpElWvEaxgAdA8dULAKzTL2fhler0j_qIyKaqvaiA8M8WjbZiKpPiGJP8MCKlCYI
+.netflix.com	TRUE	/	FALSE	1802315311	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+11+2026+00%3A08%3A31+GMT-0300+(hora+de+verano+de+Chile)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42fcae2b-1d95-4334-b76b-f634041aefec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1765872181878&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802380140	NetflixId	ct%3DBgjHlOvcAxLkA_J8MnRB2brbng0hzeQlYgtI5MwlbZCgBwHVGsj99spfp86clX1Syshm9A5O2lck0LjBd4Kp5LTbu3gbznEjdOIv5P5sTJmXeFiv1uktYeSVPj4b9ffJz0oQvGcdh36RnpaHwL6_49b42FB72GJR9KbjsWgrVYE-Rg5vi_81jJpk0Rfa5mE-afB9FPugU7skfI3zWrkSyj-75Av_8pu3ilujb9sg8Bg4Fh6nuD51BANF99t-Zt7SB_JpJFJEoU5fqHJeZsVVg9BbYZhgXPDa8m8JANXy-RSh6vGqIfkjm58UJfdE0LzT9htuY6vMcknxCE1tPhms6EcuOVlRDoD6MCmW-j0yQSQmMTVfU9AKvYiQxM5zoQuoQtRyYCV612bFPT7vBXNiYrwGgEkfpPyS4oerJUm2ybhnIX_-VBB1tU5bXvt9qwWRhy6j2jeWsa4T-9NolmX3tZbNJY1Nl6SxMPyqW2D20xYV3QJKKdNHXj9ucamNz99N7L3jnAUFyRw5GyyNsOe4jnwBzS5EumNdQPHt_BCHRaQRJvbjn4mp5pM0LDe4LvDDDT7_IBuoAv7rOb-aUETwajd0zPo8ZKb31AL45yZQK-eAFlpWe2Np2Nt0R3Kksp6ZKxFOEWjyQu4oZnGnIGYYBiIOCgz4v0GmWDBj1P63cQE.%26ch%3DAQEAEAABABSgP3Z-f7aVuCiu-lWdKazVFBcrkKvd4mg.%26v%3D3%26pg%3DJBXIJRH7VBFV5PYDAW2R5CM4TY

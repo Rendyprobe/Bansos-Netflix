@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pierce
+– Email: triciar85@gmail.com
+– Country: JM
+– Plan: Standard
+– Member Since: September 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 8103
+– Phone: +18765309465
+– Quality: HD
+– Streams: 2
+– Price: US$6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tricia Richards
+– User GUID: DHJ7I6GIX5ADJD2TLWRSU5NYXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785960533	nfvdid	BQFmAAEBEFfgZbvI3byGbaQn-FT9_yhgaQkOm0255zxakqu6sAeAiG-915p87W2ZncLsR4qNpRQalzaDmqOw1q1CshQ3REEQXN2Mya4cFol5T1FUI-wCGNQ5JtB_28KTDwqs21na36B_sH7Im57cdGoaJdjviTVQ
+.netflix.com	TRUE	/	TRUE	1809449910	NetflixId	ct%3DBgjHlOvcAxKABOZGJpn3KGsSBXa0zYr9ITqaPLaFcMjtN5SAfeLmVcO_hxPJTKpZBxeU1j95mytGQZs4qRDpCLnprek8TeZbg9iDDNcv33cmkSnUTC69lg0LFTiBooXFEnZo4WQT3eYHh-kuoDT_9e08EWb6YbFk21CaBqR9bfvoS4vjRdW8YCwHhUAjS_AOS-tCNqvfcE5Ugrwe0vkewKeo4T8gwQalk0-FUuv3XIZtztwDkhiiXRXxT6UtRjgmp9IOxNbbEbp8B39Xa6XW61SdmdDLzNCJs7n2QxoDIAz6eaeZmmZKxjDLqLElUdNvUjknJMnCchJU8u_njOpxD29z9XHgvkovy4SBlW83M1MD-iC5ioNnBnK-xU4QZ_5jiH6CzgBgezoV8Rm-aamRaQOdUSGihLxekwF_2tR73THD1H44_skKrg_4wQ20dIR6C0VdieTyq1csdApM8y7fia_GTqjOQz3MzVCXQ9s6eRVeZVnyRp1c3VulFQhzMKx4SyzdcaQRQ3XJcFNqQ0tF0yBtyIFNC4VZGX3Jc8i5qujswqVq1kBCQUAoGjHWNHV5o-CpQTeqvtqqYPLHzRPFc-La2TyfBydP84-1JoTJfEb4vCCEMvFavw1QtJ-poRhM4-78rhKLzdboliNri0tpJFXxajit4wgUlw-aULJmu1S1lQMLNSp4_4maGAYiDgoM-QPsXxeDq77QPRRB%26ch%3DAQEAEAABABT4LKCU2SvaZ8PRZo6gpyyCrEvzvoh4RGE.%26v%3D3%26pg%3DDHJ7I6GIX5ADJD2TLWRSU5NYXE
+.netflix.com	TRUE	/	FALSE	1809468273	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+17%3A04%3A33+GMT-0500+(Eastern+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ef234b99-48aa-401e-b142-7109594a9040&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

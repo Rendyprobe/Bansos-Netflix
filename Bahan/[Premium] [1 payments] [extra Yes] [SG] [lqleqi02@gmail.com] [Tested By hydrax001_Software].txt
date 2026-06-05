@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Winwin
+– Email: lqleqi02@gmail.com
+– Country: SG
+– Plan: Premium
+– Member Since: July 2020
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 5502
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $29.98
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AKU
+– User GUID: I5WEPP7YQJAWLIY44FQTYHVICM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783768142	nfvdid	BQFmAAEBEE7TguzxtKAv80kg2X2nZkdgS4kq7aoLWwA1jjWKLwxm_Yxqwe_I61P5UCBzbt8ddLlq026n8g_Phy6dYxLxU19_Z4MZtCA2lRrFPTphyI_Din5yePhkiklSBr-t-on6cGZzfnyF6ACTo1PYHNvKC0c9
+.netflix.com	TRUE	/	FALSE	1810118346	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+18%3A39%3A06+GMT%2B0800+(Central+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5567311-4531-4736-a33d-147c25dcb13b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810732720	NetflixId	ct%3DBgjHlOvcAxK0AzzWS9YfADwsnOBfP346SnVQ5nYnBkhdOhEAW5ot33mLZEgE4h4kNfZUOmxfowYRbfNr7TXtSaygX7LjqmbvzN2D7JctHHECuKDJy7cI5lcxxozdl8vya95gXVhDIJWJOPo83uZ1k08NuQV4ZOLlZxijBYsUUOBVxGvTG_lis0ATHuvUUaksGB6GYyNV2UulMuKBKZKgUO92b5gPX3v5oZsT65yzT2-3WFuBM1XtlVGdx7tFnmZpxh-ZwAs-f4yy0kLIbxeCsJPtuc7lul_f7jnkPJErjN6yr6IS5_LS8WrZw7qM62bg6BHelxleq668_Xxz6QyVXJnod558IJ5D0NKL8IsDHfystD2RIKlnU2gqogIevTMNyQMoW2SZeQ51S2HPdpP818QXD75uDxRrsj2TAxve4KSw19-dBNb4S1JitKQtgJJQNkSc6G2kobfHoWw7uBgk16pUhNTi8mpK4qeFOW6sS2I9Kfj9Pz8E0s0nG6hUZHeeQLRot0SR1e--ikEa8-HylaE339wQnxofxW-55uDCOBfS1ncg8PyT2JqO16eykBkN81ssSDPdwkx3TRVNij8YBiIOCgzhPu2EgU2u5rUr6NI.%26ch%3DAQEAEAABABSG33LoC-gmVQnFW_AerTmzfVOsyaUmXgk.%26v%3D3%26pg%3DI5WEPP7YQJAWLIY44FQTYHVICM

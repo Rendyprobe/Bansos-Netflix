@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kafui
+– Email: desmondlopez173@gmail.com
+– Country: GH
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 7229
+– Phone: +233542523970
+– Quality: HD720p
+– Streams: 1
+– Price: US$3.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: desmondlopez173
+– User GUID: X7KDX2NGAZHN3EYBK3CEFIUBWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805463900	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA65uQjX8o3ChC2Nqlr1rZ4AoujtCG88PyWSrSQtAlvZSwcTFMx-zYWuo8S0RIKoTtx5F92UH7RlhahOv6dJRhxRWCn75f1jX8yPTGfvG5tKkljhrZpzsDb8s9Sr0AZKhgEKLCUxuFq3p3kbCEZb2z_4Db_mBMBJ1NXeJQGlGdPRi611GmeMMAmnwHC4C-FjlyXKJCpiDdHZWFAH7aoYmRK1VNxjakkUtdx38HeUup8eRnQ7_1uZNjlLuPFI7xuv2N-oCHvMQCxwd1CcXAnZplKZDutQJFjZyyWGgPTG4r_A3EnKoQKPFPkstAJl1gwQhlhV4CeoJkfJ8dBB6QQs9TqcVPRny0SQrpQ4XCipWadg5ilmmBaEa71ZGqwFhKIGShM5aNxtwanr5NMAcJzUA0mwmghOMEspHEWaemhqpyYcmaXGzKwDVF0OWq-AXmL_yXt7bl10PFBgY9zDiNLMh7SfF7ibHiQFAANbpwcnHa58S-Yvh9Xay_yeSpWD2yCtVDb1H3UFXFXpQGAYiDgoMPk7_7tf4hlksrX4G%26pg%3DX7KDX2NGAZHN3EYBK3CEFIUBWI%26ch%3DAQEAEAABABTut4yMehL_9ekgUrAyTHDtNbH0T1aCfus.
+.netflix.com	TRUE	/	FALSE	1805463902	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+13%3A45%3A02+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1763ff38-514c-48f4-bac3-6ae0c343a6e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805463900	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_wqdFI9Pbu8Jk0AOvi0hVlI2cZLkdNkQ.%26dt%3D1773927900067
+.netflix.com	TRUE	/	FALSE	1805463900	nfvdid	BQFmAAEBEHAD-4P47QCPaQUoYiWnj75gsFX8eiFnGpCyXHoIBXx4P5mjYowldazR3IsB_P-VSgadj9u0dWGreqSMg3HgURUXd2gkY0td09eTVu4xlAaykW7tU1tTs5PuhqLWfV750r0sxYwiYEzmGrJI2TURfbLe

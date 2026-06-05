@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gabe
+– Email: Gabecarelse@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: December 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 4024
+– Phone: +61434740536
+– Quality: HD
+– Streams: 2
+– Price: A$20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gabe
+– User GUID: KDTY3Q7CJZA3PCVI33YKEEUQM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798941881	nfvdid	BQFmAAEBEESQJbjADonLEo1cANIiVzpghB2HkQNEHuJAogqXVF36pYjLNt9QYmmRqOwkQi6H8AYs4RmLswptF5EyBAjWasSgzFUerjpPIpNnVnayLL6jiYqN3k5b2LKbhx7VxrEa4qzE1suzRsI6zjEWfrz1nZLq
+.netflix.com	TRUE	/	FALSE	1809511874	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+20%3A11%3A14+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c62071c0-1ed2-4eb2-9af4-b8cc5bbd27f6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809518441	NetflixId	ct%3DBgjHlOvcAxLMA7URydh-vFSRzX8Jaem90bo3DpW4a6CTCgZkCojVrYqQqpDVzFX4izlx5IZIJD_-Zm7LY1bXGv71X5tMDtXQ_Om6D1izT33V8n8eeXNHkbdea43yDUefXyAhdmWk9THm6t2JnGgsCuHCUCLFgJKgbQSCxeuaKCRHpvgDIr2mKIT0Z_5KpmIpZnjQBdajsGkDG5NzsazppenhKHqLmT-nl8zuX1bYLBhs0-6JIR1VfK8vOBXSt9D38xvsFLMaU4Ao0HXrtM6A1aNGmk4scQcQWAXxyHkUdnKu4T2MN2XoNJy-tqrwwf4YRNt3Boe7XYC8Rx-5fRoTZpTDZ55l1H1wVM8Hl4M8ExuffSYoDdrJO5wdhbAuLdhHMBvWc2DmXbiZHoBWCZc9R1zr9R-ASzW3M8wRFhL6zpOV-mg5y8qJiX7SJHdeTHutGZ4VEoUyQZUUsi5i6Binx50kbLpFhaM8U3bX7j9XHRUaj1wvSV_N5nmmgBSutLlsA7_kQK-cGAexgwCtMgPJoxBfivTN1H45B-vlvGOec9fn9ip39aSIDnBE1r032xG7TAOKg1kjTFIHe8Bm9v5MxvwtmjpIY9Xvmbj_RflhtTgTpD0ZjBoYBiIOCgzyuBvD_XFUWPItjfA.%26ch%3DAQEAEAABABQAW2JX9GgtwxYCYUhGUfCWCKMVZP55cnc.%26v%3D3%26pg%3DKDTY3Q7CJZA3PCVI33YKEEUQM4

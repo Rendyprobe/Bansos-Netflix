@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Valen
+– Email: fedemaximo10@hotmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: agosto de 2025
+– Next Billing: 2026-06-05
+– Payment: CC
+– Card: 0171
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fede,Barbi y Ele
+– User GUID: 24MKF7HXH5CLNH6FSEWS2OXHIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788476455	nfvdid	BQFmAAEBEHhiirx4QD3IVa9beNo5A_9gBgyhdtOKfz-2HW8hSP75A_RKysRytPLjDFw8Fr1F4Fo9Ycbv0MH4Esf6rv2yNi7U3rya7vJeUqa0zTMwKrJynwjrzWCpFP3VVIfgFN0vFZWtYLf_Uv7VsXqrF6DqjNC1
+.netflix.com	TRUE	/	TRUE	1808755600	NetflixId	ct%3DBgjHlOvcAxKBBFpb2g31RjFrp3RfPM8LhUp1h50p1-R2FUB180qyHy_kSlCzzTFxukVJc4cSImzN9dKC0gXe-zb2WFq8-5UprDIYaABDOYR_s03pVPuOgCebsUEbkCotIchhn5MPLgJ2kax4akOW8xzwtYjcJYVj3kUlfqVyVSNnWcGxjMzw8PV1fGXtK_WusnSDRCZXD2dOKTlS29Luqy4hqOFUI8UO-DIEaDo-tj_vbTYa7WBuGvvaGlY9klywviVoF9W82b0jxSlWCw2zl8eawG0MFuLjCx7KitfbNkZNvOou-f_Zwu0Uw-oNur70VRiIaQhUrrUdKgD4Lrcf50ZlL7k47QUcTJC0nXCJR8tBY_PBcbHxdlgNwr2GMiKq9lDxkXKC8pM3ojzhVFkppqjDmyoPPlZ4v9_60bOvZcODUuVsKAF1kLWT2n3gtVKtasmkPN3v4esLjoIQXUXZXm12c8ombYRap0qhARnP-35vGIpf7pgPho5zJlLqtqh_RDIzBvhYyT9nq5LkHL-Ol9h3BL6W1kGYhHYcly5HEb000i-HJOn4vuLn02MahWIaM79d4r15Ax4Nv8iZA8Ora5SIrPMPih0gPwLUcp-1ghTb2PaRdswEA-jcY1FVgKrbgXxPsaOCpmsDp0SQdwrpgG-pMiMV2NCkdwBI44fCJGrK9pMviKN6v6A-9BgGIg4KDL-V2E3vgyqnwZC0hA..%26ch%3DAQEAEAABABS99p3QQ77TeHahyU9uR1WcHz-rOJsZERk.%26v%3D3%26pg%3D24MKF7HXH5CLNH6FSEWS2OXHIM
+.netflix.com	TRUE	/	FALSE	1808755601	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+13%3A06%3A41+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e6aba27-f739-4418-8c07-e19bd5797fc6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808755600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9kc2OhWVGgOyVPHG0XoiwNYR_AceGHFU.%26dt%3D1777219599307

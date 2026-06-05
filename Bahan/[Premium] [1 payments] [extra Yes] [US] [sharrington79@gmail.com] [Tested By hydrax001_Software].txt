@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kam
+– Email: sharrington79@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2018
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 4914
+– Phone: +16148000469
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sarah
+– User GUID: AUJ4VDKEFVB5LE6CGI4TAPQQWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810334531	nfvdid	BQFmAAEBEKtAi34mm5ezHdnmdMNUv39guELIjtQfHcToDZfReZ8nlYij9kRCvC4JkXuMF5pwKbsKt7Tam4ssqA_ye5sdJ_w8Uhbdlel1NQAn9ffwx7S_5GCD42Pd0FT2ZAcyKgfWxnGAMGSTQcGVNCc4_3jULb5v
+.netflix.com	TRUE	/	TRUE	1810861737	NetflixId	ct%3DBgjHlOvcAxLLA792Z1Zpe9kxtKbaCzACUmRisFL5NKHisMhnUD2DFOs3iIJunCRpxIu-GWoGI_s3xdoV6fOyDAxoArMG18tanxU99hZIZWzsQh7NhkqmcG8DYzbPFr5aPHOsvrY_xgZN26Lpp8zE0kGwlH8zZFl0ET-IXrbcjyqpNpt_orJoFz2HyvrqNpGbDA7NX0f7VqiGHdcA7rTj9iNvXbcz9VnRc7rY4WEaxySsDs1q2Mpp2gRufBG8MBZf9r0MdOcJdX2IUIBNniYXXl71OdXmUuSiUutJ6ItujYbzPjcyCC70JGEszKXFXN3kt7H_T_0KapLk2FUY7A6dRWcQ1uaNNHMlIKCjkSKt-6B2pTPwWyC5w4URiySfed5CTMOrUhJe6XylyTa-pltPEEKmgUqUy5_HD2tQaVpxPC_n9Tm3zgwR_UCnkSVPNc3yfEk7RRCjUs0EHUwCTo2F7YnKIox6rnQwSzk8hM8dcPhkRB8WNGKgDonl-DjBRvgLbWW4Z3UcQRr_XGfJVbcWIfHqUXrJGS_phHAQAoMJrlMRyLcYIm6kzmQst5Xn1WmXhEqGSc1Jb3KxOdl4sMcQapqq_RvSoD0R5wkeXcLO2DgFN8LjYxgGIg4KDGKx0KRdi6UedECiMg..%26ch%3DAQEAEAABABS9L-D_KQG4ysOXuUA8sI-8IVGcwPwTAzA.%26v%3D3%26pg%3DAUJ4VDKEFVB5LE6CGI4TAPQQWE
+.netflix.com	TRUE	/	FALSE	1810861737	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+21%3A08%3A57+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1eacf8dd-ebc2-489e-8ede-a4a693ffc8b9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778798531221&AwaitingReconsent=false

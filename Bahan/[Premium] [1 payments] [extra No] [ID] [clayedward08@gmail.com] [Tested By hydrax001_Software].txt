@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: FARHAN
+– Email: clayedward08@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: January 2019
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 1468
+– Phone: +6285697518506
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FARHAN
+– User GUID: 27SIY6UU2RESJKIQUUVJ4OE5CA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+19+2024+22%3A24%3A11+GMT%2B0700+(Western+Indonesia+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=248df50f-5413-476c-82ee-d4bbed242bb6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEN8gdefcz8pDSx_ZxEm26Sxg59N7_Y_5oCc87lJK2d--bT2dVW_oSNDzIgzijMv7go-n_uoxoVQHiY6YMV2tESJLRIpsbTvflnZeu0TfsprFtxt9sei_9kdBxi41z8vn-1O_Bcu1lNhtYFD-M2jlW5sJ
+.netflix.com	TRUE	/	TRUE	1783197724	NetflixId	ct%3DBgjHlOvcAxKaA-qmKvsN64Wo6TkZEmeA6GKopmomE8odz85VITKJzN3CdYe1PIzlnYrIBW3D4CrwU5UDyfZd4snJB8xy7o2MhHPG1RNCpXx9OQ5tuVGZlA8vO4EvDgNr8uxpaRgYAT63aonW0D_hVufZ5Z0Wlql6weXrur76ar7aBOfvkK49uxNFjBsExN_7AvTkpgoR7wcECe8uHfYLEIqhYZhdCzYbhV2W1EcyOa50LeWaibPlMehPASA3hjCujXCa0NYHRRGU8DMeFrjkLObkkkK3yDvzUPzoaAbxezWTOfpqK0eXI81BxCwKVpWfKNoH9ric26yln-dqbu7Let65ocxvjBovnuBIbp5GL1r5AoUNFPZ8_ZOnjXHn9LEtgbxwDzUlfPhBK2wH8p7471c4qKJ-NdLrCK0X-JXR9381PQeY6uSttov16eBTToN__QN8Jtzq2aHKictl31Y4Q4Oa8Q1nk2E8s5n99fC3yjbz6YmMjN_uVgJ6XfaGxfbT1zQ-PlUXeDgraAYLLmedcFxPS8J7jt-xk22Yf2VqFe7lYjnlGAYiDgoMF22HlcNwGR5FVXw0%26ch%3DAQEAEAABABTIC9jjwBecXYihGYk48FXFA4M-M9VED54.%26v%3D3

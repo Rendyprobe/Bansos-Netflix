@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: Z42GJKZQT5CZLMJKOFE6NL7BGA
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCATZsWMxRecusrKyGGc0ctxTSqpf5Y+0nza/iF2MBSkgT6MtzlOLbKD93ecrlGUP+G2LjRJr3ALJGuGE4+wHOfGcfe9pbtEhNdRUVgBpGpwPKUTsqCVcPYtxAg2crExIU+iklBWKzMkuP1P1LRe2vD4aaqW9zhO1MIfkk9CFmzxzPjn0aRK7lSN17Vg2w02ck9gNZxnpiS4agKK9VSort4MuELqNFoEF940+ibhMmUYVYemmnVHqVr4jTCtRY2GoAspYFGAYiDgoMYwuE7nxw4AOreACk
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCATZsWMxRecusrKyGGc0ctxTSqpf5Y+0nza/iF2MBSkgT6MtzlOLbKD93ecrlGUP+G2LjRJr3ALJGuGE4+wHOfGcfe9pbtEhNdRUVgBpGpwPKUTsqCVcPYtxAg2crExIU+iklBWKzMkuP1P1LRe2vD4aaqW9zhO1MIfkk9CFmzxzPjn0aRK7lSN17Vg2w02ck9gNZxnpiS4agKK9VSort4MuELqNFoEF940+ibhMmUYVYemmnVHqVr4jTCtRY2GoAspYFGAYiDgoMYwuE7nxw4AOreACk
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCATZsWMxRecusrKyGGc0ctxTSqpf5Y+0nza/iF2MBSkgT6MtzlOLbKD93ecrlGUP+G2LjRJr3ALJGuGE4+wHOfGcfe9pbtEhNdRUVgBpGpwPKUTsqCVcPYtxAg2crExIU+iklBWKzMkuP1P1LRe2vD4aaqW9zhO1MIfkk9CFmzxzPjn0aRK7lSN17Vg2w02ck9gNZxnpiS4agKK9VSort4MuELqNFoEF940+ibhMmUYVYemmnVHqVr4jTCtRY2GoAspYFGAYiDgoMYwuE7nxw4AOreACk
-– Token Expiry: 2026-06-04 09:17:42
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1797967053	nfvdid	BQFmAAEBEKt4w_xUN86ZYZBS9HXmmz1ga4BWm9eOzNfYqc-t0jHCZgdlVKT6uPOYYV7NrcB4lzzX5bk89LagVG_hE6wc7MTjR0bwpdwUveNUXZ9Z0KpboTtsdHIussdApxIAb5FIY7vClWVclxfV6wYIG0Gqrnux
 .netflix.com	TRUE	/	FALSE	1808036195	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+10%3A16%3A35+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12a18a60-3419-41a9-afbe-65ec6d0c1a98&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0

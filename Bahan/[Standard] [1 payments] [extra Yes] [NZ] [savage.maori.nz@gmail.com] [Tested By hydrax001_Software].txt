@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dad
+– Email: savage.maori.nz@gmail.com
+– Country: NZ
+– Plan: Standard
+– Member Since: November 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 0675
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $25.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papa-trelaw
+– User GUID: KHJPTRFEEVHH7DEZ5AGLAWDKI4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797461403	nfvdid	BQFmAAEBEJgtq9o8tG7A_PQEfb8mWpJgvFvnFMEBqCRfMPlIBf7I-aDwOpCsYJSR1eFdykHbr2Uwqn4NWo8CxMZl9o_s-YNj3wItMnBtvTI1I8UU2Ai0y8giRKIW-HWs4rOc71eWtWEH7duqHlgGNgS7p7zXsDM1
+.netflix.com	TRUE	/	FALSE	1799931068	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+01%3A51%3A08+GMT%2B1300+(New+Zealand+Daylight+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33cc15ed-8e8e-4d46-9281-58be4b64d381&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807824624	NetflixId	ct%3DBgjHlOvcAxKYBLOOzbv1hky0QOT36VqTF9dJSA3U5Mt-RmsHpu01b3ix6JFydHZ5CQShmqs2NzX8Vv0-OZ_QIQUWW4j_7kA_ZQgBRS6paZWQ89qzHpoGJuemPbj1fQl28N8zdEvpRp4IGDL8l0wD0bFmFwdbgCXlK4AHZcT71dJ25fsnlqkqQk_oQKtDSHNsqa79SqIqHGK0wTlHd-Butf34Vmq6athy0HPo3OAw1LKSvJQPpQmSewD_lItQ8itZeVF8PfBY4Ln6iFopc4grrcACr1A_Ju5r8G24PM15DFspR-D35fqQMeqqYjXwLxGTEAdRZzPGaS9ctigACbPcom85bOQT7FD2mU7rv5mG2DLRpQtLCgvX5iq-cEmHNadkwjNnRHAh36TfdE88o8P4gD8LJTIPTVGiEnxMCJQPnuf-89rW3WfAJknQQ58YpX2gDp-GL7z1QrqRkdG8cb8gJge28At391SbfM0lvY5e0whdCzITLPKTl2GLt8tO9IzSXnfeZ_pfqPfMTk8gnNoRimyu_4FAmvJkhefxAi1awnCfDqcA1wOF_1QX3MPCPws_5ZjtwNBnBM5UWoywcACD2K-XlkgHDUoCq-xrThl28zx649lArsvxRW0lSKIrtTjUgkuBQTqggzfRxFmNlV_QtM8JotL4oOXsHhsltRqxeDzxUCuk8RLHrkikQGmElx1WkW7X4T0LqHVGfiwqVbQAkNRoGAYiDgoMfROWe123uvRUlPVp%26ch%3DAQEAEAABABQ3KmP3sITyF8hiClmHYSZ6bNogaB3KXJE.%26v%3D3%26pg%3DKHJPTRFEEVHH7DEZ5AGLAWDKI4

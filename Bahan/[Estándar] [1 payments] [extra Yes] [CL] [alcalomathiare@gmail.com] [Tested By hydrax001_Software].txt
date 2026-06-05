@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Len
+– Email: alcalomathiare@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: octubre de 2023
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 0981
+– Phone: +56958504943
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alejandra
+– User GUID: IMVEPI4VANBTJCOEPQWCTWUIRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807990216	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+15%3A30%3A16+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e3697d9-9565-4c83-9fb6-4bcc69f8ff78&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776454206818
+.netflix.com	TRUE	/	FALSE	1807990206	nfvdid	BQFmAAEBEF1z2WKw4AFYyjrmG9bMnKlgoa50SiHAhvRWhJHhwkrB2tPDxjkDyS-YZhDS2U9I22FcDgWoy6WRi0JMVzm_v4kMyKdwWmrrKwfSdRx9Kk8TxKKMHgDTEj1PrQItOMh6hlCpslUQAsPmXHgojuuBXPXj
+.netflix.com	TRUE	/	TRUE	1808753952	NetflixId	ct%3DBgjHlOvcAxKvA6-RjAfI8NXTm1XY1u99PoxKFz6LaTCP59ttottX_NpKWSWIEXoX8QxqYVd5emOVL6tj36A8x82pGGjUScjReTgJ28mr9jOwvWT5X4qoMvhRERYU41r0j_VbDlrZxqE2esS0busRxVZdzzjBFTnTrYG7_6DLedKDDNcC-3sCwFyXKJWFI3ASWwzrEipU7mVKHoSdDf-LHnwQ_T5R12faCbze7cPOLxc0G3WTxU0MI2p-_dtn0_wyc02RqsSYNd91O4pliWjdRUHQUEExZ1lyUTYwDwGxOzu5qacXr1nAd_ejJiwSHBeafcuCJWmB8kWlhABWIVAKGQpRr_pnQEtqJ9pIbvtCBRuDvHRbJRWpxVe5FNhvBYdl1S7YPMjNnszkmWYiopJ-Ri-E4wdxw_4Yy64m-n7a5Uw2sWoBwKeo6lQIW1_kGBwNsK67Wi78iuJ3YAgfrg8aRKg0mQKDuUDBIc9V6qcAEgtNDvFSWHyR62yL1iPJl_E9qRPA632LX4qEYPJkYXxV8SPGdaNug53B7Bc0K96JTL2hpr-01NyGFjWrjd6jhMWOmEzI91MWVwjDGAYiDgoM7o_i-nkSfLA1VW4S%26ch%3DAQEAEAABABTzYjeJn64fiDZhBqKNskG7Njin29YVaIo.%26v%3D3%26pg%3DIMVEPI4VANBTJCOEPQWCTWUIRM

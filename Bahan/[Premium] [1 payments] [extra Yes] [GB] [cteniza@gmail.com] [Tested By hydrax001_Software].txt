@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kaka
+– Email: cteniza@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: May 2014
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 5768
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aleh
+– User GUID: IH7GS3NNOND5XPQCG5PHEW46EI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797145049	nfvdid	BQFmAAEBEMsKKXYehqbPJsFoQCN660ZgWtFp_3-pFf-xlRTKMChBh4GmyatJWS_qN3JFwChBefY1f6GW9wXsfRDt-coyJHJZA-pIRbvWyipfdms36lliCgmDA8a6MekurtzaJ9uX7SJw0lRD9OOjoUU-FLdHqO_r
+.netflix.com	TRUE	/	TRUE	1803217904	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMa_CZEH27Ep3ikjOsT7SUi-YNC4IFa10.%26dt%3D1771681904264
+.netflix.com	TRUE	/	TRUE	1803217904	NetflixId	ct%3DBgjHlOvcAxLnAwD3UJHl_d_b_sjrqmMb7p-o86VwPIw2axUD-hvet9roFv2CIvGCxf84zLYVAEaf52Sw-pJrXdbvmA6Zb_7NHjMkvl6dhrErPjmJ8VcA78ONuUO2BzRIMsJVTEvvvlKuLkAvq4y1iIP5ecDXZqqzJWl3bz2bKr3RqXwlxkld-AXyNwtNUJsINirhE2Vh1syByryNK14UXSm875fbAXYOMRQxo_VKnTOiSaFJg0ZJ-pFAL4AlRL4EQKRIAVczvJ3kU4RCaRXeAIWu1miHDhTapoMnbzoPgAOkgTTh41ulz3En2CUkg2xCF5a7hdUnZMkMqgPVWIOSsi5dbVP56o-A4170WJFqY2VKMXozZgHBhe0-_jIi4g55QDOH596jBXLBXrr92ufP1ZkNTdgWixrfL8IY3d2xxxI0UDVpq3xEEr9RbYJy5ggpt41y_Wvb7-p6A33_w5Pun855skvhovhBkyx5_RX6S-LyPHkQE-OrdqL6OAhACMRiBOSd_6dHUnFjG-iaraF2EVaIvQwvdowECU2emz7uC4jsbYnfJ8BaHLyUtYyMPf5qiwpuaOEVJ5NrVJnTShgvHPcH0nO9gZatxB24qF6PiL9nfRZvuGnsZ00qIM3ii5ai-UZHbdJCR-daY4-MQQKTfGEYBiIOCgwb9KJtuJgdOH7cGUI.%26ch%3DAQEAEAABABTtRuBphZQTIvbgHA4C9CZU-IVwraIu9zE.%26v%3D3%26pg%3DIH7GS3NNOND5XPQCG5PHEW46EI
+.netflix.com	TRUE	/	FALSE	1803217905	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+15%3A51%3A45+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1fe7ab8b-2686-40b0-a13f-9810f2dd6ce6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BG%3B22&AwaitingReconsent=false

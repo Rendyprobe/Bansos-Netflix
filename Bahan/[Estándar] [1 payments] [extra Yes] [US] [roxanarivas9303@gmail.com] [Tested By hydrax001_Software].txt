@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Roxnier
+– Email: roxanarivas9303@gmail.com
+– Country: US
+– Plan: Estándar
+– Member Since: marzo de 2026
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 0619
+– Phone: +17869993213
+– Quality: HD
+– Streams: 2
+– Price: $17.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: roxanarivas9303
+– User GUID: HH6H46J62RFTBN4GU34K4M5ZAA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13450859554390708	nfvdid	BQFmAAEBEGwH9uafKqMjVykFQZRDuxVg1Z1h2iXoL9rSnF_Y7Wo1StPoukD4X8fbA_UbDrUXQT3wgn_9hl4KkLNLm9dKeAcnO86eiqc2tHNBsNBTLkver7Z_xyx8e6-ZaaVaq-sFLViUXv6jHE8DqdkAamP18AHk
+.netflix.com	TRUE	/	FALSE	13452001027000000	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+06%3A57%3A07+GMT-0400+(hora+de+verano+oriental)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ceecb61d-a475-4885-9405-2ee5cc6679fb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	13452628670681125	NetflixId	ct%3DBgjHlOvcAxKBBC5wivmfmLy1K1YYIUZBwRKr-coknKyKTioRKJevYYlRBXDMyQyNBHyTRxcOXY5Kjvect3lF8Xf6wpKoPUGpWNSNVXXl-eab2SfHoAyyJ0jT-dfbIovUj-QU56IZz8ClYQuYvVv10Xk8tyH_ZAzS4ft9A6o80kIxFtAr2J-IVe1CO2N6AvWZfXwYr-FQEmy38pLOBlkN1NcdzK_iH0BIx8ls0I0KQzsSXY_AmIwWc7BDPyVZuv27iEJR84oeDhLSYfwA51jZQyL-41G0JENJGU0morZSJpJVhNMjYI0gMZ09zpqm2YLnb3sbtZOuUZgfz2WBkNf3ZuBHZ34LGYIiFzwyxa6McNJEA6KmIP82wFUDxOGUuHtvx5MfJleca7xFsANBdZv53gMaz76OY9hOA5rSdJKVc_agXQJ5FyW2_MNQDQhT8PfPTKCLBtQPAG5mUK_HfQ9SS0KJP_KQJBJpDivqhWUci_OEMFppF3EMBGmymB9y3Zh4dhEtGvRr00If35Ue9H2axOPpwhRlPpv1WnntNITh2uShmr8gZoubLMWM7VQJRaFVawXINXDVDabujWa7Tt3l6cQJo_0V83ro8iEb7IXkAXw6CzKryEWDzSY5JXpx7UGCONwQNGhSdgsfPGar6613WqBForUIUd7-BT6tvPnCxJzfKxK7ufOA3w5w-xgGIg4KDK03rq4pOgCkFV9W1g..%26ch%3DAQEAEAABABS9Pa8txK-wRTyPsaq7j1QUnJerMPYsBz8.%26v%3D3%26pg%3DHH6H46J62RFTBN4GU34K4M5ZAA

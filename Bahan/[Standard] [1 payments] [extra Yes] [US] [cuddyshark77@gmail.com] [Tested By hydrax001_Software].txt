@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Powerful Ladybug
+– Email: cuddyshark77@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: April 2016
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 8108
+– Phone: +12064761098
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cuddy
+– User GUID: WCOE3NPZB5E2NDNKHPAD65QJRA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1780980708	NetflixId	ct%3DBgjHlOvcAxLqA7ZesbCcxoCKjbsgJ3yDUzBARLRvMb6l8V6w-6sR1rNRFZDd1dydZdaUycP1oyh82UHBXzxG8mUm0vC435T8KTt_W3YUBNp4BUi31aZ_d7bl2xphRrsZGnmK9Y1pWQbj-43rUtz-B5F3NwHr5gd3dIlIVQ4tkRTarQ1pN6gVhRScqXauQuVMfJ6EGUigb9sCygB7w3v8eK_t-swxIi4ICVDj8RsUv6D1FMHY_x-_QhrsYwdQ4AffZGjJKffrOVg_XBRyXgFHe5_3OoDhTr8EkbbNl4vLh_MghyOuSFCMgufr1FHDst6QzGN4J4SJJfM6SBRDJY4lDdNMd7sJ1C5RPbMzD5qYcAjf3iOE3JGf2mrMVKwfjBSlC6CPs9HEycP7AAz1Pc6Pd16kZgUqmYNZ6uvWD1OCQBeBh7ubWf5-vntieSt9xRmtYvpn3_loh8C5S4cC_G6fOawXqIr_4t4DWSmp-DfS6gvz-NiHqRKJV-MKkwHrN3GpHKab8vhXdLheWis9zxSgejLD7kc26w7WYhUYDxwQXbJD_vjz1VjVzOBQtBGtwPKgN71RQpsjCD26TFBo5vWdrItSVhHoCKBXyqIJuOFU_eZ_ZNwCj9h0XspnvKayK6eMyspqboWUHKuBozNOOxbgS0CkkagYBiIOCgxUsbxzna0mtiftAtQ.%26ch%3DAQEAEAABABRKT130CDHNhuWwAu2CavfCZFSagd7GR1c.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1780980709	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+08+2025+21%3A51%3A49+GMT-0700+(Pacific+Daylight+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=4c06394f-78f4-46ff-b6ed-d83d288b2448&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rumiyarumiaja
+– Email: rumiyarumiaja@gmail.com
+– Country: ID
+– Plan: Basic
+– Member Since: February 2023
+– Next Billing: 2026-06-26
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6289685891100
+– Quality: HD720p
+– Streams: 1
+– Price: IDR 65,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rumiyarumiaja
+– User GUID: DLU42ALDQRCDFICYR2JWDLAAFQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792308326	nfvdid	BQFmAAEBEBqR6sNZrgmp8XSgd-X1vJhg5woiy1ET3O932LocvWGplsOXczijtkyI3yXBUE7dA_77HiIRgYBhGA2aevqclvPptMn9tv8qGb4W-ZaTxdAtFAFCRrkiX5n0_9N4m66bavdH6ybi6idGKQMJ1tl8Uaco
+.netflix.com	TRUE	/	TRUE	1804087653	NetflixId	ct%3DBgjHlOvcAxLpA5XK4WBYaq6bJgvU2dujnxWlJ6q3jzmFa1f_f3DhcUaDDvjqcNxAH43fQNGS6rCNwtAPxaGTiH6hQia9BEnGp81G-UnDumX_FXCZ90s74poTRAml34cTVLhC1fS7tJqLHPPEsT5ulSoroFCViM0FKBd7QbRjBdlo82ZWj-4axl1v7YDQU9S9s2mVGZZTLWFjWIHNn5OUfv6l8h3WdKzY4AEjR_5_UsPm8TzrDskwySBU1UvJ2Rtn0n9yVrZDA0Z_rkiDA3d0WuW-oIOy3YdKqQYhm60QdVe81OiVVe-FutPOavpleiq7gPnUi1wcJcQckEqtZHBfIB51-DxmEQwC637_8z23Y8YmmYM2nFgtLBXxMvg2zr_qdFHLxQQozr4x_ZxKfzrCgJlUZjhQenR6E7280Haqu4rHX6EkZl_TFOgCC_v0G6vF4bzAEr5JeMT6XXSfcM_SKaqllS8WtBfCoHdrUuPyjTtnl3JujUpve7qOKnZSpIvvCHza5Pw62XKxNfhk1k5eOKnuGZECcKqQKSFoF-Pky7-wzikhJWwvBJa79NqCOpCmIZN4dXTukNP8vcTP5lE5So6Ykgj5NRkIqXi1YfxPmJHRe3gtYvMmnFUafuvVC4UfFHFThB_wwZZiIuSA-MGwaVLExBgGIg4KDIoXMkV_387rYTS3KQ..%26ch%3DAQEAEAABABRFfZljXO8yQCCStQQ4jVTg31XEstsM2ds.%26v%3D3%26pg%3DDLU42ALDQRCDFICYR2JWDLAAFQ
+.netflix.com	TRUE	/	FALSE	1804087655	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+22%3A27%3A35+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e26c3ac-d39b-4f27-9e8e-813519530c86&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

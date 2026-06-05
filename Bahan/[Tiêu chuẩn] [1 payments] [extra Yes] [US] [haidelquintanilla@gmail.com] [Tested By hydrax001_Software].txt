@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sheep
+– Email: haidelquintanilla@gmail.com
+– Country: US
+– Plan: Tiêu chuẩn
+– Member Since: tháng 12 năm 2014
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0730
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 19,99 USD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Haidel
+– User GUID: YUI3CMNJLFD7DMEMVWZNF7546Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEP_FRSprUfpYZFGnGAnm6-Bg-n9YCKD3Y82d8P-P_5mkRrnH851YQau2dwvPj1bX66IHWnU8lY55x14rMGCRNvj8pxk_J6mkGKDOZwos5M9ZG6X41bubLgGoAzm_cfTpbSWbs_dPLlpwhbh2TmNRjtU3
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	v%3D2%26ct%3DBQAOAAEBECNI0hefi-5KmL7M0cW_pfSBwPfRrl_GNeBL9bPIoZ92HfMi6jUG1VnqMFVDJ_3rFnrkn0f6IWYQiwWhfMXQskOFgeAKw7k88hHURFEB7XysLwEiSDrGfdCBzUod5HfuAeeQkMgem6l38TcPvimflwgwHbYIcrfKCq03o4JqcvG2wv09GggpzQk8vDNqd0fE4E5w7jQ_ruKCk78Gm96lmHq0dMnMk9P4DayFFsIejCCNVTduSP98uxz5hZ0SUpD5xzK4ZwUEbnBNirOb2XcRPF3OZ7yOKEATjjcQqgCU0iF858FczNaIH5HX1sb0odLu7i056M6NbG2EZ6hi5p68f2GyAWQlSLqHGupqmIwbxhL_JU87f_V8FmCYhhVzTIw6H-Js9KX1GnO7JBXBMveV4ao9Te56jTZt0XgncLMymFAo1fQ76Ub-eTkxjLCU54gRFe7w8a2iqBMDcqXHokFKwtRsjmyoqy6ft5cWiE_dX8rx5Y6XTZZnyOdKdM5K_qt1AcCe8jaItchx1IMXrXlMgfHPPeZre8rnbjc0aKhjali6hEz5S7pIJ7nEFMDj34PI_bCSv8yg653rmqoeLBJAVZyWd8hk0QjfRXs1b5kiD86HTnw.%26bt%3Ddbl%26ch%3DAQEAEAABABRoil0EVfI0jPpWm6HyMHD8Q3c-N_2aPhc.%26mac%3DAQEAEAABABTzrw8QmaGpzTn9JZicRkCiu4NoiyB12rY.
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+21+2023+21%3A15%3A40+GMT-0500+(Central+Daylight+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=7f5cf7ad-037a-4945-ae03-5a5d2c4911f5&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

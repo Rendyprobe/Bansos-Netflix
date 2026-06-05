@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chapulin
+– Email: mr.depaz08@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2014
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 3371
+– Phone: +15104993356
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Herberto
+– User GUID: IXY5MTZET5AHBLCMOXA2HRXW4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785257401	nfvdid	BQFmAAEBEKgIJ7VI2xdjrwU0zBqBhS1g3McyHN6ZiyKgXuwrjJsLxkq3zyPJnYqJzuRjqPZzQ5yYd_D5X4p9lOty8DnfK8BDDKHU28hA8-JYPHN-yFi2_W76LfyiX-glzBnvA8CrKUwb0os2CWneyVFbO7UlVJrU
+.netflix.com	TRUE	/	TRUE	1809469957	NetflixId	ct%3DBgjHlOvcAxKJBOtQUcl6XvHqwLWmPDkMQtPRQ-uJ_ASTphAWAEWlc6HqsyF6V5LmDKI6k7bPXsqojLQYQG2TrXXt5WVMn3pCtfRRzY26Lkpp0GfCaCuXE6tGSErtV66SJU1y_U5tH9HSPBYEE8D1qct3OUxYOeHcemwx076faKmOT4Lj-t8d5VjrtDMS-2Bj26Y8QPXls_HcC9dWuZSMqv74iYOOk3bIRoiOIz8Hzkl5DtpA5EYQmVVMBXPWFo1NrWMRQqHgBNR4izRAAqzDzhLFvaLCXZX6UK0ySEsKJvXgybZnz1Z3yTMbYivNTMPSR4wCSz4KCIdtSVhmu8Xm30_iP3zHFEvPgbr6HkPjTA7kRfi4JaXNdNfqQvivh3sDOg-bAY5qc9_YRzZ6C53TRbo1i1Zjwqa_rf3mgyZ3NlHrtPH6i3QWyY99xE5H9xFTH7lNvgPYesHLRKtf9agTA8cQeQo5aVmLmxTNT_xGds2W_hlktimV-_f0kTrXLsEjLfGKrTqrjUUxCaylD2iLuMdFQQmo7aI4nWxLnmjF5iPRz8bE7F6FqhsuoMenqY_xR6UZ6qY71mK6DqLZdTj68wMa4XX-7v9kpbVwhoo-SaXmMgyomi7-f9sbBQDAOlAVkTGyxIThu5D8YTMaPiS5KkqR1vbwz2-38MON0QEsVBh84fj5o9V2FjOAHSu3VVOXgs4ZGAYiDgoMNXRQkNYZvC2HAuE4%26ch%3DAQEAEAABABTAeF-uXYeTgiE7uVhph3dQtRrvAxHoZks.%26v%3D3%26pg%3DIXY5MTZET5AHBLCMOXA2HRXW4A
+.netflix.com	TRUE	/	FALSE	1809469958	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+15%3A32%3A38+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0adbdf8e-8011-46f9-9dc2-002e914d0331&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

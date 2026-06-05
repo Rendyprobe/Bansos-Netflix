@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joãozin
+– Email: joaoalbertomerendagarcia.jamg@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: março de 2026
+– Next Billing: N/A
+– Payment: TIM_PI_BILLED
+– Card: N/A
+– Phone: +5516988233681
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joãozin
+– User GUID: 6XCG62ZKTNCNXPLICNCWTNM4UE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805415975	nfvdid	BQFmAAEBELNg6XSK1nsSWWalDKVG-INgXxdGzGuOrz9KDw8nxOdrhpEgdGGtlnOQj0Bu2XlC9MljnCw6YeFYuPEZC4CbeBpeJdjJQpzpLxV99IGJFqNTqYsWh71e7ao2puc-4q8pRr_JIEJm2v44Xi7j0xGx3NIZ
+.netflix.com	TRUE	/	TRUE	1808176392	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcAzXq2FdNoKqepNV6UH7p1oCQGQsg0dnHVIdV7Iet56dNUlBH9ITOrHZHYpcZlFKqpY5nwzrygMnF_TW5Ts0pKqHEAGaA6yD9yAh4cjAkHd8IU1h3wNr42m_y7AH6qFymCKrNKFPcjCHFqsmMkcFv1M4n5QsUrsf0MV7tMYelvMOsudsJDEUygrLjjuZ54rk7ARJVwU6RPh9LN7sm2Gs0E2995WHxsZiYnhOvGIFqOtAoXn9tO3J4L8xKbXnpykKveebYmsUmRb3Vyxuo8Cy37ulR2-tO4IuCJ_KIlZcFcsRX93-1B9nv-F9SCtqrw8EBVCa2FuPLBQQ2Zg14mns1Xa7Mzt0ILGb2OG53FBPfBHEqes1RL8jBBCK-7G2vUewArbvrDYxPjF6vbb72aIBesEY_TrBlQWElhIQwAlY5-hutshao5Fd6M6hflmIYZguLzSAgzfkcgqfPTd-lnF9TxKiEglNbgBu0nLM9QXvztizKp29kUIMlrVfJDNjr9LZxmR_ykVIR5iRuTnDm_usQFAOHyak_Ef6QJWcMhRYYBiIOCgyOcL-dVfwaBsWsqHA.%26pg%3D6XCG62ZKTNCNXPLICNCWTNM4UE%26ch%3DAQEAEAABABR_luv8aW8rRqblvaFkhLVOuruFI4aa1h8.
+.netflix.com	TRUE	/	FALSE	1808176394	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+20%3A13%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b018577-396c-4527-a812-a0ee19aada44&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768170672874&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808176392	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdbwCRMFHF7F9QyNRv3_pzI4KCXoDomvo.%26dt%3D1776640390145

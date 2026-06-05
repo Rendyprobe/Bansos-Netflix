@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: VISA
+– Email: saimulhassan1981@gmail.com
+– Country: PK
+– Plan: Basic
+– Member Since: November 2025
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 9427
+– Phone: +923495694302
+– Quality: HD720p
+– Streams: 1
+– Price: PKR 450
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: VISA
+– User GUID: KD6CQO2KE5A7FO4FT4HXGFZNDE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807073893	nfvdid	BQFmAAEBEMcsCLkxcsa-w3QfYJcXTTRg3OuPwGSBK9TG_kLQvgwgzjxnH4G0kc_TXNxo_MJ5zEnH0ML_jjYGv3pPaaC7YKXbJfEt_r2yB8_FMzLY-i5cg0IXywbG0XyHA7nGiovkuVHPP5gvuwIfo14yhYBeXSOa
+.netflix.com	TRUE	/	FALSE	1807083556	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+20%3A24%3A16+GMT%2B1245+(Chatham+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=22028003-42ca-44e4-be1a-8804801ca65a&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811457800	NetflixId	ct%3DBgjHlOvcAxL-A9nJtYjhsVM5l2sLyRxQtOACoxxI6UbZMQVRbXqMnu57MgPB7UEiHHXHZh4iSTNWLajlMjDRk307K2-HMg-YpTLm3BfTm8ETvrF_FSTaL2jfjhkyGy2T_tJqvcrF8RZhDlTNY6eULM2MBKMfo-c9IWugLgyZ0OOte4vC9-V0kFVyd-SCQCoAiTbte5NsHuTpu1thlZitQ44elOrcO21FqOxa2jeW1JeToTSywPQkvF7yH7vAmWngx_y5EkYV80eCE5JUapf3pgZydU9_3FmGCqX847rWXWpwF-cQr96MfpJGOlvqQ1GTu6AR7vKaQgrHa1oF8R7OFFafjPj9VSsbylUSuAqucZOr7wGLZKKgL502HsRsB49aVGb18mG9_6IY_GYexy0jOeo_YtFIod87x6-Ay8BZirgz_4S19TPRLkEUWtI5TtkYWeigagBpid1d1FgTVe87Xik6BXpu1Yim5jIODeRBqjTg7AwCxRPHQ_rlyb59syO5EFVl3Cr8u6ycqbS_3stWjW8kRsHISk3cdcLiqTFieNv_kAGzxP-sEKgSHRSkVofpB-N96mPAYffZcrSPPj7VxB75bYE07auiCXS27ngP_1e3ky9w5tAjAWPMGYzTcchXsFqUE0EvWEs8FmT0uIpt8ehCqunQttruwG5-J0HYeRU3MZ7Uy0oVIRgGIg4KDBZGhUGaF9NtYDwQtQ..%26ch%3DAQEAEAABABTxjNCwUgYpLVKu31cbK634ZXjCXO-itpY.%26v%3D3%26pg%3DKD6CQO2KE5A7FO4FT4HXGFZNDE
+.netflix.com	TRUE	/	TRUE	1811457800	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1c0sMPzOBfYCAXL_cFYFNMtBVVHYYez0.%26dt%3D1779949720502

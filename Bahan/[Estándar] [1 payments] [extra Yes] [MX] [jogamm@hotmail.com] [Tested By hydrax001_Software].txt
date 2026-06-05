@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gio
+– Email: jogamm@hotmail.com
+– Country: MX
+– Plan: Estándar
+– Member Since: marzo de 2026
+– Next Billing: N/A
+– Payment: MERCADO_LIBRE_M_BILLED
+– Card: 9392
+– Phone: +529991637140
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Johnny
+– User GUID: DKDOJP33IBD3FEJ67WVKAQFZRY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798707638	nfvdid	BQFmAAEBEDb9ovAwVV6m_LCBsMhmW8hgzkYxWRCIpLNywu56VEjkr0l-18ubcO5nx3WPBUlV2BHwDJPVlixchh2I_0lXj-8Te2Dg1GOdxyZUljeD8qWiyWQW-PAIfvCOOa4G7lLS9WLwLMrs9VwFuMAH6d7qt2kM
+.netflix.com	TRUE	/	TRUE	1811033531	NetflixId	ct%3DBgjHlOvcAxL5A8DoROqK1AGBDRjUOZhHWoMWQXOLW0lHMiyry2TCjK4FRAsp6-c5-yJl_pJj0heqnc3n2sOxKm8bQ29X9FV6DC2adURD8mSEzZtCn_thE6xFOh93EHxlV03S7-yEmO8DC69F5--Gsxt93Wa72eWNqv3RsIlyxwFGedTZ1j6obmuVYTy6HC9FsACumE6oKHbUshpM29W3EL8_v3RWWuSg92zVIbm5yMxRKRqy0orAYvGX56jVhZRdU4KMU85HJ412dFKHypP_2aa0gVsKrK0nzve2NB6yPMIGJoFUKW7CzOsWTfOAXlq8D0OP8WK0_UnNTxCczjWa5NxbMS0W-9V8LUX49QSTGXyowM05Rebe5wRySx-L4qtIb1abn4W--JmAeAXYcMKVUMJXCcP84YW5lf6Kx2iQbEIXYn_aQKXHs0HPdWhRPe5hhWg3KufsFokffuVKd8AzRHYQuzf2WkL6DqdCySgHCZstWt32HkAlSgD0SGl_ngDG4SmbPxgD7dh5r7ykVMcf5raTxBAe65hqWNfRtVkXXkPx4gonjDvfDG3cV-8I2LZUWGIVKz0OCXddfdvCxZ87JVdzIGABOzHMUvLOrPzzDfkR9RNtF1SIOHRSe2nauZfJ5x8vUIHZi4kZMSkvaRBzXjo4smuu-dLdY0APf3Yzvb_dK7QYBiIOCgynkZ8Zn5REz3qu6ng.%26ch%3DAQEAEAABABT3WCwUaXevvFk-5bV0F485FNhNpTVNz88.%26v%3D3%26pg%3DDKDOJP33IBD3FEJ67WVKAQFZRY
+.netflix.com	TRUE	/	FALSE	1811033532	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+18%3A52%3A12+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4264af2-fa6d-4dab-868e-f5f1ac01c0a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BYUC&prevHadToken=0&isDntEnabled=0

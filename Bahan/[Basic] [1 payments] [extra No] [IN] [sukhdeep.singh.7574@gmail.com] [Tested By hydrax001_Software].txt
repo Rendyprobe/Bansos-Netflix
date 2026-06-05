@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: $ukhi
+– Email: sukhdeep.singh.7574@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +918178757465
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: $ukhi
+– User GUID: WFCO73FN5JGSPMNHDHVS4DUZHA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804882858	nfvdid	BQFmAAEBEFM_SES7WeIz0k9Ch7-LvFJgoUvn7CjrLcVxakDQ9eRGQBOm7n30pbkJObi30WH6C56gdcohPdor1GaJYBNGm37S9Qcajk2SAdLzcAg9vwnElAmAq2poQHMVtsVyktjxeBigcybdsu_CEhQ_YXm9l0CB
+.netflix.com	TRUE	/	TRUE	1806831899	NetflixId	ct%3DBgjHlOvcAxKIBEU-YjAi6XzYeHtbwDodjL2nV9ZywpJy5TuabjQFGSy1AoF7WJoULVfIRKZv3K83lDPo-qRjjOgkxMRv5o7wuj8n9sDH_xOpdMa-iIcxC_BzgQPKY-vDKc8bXRCRKnvuY8F7LcLGrSMu6unXbqmT34TGOYHpKd6Vq1UD9V_ilinduiL_6V1dWl0trNOp2rW_kwfVKeCsti3A-P-qPRTjx7x8UmW3_0WoIEUR8LttConFTEfJ7lJS3GWubryIrDLO6O6OTlyptT9ZL1tV3g2LefS7R6iSmO6Xj_ExzulJ18bINrg2hDFQ-_cLBEsyWAxyu9FMSiQ0_sfwYGQmbaV08GiZh8AT8gXDfnaBrOYoGrIfy8ARQ8lbjI8VtXVzMmLt2TTJU70D_o0NWaGz086UYpcPow0cXJ5k5uxwv16R7Z_fQnYibeEVWtucUgEuVRT9GMSWY8FKPtoKVkV8VxFtTHTQddr9xFSKVF9X7WILk9rNV3SLF_liEvFIph-4RJFvqTjieWPGv4xD3d7C2-uUdfZGQltRJnDOXRv5hNdxXvQWF-v1g_0h9ETBW04TajzvJx6DjpGNxSZI5m6dARkB-uZjtfYDH_pOGBcB782o6u4OitkEHloVx-ns7jfFwvtkkdumV_BctnmhrkyrozUMzVtsrJJOafNaLXCIao2lQoYn5qeIBJL5JfoYBiIOCgwhiqWt41GVzfd_qfc.%26ch%3DAQEAEAABABQwQJE7ir5qteSS1RXL_p8Iw9SZik511g8.%26v%3D3%26pg%3DWFCO73FN5JGSPMNHDHVS4DUZHA
+.netflix.com	TRUE	/	FALSE	1806831900	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+15%3A15%3A00+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a0aa57a-aa79-4b3b-87c6-09e157a1f41b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773346749303&AwaitingReconsent=false&prevHadToken=0

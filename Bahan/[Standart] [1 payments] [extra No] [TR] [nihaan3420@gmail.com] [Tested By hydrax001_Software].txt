@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arda
+– Email: nihaan3420@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Mart 2024
+– Next Billing: 2026-06-14
+– Payment: DCB
+– Card: N/A
+– Phone: +905359580554
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nihan
+– User GUID: VL5OZQAX4BD6FFA3MVD6Z4R2MY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781034757	nfvdid	BQFmAAEBEIaKLeIcyKXTZ87yF2a2_ThgjUlHPQAWUOvCTZR-5BVWWEH3jASbZyYWWWOmtDsodrSrpsnmkaN2de6HGrF-NRYJrxsIjAtxMDjJg-65HwW0kxgezrXovdMiyxGmFqZ6al9ROokYBIf_DeVjgVGXMOYG
+.netflix.com	TRUE	/	TRUE	1810910002	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA4VHGcV19VsGzpTaK_X7kLd9b8Xq3QoG3-mlwW3J9LXjov1nbYvZ_mEw_DMXhw8kLnVrKUtYW8ygbTRG2C060zugr9-RIdTq47uViaMf1h0KkN9AB0K7v7R-p5znh8oONSGbdX-LAGi8PhrW4qjpFwamu59HwIV9zefL2xvO93RfynaenbfSxxzzDu4wDxgmtBvZjJCiUnq7LZgPfQSoN7ovFacMT-2jPLGpo08tZKi8zMxfjamFEuA1zDewmmLhSfLu1xI0KKDpEaqwLUX0P-TDWMd6MGJou6krEVCqz1ZlW9N_fVSlqVRFRTWN_XL88PtCWoz03VGA1n9VZRviSRtYC3y8hum6TJWF_eot53NSGXfGk5FAmT7dM0ZVUnMwML14GrpYK7gWvxNA-2J65LEauZtPUjEWEsd_Uw0OsaFGuAQH_-ZHTEwwfUW9wnfW63tqMZuMxg9Efuh_M_7Bz44ErLVR_o3i8tp_PYpbvOMlpFt0SKTQyJ_jjcH0UBOvP_UJj283CpKZNKPQlNV82AlV6XhyWBgGIg4KDG9LEZnPZtF7Tqh7Pw..%26pg%3DVL5OZQAX4BD6FFA3MVD6Z4R2MY%26ch%3DAQEAEAABABRSLi8p-d76BRgSKKcqUIPTau5h-yCj-Jo.
+.netflix.com	TRUE	/	FALSE	1810910475	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+17%3A41%3A15+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=311b599d-d555-4ece-987b-c4fd2a968d42&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B34&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Mohammed Qtishat
+– Profiles: LeHieu
 – User GUID: FQLA437RKFHZBIWVJNAYKH2TNE
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARR6zEl/qhET8qI6Byz58+57vOqH0o6rs6uxqbahKu+Jn2AsGRgMwRXNt2jyn3sjdmV4d8Nq6xXi5zXyy07k7zr0pVSmMk/T3q4D+x0BIm0EhPUKIWpe8MX4CbIi66RVGrORtvrG/u7ZTEtZunerkY07x51PD/Ky7P+VN6JDaMT3iOUCRbIp105g/IK8TNfM9nJ+GFMGyusT6V1vSIkZT3kh6NY5dZWB1ERCHxK/TBHu57NPa/O9nfb1c5s6sfut+MbyGAYiDgoM4um8n//eF6PnCZmk
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARR6zEl/qhET8qI6Byz58+57vOqH0o6rs6uxqbahKu+Jn2AsGRgMwRXNt2jyn3sjdmV4d8Nq6xXi5zXyy07k7zr0pVSmMk/T3q4D+x0BIm0EhPUKIWpe8MX4CbIi66RVGrORtvrG/u7ZTEtZunerkY07x51PD/Ky7P+VN6JDaMT3iOUCRbIp105g/IK8TNfM9nJ+GFMGyusT6V1vSIkZT3kh6NY5dZWB1ERCHxK/TBHu57NPa/O9nfb1c5s6sfut+MbyGAYiDgoM4um8n//eF6PnCZmk
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARR6zEl/qhET8qI6Byz58+57vOqH0o6rs6uxqbahKu+Jn2AsGRgMwRXNt2jyn3sjdmV4d8Nq6xXi5zXyy07k7zr0pVSmMk/T3q4D+x0BIm0EhPUKIWpe8MX4CbIi66RVGrORtvrG/u7ZTEtZunerkY07x51PD/Ky7P+VN6JDaMT3iOUCRbIp105g/IK8TNfM9nJ+GFMGyusT6V1vSIkZT3kh6NY5dZWB1ERCHxK/TBHu57NPa/O9nfb1c5s6sfut+MbyGAYiDgoM4um8n//eF6PnCZmk
-– Token Expiry: 2026-06-04 09:19:29
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798098083	nfvdid	BQFmAAEBEOC-kPQr1-CAW3VHmHxEC1pgddql6IbAG2GuIG3afmX0ZvkGMJ90eI7dF9WpmHfrNv4-62Vej5ry3FBkVQ1VELJSOzAJwnA1psmxwEWwhtvNTebJx96P_0xVIn7BKISh8RYAHv5gKiUS8fICCK9jCyN6

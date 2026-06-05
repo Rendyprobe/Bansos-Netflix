@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paola
+– Email: erj12di@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: abril de 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 7590
+– Phone: +573144202549
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ERIKA Y GIRALDO
+– User GUID: KIC2OPJNQRASZICG5TG3W27HC4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804475742	nfvdid	BQFmAAEBEMhSE3dGKEyMM26IMYYspN5gUd92wjOjWTZCARAT2iAalYbk1CyB7LMILhBebp_uG-u9VwiVb7-1NHZo_natWhvUD-pqsD5OWDZqIguJR1srHPdl8WmFLm3eRCbSCU5LQL22tYM_G8Yz7pZrUrtbfh6a
+.netflix.com	TRUE	/	TRUE	1804857760	NetflixId	ct%3DBgjHlOvcAxKvA5LRiCsXkbblkpb0nSey1aRR4zQQlL92pVW8lWi6Ymx32JPvdXbyKOPdvE9tQNtrT4OQ2WFDKm_lrVp3BhNHlIlj-7GYwT_rpzwN3HDp_YZMlwQwGgGjom8JigsvreisKoh2KkqaLU6qFResAfgmxanYTMoWNNAeaou7CHqvYFIgeItLZbOAbelnnNW5GkPSTwPEYelVf2hODHo38-NX5Uj62HjD5DX4-jECTc-dmkxB5d-90tzfxxaOcw3bupootveImHGi0BQOV6dpWC2Mce1N_NDgZYtDHVBN-D6721UJTyo84aDKVQihLYvU_oodDejhBs7dBSTpH74-KbxS4fX2acF1kSqlvCYS7n6MTJquhlS4PU-ATJ3HRKx2x1Dzc9e6OtIjuT446FQ33G_0aYgEAllxvRz4BytEKsq9YYd7QA7ExHGFYwuO1W02t0c_WXwSe4wL90FMDnlTXmNbjLZCE3wZgWAWFP_-sJVdafo2Sk_RhQXH5NPt0tP4B9UrEAEDvaKTs8RxhwetaY_Ckg0lPRfiCN9sXFF1qKF9DQ9bxU_zaWTAM9IaKJaGphyKGAYiDgoMuE0nJk1B5LRKmGfc%26ch%3DAQEAEAABABQWUGjcrXYCDe93_dEDeRfaMW06y0_Q6Tc.%26v%3D3%26pg%3DKIC2OPJNQRASZICG5TG3W27HC4
+.netflix.com	TRUE	/	FALSE	1804872476	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+12+2026+12%3A27%3A56+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae8a1387-54c1-4f22-bba7-702b705dc434&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Benjamin
+– Email: lucasedouard@hotmail.com
+– Country: CH
+– Plan: Premium
+– Member Since: noviembre de 2020
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 8010
+– Phone: +41795944322
+– Quality: UHD
+– Streams: 4
+– Price: 29,90 CHF
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: edouard
+– User GUID: ROA3QN2OW5FDNH6SVEETJJ5K3E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796988814	nfvdid	BQFmAAEBEGIUy1D6r2vpwgISBQdcuWxgrQXi40hpQSqoTzztpbGTT6kaS2UsTFBXmu7sevml3dlFEmQaOyzQbmxW9NtOXrHlCOYityItO7MyrKJsguiTPwI5qJU1YXgo166oujZXY8i70tUwoIbY7bxitpo7xjLQ
+.netflix.com	TRUE	/	TRUE	1804549322	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRv8VaV4vKTsPmLZFejBf_pEuj-hPHIayU.%26dt%3D1773013321230
+.netflix.com	TRUE	/	TRUE	1804549322	NetflixId	ct%3DBgjHlOvcAxKCBFmJ33i8QtZb6Nxg-h8wLOuAZnHZREg_OeV6pao1Rk2c6pDiciOoYWR_z-8-0XRlY12XZlgxv8mdGYoL-mPGtYvbLw50X_TotUzlicl3hioE6O-BhgUvAMl80NwNxts7-DPDzyh5Vyb38fFr2qJyUONOXRQKgVXO5BcW7tpGwKN3-lk9PxmrIwk6fksTnKzHO0lA3OuSvn55Xa5svVg-YEeh-cKeeVopl3w8OwSg9lqOHhy62rPjhrjzSy1_Wwc1UtgCfOcVwCC3KWeqUOYX9yBGwCPyZqcBYurL4KMlkh4qSVqhe4OjdinEhe7lQMHuyeuIxoKwkVU2z29XTxh-BOA1thmvwwOSkWG4qFLerDYmgjgHzppMM2UVrSEJRdVosysxJoHa3j7vzgcDEyR_4IOO1kLoWyxGqd6YOxd7eiG1C1-J0fGJoCJlAn8FEBtcTSjcuiVhzN8WDIxS_0Mi0yhMqdDUFOlmpJUATYMK7Yvl_MSCCHa6-BkBdrmxetRq7zC3zM0uDSgX2bAtyJeNf2lRoOpkDDOtDvnF6boQUPgOxY6YCIBC_8--Vqgvq168XwVE9Nw-E5RK_aZ2sl2HzVHHMTH2BaCDAfJeQNZV8eKYgROhtv3YOUBKD-qJnxT2MlPnsEo5L5V1vz7SUOoHOx0Hjjl4E9KJBwox9PytxVBcwSgYBiIOCgyGmbPRhrjIU6VOQSQ.%26ch%3DAQEAEAABABSiuBVhVZkHT2mHMGriZy3rCHXCG_fQfp8.%26v%3D3%26pg%3DROA3QN2OW5FDNH6SVEETJJ5K3E
+.netflix.com	TRUE	/	FALSE	1804549322	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+00%3A42%3A02+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=57eabc3f-0ce7-42c7-941c-43249ac06b0e&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=CH%3BVD

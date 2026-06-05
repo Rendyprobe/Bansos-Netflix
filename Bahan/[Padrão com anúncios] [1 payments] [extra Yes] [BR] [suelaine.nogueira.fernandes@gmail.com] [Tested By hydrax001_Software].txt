@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yan
+– Email: suelaine.nogueira.fernandes@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2025
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 4178
+– Phone: +5527988260039
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Suelaine Fernandes
+– User GUID: KTL3ITMA3FDLTHXQ6BI5JVTX3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799677501	nfvdid	BQFmAAEBEIZjAjDDnGxZwA3hzFSZo8ZgfnJYOoJAqCECQB5DvaVZ-G73udeNPi-KxxHr-0rqEW4dK1i_RpaFS_OzVVGVT1d84ex6KmJfJKAY4nNgpQ00-2qrlbKqb-ZNtyKZXz3lvIsza6qW0gAT9DvO3ZRbeR4L
+.netflix.com	TRUE	/	TRUE	1810571700	NetflixId	ct%3DBgjHlOvcAxLLA9Wy7C1hlVHjjAifBp2Zs7x4e_OycwMTA-p4gvKQ8j5KL82DskNyuDuS0ATReeo7wtjCAzjUfgRvGG4AvN3AbFgF_pd_Cnd9njjToEIiIM-bd8D6Rudq7caeeg-a9dfKMGLXv0WwOVe0B4u3QTwsIOyMUB46TaWTAjjSfKRRaarxiJ8N3iz65jZIKUcvuiyMi4JEjP6LKytv22cK8vP9IrImS2ehNh8sm-EEkGy6QM03_NmjWVQPafUfHot7Lox18HcxRViujvx8lmpaTGR_v7YKzBRhR0KEFuPoyxb_7Q8YeCA2ZzWI1zqNGNTOUVgr_WzgCnJYtmAL7n8XAvr3LNTFvkVhF4OZ8q4uHRxr9q0-qoX-SGT0D0s6wWJXkHDgyft_eh5cZ-pvITspKjMeNAq6qF8WnEwuPD2RDCxym-X9oBZCN-N-Heh4pQ03d1wLIjtUrek7BtkhMgpLECNEmrx8HvpmQsukXnYMqqNyuGoKl8aT_c2Ngn_J_ES5X-G2jo4FT3ke4yn2iJ14S_ltrLKMyxAQSy-y1uBc1aKDHnoB6MmOwdEaOrzXV9y0hQoBGYzi4DT566VakDG161fOLuRhiGMnrcr3NSeadBgGIg4KDOE9C14hDww5T4S_iA..%26ch%3DAQEAEAABABQP7BpqeFpP7aGBFFUwsENUwmGYNCTLEFo.%26v%3D3%26pg%3DKTL3ITMA3FDLTHXQ6BI5JVTX3I
+.netflix.com	TRUE	/	FALSE	1810571698	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+13%3A34%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2168eeef-07da-4c65-987a-3200ca31d925&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768141505381&AwaitingReconsent=false&intType=3&geolocation=BR%3BES&isDntEnabled=0&prevHadToken=0

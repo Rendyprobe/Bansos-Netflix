@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Erik
+– Email: batista_mario77@yahoo.it
+– Country: IT
+– Plan: Standard with ads
+– Member Since: July 2023
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 0359
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marius
+– User GUID: I5WRNJ3UZ5GTHP5DN5MSELB3HA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802675558	nfvdid	BQFmAAEBEHiBpzzUqXukJAG0ntrYx6Jgeb5riW_q9I7WxaI82xLm_7thQHOUZoMggNhkGRDZMGtaAPRzqu-TucTlV2Hg7HeBQzrcFNHm4SiHsMcyw6d7ykvyG0Vs9aiTLhUoqRv1p3rOPe3sWtw7rNfRlvvasfBg
+.netflix.com	TRUE	/	TRUE	1804488631	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA-ekIE3HkxZ6XYi67uSISKD4dkhTUYGiZXXuy-8vtJgyt2A1sZx-VeNsRDc8ydoTI2WPpUUazw0NkEJ7CR-70fBoWAxAcKdupLIfNYcwWhqX0SdZIW5y6XKNZvepcs8KGk44cziQEXIMwljazbuXr71D1uOS0LnV-see65umyy7JzAWEM1LyIeMXoQeH-nJ24Jh9kH53drQRxXtZVKXRhZTrbNx9ZOwhVkHPT8LS2TEvtLGxWzbBAmkMSHo-OFO_CsTCr4VF_8Z7rHG0EQbz1vlyDpJEKIp1b-gySdh_g99__mkOpSiRJfX58FRV4k-MogqwJIJExcK7a5emOy59qMuKcgt367WM886AMbI633Uu8vG3sP2S7-pDA8RQ8nq031mVzaQCHr1PVn0LAkJDv-eEdUk5WecXiYjg1OpII8ayrWPXPL0On9r3ukdJxmj6hNJcJktE_yMYNx46hgzZM805tmNQxmAfW9wDj-6d5jJlOr_DmG1xl3dmmzSMfICbYOv8x7nJ8oWB3v9LsnqdH0E9-ezjbowL7hgGIg4KDAsDZtYr4w3rVHeHFg..%26pg%3DI5WRNJ3UZ5GTHP5DN5MSELB3HA%26ch%3DAQEAEAABABS2-vA8g5La2xNus_h3DqkYT-Ht75eZDk8.
+.netflix.com	TRUE	/	TRUE	1804488631	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQoAucBAdkcMAYx6zWei3NmXhEWFwHJ_XA.%26dt%3D1772920162070
+.netflix.com	TRUE	/	FALSE	1804488633	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+22%3A50%3A33+GMT-0800+(Ora+standard+del+Pacifico+USA)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d544998-02a2-4b98-9f0b-99aa88eb22b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1768802849102&geolocation=IT%3B45&AwaitingReconsent=false

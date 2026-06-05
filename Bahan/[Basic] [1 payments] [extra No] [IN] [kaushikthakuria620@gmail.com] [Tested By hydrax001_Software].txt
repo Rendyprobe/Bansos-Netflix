@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: X
+– Email: kaushikthakuria620@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-06-16
+– Payment: UPI
+– Card: N/A
+– Phone: +919101155793
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: X
+– User GUID: 6DDOID7GYNGJRBUYPKBLBUCV2M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784628205	nfvdid	BQFmAAEBEEg0u4f9GEQI_fj_WRUiVc1gShkcek8smVXaISQGxBHzduSfnsp3nFG5KHIlOARHOANg9bNMWCqb93Fn0azDKusfUiGN2TvFsqsO31b8lnI1agZN7a3gsJZ2AtlNV4VNzfOAFiiAZYqJYc0tI69DTSp4
+.netflix.com	TRUE	/	TRUE	1808746512	NetflixId	ct%3DBgjHlOvcAxK1A4B6ntjBzaDpsh4qz2lK16GYhpfyL1jsCYkc8tMUQB1yf4X-7ROCDruBAo2k_XVcZNu2I1lhaOxbY19DRBUZzW8MX-5YI500H-05FyswNurqCSmLhSXc20hUPsjRrabrjk2xlJgyDCSAeY_JG81iHZL2IOZZQQwSQGcauTv-4e9RAKHXE26enQ5f1eo_oL91OfO0GFre7zsE0M9j4-tJqgSFjArn8ACL0o_s64x-PgvkcHnXyj4HygdSyknDOkq2SJCAMJC5vichvA5-eK0D4p0XOeYHz-OqipoZNYwKYlCTKY9TpJ5Pcdk9yIJMSl2thUmtsav7GMOD2lwOX2Vq1pl-SzsW7R9KEwGYmyG3W8knyZe0KLzI1_e_zaSybOQHFh7ngB_KyFV006D-0-EBLTivFYkHIofibO-PY9B5AhucMJYQ1fARpofSPJqkoSTky4YXpiOHDmIXKfPm1LCpEbp6KdwfmiWaNvGtbgWx14iJmrMNC-6ksI6zZr78g2bd6Vv3VheXZKOZNtew17nUxyTWI8F5jP1QEU8yUWsZg6ej2jLBIeVYQgIxEt7jIWF47y35eYyuGAYiDgoMl4k2EjtA-qg9DXq3%26ch%3DAQEAEAABABRH03qiX6X_z0Ffm1YEHS5JQqzCsYjE1E0.%26v%3D3%26pg%3D6DDOID7GYNGJRBUYPKBLBUCV2M
+.netflix.com	TRUE	/	FALSE	1808746517	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+19%3A05%3A17+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=816faa3f-5f64-40b4-b20a-b6a1c307a377&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abraham
+– Email: reyesmerinoismael@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: julio de 2020
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 1216
+– Phone: +34628486345
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ismael
+– User GUID: ITRDWE7Q6FG7ZP5KMO4OMYSTY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796417828	NetflixId	ct%3DBgjHlOvcAxKgA7AEw0gdBm0NBmauCMdZY3vFDzByDY5eHD1mJ_O775aOqV51zRKcNQYEjLvPqEG7Y3Ug2RXqMrOfeyc1CXJA16R8Fk9e5crZAdpEvaUhqnrvAeVF23EZLmxo6X8TWtzEGy7PnTc-zzGnHBRZ2v3sO46t3KRt0HAaZfX3IFtANMsGvwKVnqnbEQykp4QCPchjMrIJg-MK5X7oI9fvUXiwjfG13CmwJwdQ9TH0mBvNcYkPVKE5KuFSWc3h7a6aoonW_ntC8OsmQd3LNEcNDuc-aHZFujHmVulWDRsDcmR-2g298z_qkDSvR1pHOX05HtknwrjYS0-0YJIMb2HSse7viliog-3AriZlv95YkVav_6CWLe3he2k-H9vn-IhQ3Auu1pbL70BZZCI9R3D2X4lrpUHF0YJFA4eXO4PGlqBaPzu3LTkAvfBv37crtbUI7lJgHnR6Tl-L9ZOwvnSZgou63B7nuIzE9Tmlgi6k6dcwd9q6KdOYOM4fa7wvoGgQpMr-WByFHzFs46GfEIxcJpw7AZrW8fguHuqKtgJGAAbLSMVOGAYiDgoM0iGVTrfbYTQoidMz%26ch%3DAQEAEAABABShTGUJnbOpbawOzLBK-msYEk5JqTP1Nf0.%26v%3D3%26pg%3DITRDWE7Q6FG7ZP5KMO4OMYSTY4
+.netflix.com	TRUE	/	FALSE	1796417827	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+21%3A57%3A07+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6c6a619-abe9-4d54-beec-cd1553cc01ab&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796417828	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTTE9uazwDIiFemo-jTEDTiNhRPw2cz_E.%26dt%3D1764881828746
+.netflix.com	TRUE	/	FALSE	1795567271	nfvdid	BQFmAAEBEOpi4dFUuz-uyZG8BpIeRrxgHh15XiykHbE-pJ5BPDb5gl3gG6mk77tjkife1GRz1YnGpdSajfpG4cRLbuZnn-tB25zJxNn0U8cdMWXu08F1njkFsjQCLQD4PNq52ss757eYhkxCj411vLiJLbV5yJDh

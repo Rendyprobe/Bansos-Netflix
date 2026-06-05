@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: OBET2XLDRVC77KL37TQ7DE23UM
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLEAeMr26EmTXJb+xvgzcLvbuKmNiDYpVwMysaoHZL7eXl2c1RI4GR34Xw5D2IHYFxeFOUJtd3utlJeSalltSfkRqR1T0A+pPGpe/INkq+C7vFCL37wtGPR3MkvRmr7+OLVa3+f11SHrsHjeI7PlvzyLTnIwmRjtv7BxPGM4y8oq6yinV6cg54DFGI+oPV9h32qBMTpE1ronpNglZybss4d6X0//j3RuRlazxGJjvgxvmw9GR25Si0PHBtxIvxBUj6rOPaJj7UYBiIOCgxrFnVVoSqvWG8m1Ek=
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLEAeMr26EmTXJb+xvgzcLvbuKmNiDYpVwMysaoHZL7eXl2c1RI4GR34Xw5D2IHYFxeFOUJtd3utlJeSalltSfkRqR1T0A+pPGpe/INkq+C7vFCL37wtGPR3MkvRmr7+OLVa3+f11SHrsHjeI7PlvzyLTnIwmRjtv7BxPGM4y8oq6yinV6cg54DFGI+oPV9h32qBMTpE1ronpNglZybss4d6X0//j3RuRlazxGJjvgxvmw9GR25Si0PHBtxIvxBUj6rOPaJj7UYBiIOCgxrFnVVoSqvWG8m1Ek=
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLEAeMr26EmTXJb+xvgzcLvbuKmNiDYpVwMysaoHZL7eXl2c1RI4GR34Xw5D2IHYFxeFOUJtd3utlJeSalltSfkRqR1T0A+pPGpe/INkq+C7vFCL37wtGPR3MkvRmr7+OLVa3+f11SHrsHjeI7PlvzyLTnIwmRjtv7BxPGM4y8oq6yinV6cg54DFGI+oPV9h32qBMTpE1ronpNglZybss4d6X0//j3RuRlazxGJjvgxvmw9GR25Si0PHBtxIvxBUj6rOPaJj7UYBiIOCgxrFnVVoSqvWG8m1Ek=
-– Token Expiry: 2026-06-04 09:05:00
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1790785964	nfvdid	BQFmAAEBEJMtsM7mcjT8YfpxZAL1ZBVgUo2taHYzswGL0IxJGB2cH1MU_cEoe-kR75uWyFa47fRh2645who5U_bz8Y3rVVpkMyG-dlFBto1xF-neYXhFMqvQycZUYbCINoImguR_iIDOvMoF2mnS5inrDXWp-qxQ
 .netflix.com	TRUE	/	TRUE	1805811212	NetflixId	ct%3DBgjHlOvcAxLQA5-ynKblkUnty1wcYPcyPc59Q7_bkmCSZzWaSU-acTZ-Zx2MAj8SZ49zDRb9tT42BE50-RvlInigeYxyiUgtwvshWT8um365My37alAgUMgvNh2ugHPXJSTdr3OkhCCZ0CAIZbDi7iNipkQ_t1BBB38Y7ZUqR9BXGly2oplclz5bLmoHwuoKtn8Q3nf6jBSH-LECHjKMPfnPuNFnmbLYx9KX-sWmiMx9XBztsuyU0ivEXbi40cX24gVmTU09VkaIDxdhbwQ1ThPTCf1wPtXC8sE9gcRyzpDLJS-YmGeiQIM0T2wbdCJR938Zh33HwL6x8snwWrCBbelGpNC6s0gRsGEDmZEy7pVXWj98eGMjXgdjPet2rA6wkKDfrpmqI6QxfnAPaM68vcaC12Sae0TAw7JDlwckLDosp74PbCFYnntWdBGFKoVVvX_zS5laH6_J8Eu5BaYExDOOyj-cz1GGmVdsP6NcEekFUpBnG8mJsFaKKpMEUorTnPk5TDE7oIw3qpZaPaOotA72JoFv3Mv_DEPh3a41cnKsWMBjo43_-ghULonKI1iSceUVBJBUBKfNT_-BhqPrAjBmnUf4CHZixqhOlhbHYn7jXxJDqwj9UZNWGAYiDgoM9Ilm-PvxRxkUCSy_%26ch%3DAQEAEAABABRj7aHwkdJLiFELzG2Qvb2kfzzSgR0xXhA.%26v%3D3%26pg%3DOBET2XLDRVC77KL37TQ7DE23UM

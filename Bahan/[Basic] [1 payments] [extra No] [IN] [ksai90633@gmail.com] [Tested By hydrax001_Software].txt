@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ksai90633
+– Email: ksai90633@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 4005
+– Phone: +918688130445
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ksai90633
+– User GUID: AYUN5ITL5NGJVBRIDZ76UHFYTA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798297444	nfvdid	BQFmAAEBEKE6ukVv_XMRjO7pW5ZWYmhg41sNmexa_J2sfW1QlaqjwXNcG5S8Nex5IfkXEtM2V0rkYQ38f05UxWg7tLkzOajC1VQW1QeWGZhLjm8MPYTEDSye2wRldtTPODUa7FG-kNIqQg9IjU2uFx_YoTI7qYDd
+.netflix.com	TRUE	/	TRUE	1805947148	NetflixId	ct%3DBgjHlOvcAxKKBABkWw8W-Ekso_-Vwe_ynPqQf-kONSfHIocHI8bHnfYe0mFOCHqzqFjx0jDyW36L4Fyfd-zeOQFC5FMgSwIBuddO8XmgA3g9PNHJsKIe9qB7I3DqTun0ZeSzwTX3-49PN3YD7QCc5-Zh6HvSZYY6UgpH3oPEvJHFTKrePBHzrL6K8IbU4TzAg8c3ncU5r-jsLy9iAMygAuwOBwmBDzwp7Qo6Y618AVImJl5JMY9kJCg4LiTQjFD2x8KdcFg7cgQlvdKdpJGgcB1UVDa-39MVsKvo5zdlpVUMs1vja6iTn4hzRXcZN0TlZl_QLNKfL7HSSxpx6u7EOSuyx2FOhdPPbcYE6fOUxydS4gwaaYFVDIkkTJu9GX4VH9BZaPg51mCrIHycHGmE4mAXADy3YpC3-eldQ3xEQPxzM8Y9EIxS8EAcdmds3i0sx8nTAi2J7Ii9qUJjwqHGSuWHZSvkorF4sT_dgUHXqhonkafWQIxal8K2Kz7IvhplBxSOjSAu21MxP0JcxbVJCqzJd0bsyAA30MqR2abLhZMOLHMHzbRD_qZ79SsG8hbk3k64lKvmp6XT5lt02UMRP91vzEXLcLxqLodv-eHwuVXygIOUI-dB_0XTuHt3U1p5wdGlGv0RKDfBdl0YMfFj_WbhQXcDM58Tna8M0b0SSBoDQe-pX5NYcycNeIujVYbyBtTwJxgGIg4KDGZV4-k6zgK2GPFrSQ..%26ch%3DAQEAEAABABTVrm0OWHV67_LBvgNjKoTNjxFmGchHG5g.%26v%3D3%26pg%3DAYUN5ITL5NGJVBRIDZ76UHFYTA
+.netflix.com	TRUE	/	TRUE	1805947148	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-NPHGbseiiGN5ocBuLjK9cY-arOkvzaQ.%26dt%3D1774411148120
+.netflix.com	TRUE	/	FALSE	1805949221	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+10%3A03%3A41+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=63fa51ed-0246-4c71-8310-b9c9aff5c00e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&AwaitingReconsent=false&isAnonUser=1

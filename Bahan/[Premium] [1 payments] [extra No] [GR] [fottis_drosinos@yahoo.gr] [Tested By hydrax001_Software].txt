@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: YDWTEN7465CQNH5UXFRQUX4A5E
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAdlYeWmdwLUUHAm14XBzAsJzBtmnGydlF8Q1LHGTxYo4keJWCFrHum8H90oUUakKzNEp9S1kDAmDKgs+NEjID9Jiy8HglhQlG20UBGIik13aW9H9ysYLzIO/S+mjCp4lkpDxHYFbe9B2KL6Dwb+mKH1MTlayuLstrv/DNVtJ8VjXhTuPHj/4EOR7Z+woqCkLpnnVGjQ1UDamwitBih6iJiN9hqQFNlQvEv4RAEhhxCER+q5fgFbL1BrVAAwDd69Q+6RFGAYiDgoMEVp6l2bx/99XSUve
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAdlYeWmdwLUUHAm14XBzAsJzBtmnGydlF8Q1LHGTxYo4keJWCFrHum8H90oUUakKzNEp9S1kDAmDKgs+NEjID9Jiy8HglhQlG20UBGIik13aW9H9ysYLzIO/S+mjCp4lkpDxHYFbe9B2KL6Dwb+mKH1MTlayuLstrv/DNVtJ8VjXhTuPHj/4EOR7Z+woqCkLpnnVGjQ1UDamwitBih6iJiN9hqQFNlQvEv4RAEhhxCER+q5fgFbL1BrVAAwDd69Q+6RFGAYiDgoMEVp6l2bx/99XSUve
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAdlYeWmdwLUUHAm14XBzAsJzBtmnGydlF8Q1LHGTxYo4keJWCFrHum8H90oUUakKzNEp9S1kDAmDKgs+NEjID9Jiy8HglhQlG20UBGIik13aW9H9ysYLzIO/S+mjCp4lkpDxHYFbe9B2KL6Dwb+mKH1MTlayuLstrv/DNVtJ8VjXhTuPHj/4EOR7Z+woqCkLpnnVGjQ1UDamwitBih6iJiN9hqQFNlQvEv4RAEhhxCER+q5fgFbL1BrVAAwDd69Q+6RFGAYiDgoMEVp6l2bx/99XSUve
-– Token Expiry: 2026-06-04 08:58:25
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1800723779	nfvdid	BQFmAAEBEAg4OoziVE4DCCyKIJQpkJdg3sGj3H4OHITSGj7UiBS2grmrKjFcwWdR5sgNMpS6G2rl4SMklWNfBFcb727418Jvpz9d9CpUOxGeBH7xudMlxnfKA7O8uCALkZoj-0CUF-BsrFi2C3ULkV7vRoPOqeeN
 .netflix.com	TRUE	/	TRUE	1810567025	NetflixId	ct%3DBgjHlOvcAxKzA42s-b3d-yPBok8R3ngDxmpx8ebBMgtGAgDArKXI-cnuN1Tkk6cVzxbmLrSeVc55MgNEiXB9DjmlKHYjvKtmkuvddemZqVH0eMh5g8juubPnVLOGr37tT4Hq5-z1Blgh5ns_VAOT1CbGOSEmBIUdw-KvykKHl0Ek0KlhYgEPLSsd-OoV1bgrEaHodB0r18WFLpVtX3AIvujx2p1XY5N2t2DsRe0-9GM86aYPVk5D4VFIJFFmIwEZxsSsCdv1PjEEseQR91MHrhFbxWDUQ6hnzT_iYAASaeXQ9B0YF3_9zqGMX0VMKoxEFElDDQPNAWLS9T9J8DDIhXlT0PyHqe6UPOd7SG9rsIXy0RTY_DT9e4i2Zj2fgn0HcPtBEeKnJD8mOqT3zdkECeeRGl84SEyyrP_-_-V53QVRSmk48iQ0nAv3ZnhD-flAIWdiCMcBEKtdOBoAcvZaWJXtF5H1PSVe1yFC1PSc4uUrkNng7ylLFAjCsyTJHHQd39i-zKixhs0Sa9TF_MYyytRD4jLK9vxuzEiZv8G0DWD_ZfC6faJ01A11dQRFdYNyRC2UEHmk-seqnX1oFRgGIg4KDD0c-MLd1TZlPct0oA..%26ch%3DAQEAEAABABT5FOhzoHVM0kPzTHrPyMmauVtAorzhlhc.%26v%3D3%26pg%3DYDWTEN7465CQNH5UXFRQUX4A5E

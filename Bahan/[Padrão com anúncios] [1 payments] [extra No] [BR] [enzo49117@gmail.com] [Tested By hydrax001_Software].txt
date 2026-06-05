@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Infantil
+– Email: enzo49117@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2026
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 5017
+– Phone: +5562993463164
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pedro
+– User GUID: RXBPUNC7IFGZFFOSO6WNV43WQY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809924588	nfvdid	BQFmAAEBEIeiV2QEBl7M91VhwRkeBjZgCFqqN-A67YZh-cWRMAQGCaVqrq7DiLZOh_sZI30t4a3kS8IiMxPwxxHdYOMmoF4E3PvH5d-kqyECeeWiCKMDg5X4DYhaN_6lLMySUmKX-o3vHKufdD14r6IE-jXrvA3j
+.netflix.com	TRUE	/	TRUE	1810492170	NetflixId	ct%3DBgjHlOvcAxLMA4fdhmo1xscIyuO07ccAiFIwKvJH30hkwo4oD6CW5DJedfCou2yM6mzxlnINtngwHl2Ro1pR0rhI2eTT2Ni44_36Ywej0jzdGS4iZgK1a1h835NBsWzhHD82AM0HOIalXElRW077o2rYiXHxw5NfWW4MSY0tEfgSi84TT6ZzxbeHlxQ3rShtzxISS7vAskbAAQ501z8_Urlu1CqwjmiObpeEXN2t0OWQOjF7n8GomY-rDiTgRWvzGSecArDMIlWE2EqBkGTHKumX7bUUDDs915zKJhEqAMHt1Qc1ZZicek9Z7z2T5cn2i2wG-hYTDHR_dQ9-cUmgJHIgdLX6TUcgK4Ot9_ABfnf-nHnF_X_7nRKbjyam5Cmh5ekFet_wBo7qP6-YEo-NiDSIRH_5MRqBZJ8v383uRUMtbLURkRAUDZm3jrtlOul7ep_qBEp8wxdWs413FoonDBWanrFk5y_BIw03d3Krh0ccoQbM2B6phtrqugzP_1AoYkeYQ1Hd-CHYN2pdtBHTg2b1ZJdg2EROHmoun-vRtrc3yb5Mk1inQ7On_EbBjEtoAFiQQpfaYqO5kZo9-VN3wtwaOK44rphiLUrQADPrRlkycEZliSkYBiIOCgy3oq2-WqZMnC3fT7w.%26ch%3DAQEAEAABABSvJZ2zk7NmTBluFB4D-7sWEp1vwB0bXTQ.%26v%3D3%26pg%3DRXBPUNC7IFGZFFOSO6WNV43WQY
+.netflix.com	TRUE	/	FALSE	1810492175	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+15%3A29%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1955c548-5fee-4eb4-8961-7e6899d7a7f0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778388581225&geolocation=BR%3BGO&AwaitingReconsent=false

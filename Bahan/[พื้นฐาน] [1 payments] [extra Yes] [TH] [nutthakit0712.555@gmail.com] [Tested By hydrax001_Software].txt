@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nutthakit0712.555
+– Email: nutthakit0712.555@gmail.com
+– Country: TH
+– Plan: พื้นฐาน
+– Member Since: มีนาคม 2569
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66936896148
+– Quality: HD720p
+– Streams: 1
+– Price: 169 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nutthakit0712.555
+– User GUID: 6ZGLXXN2VVCADE3XBO5CJMHA6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798902222	nfvdid	BQFmAAEBEOjAv564Ijjdr5pA3_CxDfpgkz6dhLh2NcMqW--cbuYlFwdlO6sORkaDeNrU35_lB9XJ8hVvo-Eg2NAFGZHPZT4PCVBxM_3XJg_kT0-QpAbzN9n26VRPoE9MCdt1Bg_yXoC_xnc_c47_xZL2aLcFyFMa
+.netflix.com	TRUE	/	TRUE	1805694108	NetflixId	ct%3DBgjHlOvcAxKSBGty-taLr1I0N_khmbSqeSrhONUVg1MmVWlI21MLdFuo7Mgt0ucSW12aurFOPm0OnbdzAmChyyFkFaHG3Av9EGkc-xxAIetr0f7gpiscjPEfQxqT9Kqm0olXHPoMpxDTPWVyvU_r3Y6R1GBD2Kpnc5-WGsmb6U5rlxdligF4odFybYmUGG1hHNctF-HvYEou6V9jTkel6nbHemii2FZnEl8dyBhVILkujLWaLR8oXY1O-Awfe15mf2Dzo79FuMre_uErXsBXuuo99D6gq2P3A24UDbhYp2oOptVzJ68kmCS5owvcVIeX0Yj8eOHZWgx4w7SnDFbIcm-g7StrdWwQFgK7N4T0P5aCdAFxe8Oy5oQqIEcJswh7drTrTaLLfe5zv3j8eteE3ht1C7X-6XDM94krqUteJjQOBF4NUGoIBtOjT09lYmrtKqkNH0_JFRbcBVEGgPNABKj9l6QZMaMqfDykPQXTnp8uul86aa9FEPrTUpqpp5wUFuMDW8hiwzgivIdvHmKueBKkHHiaOwJR0IDk5tgL4Lr4eqrZag3k8xxSHmFy6RK_w0FPUkJAPu8YN-_XrtmwUK-02QFrjoSog8bJuOHE4dH2BKWn6uEf6DYS3i6p5fX-dsZrQYxJHYrQ0AhggidlWnbn9-qMQVpdJzu9bG1vMRfTrldP7cdlq38-ybqHG_69k29yJxaJpEAUU90EGAYiDgoMHseN4HU23HunApo5%26ch%3DAQEAEAABABSBAS6W7IxkkWzZP4pZbNbCxs8eZWBq41k.%26v%3D3%26pg%3D6ZGLXXN2VVCADE3XBO5CJMHA6A
+.netflix.com	TRUE	/	FALSE	1805713624	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+18%3A07%3A04+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c8b512d7-bc33-4c71-8416-3f7b4331a8f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

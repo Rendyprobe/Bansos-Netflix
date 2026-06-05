@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Irena
+– Email: irencia2000@gmail.com
+– Country: PL
+– Plan: Podstawowy
+– Member Since: październik 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 8022
+– Phone: +48518454368
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Irena
+– User GUID: FW4BDLBW3FCUHAKCJGQOHFHYNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796846980	nfvdid	BQFmAAEBEHzSiT26ZPsBGBClu6gSIhJgwG4BB_Fvi9DS_4sngoKzODUHXToVOOAe01zY5hHiDZf5WAzWLZNfoOqb3xgGFBAsvkK9BTCLrkumhdt2-sqW3t4ddMBsmMyjOxixEG30oqrWQ7XRc_dgBrAcGsbHhWJE
+.netflix.com	TRUE	/	TRUE	1804347042	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWAywpdlxjhSgxa-nQBT6pXbJdQQyCgk3w3kFC9AF_X08xPML3QoRXbt2abnUCt33jvDN3qCtzWcXubWS273OzrRkhSehvuAfRPjizwFWKkewD9HnW2vueroQ3txB_Np2x5xJa4M4KGNwNFuDETTFKdbwvxNw4c9Q333FKml4-YZcoMVui3zqW6gToQP5waoZDRqhD_wP04OkhGBJsyHPeENvZARwsXlQFzxkRQqZ6WKUgqXtHkdiQOWJVyYH3k4IOKzWixJCF-M9Jdou-sZisMO1lD6ZLtxZSrt3C29_r23tVDyllNNrbhkR6iBJvcexEfqHkkyQ12hbKqBvUrK1Z0pzWvpHsxbStJ2fb9BOaZQ2jSX4yvzw0c6CiVxQ7kH8NVYLljM7uPlYOKQzEe2nXIBb40e97upLc_zt9qJ0TahxORkZoyaH4pBSsi-sJ2gfbN2H4m6-FIMV_uCZOEle5BljOD4UmAhb_lYt8VPFKlYWIhwDOzszO2j8lanb46N_NFHOd74dUiZRShDz_jMwdYkA8Y1lEeZIYBiIOCgx4-XwKAno8RGBV7_Y.%26pg%3DFW4BDLBW3FCUHAKCJGQOHFHYNI%26ch%3DAQEAEAABABTx0Rrbj6W0RzbOmGarZU-q5JXiDxyBfC4.
+.netflix.com	TRUE	/	FALSE	1804347043	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+16%3A30%3A43+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=87e7ab1b-2a50-4f03-8d55-a9475ba8f1ec&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=PL%3B06&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1

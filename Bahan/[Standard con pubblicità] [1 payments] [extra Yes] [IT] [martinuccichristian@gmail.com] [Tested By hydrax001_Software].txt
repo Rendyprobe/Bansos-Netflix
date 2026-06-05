@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: thaaatscri al contrario
+– Email: martinuccichristian@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: maggio 2026
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 7504
+– Phone: +393453721868
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cri
+– User GUID: YZ5OMWL3ARGD7I5XOILKQTFI5U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794786287	nfvdid	BQFmAAEBEKEu6tuxrXIyZdZWlHCpA5ZgPog3h7cZOSXhiF_H4SRJ32mSHSYvR7NmYnFxm7aeRIM-XBBqEcVJUNTmptdPWD7ZcJbAxyNv4_eSidPKIH3FuSSm3cvlqI0RCDcRvGuPiFXNE7imFhPuE3Vf4_jVOW2X
+.netflix.com	TRUE	/	FALSE	1803928277	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+20%3A11%3A17+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b36c800c-237c-4388-9057-3af6b8d7263d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B55
+.netflix.com	TRUE	/	TRUE	1804463086	NetflixId	ct%3DBgjHlOvcAxKTBNhxXoxa09UvirPqplHBnrm1axdrjI6sHTIpLrcgBlpsiXY_5Fg2UEHcHwvYug6SUOcjEtrPdUFEP-tE_9G0TJnWKeCn5vLlr3ugMlPAg2ncv542NaY-1Pj6idyPMABcQBdXzoqbjU2z3p3qg485I_Jau0dqbH-epDu5Vp4ic17PhQ8cXfgT2wtXMfCrsa1MGtFpJv-HQw5DeDPyUACfMtk-bSI7PTHxbEx6KrkGmrN1lmn0K4PxMXkFIiHX6AVG-qlxIUYEHl6AQQB4C3VAyRhwVjOZjxAL8ozPEnnWZ3SwxBYx6Y3U1HIQTBl59aTBzdXRJLQ55NLW3A_c9DSwb5AG9Df650hcrhU2tMivZ1GP-K9jY2FrCy6hpgSkvTtYU4INMydwizRFi1E3ajtq7oTiwxGoRhHzQfJpmXC8nDe68kXn5cIFcyXXP-qTmxZayVDfzh3jlZo9HWT0iNQ3ynDz0xcIgaOwNXPM3FXbaUYHA6otnzwtOju099TxvMzr2gkt1IKpxi7Z2X8q_Lp1cL9UgAX4f1WpNJS73vHbr-ypS61Lqo9OApjmTsIIUoXFNxJFA1T3Bi5tyqWH1oYn9rR89taXzzerhGdgyfIoDIA19TUnrn5rXsISeUPcLBqwqO67iQTvvzHKJ99GUcdlnHRAqBtOsUeY7C0Zrou82uuL3g7B1hI5wFdjSbo5S6GDl-eaxxgGIg4KDPbV4XzxYZiyE7_JIA..%26ch%3DAQEAEAABABRtXemLpG-bOLZ_IwF5vLyVSd-FVUjlXwU.%26v%3D3%26pg%3DYZ5OMWL3ARGD7I5XOILKQTFI5U

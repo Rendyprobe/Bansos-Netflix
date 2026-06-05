@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cris
+– Email: josemiguelmoranlerena@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 3961
+– Phone: +526658451346
+– Quality: HD
+– Streams: 2
+– Price: MXN 139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Veronica Duran
+– User GUID: 4A2MQ3UDF5G5LMMPNQDGCRVJZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788318983	nfvdid	BQFmAAEBEJrmv8G1P6EKbU9OMqz3Pu5goIR00Y3Xrdg9fXRxcCLtkXRd8jX3kKKpWFd37vy7SfNGowQhHtm8Oh6_qlcICg7B1B42VSLLOcZigdjM9wMPwQf0iFYhEnnKL41oW7mH-W2GLouN72hvhFFMtlpdkFyK
+.netflix.com	TRUE	/	TRUE	1790043306	NetflixId	ct%3DBgjHlOvcAxL-A8Wbmp4nUSHqKaqINCsj4RqtFtppd7lubkECCSIRROIs-zcX-6vmbuuLTlF-YmR2tezhzv4gOefQg3BfxvYygWfLOgENwcGEHUg41PRiIB9bdRiHz0JM0EdbMoU0-0ah-COQLFHMGR-Kq2aYhmPjSLxNY-EAXQVem8J-EWnMbrCktbQLT0fwo_egXRUbZL8du0Vugc65_1LO0UbD-59OvboLGGxEC1QRvlplmt1z67cWP3hgunTxJjpKEyN5sTRKWkgdjfl83LH2VmeNGHTIzUP_ixGqnF7yyU04E3vIQGFyHXAys2pllZWeRs8AFR8D01E7RSkYiuK8Lvc9oTQIIkNPQWbNC1qz_xl8jl55MegDRbxEmWGURFuRgn_1QGs-O_Xdv_amMTSNJxP3ERL9lMhPeU22hSe9lIN4fS-Uy7ClkFLKkRJaX0FjFLgRJN9bH4bGNL5EP0gqm3BfQC68pidpYKfKpRj1Lv4cJfhfsgdCkDj0WfOhn6Lsgqb5F8q5IGedum2p6cZCmwhvaLyCTRz_OAhNomlVsxKuKEbNckJAopbwCFf1TA6zkKW6Ff93xKyXHe4psyEwJok0q3z07ypAglW7OktPu3kqvTdVX2kw0-zAu2_Psj3yIhCHcYXHNX3NUUSAStujEiAZPZ3f2jiRB3bPw0GfBYRFShEm4BgGIg4KDCtOZZBkrmfEsq_9Mg..%26ch%3DAQEAEAABABQhLl6wU8BlQak42nHcBzh78Zi2kqVCjuo.%26v%3D3%26pg%3D4A2MQ3UDF5G5LMMPNQDGCRVJZ4

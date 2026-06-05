@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adrianny
+– Email: lendeborgadrianny@gmail.com
+– Country: IT
+– Plan: Standard with ads
+– Member Since: June 2024
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 2026
+– Phone: +393245674020
+– Quality: HD
+– Streams: 2
+– Price: €6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gianni
+– User GUID: T5FWZABRBZBMVP5KRTPQTVW4OA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788511103	nfvdid	BQFmAAEBENfuBf_vlyKlhSb93ckP2D9gObAUASVvmeYEp5WuIWon4bHVQHeSHkiDPFDhq9Di_y7lzvvHdquFgUzToN55Y-t8NL5TomU9ymaNCaKWcRtfp0DJOvvWLrJzjJbuBrtENZR8YasRBRtDq9Aeo8rkHP5Q
+.netflix.com	TRUE	/	FALSE	1800270901	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+18+2026+12%3A15%3A01+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7db48979-8b4a-4cb4-8fe0-204560119f52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B45
+.netflix.com	TRUE	/	TRUE	1808663482	NetflixId	ct%3DBgjHlOvcAxKCBKTO1v9195LtrGCBk9orRf9q6m2ds09PxcSGliMkZX7aTM4DOZYBC6i1C9NFhlXe2NxiRjWNPVtmuIyQV5TV51H7tyEFPOZYFfkELQ7fTQxYmPQV91EJd23DiNKW1_WWIETKi7q13F6wfW3Mmg4f3o2S-P8YPZcMD7pA2epjXgWwpfWMeEZLM_52sz_-xfWAHCQT2k7RTVnd9ubzbqzLFYGtG0SNPXSi3X3rqqE3hRv-7_UeifAijxWKoZp9yLt2eGEHdYceYZKQpZqIPzlGiaPVcO1zWtAR0pL5hctpC_bkiq4wwYgnRempVVUduTcDg4ka-moAyEza1rdJQ9yGATYaQ4hTrsHdRbfpBhMKuNicZPvDZyag0NmBEsg6wwWj7_8C5BhLjMjyJxsZ3kctmk7Z1g4Vb5JQxb8QaxJoKVnCsekVs_SZo67cDvEJANYzB07__dqUHoVad7spqiu5XorO0ZBotKvYg6GPJ5J3MylosM_bNPwr8hZks7wBmbA5micgr2SR_rW1MhGbqrFdwLtZV29JkGQcCfr3hikwqSPgO_hteKdHY3d4UZ7MNkxw4TtBAG4q638DrQiCGkCtLcR2AwwPOSBHuV9dMz2O1NVSyf2nCah0BDnWWMeqOdUmERU9xUeBzpwWlqdVxrsrBP0TpxodqB7f5X8PlYjIqDdcGFsYBiIOCgx0sm-HFQmf0ieX158.%26ch%3DAQEAEAABABTV5-WRitXerTHct-cOwEni1LOs-C3j3L0.%26v%3D3%26pg%3DT5FWZABRBZBMVP5KRTPQTVW4OA

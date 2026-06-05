@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Milo
+– Email: kennethstrong88@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: May 2021
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 4907
+– Phone: +19035761028
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kenneth
+– User GUID: F2L4OIY7XJGUXHNLP4EAK7OIEA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806347744	NetflixId	ct%3DBgjHlOvcAxLiA_VDv3ebnJjiz-1fwJ7FXab5QcaChRRnFGHDfhMUBz4kT1iL5fChEWiPpbyjKTtRe_wwze8f5Jspy8URjmKk1nhxHU6U-acdRPQWXDrZ-NxI0WmjoS96fZbeFD4IJvtQQc-POOsdV2iAuLwiUqn7cgRcH842BudPGflRifp9qO3j-AAHAYs8scbGkK40F_DjaQMFLFIZTzixl6oHozWvC4OB5WSpR0QXNLBaWdaJPapd_0M_1U0iEo3f0Mb_RAhhD1AKwGCz8nESSHuigT-Utwv98udeV3JI92609w4TPIWlUenpUSa38H2NVYcckuQ64RFaNdv0RwFMdAm4HYMPJ4txK9JYORcpO6WQ3fpImsElQD3l4yfd-tl4Ecddy5XGSxAwsasZyG_OSdd5rQ40TlsGTN87QqvZpakO_Ny3pESXYZNJcbZ1aYApYhz3NMoqBLnR0vih6w8zRHxYW92OXdrd6-lCZmJbE9G3v38sx2QYs8OfUrzuBIt8-MGzdeHhpu9CQ1dRwxtfrPh89xlMWeQ8AY_L2a4hxOnfFOlUzgsOaHmPqJtPOVoYOMDxELR0MM01wHR84wL9OcVmoIE_azKb52qDeL8PndM7zkfjzqOpo3SZMhS24h8l-SGApwRdyKolGAYiDgoMu2ATlzSvlBQ7_Q8M%26ch%3DAQEAEAABABT6zkzbG_5SUSNy8IxpGHyrcMpAA1-BTEE.%26v%3D3%26pg%3DF2L4OIY7XJGUXHNLP4EAK7OIEA
+.netflix.com	TRUE	/	FALSE	1806347743	nfvdid	BQFmAAEBECEXlEE58zM6fHRUhfYxvghg_FiEFeMxeUpnT5Yr4_5ZhG4Cu0bxZUsyZjJaCsTEbv_RDiV1S0IkcgSlzM_m-y4yrYtSBvTbGwsr-Shm8vU-OQPhNeLxpBZUAjn3qmXUaoPgT-fJZ9gsqfS76P6atkpg
+.netflix.com	TRUE	/	FALSE	1806366267	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+19%3A24%3A27+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb81f9d8-f2be-4ae9-8def-20d9c94ed354&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

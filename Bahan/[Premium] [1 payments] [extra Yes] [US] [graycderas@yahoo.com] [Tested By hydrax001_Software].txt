@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: B
+– Email: graycderas@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2025
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +12095056252
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: graycderas
+– User GUID: KWVGU3BMIZEKPCNBNHRZCPLWJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801623580	nfvdid	BQFmAAEBEARVRDUcxgLWWKDe7T4il4JgcbGP0bU7MBEiTdbH_GZ_7hXoFw8YBDSffry66r0IOVhHsjdx-qqlRD4fBkAXPoQkOHTeOlP97crVZskY7DciHzumCASQvnhq0HXmZlskDbzBJ4juQuH-LW1jrHjA5Y-0
+.netflix.com	TRUE	/	TRUE	1802144691	NetflixId	ct%3DBgjHlOvcAxLjA2cU1IrO8bsFcEzqGnFcDJTq9llkU8OpnL7dDqsmZC999yPXce7mvTl2vOWs0bSsQz-czKDp-MXnzZx-HHDhGmfaNdonWlhksNBP4MJPJkpMsRltxscJzFxvQiTPrEdtRGZq2zgoFSKAjlby4L5MziFEWCP5e0VKcAcOnvW2JYsABZ-7HFM6s7w4cyIL2X38BSJtaTYlltGfeq-qbJgj-IGoayisNLycMvrOmXNfmLFvIdCeSXBda6R9EOwonzNqwKfTn4NQgLu-hEV8QIS8zdvk5i5pQdSTZJiMYxvVW4-v6FNnpcj9LN2ILNmGo49T5E8vR_Vu6l10MdKBtgQa2v9VF4Saw0ulSFQuecjiiJZq4g-sXHyof4JzmMTvAIpATk0EDmYNlttgIWgTyBZfXJW8CYw8gohq1UkS3na-QZoYEpXY6NzZe0XrlPwF8p9Qf5_QbMfKp5WNSAtvQQwY4yE0v_Bax2AOOkt9cOtdoQDjrt2FwGGVVVrZUfZlP2bHAtlykmeT05oCbbtGJuglRLNdkhl2Rj5ZPYFso-eaKoaTYFqi2GRSsIy97pNsDW_my729Ht1izqhhSfcUJD7e103sVmpbtyK1otcRdVvqC0xR6mPXa14U3ox9-o73vVZKrRAJ_BgGIg4KDNCF0O0rW1Aym2NdcA..%26ch%3DAQEAEAABABTvjxN5DiwijYlfG07riSBN-G0D1DQMLDs.%26v%3D3%26pg%3DKWVGU3BMIZEKPCNBNHRZCPLWJA
+.netflix.com	TRUE	/	TRUE	1802144691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6W2gcuh_0P8hzfQ3ZguDQ7Y92PuFYJLM.%26dt%3D1770608690987
+.netflix.com	TRUE	/	FALSE	1802146785	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+20%3A19%3A45+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6902c025-19fd-409c-b9ad-6501f531b768&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770087579675&AwaitingReconsent=false

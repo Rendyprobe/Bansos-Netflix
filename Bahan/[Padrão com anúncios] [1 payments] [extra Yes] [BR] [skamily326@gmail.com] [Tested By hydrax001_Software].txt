@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kamily
+– Email: skamily326@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2026
+– Next Billing: N/A
+– Payment: NET_BILLED
+– Card: 3609
+– Phone: +5511939488505
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kamily
+– User GUID: ZFUEVMIAMJB3HPSUR2JTKIFHXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808360056	nfvdid	BQFmAAEBEN1WSZdunDhme_HgM37PsHRgTz4lgtIemyODJrJ6V-xkv_UUkHpUTDhC6su7_4hN_9tLWCO93r6MWbKALiKGBqpaE5c34qChDxxvYCdYVpY4CsvHjaXclUvUfTJPnLEz87hXCztJKHmT67fSJkQRUmMQ
+.netflix.com	TRUE	/	TRUE	1808948554	NetflixId	ct%3DBgjHlOvcAxKNBBHYG9JDQtVeFRc1Kw04eIyIESr5UkoOJACiz5ERs0Wa0-DAOTbOFHDEPdvgCYeuR4Zg9hVApHX1aQNwmA8dsrYGdCWYrbhmt7Biz_zEr5qxrPS_BrxkvE_f9g03P3Iy1q2MCGPtID-EpPdvzWEMi7FnJjjxEdK95W0I4e3TfU_1--CUTfmZmJe1QHqkUUYu1wL2nDtiK4MIQFmsG1ZuuMKwNX-MLLay8m6p8TiVcgYSYWWz3YLSTv5811qG1gl7bAKzXW293ZigJRRcENGWwGBshOfegG25SmAOTnd2qnEmqheXTk_o_Im4qSIb9V85nbNc1KQp6a8drKHhsGuynnBdS7V-RlB_y-TRQ5kXZA2sMeVy4Q_0Qn1Kxg4Ixv20ZC5R2YE98iDxc77Xi8eeQh8oIcu_IdTiz5KyDM60Xbj6QmzX9IV1jhtS79Ccq5umIv2wN5Y1gVPz3TYczcNXR0RvZvsBkcl4PDKIBaZLAJlbjg6ALJMKECzjtGrrVVTWOKfS8G_BQP1sNBsS9L5Q7hYcWVSsP50pFJiBXftN7ViT5SkOQrz78X6PI5diu0AVKr0xSornOCfU6X73bhhD5Nx6g-xIdU4QZXeRcgvSyZrMA6Zms6l-IPDrpDi5nUTx6qhb6VYWheiG_fLsjUiNpON2x4rw4lpcHCeGuQ3AQZbR69gE0e-68C3bZBoaThgGIg4KDCTTTQ3IwYljbL01-w..%26ch%3DAQEAEAABABQIibpORqjtZpeOCL3e7IWJ12hfia4Ezto.%26v%3D3%26pg%3DZFUEVMIAMJB3HPSUR2JTKIFHXY
+.netflix.com	TRUE	/	FALSE	1808948554	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+18%3A42%3A34+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86a9d3a7-1bbd-4192-90f0-fbf0a044f341&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0

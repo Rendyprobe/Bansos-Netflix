@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rahyner José
+– Email: cespedesjose44@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: November 2022
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 5831
+– Phone: +18295608210
+– Quality: UHD
+– Streams: 4
+– Price: USD 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: José
+– User GUID: UQYPDGVMBRDFFEUZ3D3B5ZNAVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795999811	nfvdid	BQFmAAEBEL5j9hA-OjfKE0aCMv4Iex5g89kvEMz8See6-7bWx2zjb865SJata3dTGmkGJ_qcbsBk-FT-9RJUmrRUzpYfmPQ3NSZ2h213WOvPUMNiHDdt6L2_KBxMudzIPdpXHLWMP4whQQHif9SBmhNY3OmatBJD
+.netflix.com	TRUE	/	TRUE	1804474433	NetflixId	ct%3DBgjHlOvcAxKLBI01lCpKu4SgEB7lJbb-HDTGMUMq5e9yAChN5pIziXKiPz3zY_T9lV5Ba4mT4mcHWFlodgjBycSjKWeg1dJE53ern9MSBRKifdZctQnBupimvislyqCtXm2dy5A4IYObEnmqVh7sey5l04fS8j7ku4I6nFSXnPcahakgh86fOSpEy-SV0C0eWLV0YKBhveAdPYpriYtgO7kRFKAmM5tGLSLh3Wv2Kur4eTkg0A8Jg1WFywhzR6P5GI6o5K2J9AzuTXk50fP7FzsZtfOvif2eNQW0w8RtbCtUqoa2bP0lrO8xDNr_9Yu43Njm4PMM-blU58KgMcdHqlThP5RNL3dji8VvwRh6XBOBfZCsuyyHwWo7ruaa-eAdiqli1atnLU5_ypZiyLaieOxfeq1zRlms-0nEzveeXA-_53GR1R6wOJS5wDyAcVpo--Senzmatq9KwvTlRlsP6F_M7x9ov9XExt5aOGj10AHNPWD2sP2DHuwC_58p0qR315sMHq9fSTWiFi5Ac1Tzwa1bkUJQlN513AOOGnkI-RY1oCrvCRQbk-hZesc2QEjXbJEGAO8Ki5fN5V_TlENrHXomX4xwbLO-rXpZDrI7uKM6m1Lu7554lQtJpS9p7Hp-zO_apMcMXPbvpIYdBUeNkj8ft259S3Rsq0el65jMqOCPyn91jgA-SNcwb7Z9yiliR79Zwx0YBiIOCgwIhBWc-jX2DM2_UJg.%26ch%3DAQEAEAABABTU8CSmuGeQsbiaJ5azHYj_PlCLB87P6WM.%26v%3D3%26pg%3DUQYPDGVMBRDFFEUZ3D3B5ZNAVU
+.netflix.com	TRUE	/	FALSE	1804474436	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+22%3A53%3A56+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=57c3866f-c521-4c91-b8c9-969ce8124d3b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

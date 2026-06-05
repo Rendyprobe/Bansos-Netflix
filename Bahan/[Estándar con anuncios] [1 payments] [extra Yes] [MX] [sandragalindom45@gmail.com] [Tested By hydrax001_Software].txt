@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dany
+– Email: sandragalindom45@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2023
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +527751284806
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mamá
+– User GUID: XQWKXJY2SBALNAQY2C7AYOQQHE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1789522331	NetflixId	ct%3DBgjHlOvcAxKABBnRbwJAuYgx99DdMigz_KIg7u1dXsODK8NgCHjJivDE6IYp4opGK-sFyPfp9JNGXfVnC8nW7geajdxxD3wNUfYxWq5ozY3qLtUgLP4tPCnYEOuHyFVqWaBzyKP-1gIkgoiUQxDaZIgifwxRKvb5OrYojqRZmXU3mDNlF84Pq4R6R3VTOE49rD57zh3j7vBhjnkdn3UhWzvN-hKg_ch9PrqlYndxoLPiu4-_3GlJgmZQOkJesQhOzsyOcm4CC4CYYAOeCus7TC2WapKAlavT2DLVyV-xf27_iXgYDB0b8UQ1dYYVGpS2zhcopeUvbREfzniusiGcSrKfpkCx488oYibOUnwWMVpUf0JGjgNCvHSW9DykW0oFvdnM_FDkefk1fAKsknkcfNROKMKDUm4VZ7pY4C3WzKmyzSlqPI8jk2BjePrH8qP88oZUI4_ZrXW0f3tggpNPhN1d5x4rf5E_V8v1TleQqkGJDdRCf09v--cHpN1ghY8Try6a54sk4kiHtA5hjmhcnq_l1beBJozVMfE9R67miQLPjG26uJVsEzfbqZNAj1TqARavgRpYI_mO7jnK9t2LHkNpClkZjJtS9ri0WcpMol3iFW58Y0Ku334cxExbx9j94twyi-TvxrXwKBpmLwlOHnZB5j_I0N9evBUWmAvNRqScSan8NsFuUjoYGAYiDgoM5vJUkmTHkN5nM0yK%26ch%3DAQEAEAABABRfyjkg1-WHiSCzr_Y38fDnw1lfV39BtWA.%26v%3D3%26pg%3DXQWKXJY2SBALNAQY2C7AYOQQHE
+.netflix.com	TRUE	/	FALSE	1789522331	nfvdid	BQFmAAEBEM-Ul2yveF7ikG1NVsXk855gmafLuBGnfDeB2mhPhF8LHWfYXlICL_nXE6co5MBrISP-z_KOLpQpUuAI9qEqzEcMDM1Y7eAor8nymwGiYh7RavvgNz3OV5o0Nz-ftBx4-bLLiI9SitAPobzEaKVMdL1B

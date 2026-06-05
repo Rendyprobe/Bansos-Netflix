@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SIDHU
+– Email: sidshome.tv@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: January 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 1544
+– Phone: +917418412794
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SIDHU
+– User GUID: RFDOMNZFNZCN5GGVNNKQWYMPCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803336451	nfvdid	BQFmAAEBEF5-T1IlT1oyC2LY5qA_qJBgvTYUPPGL9c5YtTWJ_zqdYpYTcnz5CJqxWji6jOweQl47qhvRSEzPHnb7-eVZokWGczu4EvaQr7vxX6a8Z2xqlRDmoa3-ZE-KuFJ61eMUYsDsO2RDwyIQNyw76XUaaLwj
+.netflix.com	TRUE	/	TRUE	1805347280	NetflixId	ct%3DBgjHlOvcAxLWAxoeeh1z_FOhjHbs323A1oQ-YkZf0jELHoPfrlvxGa9fJK5LcEX-LEjwxWpvyqE0-9u_lwK9Yef4whlv39xrK62cwHmQudxXn2tYU-jOMVk5Z6DYLQ0hMeF4SCrT7P8VRWgB2-WvVb-NQYyFz5guSZYxu9MGpeB2BB3XWbiGwEKyjG_UFg6tngu2FZ_SxljjtTI_-hnXk9dVZf4E5YDbQUSDghKbmk3oU4jpGEAQcia2vf1TsOSKn_bbtxBKHFPcBgBMzCTK2xaFibm5aQuw70dQT5jYIRiNoFqLlT494_7OXmzAwXZo27mltUHhF1jX812-EdHMRnLZE6Da24np9ZcycSFSKYKU1cUT6rIHjRHNxO1Ihcy0_dYU2e1wz6P98ic83yGtviwHNGGrj122mGUbqSO2aBtJySkW8LuGpr4WfsDvmNtlIHzHMhJx-6GsWp4uQoKoFStWELr_meWt7ZPuXzSNju7DgBXJy2OYZb6nScaImgeOYvUDpDo_-vS2Y-xbOXRzwVCVQm-EkI-5hEyGDXuYtrdAgOpNb3OmJmgkrgFXUnDzHV9Ho1ZLMJf4D0WA8Q-9Opf2MIEI2FfK6_Jn6Uimv331TBfXbN9jvF7f02wtck5TGAYiDgoMo4me2mx8UIvtiFcX%26ch%3DAQEAEAABABQFo9Ku5a4S9bwdUS3buGLU7efpO7yd1Q8.%26v%3D3%26pg%3DRFDOMNZFNZCN5GGVNNKQWYMPCA
+.netflix.com	TRUE	/	FALSE	1805347539	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+10%3A55%3A39+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=18c01b2f-7175-4b12-aa36-58bdfc9b372d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

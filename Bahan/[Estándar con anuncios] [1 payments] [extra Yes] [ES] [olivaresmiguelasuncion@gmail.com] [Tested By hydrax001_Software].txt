@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: si
+– Email: olivaresmiguelasuncion@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5377
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Asunción Olivares
+– User GUID: 3ODBMUKROJE7RG2MW3EHND3XD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798414249	nfvdid	BQFmAAEBEBLi5t5-4et66YdMGSIC4gpgRgwMEXKrmG_LE_Vi_iDj5mZOtxVZ2zNLHHYEUE5UnhRN6LvDnbFRgn-sO6fOedj5KhFYCiTOjVb4xCCvYy30GL6tw6Ym8hZrBuWJQ-beyqutR1RonZhe5EMJNNm4xRpk
+.netflix.com	TRUE	/	TRUE	1805487149	NetflixId	ct%3DBgjHlOvcAxL8AyOoB19DTSsstj5-ugAXOEdt72bcEh50eMPz1vBVARW_DRYn9hzqYaRDKTcJvBhqQjLuKxsSKKVJkhE3LisRPhY0laNTBOwKFcJ5k9qurXOUr6GPdkdMbTWsmt4KFnIWSRbqiulHqpwqZQ12tvQbXyYuLZ1vXi6uTQ-O__SC5hS2bMHvPU_YyM82UbtD3DNrnFpSFeE3a-iO_XRFxiYBtDy9vzATkDFB-0AIARVFsIS42oVeE_2hxw4vjVm9Rr5ATP4yFAWWIVSTvNbftMKjxqCxfc9zDaU-CbYpj2IjsvtMwc5SagCgoFdW5GYTC2zQyWJx2-GFWRgorojrf4PcEn-WxRmdUgqpbyPxaqBV3DWe8j-z1qXTQIzsoBQgB8zizAVTTMqiYhGsIo7NkxItf-DE1ECBmpTieOlqOVaWE5BTB0V7aWP7EYGgbh02wORKK8etzQ6FPgqan6oyvJLP9kxEk0YVJq5EGg1RqBz0Hs2yzM7Z5k03ctyJeALTnEfco_ZjAno4MEpQQ2_OksdsD3Pe96KDaj0xKOBfmrGZ0lNzDy5MrJybJBl2N_T5jeBgShF-bUoZk8BEM1yKcDXlkyNlSBnEfvtE-_CuXd06e7kdpvSc8vt7g3B2fvyekH5EbhqK0MJiusZriKrUCag5U9AEgKretSKXJ5fdKH0YBiIOCgwO2vhomDvK8TbfDww.%26ch%3DAQEAEAABABRXAogrCBFE3w3Pk3GsFFQXvCkI48GUYfs.%26v%3D3%26pg%3D3ODBMUKROJE7RG2MW3EHND3XD4
+.netflix.com	TRUE	/	FALSE	1805487148	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+21%3A12%3A28+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8202f38e-856e-4ae7-9f8c-7a28633c6300&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN

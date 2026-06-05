@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mateusz
+– Email: kmnetflix@wp.pl
+– Country: PL
+– Plan: Premium
+– Member Since: Agustus 2019
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 1478
+– Phone: +48500707671
+– Quality: UHD
+– Streams: 4
+– Price: 67 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mateusz
+– User GUID: KWUUMGAZGVEVHDJQ6FAPKJQF2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805808646	nfvdid	BQFmAAEBELMOB7Z9rkc4WmUAmELrIrpgfY-aOOWjLebLON-0GY-ovNzTqryyISrWe1REpycvjeLHaODMbmnmNeg3glMvSvSgrFrwU9VraD1jNyS6Y0SZNXdIqrh-4TrX1WfExXw9yBDbYVvtRC2r0GE07sOJ526Z
+.netflix.com	TRUE	/	TRUE	1805885544	NetflixId	ct%3DBgjHlOvcAxLCA0lZiaMqqWft0dyVZh4zq2VN8Q3ygM3ZIycuG1HY3hYBUscFMmVEp7dWxB5vxvbaiNcSLrcbnU1ppbuKnBNNHWwIyk5zcR9O8P803vc6vVLyH5fI508jXoQrYUCe102Z6-Yu8OmkzsLzTH0VQe2eisgMBmiuElcOcY26GkHW7Nj571oSATjagMUJTbJTmAE8KpHdkxTQ9ysVFELYpbx6rg5S-OupKMY8XBUUgd0aOXZ8fiOJuX8NaO2FOnHB3c4-EyZ1i4OJ2k62I3Yn_D328VWkxYqsp6aAQAVEz4caOnmd1E2ZwrG9HtLV6MKhtnMHDipt3hCXvrqE6SPAGi967uHnRY9cH4msTCfJGwgHLKOZxUDY0Jr4kyEqeViA1atcOiXjX6eZ2vA_ZrJ5mKdgitmLH4DSOFwQP0yV3E3mQEalr9pTuqFTay3SCIN9iPf2A5XdHSPHkrH7JZSbDZEJzkZjWiB9wMXjRamqO1jYcAvCIfywbnd3OYtFidYwlRaepLoPhHeFZzKeTqqibq4-QC1miF1xhz8bn2kKBuC6_86DuPeVGuly6yF-98WPzOCg2W1dyYeZ5tcsrN1WGFW8Bnp2hRgGIg4KDEB4ND7Bvgm9fAWlcQ..%26ch%3DAQEAEAABABRoYyg4bXKcqWuZfRXMX0lbKCiNW6oQ12c.%26v%3D3%26pg%3DKWUUMGAZGVEVHDJQ6FAPKJQF2U
+.netflix.com	TRUE	/	FALSE	1805885543	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+11%3A52%3A23+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b996475-0ff2-4730-a234-44e1a8787a29&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1770427710564&geolocation=PL%3B14&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805885544	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfCyakBVmbV1v915oQPy4MdO5EDPnronc.%26dt%3D1774349545429

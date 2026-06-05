@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: 5LYLV7LEHZFONBS7O4HPZLEMBM
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAW9WVIgjWVSdjgYzeZy70uftbUuIERtxlavJnIweDth7s6A+AFM2nnph462rZ0OMKs/js+9ARSpyObD4M6gawHTXivb7uIjq0/uQSqr33FkmXaEIFFQiZgBBVQOLvZ+JUDLGVGrvSCrxKD6CmMS+w+ygd3KJbjfy4WZ8+qxHsUSWQDLqsmcfIenajhXuXH7ISzxf5rowY8UfgWXPnNUk50vG37p1sh9YbHjalHqoN8lxVw9so4rqe8dXOOGDR5F+7q2YGAYiDgoMuHE7/R4tJsIfZQmq
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAW9WVIgjWVSdjgYzeZy70uftbUuIERtxlavJnIweDth7s6A+AFM2nnph462rZ0OMKs/js+9ARSpyObD4M6gawHTXivb7uIjq0/uQSqr33FkmXaEIFFQiZgBBVQOLvZ+JUDLGVGrvSCrxKD6CmMS+w+ygd3KJbjfy4WZ8+qxHsUSWQDLqsmcfIenajhXuXH7ISzxf5rowY8UfgWXPnNUk50vG37p1sh9YbHjalHqoN8lxVw9so4rqe8dXOOGDR5F+7q2YGAYiDgoMuHE7/R4tJsIfZQmq
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAW9WVIgjWVSdjgYzeZy70uftbUuIERtxlavJnIweDth7s6A+AFM2nnph462rZ0OMKs/js+9ARSpyObD4M6gawHTXivb7uIjq0/uQSqr33FkmXaEIFFQiZgBBVQOLvZ+JUDLGVGrvSCrxKD6CmMS+w+ygd3KJbjfy4WZ8+qxHsUSWQDLqsmcfIenajhXuXH7ISzxf5rowY8UfgWXPnNUk50vG37p1sh9YbHjalHqoN8lxVw9so4rqe8dXOOGDR5F+7q2YGAYiDgoMuHE7/R4tJsIfZQmq
-– Token Expiry: 2026-06-04 09:17:02
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1799552050	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Aiu6JIi_O6egEznf1DOxadx4ZVSWCMRynPekA9tSAa_LNhC1iMrLYfMmjpMRMp1h4FeoVBadDPeyugyAKGsRo8rjA78mt26kzJfQTvpXRzhrE70IwO-gq8ft6amZfb19zHeI3PWch4NHZdE-Qv93TKa5mQT_NcYKrs0DLquBH-uX3O__mKDUgV748Edp_HhbAHPVeSt1UoigY5gXmkoTgz3_hkCtWGX-aPn9aUSaQQ6o2vCzOvFHrtPWS54kEvaM5-6Xm4sNz1OJQwmkBx1Uw4RPoCTl0EeweVkhnUNamKcO55zNr26bPAUtDfv8eo07Fmn3WRIOPNDrluQw5-zw5rM3qybX3oosZ-IaUbTIOY-MDvbNtQdC1I_a0BYlpiEagGWq1foyfanCUto9-YrqM2g-Ro0gogNv8ywpo5R7OoivdmX_ODQfFcYzJmNZH541PNhM4kIDewHlK5682XNxr7qqIth8KeUuNu00rHn4metX79kPtk4cnaW9A0l6GAYiDgoMvFoz2ni2WGLXtRt9%26pg%3D5LYLV7LEHZFONBS7O4HPZLEMBM%26ch%3DAQEAEAABABTt36pDXRdQnFgEko2aXYlFq7NtTQVCxqQ.
 .netflix.com	TRUE	/	FALSE	1799552047	nfvdid	BQFmAAEBEJSlebxYfDzWSqTj_PC8vrFgIvVDmQKDxuWmvvao6QqOMz52ggOtA4XT9p9dwcNi7B-4ZRT7KNimfUVhEDPVOWroIV2ic31MPKxBYcNw0D_uGLldARP9VSqIm3obdza3dY3PzaWwTAJyna1VEEP1hRQh

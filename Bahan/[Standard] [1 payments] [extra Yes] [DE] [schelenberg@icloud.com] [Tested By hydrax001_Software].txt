@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Markus
+– Email: schelenberg@icloud.com
+– Country: DE
+– Plan: Standard
+– Member Since: September 2017
+– Next Billing: 2026-06-13
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Main
+– User GUID: IK7WK3MI7NC4XOGVNXNO5RSPN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+10+2024+02%3A43%3A14+GMT%2B0100+(Central+European+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=b726fef3-bd7c-4ec0-983e-2715ac6dd0d2&interactionCount=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fwatch%2F81037635%3FtrackId%3D14170286&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEGIJGySsRZUfi-j499qoyARgegBaqrbFYRAUwDeOqg3f7o3REqha4jUcnk_1KTNkbXx6Lld0IwTVMTN_Fl89c31BZfSVIc4xKpPdS9efELwUQFtZjmIL1re7N9c2Tt3VMu4HlSn1KdVgp-Ln87Frqq-I
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	ct%3DBgjHlOvcAxKAAwnaF4Rr02cJL_EaZjCCBFeHjw1qI3PUk-fljywVxqkqMbqSFkl-olDI4IFfSwSVhRGzXbvvcEYq9iEc5GsCR2hCB22Gl06MBkVurLCFknR9JXT_pcqoqcNTiXzGgypsF9BifpwqOP0nqyTr7EOdfNFGJSqaoW_BHnJqJWy0O4OEYJjpoJV2g7NfG3CGsw1n2T8D1cZ6WjXfNHEDQsuCjCkJc2anuGNwAlzavWG_FehTdjqmL6meYMMif49pDYsl-T30Oz0OhZVRZqL48bulFUyQy9nW2oCtdf47UWo9wnnSPELUj_HKGfUaSsieHtqnwn7r8DyZKjA0q3Z5sLd52q2_2FGixMNY4zW4lpoYfPHA0fThmWNva22KWQ_ShZ5ptIvVaQPujXIppLSFp4eejgYlmIh58dVdpFGjjn6pnNO2dBbAqckfIxdLMUnah3hVNowR4_E-C98QermYZrOoWv1YKzOsg1Mfb7xbNZWrW7Afp8u7dp_i7sc2SSV1T4I90xgGIg4KDDBGU0DVIK-QeRJ6bA..%26ch%3DAQEAEAABABTZTQ7UCLaLKL_mUsmmuS7CV84h4fEZsQ0.%26v%3D3

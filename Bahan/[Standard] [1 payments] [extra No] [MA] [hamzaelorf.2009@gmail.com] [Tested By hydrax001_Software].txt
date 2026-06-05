@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mahmoud
+– Email: hamzaelorf.2009@gmail.com
+– Country: MA
+– Plan: Standard
+– Member Since: May 2026
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 2583
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: MAD 65
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: e
+– User GUID: BJHY46PZUFFU5LUDEVCF473IMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803176594	nfvdid	BQFmAAEBEAZZ3vg2KeiJhK_t36rjKbRgRE9dURcdPZQMfDRQYh6kfCV2WVrYjgjLHxVtlLqjFRB782i0pZthloqay9Gd8WaljUYpuH9X772Aa-BMeEPv8Dv7wLiDhvM40RPyOHqEH0BNs9omIuRjIW_XPADlnV9v
+.netflix.com	TRUE	/	TRUE	1803331452	NetflixId	ct%3DBgjHlOvcAxKYA2ykYTk_XveGF2GYB9x43KyagTivDiOzjdCVv36z7i9zhYnJ1KfRth9EE9yv3iqMpUxQHlEmidbgG_JLW0WrwctWgFgK0anWPdAn4MUByF7XOVDd3OTS5jxrnf3vfRK9ugRbs90bG06Jb_HJXj4Odgf2WesVmtfgLbFVjkH3v_UnFz9qx7PIXLxXy3X-4jflRV_qzVCLGAfKVahCjYEdazlU8Ql_ddwLK1-8Fu_ZR_fr1z6-nXR_Amxh6Y0PQFxGECKrUMyKkMh0taTx79jJo-GggbA2IH1TWLnWKJcSw7oMtWPSJd0Haz_XNBHInSlJFikj2JhQXHXf-TJ58Y5yZtNy16TZeMsXSCryO4TmX55sUl-qXv_9CbZEwmV1EUatsUxGrlY843XZHpjlJUHIXpPjxRVR26T_mAKGygtI-ALQmnBBQJu8w4n6UxQ3tw6f0hwl0epu13J9nMa44eckxUAC1rNqwTrIOXKJJUxN8-JIjnQou0sCzZ59WkdBKmmJOwSB9mGwpN31WfvsTGvQz7xYkb88lLtYzxgGIg4KDHJiM70rxE04Gq1_YA..%26ch%3DAQEAEAABABR8E7nDE7oSnCu11OhagwsLAMThKCpWeJw.%26v%3D3%26pg%3DBJHY46PZUFFU5LUDEVCF473IMY
+.netflix.com	TRUE	/	FALSE	1806249824	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+17%3A03%3A44+GMT%2B0100+(UTC%2B01%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f221f49d-f833-41f3-af44-74a3d81bdfae&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771272653851&AwaitingReconsent=false&prevHadToken=0

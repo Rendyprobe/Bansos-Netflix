@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Jenn
+– Name: Goel
 – Email: goldiemcr@gmail.com
 – Country: GB
 – Plan: Premium
@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Jenn
+– Profiles: Goel
 – User GUID: MH5ZMUTFWZEQ7M6E6XM7DVKPIY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLDAWM0WRiYG4yhw1WAK88V8HsNnO27OZVz/M4oQd5mxgtq1+9tEx4n5Zw3uMG/yRT6pPU09vPATElDLS9WabjLva38YJSNAqzyyS5uaMVxIrIuo24kXiJ0Snkww3uYc2+BwMhTJF6FhotgxJlvoqkXMh5QdjpzOBilhOnLyr6Z7RcXySqwQIbaTWleV9xsNTnHqeDDXZ2SZ5HAYq0SY7+pydgPtg5N6UPgWDBiFX80XIQGuPiuTOSLTtoY6chqwqu3EXStPRgGIg4KDDFLRpLmCm+XktHG/Q==
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLDAWM0WRiYG4yhw1WAK88V8HsNnO27OZVz/M4oQd5mxgtq1+9tEx4n5Zw3uMG/yRT6pPU09vPATElDLS9WabjLva38YJSNAqzyyS5uaMVxIrIuo24kXiJ0Snkww3uYc2+BwMhTJF6FhotgxJlvoqkXMh5QdjpzOBilhOnLyr6Z7RcXySqwQIbaTWleV9xsNTnHqeDDXZ2SZ5HAYq0SY7+pydgPtg5N6UPgWDBiFX80XIQGuPiuTOSLTtoY6chqwqu3EXStPRgGIg4KDDFLRpLmCm+XktHG/Q==
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLDAWM0WRiYG4yhw1WAK88V8HsNnO27OZVz/M4oQd5mxgtq1+9tEx4n5Zw3uMG/yRT6pPU09vPATElDLS9WabjLva38YJSNAqzyyS5uaMVxIrIuo24kXiJ0Snkww3uYc2+BwMhTJF6FhotgxJlvoqkXMh5QdjpzOBilhOnLyr6Z7RcXySqwQIbaTWleV9xsNTnHqeDDXZ2SZ5HAYq0SY7+pydgPtg5N6UPgWDBiFX80XIQGuPiuTOSLTtoY6chqwqu3EXStPRgGIg4KDDFLRpLmCm+XktHG/Q==
-– Token Expiry: 2026-06-04 09:17:56
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1789802236	nfvdid	BQFmAAEBELH_NP0B-0CARdrFAGk_HXBgBHWH9ypLt6zZGq12mLwIuAcFGTqJfB8m-gPrbMbNLL_pKfELXw6T5c3DI_zDaIjV03PXHI9EqCCuUE7P4oc7Ylh8HfB-WrU3Dy4cTAlON3Zc0GDWqQbwFlJRx40wm9-b

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maman
+– Email: deborahbernard40@gmail.com
+– Country: CA
+– Plan: Standard avec publicité
+– Member Since: novembre 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0126
+– Phone: +15144309121
+– Quality: HD
+– Streams: 2
+– Price: 7,99 $
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maman
+– User GUID: T5R3TUQLU5FJ5KUNKZ7J7KKLSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783113361	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA2W5oKTYrDtEhFPxZ53PW68efHkfnaWZFuOEIF7iEhkoxZd4l9YAdEV9ruVA9CP2SqO_jcwZWl2P_t2dkdaLLKVfaitD30QNccq-I3nX8qjx150q7bZYWlyH2Z-k1PUzZ3FgVltvKezIXUoQc4K1vIpbdy0mPm47AZp-im25VopWnsipe33evAyxrsRbPXhTvX3l7uamG-h_Vt71XiPbMtyLnYPG6v__-_llgOrcbDcb9C8fnTpvrJCxqAi2LXA2Mbqud-_ld0SabRa426ITAOO1ZbD8VYKW3LGrZ6XYea68tqOtlSJRp5xaPuHjqaHe3y_sS-DomYixKRl9BPpo2vUX_oqxlj5MZv59_ZB0Z_Ld7kiRvjmpLuSt7U4NuQN_F6XdjjZLUlRjcTxT0Uyfir1M2VrqQMP-2WmbOK58eiUPpHrJ6GjpeqW1Sk7Ols-CvbAxQf8P3u1ph7hOxMTUg8KZ5Mr6Iv_LfSyOCd0hF8DBZb1LXpi87qyLiv_OzVyrewPz3gYBxaULTUZsDmVpRIu2CByy1X9na9WGdkrnWW64GAYiDgoMl_5Y-t_WMoqR2iu5%26pg%3DT5R3TUQLU5FJ5KUNKZ7J7KKLSU%26ch%3DAQEAEAABABSofJXv8QWEV7IA-WRt0AbZS5FKMnr_I5g.
+.netflix.com	TRUE	/	TRUE	1783113361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzOJbcKPAsIrsvG-rImsVkK6ed_BHbFSk.%26dt%3D1773959020978
+.netflix.com	TRUE	/	FALSE	1783113361	nfvdid	BQFmAAEBEKd5gMSuDzjWcRXHQamSbh5gjtVuIGlkXQNY_YkeRargvfvEwRDz9hAHaaeDK0YvTAbL_IdeBIaIjtRQ6_ERLVMRDK9wBiDeQ__mWFEBHHZ_4yMIeDOyKxsYUcuDI6ih08spZnzbnURlhx7vDrY8gwvF

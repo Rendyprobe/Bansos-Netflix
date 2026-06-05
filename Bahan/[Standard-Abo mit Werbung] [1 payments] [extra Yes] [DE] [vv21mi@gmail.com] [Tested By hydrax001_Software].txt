@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sveta
+– Email: vv21mi@gmail.com
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: September 2024
+– Next Billing: 2026-06-27
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4915788205133
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Viktor
+– User GUID: 5LI7IKC4AFB2TJV2MQULBUFEKY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782533884	nfvdid	BQFmAAEBEMUR-rGA8DyPt4HsoBrs1ndgyhSNo0ieusA2NFGDsvwtflgaDQtmOkl29sz-vILOh0z_X34w2eyu44a1IsItOcT-EK51Fe9n-n8yzvxRKdnPFvqUu7jzSTmyMrfYE_LYkdqLNu5fTIHQW4Odeg94XIJn
+.netflix.com	TRUE	/	FALSE	1782533884	NetflixId	ct%3DBgjHlOvcAxKFBG3e0o1cKTp8soAJHQ56Ws8aTT_TFAqpowRtQEDfpva2F-o4l09AnoNgiCU3oE5fmwr2ZpM-sKk7eGjfJUpuFaMvHaHlzg_G_NZq8RCBIz-8rTAFMQm-j7n60natYSARKkkHBrDXAZ35wuXNpgzrdno5qJSLEaEwZ25bnngyrrHurXqoJFkQdQcBi9452UvWGPMSrqQz5ObDCwtPA0ezirx-0FfHgxrQYyRbgeyuONaAoeY1qkCrE5iEH3iPNbNSoiy6155j2sSD9VBKPgzLSuqwUzk_b2P0OiuOxhvj8kqsA9NzRfaWvkGlcpqo3ax9WOJMOWp1hED3gs73CgATLNZ4aNqmpxi0J3cEn-ZXYHvp38AfICYJe06XUn7PoPN6uHteQwWrq_3ptHSad2mm5FUSPrvyFDJ9cIZUvP7UUX_nOGfs8BkMddsWQFJ1peaMUmBTh0tsb6uZBm-X0syz3ekDJWBC7O8yTeKPshWekXjneWDE0f-uA422V-MZbhHQ2hIbZS5YlaS7JoyG4FpigwcoqQPS8UxTOGjZU9Mxn7AIHWQexotNPAGPyXFpljjE7yEHBg1ZQFcutYKDDDT1eyidKTJ7dRspJli6tnld7pEp1Rbc685Uj-_d_X-WHgTOCechsDUZjKZof6srfrDB3i04O8-wxFa8itv6yrcdUNpl-1Xyf74YBiIOCgzgtjGX7qeBKQDz8tg.%26ch%3DAQEAEAABABQN_EC9_Wcp2yPalQw_6eugHMB5i0simsU.%26v%3D3%26pg%3D5LI7IKC4AFB2TJV2MQULBUFEKY
+.netflix.com	TRUE	/	FALSE	1782533884	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+20%3A20%3A47+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=15613267-994c-40a8-a146-97dc7e1cc4d7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774541620587&geolocation=DE%3BBW

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BERK
+– Email: berk_kelleci@hotmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Mayıs 2018
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 0030
+– Phone: +905304232703
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BERK
+– User GUID: EZ23U6CIKFHHHADD7NPQG4YRSM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797537678	nfvdid	BQFmAAEBEMuZZRagurIGuODNlRAwdNVgLu8TOVifyFv0j8s-9uff4ofX12FUqoQxKBz5HQDRgqfvrlZhmDyG4UBawehmXHDIfdGxBgyoBth7AoEzWfzkruiXyZl8LgVm62cxWyQx1A9r3FIvAw0KwxdqZatVsEwz
+.netflix.com	TRUE	/	TRUE	1809206768	NetflixId	ct%3DBgjHlOvcAxKMBAACWAPNFLAEwB3GP0ZU5vGMv0Vj4NufSHFdLooUKz6H6vxADzPP_s032dRZ6_el4ThB3nXyPU5PafVDqCrJFQjd9kK3SEOPFhNT4xX-jyTZJeh33WcO3G_nTQZmBFRDIAHmlXTxRRiTRnbnOiwIlMAMZTiQZ3U7Naokuui038vZjxRKai0SchaFTn_Gg2Lu3W3ckr0tnzLvrUQmjwUtRDq0JhdoTXHvdtlHsHBP93IsnCyG7lpbv1FAWeeaaNaAg69ZA71Tvu7HFDiQ6SvK1NsPaNHLk50QuNhc8JEDP7AKrNRN-S0JwUDVSHcWzB6z_L4motxiv9V3rUkSOogCIDD7JfUjQSnpWmTkC6Pg2c0FJ70ecmSPODzHLCtDLFIf6lLV0FXDRjemfvi1IbYfDlcms8eFSPxV87kRNzpjf4mBJF6JjAkYNVV4dd6NUlRh97R5LI1NBfuFo58g4FgmEoHEILHBWH6nhfzovo2M325KFW5ESZyWppMe_J5joTpKwS4iaoahzeK-rmmHbA2lMv6y1oBUCpNLE7zXM9fz4zicyrMjHA2aGD2Tx99KZECJSw6SWUP8C7L0KIPOB0I4MQzcZ6vl5xaTB6P8jR2SfslJfpZCvdINIehRANFbnkpfx6YwhWbTFbsb04gvcm5WGZ_KNHzO98Edsmadp12EQhQ1TdCGnZ3CsQhIjkENGAYiDgoMbPtSYAJg1LrRP1rh%26ch%3DAQEAEAABABSdDp6hC-t-hQYn4oVIcs9QVqEAwcswY_Y.%26v%3D3%26pg%3DEZ23U6CIKFHHHADD7NPQG4YRSM
+.netflix.com	TRUE	/	FALSE	1809206769	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+00%3A26%3A09+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0eefc0a8-a28b-4137-9501-9ffc43b24247&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=TR%3B34&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

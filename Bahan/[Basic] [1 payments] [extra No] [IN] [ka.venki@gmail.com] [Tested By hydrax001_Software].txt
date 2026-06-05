@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ka.venki
+– Email: ka.venki@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2025
+– Next Billing: 2026-06-10
+– Payment: UPI
+– Card: N/A
+– Phone: +919989126060
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ka.venki
+– User GUID: EW7JEND77ZH3FHRKNHVAREIF4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806752302	nfvdid	BQFmAAEBEHXL3BYUbqDVhog2yN0qaOFgxFvaD1rC6fh7KUj2wj42NyZ85EXGJPvx4aKD5tvcJU_KuweDDQdQXO-XMjEWSJwkj7s5WuSWfiXNRVueyoq9Kak15RuXewSarwrbeYLtykKCnMhaXxbuSuEIknBUWS-V
+.netflix.com	TRUE	/	TRUE	1808119592	NetflixId	ct%3DBgjHlOvcAxKyAyZ3mrXJL004xeLrBshevrAjAGeJFAGO1N4kIOAyUFgyKGcV1OxnzHRA59UShJHHnrPQeuBjm9pxVl0T-G0cJ9F1dMkBA3zzgIkTYBBuPoRfknM76oGJbst9aNVauDdKNbAf57FwIuLc1hD8lIT30BV1mFY5Bpe7vyRNZvbRdtpbM5G7U9DtwUrwUsYeXp5u4PHmcx9K3CWrdeMc6J34v0qsKbRkq81WD_Hv61qN1gSgzPv_ACRQDqUcME1HvBBE2XQsmYuFvClzR8NvGMyGdFGciD2jwYCn_GKVST46xHp6mSIlBalR1g87cepSmwEmSiZIF3Qc_An45kKzi1tzTb8W1do6hUB1OwIpv25e264cGe00laPh2htFwYTzMwQkvdmP9UmegRzx3SlEuLtu6u3eBEkbLo6wqHf4pFUPUm6T8lS_DlqeLSudI74ZEq4JIEAQr6y92pnbbEvTNJePdZqtJymXGIeHSFOQUX6En-xHc3OW6H3ONkkP9UacP6Xp4t2yg0ecGzk9R3iS7HER8Oj5VJZFt26J8b7fb4L-xx6wC7BGGNkPYs-pCh14o3sPi-nsGAYiDgoMrmqUXq-G1Pd90zo1%26ch%3DAQEAEAABABRC5nQK2vxlxFSpzdq1MMQBOXnvzF5OBUw.%26v%3D3%26pg%3DEW7JEND77ZH3FHRKNHVAREIF4A
+.netflix.com	TRUE	/	FALSE	1808127474	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+15%3A07%3A54+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=215c3373-28f6-47c9-a744-6b542a8709f2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

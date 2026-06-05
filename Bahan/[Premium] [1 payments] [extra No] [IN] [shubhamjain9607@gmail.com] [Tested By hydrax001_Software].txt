@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shubham jain
+– Email: shubhamjain9607@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 9003
+– Phone: +917404206335
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shubham jain
+– User GUID: LUD2W2YOT5BETDAIQ7PIEK7AOM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785252074	nfvdid	BQFmAAEBEObDqp8guvcz3o80Bbdv7Stgx3cEUJPia0T9k0OzWfwZgn4GDVyiHEiGChr1Vz_TsNkPlDMr-fBFct4AhTVtsJu1k4cjMRz_hAHwDX7ewsF75JhQFc1rfornzMIzFzsAlQYKl5XYGpd_XCun0jO742Cj
+.netflix.com	TRUE	/	TRUE	1795277952	NetflixId	ct%3DBgjHlOvcAxKFBA1ykQ3NpAjBQpR1iGMt7QFKNZIQFyzuQf-S6lrj1ToS5Q4DAaHdP5rh_NExjIRogkRtlPU0ObmJEtifX6cCt_Kvq8yxpSopTobsRlz7F6gF0VsmeqWshAoZL5enBz132mzkLcg15c0nhU2UPvW2KrEjMCZcNIUu1JybA9Mvr9VCfmiHvOjkHFxiGcHmejOZ8zdHxZe2Q01wyAYJdUYJxrsyxWCLHKm7R1tA93uL6Z4kdYn9Bt9Ccvq3J0-0qasLFbVyous_lv1B80pMGKGeYenAgT7snYg__a4QWzLxwhcQTqQJX8gn9_tFKCSuLHYVoxhIwEJIeQpTGsNxX13UaMszupMyeMErFdBvFSE4HyRRibAOP399Hr7BA7VrvE1rO8APgI_OPYhT-fegIT7TeH9omDMIhqs2jZew2VVU-gdIt3lxugachbV3QyF3duzZnBb1DC5rozqpOhjdh1fD-oDSa7g6LU97ZlYZQM1lX_N4ht6JNAzQc0Ki_MCgaUJSDqaKtxmldyRalMoOiwb8-CoqKJyEThshJeuUm2vfCnzmIHixdNec64CwuBokfp0gvQirwprAUjVE_GT7U1ET7kNgH47nj2rvrnQh5VxsUIQssqEjvZjy2kLarknyyKqWI4ajW22KBrCIZhklQiSN8Y2TKSAlymbShvrhqtW1aEbOfeVZvpAYBiIOCgwzvyi917WJOOFm0pY.%26ch%3DAQEAEAABABQqLKE5ooBzmnuPsZH2vjjfcsWfzq56MU8.%26v%3D3%26pg%3DLUD2W2YOT5BETDAIQ7PIEK7AOM
+.netflix.com	TRUE	/	TRUE	1795277952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgE1DkUTAiSSjmi8Us4c-dWJe5MZ9X-iI.%26dt%3D1779725948066

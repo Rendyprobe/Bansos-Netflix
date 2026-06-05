@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Violet
+– Email: erikodiv@gmail.com
+– Country: AE
+– Plan: Padrão
+– Member Since: fevereiro de 2026
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 8930
+– Phone: +256789295932
+– Quality: HD
+– Streams: 2
+– Price: AED 49
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Violet
+– User GUID: XD4QMK6FMBACPB5DYK6EPHBTUQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794135175	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGAyoXK_LJOQkNhQc-9wlUajenH0gvphK0McSQBY8v2mqgkFYbD8oQUWyBEIe7A4A_hYphRxiNQOi9dq_fRO5heXfvFHOnaILBmXjJKgG4ySZ7mi49viNITL1RRFwQbJvanPwPpxScqHXNqhmY8FtvjZZyOgGhkRyj3cSMrWBjmq89EuOYaIB0_eFS8NlbYpUTX4RL-Tu0wgzZYv1VRczt3pljrgYgFZ4bSkAmHULRFzMdkIG2xbyi7r8Ln3OK3YURc8RBvi2R0PkKEcauNFvr6Qk21pf8wKxNKvQMaeR-0kxFjmqbicnTpn7WXNzbkWJqrZr7YiH4oqDZTHlRjpZJXciuQNP1foujSW-DaiCRQfKk5ymJKTRcGBB7Ibj0IIfeaEH-v-Mr0h5fU69IvUj14IqV53v1OhG8huTgXW6rTcO-ne_bDgHC9ux22btytLzG3D-RCJEhXF5GwqTi5DrBRTecxov3IWLMuW_X4BdBtBxzTHVvPEJuROh4viram4N_KfxFkhP_ihgGIg4KDDSCHt6DfQx8pVI_ow..%26pg%3DXD4QMK6FMBACPB5DYK6EPHBTUQ%26ch%3DAQEAEAABABRb-IeKIrGfu2iM4e4HyEp4eEOA1tDtRPI.
+.netflix.com	TRUE	/	TRUE	1794135175	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRu6bcUDoo8tf_B-iryFpc4FIgIxjYn_8U.%26dt%3D1762599176466
+.netflix.com	TRUE	/	FALSE	1794135175	nfvdid	BQFmAAEBEOV-RsrojjLgRSCrXPTKIyJgtk3DrS1AG_3yAflsltamhRdTj3gUXaYA2bA7dAWBQKWJA681NPBE1CUTpiDMHWiOptYN7VEh_jpbxS_KQ-p1T4F1RJLBIW1d-56x_czgZpqc0rcBORh0j1ok1VGQ6moJ
+.netflix.com	TRUE	/	FALSE	1794140856	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+08+2025+15%3A27%3A36+GMT%2B0300+(East+Africa+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2980b467-85ba-46c9-a490-30d8d84e0160&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

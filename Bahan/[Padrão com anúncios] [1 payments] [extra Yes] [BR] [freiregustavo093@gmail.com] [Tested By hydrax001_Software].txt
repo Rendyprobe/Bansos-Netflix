@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ana Lu
+– Email: freiregustavo093@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: outubro de 2025
+– Next Billing: 2026-06-05
+– Payment: DC
+– Card: 5714
+– Phone: +5562992043581
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gustavo
+– User GUID: 3KZEK3XX5JEOBHJNNEXZZIITZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113360	nfvdid	BQFmAAEBEHL4PsqL7aLFE-2qToBbSM1gB0Ti9jcCiwbEw5pui1SGgoLFB4no6mQnSF__Y4dvgCLYKdExbuQMcBxLJiVpmGW4JYI1qOh0Cov43ppgGNYSnDk7-1s0u7qdenhme-pfpGr5jyacp7iVITywkLRamlw6
+.netflix.com	TRUE	/	FALSE	1783113360	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Aq1TeffjTK1l8co1YVDS8WwLYpn8NPgTImwNcxbmACUwZytVVxuvVS0RAEt-TBphI4hk-Kz0edhCDB2YPIKC4Rlk6IuJoiHM3KoP7KS6oAoRN4swy1y4gWepvscuwpZSPYcDhePCqtAdxAf-ddN7kkzxd8cm_4IcJA4pxBJIdAhZ2zt-wNlRGEUFJckWihUifu6vI51BtmyVe3SuwlfDQHOD1tpO71J2iP8M4IGKC9GG1MWZH38aUOwmmnNKJNRzZFR-LTXF06nBoGjZ9-9VohRZvNh1SoEqNFik8xnWVtjMfip04PY69NwgjZPmapk0xbakr0zoiK7V24Jbi9gs5gz-dZh76tBw-R6szXXWsktbpCRvLrg_bp2H_6KP3gI_Myh6XXrCc8SVSWNB6UCLpyuzdkkTAsbvHxjrw_ycpmf3a0qTYEW2osCJr7QQWt2ZHRqHysD7w8W46M86anfjcd-76TcsEkN8vh2dtr3ipnWlNNyY6eds2cXZacUnFBgGIg4KDCP0mDBy1uv6AuV32A..%26pg%3D3KZEK3XX5JEOBHJNNEXZZIITZ4%26ch%3DAQEAEAABABSdNTemnrDjHT4-VF5nzLwLkPZRB1g56fU.
+.netflix.com	TRUE	/	FALSE	1783113360	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+21%3A56%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55f14cb9-6c50-46c8-9dea-b1c8c57ac752&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772240124052&AwaitingReconsent=false&intType=3&geolocation=BR%3BGO

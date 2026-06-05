@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emily
+– Email: nkubaemilia@gmail.com
+– Country: CA
+– Plan: Standard
+– Member Since: August 2021
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 9116
+– Phone: +12267009708
+– Quality: HD
+– Streams: 2
+– Price: $18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leonardo
+– User GUID: XPBYAMPOM5AVPN6GRMGOGAV7PE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802969328	nfvdid	BQFmAAEBEBTgUaa1xREnMaPIgDevuR1gQIBKXW-gumFF__nrMH26Sm73wOs2Pb5BHg4fp7zqu3pClabhikxVeOr0JhZzFVJhjGAfyiOSB-EUKfnsWhdvdGUWNtNFepYLAlE_TnsXM25sutwKnICuuoKi8yMfqVG8
+.netflix.com	TRUE	/	TRUE	1807141814	NetflixId	ct%3DBgjHlOvcAxKDBCph_H5hSE1Me_P8FzoRfx-nI2SA0dmZNOY5I12yfe4vJp9QxLu0qMeKjFL3PlPFEzkpPRDyu_SqJ4Mvc8omBpPl5AkrGpb9gGvzgAvzDoyD_-4xC7w5zsdLwLFvyDNePR09cV8c1V7gHKGEIxXldtaY6vKwEDza8xZwLP92A4SkYUfwZ0j--itbRiQQ5HfJPQMyd0dVfSFyukmb4iTec9ryi7lSVUt8k0iNG-BHY1TSU65DmshIcDFukUHSfbhZVHAUn2zDTqWb9e1_he_MYFxGpYZGYVsd69BYofGaIBkhxTF1rUxLoRmyiFvzVxN278yEO8vC_iIdehR99trFWafWglhq1GSai19rVgcsxTyEDU2Wb2SfkESSlwfqJmBYkPZvW6iS0e2S1uVcRUAuSJ_Xu0JRZQ8OCnFvpMLy0aoGh1E8M5tpGuETchxxWPIMvXQ7DJ8Q9PV_MIcrXOHA6dHmHMxbvqIDol9meFmXCuprRXkmkAusIer-C-kpIBmWWF77zhSxE_W-llienhH_K9aT05fK7sGizOW8xlaAcT6VBBEhokdUD1sC5lff8onWTGLYJfamIflqBxxE8iYpILnWzWovuYtBVAjLWfKVTd0tuX6JqbPSfm1Ex3fq6NV1F72C9QSE5Iw8RWXM6E30Vgj55vC4YH1CcheIbS1F4JGd7GJvGAYiDgoMp6vY_KOG_6X2zYtr%26ch%3DAQEAEAABABSLlO2chcn_GRJNWXRNcwAmL0jwMbTmWAs.%26v%3D3%26pg%3DXPBYAMPOM5AVPN6GRMGOGAV7PE
+.netflix.com	TRUE	/	FALSE	1807141825	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+19%3A50%3A25+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d48f6d23-b247-4c6d-a32b-823e67415af3&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isAnonUser=1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&crTime=1771433284029&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807141814	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNbIdcVSLg7vj8luWrbk0sCZw-i8_pcpQ.%26dt%3D1775605815721

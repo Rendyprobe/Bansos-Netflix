@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: K&A
+– Email: princess_erin@comcast.net
+– Country: US
+– Plan: Premium
+– Member Since: April 2011
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9886
+– Phone: +15053638003
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: E
+– User GUID: 7E2IAMCSHNAIHPISRFE4J5XHRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEPIm68sKf_ihhuYrTQaI76dg0r3_0hPUSlTc9H47IVozY1KS8UBrGaR2TdJ-FFNMWc6IQZSzKY03-bHokP7mqibOmvJzqjk_N92p16dMJmcS_f7qE_PeV3D_Ag7j1MTqcAfH3DZZkTR0USsAlRcnSOp4
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	ct%3DBgjHlOvcAxKlAy1FSPTzHgjNlrrxMeJeVHEkEW5SmLH13ihw1JrGF8CLAJuucwWfH2NEdKc1em2gL0Cmcza3FUEUEn-TPTx1a4UTxy2ggx5bDMLP5R7StiQ3Hfi5FfYEZrOWHXBNCakSCkGCAj6ZSscGWZyVm6FO6e9DbEqjSaiYWIQoLoiLpgtBD-Y-Fm3a_2pfeNc6k1NyODoB2vkBlKVymtbQYVRVz6yat7rYBTRzsUqBkPckmwSvtgycwtx8uofI6AHEQT_f2Ts4Kse6tZriLQ3sY6ROTymi6jyYI2SQmBuSB20Y9z5QtUEqux8pum8PtXlEVhzht41fzHzmSv_IbvYYTMWpBIXRQuLQ_jtXNkwKJISGOk1udEmUIwFfQufe10ajOOVCDvWJTlbiU9jHuazj26RdH1IFqT0qDkdijkUEZA1SWCLddp5EAB7i3LDv5EmcsJe2yBkgRPpr-qtWhSbgNAG84qDna03h4GyQ_altzDuIppBI7OxmzbHWFBrUGbKnwzLpbHt3pQh8c1GjAq33eHquC1Q6m1W18gwkS3QjvmupbURCFEwzIqEYBiIOCgyE3fLxbBGoHrD386c.%26ch%3DAQEAEAABABQF80_I4gbty4lecOh5qZvoBR2J4qxIgIg.%26v%3D3%26pg%3D7E2IAMCSHNAIHPISRFE4J5XHRM
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+12%3A26%3A25+GMT-0600+(Mountain+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67636ab1-4bfb-45d0-b87b-280c7187ce22&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777060374066&AwaitingReconsent=false&isDntEnabled=0

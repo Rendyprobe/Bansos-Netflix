@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: prime.invincible1@gmail.com
 – Country: IN
 – Plan: Premium
-– Member Since: noviembre de 2025
+– Member Since: November 2025
 – Next Billing: 2026-06-11
 – Payment: UPI
 – Card: N/A
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Moon
 – User GUID: WL24K55DQ5AXLFJ4KWVBBYGPOA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAdqM7ej0IVvY5Z2A7m+I3v95Xpdfp2+4zcvv24De09lwI7Bv7lxaUNsGt2/oZazXH2cz8QgLy9zcYUQ2CcVkqz0+DcSnvKQz/B3aDJ4OrVSnXxKAOQzqONzOzsc/0SvDbhEebsIOhnNImBcdm7gOSotfm1jzHXHS8BePYrRb74Ist832n9G9lcQ58R1X5KZS45rOW5//9SVBaOYJDPhO5MZ+nhFddNMykf1d/6xyDS+uUbQ7n9ZuJ/2GF1slbmaIoqi5GAYiDgoM+1vPVAPrfp71TgCv
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAdqM7ej0IVvY5Z2A7m+I3v95Xpdfp2+4zcvv24De09lwI7Bv7lxaUNsGt2/oZazXH2cz8QgLy9zcYUQ2CcVkqz0+DcSnvKQz/B3aDJ4OrVSnXxKAOQzqONzOzsc/0SvDbhEebsIOhnNImBcdm7gOSotfm1jzHXHS8BePYrRb74Ist832n9G9lcQ58R1X5KZS45rOW5//9SVBaOYJDPhO5MZ+nhFddNMykf1d/6xyDS+uUbQ7n9ZuJ/2GF1slbmaIoqi5GAYiDgoM+1vPVAPrfp71TgCv
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAdqM7ej0IVvY5Z2A7m+I3v95Xpdfp2+4zcvv24De09lwI7Bv7lxaUNsGt2/oZazXH2cz8QgLy9zcYUQ2CcVkqz0+DcSnvKQz/B3aDJ4OrVSnXxKAOQzqONzOzsc/0SvDbhEebsIOhnNImBcdm7gOSotfm1jzHXHS8BePYrRb74Ist832n9G9lcQ58R1X5KZS45rOW5//9SVBaOYJDPhO5MZ+nhFddNMykf1d/6xyDS+uUbQ7n9ZuJ/2GF1slbmaIoqi5GAYiDgoM+1vPVAPrfp71TgCv
-– Token Expiry: 2026-06-04 09:19:13
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1798307347	nfvdid	BQFmAAEBEGgw3t38zn7pInCOm5J0q4RgWE3umbxWytEF4WmqA7I2dQ7xwEGOaEkUW6LUJE4oLn2cPPCzGYO_b5cmL9ZpHREqGuc5tZQLp6FBuoFjCbOsORLmpecEVF8dcL5vYz0mMzTpZvBOFBoIrWWtb_NL9W4i

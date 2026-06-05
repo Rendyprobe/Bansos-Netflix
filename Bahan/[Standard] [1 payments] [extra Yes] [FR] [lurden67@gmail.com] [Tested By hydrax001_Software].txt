@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paul
+– Email: lurden67@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: juin 2015
+– Next Billing: 2026-06-24
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33663436180
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Antonio
+– User GUID: MRRSDDPOWRF23OKPRF3VFRP4OU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787173043	nfvdid	BQFmAAEBEO8IUKdcuPj5Vx8cjGqiQuJgbvWMzm2A-H3iZeeGWeu_2nEg7tJlSsMPinr1TrN_emSF6zN6H6XSfv2sYcsG4wDXoHaGgRAfDq8aaTEW1ssPKRtEnRoqMPMATPGSmn6qR_GUmTXVDCraV_fBCIzKBjF8
+.netflix.com	TRUE	/	TRUE	1799524984	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5Ag9zeD3x21rmvWRiyw0N54TYx6XoYgitWSaWFNpDHjH4rdOxESIDaAtIBa3cTPnpqb4v7zfcR-cSs2ygCCtPMV6Mufuv9ZC1PlujaWjDlEhe-xMKkC5RSAhW1BwBH1aTw02cSC6L2xgQUT6VoQpjuq-zTjmcynrW-y3MaeblvdKeP-XHKcHX9ey10Y8SvZ1MRvsD-o_IlAYeBsSF0ZerALZMCoW67LT4hlB9xQ426CS_fF8iNf70CBWK88d7bkp_QyjoT5axGT5XqY5H075aD1OekOVPbamH8gk5AMEprOMhkC5Vzutt5MEKy2po27qkd7QT7UKdJDRy_TimgUQxmNwB9IZXtRwO4BlSxaKAN-pOTeLhU-aHBe9KHC2b4Dmx8oEJUyDJojWjQRYRg943CFIxx-WNXl0YAO5Dpl_ciQIdeleucG83igGUZCSs-fjGEhqiCur4I756InE2IA-khQyVSSW8dDM7xUUIhzAxCHJDWUSz87TShdBGGAYiDgoM7K9vEgxKPie1KzoL%26pg%3DMRRSDDPOWRF23OKPRF3VFRP4OU%26ch%3DAQEAEAABABQyVn7KJdHGWrVgzZVkXEQ0r3u2XJelFaY.
+.netflix.com	TRUE	/	FALSE	1799524983	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+21%3A03%3A03+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=853181d4-536f-45fe-8d09-2bd3cf6008a3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF

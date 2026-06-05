@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: stedgell@gmail.com
 – Country: US
 – Plan: Premium
-– Member Since: July 2009
+– Member Since: julio de 2009
 – Next Billing: N/A
 – Payment: VERIZON_PI_BILLED
 – Card: 1910
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Kendra
 – User GUID: 27VAY44P65D2DNXPTOHDN6WGOA
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAdtkd+BkayGrupMoQIzuvqVkRpoBHW1c2oTbffzGOPcuC9gdnNd06DRMQe8sThY1P0Wf1qYQzOhs1jijFtFqwfwOeujTe/4RNUDwresBfLKKF2zqpIeGY9ozYHta58sJqomsKms5DuovxapLKCZOS6WVpjNvV7trVdGAo2TWMgpZ6zP3raD00S08JcA0sovWLitZAJydrHTiUgVDXo/B4KyYOZ6F4gdv0ouH4vzNQBLkajxw5xy13O7NcVYiV8yresgtGAYiDgoMdY1AkiaBloR5Tk9c
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAdtkd+BkayGrupMoQIzuvqVkRpoBHW1c2oTbffzGOPcuC9gdnNd06DRMQe8sThY1P0Wf1qYQzOhs1jijFtFqwfwOeujTe/4RNUDwresBfLKKF2zqpIeGY9ozYHta58sJqomsKms5DuovxapLKCZOS6WVpjNvV7trVdGAo2TWMgpZ6zP3raD00S08JcA0sovWLitZAJydrHTiUgVDXo/B4KyYOZ6F4gdv0ouH4vzNQBLkajxw5xy13O7NcVYiV8yresgtGAYiDgoMdY1AkiaBloR5Tk9c
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAdtkd+BkayGrupMoQIzuvqVkRpoBHW1c2oTbffzGOPcuC9gdnNd06DRMQe8sThY1P0Wf1qYQzOhs1jijFtFqwfwOeujTe/4RNUDwresBfLKKF2zqpIeGY9ozYHta58sJqomsKms5DuovxapLKCZOS6WVpjNvV7trVdGAo2TWMgpZ6zP3raD00S08JcA0sovWLitZAJydrHTiUgVDXo/B4KyYOZ6F4gdv0ouH4vzNQBLkajxw5xy13O7NcVYiV8yresgtGAYiDgoMdY1AkiaBloR5Tk9c
-– Token Expiry: 2026-06-04 09:09:58
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1785959962	nfvdid	BQFmAAEBEHVnVAs8vogcGm4wvWrb1t5gbI62eBtwaZ2_RNG5uGBPmx7MMug3ds0AOBpO7rc_BumVkh49F9i_3cvCmIJ6Nr_wRyjv6CBmXXFi17QCkjLRuIhkakmQt7f2kKQLzGcQBOzX4zjdbQ-atTYBW2KzyL6c

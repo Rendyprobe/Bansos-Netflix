@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sebastian Lissage
+– Email: lissage13@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: October 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 6199
+– Phone: +17346642595
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roberne
+– User GUID: HUQTKIFLFVGG3ENNVATQO2QDZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806513617	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlAyjNis4LdNRfWOKpfrzZHcyJuV-v7Mu7k8VmcH2UC37gwU7fLrOldKn6rOWRvak70jsTgdP86Fp5lXSiUDcf9fUyXd__TXLlF37OLihVKKKoY6oE51dKi4cE7F1lKoQlKbEzxRyUxdWqG5uaMGIzM4tiR2KjjVn3AaNqOS0ym-a4qN0hDnrHdaBpugvuKzsBWdyFmloeUA9gyQDQ_GGURchxmQGF_ZXaE3MM-pp2HpH6Lm6na60-baM2iBmuOfRGsiTxXw-mDNgaGIqSbG-p1lf2BeoR39wCly138cEEnJ_PTZRNGtQXiTqnl6xPoNtoyADz6M_jO9VJaiopAclRZdEZ6ug6VW5olRuA44RoFBlJrCei8bUjrtsnomxkJIFtTtrS80kknHG5eOujf_mcCKhntSTZpHQq153h75p1Cyp3KMQT_Mz6HzsdrrBQxlILYeEel_rkYttinN1kGBoYsye3hwBXr6yWtwy6cHFNk_j85sEqTjke4nUja-pakTvvYboIVldfrYy8HvcSqJonQqdcpj8wgUJ534ecXcSFRVm1QWUCKKIYBiIOCgxLJMWWYDu1coVpHzw.%26pg%3DHUQTKIFLFVGG3ENNVATQO2QDZ4%26ch%3DAQEAEAABABRjkGxpuXb6Np6aJAI828sWhWTRQb08bY4.
+.netflix.com	TRUE	/	FALSE	1806513606	nfvdid	BQFmAAEBEE8kNKnelyktXO8-JtUbVBJgzJGwexblJpLLhzsnoU17l1aKF2kUS9TBKGubUWFK_0jXPdyiYzy6m9mV6kdFknLoRqhUzLpXbDWLhiNDcYqRc8PZLIVV4HT0FlJqcL1k0_bkrGvik1Wuuy2IOJmlo-Ur

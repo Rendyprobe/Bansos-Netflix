@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anurag
+– Email: prakashanurag065@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: +917870852400
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anurag
+– User GUID: GOH7GOTHQ5ADJIGXO5RKUGORVE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810006959	nfvdid	BQFmAAEBEAM7M3e1ZOoKjGE5H4lYLKtgl3nR3zt5WRc35c-qtAGzQycdL0Y3IBTM9SVW3Gjl77YlPP_XRsWiyRVNNA58a2VjWPgIop1zbgg4wqCRAEi-tPH8PRcIohODmmfUctUV6JUC7Ymr-qU879l0dPfg6ETW
+.netflix.com	TRUE	/	TRUE	1811384773	NetflixId	ct%3DBgjHlOvcAxKJBDc0fEfzD9Y1F_1m2UDlNi-y95UulKGdZLR-ZpCkTGS8GM1iKlhYbr0tD3xzIbJIgmPjO85QD5_cGRdDE7zpjSmWiw92xp8eR-KLmEhjIT7Ek2PVJ7ufWptvVGBy7jDGkavrj7hDe0KHlOPo_J47spbe05PB9Ofx1z4yv5f-yDk9Ed-QPnvPJDF77N5AQEE-hQROGGMbN1XP8v9ujtMLJpNlA5Hzg-U0fgg-oMAf86cO3TDxdK8iVczqNcy40ko1EmVetORxYO_gRrk-hSN8pq6GjPbpgxNFbwip8aVs5EqSczv8Q39KYdTnQHfFdUU6hHEPunrlr9uIynA1ptPkemH66uJyggeIuXnzKP2sA2v9K8eZc5r8B2NbYOElcmDqlLpHwUBhxaroeFUAuaRW4UBCm4H137zBgqUbUA4ZN0wsfE1wWzD2gyW0XDePV0YgRtoUX1HCcuFBvSMmjB0KxeFuGF5JDnBWaG4wSor8r-ZlDyYrQf_VA4DE9cJ15s6XzGQ-PfbVw2pewTtMflVA7zmJ1PRdGIxTSeAh1hjvl3EWF_B-uBAhV6xQVrd1HWSbLuVtZk182L-U-KhoI7EWzN2W_ipDVflzSvAnaLFlGPDKCgPsz3FwxVfhT5hOhV8xHE6GaSTFIxs6EKwwA-619G1D7HqR5EErvHdm5FfXUYmqcWQWPlaEf8_6GAYiDgoM21NYJB53w0L9hNVv%26ch%3DAQEAEAABABSvNGsmSEMbklXs069NWQn_gFScn22Pp1s.%26v%3D3%26pg%3DGOH7GOTHQ5ADJIGXO5RKUGORVE
+.netflix.com	TRUE	/	FALSE	1811384780	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+07%3A56%3A20+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7009384f-724e-4bb5-b807-faf9934191c2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778470912162&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811384773	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBjntE5NlybxmGws4GUlVkjxOUmdzdydQ.%26dt%3D1779848773332

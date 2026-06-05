@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Παιδικά
+– Email: pantelisanagnostou@hotmail.gr
+– Country: GR
+– Plan: Τυπικό
+– Member Since: Οκτώβριος 2019
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 0003
+– Phone: +306944960184
+– Quality: HD
+– Streams: 2
+– Price: 12,49 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PANTELIS
+– User GUID: KKFCJOFVDJH2PIG7LVEMVYONRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781894301	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+19+2025+21%3A38%3A21+GMT%2B0300+(%CE%98%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=620fec42-101a-4c7b-a4b8-1c6321dad287&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=GR%3BI&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781894285	nfvdid	BQFmAAEBEE6FA7lG6zexoB4rPHw7iBdg8n14xLRrYjKjXT0QecklA2TUiM23gyketFtIoJM3w7RPMq7nxG8kF5PxUIlPABCHo6OiQZQroEK4xsdvSB5cVnk2lqdITdFW4c-s4l4hoGfuJpozurpIA5RT9XgCkZSS
+.netflix.com	TRUE	/	TRUE	1782294896	NetflixId	ct%3DBgjHlOvcAxKqA6fsjUFOfqwCzBA1M6aeboHdkIX-_eNB02A5bLYBDeyMSfAAa26VhgrkdjCSpgsKmYPzWUN6zy_YwHI7XDde9EAWyiFt6yGd4JzS9qaAPPpfZpGMlehuhnyoYDMLF0wvUltIOGS5sDxnmfRQEnmEPAh7Sg_o4EeBz7zVX_Q7V4U2tcIipCK6ymtvv3lhr2LU3ejbRj-nFBbYEmZrstfq30Vb933xa-vctgwCBc7_ulC4HfZX_IEq_Xs2JOzacy3a8wHmOdipcpvHZN5NeKUOYuv-SFF4h5q3q3glLa2Vl9Jw36a66YlBtqZOYCiQGg78ypQYu753K_1LW2-j1q1WO4anm9vBcNlyhZwRl-wrInxJ1zPfutmQ46F2rwdSDRNgeZl0gUmJMlhNAztEugrW2XH_Hwxr7MyspiKJYnEgGW9VZsl8BLImeCnHSvDXJ0E7eNM9DcebCfXh0O3bNXM8Lg5scpourxhqnK7xb3fFcRe7eQTMFCnQSEaZC2Hbt1GDaBOUN-nG7rHA3HCQgq-kG-TAGrkdveKQEXZT_8IB8gSxpo7z57HK01QFYRgGIg4KDI1AzZXBLPN4GSYV-Q..%26ch%3DAQEAEAABABTacTUXFHOrnANGjinrj6iCbKJWDVR7ZVI.%26v%3D3%26pg%3DKKFCJOFVDJH2PIG7LVEMVYONRE

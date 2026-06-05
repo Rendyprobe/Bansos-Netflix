@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oluks
+– Email: afolayaneniola55@gmail.com
+– Country: NG
+– Plan: Standard
+– Member Since: July 2025
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 4490
+– Phone: +2349031360904
+– Quality: HD
+– Streams: 2
+– Price: ₦6,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Albertenny
+– User GUID: AQU2I5UJ5ZF2TIKEFU65JU5LYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794775793	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8An7vsNX0jBDBV0brvTL9o-xtTiZQ660_JekNEF_GlBlVhKksb-_bbXltY6GiV_wFBJHF4AO1r1fD4So0fswdo7aZn8tQc1h3mjiLQR7dCA246xcDYPbrwxkinmGe6V6IoTXGDf-Jsnv-e3q-8WtihuM2a395SpXH0Rf6gyMSq35Miov6ynTWwuB4QpI3_bYU3n3Myc55UfuXeWG7kcYbMRqPPgppymLtCMMgvhsRS3jXWaXvXCaWiJ4IKEUzpR01qrHGhJf678KtgILgatcfOoiqo2XLF3NJGVLxTCzD7ZRyRCBEr3j3nEukA7TTPuIb8Lf5eCS4a2Q4xD36T8GTKGcPLH4HRPzY50x3j2g8KGmQDigS2dv71NmGyPe_sg1A_WbvTIFkIOJniaraBoTKz5qpUKsK73ytzMViiPaA6M2OS5YiKcHdRFY-O6YGc3oDtv50B6gRCBwmMSXo7cfqXMwSonU1cYbPo_HBfe4j99ak5vl6Fbeo8www7nupGAYiDgoMyT4bMDR0__l_sYwA%26pg%3DAQU2I5UJ5ZF2TIKEFU65JU5LYI%26ch%3DAQEAEAABABRtDBot7qhubxyA-qP1qspRtzg0F6zlYk8.
+.netflix.com	TRUE	/	TRUE	1794775793	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT2xNgxXE9jL2NizcrIyrlW7PunAbYRSzU.%26dt%3D1763239794968
+.netflix.com	TRUE	/	FALSE	1794775787	nfvdid	BQFmAAEBEN6gmc1aNM6IJgc0P8CWrs9gQwIcwFd9IsXyDJCtQEPNAHbAXT5i-x19U_3JO0aUM8qR49qLVRhIEx0h50lTUW2F5GErNTK7cshBk8RGIAdW-FvNtA0gt-luArtIIg1Q3T4eIxToQECpgie11QDAZiRz
+.netflix.com	TRUE	/	FALSE	1794775798	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+21%3A49%3A58+GMT%2B0100+(West+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e074c6e-48a3-4345-b7e0-8bc1dde4b2ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

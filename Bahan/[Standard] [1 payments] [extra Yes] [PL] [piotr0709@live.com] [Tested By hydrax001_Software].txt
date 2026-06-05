@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Franek
+– Email: piotr0709@live.com
+– Country: PL
+– Plan: Standard
+– Member Since: August 2025
+– Next Billing: 2026-06-19
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +48665534656
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: piotr
+– User GUID: ARM45TYYMNFCXMF5D3P2RF2PYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791475825	nfvdid	BQFmAAEBEIg8NIjcy4TffUlPeF6I-R1g0hulIegGT4FPyXo4zxM8GfIyPoe0fdvqLR95lfpKRLHzmlYZj4aSqlEFTj39gi2DR9PRDyhBD09z4Ju0XbOZG1ncI1ocPB7Tz73KkDfH8hxzBgEgpCZR-DNhoBlE9NNA
+.netflix.com	TRUE	/	TRUE	1805814730	NetflixId	ct%3DBgjHlOvcAxKGBM3smWI6WIC2yffzJYhu-7qs8EjmjdeOVWHjr4Ns67v-YU57A824S-IC0rmm6fQJZt5cfnn4CRN9djttGoOGDjtPOUtOajmhWrx29rlcRp9AEW4nyZSvmyduuPV9T-VQl4iJxG3inZPdlZOiOCGOX8rIkyhZ2RcfjklflPjqn64270fWgxkyjErwbJ0xKjPEDTlV3EfiwGZ_zkGKefb490Q63fEFEGE7NMfyhCs8HxbFTVZaL1I_yoqsEnlAc_eiLQLP8W0GvEOAf5kSjPeT5_V84z-HxfAAHy7hlyGOOg7T7OGrP5WdpzUMdR-RxozwoN1J-fZKyrcNyzyMzgfimTDztO0IPr2XyG_pQryTxyH4lFfkTafjnEEmp-gLntlGrJZQVmWPdotHSfDxMVSP4Ef9K6q4uC3uduhrDlPL3bnGPvdx3vUpJVdhCMJOMeaLYi0Z0nflfu9vjT9oI7CZj86WMWaZL6pSD8NK7kD_JHQ8LVZQOCVtOGazDCntp0thkVUCdZEhCSaiz6nTzASmyblx7tLlSANopUrQ1_LjSXwjDdQGgb5TOE7ouczrkvutF2dpfgrRBSxDWBYayQW61lCTSm-EOrn6gfUGrQg_U4OuAqza1-N0Gw7cQTzOw5SPaluiq7NhIiO7TVPUM1B6pI2Mje45jHHiqj7lorv6IPZ9BTNoMkMJGAYiDgoM-eW2D0QCcTrs4uAw%26ch%3DAQEAEAABABRthyh9hOx-zgT1Na63PS1Fjzfy_USwXOA.%26v%3D3%26pg%3DARM45TYYMNFCXMF5D3P2RF2PYU
+.netflix.com	TRUE	/	TRUE	1805814730	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUqDqHkR6sLbY9pHS3_uloFFN9GA867vw.%26dt%3D1774278730117
+.netflix.com	TRUE	/	FALSE	1805815875	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+16%3A31%3A15+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39186659-757e-40a9-b0ce-9899766efebb&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B30&AwaitingReconsent=false&crTime=1771790023619

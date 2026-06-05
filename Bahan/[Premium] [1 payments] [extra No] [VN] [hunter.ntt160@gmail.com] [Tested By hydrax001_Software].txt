@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Boss
+– Email: hunter.ntt160@gmail.com
+– Country: VN
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-06-10
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84868483554
+– Quality: UHD
+– Streams: 4
+– Price: 273,000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: chinsu :)
+– User GUID: ZNPQMM2CFJEUNHF4S6J55DLZTI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804876327	nfvdid	BQFmAAEBEIQnMTTtvaldDruIE-iXC0pgN67o0e1ZfWjKs2LjeUsRx5-YpRQI2ntuNj2ABgreaTsgJdH8kV0BBbFSCXHthc-PDFZ9TSPCylJMEnU05zSIgNU3Ye4CSvy4-ztPd-bElTqL8gqaFBMNd62xVhglgkXc
+.netflix.com	TRUE	/	TRUE	1805722575	NetflixId	ct%3DBgjHlOvcAxLMAyeihOn-WqZ03siw1heHu_evo03SxaMc8l8AlvfMOqMaVSuX68e-1sVKcTDoWrMpWnhbVS3l3KP36TpmnHrj93BiBWknJX1Zp0XEhQCFD9LLzW2DWrdqf4t1Vae-i73GrezUqbok7Qa-7P9Kg826ALw-4RzwV7vrc_GU3hhzDYgoRyLWkPrCAUwPyTgwSZ0zg2UiADxP37UWx6uWxTR7MhtwjOaqBVNxYvMyWjw36CgsTpuJYGz0VUsrD3g4vpng7HEExOhtVkOGuyNAeUNpPik5rYsL8cU4B13T9g0_h8jK3u6MowUluky8IgI0fm_bXM1BpMvuFWeCOuCAuPJp5huuffo7U8h_yR7MMSWxFBY_Ihl1AaAGsPJG3FP-pMOXuR5PEmOKd_uFQxovR7mI5KTXkILHhM-64EAYoFkKYhwKb0F5s3iRTS-DtD17mje0aRgecDjsHbZACt3K_bKSbfm9srW-oM2sX7RqQ3jUhwMTyrgFkWh3AKADzA84MYlEHt7wHoIRkPv7BMzesUn5l4uEpKEu0g8uq3i_ZpV6zpciLDhOUB1n5wxqrWUqdEgA6M8j4VM9-VdnI_i1zP-6DWxs8PdGgipUFhOsDhkYBiIOCgw2-cxHsVwPeFCCE94.%26ch%3DAQEAEAABABTo2zw_glHTcG2i3lmH6OQKS8TOhMKAIf8.%26v%3D3%26pg%3DZNPQMM2CFJEUNHF4S6J55DLZTI
+.netflix.com	TRUE	/	FALSE	1805722575	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+20%3A36%3A15+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4bc6debf-ce0c-485d-ad95-2e3679da69c0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805722575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYwVJUXZqng-kBgZL5hgVc7YTXd3P8z5k.%26dt%3D1774186576563

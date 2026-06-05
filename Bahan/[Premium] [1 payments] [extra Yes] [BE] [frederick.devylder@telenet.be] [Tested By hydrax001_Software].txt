@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Frederick
+– Email: frederick.devylder@telenet.be
+– Country: BE
+– Plan: Premium
+– Member Since: February 2017
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 7511
+– Phone: +32488683229
+– Quality: UHD
+– Streams: 4
+– Price: €21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Frederick
+– User GUID: HD3TSARDRREV7LCLGS6WSP54HU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798295889	nfvdid	BQFmAAEBEOY1sNr_Rn3IfLG4SXAggAZgiRuu8pV-eH1IZ8swQufcfB_nB9VA12QAqDKPp2uQEDCCuOQAfZl3nj6UPxTYZ2XLC6g4ubLE10F3pAIvjhZJ7mNc7Sl8QNNU1S7rkMF59mE6hpYUdd_XB854yXZHIoko
+.netflix.com	TRUE	/	TRUE	1807982300	NetflixId	ct%3DBgjHlOvcAxKHBJKgyXfmks3_Y6DL5uM1-jdRODXO51H4gvdEVaHIdOWpqBiPv9piEJd6EQ6iuJjKq9329MKRt27gBWBYipXJ3cnvzsctjZXsg5hXDptG_lGFwPdSot3Bv2bxBPIDEuSD97sZZu1Tmz_dWgK3dUOxk1FSVrvrmty2Ygpp5Dn80WkvtZRtzLqQ54hhEHdgsuHzMD1BlVJAWey5QM8Jq72ru7rfuk4MPnrMTuOxBLddw7hVh63fR_ieoshiy2aCLynYvZIaSXq_GudPbdUJhMVFF9r0froywmfCmmXDHsxwfylfyxx4AAgHkGbzDFyhWw-yVHm6tzeUqrp4HBzUX-qek-EWwh2jIuVZS0l26dLknuis2G8E8fUHTJb1bpzevI-MgFMwt6RQ9-S7wl3UNC5RgyIOiBsohMA_tMrY1OFAtUmoTJNgHAgGC1EAwGQGxP9l1lKUlkdacymFtvrhevaDbPEjYZN352wnrbprTgfcrL1T1QeKLJtJRoT598DbGEEYmo8SOAELP-Yc1PkLbmA1QxM1IC3mp3cXPXNiQg1fiCMRVyumnV8XHfJbMLahojGLHRCmYs9ftXLY589DEajvnv0_-TYoNx2paiVvE-y7dbHM17AtJwSJc_Xi2aPTXbCzVdk5F-U-6oPc3gc7cavtk7hYW4mKgHWHTidsfQmogRtV7SCdA4S3uxgGIg4KDC5qA_JHVX9g91QSaw..%26ch%3DAQEAEAABABRVqELZipuBANyaZN6R3s-qLnRhTJPEFE0.%26v%3D3%26pg%3DHD3TSARDRREV7LCLGS6WSP54HU
+.netflix.com	TRUE	/	FALSE	1807996465	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+23%3A14%3A25+GMT%2B0200+(Midden-Europese+zomertijd)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d49f65b0-1267-4517-b8f3-a89e35561bd5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DK%3B84&prevHadToken=0

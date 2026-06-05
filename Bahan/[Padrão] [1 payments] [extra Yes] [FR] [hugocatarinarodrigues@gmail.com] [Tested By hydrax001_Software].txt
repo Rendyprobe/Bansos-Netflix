@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rodrigues
+– Email: hugocatarinarodrigues@gmail.com
+– Country: FR
+– Plan: Padrão
+– Member Since: maio de 2024
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 5000
+– Phone: +33749999324
+– Quality: HD
+– Streams: 2
+– Price: EUR 14,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rodrigues
+– User GUID: I2DSL6F3UJGJRDMTVJBP2XN4KM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808601140	nfvdid	BQFmAAEBEIT--L_UTCqCNFRGEmh6ngJgQ-aAUWzF6kPXmD-h0HiteyZhG7lF7Dxg7lj4EE_lJVeFY8Cq-OSTDApjz20EWKcg5-8kVfTln9lfrtBsLcsLoJLVfFX9ek5sDWvMIdS9CnJkS59Fh2LGqWD6dPqhlPIx
+.netflix.com	TRUE	/	FALSE	1809028759	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+21%3A59%3A19+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5a307523-5399-4633-90bc-215e562d76ec&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777065046022&AwaitingReconsent=false&intType=1&geolocation=FR%3BPAC&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810656517	NetflixId	ct%3DBgjHlOvcAxKOBM8jljNuHb4vu9qoXcGcCjMp7YvZYDaIMVFPoUjrabkEcltjfW4dGUP7JEYp1aLN3xWsxKGJeN7Jh-OS0WIvrkhLnFjpAzZM1SrPyM58HG_KOnFQM8LFzhzGewaxlqQ7nTYINA80JmPXkGKb0lFZstxS_UmgZhDW7LOmhuJk8ulB70SI_kJOwFX7jaMp54Oz9RoFbyoyI4blgab4nmKLDQfpW2JV3PrykfYwNlcqCIol6A_3EICMKqGzYYfc2vVX_sk_qvHYt_y23LND8SmqZYh69_UGieEstRxxG4akZAvo8z3dERVoF4qMgqb9eCwsnrW6mkXss6m_YWim3PSdr0CJtCPad3yJNdFXs0qDkhGkWy9qpS7a63Jw73ffu7sCoS3o5y21AMy3e0kYIdAEf9WHNtJETONn6P_kR6G5b2xvlvT7wW_-yWYHnGeBzGv9OHDGLQ796QlA3tEpe2PblyB2T-mGVTGgfAF0hRmvupC6B1MKphVHV-k_ok3khPwNBt8ZzWXhqUCtTilONinLEKTR25DX4PL-A6shujfX_LNOcmA1e2HgLxF-ptPGtg0X1qqsMNfNAPlFGPRJ7BrgtIPX8X370DVO41kCBxmBA_kJxwSeuVilip3Y5W84zerwl1NTQq79Pv-lcQ4FpdSkgDYODX9QzxSpbBO_T_gbC1lcfo_IG7k0iLO-B9KeqPsYBiIOCgx7h8jRovuMppMQMmk.%26ch%3DAQEAEAABABQOOu2CJ9SMMhaBovCLveCI15Eau9bZXzk.%26v%3D3%26pg%3DI2DSL6F3UJGJRDMTVJBP2XN4KM

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Simone
+– Email: simoneapp88@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: novembre 2017
+– Next Billing: 2026-06-18
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393383731480
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Simone
+– User GUID: WGVQI7O4TRHMTATNYLTAAQXPHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113360	nfvdid	BQFmAAEBEFE6LqpajCksTF6HU0nxvIlg9EIt07figPC4fvicGANmj2x6vTABAr3nvcEBMdNvWOlUROMuPyiPEGrJR88NTVG0No-bTMbmBEMIJLrFhtT9OLOjYBWVn1mZtZusWRPfdgFn0dUvDuZav5Yu_NuIw98B
+.netflix.com	TRUE	/	TRUE	1783113360	NetflixId	ct%3DBgjHlOvcAxKhA0p8X3eewr17rsl9XY7Je38wCF6QRvN2USLqr6Xi2uWveG3-Rtcy0m9qBHI9aRdNfQao6qxETMUzVcMbMUkuJtIKnzFJFlUdmU8METV8p3NL9sl5zcgc9RlQqFQLKsqFrAnXVllsoFUUw3u_UrrLi5t7nkHBwOFq8nRRK3d0xbAfzLcOvM0kF0z_Qcmlaw4aPeYjcbS1Z-u6EHaHx3ShdhoExbd88YS4-oRCXL6LOGvB6PeOEltnf33OlAb-paUyH_6e-Nj5ioMy_GGB6Kceg7A_6zaL-TNKwrHeXjVD2_GJkBjb9lcWuwlfgMkseHWikkza42Vsvn-Glc6zfpR_Wc8p_kyCsWwVT9fH9ciR5DAKxzHrkz2eZ7nhJ4sC5IKeK3ML6ITqh25AD-DllK-zznJhh9mADJgu_AQR4GDi4pHKN8AGrkc9AwqiZKkYyyk647TSGTvLiI8QAhUhd1KGjn9W1TDHxiteB57orO-nkRRCiyT62QuZ2nC5YJw0NbzCh2-wn22G6CSwcHZaS6RL0GOqlQoQHfxvXxjMDn896lxgiRgGIg4KDA0w7kL61kNfKyYyEQ..%26ch%3DAQEAEAABABRgfqVv8Uyo0zm-8xD-W01J65tRzyy_Y3E.%26v%3D3%26pg%3DWGVQI7O4TRHMTATNYLTAAQXPHY

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Samantha Claire
+– Email: felicitassamanthaclaire@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: November 2025
+– Next Billing: 2026-06-09
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639772378166
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Samantha Claire
+– User GUID: H6BQLXQPPRDKZDWD2CHP5ROSC4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785162725	nfvdid	BQFmAAEBELi4C2CqFrf2EJS58H3S0utgl0MCMkYBd_IuhPRT-BSw7_y-iAtUdC-hPuhTnfrkqL8UMttmnvdpHq1myHqGjul9UbCeELIDMP5yC2f23fVMFR0zs4mCl7Nj4mZEOkkdn344jLjDDtwLErdNFo6CyhVo
+.netflix.com	TRUE	/	FALSE	1797580606	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+18+2025+15%3A56%3A46+GMT%2B0800+(Philippine+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=04476e20-f7ee-49d2-b2db-44f2cfcad3a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798980432	NetflixId	ct%3DBgjHlOvcAxKjA-FuWYiR6qbx6vXOQGMVLFqfRmD88fpSehFRyG5bg9rgJBN8Eydq7xHHQwFvW-6d6tjHiL56jPEg2saFCbBHBmouOY92cHYZwCPi6a2ODTOnxCSe5mWELlq9xtdQcqOWNoXteTM1Haw44x8BTX1EvCCV0LYJQnx4egFiCwDfbEztUhs_JokV2ToRF-PFMxjrbis29TmHgdK4T50oXeClZy-WuiEFzAfTrwBOc3UhIMpJkE-aWkr65jj357BfU0E1DbMht2-w-N9OlAKE5D5J3WRRUrLmxBZ6_hqI0gnw_1Gw8LVPdrlN-Z4aViN-6UkVvvpp9EkwE4UzjqNcW5sFnl7QaIhX5HCeCbdwNQN3TgewI3cMAAKFXhbY0atomWTEOb4ApqzKeOYV-v7Y-KV0S899iM2DzpkTL_MoPbprul-ZjWV7RTRMJBU6h2yyl5Mtfpv6S93eVJ_H1RP1Qg84i_Acyx10vm1uJ-vgGbfn8PdcuNQkS49r4DeeZI93JjlAfow_H-App07ZSM2YzyraLQSHzO0uIxKQ4qW_kOmdPcdvlpWfGAYiDgoM-NKw5HAlGPeS1jNo%26ch%3DAQEAEAABABQ-DtFe0Nesf9szi6r-_D6mULA70HAnnD4.%26v%3D3%26pg%3DH6BQLXQPPRDKZDWD2CHP5ROSC4

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: EDWIN
+– Email: austriamaria1030@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: septiembre de 2024
+– Next Billing: 2026-06-30
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639175998412
+– Quality: UHD
+– Streams: 4
+– Price: PHP 619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marialicious
+– User GUID: C7A34APB3NCJJC4TRDQKWAUY3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801305340	nfvdid	BQFmAAEBEFomRP0gi77uIYobPIZr_MJgBvP7m1n6e9cHAKClNyRsEcMWv62FgxwzAUEmSZ8_osv5pMehAWEQRnvDKmvl4MxA7MtjZ0VCQa5CdSg6SYYovRWOha-UBjr8HQrGZMjEE9nZIs1BDpeBv2SdspTVLsOw
+.netflix.com	TRUE	/	FALSE	1804831229	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+12+2026+14%3A00%3A29+GMT%2B0800+(Philippine+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3271203b-c981-4ec9-a75a-bfdd9fc6303e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769769226150&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804831211	NetflixId	ct%3DBgjHlOvcAxK7A5Flz1TR1RVjCCFc30mfMNugqfNjoQ_Ymp7maYW1WzvIJhA4C5dZuIhsPRQ1GQeMXA8YRFNxf13ECn9sou_PjkXo9VtZYM61DlMXj1kFZN4dMuxyaNSGX-VEbxuutTTFlheye0av5aNK68wYIX5PDoga1Ib1YkUcfbR7KmkhqAF09yp6AbbAxFL1_lMXaAV-WHqbV9PwRj4IKpdGtjZsN6LEL_miCeJwM_zKnKKDTRLg9ltocDwed1DkM0jrp8lrVTyb8QZxWDJP0yoW8yT_wUr-82enoFLYtqkCsar5krkgvaJwBsFqUmJUmNbFHJeAdwNHJ4g9KXe4JG9cUdMbKp9xy-9HJ474YPlV00ok_wsRP2l6i1iFiY4qK9OLqnjzaGKgC7Mpf0lfNu6fc4YjDaKyAoJ9yUE13aszjjnmP45kP0t-kbxyiL3y6t2IWaSn3Cs5J_iYvC44OdTET8tq-fEilSzpHgSRzjzq23HVr61ONpd-1N94E1dhcP-C8m7mq8CcrRjjz8VyENZXF9oA9nNei_txaYYws8iM2mrTTFyLH4L53DEH38IvFB6UMaxbY6vSnZACmf0eKw58GAYiDgoMoG3I6tW1XW9YDb9V%26ch%3DAQEAEAABABTvX8UR4CdDs0Sn4TSiuW2ccHt9pPHprxI.%26v%3D3%26pg%3DC7A34APB3NCJJC4TRDQKWAUY3I

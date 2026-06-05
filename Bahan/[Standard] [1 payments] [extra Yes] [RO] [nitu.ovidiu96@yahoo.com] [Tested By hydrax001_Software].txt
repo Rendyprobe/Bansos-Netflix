@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: al3x
+– Email: nitu.ovidiu96@yahoo.com
+– Country: RO
+– Plan: Standard
+– Member Since: December 2025
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 7460
+– Phone: +34615904399
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ovidiu Nițu
+– User GUID: O3SUVW3LN5BOVP5CLXTJO5ZBBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782741294	nfvdid	BQFmAAEBECpPKp6VCwCbE0vi9_szUaNgkQEYzOCkgVN5XyvDtt5Mol1bvJuf13_Q4FHcwYArHeX0mNcHG7OriGQyatHKrqjHzonjbw7gXgHhP1J9okB6ikk38ZdCYi26O7Uus6aDX4PxZ_MdsauUhtmFr_Ychb3z
+.netflix.com	TRUE	/	TRUE	1803327580	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AipJLhrmPaWl_ZesgWuRjNc_gCmYhZHGFCRSYxlbvWzZEmVmHzywaBANlxntROuDKyUC8wK1Z8ZBnmYoxCYAxa9h3Nua87OALhbG_k724XlZ5mRLVsWOEgaEVjb0vIqCVN0pL10dbfkUlphKwQB3d596J4rRkV0kA6U2_M13ey5GboGCyf-e6BsaBIXDprywMIwMTPu-9Fm_42OOb7hJ8R6wLZqyS-aJyTwds2QzP-7w8gG8hLJ-HCUXlxDRVjtR_lMwboNVzJwH2MT-ZpAuspfN-u8Xj0zY-YuZQLj3c6WwHpD-YXF5ItnjyP_zw5rL_y_eU1zhvhA0X3k9pDJjb5XRMv-z2pgNtX4BTsP4fAdTvlAT3srJiMZO7q67TFU5WVjw6oDJ0hwiQiFPraLQ-kP0K54NC-yE3GeX7ltvOxoowY_-YUZM2G3Hl93VDSC28ahQFgGbkic8Z1SEDjp_yUrnZqZPV5xWwbZ5flSHBAd13Vc9ZnCj741co5H2sv12GAYiDgoMOKAbHHPJrbFKirHC%26pg%3DO3SUVW3LN5BOVP5CLXTJO5ZBBY%26ch%3DAQEAEAABABR7iiPRN_5BJ410-KaWVAx_lVSrWnDsuGM.
+.netflix.com	TRUE	/	FALSE	1803327581	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+22%3A19%3A41+GMT%2B0200+(Ora+standard+a+Europei+de+Est)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e5962fcd-d4f2-45d3-b700-0214eaf908ec&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=RO%3BSB

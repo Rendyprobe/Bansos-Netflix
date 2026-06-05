@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nanda
+– Email: nanda_02@outlook.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: June 2023
+– Next Billing: N/A
+– Payment: BRISANET_BILLED
+– Card: N/A
+– Phone: +5571991243767
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ana
+– User GUID: FP5TWT46GVBO3DQ6IWS3HG4WDM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781135879	nfvdid	BQFmAAEBEBwSG0WQAhM4yzDaSFemxENgfYoOkkAqG96sME_qZxE19VvwR2IFbfNGHtUUWmKqEZNOO0Vpjk7ZhthwcEE7LQwFFBeJSqjHj4CSI8OdLz8yYgHxkU1xCGaS39GOrpyPAh6o82L1kJnoaA5EUTQ8bBs4
+.netflix.com	TRUE	/	FALSE	1781135879	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+25+2024+22%3A17%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=43fbe8e1-7063-4ccf-a1ff-9cff2c7e8257&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1781135879	NetflixId	ct%3DBgjHlOvcAxLgA1yFZn9RvteQYxgk5dn7NtDnPKunP4NjIIytLacNX3zujZiTM71eO-aVrjdTdeeDorBr66097cuOGQ4OFaaj0dodmTNMp2M6OiWx1CW8gdFA0Y6hQCskjtA8XwLqWFsyqdX2qlQQI3I0APuUC2byFfMYUKWWe3-3hLCQOyITj5wQq9zx5RgPd_wg37Bnrz28EIipfQxosCJZlKJjJ8k-yzSWHAuN-MgHHmed_3OLJsmJMVkDYAsibMs5XWHuz5K91bfaFpNJNCbRt8-FqvCD1-CJETQiMAndnZxXFomwnKO7Y9FOuBJonOW9ZcIJ7iM9QNtj2gmdoeo8jzatdKoEY-BdF9B-t_9hdxwps2vBx4NFbFn1FLGfSaDbQKYk0rdCCQzatdqzSOW-AxTRXRqUUKvMdJXvE9SOC9vYxKhtDn2yXdzACdHbOjV-mRn3045OWdXDJkQLWDRABdox1kwmKEwVNhfdyR60ESWJ5vNU6xCvqKCl1AhdN9JSBaih5CqjKi7asw7preZlU01JdkYmJD-u00v-ROxi49urm6GQH9t1qXtIZYvUtiiaplUD9i5n5ExHrG9kYc05g8bKMjGdTydbKe_DhNxolp2aIh9ntZyN1S2wf2HwfLztci06gWCKMRgGIg4KDNSVUb7KkK7L05CGkg..%26ch%3DAQEAEAABABRRmIleNRz8TCNwVRYOzHJWlIlmEK94qtw.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1781135879	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ63nX7bHxI4vWj22qYRiK2E1cmIQvpkR4.%26dt%3D1736171884774

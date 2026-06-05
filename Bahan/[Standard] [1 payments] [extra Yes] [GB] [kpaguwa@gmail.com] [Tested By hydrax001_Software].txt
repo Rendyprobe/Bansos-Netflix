@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ru
+– Email: kpaguwa@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: December 2018
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 2057
+– Phone: +447367925918
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ru
+– User GUID: ZL6QPIAS2JH6LPH4TPBUJWF5OM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789509040	nfvdid	BQFmAAEBEA54n6Ey7daEVKdzqPf2uLtgeg_Gb0YTqU_i0KhQM4dAV_NlEz-rG1_aNH5T_P1WxCob2AQXq3WcZVzorF5K6mOKQuaBapdKdY6wMyC7-5Txv4aOElUv2XbEIe6C-FDueDYL4SowGl6BdbmZ0mAKoChl
+.netflix.com	TRUE	/	TRUE	1798488395	NetflixId	ct%3DBgjHlOvcAxLuA8YDutbh0v70MDOBZX0TgfSUytyd7blN590bi2E43nZ0uwIgAxHCKe69zeneYsoKTdvD3FcpQwaXVA67iNn6DqsXvQo04Ke5HCPgAxW97RXrWQV-4KLYhJAgq7zz6MggxJ5C7u7iFMXQy_9YfHp9t4FlPo1Pk4IuIuGWyeyp9BCYbGqEDt0htryOgv7w3h5wVW7-p479ly7CTHK22N47B_W6yQcj28icl36vTfh3GzSorGWV2WGUWVlCEVQ6JzgPwuhfxMNnFvDl-vc50F7sLqJmr3vI9UKzQmTfai8tVoxptn15zZMtf6yBSaIbnp58Zf9hzNUchd-bMua1rfuL-v_YiLFK-o8J6p0Lm7_f9gyPCjb-b7bbs1kuj-rjcRXQLXlLOOaRkJ4SCs9BHQGvh4Bxd-M1oyN-CJHFM3v1vcp7QH46ugC6VAE90ZGjJ_kgmGFYobWSlgxgb2QPX9rpL6o_-ByrQPsS6Gc7BDjyUJTBmraAoDz3XA8HusmBGXJmqbqIGUnetZvAGfu7Q7qkLJfG0MwLQrf5jUTopT8b9_-KzUcYJeGV7-f2rGX4CCMI6WG7KwBjACOOe_GTFOqgBaEnSgWRrQ_kPyzt9Sm67UyIckwe_bw8FsEA9jcYrwCVjvJNlDFnMmwGWOmKSGwBGAYiDgoMmnczmGggLO9F9gsP%26ch%3DAQEAEAABABQgt0rtJWkaGg6D1wn-ScKTYjkoafuB9SY.%26v%3D3%26pg%3DZL6QPIAS2JH6LPH4TPBUJWF5OM
+.netflix.com	TRUE	/	FALSE	1798489005	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+28+2025+20%3A16%3A45+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=d64537c7-91f8-4dd6-8a1a-8aa3aab70e03&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&intType=6&geolocation=GB%3BSCT&AwaitingReconsent=false

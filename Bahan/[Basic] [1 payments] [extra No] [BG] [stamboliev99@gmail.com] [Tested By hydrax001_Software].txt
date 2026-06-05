@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: stamboliev99
+– Email: stamboliev99@gmail.com
+– Country: BG
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: N/A
+– Payment: A1_BULGARIA_BILLED
+– Card: N/A
+– Phone: +359877444607
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: stamboliev99
+– User GUID: 4DR4IDLMQ5HCPAXUZ54RVN7XFY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797716051	nfvdid	BQFmAAEBEAR3bDWlwfIU5vZF3uCVsbNgceBVFRJ30B7neZIq4p4BbZ44TZga58X6Zsbj4kCIIKKhKsHjuaGhmqA9NdQOvzD4wN2ztCLet0q10_EBqYgke5lKl0gka5vTYpeMjVK6r7v8pTQe7qHqRr12kbb35PUM
+.netflix.com	TRUE	/	TRUE	1806184609	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA96sQmQuUCwfebQh0nbIMo1DMRt_NR4mIVNKSHuZ7XMgLMeutIqs95zrHtpLela60hrVFwu2hVQ_BMsbUJkU6HrdMB2pwxsoz0vv1BADyKOHrf5PpHG6Ws8dSC63Ha7yv1b_AeSQ9WgSCwcvOjZ6-r4koN9W84nhQ_c_yENdAFZz6LHTIUiiQUOsegFBoE4I1mPysRvc2oSGKQTjBqzBFvKvHZOLE0NfH5quoBslCN1gIxOKocZqaqKbrtN8rg_6ZJfZyiEHlE0iNXGf80BgJIRD_fIBrA7Km-D-YPfNUBK9AmDRc6WUGSjrT9P1lNDpLSsxQkMiR7b6hisNUGxUgrhmubsdhfB14qnNVTc60at8364pvie7H38Or-Q56xAITGSsxjarF2XCppZ4A-il61QrNPihPfDeBoF1Rl-RKfgcIm9Upkkhz-mChyxZJlBgbETbHvnniRglbqNN2LbzU63qKrZ8VAIAnZQEOAsqk9O3-lV3A5p77frFYf-wNDBw9RIDu7blnNFW_LAhwfWsr_HyN1fAKPp72gJ2CxgGIg4KDHeyzehWETpQO2oNuA..%26pg%3D4DR4IDLMQ5HCPAXUZ54RVN7XFY%26ch%3DAQEAEAABABQ8N0DPgOjkTc5qJym24tJZvV_tOyqgbmM.
+.netflix.com	TRUE	/	FALSE	1806184610	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+23%3A56%3A50+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a85b17e-9c8b-4a9e-b850-d7a40760fa71&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BG%3B22&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806184609	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmBvkJvXJTU81S-dchxsGRSNczeHB6yMQ.%26dt%3D1774648610551

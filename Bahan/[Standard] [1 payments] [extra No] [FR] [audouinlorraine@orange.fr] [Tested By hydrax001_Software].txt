@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melocle
+– Email: audouinlorraine@orange.fr
+– Country: FR
+– Plan: Standard
+– Member Since: avril 2019
+– Next Billing: 2026-06-21
+– Payment: ORANGE_V2
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 로레인
+– User GUID: LNY34HBWM5ATDIBV3ZZWH3EIHA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1783113360	nfvdid	BQFmAAEBECaADwozinXUMHdEmWhRxFFgMCwrLQyqoT_s2wZf8tJWgq-nPPoC-PLRaIK9fGxCjgGTq8CmlQSd2v-XbkZm2X4j8XKrPEmDvjAgG7mUwHDY5ulVihwfvBDpkz5U2hSG70iH2wslipCMJwo70YqAFOaO
+.netflix.com	FALSE	/	TRUE	1809280440	NetflixId	ct%3DBgjHlOvcAxLrAz4MVXudot36QNkmvf1r-CbODFdnJs-kk47Ln7sW7p7YobMoA-6gDjJ0UvwDupmWPB7grQ4A3KjMKjSqPBkC2WpR0jYcSFK5G2s-EQH6XS4HenpT0exqH0nkrOdiINEXpFQ3B59VqQjn3ki2ZHbtuq0ECIjL1PV5VzPivLM51H3kb-8iZOWwtBuFA8rBOt6VAh39B8vi8rpCud6OYCtkN-RKJiGi4kY2x5FlsZcToIt12y4wN29gAfbiOuWuZXFMPLeZOBc-5fX6aOEYCgjCzLupQ2zjUBLSnDyQ69ZroJLw_SxA1Xo3RzmMBuSHvfyl6vZO5uno5_UO-ndTC7FdXy0g4UPrJjQpEo7YhJccV3oZLp_uzc8BsZB6drSmiOk5AOxRAaugoe2DedKFpTBb1SD7f1gVnT_GiO9dGPa6fEdFHsMI_armr-3aCmJZvxZYRVlwomhZe9_B2vxnmmsO9-Sm9rVerVLk6hG9bU-5vi8_cxHJweYDkya_f0d_Vz3s41cgD4dmzkl58JrmEmmYucsu1Pnmkz-p47-L4lDCMxQNYWLnZ5Cq1U4w_fp7t5KPiUhlfyoC0kLtFYPaLHFG6hDgiNZ4IYfsWMNw_A9DOGhE857LUgLZ4ixiUvOuRzHFl4OHBPMPAgADeT-eGAYiDgoMWenMIC9uSY9ZnC-y%26ch%3DAQEAEAABABSuIi2ia344v3V6ioEaK57g77GWMs6ILfQ.%26v%3D3%26pg%3DLNY34HBWM5ATDIBV3ZZWH3EIHA
+.netflix.com	FALSE	/	FALSE	1809280441	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+19%3A54%3A01+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=2d842720-d31b-433c-91a5-f24638a23a15&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=2&geolocation=FR%3BNAQ&prevHadToken=0&isDntEnabled=0

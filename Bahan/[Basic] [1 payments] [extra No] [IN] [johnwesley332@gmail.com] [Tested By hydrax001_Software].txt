@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: johnwesley332
+– Email: johnwesley332@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: August 2025
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +919848887324
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: johnwesley332
+– User GUID: VC2WVIKVX5BNJDCS4SB2TYKXH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797927710	nfvdid	BQFmAAEBEDjkJs2Iv174DZXuwsnSyVVgtmAaRxofGPyYa96sx3-gdMT3R1D9I5HuuDw68uFB2YbGb0MJiwrosyheuiz_3kklnGd1qjN9L059B6tk0Oi684xukFyHKdEHupyO-YD_wXyo8XMkbpk8PkSZZm_iIDOt
+.netflix.com	TRUE	/	TRUE	1809498285	NetflixId	ct%3DBgjHlOvcAxK3A9-TCauvJqYpIVMRgWcfYDaXLg2GoBSO0MZcKtfvd2vrxwhORej7EiKDV8VpR44f5s30332UbllO6mxN8R941mlH1w_NI9R7Wysag0cp2ErinC5v81-cD1s6c3d1KsMnR8Q-oBcuA_UGwe5uYYQy1FMm8TielBF3tbrpvSS5nMJLEGZNA6py2t4Up0aVGXXVGULtyu29oYPOIcoHLP-5yDBYLwPwohiP21vbwYiqJppl1F5rs8ag61UaAhQh7piAJ7WqUbbz5aVcfZaIzLYP6TbD3M6n4XP3ZBSgeWV-CrV6q4zcKthID81fds0BdaiEYCPSyOx44ffik41G0wSofa5QI_xsIUZKuZWxU7CTqqTwQKKi_vSfHc4FAvQ_Ap87YOvI7Wwj8NTQ_P393zNaYXY0K06Re7Hb1K28ZHaoo7JQfbOPOpgE7xZ67q9XK8oen0Tr3JbTqgI8gxVVOwSZx-hXyxxv4Vl-_6ijdliNVK-2uuFK0QPDnHWYhEE219XvaHKYAz-vjDrvIBw3A4DkWuPYYszUjN8mBdt4K9hjw8jGo7E4sA9fBPeXDAzRLUYBubVNjKyhbFUYBiIOCgwugDIV38t7PCyCl-E.%26ch%3DAQEAEAABABRYSOUfUZrgec6JyebcLF2aN5jKw85R2_k.%26v%3D3%26pg%3DVC2WVIKVX5BNJDCS4SB2TYKXH4
+.netflix.com	TRUE	/	TRUE	1809498285	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjtDyYiO8gTcTevLDB5l2vSrO-o3agKy4.%26dt%3D1777962286396
+.netflix.com	TRUE	/	FALSE	1809523422	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+18%3A53%3A42+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d8c6457-7906-4d97-8e1c-0c8f36228d84&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

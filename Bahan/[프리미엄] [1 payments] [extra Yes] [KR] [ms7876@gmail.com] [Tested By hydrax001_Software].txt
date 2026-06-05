@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 시기
+– Email: ms7876@gmail.com
+– Country: KR
+– Plan: 프리미엄
+– Member Since: 2020년 12월
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1045
+– Phone: +821099267678
+– Quality: UHD
+– Streams: 4
+– Price: 17,000원
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 시기
+– User GUID: GD2MAZUICVHXZA56TAXHPKPCEY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795224113	NetflixId	ct%3DBgjHlOvcAxLWA3VhXZW9WT-IU3HhVPVVezYEEPLqxg_q2JlgO-_YhqLhGLNkvxrhYQG4iiOKEx3DMH7PpKs7eegsrhxMF1KV0GB37E5yNTyhwsx3K8NdoTD_aXhplJ5NFfF6njaci4WWjHvlvUrPaAk9xvduPiGGMwkfxgaGepywFwxUwvq4MM6l5sTUZsTHm0UQDfXxtwfgRPiMB8g5PArFyGAxlLxSG2AbcHWcRM6h92tUxH5_SDED_0tzTo99ygriOLgCUyX0HT1XUjr3Cbv_0FLLdzueVrKSMz-v6Q6CmL-MtnUzNxlb_disuJouU1jTEsRG03Ga3W9p4VnQjRiXGbmqNoFPZ_5iJOgsG6CIMD9GqYIqY8mC3eL1Iseg-PrGnpoTK-mNFZ4XRJX0MFApHM-0Rf5mFwxkmst6H2JRaFo_6UpABpq8kd1BPS3eG46PqJPh-8G3G_CxXbjGKLeH74-2knSKKhqLQIbBvmGBsSXx6IWKaBlOiG2nwfwQUVFaCwn78H42VhOk1wv8d3HxHA6VNCUCrqurGh9rmbM12I5xmk8EoZhfMVLqG8z43K7lTUouu7KJBB_rBAC_xUczw5XSxqN5i2hGwiTV3A8Jv0zTWnLf7XTHgUwHdS4FGAYiDgoMykZ9JWzTgdcJ6odw%26ch%3DAQEAEAABABRPSKTMjxgQar0WvoUP_D5aSfRC-djkxBA.%26v%3D3%26pg%3DGD2MAZUICVHXZA56TAXHPKPCEY
+.netflix.com	TRUE	/	FALSE	1795224115	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+21+2025+10%3A21%3A55+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=43bf9df0-662a-4b2d-8cc2-0cc5d3958def&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1795224113	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQi0meMg9fsbvKub8DllD_N3QsR0umM0M.%26dt%3D1763688110439
+.netflix.com	TRUE	/	FALSE	1795224113	nfvdid	BQFmAAEBEI4OwisitsCwNSk96pp2-zNgR01ZqSgyUypxdC2Nx4FtrKhbj2TWbxAnZz2AW34ZHrKq8V7vrcl7UlCyXjIWMWMtFqFK-vnXurCFqPCtRSstIBMX8WXaC8mmjfM-YBLOp8afuHWVpUyVG4s5U0G2ZnuT

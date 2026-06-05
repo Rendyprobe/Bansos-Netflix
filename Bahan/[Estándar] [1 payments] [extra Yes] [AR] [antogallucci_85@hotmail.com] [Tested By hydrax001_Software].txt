@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anto
+– Email: antogallucci_85@hotmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: abril de 2017
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 3499
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anto
+– User GUID: 2OCG2ISS5VEGJM6MSIB3OM5OLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797325721	nfvdid	BQFmAAEBEDnpRxqFvS2y4a8HXinPC-1ghikm3Tk6Hqe2jnK9Dr6RyigN0gVDt0Mvp3fNYgijj4q934KLJJciRPfbtnDRoBgblEctaHP1wsgTmfPpTgf0JapfIRg1RR3sq3Imu0Bk30S5cov5wOj4EJOB5rgdmmH4
+.netflix.com	TRUE	/	TRUE	1799832781	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2Ag9q3O-uH_NqCADC3IsNDrFXuw1zBIvA1b2YtywTL4GgLfXfuTaLlMN0oeRMPrrXgSIUQYjj9RhIyxZ0rkLmZnNk6SCkwlZFKgY1wRP_xgWRyOvQpqndj2mcBKXjuwVhhBeSI4MPdlDqZAPa-lLUEmDULSwSQqMs8OE1YHPZ65GU3wo4Ii8pqaBGmF2r4vqRlepiXMgAozQxPFWCdjr36I_nqvGu8ECusvorlnRhIlgZAwe62leYr-wEaFzOhwLXt6vo1dZXwU4E8avXVEErW7N26cqi6racC4aqk-lkq0fh4ZjiE9BO91cGr2MUjoiYS0CCtL_qG13JL-mUW1WSwNTZ56Cwd19vnD5r_P3GWdP_wUmxZoesR9halTarONLpwrFtHbg0pIAYx7F2EBEtTH--4dS57Ms9nnlgVJYqDsIakr3Mot6DFwINCFILh0jaKhEtuf1Gzz44noSW-B4UddmPuMkdoQXYJQL1iVsNLwsAsVEyMGn9GAYiDgoM9enZ61ELmWcs_vc8%26pg%3D2OCG2ISS5VEGJM6MSIB3OM5OLE%26ch%3DAQEAEAABABQkQOFuZZPF619j4QObKWgAx_hJwLqv9Dg.
+.netflix.com	TRUE	/	FALSE	1799832781	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+20%3A33%3A01+GMT%2B1100+(hora+de+verano+de+Australia+oriental)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ce58cb5-e658-4e30-b1e8-ababd1a492d0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799832781	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSytbgOmA37MoUS7Z3cURSroic1ZvTqSAk.%26dt%3D1768296781113

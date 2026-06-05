@@ -23,12 +23,5 @@ VERSION: V2.0.1
 – User GUID: QDKJFZOSOFE3HF3SHHB2DP2WKE
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAeB+VOvM6OIfSvNKQLCWjMIBX6S9CcbaMCnO5xbfetueV0dEI4XKVsrAxbxlFOssCePARAKwINlCEhko8r7GEeKlPtVY8ZaaOctvQ2HSXS+1GdC8Y0wPlEE9YfWpBDZ5+UlcfwtK3/EwK1TqMV1ylP+OWhf6Be8DJA9d5j3rXC/tQJbHpesxhXB5vJqSAJ/oi/ucaxx1y4sURJXaPW5DZA3pyafrN8hUx5V4024s7eJHKaVuq0+xPvtl6g2hndVQWjewGAYiDgoMCjdoDP/fliB3flZk
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAeB+VOvM6OIfSvNKQLCWjMIBX6S9CcbaMCnO5xbfetueV0dEI4XKVsrAxbxlFOssCePARAKwINlCEhko8r7GEeKlPtVY8ZaaOctvQ2HSXS+1GdC8Y0wPlEE9YfWpBDZ5+UlcfwtK3/EwK1TqMV1ylP+OWhf6Be8DJA9d5j3rXC/tQJbHpesxhXB5vJqSAJ/oi/ucaxx1y4sURJXaPW5DZA3pyafrN8hUx5V4024s7eJHKaVuq0+xPvtl6g2hndVQWjewGAYiDgoMCjdoDP/fliB3flZk
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAeB+VOvM6OIfSvNKQLCWjMIBX6S9CcbaMCnO5xbfetueV0dEI4XKVsrAxbxlFOssCePARAKwINlCEhko8r7GEeKlPtVY8ZaaOctvQ2HSXS+1GdC8Y0wPlEE9YfWpBDZ5+UlcfwtK3/EwK1TqMV1ylP+OWhf6Be8DJA9d5j3rXC/tQJbHpesxhXB5vJqSAJ/oi/ucaxx1y4sURJXaPW5DZA3pyafrN8hUx5V4024s7eJHKaVuq0+xPvtl6g2hndVQWjewGAYiDgoMCjdoDP/fliB3flZk
-– Token Expiry: 2026-06-04 09:23:07
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1782543665	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AhGhvgjby0heEkpN_qdsXq-_UsuxQKCL-qdx8zVbqdebyQb5I8XUsJO5WfSzFVXOBucK_cdm-crHA6ZD0xQ5vJnQTeHaRzwPblFxhOJl9DnBOveWz972B3DMDLn2L2VgT5ZDDdGBDkcUwPqm-JDD0R42OJnCiO1VjDWmwSPIFLuT1hLFk4gwC3Y09CHrnQPFFHDQ1zlpNtMe-eEmTYqq_Eqf6ZIAqCZbV68DjAs8dv8gaGPQSQ-L0XZxtZ5V-K5csW67-glKP6z4stCNdC9Cv0ghkZtsM7QSbizyZDk0IGgMGiZ2f56mWwOJcE3Yc3X8m-UR0Fp8aBBsB3n8XXCD_R6ce3QUvEkwhiKGpFVsoWo6TkLNOATboC60kgHgz76Ogg7BlMkPvMCoJ28iw4xcGf7RQi32vRpGJBqgkXd3PScA6kleV9qXf_bYnlo6t48B8zJtLoazyasMtH0yCzBlgWDLO2bjj7HTa1AHx9D9tafaUwDqERYeGAYiDgoMw6eMo1DRLVoFBUXp%26pg%3DQDKJFZOSOFE3HF3SHHB2DP2WKE%26ch%3DAQEAEAABABQ4Lu56dzgHs4i1YMQCaaBACVfT1PN1ZpE.

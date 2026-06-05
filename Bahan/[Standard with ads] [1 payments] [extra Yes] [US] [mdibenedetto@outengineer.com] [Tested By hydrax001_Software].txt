@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mdibenedetto
+– Email: mdibenedetto@outengineer.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: July 2025
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: N/A
+– Phone: +16313388645
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mdibenedetto
+– User GUID: O7EZ6M7GGNA63DUO2UAXT2AXYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794273602	nfvdid	BQFmAAEBEA5AnyxWrRdSsnXF0--9q6RgLYuvsB5FWmbZBSmA4NXKVKEf3vnR-MPrtuKZmScqpeWZW0Yxp9gP0PlB-SINdgZlGt3wszhdzpuBFFSlXazjmXImVVAY-q8PPxt1_yO6QlczcsAF5SJDAaYbFr-MeWzJ
+.netflix.com	TRUE	/	TRUE	1807994253	NetflixId	ct%3DBgjHlOvcAxKGBOSJOVzjBogi8kdb69aPHZ0JDJtui6CPsHe1ZtUeIEYGXV4qowkDguJoz9tyMO25MJyXChmhHUTeGYmOF6sfdcwamCILjfGT0h5hFy2MPnQiJ8enbtd51bCd2XvyqhVHAr34B7_KLF6Lnx9niCVwp3YnGgJ4lhUf7wistxQeykP5Z5NigpuEqEmMxPDWdMthQs74uoqFMBwBqTD7Sys458i1vy-tDqgIX6tzL0VA605ms6btwKHSFdQi-R0YouK4eHKhIY-NvKoJrTneSK4diQhHF1d9lJmb1W9v9fcA5A5qgwK9-EPBIfULvQDZ6ET1sCtQ0mvVZ21bjRzAX7BqiZFhk4kUoz17u5RfJM7rZHJ2bZh9-Mioc9k3Llch87uA13S8bX2RfQ0baCGMefoU3WK0lYTt_OorMyDiX_a43Fb4bedIHNUjmeu3RRKOefuV3qIOiTrAN3IvUzsPCdACJFI-BI3sZVAwhE6o9JeXME4IuGWPjpWMK6qMlrKdS9xzYOjiaYE7CwVYjJviw6ySbDUq7aSZPGeVGGY_eZ2giv5gQ4guYe8eGeGEwvYDCD-_aEqX955-oqvIOzMJHaGEVMMHBtRvglwb7H-qBJft9o3ac68fGhf64rEPJ3TSsl8fQsJYeef7cc1bFvmz6tHrXnhn_OsWv-dW15L20nGNdqGxVXv0oleRGAYiDgoM09QkbtmoRDtDVh_s%26ch%3DAQEAEAABABTuqlxY536g9jyaJ6TZSK4lqBx-_P1u_p4.%26v%3D3%26pg%3DO7EZ6M7GGNA63DUO2UAXT2AXYE
+.netflix.com	TRUE	/	FALSE	1807994254	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+16%3A37%3A34+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f20fee36-443a-4922-a3c2-3420b498687f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769437386753&geolocation=CA%3BQC&prevHadToken=0

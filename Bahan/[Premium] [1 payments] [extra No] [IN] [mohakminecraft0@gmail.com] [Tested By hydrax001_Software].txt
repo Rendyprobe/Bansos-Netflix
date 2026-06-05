@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Akhilesh
+– Email: mohakminecraft0@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: July 2023
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 0000
+– Phone: +917974751010
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Akhilesh
+– User GUID: 5SDUYZKCYFGSZMTH2PVQICF6BQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1786722965	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLuAlcFizs4ZO-Vgf5TNjZsyyNeZsdewyJoxqbJ9jx11LILKBYIa77LYvaImregbY_8Xv83P3U9oqywGmV2E8_K7vXDWAjzs1RYQKVgeCrpfjlqynWxKeGFOs4dV1i21X93V64RnVVbPygVEiiRDj2eyoBHNEwT51f6rNK3PtayE2N2WD7ioh2Xjpzn2qmdT64kTzz2PesYwWldealI4b2lZCZRcNcL3Xoij7ZA3IoVg7k3yeRqWJLGsBXmGBLmkB1Vvm1cbNls-Gh5SIJejUaxwCMjZCQhmO1tuR8Yk4i5rciyhYumcCKfdumRrPjv-HJBjVYb9_-5ewMcRh7pjKKkHdvPIJIZMP3sA3bAAAbQfq4WlF0uMMBXguDfOeQNFB47NQcnxYe3oqzaToMF8hp6mm7bPpamDAlGKpIXCnjhoc2Q4lg-uMaTGhosKjng5-LJeY9QouOf6lyPlbhNXlURIivcVcElh3i1x3I8rJ7f7xgGIg4KDCMUKbG5KdZJUPKCbg..%26pg%3D5SDUYZKCYFGSZMTH2PVQICF6BQ%26ch%3DAQEAEAABABQ2xgzbFbSNv9ECq-4Zcfwh0N_YDXG86OY.
+.netflix.com	TRUE	/	TRUE	1786722965	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9gyG4LVJYZFMNfFh7bSS7-H1fIyTzhSY.%26dt%3D1755186965606
+.netflix.com	TRUE	/	FALSE	1786722967	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+14+2025+21%3A26%3A07+GMT%2B0530+(India+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9cac5f4b-0335-4792-9618-e1edac893714&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

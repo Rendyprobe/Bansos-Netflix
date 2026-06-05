@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Screen 1 [Banned you if you set any pin]
+– Email: cwrtravel1102@gmail.com
+– Country: BD
+– Plan: Premium
+– Member Since: January 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 1626
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Screen 1 [Banned you if you set any pin]
+– User GUID: CIDUAQXITJCF5G2YSAI2MR3SRQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799438268	nfvdid	BQFmAAEBEI54wjy8upUhNheKUomr8jRgOAA8TzQCcNaLddjeaDSit-Az0zSGcFubFc4MYMRX2MLN3hdyAmZIj651Thr_wLpnG3d1DBpc-GSPBPHQ5WBhiYGxF6wq0bPpZ0JByHyuX0FWRKYX3zI6_bI5hvZgmu2B
+.netflix.com	TRUE	/	TRUE	1802096306	NetflixId	ct%3DBgjHlOvcAxKOBKlxgTDfCt6DcvYvx3g0YMmu1o8ZWlQdyKDxLoggORr1Arlwj97YYVw-95ANFK3avuIs_I_wTOxBHeuuexqm6mi7Ui4RDiOLpnqWRg7Xrih1h9PLo-9tOshudmwnqc4vuJbchJsrBqZbdAJSVicp-npyfmPaE7mb7wIiNQHIR_LCN9P416pa4dchUv3icTbhqtjmxBQRZBfhr0RuC2WSNr6ndvDjxWYuVnNnNtelXlzgByMqwq_iZm5vGiPneSFmV1NwAPDkPsCwcW9Aiu9pBk8h6WWGqYcDfMMBhnwRvH5PIb5InJ6YRu2JPfY9uzbsZHr9JEkscn9sghp4ANq2v1X06VTjHAUE6N6Rf0BxblI1Pk3PXbs8oK2owfHswXk_Kp0ohGG-q7v8Ct-W782xMZwe0XGLoWP3w1SAUwhe_YKDg1pXAXfkWCB0wRCbJafPf3Lv5Ejar2t_PAFBNp8wczy95k1_Uy--S8pYAzrz1XXd_BvjoGh6rXb74L02atzoABOQ838drEg3z4Wppf5KY_Itr7eHdbpqeNlFzpvQ7vH1i5YP5IvVHIb0RC4Vrc5iP5E1DzwtOmOlmf_WCz-xaknB5i6vonMVEOwjUWWyXbhcp3nAxr1iCcIdFp3LxTwP6fVYAuC-JLuZmOZHF9XZ41GBODy1le4RDa9VahQwq04BLc3_qjVewhF_dyx686AYBiIOCgxthXfkf1vE5TPqAC4.%26ch%3DAQEAEAABABQxI8tugn003mvrmjmP-rqjrSlyodr3XZE.%26v%3D3%26pg%3DCIDUAQXITJCF5G2YSAI2MR3SRQ
+.netflix.com	TRUE	/	TRUE	1802096306	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQXe73Oa0OgoLZFRqPY5VY0YrSto2ChTJ0.%26dt%3D1770560305516
+.netflix.com	TRUE	/	FALSE	1802099818	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+21%3A16%3A58+GMT%2B0600+(Bangladesh+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c82ea35d-8a49-4769-af5e-a55ff3975dac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

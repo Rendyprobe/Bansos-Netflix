@@ -23,13 +23,6 @@ VERSION: V2.0.1
 – User GUID: PARBBLJTHFAOHP2XKJ6QLWER4M
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAWFdO+WlhC4OkhrVgPSVnxxcPDVCAyy9p8oAtpy4L8p4Zb83ssV3tMM/N0k3+juPZUfZxVU0W4dYQkkEJpvytobUb5DeSihmG+4gSve4B7qt6Kghx8xPWh/1MkUe0HZswIC0A0ZPIx7YmAv0ioRSbddZfXF0zzF6Em92R4Vo/9cM7/RRCUUnLtmXCQLxIGrA0ayyx+Ekaqmqp2T13BpvA4yJT7bmQe2Qiqnc/IQseVO2McIANKimwKJWo1K9KCpM/wVoGAYiDgoMsU+ewuC91TuB7gV0
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAWFdO+WlhC4OkhrVgPSVnxxcPDVCAyy9p8oAtpy4L8p4Zb83ssV3tMM/N0k3+juPZUfZxVU0W4dYQkkEJpvytobUb5DeSihmG+4gSve4B7qt6Kghx8xPWh/1MkUe0HZswIC0A0ZPIx7YmAv0ioRSbddZfXF0zzF6Em92R4Vo/9cM7/RRCUUnLtmXCQLxIGrA0ayyx+Ekaqmqp2T13BpvA4yJT7bmQe2Qiqnc/IQseVO2McIANKimwKJWo1K9KCpM/wVoGAYiDgoMsU+ewuC91TuB7gV0
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAWFdO+WlhC4OkhrVgPSVnxxcPDVCAyy9p8oAtpy4L8p4Zb83ssV3tMM/N0k3+juPZUfZxVU0W4dYQkkEJpvytobUb5DeSihmG+4gSve4B7qt6Kghx8xPWh/1MkUe0HZswIC0A0ZPIx7YmAv0ioRSbddZfXF0zzF6Em92R4Vo/9cM7/RRCUUnLtmXCQLxIGrA0ayyx+Ekaqmqp2T13BpvA4yJT7bmQe2Qiqnc/IQseVO2McIANKimwKJWo1K9KCpM/wVoGAYiDgoMsU+ewuC91TuB7gV0
-– Token Expiry: 2026-06-04 09:15:34
-════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1782012929	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBAwkjRDUL-YPIhARPnR9of8AOnP5YXOaDWh37ELj6Qei2pGL-05MUwl7QgvttKdlwoqaAJkHvgAd3eN6nAeVPEpVPfUPOXt62AdqIkn9insfJeOnqVlQrkxkJMby6QXlmVnxxpSXvNJZ4_kvn-b5-HEX1vXw94sbfSoUCFIZQr2hDm7bH9E83A4KdldDFM6sKfYtmQKS6AZOxjh654PU0ei1XmwGRt2pASul29vq3FkQp6oYFwvaSb_UFvoUpQROVCuO3CLB9db3YQfo6A0Us2UH3pZTqvvK6iJulaGjWLe9p6VV6egBbNcJLBW4_koK8FbXL3fO99OtlKU01ldko9eyTjuQDE9T8z_ItqIBp59b0fe-YzXJhSF4YP6pMmW6SfYgsU8LPGExqe4VnPaOpG_OyMG3cG8dPKiXvUNYGhxB8ODIlOC9N-JJqKWBqOQmUiobLvcdr4uVUAvsfwHlIOb_cGOgj-KTBPAy7IHZ16_GMxKKIIpgfbLqnN7O9eQvEinEYBiIOCgx2KXZ1PRBE4vNRUJA.%26pg%3DPARBBLJTHFAOHP2XKJ6QLWER4M%26ch%3DAQEAEAABABRynkT6KFBoCKyy6BaFvH1C6ZAFwtyf9pQ.
 .netflix.com	TRUE	/	FALSE	1782012930	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+21+2025+00%3A35%3A30+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e30b4d00-bcc8-476c-b417-a68ef1f6eae7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

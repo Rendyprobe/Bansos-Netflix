@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Robert
+– Email: rlarsen11776@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: August 2024
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8325
+– Phone: +16319844054
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Robert
+– User GUID: 27IJRG7ZPZCPTOZLBB77VSS5AU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810260768	nfvdid	BQFmAAEBEO9h_v5JHYdWi5zlxbhkkXhgLjUV_vAcf2r1AlS1BPw4MqaEz3JO8BnYFpP_CrSYqBGx9SOR8MHEODIOW4kg-YJ6GtKf5Zz7AlcR_1S9jy-Y7Risb33pJ0m2JNrUeB_dVABNI5A78nuAoFer3dwYpV8O
+.netflix.com	TRUE	/	TRUE	1810432909	NetflixId	ct%3DBgjHlOvcAxLXAydyku-QXhZUXq41VtMublAafPTxRhHV8_ysuuFc2xoml9dzdGMpEfi-tRHHCVu9bMnT3cdwQtnT1Cs695Cuzn-1Q46GZ-yroFkzumdTtyi3K9GgbJhquFGRP_ihE3WIrpIg2Aqlx-0cVlwzUh7kKJ5xa7mOnwXTXqqXX_Z1mLLxfnKtzIJ2adquavE760edvYwRGAheKzwPo6FsTTPVAhU3917D1EmOocqUUQdHLKcXJ08zta8rQxp7rY5VOzjjhakQJRfmAAGG0kRdT5-cjdt33tnaKtmwwqoDu8qWlbW9u5Pv1SJzpXpMfwuHSW6MBy7SFmrMXrHY9WY3t8Z0IuWB37228HLl4EgzDS05A5W-_meLyUwSsWxY4FH9Lx8zpepsIjwCuYUzi3nfJe1edRi3L96p2bjxzG-LkuMyceCKxm3ym5CBX_PRcTOKaRsoMIh87GeucM0yvj2O-IUZKz_rgNJ5oaZUS3x4_WbkuMffWwJlQdvLL9AzueU4JuPwA9kp2zEpFSsnVoatwRl5RisyfzhE3OrWZFirUsArRP__jiFtCYJAUQUZ9VFDksjWjnpCR5DMJ3tXMAMgqTEZzfog4TLxHcesS0u0TsuqpzTh316sQVODdxgGIg4KDMh9rjnw8Wy6vxc7XQ..%26ch%3DAQEAEAABABQ5Gm9_xaaTG1cyD2ZTgFqp2mBLs_w8W_g.%26v%3D3%26pg%3D27IJRG7ZPZCPTOZLBB77VSS5AU
+.netflix.com	TRUE	/	FALSE	1810432908	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+20%3A01%3A48+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e5eec18-8f68-4e9e-b2c3-a6c8bb20cf73&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774582371012&AwaitingReconsent=false&isDntEnabled=0

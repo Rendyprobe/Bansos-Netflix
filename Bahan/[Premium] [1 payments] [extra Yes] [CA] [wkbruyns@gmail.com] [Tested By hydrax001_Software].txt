@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: emma
+– Email: wkbruyns@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: November 2016
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0215
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Weiny
+– User GUID: CRYQUGEJY5CXJJNI3GY6FKU264
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783055283	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AhkENrwhJMUBmXEzuLQK2cTzFH-SAP_cNXwFFprp6uIA6XtleNNqE4n5JrpCLhfaxtoliLIIyhgdKwNTUYsGrJ9Dn_EoPu9LybNYC-nDapg3NeMK_MCJBDquKEsCLP3jBk1etw9Ztm6lU8pPfp4li6YNvJ9RodU1bJCGddK52L8zB_pjh7HdeX8jO2_aSyME2R3PtEyyNRBGu9Ey_ZKdDMewSfOSPZfbNHyyS9OR5LnCqsWR39NyGdqieHugkXtNOfsMl57BwRj-sSxYfpjXkpD184UoguGqFFJvteOkzSItmrJjTHF95Z6XuD4_lXnQXeuplFNjAz8GsEp2CWnBq2aFZayS-PEO_0LlF2ZPuJf3sszkfUriUWueLpa54Yt1RPjwT96GuhzExED9Saso4tRacSgF7KzHCkLKAGABBf3EiXue2M4GduK9GelmOQmXk9bplhrwyLDvDomg4h4nkY18hiEd5QrvwxlNIo1hiNerMuP5Q7-GGAYiDgoMHx2g2j6biJImbKo1%26pg%3DCRYQUGEJY5CXJJNI3GY6FKU264%26ch%3DAQEAEAABABTOmot2feSkRSqMQa9V7lMshoOgCV25wvg.
+.netflix.com	TRUE	/	FALSE	1783055285	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+03+2025+01%3A08%3A05+GMT-0400+(Eastern+Daylight+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a0be058d-8ed4-4c0b-93b3-aa2d90e1c5c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON
+.netflix.com	TRUE	/	TRUE	1783055283	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJN_B2Qhqn9reQpMr7O4BZ4q0fuCBo3AA.%26dt%3D1751519282885
+.netflix.com	TRUE	/	FALSE	1783055274	nfvdid	BQFmAAEBEPC_OZijm411TR-_cbVTDlBg7hV_gw-sd5zKe4t_DDL5rvGg03Q-JBIUcE-qJsztp7v1d0mCjUh7oi9GxX8hDMyMPzBCyFV24HNEyJVZ_aQRXq0hL5ghV5UlVp83P5YIIhP-ENl95e60oaUE-2XbXfyY

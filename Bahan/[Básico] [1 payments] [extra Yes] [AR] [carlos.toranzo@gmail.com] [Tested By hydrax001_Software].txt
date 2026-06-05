@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brian
+– Email: carlos.toranzo@gmail.com
+– Country: AR
+– Plan: Básico
+– Member Since: septiembre de 2016
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 9820
+– Phone: +541158829255
+– Quality: HD720p
+– Streams: 1
+– Price: $ 8.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Todos
+– User GUID: ITWBUSCV4NBMHIQNZDZXTCJESI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791480189	nfvdid	BQFmAAEBEBs7lbEC5fA6z7eGEWh3R99gOj5eMbDEQI8kBJWIz9ELHEXafjX9lStMHSXsG5dwf5DNnxVr1ggcxqm0rauPKXJRgpiq4rHdW8AbaNX8RWeo_SzR3GhcpAglMHT5TIGZEBtB3S8Vz4wkPlsvqIu7Rz1N
+.netflix.com	TRUE	/	TRUE	1800582929	NetflixId	ct%3DBgjHlOvcAxLmA2bPV0SDLcudZ5K4NCvNdcAjVG_6WNuvDHwGqef-EIhqYfrrQKRVsS1bTg8IWFf7uKoWLzXsDyC_ipOITapFb7aSKa-_Z4sZP7-KCqGRpxqEVItftwq9CgKkCmiJ1kRd8-69TPTswfIyayIsDgclds2Wg-V9mbNqei5qrQUFTtdHDUJPh-bgp4jCBdduj3UUwhSjWFg59gMY60LgNh0rWDLEVUpBSnC-RKMymd9uxbLXokiokjzl5GIFWm3TSmTvZFLpgHk1G4gW-BZuD1N6uLNm9ebJH-07dtS5MIFuLjzh6RfLe7hP2l5ZCkDTX3zKko-GkGf2wK2ql_hejTyrildyXdzptCGAIkhU17fCepFWnFJ1lsyI7EDRwl5bbAnqKQUrkHTuff4-xP8FVAHwiUqJCNnxlgNn5ykIOmPD_ATg3DBDV2TcQBFQnNr7MxOHeV4BsY7fb8u-BKjnmaioSKQ2RPJlWfOTBgOo118oJPBihRaBpk_51WSEiaSyivzICfE0SgyfXQuDwYYv7ZLq1SZM7HdFsobzJDap0zocfccsO1wLLPpkJfnckt_FoMCHQ7pnMhXSrPYLJX2iL_diS1o_4vPENBCAF830rZcnGlP_hrxiDNNyEwKtwe1Dt5CeeDCOTIikfRgGIg4KDLlU6p2VapBFa8D-jA..%26ch%3DAQEAEAABABSg722D4givUHpLC3d3219cynPoNxtWPKs.%26v%3D3%26pg%3DITWBUSCV4NBMHIQNZDZXTCJESI
+.netflix.com	TRUE	/	FALSE	1800582931	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+22%3A55%3A31+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ba10097d-3103-4572-9ca7-700614d1050d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

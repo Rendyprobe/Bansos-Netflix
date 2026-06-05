@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Georgi
+– Email: noranova83@gmail.com
+– Country: BG
+– Plan: Standard
+– Member Since: March 2025
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 2478
+– Phone: +359897631384
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Georgi
+– User GUID: CKA3UDEXCBHOVCZHLCM7AREW6E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792324636	nfvdid	BQFmAAEBECy-b0fp-65xB2p_BkyyLlVgACFErdDV1Idz2NRqwG4SSQCuEuRn7BrRL7X6QVAKlB5hKKP1CiX_K9-gzzJRkWOHvJehav_ij0JHfPaZ2HNYnly9EAnpJtt8KuUMvZYMVbMcC4PD3247AFE_20t9m3SK
+.netflix.com	TRUE	/	TRUE	1807577659	NetflixId	ct%3DBgjHlOvcAxL_A3bKiB1d07fALO59fNYgRq-BeF37GPilD6HmNuuzaS2ZOhY1_ZVLsEsXP6Rw5nTaDqjL9br58j6RuaLTMD_bbMy7sJnJM9LDs7uM35wfGj-ExvlWLEPM53xvKwx-rBik4gaIii8ng0aR_Hq0RgD_XeRiTEuegOZW2DLua4kFaWJhWMECbIPIx1RmlhWPZ0AnXjL7O9OPHWoLEmv3GC4MQNKDdiV2vluZtR296IlZoviv4XATKPTjJrXaZjbVNxfQbFFaCS6ZcMJ14tsDf8bGii0FWsOeQp5v9TDy_lZ0dcc5OeUF8Y6Km4ABwnGq1XTApM9sYxOFmD3Iw--qw1auROczlkPxQRAtPcZ7HDLccYGNiHFSQtjYLm-erN6JBex6Rgufp6VW8mw0xTwk-I45kLTOjgHfD9EjmMexPjzmGsvI_JQ-hJ9j2ZoJe9lqNj_F9dcBk0Nf0zFe0JuHeyHEMtZ8D-MVghpoZAvoC8n5Ck0jngMtvrW2ZTlfk7Emd40M9nGYFX_9FZpq4ZRSuEa1Xq-96u1EYn_h6tUkeOQ9HOWLlefBQjpYXTk4fwupQj-bgB38JLlFcHUnP0oPFIF4BHn8mfzTTHSo7oPGpw8FW3zxheLhTtXlVAUMA3uTnHjUul7jXjaDRQ5XiFg0D3GJDX7Y6KxkczKGz39Hc-D_-8AYBiIOCgxRtQ3w4CNByW2YJOA.%26ch%3DAQEAEAABABRR-DtcvTFXIXsLMRUVSXsyqac_-e_NH2M.%26v%3D3%26pg%3DCKA3UDEXCBHOVCZHLCM7AREW6E
+.netflix.com	TRUE	/	FALSE	1807577986	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+03%3A59%3A46+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=82bab190-1ed9-4e6c-8385-83ae1e6922bc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BG%3B03&AwaitingReconsent=false&prevHadToken=0

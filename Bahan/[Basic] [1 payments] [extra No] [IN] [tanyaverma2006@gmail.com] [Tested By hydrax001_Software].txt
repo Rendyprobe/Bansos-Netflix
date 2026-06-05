@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jahnavi
+– Email: tanyaverma2006@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2024
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: +918767013553
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: tanyaverma2006
+– User GUID: 5KXGYEGBGRE5RGOEABHSTW7224
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793861426	nfvdid	BQFmAAEBELAlboBUWMB6AQavrDgCxPZgYkiFTLdllhCig7QkvtJdSiBZG2k6vbDl0eA8P-UbKxt46sM-PjU2hPPw7os7gki7DEeX9-3r8IoaNjdklFcGa3t7JAuB9310810MHfhFz3eBxPfEPp69_LnG9Otf8EwC
+.netflix.com	TRUE	/	TRUE	1805271531	NetflixId	ct%3DBgjHlOvcAxKBBJlekofCmZP01gYzHTgqO2FsAyQuCktSppjLVl0Hhjp2td3IFzDwQ20_lWlUOl00RFgOdjyU3m-YnRFUCrF8bdsS04moxjlBphvMbXH6aj8cwsm2dgfQ6rdickJQP84NvDK2H5xQdQNirbkMxx3muhNnTTigZHqasfyBe6BE9SnS5CgnHBESZ-AKy_p9oTYd4mIQ4HAT1a2TDshbSqRMYn3p_cydxJeejbWiAgRljiJ4DDf0HZZTcbVk7txZLe9Ufs2RqC9Bg455cttbRf0YWPMjk55cnN7oAWvbTD7ImQ1I4Mw5n8CtaMAID1RMb6x8YManqQa8JnMh7cIuEvI-SiVutgzYS655dm1gd2oVmgChw0rKd0EHYn55nfEegST10xyFarPxXCrhHyd4HCGx892lB2FlzGCrZxsOzFclcoalwWxVgkr_h9dxyPqGk0F7imKIeh_vAXMx7VH3D4-cFO92VtfSNXW2QXhGf0JYaJ3OgSE2MS5707I71csSnwFmI9QKvPTACggNgeeNyhSGa4RYnAxf6OhAkIUUA50lq-RDV1Rs6qa3uT8fs-R5RYFyL3hsLhashAuHZBdqZUeAP1EjeHcqTNLqtD4oXvnQZdIV17e68SSbujZd71P9b1i--oPd3gs8XjO_Np-vf3Wg1PUB58p8b0GVpUBXUy_jqVYPKBgGIg4KDFpr_i8KIyRxpd2ymw..%26ch%3DAQEAEAABABTovleTfYW4SGYKJ9r4UPplgnwEzBHCQ6s.%26v%3D3%26pg%3D5KXGYEGBGRE5RGOEABHSTW7224
+.netflix.com	TRUE	/	FALSE	1805271533	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+13%3A48%3A53+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f72d439e-a89b-4382-a5a8-abae78239476&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805271531	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVDggKn9uwPBhWBiyR_L0THXw--CVxmJI.%26dt%3D1773735530608

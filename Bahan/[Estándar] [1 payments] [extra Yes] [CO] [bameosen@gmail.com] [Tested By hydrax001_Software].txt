@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: El piri
+– Email: bameosen@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: mayo de 2024
+– Next Billing: N/A
+– Payment: TELEFONICA_COLO_BILLED
+– Card: 0933
+– Phone: +573172309812
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: El Profe
+– User GUID: W5H33NTTTZB57HWCV7DCEYLDTE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEJC-oGHcniQGQFngVgpzk7tgW0Fss6ZtEmReN9EJXKuMPeGHMjN1ugPXW3hjTLkpwqKPK9mDJoZEMXChoONZ2jZCyLasZuA3sgmF5fytK3jMcing9PJQK1BG4uWvRLVs4JxYC-e1n4bQE0VLkeNFKZGf
+.netflix.com	TRUE	/	TRUE	1800067067	NetflixId	ct%3DBgjHlOvcAxLfA0rKqU5IgEuQCGrrXBUfvkSox1RIp2nfluU_FPCFmep0Ipr-lw2quL4thg0BMBSEgRCNcgx7_ukEhd1NVc8JqlVipxK2OxArpkWM8s-1drzwORQk4OOPnPWtXeAwYh2tuJZgiD54QQk4FntMuJh8rJSkoWKW2P7gP1IZMu1bMztv1X0jWk7f-bF0S_5eqCxyNN6GkT2TVhT5vGOgKsut8pqv9NUCxRwEUROVeiZMoMje-QmDzX7xodUF3fyCU82i-OKrFlWuUYj5UcuE2gXAJYjJTygwL1CpIpVHPo0F82XGcE-dMy0Zebktd3bG5AZO-z3-JgfZTpIKR0MpoUwOkf9fkRh5bXij3bRWaiu-j58Aqdfu0tr1kkvd1vZBslGkCOO3mYTNClJbmlIFmSGwsP8a9Oxxlr__jzdRmGelYsClekqfPMVkH5BW23zNWLtB2V3FXq6ER_m4JRTfJCThpcCngsw4wGngmk5LxsTWSRDAE4fzPg8lzeE2rpqsVYUDEOWs9BfLmEqEK5SiRwrq78c9PscrBdfit0eCZC3RJjjg6OrewXuU2yWUTKfINwK7dMovIfgGsf2ajftC6nEAVX6E7Qs5mlXyyAxnshVtje0Cdsn-61BlUi66tcXjCQ5CGAYiDgoM_0v0sTVxaMzKMwz1%26ch%3DAQEAEAABABTcfFgtu4CCyx_zbfCqVTNf6GRYzreAmRc.%26v%3D3%26pg%3DW5H33NTTTZB57HWCV7DCEYLDTE
+.netflix.com	TRUE	/	FALSE	1800067069	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+21%3A37%3A49+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27ab12d0-0611-4a20-afaf-21ac0e2d9605&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

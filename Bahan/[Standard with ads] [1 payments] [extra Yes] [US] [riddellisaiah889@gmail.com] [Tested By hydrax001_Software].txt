@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Isaiah
+– Email: riddellisaiah889@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: February 2026
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 9980
+– Phone: +18707167249
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Isaiah
+– User GUID: A2AI7EMLIRCLXLD45PW2MOEX7Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809947286	nfvdid	BQFmAAEBEMq7tm1LaGsP4ejp_y7EZZhg7Ivp1GZmXUbQmIEDhTQIG4nH2McjTXjnWV0sz7Y0a6LiD2B2-a_o5OKx8koYQ-HWGg6NEk8iEdHsdOzFcvyjHdU4sD8Zf5ChM2xgvkXcHBJyivs3FTAyJi7L-ayZRrUO
+.netflix.com	TRUE	/	TRUE	1810448036	NetflixId	ct%3DBgjHlOvcAxL_AwDRKgPJyx9feQGcqJNQYYXs5vuiSgdxAq-RdOmcoO8gW8d4Yi1RM5_n0KM-Zdp_-Y2AOovTZ6zWX64OTgcvFIWwEYOqHSdVt5oJsAgor3DuEV9_lEzTxnC0PnMIdB1ql_jy7fKGixn8kPQMa6mh3l3CzW-7WqL9rsfI2bQd3foV9qjrcD7SRCvnrBnnJbGuaD9VOUvIvShTrLa_UOOMe7rf4qQd76mH8WLM_NRsTiTJwcsEujZzcyqPkL-TKwW3Ed2gQM9cVhrk9dP4iI19yuqt11VMuoLuy2_5gGPhpaAKzu0cf6OCelxAZY7mQuSoN-iVZmw3RyByNG_XlbRLYPbAebjeerUYzDaY7m73FwwQ66uzI4iWDDsN71nWhDbDb-wjvhjDh0CYba_yH423UD__UjkVaWfllpbIQlLRpojJdRs-rlm7s1YlUXGk0PUwCUROdtP4sWMvPFpuWQzFpp1ES4VhEt-irHuz2TzqotYLDQqxdvy8fhXmFJSJ5OYC2XNGSp8upEImhxBc9zA-8IPjwnxmUhaq8M_MsvSyVTIY1uJvW8eta577GySScT0sUKHVN-1sMbM5kX7ErybCmNRoUoWUYlG77fj11iTSfYh34LHcBx0GVa3z7fncTSwpNxLRVLYlDnVQCgiAKa7TBBmw3k5XBexT1qSAj8gSDGMYBiIOCgxzNUJPr9z7eFd9rwA.%26ch%3DAQEAEAABABTz67jej4hVp0cs6NIcRGGDrMAokNazndk.%26v%3D3%26pg%3DA2AI7EMLIRCLXLD45PW2MOEX7Y
+.netflix.com	TRUE	/	FALSE	1810448036	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+01%3A13%3A56+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7214d536-3c8b-4824-a529-2441dc52ec08&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

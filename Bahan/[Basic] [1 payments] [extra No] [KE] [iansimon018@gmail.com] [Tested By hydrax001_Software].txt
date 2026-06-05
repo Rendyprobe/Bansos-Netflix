@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Everyone
+– Email: iansimon018@gmail.com
+– Country: KE
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 3496
+– Phone: +254743141464
+– Quality: HD720p
+– Streams: 1
+– Price: Ksh 300
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Iano
+– User GUID: 3YNV5EGXCJGHFOLIXD6YICC7WQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789504432	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+15+2025+13%3A33%3A52+GMT-0700+(Pacific+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6222cb1-13f3-4b52-b1bc-ec80f41965f1&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808549223	NetflixId	ct%3DBgjHlOvcAxLqA1hb7bxZ9p6WjZw6zndTzdoHp25atZf8sRW2M0CmzuAtJoCqRogApa2HLSwn5OAFCKVBS2QzcOD-iaW2Wk3jBz2JecOUwY-v_eHiG2qvu8abZhJL8dS0CeMYGxSGKKUgbMAtxvFfJiGTAp2IRjlqfK9obTbIW_264yBk16xm0JdUOC86OmwTLTVPpaerqI49af9oy8NUvRRbvtBRuhCwSuaYbSFw5MtYD29Ve2wL9D7Le4Sd0liajbWB7yVRJyvj6YS_Y1MwQM6sMRcqpXkX_KJFNVvurlHwmVy18wt2kJw8Bw1iY9eE1w64S6hgkdxZvfFpkxhckbPjUYKmtLLQ6QJOn_3GoKmlrKCGMKVKFfEcBOIzjHXcJOTbRWg1opPvg8rqmHqZxGZlkLiIqFcsm2meW8AwWtKFQnHL3GcVV8cZOaxe_hK_fBV-uQ1Wa0AWFcqSAOMrJJs2SQFWWX0RMMhkjS1ytpnb49XhiCLuHg9NUrlcUnmaLFr2fk6IjxW0JieTfFBeQo6zCs37f2vO61BFqnnuAHCOOf92kkCPBAcJk4oFLi4AQBPxNsVQ0llPHal94HQ6BrHPJzydeDK-UawabcNQwoAvhIRTBMiqB8cyPlhHZhC5fChm_XoRfIuOT9xpksmHOXstP44YBiIOCgx-YdCY0GFrbl2Eq6k.%26ch%3DAQEAEAABABR1aonZ8IW25le9EYhZ0XR9gev5qim4KWA.%26v%3D3%26pg%3D3YNV5EGXCJGHFOLIXD6YICC7WQ
+.netflix.com	TRUE	/	TRUE	1808549223	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQzq9ZLnzCrQYkz82j__NzmK9RgPunEBOw.%26dt%3D1776977394920
+.netflix.com	TRUE	/	FALSE	1808549224	nfvdid	BQFmAAEBEHmhmo9MRPcPR60O72fQPAxgFmru2A-pJn-Azv-_i-NftHpLfyMbkRqyLcdwL8C_QRYU9zPEk7Xn4AyGNonM2jmKNbqrAzpPFOXI8GTmuxavDTJKzdBaPHDJwKuu2bXfxaf2orN8tPRy1x5A3waI3Fi5

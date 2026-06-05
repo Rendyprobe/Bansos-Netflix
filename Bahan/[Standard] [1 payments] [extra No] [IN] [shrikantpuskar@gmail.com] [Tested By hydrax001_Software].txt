@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aaryan
+– Email: shrikantpuskar@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: February 2024
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aaryan
+– User GUID: OX25PFU75RCPBAG43UIUUXMUUQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805697613	nfvdid	BQFmAAEBEE27H0Fhk3Lbntz2CQqNdT9gGFACYGCXbKhTd3vviSIGmAqBbxGnLsJKbyKfelw3qd2_nMQfuFPGbr85N9daulrUyxlhoCQ6DiAtQHswoYu5BVIwzIZrcmIMQgch3ODCaqSAhmNDkDmogE2XvUS-4jXb
+.netflix.com	TRUE	/	FALSE	1808943814	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+01%3A53%3A34+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c78539e-7add-484d-852d-ca2e8b7816f0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774161561194&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809600570	NetflixId	ct%3DBgjHlOvcAxKLBE1SwikbFSnVBSpQSYnHZIy_wstVW-5D3iuJf0MAVvC8-qNPEg-ScJ5vCrFYwT0_3A8aV1Ypu8PJYIfvefY_wLIjnTIVOODk0YFSuKj6GrqSos5Zz4pYps4htTiYxttkiDBy1Vafz0G-BK7uc_arrhrUlhyRp5ftX8r7OmVWaztrP53R6jOGPjTREn8rNdbmYdCoUHJhdKiyGcBS3CznBXvci9nlc8B2tnQMpGJwcNTrIx65AqEtgIKiFritoIWsNF42CqwXoIqrktejInG1678zhTo65y6DkrxEZjw94HG8EAthqIzDNZpkmpjPUgNjc8GAKloSwA5VJ1X2gUrbE7UU3nyX6D4kQFH6f1U4hHH-JjX-lcILaTaizepbcX91axZpvhPqoi7ENIN34eRY9-Vrq0fBRop5Bpk0AuOy1JyRZX-2TW0acaglcTgwkuo2IzHfafTzkcJNqdGO7R4thJ3LPUbktGoaD2LUonrAFkrjq1RI2yAxr5sLh_e3KdLZP_bA0PXWglRcV9cbneSARZ4PHAC3EUrBVvAKue86hFfgU7V6K1G-F5ZoL3QNmzv1QANywvRQ4Fy0Ubaip7npZI4L0korqcNRvE69pcGZEYBzIARZD1cOXKkEE2OZ9h0We5VOpwC1EgMeKyUVcN8vgeNrg3A2KJzjdUDocTPhtpeNJKS0UpFvZxF2wdQYBiIOCgziqaxPfMwBXSpWsUA.%26ch%3DAQEAEAABABT9SiRt5l6h4x9fAQ15VQQ7de1MwnBcgmg.%26v%3D3%26pg%3DOX25PFU75RCPBAG43UIUUXMUUQ

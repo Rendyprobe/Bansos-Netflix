@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Demian
+– Email: felixamands@googlemail.com
+– Country: DE
+– Plan: Standard
+– Member Since: März 2026
+– Next Billing: N/A
+– Payment: VODAFONE_V2_DE_BILLED
+– Card: N/A
+– Phone: +491794374666
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Felixa
+– User GUID: 7E5YJ6PRCJFUFO2EBOZL4KF5NE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBECTq1QxftF56yavsB4Dgevlgx9-gxb5NThXGSiItuqoYLybGnufanSJ2e_OLpGl-THOngD9L6YYT5kLbU-l2RH1xJI3l3tUL0gRwd5aajHdTTBp1sYmte1LseWFiYA8xADA_ztGB3OHhIRoQNwwNzst1
+.netflix.com	TRUE	/	FALSE	1783197724	NetflixId	ct%3DBgjHlOvcAxKzA31umf0l2k0aT9DwkWV-wnrhT0xlw-GfP2sj0dOjTcKC0IjnZkJgaeme5Y8xrOWFhzo5N-iMKSGjRaYR82kRs_Df8z-JePiK-UuqmRFqiYIiovaisn7gKLAr4wFlPj71vQq1S5xktixXun5UmKHvh3sKYHDeJjUwUMe4af4fFz6MDhOoYgfchh_tJHtFTC97q9BTjUMwJPvTeZO-2Wt9gBPmMIrFBNe9cKWAKTnOzZMfUf5fYwMaDfiJfWRR104XukFq-yiuQKi8i8oqIeYkxT2A3X7LJs0Nhp_sOe_B2Gfy66VXMd96VV-7AbsXT0OM8A0wGPo-kDveJqz-qJdMwiaeEF_NIYWndsoX8FLZZ6RTpfNxzGRdgYEZty-q3TvwNJwWCb504CnqCV-r7OB_ubRc_kQpn_TgtiTYUF5_J2xoKeLzqm7p3OZmWopQAVlDZ6FDBZNlO3AatsVD7aRFAcBUjg2ijvKW4KU-XisAMi466Jkh4l4RwA1pnFhgEjK5K3N00sZbVfzzNokv_JkQRzCmQlNJX2s7Q76MGKa2Y_YCh3m7ArZXa8Tug8WgQv59l-vbHhgGIg4KDFaZ1a0lT430fNxXqw..%26ch%3DAQEAEAABABR__kxbXHcx77rFnXjqdyb826aUQ3ENeMo.%26v%3D3%26pg%3D7E5YJ6PRCJFUFO2EBOZL4KF5NE
+.netflix.com	TRUE	/	FALSE	1783197724	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+11+2026+00%3A04%3A50+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4aef5d96-1728-4d59-8c57-186e3d7d8a9c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=DE%3BRP&AwaitingReconsent=false

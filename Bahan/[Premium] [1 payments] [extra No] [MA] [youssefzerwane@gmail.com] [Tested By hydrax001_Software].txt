@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Reda
+– Email: youssefzerwane@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: March 2026
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 5258
+– Phone: +32471965912
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Youssef
+– User GUID: GN3DXDWRS5BD7NCKDD6AMQEHYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806933661	nfvdid	BQFmAAEBEK2KkrC52iio9Uvuhs_fB_NgwFW9hJOksz5zlK0oHHvjYka1dTuwYTv6j3Eo-X4AJIda6IeMP1sf1hYoVpCRoCIsbJHoqmRadDmXUQY5Gb1px65k9XMa9faHKCgZQgleUEvJ203vfuftHFtsnA88ifLc
+.netflix.com	TRUE	/	TRUE	1808312836	NetflixId	ct%3DBgjHlOvcAxL-A0q7iieQxO36XZY55n5FQUDRYfQWuqyef5GWYiw5wEyEnrxcXb-6hj52EpkK_CSKlPbi39PVXHJg01TAkOKCh-cqHl959l2LJ81fS9i58MekH0b4i2KNawN5AKAdNOiqNbm5Xl20NxUjqz6u0Ra2ioN6OuHwKi_ZEhnsgViHGmh5H-ZAU1N5fnlOGqDdXhaU-gGEbj6HGrYm00h3HG9qFfVyw0CloN2o7YMcj8DiE2CGNa-GbaDNAR8cD8ltft3ahC62kYr9-TPMdQKjmvbQuhkveY7Y4Ye1vJe3vOm8E3HW3x6RC4ekewCvYwQ0_S3NfsxPNaWXk93qSBxImYEOwux8PbQdJK-TFFXcotjUa0Fj1xWNBlPnXAPUa6XNdkzJxRhL_QBvyMSxJwloJQx-aIC2iRHZzIvzf55-qxpHDN1_uoJ08QeC_AB81CayV0iv6yJpvZ3cEVMZ0yg4XE0ts62UVSeF1n0tu0BUx5-jzXvQjhAAmX8junxnSx8nHP-Amwfc8j_m_NKX4fnlfPSrrHIiuNcQsZYSKjs5h0is9i-osg5VpEJLonuuQuWs9go53rSGB6yEmd9GyeqBkKY6JtgBvjCdgsctgPgejEq3EG28eJSNjL-WL0JLhPmYZhI3oVQeW8EOGFAj0Rte4o6HElZrDPF_qZu8xuPJfcts-hgGIg4KDLh0n0E2lvvw2G87nA..%26ch%3DAQEAEAABABR2p1oCzUHYo1yGLwkycsv_7eutanCxDsU.%26v%3D3%26pg%3DGN3DXDWRS5BD7NCKDD6AMQEHYA
+.netflix.com	TRUE	/	FALSE	1808312842	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+15%3A07%3A22+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e267627-d12d-43f2-a2c3-61b570af44b1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774985168207&geolocation=BE%3BVLG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808312836	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPV2P3mLCrkY7465QOLDcPKHqgK4g5nKo.%26dt%3D1776776835112

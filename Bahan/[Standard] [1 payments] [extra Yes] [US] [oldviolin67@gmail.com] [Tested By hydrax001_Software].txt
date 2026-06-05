@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Noah
+– Email: oldviolin67@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 0167
+– Phone: +13044946117
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Melissa
+– User GUID: YSSDK6RW3JEHBDHUH3I4ERVAZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792383190	nfvdid	BQFmAAEBEBp8atJMU3hRtjx1IDLp0K5g6S-VDV8bjQt0sLffOnMnW_4DuSnyLR9Btvi7D8XVLmmKlVPEtSliOu6mvlEvgTBk6zS006Dnd6AO_2KR7-fGl2GoaY3Qgp3jH9Ew_8yh4se7gdMpGzk6U-MC3QiP1BeB
+.netflix.com	TRUE	/	TRUE	1795332849	NetflixId	ct%3DBgjHlOvcAxKRAyG6mprn9AX-chI6gxKS_rIqjqSfm04TpaxydRkEHwBLZTJ2SqlElOWpyh8gVTKbc991qnYvoCfMmobS5is5yxQxVOMtzbJlKGff_mv8HsDkmYxKAmN_eMzTiHa99DUT6U6D11a4L3QnvHxwKhVMFkOJJTR3fGwOsvBkV6_7_uChMMxU5A0DIh44RoPhOISgcQPI-JiqxrIFXRztWGHf1L71uwVj0A347d39k3kKyS8qq6myusXwofM-ePO6X5q-yqLWTBF9FabUTEWqgEfD8QCgMYB8yJPzQJT8GHZhjEx85d0q5vFcPj-DLQuykKz1nAL5J9IeKq15eJhQkMumdjXNyw2Rn-t4JeVdsoIVbMXsOTME4t6_b8tL2bYBdEQK8gL4Ru6MrYtJWsmM0tDBm_Ynpo9Y7ZgMMCOg_J1dHozUmMR5U_n5OlH2AfptAEzxMIb3YcKEoQq4qXFj6IRcSft2_YXjWL4bhU43OUqCY6JWBwmkYZs6GMcS88mT2cp5lbVhsLzEaqnfFP05QAlDxplOGAYiDgoMcviJnIF1-SkDkzgL%26ch%3DAQEAEAABABRLSfNl_f-iEM9u9FXcAb34D1m2V2f6NMw.%26v%3D3%26pg%3DYSSDK6RW3JEHBDHUH3I4ERVAZA
+.netflix.com	TRUE	/	FALSE	1795332851	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+02%3A34%3A11+GMT-0500+(Eastern+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=396f5faa-9cab-4337-9b91-1f6c1c2a0d9d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795332849	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQunWIBYaYH_tmDwup8fu_GrtCK-37jjRg.%26dt%3D1763796849829

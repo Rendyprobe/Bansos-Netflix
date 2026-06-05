@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hans
+– Email: bkaemmerling@web.de
+– Country: DE
+– Plan: Premium
+– Member Since: kwiecień 2023
+– Next Billing: 2026-07-05
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491639105402
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: hans
+– User GUID: 7X36FEPL4FCB5IPF7DYYFRAH5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEHHkwSOMk-A7LkVVCnPDVNdgVPs7qZNxRsrPxdy6_PIJbZ9aIbBTj78SckD8eTAczB8rzjglB9zN9IJsFexlhw1gEpkN6kSI9y1ut30xFguGaLXmUUGXsdtlIiy1wFyd8H64rN8WEmD0wtAyANu3GXFh
+.netflix.com	TRUE	/	TRUE	1783197724	NetflixId	ct%3DBgjHlOvcAxLrA2kz2dGcc86Ev2DQy5WceekIig0uG-nHJX7aM2sZmLOmXSsURtS7-mpYUdcvlauS2fiYrJaX3SiVkCMfuq-DtTN77xs6REq9gLxCQCqG-QDOQkJXq_OvxsR013IgeMIaCavOlhaJelk0JFSb8PAO6tzWw53DXQFWDhTFWzWBp28OoCRfbXlIp66lXjYIMl1bGzwvO-NoTkA1HdZFLatjXm_HowiHURWbTGo8g78e7KTNox2zcGcfIUU_pqZmSkGx-zjNbiNSY6iOke6BjN_T2IqtvUWncGO_H1-iJINoFaSyxm6xaOi8qgyVNFzzC-g4RI4CTHiR4JsWtoYZS9riMQOVPQ-GcjL2VU5NuUz9PCWBgxJIOW8cdkQ1FxdDZZT2-yRX-7q6bxzuJQovzorsn8zbG7JAtOCizk5eWzUZjxvuh0sY0Tu3eCj0LlajJ37I8Ns0X0PmarMudc3EN7j0ozZPhgR2ESQGwlBWSaxKoU6mcoLNlvmrHpVON1dQOSfczDgp63UlJyLUkH6epRUT4xaZxqACZCWcSB9snQJGslobaVBQWIAxxsNVsV2iQIkf0pAEIyXxjbbDhs6NQQ8wBiRbqs4682nUax18rHQdr3HuShP5q1YqcUIqUh51eVNBNcyBROMN5--zH7G9GAYiDgoMinCZNSTGaaGZV6vW%26ch%3DAQEAEAABABQRaITA11Zl7k1ine73bCMeCgqqqptMqtg.%26v%3D3%26pg%3D7X36FEPL4FCB5IPF7DYYFRAH5Q

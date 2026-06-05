@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bartosz.krzyworzeka
+– Email: bartosz.krzyworzeka@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: listopad 2025
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bartosz.krzyworzeka
+– User GUID: 6UCQWKUW6VBQHJ3RCJKVDCNSP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794844540	nfvdid	BQFmAAEBEFHUHZXbP-yByIe7kYiaVFtghfZDfBdxPCxajcmvUzyR6LzlanUDoXvoJH-otG54VdKKrD7kXCdgXwstuAMjCDzTwexDzbX7jZ8naQnRJgeELV9hAP9g7zoZ-fiWFNxRB18dbqc5_MM6lKWxO3RHCMI1
+.netflix.com	TRUE	/	FALSE	1803333305	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+22%3A55%3A05+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ea2a1be-354a-462c-a299-6d05a4c1c93a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=PL%3B12&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805997078	NetflixId	ct%3DBgjHlOvcAxKEBGzRfbMog0sFa7AO2tf5ZM4HtRUiZ7g_SoR8vkmRORF_oS7uN7dC1gpXo70uCtI6WIG8VFlvsdaC6lVSqDrrPV_Mz4RQZaguDJzYlp7gviQ5uujN3dDsAN4dED8410Fl09m5O4WAlFtwM_tp5juQqCTcBQO1xaMTVRL8rzYUQ47j8klfoB7fASHmx5EPEvIrhnNedrTvhLc9G7Bj8FITfH40Cv8NC8Enb4-srKXc96Hsw1JlyXSxVHLC427PVZR4Y2BHtg9XKhZQmqBnHEKjFA1Sj7e5o0rmCKyPwUGyevC2U4rQssW3IHLg0MFh_ZCMkfbSwHAtQPy0MVzEfejTmtlW6X0uYPUqFxO562YkRecRq7CkqZo01otLInowlQy6aaJJG82PKdnMlnZCl-HG_q0pyPsPZZuvBSgxp-ULmesOOXcSaVZLyxDSzCUQ8dlXvTYIe3Jca5hrc7aVsaExFe8lW8O8To29UeS9aOpD6vbyWO-KKyiu21mZ34bfWAicw5S73KzgIN40FhbNGUbBFB784IBsfRjXQd6gtL3LuXe7LiHZ4K9KNrXf3UlZWgP0EEk2JBZ4dWxC6BjL5VVKK24xH6Vis5RPPMwi3RZSaTFyCxF635DkathaH1b252TXvZo--1ri5czZAVWcYTTEvqg1_nOW97tzRYYsyD4NZk8Lv8bF8RgGIg4KDHavAgVY-G6sMCKmSA..%26ch%3DAQEAEAABABTNlPSLCKrT3YZn4nhL6CLzgAxMLCqRQH4.%26v%3D3%26pg%3D6UCQWKUW6VBQHJ3RCJKVDCNSP4
+.netflix.com	TRUE	/	TRUE	1805997078	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQI4AVH3exXMwpemL5OkjtA8J97Bs2CKO4.%26dt%3D1774461076009

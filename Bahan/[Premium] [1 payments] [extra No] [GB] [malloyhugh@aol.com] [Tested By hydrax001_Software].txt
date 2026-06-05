@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: malloyhugh@aol.com
 – Country: GB
 – Plan: Premium
-– Member Since: junio de 2020
+– Member Since: juin 2020
 – Next Billing: N/A
 – Payment: SKY_UK_IE_BILLED
 – Card: N/A
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: malloyhugh
 – User GUID: SGRKCSESDNDVFBVQFUBDTLFF5Q
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCARhEDmAT9gQSE9H/7WoG0+JBDizKgjThLsZOsvWxvwt11kDhiQT/k1YPPDYut8QlHvEMY/FmW7tE9YKdT0ZwRuLUYn+Roq+2u3oNhfUC0nhkqK8U+XQv8ZDI5i5Nvy+6Qe8ce5M96n3TL2tGJlAT5HrA/s6idMPjgX381tAkRDSuSioCqkjiCadADLpnYDJsWLIUE3sCM+YvY1EqIerK4bMHvhB0qX9Owet9GifZTcScKIEHKAy7b5GPoyDkifP4rYOKGAYiDgoMhccHWCb2dVyoKEgD
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCARhEDmAT9gQSE9H/7WoG0+JBDizKgjThLsZOsvWxvwt11kDhiQT/k1YPPDYut8QlHvEMY/FmW7tE9YKdT0ZwRuLUYn+Roq+2u3oNhfUC0nhkqK8U+XQv8ZDI5i5Nvy+6Qe8ce5M96n3TL2tGJlAT5HrA/s6idMPjgX381tAkRDSuSioCqkjiCadADLpnYDJsWLIUE3sCM+YvY1EqIerK4bMHvhB0qX9Owet9GifZTcScKIEHKAy7b5GPoyDkifP4rYOKGAYiDgoMhccHWCb2dVyoKEgD
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCARhEDmAT9gQSE9H/7WoG0+JBDizKgjThLsZOsvWxvwt11kDhiQT/k1YPPDYut8QlHvEMY/FmW7tE9YKdT0ZwRuLUYn+Roq+2u3oNhfUC0nhkqK8U+XQv8ZDI5i5Nvy+6Qe8ce5M96n3TL2tGJlAT5HrA/s6idMPjgX381tAkRDSuSioCqkjiCadADLpnYDJsWLIUE3sCM+YvY1EqIerK4bMHvhB0qX9Owet9GifZTcScKIEHKAy7b5GPoyDkifP4rYOKGAYiDgoMhccHWCb2dVyoKEgD
-– Token Expiry: 2026-06-04 09:17:58
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1794062595	nfvdid	BQFmAAEBEL2iBUf9WCIL-b_wb9EE2gtgTcdVYkwCIwXQdHFSqUyJCkIWc5q7nWFrggREP-YQ_5WNaF0ORzAYF7EexeZYRxP85yUn8ojCgEkOiaAkvnl-0-mDFEr_t5K0sBSaH0n38J35_bl0kynYT-ip4GTNmvQI

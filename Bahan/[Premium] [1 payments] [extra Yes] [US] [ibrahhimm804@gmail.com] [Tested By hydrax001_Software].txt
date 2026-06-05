@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: ibrahhimm804@gmail.com
 – Country: US
 – Plan: Premium
-– Member Since: October 2024
+– Member Since: Oktober 2024
 – Next Billing: 2026-06-24
 – Payment: CC
 – Card: 9606
 – Phone: +19737134610
 – Quality: UHD
 – Streams: 4
-– Price: $26.99
+– Price: USD 26,99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: Ibrahim
 – User GUID: GI3OK42KLJGJZLAIDOGKJ3TH3Y
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVPbMVdYUNLKiUG2cc3nYv+YOdqFe2FbdxoFn96F8qWYiJeYonUEgByCNVP6PReeol8ebHgTwvea5FQQutORsK4bA/dZQ5cRQ7mixMI251L8LDFmKzIbR1bCW4pGA8QJIFAOHvk1NwzpY7GSoyR0NSCrF1tHspcNvbm6HZIg5z0FAwRJOxfj2sKZ0HAzTtHHRF2mPd58NhFOfN0Mz/UkgYZm6wIAcC86Q4jxaP1cToZTkhdPdMxaDOpJPMttK/Ia/RaPGAYiDgoM15i+XsYGebiNtm6z
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVPbMVdYUNLKiUG2cc3nYv+YOdqFe2FbdxoFn96F8qWYiJeYonUEgByCNVP6PReeol8ebHgTwvea5FQQutORsK4bA/dZQ5cRQ7mixMI251L8LDFmKzIbR1bCW4pGA8QJIFAOHvk1NwzpY7GSoyR0NSCrF1tHspcNvbm6HZIg5z0FAwRJOxfj2sKZ0HAzTtHHRF2mPd58NhFOfN0Mz/UkgYZm6wIAcC86Q4jxaP1cToZTkhdPdMxaDOpJPMttK/Ia/RaPGAYiDgoM15i+XsYGebiNtm6z
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVPbMVdYUNLKiUG2cc3nYv+YOdqFe2FbdxoFn96F8qWYiJeYonUEgByCNVP6PReeol8ebHgTwvea5FQQutORsK4bA/dZQ5cRQ7mixMI251L8LDFmKzIbR1bCW4pGA8QJIFAOHvk1NwzpY7GSoyR0NSCrF1tHspcNvbm6HZIg5z0FAwRJOxfj2sKZ0HAzTtHHRF2mPd58NhFOfN0Mz/UkgYZm6wIAcC86Q4jxaP1cToZTkhdPdMxaDOpJPMttK/Ia/RaPGAYiDgoM15i+XsYGebiNtm6z
-– Token Expiry: 2026-06-04 09:21:53
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1801646317	nfvdid	BQFmAAEBEKqAKzzDbnIzUqHRtCzlFPBgDQ6ghN6PHZJMtXoQ57LqLMwuggdrRJk6iMfiKjoT3tayHwfdZfia1NzcMifPNQ24tG7yaTgzNeZPps_c-hZAfS3vQsYfhREmkwSF5KYeAp4IuEM4OqrNg-3QbBnqw49K

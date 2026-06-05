@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bruce
+– Email: fabianik.lia9@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: maggio 2025
+– Next Billing: 2026-06-30
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bruce
+– User GUID: SIRM64NW7RFVNHPGQ36DEWMG2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806961396	nfvdid	BQFmAAEBEHRgE6MoA--w33Qzb238frNgN5feBVbwkEKiktl3F8abedUlpl3ctNGRME9vS7fPUQKv9GQ1Ly3pAAgxNU1BwGtXCTENH9yq_zTePM_UhOkWwN2VgQismrLBvWa-CZKMiM1HW7e4E0dwgnGZ7_rjuw7J
+.netflix.com	TRUE	/	TRUE	1809886190	NetflixId	ct%3DBgjHlOvcAxKIBHeWhaXCyi8xD5_0lcbDXJiLvgX1rhljg3zdEO8wsluvw5UJMXJGfnV-fLLH-aLmDPSJ3KG7n6DwceZZ_IIlmpZ09Rb4vCldTbQnNThclwcUZfvCHRAfg1zfb_DUUtpoO-HHvEP_4lYIkO-kf7mUeF7ZHMLF9CZRjTsoRoGl3TuU1_XuVbUdfv9p39pUKBROvZcOX_8YYfdcFs64iK4cpwxcVat5RKlN_nxyIXrDj8wC5fkAD7n35W8nacYbXrHQYa32YvuT0DVEpzGJ_IAfF405jW4SeHvqXF27tOloxRZY5pnVpuNtkStDnFRaNXi_S953e95XBiki_B2xTl33GA3J5woXoRKy9cRdf9N8-UQElSPdT_sBOcfxfXPavbar-DisI4aP2KQPMiTUk-YKGoDv4-QfN1TZjSOdZDZFIc7YItMFKuaiHRydrbcbxsOveD96ELrTuG61MYQwaO31hHNuSnmmfbYB30HXkqi_V4plUi1PHaIyq6xOgnwFDBrV6iu_1BmTrGcikny68I2t3OiEnQcVegDC1Epw4OGJicANxVT3FHiDjDb3gbnjdhqjLTyLKdReM77_SoHW9VFPtNa0Vz75cgI5sdrbZadFYInz3zEuKfURETHKAw0ul9hkYeknzhKKuUDRC-1Sr3JwtkiXObHDNHMo5tRnht0TJN1XjwjmuOh9m7gYBiIOCgyiJ9x_mJ_n0we6o60.%26ch%3DAQEAEAABABS03KuDkU11sjzysen7svmJq8ZBzRh8EPM.%26v%3D3%26pg%3DSIRM64NW7RFVNHPGQ36DEWMG2U
+.netflix.com	TRUE	/	FALSE	1809886191	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+20%3A09%3A51+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=48f10fba-827a-4a44-a2fb-c932a412e84e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1775423650475&geolocation=IT%3B32&isDntEnabled=0

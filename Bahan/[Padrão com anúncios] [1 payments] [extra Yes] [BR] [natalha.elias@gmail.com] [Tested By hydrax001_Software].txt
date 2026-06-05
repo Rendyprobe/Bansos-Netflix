@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucas
+– Email: natalha.elias@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: dezembro de 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 7244
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lais Regina de Souza
+– User GUID: KTYFGVNO2FCU7MOAMHPG7SZRS4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803863259	nfvdid	BQFmAAEBEOyefpIQ3EJZd5xHftdrmuJgcKvYwGuif9_rC9mDKKOWB2E3UWpPH2ts6KTTWE1DBhQCohgStrbp7W3JOD8Bdw7fjPh0vFnF0y35fu1xDe1CsDe9FMjs1kcqroDElkO7aQOzqqpO7xoG07VJFJt7O-0u
+.netflix.com	TRUE	/	TRUE	1803863262	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AnHccM2dGllBp5qmgMshBV9sl8S2QMsQ4qBhpheGPXaIvgqCnYvtp3jWARRbtr9AGPjbKnHVX8vObsHd01MOLjB80jnWrhGmq3WVpYERwOpR-ldJtbLfMf9fN8ULEQh84LvRX6SeibLG02_RQ3jHE_GZXUPLqgDHnqbVINTdnohVb5SVorLa-sDAAos_T_Ik_usQzOK92bRk3SMbw-33xxdDyUlsPEc0si90H_GM1j9OT92FyvJeZGQ5wG9JI5KBNHC9H0D-LCPUNTiLIftLbyEEnbw2O-_eByY08VDwf8F1ML24z7oWObiJVO5YqAHw-_f7uy3pvACO8IG_kbAqN8cPYyV2IPFHxmBqCMVdpB_0ybv3aYIQppC4l67gKZpAC8ckbVI3GB0uh5L441dl7osZIB2lc4EOrYUZ7zwoNUSY1YKe6RuCLSbouD-s9bZgG0GVfJymdIgXz9EzIbInVP7A1rSTw8y30RwmY7zGu0sSMCSPv_I4GRgGIg4KDJV8iBzdmmn988RhPw..%26pg%3DKTYFGVNO2FCU7MOAMHPG7SZRS4%26ch%3DAQEAEAABABQHh8d4nt9OKFEeybs7sNy14n7v4AAdOwg.
+.netflix.com	TRUE	/	FALSE	1803863359	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+22%3A09%3A19+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1fc4f71b-ca8b-4bc0-a68b-424dd4ae36e6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP

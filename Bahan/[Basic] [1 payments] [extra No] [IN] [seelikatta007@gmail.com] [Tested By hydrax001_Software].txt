@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: K S Kattalagan
+– Email: seelikatta007@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 6746
+– Phone: +918760736076
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: K S Kattalagan
+– User GUID: OGQGU45IOFBBFKG4ER3ADK5MRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798959367	nfvdid	BQFmAAEBEOOLkV2GviyG9Q5A-Z57KYhg88InHqipgX6MSBi290B2I6_Bjt5JoK8i-Uwj_bEjuvi5hQmCf9W5AqSBtdlvgQxcPa1oqY4GaiEGj-ib8CZirE8G90SVW4BAGxaaj3tvqhumrHgZz77LHApagHU_Qm-a
+.netflix.com	TRUE	/	TRUE	1802180180	NetflixId	ct%3DBgjHlOvcAxLsA0rRHpLhprH_TW0B37559V5K0Vutfe1qvMvXwQUmcj1dhQIgpwCxDbo1QfH4fbYfotk1IKs9QrWFDrtydHBgYminhDfbjWSkYdfs_twzTxoYvRy2o2yNu0LefhldMxwtiq65nfrNYEnr2qdLDi95Vvp0zdaB7WGNWbTrlIrezohFQ_cETK1oDMq99F4yFMJKHDwmkoH32KgrQLn6TVRZYH7aaClTd9-QqYPvoZqttsnsUPK-S-m9TGNTK6HrpjQvYv7oAeNHxj8W-68KxcxV50q39urBgGNgxercOLZq3hVYo1NPNC2ffuhPLgKhEzJfe6aWEd_ucyQa3E_B0unme_ytuN73Nth66eHahzjToWJ6q4OkggxPwXt4W2CfOSAcGkeYufOkufASSDD9aB0s8mLDEQ6blkPIiSq2p3119_gtB2nce9TsLGMPnaWZwah2T3AnSZtpvf0MTsO4q91Axm0S5CKJPgH6ELMhCl2V907Mohs9pdiWp4ZRmiEo-G7PR03CZstd5aUcyA0ehxTnu1ifWs7LxBYY91pYwC1AeWg2BL44WsRxOj-QGnu6SkrTbBTjQKaMAg4bs545NSNJSAUtglTYB09uv6-kfxAR_a4xsiqlxmSe6Qz4RrjbtrMG1iq-MHAdF0I5qieLpBgGIg4KDEn9Nohm96bNfYqMaw..%26ch%3DAQEAEAABABR5QITgvb0ZT7Qy1XVaFUJ0460zA33eTfY.%26v%3D3%26pg%3DOGQGU45IOFBBFKG4ER3ADK5MRM
+.netflix.com	TRUE	/	FALSE	1802181500	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+19%3A28%3A20+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ba90478f-6cf9-4607-86ae-04943afc8f9f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

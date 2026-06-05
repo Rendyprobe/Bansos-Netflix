@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tannerique
+– Email: fanie.niemand@gmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: April 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6976
+– Phone: +27835188757
+– Quality: HD720p
+– Streams: 1
+– Price: R 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stephanus
+– User GUID: 24AJXEKL7FED5GVSZF4SCJA7DY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792789761	nfvdid	BQFmAAEBEEsZ6chX-4_BOtVO6rWj_ZJgrBov9Yin1_qGUURzJEd66rkNgoVJOEzjyt625flWXkb4LvfcvMSzsZ3JyPnfkoPNPIkgX9ImGAZNI7jwuIaLVS6vq22pOxo744Q1TmyhUzsv56vF5J31d1X9lGiHhD-8
+.netflix.com	TRUE	/	FALSE	1795864591	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+28+2025+13%3A16%3A31+GMT%2B0200+(South+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0b2ca4e0-7789-4694-ab59-6ec32f7b1fb7&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795867918	NetflixId	ct%3DBgjHlOvcAxKzA2kV9ZuR167T7SZknmPwEo4lFL49nK2lB5sdPfF5u8DFBRjb9THTow68Flz8fLmVQmWRjPiXQDgT5bwMRWiO1tZPeIFDbgTzN0J_pSY18hZKka0-DZZc8TUXNMj_LfXlXKG4NQDjCmBP_6WyQTRGEXUhDuojWVwCl6_naCpwXI0vSP89h7nNGkrDYuwrTpOvYogKCYQBCb7EWrZ50AMROdPFtSmuqPZLb2bLYZE1EBkvoZoNmj6GgAvZKuhDvqm5jlbVcJmXpv_554IMsSeJKZddBO7eQTbNTMZHpMWYjp09kCOnazfNQss9b7bzms62iqqa7pQNvQYeVuPes5ZtGv9l9XQOau3nMStDaPyqRmxcohfwugbYLGJ5Xo0H5YpqlYx856k4bBFdsC2IZyg2e4SfADaiOGru_CpjChkJGE6ZBimgLCdA7I05UTAKyHHk3sRRUIZeKklJ7c2EJodjZKCXvH1ZFEmZ67ZFK3wqcLZbFNR2M8Hfi9ZYyaZjTLq2_Exf61dqSfyLBh7vSvNW96tzTaUVHMUC4N-nqgT2S-CE4Wd3k3BPtIr0DWEnKqyjT-6rjRgGIg4KDIwRgOpFxpWQnDpfTQ..%26ch%3DAQEAEAABABQgzhE4uR9JcZnrvGxenqIyReaQveFlWz8.%26v%3D3%26pg%3D24AJXEKL7FED5GVSZF4SCJA7DY

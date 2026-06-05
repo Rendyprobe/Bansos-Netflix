@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: isa
+– Email: rafael.arquimed@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: June 2012
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 0736
+– Phone: +18492074881
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rafael armando
+– User GUID: HGETIM4PWJD6LNRU7EHNU5B67Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197724	nfvdid	BQFmAAEBEP280btQRidUb022jKc97eFgxYTrMCVMVhlLEklvoEFhAiPNZnafJx7ammrLhlc5ar5tjpxQm-Gum0U7IqjzXdDPc1LF3BXOuZUA5YYG1n2sJ9WcMAQeCo-RiUSQA3bM9g3TaaD6smmkj-Ykkp_oTEsm
+.netflix.com	TRUE	/	FALSE	1806614486	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+18%3A21%3A26+GMT-0300+(Chile+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad2066d4-064f-47b1-8a9a-7b97dedd1c81&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806950093	NetflixId	ct%3DBgjHlOvcAxL0A_SfezRvDo2e7ebSROT7fQlfQCPv3DcpWV8YUqc0ifLE5CNUkyknmUFvRol34nMXq6vkOiJcIWnVCpegAFr3fPFo6h5pmB_vTubZmi4QHtV_EMrbZatthXAvVG7n7cjsZQpeEjoScNGIx194z64LJU3TRf50wUKbESwRyzY27078u3zaO52s5aObLkt-Kf5nMhIUcmiFL4NtUTarkuuXYZRV9lUbEgOSWYuKOBVhHWG99KfplsgnXwHBjNgtCSLwcOIjZnKERPlNXSMMESWpM0j6FhJUzotw7QWVBISSXvmFW3h-N38NJTJNw_bJ9KYzx2X2Gc0nVbeEhHcVJuz0E3PV3bATp6LoRZF5Cw5A4F1sW5Jx1YSG98FQH-Tx7cH29yj9YSmGZK37zLMsAH5dqLCgV8fKGWM27mHY8q_ofmhp23kmS-NpbYgYVSGABSA7WqEAi3b6SlG_1CoHJVDMfXvNBanQ3yKBpMnqF8L1wtTgGJq3APh59O23vUHugDXB_r5WSgYcjue1poNR6tTHnwwOMaDNu6dbt1cSzllHTFhlSgKGJSwRMhyctBvYH2V6kdc3glQw-zNoER2UmNca7HCXkBU3XJcs30ZkJGCytoq-rCX_errpozhGnN8lUVRVO7eZSEoudl1drB7J2JPt5RTQpQY7GAYiDgoMWyh_zeMBW8mzaYc7%26ch%3DAQEAEAABABRWykWVkk-zGB2YiJNVpA6szIzwhtfrBjg.%26v%3D3%26pg%3DHGETIM4PWJD6LNRU7EHNU5B67Q

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: EDICXON OMAR
+– Email: luzbigurrab@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2023
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LUZCELDI
+– User GUID: 3W3SANL3MZGPNIEDEUEJJSAHOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4Ajtmv8bYAuQPlvyqCI1tbSAb-HiQkkTSfFe4h5W12z5l6eh07stCzpMaZxGuF7tbt6WcNlzd08r99XblkucDGYyibQrjXLPOHEFUlKyFDhe4WR0KSvD5kpb33GPHdNOH2itXqfLvxFQcoZy6rFZq0y8Qi6TNu_2-NwWffrjlaM8jAyGBej2aX1WxjXqP17IhMoq2HSh3_oPN7C9YHGXNh7YpmQR4lYStPQqIVegJ61qV6OoGiKUFoAf3dL0KD_4qPeVsvtord90FLmkBeNItKOyn1w5fbXZmT8cp1SLxdI_bMpwIQm9ooBUmjDDmbgJcnv8hwGBp5fOOG_1htAebkanOMJtYAnOdhMxPAP50fciXw56imscPBRVTvVfdCqS5RL7e_W4Z-pVTtXYZ5aQr3dHH3lU4e104TeGv-1L41FITJTPvqmd_NdZpD8x15vJ3KhNXUnOmOAYsMARGz_iZPjt7s_7qfr9tn-YMvWcSJLZd6KIiiu0E3RoYBiIOCgx8QfRFzvPzO2hzjaY.%26ch%3DAQEAEAABABQT7VzBApJzWuz9bRWJLun3deQ8JKkdeDE.
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+23+2025+16%3A34%3A05+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=2c190ef1-79bc-483c-820a-fc058004bd06&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=MX%3BTAB&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1783197723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3vIt2YYpEdcjK9e0IPLLSH4iHvqtAWOA.%26dt%3D1742769323390

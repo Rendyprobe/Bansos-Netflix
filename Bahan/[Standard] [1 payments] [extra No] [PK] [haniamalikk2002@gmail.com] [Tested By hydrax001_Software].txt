@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hania
+– Email: haniamalikk2002@gmail.com
+– Country: PK
+– Plan: Standard
+– Member Since: December 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 2273
+– Phone: +923255811615
+– Quality: HD
+– Streams: 2
+– Price: Rs 800
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hania
+– User GUID: OYGPU5OJVZDQ3KVCSSKPSVGEZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809863277	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA0xSQ4OL9tzbvss2v5UMXewdLzkF46uc3YMpJWHFX1wgYlaSF3ZnZ0F1ZA5MXQpdpHlgHcn2GU06WAFJXOclW2XcrjIoD4Q1T3SzMiU4QqAx3V6XAZatxg-q8cghxwY78UaxEAsMYVTfA8VFUGiCf0FUZME12ryfdZgoHK860qBEuXPumGP1yfWV7F8wXliBzbwmparSsFz4ISE4Rzr3_LU-s8y8OEZ54o4Ot8csoNjea5e85mjRTHNTWa4oN8H6ZMBiJVjw0umQX6TRfdk1R6sgOZL_Wh_WpL4X4lFqmQPWmfLZQahW5wqqeHTFf4jpQ2rbCzn7GOBkOL0BcP4pSqNy6otlasdEJTMYQRaHbWKx97pP0KFqAWcPIVRqzX9wJHJfgwwK1L78TPxURns6WEkNlwIRWL84sgtzzOtaPCB4eTYN17VwzeqjeAs9Mtf415eBpC2LetzQgDpXthZF02EpWdfLEcBLPiR8_qWCCm3d6vIrn_BuDr5J7S23WxbmGkJdVC4qFGEKphYkQjtJMhsFvOFsat5WGjguqbuWJM5KwwcYBiIOCgz65newDQ68XWNTdHg.%26pg%3DOYGPU5OJVZDQ3KVCSSKPSVGEZA%26ch%3DAQEAEAABABSVzQQPRCbUqoOBvkfEVMbRPbBmKHldnP4.
+.netflix.com	TRUE	/	FALSE	1809863278	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+16%3A47%3A58+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ada110f4-62d0-40b7-86b2-f39eeb6e19d3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1778327206370&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1809863277	nfvdid	BQFmAAEBEI5IpCfsOM5aD4TdIWsbyWpgmME_lERPY-dqycMN470akcm7EtVcFchCCa4uxFcZhCEMn3gkwgyoWLoN4Iie7jqkVEoTccHE8om23h4JzGWyH1S1oH6q_W8Cd9v953YiNo1qdTfwD99GQszBgoUu7dCp

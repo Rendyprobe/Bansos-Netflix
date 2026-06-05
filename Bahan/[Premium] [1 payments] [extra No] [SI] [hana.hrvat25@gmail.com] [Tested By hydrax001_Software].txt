@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hana
+– Email: hana.hrvat25@gmail.com
+– Country: SI
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 2588
+– Phone: +38664178844
+– Quality: UHD
+– Streams: 4
+– Price: €10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hana
+– User GUID: 74JOCJ2XRJAY5IXA6ZRODO37WU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1793621244	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA_FCtWkSd1-KhQ7stHX8A-BIP2Dv6eJ5cLGLL3TwFDLNmw1nDVINKBsNM1SZGdQ9Pgv-d_M3xQXL96uYKhiP0AkxJgoCWCd_cdeHJo2hEShhs4bCJW4UD7ME1NXRZT4C3xJu5WPvTsyOQkHl9Ehl3oCRxh6bnRMPkqyw1Dit5AtrQLm--2JA7RYC6gM_QT1UAZLU7_0jC2fL1MlgDAOvqCJz1MXa9xGn5jVsVcN3gCQd2JFs9c73Ie9UsV96TsW8GHdJ49NQa5VTRN6oZzwLAPlnTxS1LPdXl7SNdrmXeyydK0flINyzPEiyN8-13OKPt3LRr850gWJB6iMRjEtckOexrU1CRD9wmWyskWwgyJjyZ1FaYe7xlXoTSSdbKekiklZW3g6VEXUVUwostSVi9YEfjxq6Sk7vPQ-OeeYyKM9Idkgnc-Co9Q54GuSnVLrIKUzfAjOB9Tt1XiML-KAW8xTvem-Bo9yy8oBYzZQfiDPaX-pDRuye2Bqlnj7X3XluhMyxGAYiDgoM5eS8I45isvz6A_mN%26pg%3D74JOCJ2XRJAY5IXA6ZRODO37WU%26ch%3DAQEAEAABABSKNaZpi4LsYqc6i2vOv2TVWrMCD__zr6w.
+.netflix.com	TRUE	/	FALSE	1793621244	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+02+2025+13%3A07%3A24+GMT%2B0100+(Srednjeevropski+standardni+%C4%8Das)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa937bf0-287e-4c6e-ad21-73c2430b531c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=SI%3B061&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793621244	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9wBopYLJwOxo5S2E1stbzu0ZcjAAMhrY.%26dt%3D1762085243636
+.netflix.com	TRUE	/	FALSE	1793621244	nfvdid	BQFmAAEBEBnjHc-w2y1OhrcUmfarswlgnPLFFQP7XGUghpRB6ArVVf5GKC9iz_uzTJTvZLNPArZfdrwCtN2Rtc4TXR1OEh2xnNvztCR3-OKaK8aiZwtm1TUdCdzpKZdVkPUOm94WpJZIjb8a2quO58yxJ50PAUxC

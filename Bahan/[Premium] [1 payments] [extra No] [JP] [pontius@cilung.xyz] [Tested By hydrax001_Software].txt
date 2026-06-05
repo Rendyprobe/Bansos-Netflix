@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: pontius@cilung.xyz
 – Country: JP
 – Plan: Premium
-– Member Since: Maret 2017
+– Member Since: March 2017
 – Next Billing: 2026-06-28
 – Payment: CC
 – Card: 6291
 – Phone: N/A
 – Quality: UHD
 – Streams: 4
-– Price: JP¥2.290
+– Price: JPY 2,290
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: A
 – User GUID: 27FLTPGJ6NCEDHZ6ZCSFMYOQ7U
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLEATWs392Z8jNZYo+tYzDaHmVwo+A5guRTm0uV2hi16WRNb1a9vJz9WQ3f6HQoM7md23g/ce9XGgKLsEuJRsDATz6QW0V64y8S1+jbFaHhWBcjcFs8BhxdTD38gdCxF8WRGDrud855+V/gH2Bn2tmsaCTdSK/Bg31zjoOmQuaYn8jfAPtA5L+T2cDF6GRsjHTwJ7lhHaFGHXEpFLeiau9JfOfvvX1mSFROe6sQ1yjs7qa7+eoauN0/U8/rZv2WSqg16OUQd0AYBiIOCgxBdCzD6p5tsp9AfBU=
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLEATWs392Z8jNZYo+tYzDaHmVwo+A5guRTm0uV2hi16WRNb1a9vJz9WQ3f6HQoM7md23g/ce9XGgKLsEuJRsDATz6QW0V64y8S1+jbFaHhWBcjcFs8BhxdTD38gdCxF8WRGDrud855+V/gH2Bn2tmsaCTdSK/Bg31zjoOmQuaYn8jfAPtA5L+T2cDF6GRsjHTwJ7lhHaFGHXEpFLeiau9JfOfvvX1mSFROe6sQ1yjs7qa7+eoauN0/U8/rZv2WSqg16OUQd0AYBiIOCgxBdCzD6p5tsp9AfBU=
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLEATWs392Z8jNZYo+tYzDaHmVwo+A5guRTm0uV2hi16WRNb1a9vJz9WQ3f6HQoM7md23g/ce9XGgKLsEuJRsDATz6QW0V64y8S1+jbFaHhWBcjcFs8BhxdTD38gdCxF8WRGDrud855+V/gH2Bn2tmsaCTdSK/Bg31zjoOmQuaYn8jfAPtA5L+T2cDF6GRsjHTwJ7lhHaFGHXEpFLeiau9JfOfvvX1mSFROe6sQ1yjs7qa7+eoauN0/U8/rZv2WSqg16OUQd0AYBiIOCgxBdCzD6p5tsp9AfBU=
-– Token Expiry: 2026-06-04 09:19:34
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	FALSE	1811739732	nfvdid	BQFmAAEBEOhr1ycmn3ifJHI8UknrpDNgoHEeZvdWfaZxobqs0JSnTjS6ckzryz3N4g1ndoo9PnSP26qKhbyUwCwDKrChyyoiush1RlpV-FMIa5CU48-X8huU90krm6k3gBxm5mE_slUEP5sjJyqGkbj2T-fqGMZ9

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CHIEF
+– Email: tanisha_dotson@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: November 2023
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 1273
+– Phone: +14703037092
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tanisha
+– User GUID: SZ6ZNX4SZZCYXE5ARCIBDLNFM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793983043	nfvdid	BQFmAAEBEC7JG339eY5OjQv0TFGytE9gr4-ojtf8Hwpdacurg_UedWEHCkI9F3OCh8ZTNgA-5_zaVFonm9r6hZVM1tyELtNEKa-fJsiSIsM6x_3q87tXGY9ZGEEGqOfEa7jraMl7fcIbw-eI7My6stTEbGhnmf_R
+.netflix.com	TRUE	/	FALSE	1803017617	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+19+2026+01%3A13%3A37+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4a51d264-7745-48c9-803e-c9e26f5a06d0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808531583	NetflixId	ct%3DBgjHlOvcAxKDBHyfTOmNyxWvumhT_RYIulA733_X1xnTIK1X8idaQ3Nu6rRkP3UZE-bvUXMRFO9OYW4_w6I29lBgMDPooy9ne3dAxSzVno-o5U_iz_GmVlHAKS_vzqSqHUxWCToJ0GJ_wtZP_vbS-9FYlEjcgQmit1ShwFjyQ8jjkoX0SMxgb5Uhbgbf3TZ9w8U2uEvEOkCIqD07rzQnu4U6UemIdSZ161FHL0cy13COcgdIpoS1VikUKZWIG1A7Fc0EI-cLOuAupwijcIar-BE1qySLve6cMZPBn3ToS8yR7x7GQqUNRtjW7Lv0at8vbTN4mA8Xu6fuf3630DbSgzH-6rFJyCnCFzas00Lou6NvEmr0ayuXn9cgdO7edddKn-oD2vdkAGdRgcjKJS8N4p4HP0M0TQfzGGPsRMIAwW1-es8buZJ0pFoY2jPSOFegzjwBwYAwtvboebOGW7g3xf1SyEmoBCZAyEMIn60nEy0fjCor6dXq3Z-IL6O2Paytl7z-aGJsS-gN7tcVd8zlx5uD1eZT8w35Dlifs8T0PeKdx0B9DZIEGoJndpKoK-c3KkINkQ3BTV5x-1fHUPZUgJSWgbKXYo789Cfg4CGFD1eM68xqNjwhpqIja1mWFpq8maC04XnspsD62l4eSHUOvc-5nXZ8BFSeTPHQdrs8DtTjQdG1fKBe09Dht82lGAYiDgoMkxGOO0VtFcSYc60z%26ch%3DAQEAEAABABQpaZzRPrC-jt0GAF7lGfMGPCjIZAZgE0g.%26v%3D3%26pg%3DSZ6ZNX4SZZCYXE5ARCIBDLNFM4

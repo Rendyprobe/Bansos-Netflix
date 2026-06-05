@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Noah
+– Email: nparrishcaa@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 8856
+– Phone: +12674449296
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Noah
+– User GUID: AJWYMZCBPZGJTF5QU4Z474C57M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1781735612	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AgElc3WZCbouKzaRrUmGnHVCtdA0C_-Eh75ZbJ4wOhEi2lRuI9UbOwO-XdQ2StIqk34dMvNui_yzQveD2dNLhy83K99Z59fpLyoXdKxvlsUAOgKFv6vTIlDpU5Bzu2USZiScJK7zKFtk-pNvl8E8Cp1wp8gkNI87wsqRgnwM7vt-l78PSkssz3nCptwVYW0Z7GjyNTQYVQSClnswjGRJoQI0mHtx0zDN8Sh1mQBT36nva045Pz0idsJ85Jh4q5bc5PMm7TPPdiVJBENaNe6yWY9IQtTH-vPuWiq8A_pOX5ljrz9Bibr_-J6j99CaXeZmyX4nanb3gclEoSI4k8G8kZgSJ2wCZAMVztuiYjoTtCbnXYiK_dN4Pgd5tR_BR_0Z6AHCVbx07Episty6h2t6QcWAhJSLvnalPto8X51zU3SbHFAZQPjNwQx8Kvf-CVerFu3FJzdpN6_VZepGuFU08cL2-zi74Pd9VPXMlJr_3UhuQ3xvkOBxLftrQ0YYBiIOCgyGFeYj--CWriAp-W8.%26pg%3DAJWYMZCBPZGJTF5QU4Z474C57M%26ch%3DAQEAEAABABRIuZNcX1XR0jUsLn8oCIkqT7_VNqySalg.
+.netflix.com	TRUE	/	FALSE	1781735613	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+17+2025+18%3A33%3A33+GMT-0400+(Eastern+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f72fcfa5-d9ab-46b0-84ee-0c57db1bb315&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1781735612	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCKsK3ujsFtsoLOQ2thIyEEhyv_2PgnQU.%26dt%3D1750199612456
+.netflix.com	TRUE	/	FALSE	1781735612	nfvdid	BQFmAAEBEHBnWxuwcpEYa5j0h-ZEnZZg_wLvHLcxzs1y_cHlDzpBzkZeeGmeX1xalJZh_YpoyPZmQWWazKxgczHBhMcybGLamWVYnthytkERUyzsNAWbgZZV5oTRbf4oGBGJHlYHu-rzcF2A7qj5wXpeiayyUl6E

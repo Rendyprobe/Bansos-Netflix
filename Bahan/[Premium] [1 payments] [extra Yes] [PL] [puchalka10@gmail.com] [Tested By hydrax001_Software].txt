@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Olaf
+– Email: puchalka10@gmail.com
+– Country: PL
+– Plan: Premium
+– Member Since: grudzień 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 8409
+– Phone: +48691187425
+– Quality: UHD
+– Streams: 4
+– Price: 67 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Renata
+– User GUID: CKI72C56QZBJZMQR6OPCSZWOBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789295936	nfvdid	BQFmAAEBEHfisao9xfVp0jDwawWak-ZgSPqVRfduVqeS6oaywuVPS7vhJxN8Vu5QjRGiIKWPkhev-LoG2wfCLaP2qW9RCen7ZBKL3XkVlE-9C37G97iSmE-RP552gFOUm4AgO52S4wlytB6tNc6tj9tFYEFJLFyL
+.netflix.com	TRUE	/	TRUE	1807093801	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiLfhT1dKWBLBEWae_dkXJBb3dLpmvuJA.%26dt%3D1775557831498
+.netflix.com	TRUE	/	TRUE	1807093801	NetflixId	ct%3DBgjHlOvcAxKABG4fAZY5SKKTfJqKSSJoGdKBU3P3VuEFZEJlNpNdimF0Ks_vYSjuj5KZXUQAdfNDmbagtZWZACkYrk27gsqq9Z6mz7TX1bOEwHHSFVitRrtwYZXCnoPaGej0bsmS3ubnEdNp9ISd5G-CDaYTbvpqeZBXtDkO3N_ULWKa1VWYTzNCTAauw7QSD8aTY-eVe_o89asD7LEoLzyGkymPZ0c3IqlXLiIENoC7uybAbhEu1DHMDu1tXL2avitiZXQY41OKqSbUihIj-OUxtM23uHxMWGl91Rm9Ggf5gX6WxutwakOcg42-FQg0ZM2pNExMNPl1i3J8Yk_EDFqPUhMIFb05R6b2qBEIDXWctw6Nkh0V94Q7UVGKuNBImia0YA4vKKxA6YAW2u1nqEk9PBmcI03Se2bO3Filsd2TBWACd9kXm0RW8EaO8IdQjwmYn_p-HQkGjILZJKzmbUOTOG83IYMSoZTJB-sb2etTlurk85se5w1uxlKWlsiGY8PTZso09DANinNunf8PftdBa416tmp-KuYqb7OHkp45kxjlrWgZNN9QtkxcHH-b8zgCm6fJRIIdVeZ5pvEY3N05RvaKbQdsZWMHWS1PQ7AXkqbeb9THSyOPsnrT6fDo8EE4mqYuUyTmhxIRTZDdlrDuOJD1eqk_MidKzi4l_dJMNKlrCxmuypuKGAYiDgoMyLaCVwcd4LWR7igQ%26ch%3DAQEAEAABABT8FlNc_nrD7lhF3CqK7_nmfNm9LhOctvc.%26v%3D3%26pg%3DCKI72C56QZBJZMQR6OPCSZWOBI
+.netflix.com	TRUE	/	FALSE	1807093803	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+12%3A30%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63a641e4-6b20-49be-ae10-750d2e1eccf2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false&prevHadToken=0

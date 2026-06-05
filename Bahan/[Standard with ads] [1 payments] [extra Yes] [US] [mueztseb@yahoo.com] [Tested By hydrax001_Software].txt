@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rina
+– Email: mueztseb@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: August 2021
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 1686
+– Phone: +13017284589
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Daddy
+– User GUID: 6EBNPIMSAFHV7OAOCG7COB7FVI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783197723	nfvdid	BQFmAAEBEG5QLIGFx7bc4IoTxEJdgm9gBJIaD0DJlyqupraiUat80M9Q7Ss0Wajqxya9Fj11sZwvnA1A187i-50Aolsiciu803GJ7U28X7vytLxsCYR10DPc6n26rpoLs8VCogGnMRybSMgOZRMv8D8pfU9FSttq
+.netflix.com	TRUE	/	TRUE	1783197723	NetflixId	v%3D2%26ct%3DBQAOAAEBEKKKGGzky8feD4daAD_PCLiBwLsxqcOCrVG2HKongqslwWmdDhZzuIjckmEPjUCcpVdJ0QwamcfeSbR3Prv4sUpQ9pbCmFLdcfzn5zDmKaxwThTRyalwVzMdlX3D7Jq2Y5FqlnGcVI_MFRexgPXa-V-g0GaLWPofsO6JipdoxV8ScXfiHNA0B6pWk4ch_uSw1oytEMfU60e6bW-ZzuAk0SMpevoGnMj1cTPuF-HrVMk9rbRQIeaY2VwzPkC-0FxibXnieY96OvOcjAreQoevIDE8CXRc0nuadN0W3oTKoMjN664YUB_s-DHKkVvMc9G1VOcp_fGd6x8UU0mgfPgntTbej1I1MZ8MTmgl2iCOpka7YPJgsXW7pvr3VnNKYQu-JW6nLNWb_wT6a1Jn048o1jXxiGHqB5IujoH1ie7N5ozAuld-BhkSXLzncKYVblFn8yTVn23FEiqoIB2oXJhLFl-G40sttSuoc4pbtbbHYH_mzJJv5YAQDBAFwCxzX039sH70BER1YWW8eMTVwIwGa0y1quxurfiWOlXKAC7K8uah750G-tM_XS-nDAGZIqvF4fu8maTUzOPnM4SBR1B2O2NVPigiLPryPKkqBgRwZctzjCQ.%26bt%3Ddbl%26ch%3DAQEAEAABABQ5wU7-S0HgdYhO4aLhpN2NcJ82UstlXLY.%26mac%3DAQEAEAABABQ9FdJyZKHitYgDaTxD_REexasWM5D0wfg.
+.netflix.com	TRUE	/	FALSE	1783197723	OptanonConsent	isIABGlobal=false&datestamp=Thu+Aug+11+2022+19%3A37%3A58+GMT-0400+(Eastern+Daylight+Time)&version=6.6.0&consentId=9eeb80ea-92cb-4a81-971a-cab3c486091e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH52%3A1%2CH48%3A1%2CH49%3A1&AwaitingReconsent=false
