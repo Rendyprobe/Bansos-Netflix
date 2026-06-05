@@ -1,5 +1,3 @@
 .ms-playwright/
 __pycache__/
 *.pyc
-Bahan/*
-!Bahan/.gitkeep
