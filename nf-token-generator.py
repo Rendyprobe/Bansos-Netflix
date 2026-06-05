@@ -438,7 +438,12 @@ def run_saved_bahan_copy() -> None:
 
 
 def run_get_bahan_menu() -> None:
-    print("Mengambil bahan dari file tersimpan.")
+    source = choose_bahan_source_menu(can_use_web_bahan())
+    if source == "0":
+        return
+    if source == "1":
+        run_interactive_copy()
+        return
     run_saved_bahan_copy()
 
 
