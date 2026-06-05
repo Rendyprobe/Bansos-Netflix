@@ -12,7 +12,7 @@ is_mobile_runtime() {
         return 0
     fi
 
-    if [ -n "${ANDROID_ROOT:-}" ] && [ -n "${ANDROID_DATA:-}" ]; then
+    if [ -n "${ANDROID_ROOT:-}" ] || [ -n "${ANDROID_DATA:-}" ]; then
         return 0
     fi
 
@@ -21,6 +21,14 @@ is_mobile_runtime() {
             return 0
             ;;
     esac
+
+    if command -v uname >/dev/null 2>&1 && [ "$(uname -o 2>/dev/null || true)" = "Android" ]; then
+        return 0
+    fi
+
+    if [ -f /system/build.prop ] || [ -d /system/app ]; then
+        return 0
+    fi
 
     return 1
 }
