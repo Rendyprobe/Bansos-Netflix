@@ -438,18 +438,7 @@ def run_saved_bahan_copy() -> None:
 
 
 def run_get_bahan_menu() -> None:
-    web_enabled = can_use_web_bahan()
-    if not web_enabled:
-        print("Mode web tidak tersedia: langsung ambil dari file tersimpan.")
-        run_saved_bahan_copy()
-        return
-
-    source = choose_bahan_source_menu(web_enabled)
-    if source == "0":
-        return
-    if source == "1":
-        run_interactive_copy()
-        return
+    print("Mengambil bahan dari file tersimpan.")
     run_saved_bahan_copy()
 
 

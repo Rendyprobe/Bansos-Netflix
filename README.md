@@ -143,24 +143,17 @@ Pastikan `input.txt` sudah berisi bahan yang benar sebelum memilih menu ini.
 
 Pilih `2` untuk mengisi ulang `input.txt`.
 
-Submenu:
-
-```text
-Dapatkan Bahan
-
-1. Ambil dari web
-2. Ambil dari file tersimpan
-0. Kembali
-
-Pilih sumber bahan:
-```
+Menu ini langsung mengambil bahan dari file tersimpan di folder `Bahan/`.
 
 ## Ambil Dari Web
 
-Pilih `1` di submenu `Dapatkan Bahan`.
-
 Mode ini khusus desktop/laptop karena membutuhkan Playwright dan Chromium.
-Di HP/Android pilih `2. Ambil dari file tersimpan`.
+Mode ini tidak muncul di menu utama. Jika tetap ingin mengambil dari web di
+desktop/laptop, jalankan:
+
+```bash
+./run.sh --get-bahan-web
+```
 
 Alur:
 
@@ -183,7 +176,7 @@ Saved copied text to input.txt.
 
 ## Ambil Dari File Tersimpan
 
-Pilih `2` di submenu `Dapatkan Bahan`.
+Pilih `2. Dapatkan Bahan` di menu utama.
 
 Program akan mencari file `.txt` secara random dari folder `Bahan/`, lalu
 menyalin isi file yang lolos ke `input.txt`.
@@ -244,10 +237,9 @@ Desktop:
 1. Masukkan banyak file bahan `.txt` ke folder `Bahan/`.
 2. Jalankan `./run.sh`.
 3. Pilih `2. Dapatkan Bahan`.
-4. Pilih `2. Ambil dari file tersimpan`.
-5. Pastikan program menampilkan pesan `Saved ... to input.txt`.
-6. Kembali ke menu utama.
-7. Pilih `1. Generate URL`.
+4. Pastikan program menampilkan pesan `Saved ... to input.txt`.
+5. Kembali ke menu utama.
+6. Pilih `1. Generate URL`.
 
 HP/Termux:
 
