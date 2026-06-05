@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vittorio
+– Email: micasipg@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: agosto de 2025
+– Next Billing: 2026-06-25
+– Payment: DC
+– Card: 3817
+– Phone: +5565992762021
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Miriam Camargo
+– User GUID: B5HF7S2ZN5CI5C7JJ73NECEC6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVnZ/3LJjKn4CfDSay/MrJE2UC9mcr4sinWVoUyFL/YEjg/WXaWvqZYPqalk1jUWtEdHYiAsRF7TWZEQde4BzA94V+Yft8Rqeh1j9GNlh7FjSeCfx+DwxcTgQg5cHGoAoWRmdyoXqeqBmWuCsdgWC2CKi+ThPJ/bQwBXdSqyXanfBZMLom5Z+OmpBPaw6Ql0Oz/rlrkyTQKjOSvbjK6VaSu8TklDsBojBK5/HzV8AKJmgOg5Sve+rNtCczOuLqDDeoDTGAYiDgoMuaYwDXHRBlSPc2lC
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVnZ/3LJjKn4CfDSay/MrJE2UC9mcr4sinWVoUyFL/YEjg/WXaWvqZYPqalk1jUWtEdHYiAsRF7TWZEQde4BzA94V+Yft8Rqeh1j9GNlh7FjSeCfx+DwxcTgQg5cHGoAoWRmdyoXqeqBmWuCsdgWC2CKi+ThPJ/bQwBXdSqyXanfBZMLom5Z+OmpBPaw6Ql0Oz/rlrkyTQKjOSvbjK6VaSu8TklDsBojBK5/HzV8AKJmgOg5Sve+rNtCczOuLqDDeoDTGAYiDgoMuaYwDXHRBlSPc2lC
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVnZ/3LJjKn4CfDSay/MrJE2UC9mcr4sinWVoUyFL/YEjg/WXaWvqZYPqalk1jUWtEdHYiAsRF7TWZEQde4BzA94V+Yft8Rqeh1j9GNlh7FjSeCfx+DwxcTgQg5cHGoAoWRmdyoXqeqBmWuCsdgWC2CKi+ThPJ/bQwBXdSqyXanfBZMLom5Z+OmpBPaw6Ql0Oz/rlrkyTQKjOSvbjK6VaSu8TklDsBojBK5/HzV8AKJmgOg5Sve+rNtCczOuLqDDeoDTGAYiDgoMuaYwDXHRBlSPc2lC
+– Token Expiry: 2026-06-04 09:16:25
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808345688	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA8rnwpEelTTLOo2dCXs3JgKpyeHa0DHLat752FW0YuQ--7oOl9uSIzCba79kIIJuOgjyz1rJU_jthq-La2lICtqK2N1CGH_2NX58Nlcs5SSzL2gGgzVy-02GgOgj_R4ARRNC4PcFSam3-4u3qX3SzzbzZNw3Q2a897ZGiJ5aMTqK4TWGt6xOnBsJXNlLumrda6rFguFfKq3PHn3BjFR9w4Pv7npDW4ytS-sfPWQaMHKvNJOmX5irQqzBAT05nQc1x-gB0O4DP9wqXHoAohVLVuKxIzLHRnsKivPzSDMrJ-H0nO0687BP81dEDstbnq3iTRL8kZQBS3BeUBuq9zdNKyfoA7FV4hOEjmfSPDfZ-oUn-a0Lk5iC-fz8ytlAvrd8SXR4rP7PmeV_l0A6XhuPNqKIFDFWRbGEiQhIQA_ldPGWxdcPJS18EkliAWMYylgNHFJQDo9JBR1_3fhDhdeNRtEfOmwzIT3EuRLDXSIPO9EdBL7x_FX9Irm1FhyYfwlvmqcvKsiCzG_DIE-PMcAHLCw3eQfAivgYBiIOCgw1Hsh8sEjCZRHPhGQ.%26pg%3DB5HF7S2ZN5CI5C7JJ73NECEC6Y%26ch%3DAQEAEAABABQy6FJOqfgHNHxosSkljvvc76F5UMvqRK4.
+.netflix.com	TRUE	/	FALSE	1808345687	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+19%3A14%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=799eac80-c59f-423c-8829-8cfd7a395336&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776807040467&geolocation=BR%3BMT
+.netflix.com	TRUE	/	FALSE	1808345682	nfvdid	BQFmAAEBEGt0h136Y6kOrY5CCKZPasZgLFJGnKNsv3hrcViHU1Pg0b0bbiZufL4G0WvI0SN-QdXnnQCDIVyullapUFSt6YXPMdFPJc8xDCzeDJe6o_O5vKXV4DWixZom6J57kLmjjRWym72WpfiK-Q30GaAMNmId

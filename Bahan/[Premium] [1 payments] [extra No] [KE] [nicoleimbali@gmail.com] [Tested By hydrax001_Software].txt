@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nicole
+– Email: nicoleimbali@gmail.com
+– Country: KE
+– Plan: Premium
+– Member Since: February 2023
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 2319
+– Phone: +254700255149
+– Quality: UHD
+– Streams: 4
+– Price: KES 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nicole
+– User GUID: 6FINK35AANHKXDCCNHWOCJSQVI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLEAUpItdnTp7MkW4L7pTx9UM1A5HbrydGvaI+Mg3hW5bDKDlOIDH5NL+/Nc3d4F3o6iGHZ8lFj0Yhb5GOJ7tVNTlDdcaRwjNWGjPAixGgZFaQEDto+MCqdYVFBxXTivoK4J8xOMEytY8BB8X2Sjful/VRn2/rjiZAfR2lZEuTjBmGd7dkR6dCGOd8jHdYHm0LN/R152JQuVN56oFofujhGm5Il4F56BshJtfxiQEz0EkYwcLNFXTOKDbv/Db0aZZKiIRX67Q4YBiIOCgy1j0J3vBy8iQCgeKc=
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLEAUpItdnTp7MkW4L7pTx9UM1A5HbrydGvaI+Mg3hW5bDKDlOIDH5NL+/Nc3d4F3o6iGHZ8lFj0Yhb5GOJ7tVNTlDdcaRwjNWGjPAixGgZFaQEDto+MCqdYVFBxXTivoK4J8xOMEytY8BB8X2Sjful/VRn2/rjiZAfR2lZEuTjBmGd7dkR6dCGOd8jHdYHm0LN/R152JQuVN56oFofujhGm5Il4F56BshJtfxiQEz0EkYwcLNFXTOKDbv/Db0aZZKiIRX67Q4YBiIOCgy1j0J3vBy8iQCgeKc=
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLEAUpItdnTp7MkW4L7pTx9UM1A5HbrydGvaI+Mg3hW5bDKDlOIDH5NL+/Nc3d4F3o6iGHZ8lFj0Yhb5GOJ7tVNTlDdcaRwjNWGjPAixGgZFaQEDto+MCqdYVFBxXTivoK4J8xOMEytY8BB8X2Sjful/VRn2/rjiZAfR2lZEuTjBmGd7dkR6dCGOd8jHdYHm0LN/R152JQuVN56oFofujhGm5Il4F56BshJtfxiQEz0EkYwcLNFXTOKDbv/Db0aZZKiIRX67Q4YBiIOCgy1j0J3vBy8iQCgeKc=
+– Token Expiry: 2026-06-04 09:19:38
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802007050	nfvdid	BQFmAAEBEJ7qEew_DjtLR6y3yt2xXyZgXb-ViiJW5K2DF8PGI6FfampP4bE8sxlMbsor9FNririndwszSZt5bBWrbLj91ZA5ETWCCQXS7NTdfQYTDyqkB_vVFE7cOpbOVw4N2p-H0j9vKF5-0UVYhyA7d71Ld9Pw
+.netflix.com	TRUE	/	TRUE	1802007616	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AtjwEDuFjo-XAzAsG2VMNA7R4c9lHK3GtK4LZxH-THa1pYuDbZ2zLeGnbIkEwO5OwgkQPLniy3UOF-vlT7djS4OM3Bvnnm9D5gpi8seVefpeDYnkdXFvRjOVdrk8fC3fGbRfn-F_KpK7YEbMr3RrZaNGBD8T_oA1AkpDV15nhU1I5OXolEmxZ7i3hvkzsRjGYEiDa9GIr1tiwx2dLwIzv-CmgID8NnftUwFl0TSckOYJwZ39itZHbLPCxnrvTISxo0Y5EUll_6J1oCqCw5rsmJNvMq7HteokCnUTnQQ97OE7755PLHKOXLOFs9OiPgwqrGDFuyiHJ5nzdxp-fomSyH4P8rUMtm7lXM3xoFkLICLrO6Q-1xk24gdqAswZclfYw0Yw0qzW-5f6EzVAMIxhAHnDi3DwTLLyf90DquGOC_ourrYFK8L_ZhX6Qob0kxqz5JPBwgwJizK5SpbLkKI_mPj74AjrCl0AOUm16QEX5EtFz4AOtwwYBiIOCgwbBiudwWFKxTHR4ng.%26pg%3D6FINK35AANHKXDCCNHWOCJSQVI%26ch%3DAQEAEAABABR9vI-3bn5-zQfiqmQ-ySO2VMzaNm_q6WQ.
+.netflix.com	TRUE	/	FALSE	1802007617	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+16%3A40%3A17+GMT%2B0300+(East+Africa+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=71d49f3d-ae0e-408d-8dc5-855424385874&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

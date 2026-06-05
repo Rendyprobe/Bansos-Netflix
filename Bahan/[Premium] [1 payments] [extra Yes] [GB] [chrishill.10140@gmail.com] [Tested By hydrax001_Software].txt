@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Christopher
+– Email: chrishill.10140@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: November 2019
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 7244
+– Phone: +447599632556
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Christopher
+– User GUID: JOLOQZVNOBDP5NZXDXQ5UNF26M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAf48xbKYO3/itDq64HN3+uuH7+c4E6D6NtApajsx6lQGee0CbjkRxHe55N9t3qVQD0RfbdWESnhOVY5hNdb4ZcVYDUkgSWM6akZsWRj6JI+0wcjIwsVHkm37CxY1yb0BqSWx4mGXcZvUujgme3NgkxyiinDl9xlgAvozKlCcWZ/OeRJSTtN+CSLmYIyytM27TDU/AVjAvTIEpenjZiFiRz8I+L6kbYhrdkl/Tnn1NvxaiZyJbcwk36Ao3lgJWkKqysVTGAYiDgoMK4w6n9bgbiLdQcED
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAf48xbKYO3/itDq64HN3+uuH7+c4E6D6NtApajsx6lQGee0CbjkRxHe55N9t3qVQD0RfbdWESnhOVY5hNdb4ZcVYDUkgSWM6akZsWRj6JI+0wcjIwsVHkm37CxY1yb0BqSWx4mGXcZvUujgme3NgkxyiinDl9xlgAvozKlCcWZ/OeRJSTtN+CSLmYIyytM27TDU/AVjAvTIEpenjZiFiRz8I+L6kbYhrdkl/Tnn1NvxaiZyJbcwk36Ao3lgJWkKqysVTGAYiDgoMK4w6n9bgbiLdQcED
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAf48xbKYO3/itDq64HN3+uuH7+c4E6D6NtApajsx6lQGee0CbjkRxHe55N9t3qVQD0RfbdWESnhOVY5hNdb4ZcVYDUkgSWM6akZsWRj6JI+0wcjIwsVHkm37CxY1yb0BqSWx4mGXcZvUujgme3NgkxyiinDl9xlgAvozKlCcWZ/OeRJSTtN+CSLmYIyytM27TDU/AVjAvTIEpenjZiFiRz8I+L6kbYhrdkl/Tnn1NvxaiZyJbcwk36Ao3lgJWkKqysVTGAYiDgoMK4w6n9bgbiLdQcED
+– Token Expiry: 2026-06-04 08:58:53
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13420399642794152	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA-F8gbqogFOVhw-bxuvdGWglKF07R7NqpAUhiNwrAf2xNv9XNN-0BEw7-TdqgbKq5qISpjNjtdrs0AU7m7kPW45GA5xb6exl0xPwy2IxGhFSNz2EmCayBo7fG2OHbXFCZx2JWzXaxBFCvwZSd6NmII-5ZsCprPbB0H60WJo4CRApD2_wThDikxsRTB4vewlWJTjTdrNqD4Za67Uo_zcw73W11JS5yJzawrvuTPV-zRtKk8_2VsCORpeVG2TA30dDPFLaOJaniV7EXSkz-O2w1hbGyG_PCIGSvBLUEozpfAyyrQHtUwEHKzjQ93aOPbAHIv8Z4R7pSV_j_Jn0Yw_F6_Q9fJ36Y8HzWAFMqPreL7d7p617QpBdT5AAAPufFtfmCnBgjDoI2GdqCDw1TVxG5GeqwlNnX_9drfPPYbnQWBTbwNgHkcz3b6HdOhTy5tRq1MjE_yvrmzWV-av08JSlnHNxBqi3XfU8pm43OC12cz2-CjyB7xD4ZD-vpFw5Mn_MkeGDtVcVpBgGIg4KDLSSFsEysntmE6DfTA..%26ch%3DAQEAEAABABSDhNj2cCSGZvd09DfGlkG4f9DrrgC5VdM.
+.netflix.com	TRUE	/	FALSE	13420399643000000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+11+2025+17%3A47%3A23+GMT%2B0100+(British+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a23e1954-aa51-4b99-998f-e185d8c2b14e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	FALSE	13420399642794050	nfvdid	BQFmAAEBEK4-P7PR1akuYMnLnmrtzmpgkhgB31tpLM-_zQo_lrxZ8Mwl6ZC3-lOnTqG8RL9K29HII5LshgfWbvnO3gFIBaJALYh0Yc_iiM0Vr2QkPxeNRJS1UIMLQlPq8TXYuDKECxKKHKNGQnn8hSpG9baVCgG4

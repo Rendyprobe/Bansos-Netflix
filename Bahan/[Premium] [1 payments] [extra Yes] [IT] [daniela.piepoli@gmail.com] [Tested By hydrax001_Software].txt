@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Totta
+– Email: daniela.piepoli@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: febbraio 2020
+– Next Billing: 2026-06-26
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393391380764
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Totta
+– User GUID: HCBI2BIDQ5HURMYKH3QFTBGOF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAQ+1WQkUeQZByDmkD1RyE/OQjGGgQCneXlPjDc3qYzahNixxJp5aQkYHclUiE24/F2yqBEdFog64tihWf6eQsbz29SiAN3K3qzRagpAlxitDNbt6ONsorNg+ZpClX4G/u4VyezYlBCKMDUUMBYQMwP3Wtkh0yxtTzTEd/x1a8iji4YbMQH+jdjqYipV9C3zX21fiH9OiyI2SzbmX6UkGqx6LCLDyyNGpa0fb8UDUFvES+w3fQi+RKcTu0/xLdR5qfPteGAYiDgoMRDfxFhWmAuOXtXDQ
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAQ+1WQkUeQZByDmkD1RyE/OQjGGgQCneXlPjDc3qYzahNixxJp5aQkYHclUiE24/F2yqBEdFog64tihWf6eQsbz29SiAN3K3qzRagpAlxitDNbt6ONsorNg+ZpClX4G/u4VyezYlBCKMDUUMBYQMwP3Wtkh0yxtTzTEd/x1a8iji4YbMQH+jdjqYipV9C3zX21fiH9OiyI2SzbmX6UkGqx6LCLDyyNGpa0fb8UDUFvES+w3fQi+RKcTu0/xLdR5qfPteGAYiDgoMRDfxFhWmAuOXtXDQ
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAQ+1WQkUeQZByDmkD1RyE/OQjGGgQCneXlPjDc3qYzahNixxJp5aQkYHclUiE24/F2yqBEdFog64tihWf6eQsbz29SiAN3K3qzRagpAlxitDNbt6ONsorNg+ZpClX4G/u4VyezYlBCKMDUUMBYQMwP3Wtkh0yxtTzTEd/x1a8iji4YbMQH+jdjqYipV9C3zX21fiH9OiyI2SzbmX6UkGqx6LCLDyyNGpa0fb8UDUFvES+w3fQi+RKcTu0/xLdR5qfPteGAYiDgoMRDfxFhWmAuOXtXDQ
+– Token Expiry: 2026-06-04 09:19:25
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798661822	nfvdid	BQFmAAEBECGTnZvglM2GcuTuiXljANxgEmi5wBbpPTBAv8db2Z3PTnFxZkvsOZc4kJDQzp5llmc5JsqBQRnh7_c9vPShrXqNLo95dwDUpUcDRGEzAPKuF-bYezmdChRfJNnS24B21gtZB91BLs8eQ03NqN3cUmZI
+.netflix.com	TRUE	/	TRUE	1798661822	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA1r73AwjsBcfPh2Mm-ma0hdknfNKFve2ZA3VvtPq9wvCl_Z__DSRQFAZaMLc36KBzIVOn05bnm1cqri_OHJq5sl49ujgQnTP-oHcceN4XF7y9hcAfyQ7QlFeXXDszHQ9BGZ18g5F0JMujR0nk6fyKR8sY7tANFag_-kCGQbNAmh-Ptj_TzfeFe63Fkgt9ltDhcM7mrZY-8KjjTyUc4iuqiVGHcgrcQaPElZ1npPrxyZ4cF8JMcg45xqQrOeekZVfTO-7fBXae6yiDNzl6U9iuXT4GaG6zSM1igxVdEt8v810ycSJpbWUNWOTkuh55BI1s8c68VUM7nTGMLBotjVBzIyabSuiHS7Q3TB7CmTk-H63186FaAVBENdAOGUoEuwslbzneq2YIPsJvE50Hec74_hITnHlmm6E-Vri3zG34MtSPM5tSD2kqBk0apeZctOpqvd7nx89ESVHSe120hG3RZj77itWEm-YoSungcozmuqb5viPjk5v459aUsdEpIZhcU7BxRgGIg4KDLQG93KqjTIRe_vUqg..%26pg%3DHCBI2BIDQ5HURMYKH3QFTBGOF4%26ch%3DAQEAEAABABQu9VJSmdv8JN-pCi97PGV9IXqbTUuXBMo.
+.netflix.com	TRUE	/	FALSE	1798663435	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+20%3A43%3A55+GMT%2B0000+(Ora+del+meridiano+di+Greenwich)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dbcc974d-96f9-4c93-92ed-9d0519456004&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B25&AwaitingReconsent=false

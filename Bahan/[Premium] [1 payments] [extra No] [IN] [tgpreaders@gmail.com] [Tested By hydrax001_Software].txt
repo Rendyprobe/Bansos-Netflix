@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Intern_01
+– Email: tgpreaders@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: October 2022
+– Next Billing: 2026-06-06
+– Payment: CC
+– Card: 1016
+– Phone: +919850522469
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: TGP Bioplastics
+– User GUID: NJJK2SMPBNBGPAK2F6UAXOPEEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811265643	nfvdid	BQFmAAEBEFtebucuIJ4rhUyzb6iyckZgiKf87mwaOriYq1uI8vRQ1_OPaN9jAimGHDiMDWKaH_8erCGg5DGWdqQ0XjlVHRJ4EIvNv5HLmWED_QPY8igMHmgrcdt5lBaCuCVOFpX9EhLx8REzmHoIsUKlo6TNbchP
+.netflix.com	TRUE	/	TRUE	1811486763	NetflixId	ct%3DBgjHlOvcAxLrA_xEco38szeAI9qtIK7x0xg-OyooUlYbr3LrqkPOHHrtyji19JL8erj-QZUuzVRKKwvEFA4QW-OtM3JMDJNJXqMoQ__ciysk1Kn7WbUAutZC4aXifOm1XO5Nhzb1DknZGvEQlKL2zqMDXw052frXwcp3IhsxaifETLrKew67CwtBZ1LhxK36YynYFsK23MEw5jMO5gtnA5C9sYWsd4KAWUrQ-iakHR7Ae0N_vx6WBCCYJ3gW12SzHxASHsKwXh7vmhOLBe_nUuqIVFR9R4Qj2loMtDHBNsfC6P1A7YeXimGTT0cgTbaScDVlkjz2m2lLvYDYnhXoPzm18P_gyhsJjEeAYN5KNz9zO-8jeT7J5LozzAutAg09JLestFN-KA2PpPfTeCym24yAaaZt604AlUBMpDrEKD0ZyuyG4gs3LyEf9oiEZpzQ7vhn5b6OUCo_mML4W_2vPVcQv7Dl_cEz6dRb9RNHUBjjuesQID0j57cqk5P22YEvXvTzgPxVn90-kkklye0uavF12nm1DCYlOYQWRI2IR8IeK0h45jOTY80Ckzrarm0wIOgy_pIFMw2fpRVOazcr22C4-L_AdWoBoYTrReNXwf3QE89Iyrjgwd2myqLBzh9QCbGiX5rHYfyFATsJl28TmW9dMmyiGAYiDgoMTufSXw9VI3rsTwaM%26ch%3DAQEAEAABABQYuToVPAnrQHZ1wKcdDJ5RLHFeP-AHwiI.%26v%3D3%26pg%3DNJJK2SMPBNBGPAK2F6UAXOPEEM
+.netflix.com	TRUE	/	FALSE	1811486763	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+12%3A16%3A03+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=60615de5-135a-4993-87aa-713059a823dc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779729544902&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811486763	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQQ18PxpltUBKNHDTde3g-8xdCfKu8WqY0.%26dt%3D1779950765181

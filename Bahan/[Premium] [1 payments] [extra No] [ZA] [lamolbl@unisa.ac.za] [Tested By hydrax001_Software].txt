@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sam And Cliff
+– Email: lamolbl@unisa.ac.za
+– Country: ZA
+– Plan: Premium
+– Member Since: March 2026
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0927
+– Phone: +27839598893
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sam And Cliff
+– User GUID: BQPYZXLS3BD4TLPGGGCUK32IIA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAaGHacUlF8SnvpVur+di843p1Y9bQ/vF15AppbUzVPo5up12Unnugvb11C6uhJ744YKqUNs/e9s8gxyIGchFJ754qn9OvPzMCMJeSO5lT56vsyzdn9j34RAGrwaOpNIwREJgQbha9Ro+qZkhOlYhXengreAixyQXu41We2luibe8s5/dLNbARTTMRPxDXJJtDw7kS62nDVgV07j5BiFKkVdmJVG0GoTdaNnaR+eaH/9ZSj+pEr6mejtyscLocQnynmfcGAYiDgoMNlXvc2GGDCjsgBwi
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAaGHacUlF8SnvpVur+di843p1Y9bQ/vF15AppbUzVPo5up12Unnugvb11C6uhJ744YKqUNs/e9s8gxyIGchFJ754qn9OvPzMCMJeSO5lT56vsyzdn9j34RAGrwaOpNIwREJgQbha9Ro+qZkhOlYhXengreAixyQXu41We2luibe8s5/dLNbARTTMRPxDXJJtDw7kS62nDVgV07j5BiFKkVdmJVG0GoTdaNnaR+eaH/9ZSj+pEr6mejtyscLocQnynmfcGAYiDgoMNlXvc2GGDCjsgBwi
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAaGHacUlF8SnvpVur+di843p1Y9bQ/vF15AppbUzVPo5up12Unnugvb11C6uhJ744YKqUNs/e9s8gxyIGchFJ754qn9OvPzMCMJeSO5lT56vsyzdn9j34RAGrwaOpNIwREJgQbha9Ro+qZkhOlYhXengreAixyQXu41We2luibe8s5/dLNbARTTMRPxDXJJtDw7kS62nDVgV07j5BiFKkVdmJVG0GoTdaNnaR+eaH/9ZSj+pEr6mejtyscLocQnynmfcGAYiDgoMNlXvc2GGDCjsgBwi
+– Token Expiry: 2026-06-04 08:57:10
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805309976	nfvdid	BQFmAAEBEHnqyi-hYIZ5YHpzXabpjg1gNle41PLFN7md9Q0qSK--UbsrciHdZ0kFmrcnekB-zqGmLm7SH9zcAwidv6NSY1KoMvo8BTNumbRrcqvhxJtuqnojTkAnr-u0LlFck-kdBFOhpQbKTF9m0M5-WVN7q72L
+.netflix.com	TRUE	/	TRUE	1807286068	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA4TG9DmS5IVztrC4RoiiuoFgmfPgTxbYAvVIwMfLJXdlSfvXYgGlaTpwMCGCp6u3A6HwDQdRsOSOW5dYh0KxDxw2dlfeV5YWlzRMzKi5gvhKZRCT0SLwqbFrnZB-lhhHK4qz7PevE0h9qoN13WqttZHZubQtFE1KkYeD5EnbQl2wg6XmNksFzfm3RroxIzmTulaXkWchpFdoAXB2LcYlaMjdJihMvzQ6OdA19ERc5obnwHGaxECRLYSZXuO3UbXUsWBZJrRE0FrB8e7DDvgUIc1D26jdruKuy37aoXObvKP3B-FtaJMrGHiL9uv5DeutCywvJv0KjDMhZWg3I_tXypHjrfWmipWnWz7pBXT2zXBXI4LDaD1M8-_pGWiAyUCclOwQWrkbBRPcE7W0z4EcCGileQkskqlPL8O1UqBk9ofu0QxpbRDMjGCi-TV-kDCZDMqADxgvySJ-WevzzWsjZe21aXSyO-h4B1bBhcY9I7smzL38hxiXd9qCpieAluohqDfg-jEmLnnx19OsFzDi0mkkoFwFdT4kGAYiDgoMh740a9s_WuY3asdc%26pg%3DBQPYZXLS3BD4TLPGGGCUK32IIA%26ch%3DAQEAEAABABSXei-ek0N2ZUO5fnwjIern8OfFokuVQO4.
+.netflix.com	TRUE	/	FALSE	1807286069	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+17%3A54%3A29+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63424ebb-27b5-4098-bc87-a2b5a3f13b3a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773773976656&AwaitingReconsent=false&prevHadToken=0

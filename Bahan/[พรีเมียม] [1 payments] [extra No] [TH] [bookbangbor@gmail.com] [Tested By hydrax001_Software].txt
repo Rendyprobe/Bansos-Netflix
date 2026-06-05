@@ -1,0 +1,37 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ปลาวาฬ
+– Email: bookbangbor@gmail.com
+– Country: TH
+– Plan: พรีเมียม
+– Member Since: มิถุนายน 2565
+– Next Billing: 2026-06-16
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66811429651
+– Quality: UHD
+– Streams: 4
+– Price: 419 บาท
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Book
+– User GUID: DZWILKQ64ZE2JEBYOIF4BAUCRI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAbZw6GJZs3F/Vq2At+fAYaY/TisswmjkyrbdTHFhdDH5GcbO6T9y8DRU8E8bBmLxf6Z5/Xj0J5e847xWxD5iNVNbt1H5bP4Bed2Qg5vUFMMbDSZDlyglRSmf2USiaLchbayb5Ry7G4UZIUyC2ROeUAwk3ewlPbP0miZe67rzoRSN6Tax18I3xKKZwg1/kDwR/TJogmYprsCx+WMVrbC8jNxR0eQMUIHfP/IZjARhZ60V/Ayt9EPj3mKoB0IRos3273rfGAYiDgoModclvzmnuFuLXxVK
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAbZw6GJZs3F/Vq2At+fAYaY/TisswmjkyrbdTHFhdDH5GcbO6T9y8DRU8E8bBmLxf6Z5/Xj0J5e847xWxD5iNVNbt1H5bP4Bed2Qg5vUFMMbDSZDlyglRSmf2USiaLchbayb5Ry7G4UZIUyC2ROeUAwk3ewlPbP0miZe67rzoRSN6Tax18I3xKKZwg1/kDwR/TJogmYprsCx+WMVrbC8jNxR0eQMUIHfP/IZjARhZ60V/Ayt9EPj3mKoB0IRos3273rfGAYiDgoModclvzmnuFuLXxVK
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAbZw6GJZs3F/Vq2At+fAYaY/TisswmjkyrbdTHFhdDH5GcbO6T9y8DRU8E8bBmLxf6Z5/Xj0J5e847xWxD5iNVNbt1H5bP4Bed2Qg5vUFMMbDSZDlyglRSmf2USiaLchbayb5Ry7G4UZIUyC2ROeUAwk3ewlPbP0miZe67rzoRSN6Tax18I3xKKZwg1/kDwR/TJogmYprsCx+WMVrbC8jNxR0eQMUIHfP/IZjARhZ60V/Ayt9EPj3mKoB0IRos3273rfGAYiDgoModclvzmnuFuLXxVK
+– Token Expiry: 2026-06-04 09:21:14
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809354859	nfvdid	BQFmAAEBEI_NKWBC3eg7rMqAKDa9ywxgV-2ZNVY4KKrg3CXH5iEEqTCjhyy2GKEMUEkTwXP419d2MQ07ZZO_-GMYDKrAmpIbT1IQnVf_FZNR8ogpxXA_-AR6xXZ0z8CtUfHKu9fBlUiJhMc2cdcGU4mUfnorBpaf
+.netflix.com	TRUE	/	TRUE	1809932742	NetflixId	ct%3DBgjHlOvcAxLWA9yBB9IckDvoM4Labs0ay2R8SLSaYBVJayPjSOhp---XaWYLg7PQfiIESY0XSaOiilXCrPkb3Vz5nDpauSD2bbhk6rldlgy1xyD1dxro1mV1_VFmd97o5w0Q8FYpgtmp4F6K542cZ3YaLlIkt-3ehnAbvUlTTGw8WxLYHiYuZ3JH6PSgZ-6q39K2E1MH1fADLrENFz79usK14dQONp2qDz8A1aODrviEUAjuZiP3CA91Kl5grWiOX4drzIOUxXCumNnJSu42kCMPbfsBcJQJ0MhzlPZl5RCPVamhg7ZI6qfD2Aj3YYU2y4vwLB21HfGGp-FSszMx5Ehs45k5SYG-l--YcPrH62533xXDtS7M744OoHo4poZXsNfdrsMfytXKfxxc1o7wWjt_u_SWSZ1ysoz1QNaSxTftzasOuvz8n36BFQ90ReMKMV1YcVQKu2RfAVd9uJXuy3DciSyCpv_XNzxkaMt2woYFjM9zc0ZSXaA-G1XPz1qwcI1YQp6000uyFQguC3riv4vyw2taWcUPtqkAaeFPvPjjAGXBjK3ndgU4g8rV0B5Jz5zSwFwCyuzDDLtly9Rbp9hqjMUhj7GqyHTYR8tP6jnEfh0nK6ByOMX0CMOlAvZ5GAYiDgoMKpl-cpb0vwr_MMxD%26ch%3DAQEAEAABABSaTMOi350jlsN7UBzv8DISQgVqScULZ1k.%26v%3D3%26pg%3DDZWILKQ64ZE2JEBYOIF4BAUCRI
+.netflix.com	TRUE	/	FALSE	1809932744	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+14%3A05%3A44+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e965b11e-8214-4aaf-81c9-f0e55ce93078&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809932742	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5x1ibZ9McDEmnJgcz141PUA4KWV__SqI.%26dt%3D1778396470739

@@ -1,0 +1,37 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ben
+– Email: gjgoldstein1@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2004
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 1011
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jamie
+– User GUID: XFPAHYTSR5FKVKOWKZL2CBPSUE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxK6ASJ1jRAgW+eTsQOtpIAhFVgIVvaevcxL0iO0Wud0DuI8NMAVdbiR2ASWyHMR+kikkfQ93FldvmbH6lqo6CblSfT9Gm4nE1aUa+YmiFIgTydhVOEaicfbSos/I81CkENALDAcGifTy3rx8qHw8J2VspskbFvOxrq1PhfA9Q9f4S9XY9uAs3CjSAWAB4wcMeOcahbvEPwniLbcW0SAjAHVTrPQyJSTSWQarm4Lv/rktEkm+GgF2QmWC9PSkhgGIg4KDNfKLc9wMtFOf05TRg==
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxK6ASJ1jRAgW+eTsQOtpIAhFVgIVvaevcxL0iO0Wud0DuI8NMAVdbiR2ASWyHMR+kikkfQ93FldvmbH6lqo6CblSfT9Gm4nE1aUa+YmiFIgTydhVOEaicfbSos/I81CkENALDAcGifTy3rx8qHw8J2VspskbFvOxrq1PhfA9Q9f4S9XY9uAs3CjSAWAB4wcMeOcahbvEPwniLbcW0SAjAHVTrPQyJSTSWQarm4Lv/rktEkm+GgF2QmWC9PSkhgGIg4KDNfKLc9wMtFOf05TRg==
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxK6ASJ1jRAgW+eTsQOtpIAhFVgIVvaevcxL0iO0Wud0DuI8NMAVdbiR2ASWyHMR+kikkfQ93FldvmbH6lqo6CblSfT9Gm4nE1aUa+YmiFIgTydhVOEaicfbSos/I81CkENALDAcGifTy3rx8qHw8J2VspskbFvOxrq1PhfA9Q9f4S9XY9uAs3CjSAWAB4wcMeOcahbvEPwniLbcW0SAjAHVTrPQyJSTSWQarm4Lv/rktEkm+GgF2QmWC9PSkhgGIg4KDNfKLc9wMtFOf05TRg==
+– Token Expiry: 2026-06-04 09:21:47
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785528668	nfvdid	BQFmAAEBEHK64du9xrsJjN-bMZRLCyRgmnvNeT87m0jrUbabag2manGNgAfd6S-rt7HQGcF4RRs0VZLcluuNDfmkG6w69OpUrBGlOMtap3xiwt8Yxf6X5U8m8M-PePyicUTWZwSQCCGSTd6uqerCCSod7-q43zB8
+.netflix.com	TRUE	/	TRUE	1799233266	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLqAsZdNDBsa1YFPOxPOQaTqB-Mu8HIB8v9PBw5rY8uBRQUehaVKS1pb3QFSZns6IG9u8knjkP-VXDFgj4Tz3vYtpv3rtwqJgfUjVE6ZfZ0uAyq-jl2cerNukpXH-W_Isfg0Fa9drkM5kgyBQlD3dFk8Gh9zHdOVmoGgu7vtNIFLS96VzKW7M7EnRp2MZ0f5wgx3-PgbsSvCXrSA-5QKOcp4wCebcFY_76xmovnmMKGEUcWglMV6Gl7HKRa8-JWyXWPgl9W5d5QejqAEbTRQVhXQlxy6wiOswIRy2LtRUtO2RgfGt9RSGTtFL03YqePVxnDl7E7wK7PjzSdplBAOgys7oaDcWQwCSjonCtF8o7o1EHhCSwTtCbm8POe3JH-htb0icEyl7ijHE_u2G8-S8vqSNuvh6XgLHFGgZ59A1uUrWO4vD8FtMPCDAPaRWLqFOazBo42oGk8ZIE3CBbYGzTbP6Y3oeReoN8b1frBGAYiDgoMq0ZLBBfcwPmQltoA%26pg%3DXFPAHYTSR5FKVKOWKZL2CBPSUE%26ch%3DAQEAEAABABTsuBfIwZw2b4biO8Qwr1xuZTsdlPYPwec.
+.netflix.com	TRUE	/	TRUE	1799233266	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTHMnvbShS899CIScmIAkHEt3YplduD2E.%26dt%3D1767697265000
+.netflix.com	TRUE	/	FALSE	1799233266	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+06+2026+11%3A01%3A06+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79605fe3-3ccd-4463-9a7f-6f3bfa02f718&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG

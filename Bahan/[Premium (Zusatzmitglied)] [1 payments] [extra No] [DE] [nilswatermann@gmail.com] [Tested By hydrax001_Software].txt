@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nilswatermann
+– Email: nilswatermann@gmail.com
+– Country: DE
+– Plan: Premium (Zusatzmitglied)
+– Member Since: Juli 2024
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nilswatermann
+– User GUID: LVUESL7WABE6JAEJM2BFVW5FCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13397432703960230	nfvdid	BQFmAAEBEKEnWS3fEdc8RbVXO4Ui8JJgcKLTzi7xWc4-ZVuO1BREyra97PfPdQTXF4RlnW55Pj1p73YbZwNXktia5VeBQChOS-y7F3RzyZ8j2qnTsW-_CTtXBJIbS6OAb9SeuzVLTixHlac8UKqHEVaCGwwnIeXy
+.netflix.com	TRUE	/	TRUE	13400365201935919	NetflixId	ct%3DBgjHlOvcAxKZA8nsWs-DC22et3m9EOqedRHxxJkA3Sw9UoTUcSVaWJzMQWtleg_asGEp3zfQoQlJXD5Hwxi78tsOXuncpdt6Py36BfDPkQL5zbGho4H9h20DMXto9AUUSHaAcLFHY3PknL4iChH93drj8jM5u5wUPatzeiqFPNbu4vJFnKme-9X10PmfsgBsZEbKaGPtJPM_a2fUCNuGJztqcXvDspcWv5iUCWDQVm4qiar0RVuxXmUYCFxgkqH1N3mrrPo8HjlhSizBz5qnQcSyc5byR1Asvt5TrCAAr4ximcZQ4mnJXkPI5Md8v8FHUAlJkh9kTog5GS404LDLr54Cyzof_hxlzeabK-W2mjN8iJCGxHLT_COxS5HydCRwdxLrm2NtD4NUIXy2CeaZ2AFuRukVK6TwFhqZhP-mLVHBa8akr1x3sm8DpbIu2xzuOshPztfakglnJa4pRHYaSkA2HQ_Of4HOxJdKg2TvFxBqBGPD6tgtZDiM7o6k-1K4d39rFoOwj2JQLMUVtMkB6wuGX_QTuGktj2CmHIDz5fiYSl0YBiIOCgyg0clEyIZALelKL7w.%26ch%3DAQEAEAABABShJAghKa6zWj0Mgjmsq-DQITsDRoAnFgs.%26v%3D3
+.netflix.com	TRUE	/	FALSE	13400365203000000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+22+2024+21%3A40%3A03+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=71f03132-ae35-4f43-bd44-040fc4346d56&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BNW

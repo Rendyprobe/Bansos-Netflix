@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emmy
+– Email: abogadofj@hotmail.com
+– Country: EC
+– Plan: Premium
+– Member Since: junio de 2017
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 8009
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $11,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mag
+– User GUID: KLL256RJQRDAFI7QI4YSOZXNO4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCASkOAfiGkVgPcBPCo7uOslhgklOBU5HRNlHZNSoFhD1EeBfM615dVjsiBTSDTb26b2ytl5R9Ibi8WHGQhvw0XLseGUvpGUEQhXbztRret4BOmA3EfPmjjK204INqBl/yO6Fb5OcDJHxHO78UMOAdnYik5spiT1N7xnIEytQmS3TjkX4yv0XF0ghOAGNHzfDCNm0uqbhPfYlBzym1UB4I7j30OyCeVTcr3ASeHEglmGs+J79D+If1QEnkKGcG24gDRSRMGAYiDgoM6qOuZ42kmwgbwVmW
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCASkOAfiGkVgPcBPCo7uOslhgklOBU5HRNlHZNSoFhD1EeBfM615dVjsiBTSDTb26b2ytl5R9Ibi8WHGQhvw0XLseGUvpGUEQhXbztRret4BOmA3EfPmjjK204INqBl/yO6Fb5OcDJHxHO78UMOAdnYik5spiT1N7xnIEytQmS3TjkX4yv0XF0ghOAGNHzfDCNm0uqbhPfYlBzym1UB4I7j30OyCeVTcr3ASeHEglmGs+J79D+If1QEnkKGcG24gDRSRMGAYiDgoM6qOuZ42kmwgbwVmW
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCASkOAfiGkVgPcBPCo7uOslhgklOBU5HRNlHZNSoFhD1EeBfM615dVjsiBTSDTb26b2ytl5R9Ibi8WHGQhvw0XLseGUvpGUEQhXbztRret4BOmA3EfPmjjK204INqBl/yO6Fb5OcDJHxHO78UMOAdnYik5spiT1N7xnIEytQmS3TjkX4yv0XF0ghOAGNHzfDCNm0uqbhPfYlBzym1UB4I7j30OyCeVTcr3ASeHEglmGs+J79D+If1QEnkKGcG24gDRSRMGAYiDgoM6qOuZ42kmwgbwVmW
+– Token Expiry: 2026-06-04 09:05:12
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1767293223	nfvdid	BQFmAAEBEGFNJ9IH4LY8G6eZFdMc8blgfDODL8gKwvCx__yRYYT99LbCLVIUa_6lxiIcE_3EXstfsvS84UGHqGibvbK_FwWfKl5THpMEeMdLMfhrZl58tQFxAwSK4RAN94w2xdnS565yegEbDnLIgBv--U4vZhTb
+.netflix.com	TRUE	/	TRUE	1777678517	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA1k-fTGoPUqzW2BPqpt4hLUEsBdEMZrbLUnmvYQNJOZxQB0GEEBIBs9mKpTHAizUVFyQdgM6O4wyZxTdMnO_038ylST8YXnMQd5DZyheK-B2760F2FNNP6_4_h8IOM_9_JOlgy7GxZSlW79Rb0BXKuE0ziZVAJEdt-fvUDkjTK99HwWAihlXLxV9K2NLcPX7S_EFoDHhV77Ppdut5e5liNSQJsNCJbID739aLJC8V-wb271ukTY1pleC59HVvMd2DKNOco-7MleewAhkW3txZIdS1Grp7IKT0WlnZh5o5KKgAxCtN2ufDHlozu9_1Gi5-oA06WxMy6-VaeusGt_1C2yl2Ne3RTaFJtPiykCdbFtNng5GsZJWsel0EiI3-Oj0j3kj5b25wDMmZYxhHA_dBYX_PSjPjh4wju3Mcfd_JthHHEYfJqAFXEkWIMVRHtrSwuCBO2MbgP0AkvdwoS1eHcEaRF2REdzmonZqwvYkXRoWR89c9yzPkShqHdZCqfDMr_n0XQfbEBgGIg4KDJTQdvSE3M_zdP4MPQ..%26ch%3DAQEAEAABABRhuLaM88lIJv-74NphMadNm_j6IEcbxi8.
+.netflix.com	TRUE	/	FALSE	1777678525	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+01+2025+18%3A35%3A25+GMT-0500+(hora+de+Ecuador)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1442b712-f066-44f7-b0a4-e3b22f4eb4b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,35 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: R
+– Email: lima.rnt@icloud.com
+– Country: BR
+– Plan: Premium
+– Member Since: abril de 2025
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 2119
+– Phone: +5511943916205
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: R
+– User GUID: GY3766EBZBGRDHEJBMF3RLKTTY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAS0bAp+4PKjoUfhf8ekGmP3x5cJ1darDHEfeLN7zu5hDUaADjk7jkU0hX74CNEHdezvWfWz3HQjDz8u7Xzp5SIt5ICTdYbyanF1VD3KWbE/SrJJ3oQc5GFujokfhKHnMusochdl+NuqE3JQBJDxMRvswCNSguXcbRERVUDTAQQew8QaZSqtFAHyOb/3zRU/7dDd2xbyoZKbrI5yMaKnFZdIjwU7/W6l8t8X6zrme6uCAiDchhDIjwMqWD7aS4+7NouOgGAYiDgoMFFhHOeIHaelBQ0cB
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAS0bAp+4PKjoUfhf8ekGmP3x5cJ1darDHEfeLN7zu5hDUaADjk7jkU0hX74CNEHdezvWfWz3HQjDz8u7Xzp5SIt5ICTdYbyanF1VD3KWbE/SrJJ3oQc5GFujokfhKHnMusochdl+NuqE3JQBJDxMRvswCNSguXcbRERVUDTAQQew8QaZSqtFAHyOb/3zRU/7dDd2xbyoZKbrI5yMaKnFZdIjwU7/W6l8t8X6zrme6uCAiDchhDIjwMqWD7aS4+7NouOgGAYiDgoMFFhHOeIHaelBQ0cB
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAS0bAp+4PKjoUfhf8ekGmP3x5cJ1darDHEfeLN7zu5hDUaADjk7jkU0hX74CNEHdezvWfWz3HQjDz8u7Xzp5SIt5ICTdYbyanF1VD3KWbE/SrJJ3oQc5GFujokfhKHnMusochdl+NuqE3JQBJDxMRvswCNSguXcbRERVUDTAQQew8QaZSqtFAHyOb/3zRU/7dDd2xbyoZKbrI5yMaKnFZdIjwU7/W6l8t8X6zrme6uCAiDchhDIjwMqWD7aS4+7NouOgGAYiDgoMFFhHOeIHaelBQ0cB
+– Token Expiry: 2026-06-04 09:16:17
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801697384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRP7mQV4iTZm1rCkYLNQyyufOlznIOoRYI.%26dt%3D1770161388373
+.netflix.com	TRUE	/	TRUE	1801697384	NetflixId	ct%3DBgjHlOvcAxLrA_86ZfyibMq5I3cG9cbWpPNKe5wPinC8cTcuxwCPkj5dKN5TBZWqMTst48MYtqGLj6tsmwlOeOYTAVTb2rA-sptunQ68_SqeRn-rr6Q0U5Mcc8IyG-rDZ-yY-KtVXyIzFqQ4MaD7jmj0cCqMod47Z4exQ7xCDEZyezLVw_yY5CoQUGyFOMAG2YY0qal-aCMhz8CprkQa1X0EpLzxRGJdWptCb4wIChuLKjz6jbjn8EdT7K9LtlcBDl2gl2Jl_UMycQAhhoY9PkCTjDzasBVnVedi3C7_hnUU9PcFJv3Z9T44q0yuZTUbxoz8D8gbuJ0vMLz9AIv5fjxx_kGJYubQ0963-nCiRRC_Apo2xg22b5lfS93fpiMeg45VTAgZ6QeGQbERxu_SrB6tvdKsEJFhAE9f9wQPbV2oEqVJAMArlOrfyzNTJpX8meNqrfpfn_HcrDfUfNiDpFMgQuLrt9BtTMtA1wBXZDIBZMIMGVhT5jcd__BgeV7A4C6SEKzvjBIWd87aHcqeNg_C89Iz6iBK5EXYbDnxdzMEhCA9vDex_STu1WCcavw2oJaBQBie3LUXIMgryp1e_GvlTBBaiZNH-7GRlB70lHYppwJetK2W-fM_Wg-w9L-1DacVUULP7ZBuhbCxthRyITmknxinGAYiDgoMbePAzkYcJhKXzwEQ%26ch%3DAQEAEAABABTSEtL6PxzVptFwOwKDoaxtfAqai2T_d64.%26v%3D3%26pg%3DGY3766EBZBGRDHEJBMF3RLKTTY

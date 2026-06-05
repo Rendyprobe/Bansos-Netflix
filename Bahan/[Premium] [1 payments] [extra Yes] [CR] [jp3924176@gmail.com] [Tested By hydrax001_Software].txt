@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jesús
+– Email: jp3924176@gmail.com
+– Country: CR
+– Plan: Premium
+– Member Since: abril de 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7014
+– Phone: +50663425531
+– Quality: UHD
+– Streams: 4
+– Price: USD 17,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stefanny
+– User GUID: QCJ6FJDBKBCSZEOOC4FANJ6DUU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLDAVreHOGELbtz7ktSzIxya/kKcIKEnbRzpuwySGegMkCADGlS8Ruq6kiRQgnJOAe8KPXXmAiMNCWpuuDR9bPZ4NCeVJ9b+Ue29vqVz0U0yriICyMzgXgwUtd9TRD+/SAJfjI0NPOlAkSzSOrWFC0RlgfTZ6s0CaNk+GRSrOFZx2vCBQc8zQFMRUls2xEDNqvzlubQLwwI9NlGxiaSXTMmebqSjwtkjLf94Ux649kCeXvxeAlwDQ0DAJXNsKIBy2XGTlvl8RgGIg4KDJBPxq2agRfgpiJCqw==
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLDAVreHOGELbtz7ktSzIxya/kKcIKEnbRzpuwySGegMkCADGlS8Ruq6kiRQgnJOAe8KPXXmAiMNCWpuuDR9bPZ4NCeVJ9b+Ue29vqVz0U0yriICyMzgXgwUtd9TRD+/SAJfjI0NPOlAkSzSOrWFC0RlgfTZ6s0CaNk+GRSrOFZx2vCBQc8zQFMRUls2xEDNqvzlubQLwwI9NlGxiaSXTMmebqSjwtkjLf94Ux649kCeXvxeAlwDQ0DAJXNsKIBy2XGTlvl8RgGIg4KDJBPxq2agRfgpiJCqw==
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLDAVreHOGELbtz7ktSzIxya/kKcIKEnbRzpuwySGegMkCADGlS8Ruq6kiRQgnJOAe8KPXXmAiMNCWpuuDR9bPZ4NCeVJ9b+Ue29vqVz0U0yriICyMzgXgwUtd9TRD+/SAJfjI0NPOlAkSzSOrWFC0RlgfTZ6s0CaNk+GRSrOFZx2vCBQc8zQFMRUls2xEDNqvzlubQLwwI9NlGxiaSXTMmebqSjwtkjLf94Ux649kCeXvxeAlwDQ0DAJXNsKIBy2XGTlvl8RgGIg4KDJBPxq2agRfgpiJCqw==
+– Token Expiry: 2026-06-04 09:17:07
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809308463	NetflixId	ct%3DBgjHlOvcAxKABGZNXmu77L4pFJRLDAVlAF9CrkZS45Bi77VdYBCtQJRKhnbMdn7GwHd129JBL7VCw8DhX6tB2qPNsNTQ1rBOIGCrkek04be94K7q2ghyWNL1mBZHXHL9-GcVJ-WKQUWclsx--rLJehXUt8FTfUx_3VTpKI9N3K8uCHtxcCXKxDSthrVWKetW8AEdBWAwlUsEDD4hbgLbe6H_9Yd2N7hq0geWa88cEnqutl-Gu86acl6TvQ3PnmRzupRNzr9ahSvMjb99zp1PuHQZNhsokaTRcGC05lBZqD4NFehgz09L-oqx0vYIaWOr-bmD_6ySK1ITuXKBUq3GMbTAw23RAg07rzaHWJP8HfpeNBr9nU-6JYU7ZsSCFsMRV8QllqZaza2t6kcwJH1MTWq5S8iNBQ0b4xR1u9slEgYdiIeRoOX-EmeEOl3dmqlqcztEb_DhCYQR9nYTyqOGgt2jMLEhxzlFnmYG-tg_cBH6QuAA6yn4HkLr2O01n_7-_q2IpibjqJ187OyI3vY_kLJ0myYM6_Iitl8Bnqu9FBLE_HmIOkr-L425805p1fu1jv6QdM2KSNi5MZGF4akuDEfeNClXF2Trjzzopf8jGEa0-u_6FhSqNsGVUqtoONhL2-MySjHIsPRfSprQW0KcXW6POHlsyAP_8o7ANJkcvB_dkdxSNuvYfrpSGAYiDgoM4YNjezen9NlkX9H5%26ch%3DAQEAEAABABTqt21A38nj7DnhCUWmfB4QJCG-XVCPtTA.%26v%3D3%26pg%3DQCJ6FJDBKBCSZEOOC4FANJ6DUU
+.netflix.com	TRUE	/	FALSE	1809308464	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+19%3A41%3A04+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ecade430-1108-4bc5-8285-886ce4cb3924&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1809308461	nfvdid	BQFmAAEBEPNvT68Q0AfxWG7tPGhFSdNgTETtf2CJVjIFn6iTRAI3ooweIetzsk3U1pdwHlOIet5xOsSFDpwvpljI4qzy4_wsSU-yj3G1aOivrEIy42Z3N_5eHqfJqaz8JsTGk0FDCua3j9D9lT9hUaeluL4dH3LS

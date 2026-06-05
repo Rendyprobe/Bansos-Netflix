@@ -1,0 +1,35 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emily
+– Email: jk90281@yahoo.com
+– Country: EC
+– Plan: Premium
+– Member Since: diciembre de 2023
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 3890
+– Phone: +593989960316
+– Quality: UHD
+– Streams: 4
+– Price: $11,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan Carlos
+– User GUID: TWQ3BP6MABF4PKMH52PYHSJPLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAUuIXS4YKXzdsJDbn8nUWJMpOZalelmYuOEWTTSPkxAbQse5ljTpbo/sEsjUpT+9nYM3T9jDm7KiziZjRI6r2Yo/jO7tRPH3elvq9p2qhdLDXNyi3dVJevEJIUpsO0s/8lTdH9jtT5OCToPMsqi5QOVhH68osIgSRKqAKn20YnMkDrDPMwzVUgWyAJIe9FYr9HbSNMxQcyIxMomXbwSp25f+1j9Zf9UiHfOpSAtLejPs2ma7PWbjPHiDKArWOOUIOJLdGAYiDgoMXNacUv+Jw0ZP6wvt
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAUuIXS4YKXzdsJDbn8nUWJMpOZalelmYuOEWTTSPkxAbQse5ljTpbo/sEsjUpT+9nYM3T9jDm7KiziZjRI6r2Yo/jO7tRPH3elvq9p2qhdLDXNyi3dVJevEJIUpsO0s/8lTdH9jtT5OCToPMsqi5QOVhH68osIgSRKqAKn20YnMkDrDPMwzVUgWyAJIe9FYr9HbSNMxQcyIxMomXbwSp25f+1j9Zf9UiHfOpSAtLejPs2ma7PWbjPHiDKArWOOUIOJLdGAYiDgoMXNacUv+Jw0ZP6wvt
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAUuIXS4YKXzdsJDbn8nUWJMpOZalelmYuOEWTTSPkxAbQse5ljTpbo/sEsjUpT+9nYM3T9jDm7KiziZjRI6r2Yo/jO7tRPH3elvq9p2qhdLDXNyi3dVJevEJIUpsO0s/8lTdH9jtT5OCToPMsqi5QOVhH68osIgSRKqAKn20YnMkDrDPMwzVUgWyAJIe9FYr9HbSNMxQcyIxMomXbwSp25f+1j9Zf9UiHfOpSAtLejPs2ma7PWbjPHiDKArWOOUIOJLdGAYiDgoMXNacUv+Jw0ZP6wvt
+– Token Expiry: 2026-06-04 09:17:21
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792377128	nfvdid	BQFmAAEBEO3Ha6oSXyLkCXDS_Pv3lnRgxQJvE20FuFgBPSZibY4272vMrTwFpsax8p3FdLIX4AhWaFUQ_GAYY3S0FAug5mOCNlGqPJbReYBcwEnwaOmWIkfvHayo5Carnzz5YCobpsONwDIzmHhId0ITB91QL-tG
+.netflix.com	TRUE	/	TRUE	1793033398	NetflixId	ct%3DBgjHlOvcAxKzAzhLc5PLp4slzRUG-d2xk6pjqJDhnBWkH4PmiDCYLkr7MBsndtRfsSmcoR7bUWaWxP3wiELB1CMRmn6Bj2lgKFiZ1oZGCfNanmnfZLNFd4GfpYwip1_Y_j0M3nZ49rKCcPRDXolHRsP8zHRLAj_NcN8ZtjoCZBN26a39XrEpXDgp_DNqYqWjj8qIjq3KvCxVRIgIp8UOw7FxmFdu8-hVnVDfoDxwpkEAPWHtjArZoJEnensSvr5qZ2cTe7SBvunXUA-dBI-gZRX1qYT4bqEuGxkxbYaVClKDgk9kTux1JIoKxmkw8RNKez9RSUBAmiJbjWkOw8YxOwyFUMYdubQCnJcX9lbysaxPuB5OpLYcJyuzmuQ7yOV3WB5VdF7nCpMqFos-T_Uh5n9veAmenPU_2IzUeO1kbqDIJPLKPzCduZxxRywnZSm9e5ZiqOZnemGtWNzVUuckB4sEuBjKfdRl_VeQtJkPdsowt_8OT2ZpZDQMI_iaT2ryLQyGPCYhaEIkhskbMfHTXpLiaqF28sHGBmCBbfmFrprcXslyQpQC_F7WhJWMa3COuy1AstRfwjeJfl9othgGIg4KDGcnLKgkd1Y-hfpQHQ..%26ch%3DAQEAEAABABQBcLrdWwt1qB8F1q4ctGHX9RAW2DR3Dfc.%26v%3D3%26pg%3DTWQ3BP6MABF4PKMH52PYHSJPLE

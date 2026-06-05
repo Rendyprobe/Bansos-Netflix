@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eristo
+– Email: erisaprianto@yahoo.co.id
+– Country: ID
+– Plan: Premium
+– Member Since: January 2021
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 0369
+– Phone: +6281331402299
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eristo
+– User GUID: JKSZSRQEKFAZFB7F6PW7EAILP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAZ1YlCjV1e8ZxpNDv50FwdeANLJvWJhjygndzPDplKfy1PcnKqlNKEYG4XHWhYrM6j+Vr0XYZpa3aoeWACDYcCuJiEFOIG/iGo5eMThzEn4UTVbBRibUFl4urYW4X1TPu5XprVqcs68fvZMZ23QVsPnNr+fFi3ATPHXktY1ffir99pdQvtegkDufbEkmRDlmOkHxWbrynL780HJYCBo9HsJIaFl0hKfmzL5pJ6lUBQy9KIN+OxpELSBfzs1xMKAAOm+eGAYiDgoMPoorOm1a3f+ROTqO
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAZ1YlCjV1e8ZxpNDv50FwdeANLJvWJhjygndzPDplKfy1PcnKqlNKEYG4XHWhYrM6j+Vr0XYZpa3aoeWACDYcCuJiEFOIG/iGo5eMThzEn4UTVbBRibUFl4urYW4X1TPu5XprVqcs68fvZMZ23QVsPnNr+fFi3ATPHXktY1ffir99pdQvtegkDufbEkmRDlmOkHxWbrynL780HJYCBo9HsJIaFl0hKfmzL5pJ6lUBQy9KIN+OxpELSBfzs1xMKAAOm+eGAYiDgoMPoorOm1a3f+ROTqO
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAZ1YlCjV1e8ZxpNDv50FwdeANLJvWJhjygndzPDplKfy1PcnKqlNKEYG4XHWhYrM6j+Vr0XYZpa3aoeWACDYcCuJiEFOIG/iGo5eMThzEn4UTVbBRibUFl4urYW4X1TPu5XprVqcs68fvZMZ23QVsPnNr+fFi3ATPHXktY1ffir99pdQvtegkDufbEkmRDlmOkHxWbrynL780HJYCBo9HsJIaFl0hKfmzL5pJ6lUBQy9KIN+OxpELSBfzs1xMKAAOm+eGAYiDgoMPoorOm1a3f+ROTqO
+– Token Expiry: 2026-06-04 09:18:12
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113360	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+10+2025+16%3A35%3A03+GMT%2B0700+(Indochina+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=7a6e3ddb-d40e-481a-ad64-73545ddce738&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1783210585	NetflixId	ct%3DBgjHlOvcAxKJA6E9sn2pcMbSvAz_qw0QchjJrLcf6hqPAbxRGQIcq133udCDareYqhrdy5IQnKMuqat9mZhsfkVIL0ouL465zD7ekBpv9tO3QjVCW4ECbjbMA2AxQLeEoLNlBdtJ7fxw9HIGVc8Bosv6yNVR7s4GVCXuSPpShFWMaZS5tfk_6Chy8vcCTmnDe5-Kv94VjpV1v2l9dKyYD64gV3QI4kuqxNxtAAs3v4LINeaZBcyhfWG3XhGi9MLSoZs6k4xqnBU9PLi6qokijpk7N-apOmfaIIeKr9q8f77uDHdzBe70-xeiy8wnf9U5WrKO_WJFhwsSNl4DUpqMfhNvZPJCbycfMqJRGhGRpbkkKxSUx7TbFP_TZNTkTwPEIseeWNxASPf2arTtk4lnDBa5QHiwMY81GfKY5AOl-lGZkYY-aSi0dNP-k58S3J0zOerSxvtlfi09BR6x_ZLjibFJ-QG2Fw3N1nfWG6cB3lTa8pmd9pRdRi_H17Oe4ZVkjtAjixRF9C75apmXVgUu5myv_hgGIg4KDLw5t268EsjnQSRHHA..%26ch%3DAQEAEAABABRBL4aACGOhvvFqGRz6k4EJ88Gci5ZbhwA.%26v%3D3%26pg%3DJKSZSRQEKFAZFB7F6PW7EAILP4
+.netflix.com	TRUE	/	FALSE	1783210585	nfvdid	BQFmAAEBEGJSVBRQ1BTBMyRm7kVVQkBgZbLBXDQkjBRWhPQBuUL954rYBoB1jmZBRfnPAgntoYla2eKAI-8EhdpvOs293LSF19nr2NMvEg0X26-eFAsXbYA2ywuKsJnOZySJTP_QXjwOrszIjl8pw1B8nE-zbJyh

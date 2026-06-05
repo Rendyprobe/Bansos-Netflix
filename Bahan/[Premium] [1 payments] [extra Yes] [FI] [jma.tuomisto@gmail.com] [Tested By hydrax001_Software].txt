@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juhana
+– Email: jma.tuomisto@gmail.com
+– Country: FI
+– Plan: Premium
+– Member Since: lokakuu 2017
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 9972
+– Phone: +358503709009
+– Quality: UHD
+– Streams: 4
+– Price: 17,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MammaMia
+– User GUID: SZR3MGB5I5H7ZEBBPO4QJNENU4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAfZXjiaNm8OL7oEYfxwrZ44OajsXxw4ywYjbMYzvLAS5UDBwCdtpkjUy5YRRr0bGxc3siUYhURnKsotJPZZVXkn2KfiEUQxSV3L9WzfAn1LohR0macUsms515nd4rjjXF2SW8g0WYFuwU0wGGdWPKMAw/G5k8xY+NLFioJE1zEkb73QeYcMjF2rrb5yEVV91H94Rf/aixhdy+h+oXS+dW3wHtlzDdQ5hqmu2y7mN5612eJ3tIFQgcnfcry5J3YVSZfu2GAYiDgoMqgZgDrHeBB1zpdSw
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAfZXjiaNm8OL7oEYfxwrZ44OajsXxw4ywYjbMYzvLAS5UDBwCdtpkjUy5YRRr0bGxc3siUYhURnKsotJPZZVXkn2KfiEUQxSV3L9WzfAn1LohR0macUsms515nd4rjjXF2SW8g0WYFuwU0wGGdWPKMAw/G5k8xY+NLFioJE1zEkb73QeYcMjF2rrb5yEVV91H94Rf/aixhdy+h+oXS+dW3wHtlzDdQ5hqmu2y7mN5612eJ3tIFQgcnfcry5J3YVSZfu2GAYiDgoMqgZgDrHeBB1zpdSw
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAfZXjiaNm8OL7oEYfxwrZ44OajsXxw4ywYjbMYzvLAS5UDBwCdtpkjUy5YRRr0bGxc3siUYhURnKsotJPZZVXkn2KfiEUQxSV3L9WzfAn1LohR0macUsms515nd4rjjXF2SW8g0WYFuwU0wGGdWPKMAw/G5k8xY+NLFioJE1zEkb73QeYcMjF2rrb5yEVV91H94Rf/aixhdy+h+oXS+dW3wHtlzDdQ5hqmu2y7mN5612eJ3tIFQgcnfcry5J3YVSZfu2GAYiDgoMqgZgDrHeBB1zpdSw
+– Token Expiry: 2026-06-03 22:29:29
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800227443	nfvdid	BQFmAAEBEEjRwqftkirKoS3IeOwNQMNgy9bYZWUHjfIR6-KX1zIUzwRUdN_gyYmU7d9AUuWsOOaSbMGbPODFLk84KULVLk7n6z_ep-mRDlVDE2WSDTPHdvj3S6Vw97hWojXCFCq7nuAgOHytPSmzCKt6CJCPpi8i
+.netflix.com	TRUE	/	TRUE	1803993448	NetflixId	ct%3DBgjHlOvcAxKZA12MkMBEjLXxxKdmAkw4IhutSJihyZRnxNR5TwI9qBIjTseDfjzb65pbzTacr_ZEOmT-OYA6ebvtFtIVL2tBgBLYxsgjeiKbNTKvzeJI1SGECe2WW7Pb0OIRbb47Seeea9ZbVU5u1DRHz3CslAoxyNpoQ4t-zXvnR3V-UIKb8guCYhQ6nE4hSTjJWfgA7cu9JiFKBvS86Pm-VRFuKiPn4NbcPf6ANjbuHQfGfyMvLUQqTo1FLH7KlUc32iuF2PaHeAyQgKUU4iFLu38cdWDYyKq_RZaC8QF_iNYxdNK4YuMGST9Ai6eH8m-NPmk2DJhl2BeCS6NnmeeVJwYFmdnTNJltDg2WbRAZejMODghMIbSr5j43DHhOR3njE5flyUzxT7bkOXb0Kn-CHJPM4Z5ioDpCLpF1PV_3wow-KC2yC5nmsO0A3Rs9Fzdvd9k0vU3EtAF6eUaNsixGoW05G6MSLxJE4xKyg7OMdb5jm6IqOghLoJ8XCwf01NKfZ5eiCjW6Tk8UShGZlx-hXCHNBD1pcqD24hSLSkZLpoAYBiIOCgwQ9VeGGGt6ihl7BY0.%26ch%3DAQEAEAABABSpYWaddh4BO4yBF9pwu-ITgmmo1wDINBA.%26v%3D3%26pg%3DSZR3MGB5I5H7ZEBBPO4QJNENU4
+.netflix.com	TRUE	/	FALSE	1803993450	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+15%3A17%3A30+GMT%2B0200+(It%C3%A4-Euroopan+normaaliaika)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0744afd1-3c00-42a6-9131-a9ffa8f9fb4e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768691417833&AwaitingReconsent=false&intType=1&geolocation=FI%3B08

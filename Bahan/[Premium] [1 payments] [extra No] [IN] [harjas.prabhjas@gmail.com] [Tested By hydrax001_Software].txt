@@ -1,0 +1,35 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Titi
+– Email: harjas.prabhjas@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: enero de 2023
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 6255
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 649 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HAR PRABH 143
+– User GUID: WGU6HA7QYJDRNDJG2GRKR6DZCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAYG06tcKUN+wlNSR5O05OjLYjfTCWYD6L4KZ4lmrGzV2AEAc3jlsna+j2gYNdus5TAV/EHXcmeDKwjDhT0k5/egExIolBLXRnPrNr0rx/bQ2MQVaTqj99jQE0SFHcd8QIUDh9n9iZDcv7KsS71q8VQpUb5F1gqXJfqG8YO/eBUuhcXtmmCrwbJqafZjCrKhX0ZgKnMHpvzFqYtobYlrQ1VWy6N+ngp97T60o/8+f6l2bB7Ct689w0vFsIFAebLAYVUWZGAYiDgoMGRhXWfm5VG5+iDnU
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYG06tcKUN+wlNSR5O05OjLYjfTCWYD6L4KZ4lmrGzV2AEAc3jlsna+j2gYNdus5TAV/EHXcmeDKwjDhT0k5/egExIolBLXRnPrNr0rx/bQ2MQVaTqj99jQE0SFHcd8QIUDh9n9iZDcv7KsS71q8VQpUb5F1gqXJfqG8YO/eBUuhcXtmmCrwbJqafZjCrKhX0ZgKnMHpvzFqYtobYlrQ1VWy6N+ngp97T60o/8+f6l2bB7Ct689w0vFsIFAebLAYVUWZGAYiDgoMGRhXWfm5VG5+iDnU
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAYG06tcKUN+wlNSR5O05OjLYjfTCWYD6L4KZ4lmrGzV2AEAc3jlsna+j2gYNdus5TAV/EHXcmeDKwjDhT0k5/egExIolBLXRnPrNr0rx/bQ2MQVaTqj99jQE0SFHcd8QIUDh9n9iZDcv7KsS71q8VQpUb5F1gqXJfqG8YO/eBUuhcXtmmCrwbJqafZjCrKhX0ZgKnMHpvzFqYtobYlrQ1VWy6N+ngp97T60o/8+f6l2bB7Ct689w0vFsIFAebLAYVUWZGAYiDgoMGRhXWfm5VG5+iDnU
+– Token Expiry: 2026-06-04 09:18:48
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786201402	nfvdid	BQFmAAEBEKud8SrGbyWl_TjLGGUTTl1gqr3QUfMiUuC7qma_GighInJrVgpE-oQknR2o_DfSCS-5veurUbeWwE9lCUE3T3hxz70CIwJzsn6d87D3B2n2JyTPEOLVi3WPY8vDarLhGfwtFS_zrEyklaShF-V0sWBD
+.netflix.com	TRUE	/	TRUE	1788154860	NetflixId	ct%3DBgjHlOvcAxKZA5p92XUa_vEkJecixwbFI5iup-xhsg71KNAWJQh3BPQja8HpUg05eUEPszpJCqcultEUhdEi_eC3HY7EsSNoh21Z5Qhz4UHY3eu-LLGfFbNm0xpdvyAeJjgpy3E5LFRyMJyQyQHPAbEGiopwNwgqUuopPCftFc0MublnsOCoAC0-gy-6cAUzIafQD3qTKhq9k8ev-YjFsm5V9CZQsIfEc07sjiHwIkHvpo6-xI4FSznIC-vYjc3JqjmRwDy73arNEGzgFgV0PaBy_4lKeFr5Fn5SVnEEHxCQbGVbORbqKeXv2Utr-QkG7RtGC7Fmm8THGHXjeGuJK-cx33PcsSKuKVR_iu76rIuyOR29bHWqKCpPIWxBKOYYWjKMFEYdzexNFnlY5yJku4OQ0DvY255CROVEtJAXMZLNwfP9vrzzmpr_lzt4CevjQywEM-6H3B4AygYmt8eZPr9qtausfzh2Vq4adWN4ZjoMC0CAlSegmh1Xpp01KkLO09JinXlPcJkGO8MMtXNAQheJFqxz1uEpsYnw-2RzqkJajksYBiIOCgxUXDReZvG3W0NQm1s.%26ch%3DAQEAEAABABQuV_2qmUwG9Fhqm6Pj1knjMtoYBQlvmZ8.%26v%3D3%26pg%3DWGU6HA7QYJDRNDJG2GRKR6DZCQ

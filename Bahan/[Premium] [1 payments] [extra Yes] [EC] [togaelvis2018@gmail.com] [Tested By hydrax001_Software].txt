@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francis Valenzuela
+– Email: togaelvis2018@gmail.com
+– Country: EC
+– Plan: Premium
+– Member Since: diciembre de 2024
+– Next Billing: 2026-06-07
+– Payment: CC
+– Card: 2591
+– Phone: +593999301218
+– Quality: UHD
+– Streams: 4
+– Price: $11,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elvin Moreira
+– User GUID: HB5THAMUDJFIROLI2PCCKFTO7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAWi06qaJTfwjEMj9YMvsMxNMOoF22NG8/+hieWauU/N/kuSs/H9OUre5owPRoxUA/lqY3xO3208XGOT7gq3WKOIbcAXsLrOQyEDFjRw+1tHwRtMZkzekdiwyeWtGFY+XQEe24WE/ud1ZZK/5N1LUQCpidfjfzGrbkJzQM08CGW2dYMy0OqHX3QEAt5rFrG6QfZ5WJ81YL0PYYD+b9nrcx7pdvgQL2SUl4mBpD931JMBxDMRN4NmiPI55P529hMHWrAJUGAYiDgoMm/NBgBtc0GmcJQtb
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAWi06qaJTfwjEMj9YMvsMxNMOoF22NG8/+hieWauU/N/kuSs/H9OUre5owPRoxUA/lqY3xO3208XGOT7gq3WKOIbcAXsLrOQyEDFjRw+1tHwRtMZkzekdiwyeWtGFY+XQEe24WE/ud1ZZK/5N1LUQCpidfjfzGrbkJzQM08CGW2dYMy0OqHX3QEAt5rFrG6QfZ5WJ81YL0PYYD+b9nrcx7pdvgQL2SUl4mBpD931JMBxDMRN4NmiPI55P529hMHWrAJUGAYiDgoMm/NBgBtc0GmcJQtb
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAWi06qaJTfwjEMj9YMvsMxNMOoF22NG8/+hieWauU/N/kuSs/H9OUre5owPRoxUA/lqY3xO3208XGOT7gq3WKOIbcAXsLrOQyEDFjRw+1tHwRtMZkzekdiwyeWtGFY+XQEe24WE/ud1ZZK/5N1LUQCpidfjfzGrbkJzQM08CGW2dYMy0OqHX3QEAt5rFrG6QfZ5WJ81YL0PYYD+b9nrcx7pdvgQL2SUl4mBpD931JMBxDMRN4NmiPI55P529hMHWrAJUGAYiDgoMm/NBgBtc0GmcJQtb
+– Token Expiry: 2026-06-04 09:17:23
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801663652	nfvdid	BQFmAAEBEP0dLR1luTnhetNgGdhbFuVg-vmoVBkHIfUj3wHnKFBBbDQtU2aY3Nk0C0CSmRmdub1UDLKu-UnivHd9l1yhYGXBt3U9gPi8HFIyO4yWnJni-4KY6e3iNpI9vw4ljk8Z4SOlk5Sl-gqZvydv__tPPu-H
+.netflix.com	TRUE	/	TRUE	1802606450	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA0xXe60K_6n_1YcdG4h-NqgotrZww8VkUgD-K-Z2aArGsYJHpT3APTD1cpFc0-_RGlw2CrDGfja7dAyKr1xlJhQc9evoCp5ABl1JSU6r7eER-G_EAgISWQrveHFW68mJIbSCzzyhu4LWXg--VsuhTnIpZ1gEb9_r-pDP_LAapWwfreqQFvZ62TAMlOY9msb73P6dgzxytn4f9xjiEJmNtTIdaobt1y7RVNOZOD7GlF4rG1Qxr_Tq_0XIrwUTfI9URc5xgsuKQs4xQKijBGhuJp7Inz4XcQmTV2mk7k1vKM1sMIwg5Ah46vf8KLKPtQ_d3mTI63IrdPujl2yeurnx3TuTQG1pukx1NV4SHzjO6AMCIBKgzvMgzkNJSAZe2_CW6Cha0rduXzrx8tcQanVjwneJzDnkaHCqtJeQ4txlKG7XAvz6wFe5-C1FfDrUQTwzgpbffvQQP_-ZO4TSputJ164MA6NwLXV9LbcLFoGNFiEC2c0Pem7sS21wwWeo6XCYr834w0gYBiIOCgz53vssn0AKtImdvKg.%26pg%3DHB5THAMUDJFIROLI2PCCKFTO7U%26ch%3DAQEAEAABABTUsqA86GJvuyD3IxPPUxSO2HU3BLrEMpM.
+.netflix.com	TRUE	/	FALSE	1802606453	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+07%3A00%3A53+GMT-0500+(hora+de+Ecuador)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=71a45ee8-94e5-485a-a41f-67d805bee44c&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Faccount%2Fupdate-primary-location&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

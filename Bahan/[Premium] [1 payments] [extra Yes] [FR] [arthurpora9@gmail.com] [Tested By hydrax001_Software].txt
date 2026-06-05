@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arthur
+– Email: arthurpora9@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: novembre 2020
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 6069
+– Phone: +33783598818
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arthur
+– User GUID: EFG7XPGVPJH6DGQWZBG5L5J4SE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAabdZZprQWjM0T8hDsrj8fyFK5ueO2IiVm2W7/4/4XshfO15wZ6Tu36FU8a5Uc0JuMEzcBXzzV9z6jlV/K6JKtEj18DYNbDad+5z57l/o9Ii69hoTcIIy0hQ8EXoC9ED6oeMNwqm1uJf1Z7xuzcxKXlgUEfRKhzRV/mlqnNdd9nZFB+Io+FM++Ejee9IBTR94YE540iq5lMWv+sL1l5/8NzN7/+fRrSCktG9NHEPQJxWGyLJJ3HD+o+bOu8Daq1VT6loGAYiDgoMTnlWtoWMO1FcRQXb
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAabdZZprQWjM0T8hDsrj8fyFK5ueO2IiVm2W7/4/4XshfO15wZ6Tu36FU8a5Uc0JuMEzcBXzzV9z6jlV/K6JKtEj18DYNbDad+5z57l/o9Ii69hoTcIIy0hQ8EXoC9ED6oeMNwqm1uJf1Z7xuzcxKXlgUEfRKhzRV/mlqnNdd9nZFB+Io+FM++Ejee9IBTR94YE540iq5lMWv+sL1l5/8NzN7/+fRrSCktG9NHEPQJxWGyLJJ3HD+o+bOu8Daq1VT6loGAYiDgoMTnlWtoWMO1FcRQXb
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAabdZZprQWjM0T8hDsrj8fyFK5ueO2IiVm2W7/4/4XshfO15wZ6Tu36FU8a5Uc0JuMEzcBXzzV9z6jlV/K6JKtEj18DYNbDad+5z57l/o9Ii69hoTcIIy0hQ8EXoC9ED6oeMNwqm1uJf1Z7xuzcxKXlgUEfRKhzRV/mlqnNdd9nZFB+Io+FM++Ejee9IBTR94YE540iq5lMWv+sL1l5/8NzN7/+fRrSCktG9NHEPQJxWGyLJJ3HD+o+bOu8Daq1VT6loGAYiDgoMTnlWtoWMO1FcRQXb
+– Token Expiry: 2026-06-04 09:10:45
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793832617	nfvdid	BQFmAAEBEDvhrGIpuLnJAfgF8-ZCA6NgCQfX1IDt3cI8Lf29OpELCME0vFtm-HY4XbQRlH0Pj5fzU1C4TfaQIhvTNtoNSv0evUEhThK6TNTrKHPHPvD5cupurMRpoEPjqYM5el2z2AYyhNbTBDRctFAATWz7S2AJ
+.netflix.com	TRUE	/	TRUE	1802816179	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA0p8YNC3D0JyXU1uN57h3e53zjFMSJ1O0O-eNFjsZ3-pN9ldXeZyQYqZABRZjQQ-94Q4n3f5t_sSZXRBmr-7U_NehBueh1RPa7k7VRZUVQ9X39NceL1lWkoSn2vCl8DmtriTgJZuX6fFpM8_yPH9hgbG6z8C1D0A13UclFKAIJ082lfg6hnZAx-E9iA-OBbi25O_aukIEK9svY5CCOTyIn5owDClIA9YnezQvOxN_43QlHqcL2cpxHW1p8MC3kmZm2B3rfsslnlki2T-dzo62ygMY1hiBcizAgCEQtVYhl7-ltn_aNDbFywpSPPJ-Q6FCmwsTTyipEQe7_Ib2J5p-EHllaKbwvFMRRDjkKVk1DQke9zAB2lOD5GaHSRnaB0D5VLir85SU2XQIFg4k9gtpdoA7-NS1RoSE9iGwibePAa2V9M5fHsqAN7S9kxDO50icv6enxomBriiEpUmcL4T2wTTjSSIxHLB2S5KET2a-kHF5FNyreX7Li5k_HMjOlhZXxgGIg4KDJAF58EzVBBgX3JfVA..%26pg%3DEFG7XPGVPJH6DGQWZBG5L5J4SE%26ch%3DAQEAEAABABRsSXJhEIaWyt2o1bi_rncinVv1Ggry_KA.
+.netflix.com	TRUE	/	FALSE	1802816219	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+23%3A16%3A59+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd29479e-5195-4e50-9386-d43f7cb18cb3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false

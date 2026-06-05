@@ -1,0 +1,37 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ge Angel
+– Email: genivalvicente001@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: Oktober 2024
+– Next Billing: 2026-06-04
+– Payment: CC
+– Card: 3213
+– Phone: +5511963408246
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ge Angel
+– User GUID: D3XTNFZYRNCPTC66IFNUTWKHDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVcoopILmv2XYHXllIxfmQ9sHwnuvJW1+TFt4Up+1LC9Rm0h1qxzo7l7avTF2V6njLC1IW9t4MNEsARQb8d7E5IYMXww81m/y5DUBIyM6rkrvWdizFBnCVFNx0WiPZi0WSFt3wMGlxrEd/BWMhNCnIjNByfYW+BnAdm3cJfK/gSQ7tx+CnkDbe/QYCdWHhdwVjs7oawylQwVWx7YE4B5hsPcxwU5fafHJ6ut3xyXu6GMA0TSuCQ/Om3HaAKcnUBO30esGAYiDgoMgSJM/HaTRHLnOcOG
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVcoopILmv2XYHXllIxfmQ9sHwnuvJW1+TFt4Up+1LC9Rm0h1qxzo7l7avTF2V6njLC1IW9t4MNEsARQb8d7E5IYMXww81m/y5DUBIyM6rkrvWdizFBnCVFNx0WiPZi0WSFt3wMGlxrEd/BWMhNCnIjNByfYW+BnAdm3cJfK/gSQ7tx+CnkDbe/QYCdWHhdwVjs7oawylQwVWx7YE4B5hsPcxwU5fafHJ6ut3xyXu6GMA0TSuCQ/Om3HaAKcnUBO30esGAYiDgoMgSJM/HaTRHLnOcOG
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVcoopILmv2XYHXllIxfmQ9sHwnuvJW1+TFt4Up+1LC9Rm0h1qxzo7l7avTF2V6njLC1IW9t4MNEsARQb8d7E5IYMXww81m/y5DUBIyM6rkrvWdizFBnCVFNx0WiPZi0WSFt3wMGlxrEd/BWMhNCnIjNByfYW+BnAdm3cJfK/gSQ7tx+CnkDbe/QYCdWHhdwVjs7oawylQwVWx7YE4B5hsPcxwU5fafHJ6ut3xyXu6GMA0TSuCQ/Om3HaAKcnUBO30esGAYiDgoMgSJM/HaTRHLnOcOG
+– Token Expiry: 2026-06-04 09:16:09
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788325342	nfvdid	BQFmAAEBEJmrWE4jt5AvmIy_IEkj_V5gtZjItjpNYT4_lzmdj_pgK8XtLOJucmHt--np6FeEI05B9iyZhnxAUDajHBf5UFRCgniT_Pgwi14rwRRC8WL9rDe3sYJls5NT8YY_WTLuyQMNHfxjjH84YhM5vRXu7Uk9
+.netflix.com	TRUE	/	FALSE	1789915324	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+20+2025+11%3A42%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b630dd4-a145-4c2c-828b-16719647a557&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1789915321	NetflixId	ct%3DBgjHlOvcAxKdA24ytCbvK9qhpGu88qGNMEkijS4y-j2ZghpY3tunWWDLy3-937ByHVvKHBzuelEXXVxiwmsZRTgGjJj02LDJJDOw2SQe4-PGlxpaJ6MqRm6Cpjr5dTd0xodPn9qRBlpmUiJjmKWQknmieQpukWOquENM6kPuuFV4xw7mCd-aXpfX7t4HmMWr8xbFrvLAUJnXOAY6MMG_ay3UbwDc7nXL4h_hT_Do7sUWioAO8J8A9uqD3Et5tkXHeJ5b8Z1A6iC5JjKJPxGRNsEjHH2Z7Q0aAFWoDutekCRX9bJiQeWei356xdcbNnlgaeAyES-L1n9gGPuwTrQCTwQKkQ399aQN_QAmn-uFs3RsIp9ae4A98iu5L5oy4_PE950MDZO4edN8N_BKdbWiuXmDn4XklMXXzrF5izIjxxYvCL8jZpbrrq8wG3rvvmw7u-adxTOoRvie543SC8I6ZPUTYtm5sgzkP4-m69wtx78nYhYp-8pOxUlVOUPBNMte2L7jQVatIOC-zAwcMeoAcYuy2uG3XuC567vxAp5xWyZrVFJoEfoxGAYiDgoMgx7Nh7whPlem3ZnL%26ch%3DAQEAEAABABSOVkPxrDU-FqjqY3hNFHK8bOkRW_9rTG0.%26v%3D3%26pg%3DD3XTNFZYRNCPTC66IFNUTWKHDU
+.netflix.com	TRUE	/	TRUE	1789915321	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKfNiI-y5HR1-r0v733zb3Ee7kXWQYgS4.%26dt%3D1758379321485

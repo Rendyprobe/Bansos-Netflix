@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PROFİLLERİLE OYNAMAK GARANTİNİN BİTİŞİNİ SAĞLAR 2
+– Email: hanitiko497@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 5768
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 379.99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PROFİLLERİLE OYNAMAK GARANTİNİN BİTİŞİNİ SAĞLAR 1
+– User GUID: XVRV6WOPE5EIFHXBJ3GDOI5HRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVD8MoYzjWuOOg2yUJjvwMEGc2SJb1E059lXJ2eOAUbbCMsh4aI440VBXEOxnRhwK+xpqkg4+VrxziSQ2eEu1hPu0AWII7ooqfoD609CW/F5BO5hWQocgtSHbW4WyyIHQcM4UiE2gGDIN0lqBKJYW0W47ZacFtMebJPeIwJhhFs8deIayviVcX1CPPznAWgDTqvct9yIJ76KVm6HrPeQwOpqdTlggXFk5LUJo70aWQizisQSmTxGGGrwPS0IXdvnKCytGAYiDgoMct28MXs+Lqljgse0
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVD8MoYzjWuOOg2yUJjvwMEGc2SJb1E059lXJ2eOAUbbCMsh4aI440VBXEOxnRhwK+xpqkg4+VrxziSQ2eEu1hPu0AWII7ooqfoD609CW/F5BO5hWQocgtSHbW4WyyIHQcM4UiE2gGDIN0lqBKJYW0W47ZacFtMebJPeIwJhhFs8deIayviVcX1CPPznAWgDTqvct9yIJ76KVm6HrPeQwOpqdTlggXFk5LUJo70aWQizisQSmTxGGGrwPS0IXdvnKCytGAYiDgoMct28MXs+Lqljgse0
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVD8MoYzjWuOOg2yUJjvwMEGc2SJb1E059lXJ2eOAUbbCMsh4aI440VBXEOxnRhwK+xpqkg4+VrxziSQ2eEu1hPu0AWII7ooqfoD609CW/F5BO5hWQocgtSHbW4WyyIHQcM4UiE2gGDIN0lqBKJYW0W47ZacFtMebJPeIwJhhFs8deIayviVcX1CPPznAWgDTqvct9yIJ76KVm6HrPeQwOpqdTlggXFk5LUJo70aWQizisQSmTxGGGrwPS0IXdvnKCytGAYiDgoMct28MXs+Lqljgse0
+– Token Expiry: 2026-06-04 09:07:37
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810934759	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLQAyMj_fpxbuBfYsnIcIp3k-Qx1u0Uw_1I63w35NAhwiaRRRW3qMMtxqklKd5XO3R2SzmSHnnZsRMImLcgMI5gpxxQ1-FuJTYJYe8dUUChrS3HT2X8y2BKN2njxHpWplp_DYD9c_l4KvMMstiMRSJ7rzDW-W6qSnar-YqNQYcQ6aXd8QZMn7t9A1XMV1IcNw4_7VRLvOQXzlLeBqeStGFgZjV0OeM5Ydqsjw1RPR-2uTnEggRKt775oUXUVmeOT5AHEhSvS44vTW8zVJUoqd95dF6C0eylphIZ4vtoQPDTUlXeiUufHSg58SJfJsFCKsmvfVk9lu8ip00qQ56cREVI3ImCV7byJplLLoQxGHwPcj0kxAZd0Wp4cNYgOv1USycJnkIWYmwDneQ18r9fwCGfVCoxIw6tX2UqQSj29Wx56y2U4uMrui0Zb7c_r3utpVriz2Sd4d4rsSO5REHYHCVCoLIGT0jQRuZJs-UDqpuPcWth0dedDhAVeuT2fpnpvPb5nxEbEh9ooB9vspYqBxCb899cvHXjxcSNl3i1YuFDZjIE2a2VrMjxhzwVD_3bn-FwG_VG2xlRIEtzmULnlcy1yv2WXBuve0R3aWkP1rSQnfJdGAYiDgoMl8r-dpHzwUxiv4Ny%26pg%3DXVRV6WOPE5EIFHXBJ3GDOI5HRU%26ch%3DAQEAEAABABQm_D3LIlz4eJl6L48F0WeDevoh5rqx-q4.
+.netflix.com	TRUE	/	FALSE	1810934742	nfvdid	BQFmAAEBEOcRkvqmwkodqeRHJPuACJdg60jYA3WlAMG3-6x_L9VdQjLomciCX1sbuANYlMD4bDB2sFSNE6KWq5-X38gpcG18oPrcM9EsWW4ZO1skZV9qvVypKpuSs5rfM8co4Au7PwbwbjJ3PFPyHnnmH3QHmXt4
+.netflix.com	TRUE	/	FALSE	1810934786	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+00%3A26%3A26+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a4d98f8a-0b44-441d-a41f-57920fc9822f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1769277990399&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B01&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: joao victor
+– Email: joaopaulofernet@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: julho de 2021
+– Next Billing: 2026-06-18
+– Payment: DC
+– Card: 9489
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: João Paulo e Marcia
+– User GUID: 7PTUXJ42GZHGZILZU2Z6QWXGQM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAUoB7WtC1aOhdpcVANaMLP6L9vtv0pKDP6COCgMC7cl/ZChUz69dfiw/Vw2ZCWZUVFvYj2d3zw+Heue7EsIbbSzV/Jqm1wYYb7VgU4d836J/LdwbFycFOf/9rpWnHLD5KCEbhovc1EN0sMXJ5VVGHPL3yElJDMvbMI/o6uf86eowjG03tCa/Pg21dpUUTfmVn4dgXfY0E2MPUBw6lJmN0cr8aailEfTx/QBMqgTzSqodRqXmKsyxi4TxlL++xF7le/FXGAYiDgoMZ8ne7frzv0One+tm
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAUoB7WtC1aOhdpcVANaMLP6L9vtv0pKDP6COCgMC7cl/ZChUz69dfiw/Vw2ZCWZUVFvYj2d3zw+Heue7EsIbbSzV/Jqm1wYYb7VgU4d836J/LdwbFycFOf/9rpWnHLD5KCEbhovc1EN0sMXJ5VVGHPL3yElJDMvbMI/o6uf86eowjG03tCa/Pg21dpUUTfmVn4dgXfY0E2MPUBw6lJmN0cr8aailEfTx/QBMqgTzSqodRqXmKsyxi4TxlL++xF7le/FXGAYiDgoMZ8ne7frzv0One+tm
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAUoB7WtC1aOhdpcVANaMLP6L9vtv0pKDP6COCgMC7cl/ZChUz69dfiw/Vw2ZCWZUVFvYj2d3zw+Heue7EsIbbSzV/Jqm1wYYb7VgU4d836J/LdwbFycFOf/9rpWnHLD5KCEbhovc1EN0sMXJ5VVGHPL3yElJDMvbMI/o6uf86eowjG03tCa/Pg21dpUUTfmVn4dgXfY0E2MPUBw6lJmN0cr8aailEfTx/QBMqgTzSqodRqXmKsyxi4TxlL++xF7le/FXGAYiDgoMZ8ne7frzv0One+tm
+– Token Expiry: 2026-06-04 09:16:11
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783113360	nfvdid	BQFmAAEBEGKyDWOTo5IgXunGCCvGtZRg92ZVFuC0d9-Xq2uJJwIFRyZQC_UgZLv6N1oG9CiQvfoixIIeDvU45FUy9FNsWXTSVKx0SZOxfcY8V7EfhtxHy84nGcE6cDu5aGK7Y5p2xUIek48F3brUJpaTtzcdbmJz
+.netflix.com	TRUE	/	TRUE	1783113360	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AtU92nb-lYXsxqBx-J_bNOnMTZiKBoDIHbhmFBqjBSEW6o3xKRMOdNlwrLLquXQNUGbCeT3P3fCWpJRYatg1We8L5xxD4vpPZfFkQLfVsfTUzpkHrux7dUd80PpX8HdIO61Wlgt18qfpK99Y6I0e3cCsZzZtJZBK6jN96paEt1mzQTIiR1238E43bVZl3tefQwIHq8TU70aYu9aecqs61XzHATgdqCUg3_svdZAaVrOZJNKbNFSboMUEfi9RuzYUp2UWvqB2kyCG2csAB3ytdoHGAtmKX-5uhoDEZGLW98m7keMirkhR6pwfrT4NGTbkdQnu1ubdAagzsb1uimCuXxpOfQk3S8-4VQde84-qdjBpJMFRGt13nzfeiCGIq_1dfk7aPPRkNRJ-8GN457DcMrBh0PxuxBavFkaJs_C2v__87oUV_JXTlbsGBhnwvwepwtgHYqhIOUTfbJz0ITPJoMJ6pM8iUXYwst8q8vZIqW-TTG_So9B8O9V_TgTnfhgGIg4KDA1exGU4tiXatW7h6w..%26ch%3DAQEAEAABABRzmBYLACDPdMdi_2rO9xlY3iT1FSiwDl0.
+.netflix.com	TRUE	/	FALSE	1783113360	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+03+2025+19%3A32%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60ac47f1-40ed-4d91-b87c-c27105cc03ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false

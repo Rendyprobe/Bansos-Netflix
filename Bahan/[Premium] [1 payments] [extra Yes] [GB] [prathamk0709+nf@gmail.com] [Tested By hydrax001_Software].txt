@@ -1,0 +1,37 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Harnor
+– Email: prathamk0709+nf@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: February 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0558
+– Phone: +919465251287
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anon
+– User GUID: O2YFU6JWAZEAPADUT3DZCVNEKY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCATtD8f5gMbcI+fwooJty7AZH1GE/ISg3UFSksXTezyLDCCzAsNRjz4bi8A2/nB62jZa9C+XmU/4tE0PoXAtzZsUAsQkOreB04H6Esc5AsOsG46/DcSoULBVLn+SZWjQqBCy1igD6Hi2VcjzFVEW0oj0bXneKYcciqcJx6k8c+jM/9HjMHYmO93KnmDQXalqOSbQYv02Wjnd/0Vg2Ic3TQM+B19nhmoU3+ffnZJMlcg8z86pzp+ADvwVsrUkCcZOssWBuGAYiDgoMLzlAgYjmdwqNZuGS
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCATtD8f5gMbcI+fwooJty7AZH1GE/ISg3UFSksXTezyLDCCzAsNRjz4bi8A2/nB62jZa9C+XmU/4tE0PoXAtzZsUAsQkOreB04H6Esc5AsOsG46/DcSoULBVLn+SZWjQqBCy1igD6Hi2VcjzFVEW0oj0bXneKYcciqcJx6k8c+jM/9HjMHYmO93KnmDQXalqOSbQYv02Wjnd/0Vg2Ic3TQM+B19nhmoU3+ffnZJMlcg8z86pzp+ADvwVsrUkCcZOssWBuGAYiDgoMLzlAgYjmdwqNZuGS
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCATtD8f5gMbcI+fwooJty7AZH1GE/ISg3UFSksXTezyLDCCzAsNRjz4bi8A2/nB62jZa9C+XmU/4tE0PoXAtzZsUAsQkOreB04H6Esc5AsOsG46/DcSoULBVLn+SZWjQqBCy1igD6Hi2VcjzFVEW0oj0bXneKYcciqcJx6k8c+jM/9HjMHYmO93KnmDQXalqOSbQYv02Wjnd/0Vg2Ic3TQM+B19nhmoU3+ffnZJMlcg8z86pzp+ADvwVsrUkCcZOssWBuGAYiDgoMLzlAgYjmdwqNZuGS
+– Token Expiry: 2026-06-03 22:29:01
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795444551	nfvdid	BQFmAAEBEOAf3ZkcbUV935p7zXPjP49giC_sm3ZAZGPk6aYIU0QLaPDizdZNY5rwt4xkgzPYYcx_Jn1ZKKLPWwrQxwOYUst-YqshwikCNT-tEhnMEGY3ohccndSkolYMRo-sfL98saxBiR9CbUNPSQzIR1GnG9JB
+.netflix.com	TRUE	/	TRUE	1811658645	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZUwFQ8_B0DT0uhlQstaA2vYO2nm-wklc.%26dt%3D1780122642705
+.netflix.com	TRUE	/	TRUE	1811658645	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAxvEf1I69iS4Z-09rUMHqSGj53BNK8RaJ9-bID3G13Hf1lQMZKnDhxfZ2cRe2hHVRO712XGR0dqJYssLtwqdKTMMirMKvcVyFlF9sdOglLp98mAJT1tE7Uqo_IxrM7JY5YMcTPD0ve6DYIuu9tG1DeRIBGjofMteIdt8bKnuYTEII76ivG5HYfBWiMY6Sltd98j6BlrvMBQQtRqprPgMMVgqh79N2DaIEXGIPMyW0BXNP7tuAzo78QJu4AF0CPLEXOEDKlh5julOb56pzEsctyXzPcXxZQlgNvhWqadjufyQ8YirEgrLvWwzENBMZLjJeeeyMEKX1w7PWxKFHp-ED630Dl4i11JCMFmKFIswSmIvfrbHl99djmcgGUbCXPe8wn1v7ocBVY8eSzUtks5DRxK1aOWKxLtzgsB5Of3fuNRKgfDa_yOueoeAKwayhTvAsqpS6e5Y6w_dp_om7DjaOexUMkvbiy4R6Jn34FMvUqrIqD2Uy979dNom6-ImMxg7Zk2As_mVffA5E63TbYs4F-UEk0aV_uiAVO77GAYiDgoMIJSds1QRUgU2RkT7%26pg%3DO2YFU6JWAZEAPADUT3DZCVNEKY%26ch%3DAQEAEAABABQBjdEwBFPhBpriEzzBL9KeDnw6-BV0Kq0.
+.netflix.com	TRUE	/	FALSE	1811661344	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+12%3A45%3A44+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb1c6262-8bc0-4dc8-9ea8-184913905c61&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

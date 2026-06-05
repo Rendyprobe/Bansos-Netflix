@@ -1,0 +1,34 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Will
+– Email: thumamary@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2013
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 0214
+– Phone: +13128056368
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Will
+– User GUID: T4D6KP3YFJEVTKQQARYYPQFGGE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxK7Aflt2TghgzZpZnxtpuX7tOGbCoLXmVe4iIJgu16AlUrZ5MbPFGK7FxGUmP44c1BZJzOQ/nHdOua//Nj/B92sS/GA92rqZZR+MTjtO6BReRH5NeskYauWm+wDeFTooNcNoODT/faxBFXE6028BHRSe6p7lwbPpqIgFwi5m6jLuuFzXNV5jPTO/2jigWWESf878q2V2KvJeS8jsU1P2RLCGfdnJArDvVrqDzdO7BJ+biJI45uo3lBLI81YirsYBiIOCgwo0vH5D0WeGPSXVPA=
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxK7Aflt2TghgzZpZnxtpuX7tOGbCoLXmVe4iIJgu16AlUrZ5MbPFGK7FxGUmP44c1BZJzOQ/nHdOua//Nj/B92sS/GA92rqZZR+MTjtO6BReRH5NeskYauWm+wDeFTooNcNoODT/faxBFXE6028BHRSe6p7lwbPpqIgFwi5m6jLuuFzXNV5jPTO/2jigWWESf878q2V2KvJeS8jsU1P2RLCGfdnJArDvVrqDzdO7BJ+biJI45uo3lBLI81YirsYBiIOCgwo0vH5D0WeGPSXVPA=
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxK7Aflt2TghgzZpZnxtpuX7tOGbCoLXmVe4iIJgu16AlUrZ5MbPFGK7FxGUmP44c1BZJzOQ/nHdOua//Nj/B92sS/GA92rqZZR+MTjtO6BReRH5NeskYauWm+wDeFTooNcNoODT/faxBFXE6028BHRSe6p7lwbPpqIgFwi5m6jLuuFzXNV5jPTO/2jigWWESf878q2V2KvJeS8jsU1P2RLCGfdnJArDvVrqDzdO7BJ+biJI45uo3lBLI81YirsYBiIOCgwo0vH5D0WeGPSXVPA=
+– Token Expiry: 2026-06-04 09:04:32
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1777577481	NetflixId	ct%3DBgjHlOvcAxLbA8OPeasb-MMVDSRswhB3-7zoimlPc_QxJw4Ifl880FTVJLUM0SGKuPCYCTVadeZwyiIWoCjTR3QUBi-RrhlL2n-EvijkH46o02WQ0agW9J_db6yu_rxVVl6PCyXwzZwU9s8JT1K51T_yjGZEddGqzjkHE-gZDtXu7sQZBxCijK_VUICsE8kPuhz0fedy3uRX9l2OHiBPq5o0iC15OtB3gTFjIam-WveBG-cwFLT3MV1zm64duwufY9bckefQu7-DkUoxn8lo1yTwT706A59MS25PHpSrnMnZMEmIpxkhi6yvruCzmlWTj6ZoYt2Zq1tdFCDGXD03MX0Dh5bPwtBJjTH5LcL96wqD9VFN2j0x4Xjq2EffCdLFQoS0UZYmfLnqHm3v7V75CBD6zww_gkbfYhMFrcVyVL2VkXbizVnfqSSIMrywOxdNno6nEwifUC5B1lRIhhOcYrhjHD5TW0MquhY_pQ_5Tg4Ocw1AQu06vf5QgLms4TPWRevl5nni5D68XoF7FGcJsz7gur-8n4521uBV6SKaVFes2VFe4-ZOARr6BbFICKA__k0sqtJ0YqlYWmF-6WlUo1OPwsKkNnrO2qlTWErtacJzP2uxweO9AM0mxVBnrzbs5SXrTzQYBiIOCgycJdp_M8XQY8YvtD4.%26ch%3DAQEAEAABABT-dsgYMm4F0P-9uG-Y3_-zfGqtQNlHRkI.%26v%3D3

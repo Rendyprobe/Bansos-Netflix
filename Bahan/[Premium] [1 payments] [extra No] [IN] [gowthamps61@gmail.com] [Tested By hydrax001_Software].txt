@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gomzi
+– Email: gowthamps61@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: January 2021
+– Next Billing: 2026-06-08
+– Payment: CC
+– Card: 8857
+– Phone: +919743478524
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gomzi
+– User GUID: VLNXIBFQ3JGPVBMGFO7SIPKRHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVZQEbnM/5yee3DJvPzFxV+sCrK9JPRfzgy8kp72uyr462xBNXsGgTtk2ttDFKXoxNbn1njXIFhyeLk5gtMyX/277xDHt75EVFIbXG1o7+jmu9cnCM0vgqw1KUPiLsedON4ovMGJXeO1fL8lQPLt1EMd1uZGm25molaowNfLU5NSNhObxATlFJ/L/jOpKNhPOndOkWWOXxDlt00SCQu5l56+WS74vpsjgFlkyLr1cxuXow6EiNLv5q7TU8LEt2rIt5anGAYiDgoMPYgGY568oTda2fzL
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVZQEbnM/5yee3DJvPzFxV+sCrK9JPRfzgy8kp72uyr462xBNXsGgTtk2ttDFKXoxNbn1njXIFhyeLk5gtMyX/277xDHt75EVFIbXG1o7+jmu9cnCM0vgqw1KUPiLsedON4ovMGJXeO1fL8lQPLt1EMd1uZGm25molaowNfLU5NSNhObxATlFJ/L/jOpKNhPOndOkWWOXxDlt00SCQu5l56+WS74vpsjgFlkyLr1cxuXow6EiNLv5q7TU8LEt2rIt5anGAYiDgoMPYgGY568oTda2fzL
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVZQEbnM/5yee3DJvPzFxV+sCrK9JPRfzgy8kp72uyr462xBNXsGgTtk2ttDFKXoxNbn1njXIFhyeLk5gtMyX/277xDHt75EVFIbXG1o7+jmu9cnCM0vgqw1KUPiLsedON4ovMGJXeO1fL8lQPLt1EMd1uZGm25molaowNfLU5NSNhObxATlFJ/L/jOpKNhPOndOkWWOXxDlt00SCQu5l56+WS74vpsjgFlkyLr1cxuXow6EiNLv5q7TU8LEt2rIt5anGAYiDgoMPYgGY568oTda2fzL
+– Token Expiry: 2026-06-04 09:18:43
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1782201594	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA7E1RQPiBkl9asWX2C570LX99gJB2my6PwyaDSqbMJC9Adn_CAFhTBvyvUHlcz5sH8G1ew-UWpL04hDG2AuCLXkmZaZK4f8ZUwma0qeiY8rLtsX7yUaUZ8xOYnbKDyu4bwUxsF414J5BwryaUoer5VcQfFm6QM9Wd4iIJ_1rVM7H7eTcsmMpBUvxpYgjS_Kh2-yNo2bbiMot57aZY25-2gIKBvuyN6T_rfOXwtHJN7RObd4_HKBcvGbhp9Q-cLru4TKze3QxCUeTPdDoIdR7BnSoOzqOBaWPlStDTSWo1gH0tIh2Cpvj3A9iPq4qFM75vGXdrrTN_PyBlj_c3NBoxl97lL0T464N97cNbNzleh2nkyIJcYtsBynYsHqrI4JcNxx1Y27wh2YsUV8uPHe3g9QvQcZNvpUQnrK2j08QMrMJKeVtA6hsfLiIZ61qkW2DMuVSOPdifVGOb8jjTZWF1VBrwdgr1753uKn6im5tQ0DTCmWT3cnulsnq9FT-hT8hrEAhj-TbS9YYBiIOCgzn71PTDPHKgvCJcEk.%26pg%3DVLNXIBFQ3JGPVBMGFO7SIPKRHY%26ch%3DAQEAEAABABTICAqbQiIZeWS9Fs17PbuJE13YVy4rhRM.
+.netflix.com	FALSE	/	FALSE	1782201594	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+21%3A54%3A26+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a38fdca-738a-4399-a111-2da60dc9ceca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770135865899&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	1782201594	nfvdid	BQFmAAEBEM0gDv-_vWKjhH5C6orpEU1gZkwiAOFj58Gx1d874Z1i7pzQ5jEgVxN8UfGf3Ck8cLWtb1Hlsop6JX9XqUYonSICroar6DjLR0aWArUO-jFk3CxiEqpwxE9Ex5ocsA8Dv4pbiELkhwuNq1idcf_1nvIH

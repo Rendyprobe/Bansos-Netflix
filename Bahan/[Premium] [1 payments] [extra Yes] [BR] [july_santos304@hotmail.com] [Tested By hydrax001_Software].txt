@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juli
+– Email: july_santos304@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: marzo de 2024
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 4461
+– Phone: +5541997671687
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nando
+– User GUID: FTNXHX4TBNHBVLMR2443PZDTJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLDAadzPl2i5OMNicxY+CUdP9wAB4SyZFxWre5AI15kXigqihQjvi018Jn5XUXL4RYKe2SxhyF1AHR1C+A09cYujgex54lomjEEdSF4oemMLEo7kK8HG7STb0ETqMv68/blzaX8atb3LkiwplsnXCicOoEH1LAo30dIlOqymPysWrcPFiT+2decVvFR3Gw/4G4DNTl9l95LC6uVRlAr/Rh+07BSF6qsrTLZK5Jlw1rIMQLt4AjsSefYEu5fhROYlJda3QvKPhgGIg4KDFTdfoLt6Ey8xFSynQ==
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLDAadzPl2i5OMNicxY+CUdP9wAB4SyZFxWre5AI15kXigqihQjvi018Jn5XUXL4RYKe2SxhyF1AHR1C+A09cYujgex54lomjEEdSF4oemMLEo7kK8HG7STb0ETqMv68/blzaX8atb3LkiwplsnXCicOoEH1LAo30dIlOqymPysWrcPFiT+2decVvFR3Gw/4G4DNTl9l95LC6uVRlAr/Rh+07BSF6qsrTLZK5Jlw1rIMQLt4AjsSefYEu5fhROYlJda3QvKPhgGIg4KDFTdfoLt6Ey8xFSynQ==
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLDAadzPl2i5OMNicxY+CUdP9wAB4SyZFxWre5AI15kXigqihQjvi018Jn5XUXL4RYKe2SxhyF1AHR1C+A09cYujgex54lomjEEdSF4oemMLEo7kK8HG7STb0ETqMv68/blzaX8atb3LkiwplsnXCicOoEH1LAo30dIlOqymPysWrcPFiT+2decVvFR3Gw/4G4DNTl9l95LC6uVRlAr/Rh+07BSF6qsrTLZK5Jlw1rIMQLt4AjsSefYEu5fhROYlJda3QvKPhgGIg4KDFTdfoLt6Ey8xFSynQ==
+– Token Expiry: 2026-06-04 09:16:12
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809711082	nfvdid	BQFmAAEBEMjF1SZq--jwnOFc10vkzRRgTj4vgbykwQKOUO8mccpoZ73uyppVr_gmgfcwQzUkoHP-LTFI3k1_7fPLYualxyf5F-LrxOlrlaeBSl0UenGNgq_oSAeyRnI44lwSa8K3eO-sKvD4TvmfcerjuytaX9yh
+.netflix.com	TRUE	/	TRUE	1810868744	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA0-78boryZSjf0cnQe7mb-1ae-5cx-nIAd_lboXHZgjB_kdrW1xxZYr66bHUwQr1kLo06S7n9Zo6r0mWvYgKo720Js31Nt0lCa0R3Cph5FgDxrYaVZV2bgNh6J_-EfFqqW-efiaoHxryLdREZ5nGSlCFhFnJhVWKpeXg7rpDHCsHxZqgqiMgXUJBn0XPR1dj0YODJpnzukanAdWn9HoGa5JGeAEakUJj9FYQoEo8jIVo9v2tJnZqwkwxwZP9Wu8z8hbAKzJE-mb7Iqe2P45lqtIDUOAfXWb1jrtZ24Jfm9fynSZ48fAb2TjYGThv-dcworixovJCvOk91jGtCOSNRjquxdVXqyNEDscR93JBBi7jTahEhthOBIjWaxCgJ-cGSet64o8Ax7Y6U82GwOyf3demDfUsZ9d2Rn9sSVY2KrAgYr5iGptEyKCnW2UsAtTyhIWYhfBxvqtAQNmJ97aaxJHD54_M6Q2XEHW2FfV-T03kLsQNVk79-rr8K27qMuRog6rQnbrQ0-5dEnFEb4E3lMGX0fc7NO_eGRgGIg4KDDnvvBtTjcgubNOO_Q..%26pg%3DFTNXHX4TBNHBVLMR2443PZDTJI%26ch%3DAQEAEAABABQ4TtAeskbKSxje0yeW98dHqAMn2Ak8Rsg.
+.netflix.com	TRUE	/	FALSE	1810868746	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+11%3A05%3A46+GMT%2B0800+(Waktu+Indonesia+Tengah)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4c4b80ea-0528-4714-95d7-6231d6933d87&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778175082435&AwaitingReconsent=false

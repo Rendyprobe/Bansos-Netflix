@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Muna
+– Email: muno_urooney@hotmail.com
+– Country: NO
+– Plan: Premium
+– Member Since: September 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 8250
+– Phone: +4745567531
+– Quality: UHD
+– Streams: 4
+– Price: NOK 189
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Muna
+– User GUID: KXPVUUEXWBDMXIUOHWBWSSC6B4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAcACG9Cur26VXnFE+encDDPO8MlV23JZOe6cPrIEYIec3Xt71yjlzBDnRAU60TzswpxEHGmDqNBciGsPSWBZl1oxRRv30msG536IOYByx0opq97Jh6TbIJuvuOiXmcNQLDYCHhcyLuf7rirjMXfr2b1npqTVBLesd/CO6R6cx44FGhOf/h8nfcEmqfAbyL0ZnT3P+6aie0EbWF4IoQmqaMqqXoJnaJ01CimSCtZL0CyGG9Rx7mrEsQGhnTAIr8abLYT/GAYiDgoMaw4h8DWLqE1EzdoO
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAcACG9Cur26VXnFE+encDDPO8MlV23JZOe6cPrIEYIec3Xt71yjlzBDnRAU60TzswpxEHGmDqNBciGsPSWBZl1oxRRv30msG536IOYByx0opq97Jh6TbIJuvuOiXmcNQLDYCHhcyLuf7rirjMXfr2b1npqTVBLesd/CO6R6cx44FGhOf/h8nfcEmqfAbyL0ZnT3P+6aie0EbWF4IoQmqaMqqXoJnaJ01CimSCtZL0CyGG9Rx7mrEsQGhnTAIr8abLYT/GAYiDgoMaw4h8DWLqE1EzdoO
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAcACG9Cur26VXnFE+encDDPO8MlV23JZOe6cPrIEYIec3Xt71yjlzBDnRAU60TzswpxEHGmDqNBciGsPSWBZl1oxRRv30msG536IOYByx0opq97Jh6TbIJuvuOiXmcNQLDYCHhcyLuf7rirjMXfr2b1npqTVBLesd/CO6R6cx44FGhOf/h8nfcEmqfAbyL0ZnT3P+6aie0EbWF4IoQmqaMqqXoJnaJ01CimSCtZL0CyGG9Rx7mrEsQGhnTAIr8abLYT/GAYiDgoMaw4h8DWLqE1EzdoO
+– Token Expiry: 2026-06-04 09:20:14
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781829576	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEAx1GqnYMWVPAyksI8BKmNrBYX9jYZyWXngiQTZkgu0Ez-HTL2K_Ou278LcZL2MoBDTZtI3wANvjPVhON8YdPHZj5M5qM2_26-x46V-EynXCga3pko0fmkcJTMCJqSJQ66Rq_HEM82-IC8yrZZd5rrqck6Hv89xEUX58ojXXHlHF5sUJwuCfvpUJu_Si4OlCaLK6BPAeXEFqC8v-NKK4qP_oIp0xr45sZBSZqH-kmTq_b2mbq18YcfmsQfsCrs6zUQ1vQOXqxGxxtdM3HeTQscs-2qV8WTnAHibm3YTYC0Id5ViVJJBIZFMXMdCX7iapFakHANrWWNKZsOh3kLOyTwBstjrQgnT55LSpnSAyJpZSwmYkQZ_y8q4W2fc-PY5mBvlPgaK0svSyRq8e0seNxRazyAW8tggXOOvCCMjDYh-CziZ9R_NlvPN-rTywyx-tUNkxqkLrycFBbCFWCaL2ASMIHTZr8H26ZCsQE5pynNXBjFtscyvzDLyXJsss_MffYxmext5YYBiIOCgx_ZuU2gQbrZSSxprk.%26pg%3DKXPVUUEXWBDMXIUOHWBWSSC6B4%26ch%3DAQEAEAABABQJ6FT60Ef5pK8Vj0WVAQIJ5iZ4qdImj-Y.
+.netflix.com	TRUE	/	FALSE	1781829576	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQcCEzeHbCH9pcftIMBClre9zBT8KDyC0M.%26dt%3D1761581349324
+.netflix.com	TRUE	/	FALSE	1781829576	nfvdid	BQFmAAEBEPkdJWal2BOhe4m-wKQxPmBgIOe1N1XBpqgoLHBqIHud0kcoSMajKr8ChEkkPm4mrsuN3196iB7Qg1dK7bHdPkRrCypUCBMwgvUzt71wdhukFRGkgXtwXg3k5-f390-coWPDsTYXbXKK0p-tvh7qXzOm

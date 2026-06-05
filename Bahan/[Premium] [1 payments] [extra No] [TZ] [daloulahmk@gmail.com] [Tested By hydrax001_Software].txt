@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aksam
+– Email: daloulahmk@gmail.com
+– Country: TZ
+– Plan: Premium
+– Member Since: January 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1368
+– Phone: +255755290299
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Her Majesty
+– User GUID: 2U36Y7MP4NBJ3FFP3LHPMYFUIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAVZLkk3kSC/448b34FDsAz/5/Z8CcP71VqEcGvzRsWHBnSijy+Q/mWu2wZShzeEWe9RhnQ3S8iGHuXI5EUiTYzSx/g0hD/seRjPxJiryekr0bQrocMpFTCZEsOGj/F77EUFNmXXyhYVbWpCWMP0AOd5/B+7rhjRSTj0bIHZQc7FwFsELwnUM8SZKydRBy4OlCweWceHfhS/vGYo2LdCVfE9D6cjFzBhubl7/QYKFiH/1AmvLeWpTxF3YYqmxIRtb1hy1GAYiDgoM+somwDXoXZqqda9s
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAVZLkk3kSC/448b34FDsAz/5/Z8CcP71VqEcGvzRsWHBnSijy+Q/mWu2wZShzeEWe9RhnQ3S8iGHuXI5EUiTYzSx/g0hD/seRjPxJiryekr0bQrocMpFTCZEsOGj/F77EUFNmXXyhYVbWpCWMP0AOd5/B+7rhjRSTj0bIHZQc7FwFsELwnUM8SZKydRBy4OlCweWceHfhS/vGYo2LdCVfE9D6cjFzBhubl7/QYKFiH/1AmvLeWpTxF3YYqmxIRtb1hy1GAYiDgoM+somwDXoXZqqda9s
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAVZLkk3kSC/448b34FDsAz/5/Z8CcP71VqEcGvzRsWHBnSijy+Q/mWu2wZShzeEWe9RhnQ3S8iGHuXI5EUiTYzSx/g0hD/seRjPxJiryekr0bQrocMpFTCZEsOGj/F77EUFNmXXyhYVbWpCWMP0AOd5/B+7rhjRSTj0bIHZQc7FwFsELwnUM8SZKydRBy4OlCweWceHfhS/vGYo2LdCVfE9D6cjFzBhubl7/QYKFiH/1AmvLeWpTxF3YYqmxIRtb1hy1GAYiDgoM+somwDXoXZqqda9s
+– Token Expiry: 2026-06-04 09:21:32
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804260019	nfvdid	BQFmAAEBEGuOWM0V4Zv95GVX96fPU7ZgQOUlHdtuecJ4ZOgXf_X_-Ty-RBg8TXj9oKwLwkT9BgD_HYMxv3GypgeDaPbGcT8UXu_QJsqruZLffLjIn-SQH8CpaEHzUpiaCK_I34JcvQO4Z9wJtAFSPVzEmWf_Rsdu
+.netflix.com	TRUE	/	TRUE	1810984581	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA0Ff0VOYhJc5MW0gWYOEtwAkEquLthyeAFzVvt9QgiYKYy7VMC9ILMGaCQURJGPHE8CvS4crzzPTeCr4wQJbmF3WtSDOAL7pVJX_OhV1SX6BbY8yhFFiR-wCypKQA9QE_5FBv3QysSCvTEADwa8NES61cXc14_UeU4S4MKwT___8oYeonAKykI7ogw0cm3ym3YPvJanug3m-QNTWR7uOSzkm1ksYfldL11aLo3zLlyNjyJQHv7e6q9ZRhWXmt9Ebleq3jzo-bywWJ_9O4EbQqbEsttkQEsulN95kWvECuCzuaNs9eJx6pLHcVDfYLK-TAnJZ7q2A2cbn2gOBoFEvqtFUQOwJwQ5oemeDdVsukPqTRzsFy7zT78JRlLALvq9AuSk8oONkmMDSJPjthynwjppNXRG7KsyBNwWOfBrJ6hZHe0QKEGl3bBVkPZfgsGrN7lK5QHNNHReiZq45Y2CrvGVxBU7YmCCu89k9uxmRiIsasLn7gWS0mpQQ0EtjzS_2124trdPav3n4YKZYqmqSwu63uD41GAYiDgoMyqjzIiZqAUCb0mxl%26pg%3D2U36Y7MP4NBJ3FFP3LHPMYFUIU%26ch%3DAQEAEAABABQAR8Jn7ZwiRdb_bM6xeU9FPVuk2hufeCI.
+.netflix.com	TRUE	/	FALSE	1810984584	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+14%3A16%3A24+GMT%2B0300+(East+Africa+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9b825ac-9597-4319-ab9b-7bf1c6a7a048&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

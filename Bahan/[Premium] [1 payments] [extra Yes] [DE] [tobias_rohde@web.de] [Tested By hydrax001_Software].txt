@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: David
+– Email: tobias_rohde@web.de
+– Country: DE
+– Plan: Premium
+– Member Since: dezembro de 2018
+– Next Billing: N/A
+– Payment: SKY_GERMANY_BILLED
+– Card: N/A
+– Phone: +4915140444821
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Strandhaus
+– User GUID: EMBBUI7WVZFBVLBDA7JT7OG6CU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807303568088	nfvdid	BQFmAAEBEEVmeTv8dLNyUKgiw3260ZBgE1zmdhVDwe4U4Sfn7VNlqSln0800lnhr1CGXW9twGImZTiWsP6T_74rvXEAdYFWBqIduCPFBgKSfUC-1FOVfEitcvz2t9TJz7fcifyTOydSFtur2wkbVjOAshrb6Ueyk
+.netflix.com	TRUE	/	TRUE	1807303572240	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAw9aGpebxeeM9bTvEOj-38hYfoIWTKDiScxvtG3MwNFh_-vh8q2blzgsxztmM2ZXlFpO2PRIlQIsfVX5f7j7LZ5iIQ9wUkuD843CIhQY_hJKvclWFbc0NW8umU2RoFZglTPdJ22gjsHS8a0jqCDA-oi79DL-OXQtklgXV3PFhskiEiDlim3fWMsZ91WROsjmIw6qMiRceGpGw845raHTk6W_jY11aRMy2vaiOaPWtQLS9YGlXYLsRx66XiU6ik2fMJfAHqdpQ8LXvRwIgAJTcLJuDJOLViY01MFVPDmzJoUNSZRT81UtTScNXrgbNF3JIHPsoc3Ffa2aMmHTwa7vIKUjwntOCpY0aS_ejoNucYpH0k7_YugjSJv6oCSjfM0XM2aHI669epN4tqDsK0oAwLWFsUHeVugyA23Mw1-_CR6qFPFSiazBEY2ANZph_43DQSLgEGN2UWVSFPQYBX3TbKkY7dlSO-3Aqu1aqdCZJE9f6WsmMSrCn3m1L9E_e1dx7noQxc-A0vClIyCy-L5VZnfIGFzsGjH2pQgccxgGIg4KDPeWXa4cPAqXuHhs5w..%26pg%3DEMBBUI7WVZFBVLBDA7JT7OG6CU%26ch%3DAQEAEAABABRs6pF9rcjbY8YHbnyMmw_c3Nx2NcRI4rU.
+.netflix.com	TRUE	/	FALSE	1807310779000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+00%3A46%3A19+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=253d81d0-91a6-4291-8db0-8eb44abc7f7b&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775767526227&AwaitingReconsent=false&intType=1&geolocation=DE%3BBY

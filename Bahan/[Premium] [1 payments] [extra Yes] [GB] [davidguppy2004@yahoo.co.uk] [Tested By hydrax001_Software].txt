@@ -1,0 +1,36 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Henry
+– Email: davidguppy2004@yahoo.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: January 2017
+– Next Billing: 2026-06-05
+– Payment: CC
+– Card: 1000
+– Phone: +447710615946
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: David
+– User GUID: EARIM7GUBVDZDINM6CN6XXF76A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+WATCH LINKS / NFToken DETAILS
+════════════════════════════════════════════════════════════
+– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAQe1hqzIyumgCkZ/t5gImNeaJ56q0oWtG29gzbRovQ6iNcaNAb2RFI6t28iNFySvV1mDxALaxvW9r3qGcvtBtPniQ9EZ/RX4F27+LiNwIPzCtYLiwX4N6KEWa2+Uk1bl6y75GZteU8GiRi2VrTAEtseIqFypisL2TlRZd9tSpkHWbl6rTo0XddhF3J7VlLwScr/JlHMeFpGugeKu0T1yaD1wMRlXJF2yp3FTw7GIG8GeCz12yWSL1zLUWnpTJn+BJm9DGAYiDgoMgNtyt7MB3F9HS4Hq
+– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAQe1hqzIyumgCkZ/t5gImNeaJ56q0oWtG29gzbRovQ6iNcaNAb2RFI6t28iNFySvV1mDxALaxvW9r3qGcvtBtPniQ9EZ/RX4F27+LiNwIPzCtYLiwX4N6KEWa2+Uk1bl6y75GZteU8GiRi2VrTAEtseIqFypisL2TlRZd9tSpkHWbl6rTo0XddhF3J7VlLwScr/JlHMeFpGugeKu0T1yaD1wMRlXJF2yp3FTw7GIG8GeCz12yWSL1zLUWnpTJn+BJm9DGAYiDgoMgNtyt7MB3F9HS4Hq
+– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAQe1hqzIyumgCkZ/t5gImNeaJ56q0oWtG29gzbRovQ6iNcaNAb2RFI6t28iNFySvV1mDxALaxvW9r3qGcvtBtPniQ9EZ/RX4F27+LiNwIPzCtYLiwX4N6KEWa2+Uk1bl6y75GZteU8GiRi2VrTAEtseIqFypisL2TlRZd9tSpkHWbl6rTo0XddhF3J7VlLwScr/JlHMeFpGugeKu0T1yaD1wMRlXJF2yp3FTw7GIG8GeCz12yWSL1zLUWnpTJn+BJm9DGAYiDgoMgNtyt7MB3F9HS4Hq
+– Token Expiry: 2026-06-04 09:03:31
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1766533381	nfvdid	BQFmAAEBEOlkIRPX07jroHX3ACWFOVFg4WRtIK-SGynqcM-SOLfrw6VxBEDqMN9p2ZBEkbOULS3xE5qj4j-KbDDqpTwU4vV6cunEtBvjr1fWP7vhlMBw4IV7AcDTSw7IjLDMGHM5ZonxALLAtQJVtWG58iD7L1gr
+.netflix.com	TRUE	/	TRUE	1775323605	NetflixId	ct%3DBgjHlOvcAxKRA8ycMbZmshGnckqKn_Zh-ejlCkM7_aTNoA5OZguiSrmv4yk9zwugCC7ZcnqsBnbEVRZa9pJVM3mVipapB7k39uo1kV2fNCEYirDC3yn5bnwGF17t7BmJLgq--4hwet-B9E0-GRS049ATEEDIWxE7ZCczMYXSEY_0QtYpQUArZ_iB3zPcQQTIczpoNuzkhFT6H__tWvLd1L4owP3jSO95IpUT0XYm9s078SfALcQhkr12uq6ao6B5Yk5FNojbBc-pEwtRmrw266CH2FhbB-rBBsA60FJ1QkR3V5puWJiepKaLlKARrfkB4UyvDUJI9WJ_qSMeePfW2m5SroNue4PRv1wFzxSrPIcOiU5yS-O25gvk0ycaUmkC1AOHT3sIamdPvR4O4Qot0rXN0eKCWlbfQO6dhtGuZHsNm3uF5frpleAhS5ID5ODuaj1N_RW8M9hDTe9VS2TkDojlFxyqo1P48mbsgORlmvvBu-jdzygBXadzRZWjchM0hqahKYg-qygSxJcPu6sisB7nS7jDkmyQmFQ6GAYiDgoMTSl7sJ1DDTorKwXs%26ch%3DAQEAEAABABTTfIswZsWRqJ60eI9R-Jm0yqOomSVRHP8.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1775323604	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+04+2025+18%3A26%3A44+GMT%2B0100+(British+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9568c002-8024-46a3-b56d-33e6bff95d2b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
