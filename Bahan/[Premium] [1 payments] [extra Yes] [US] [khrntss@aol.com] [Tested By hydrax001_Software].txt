@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kam
+– Email: khrntss@aol.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2023
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 0650
+– Phone: +13512096129
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kharent
+– User GUID: XYKXZTN225C7JIRXSDK3C4VT4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806273736	NetflixId	ct%3DBgjHlOvcAxKBBLZFAMsW3yovDOeGiWYGmgglCXz1zdOaP8yUBV58VT91FM3gHaeVth8ahnVEU7OlJ4ZmJSQny2ki_NyI4xwYE2OxoqqwDh5NzvZIJwn15Vw4jd7wbOVkuUTfs2B7nc_j41XdBaTt0lU7GcHh4_OPPOUJvnVqzgznwHFywfwEAkHBJmj2vrHPiEyxmOI2nqYSCYS6y5_C-jDrOlkzuMDg_KBp4ge6VXJDFL2PBf9E3hrBdhM4SO-7og9KjHFmkwJZLOT9Av33akfhn2RTi0PCxy4Gh38G1EC07A-sSS9xIUadmyV0OdkbHfCcj-Eatw3NARsaUxg5xVn15ynPZHQT19ga92JpzKMtdb39yN0cLRNgY5ynV_2Lo_ks7HRideDTc8vEjHeIZ30nMuWf8lxN9j5NmDS6lQG0Ucs1Jr8YmqDxsZ66Y3uKEkxN_vAY3aZhinEIMJ5m0C0hRma_qLl8MVxoyD9KJ_HF1KI9cLeNCwiK4W9Xv75oNssA8d6uxAvf1X8IQPsYheRQiITrDH731fwGjvqSSEbUg66r4wiPBg5Kq_29-5Q-PZbr3t4WySO9L20L-dgK-jfXnITM_5iHUOaxPGJtdLJss80YggmStGwK1Sr8TiyHekOguJFO30rUkz9akAbB-ZFKXBUD7BjmRLxASkzoCFSBxzbtjPknvrKklhgGIg4KDGTBaItsrWll0MYJ4w..%26ch%3DAQEAEAABABQdJoansPTZGVqIhjuoNk8YZVw1xwHSkPE.%26v%3D3%26pg%3DXYKXZTN225C7JIRXSDK3C4VT4A
+.netflix.com	TRUE	/	FALSE	1806273739	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+18%3A42%3A19+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=52ed7e45-4b65-4525-8652-3c32f7cb6094&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806273736	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTo8W-7SW3YGR_BlCfD_M5J6LwWY41jQOg.%26dt%3D1774737736032

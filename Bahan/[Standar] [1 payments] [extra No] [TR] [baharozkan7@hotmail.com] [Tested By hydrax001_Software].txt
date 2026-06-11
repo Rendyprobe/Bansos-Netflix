@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bahar
+– Email: baharozkan7@hotmail.com
+– Country: TR
+– Plan: Standar
+– Member Since: Februari 2019
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6459
+– Phone: +905353404479
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bahar
+– User GUID: ZE754GOD5ZEHPPU6VGFS2EI3HM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBECee3NjNdhp4Q_5OOq4-FEFgH4_kXpi_eCutP4OpANpON6JszH-0duyH815RjGGcfErQmuSAb1ItvMNrS4W5SVJIqdgRmgKoty-WyVaQB9ET0Ygf6qGufoKTAryA9FKgpZ4ePxuDj6YlrnMvY88MYLe8
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+04%3A09%3A24+GMT%2B0300+(GMT%2B03%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a416256f-5593-4b40-a0dc-dff2eee4db59&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770079911284&AwaitingReconsent=false&intType=1&geolocation=TR%3B06
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	ct%3DBgjHlOvcAxLmA3y2f4OTuwxMLYQI29gHkjIYUOZlTz98hPaA4Mg2PK03dS0f1dIkfTm2wbW57EVX1P8DCAxQOH1ZcPEDoXmex69iPvPSko3vaPx0GgIDwdB7pXCNffIhO-sqS27L6RCoAnEfllpIFB1YAv4LxSKb6EETOlrVHiCrVNveEb0TXUqZ0e06dnJO0SMEphCkL3BucpRiqOFsyKuNyH5d2V1h92BUIppra8xP3UQFD7ICx4hwBQRKxVhkadurQabDaLBgwwrt7GU4w6zGtapoBVYjT5v_ur_GghluHxdPmDAS2ZX-2KhhQGpgPKcTWUJynLqYch_BxKmWJ9SeiQbXBSeMtq57FlVNj7XvtFJv5AfAwgT5IVBO6-OW-QIXPFD7sEfxRijHFT9X3ECWDNC2BPnzwLaic1-_csdEw1FjQpT_WI0_v1483xMlwymnUgIDfY-w0NsmyuIvRRKGvgA-56n9_0PPGngXHjLzQ_riSvhom9niwOnQmNgA9qkoIb0f-s3Tub8E3P8VIUjMquHO8M2sdPyYgHzRxFjGVScV9-1jehdXER2pLg1vUAyXaU8h2p04L0nQgl-KM0k3XcXKxYC0sZQcadKSgeQSUjSyxp4dbfwEp86ahUXOOMCAA0TdXh_rpNdsPpPy4BgGIg4KDC_QLNdImhhrM9kVZg..%26ch%3DAQEAEAABABTDZ1O25JM_urjXGT888ZY_oaOmA6l0414.%26v%3D3%26pg%3DZE754GOD5ZEHPPU6VGFS2EI3HM

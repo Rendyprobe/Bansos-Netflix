@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Urvashi
+– Email: urvashibakal1507@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2025
+– Next Billing: 2026-07-06
+– Payment: UPI
+– Card: N/A
+– Phone: +919799535484
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Urvashi
+– User GUID: PC6BIOV32RESRMCDJQIZPGPNBM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1778585712	nfvdid	BQFmAAEBEH3aqkDMHFH8m5QGfhzRDjVgOkm9oZL5H6hByPQG7IFuNVb84kdSF0LjVZnoNRQ7JlMDCTS6VwsJWhT2yM4ABz5wOF3SyoR1pDRz-juktpapqxNjujAOhJGInmV7Ne1UPty0L18uS0y_V8U6xXeu962p
+.netflix.com	TRUE	/	TRUE	1778945514	NetflixId	ct%3DBgjHlOvcAxLSA0ZqlkBwTgybMig3FWe72aVgry5Ig-Cmu_xiPPGI6NcdNRuTqBtV-rrMcZ0ezaMjvo328gHqwUHK38vOOzxvPOlaHu-0PGNEZbZ0J8jY3a8T-zgrKtVispCFhIeUEhSRQ6sFDpAtrFeE6JWl94Ipq8wh3sxLkN3QA-Lz4Ey6LK9woRPGgyMAyWcAoZQV_1A7NssAdrSGntcVO_KmcUzUVZBEAca4pOuD2nayrckUo13e5nl5GrSgGXVSPCM6x8g-n69OYXa_10MXNs4M_Ik9FF5_JljwiL04TJDEgRocW7bIecuNhUnZZvnwTJPCWt6lSf47ejsIdbTm32qLXnqmXXkgYh0JAU3PAJk9UYh9VhggmodRGYuFTiuI8rmIYBbrjMqMZZr8Eno_MklvVq71XDZajHukY_KzSN56VCpygA9UqB6xOJJ4oOM7CriSkDrHYMQfen1Sl_aEXL2mZeI_jI4EfVsWo5zLhPVkeM0eZdk85hXko7zFH-xmHXhPY-tHp6odDsDKQsLIcecEm4EF3qnLlXzhu_0grNynhp050QgcQGNXuZUL269jbpWPfySL9-NBe_SBOEJFjZ7u53cYc3WHnI6ED7h3qUF3JjtSv27MFn8YBiIOCgydfIphoDCuu6mcuio.%26ch%3DAQEAEAABABQkyH7LKXzC4b4bD5lnDPLFWv0xXzZpb8k.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1778945514	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+16+2025+21%3A01%3A54+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bc914596-87ee-490c-acb2-71d9a36dab42&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1778945514	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTbB6SrhuQ9x76stJMEdakVYnu2MkZSNSQ.%26dt%3D1747409515652

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Claire
+– Email: marie-annick.debrock@wanadoo.fr
+– Country: FR
+– Plan: Standar
+– Member Since: September 2018
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 8086
+– Phone: +33681213544
+– Quality: HD
+– Streams: 2
+– Price: €14,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Claire
+– User GUID: XF5BV64L4FD6VMVHEDPSACECSY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791830388	nfvdid	BQFmAAEBEFBEfqSTZEMJZtzzapHwk1FgewjK6432fGaD4iRf3pSYkp29FR6vFCgQdx8cggSWkMFvt45wvG8GuVNmmwQngl02ENNz2UiolIMw4XTY03gQSmCVsx07UNsjbFjlUGeWOEVfCF5Qa3ViRCbY9jZtfceF
+.netflix.com	TRUE	/	TRUE	1802025013	NetflixId	ct%3DBgjHlOvcAxLyA2JZrmHhtJ7n90tVOGrdJEBluv_rLobUAqBkSbw4VLUyW4FdyQiWHpBtZvXXsVtaRymgA-ozXmipd1ofwUHktxwvX2TIeqWRc_rtRnBULO8SWeaRSRFjgZ0qrpCFLjhfHzExCA4daA2Bw8VrTMuXn09WIbk-J9iFwbxHRyjD8eZqTVxssCSH_sjUUqWAIBM2SmEvtDYDzWGtX1R4srVU3P176h2P4XyoyfxflbYQF1DHKI2DdWNBJqNnfpzaiacm6CebyghsgctaTUGLeKkDTfpmaZNrHODBVnBMNXeUU9ToKgXqM4ljAhlpiE5GcW8njJiMOvMoYOrIC4x1p98B-AmuSkr5h9wGVIOPTnf9lHEYGDJuUeeG3sHpfh6rJm9mwxFq5AzLwj8Gpy-qRd3OLjT_fkqvzlxeOwCHO0mTet7Xxn1D9_RTfWCqJvfjAMcoU9ekdthJqC0m5GrgLSXobs-EBkmWOUA5VcRC9PFWM03b0W63dBkEUW_R-oQOzbwG6jPLxtV632xIiAQDdugpDXj5hpzwRRjrwNlRtAL0nwzDxLBe3ejOQ1uI55TV89B-mJTdyw9uJv-dbHtrEbsCk5MZh6KLTSzVstT4twuLmGUytkIm6D1zVnYqfdSSKxzgC9bE_BwGGY9pVwr3wVZtv21KRhgGIg4KDI_xWn9Iu1SThpjddA..%26ch%3DAQEAEAABABS8wlkH9NXCOruyBe3jTKSqFmEqWBh10pM.%26v%3D3%26pg%3DXF5BV64L4FD6VMVHEDPSACECSY
+.netflix.com	TRUE	/	FALSE	1802025021	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+19%3A30%3A21+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=6bb3abb5-acc6-40c3-9508-f74c32d82a72&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=FR%3BHDF&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1802025013	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpIMVn2ezXNDYLSX7nms2535ohV6z7CNo.%26dt%3D1770489013303

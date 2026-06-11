@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marvin
+– Email: stones-castle@web.de
+– Country: DE
+– Plan: Paket Standar dengan iklan
+– Member Since: Agustus 2023
+– Next Billing: N/A
+– Payment: DT_GERMANY_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: stones-castle
+– User GUID: D47M32FWTBBAPMPZ2ZCXMDPH4Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783281191	NetflixId	ct%3DBQAOAAEBEJmgD-OPQamqcsCX3qPPxyGCUNTLHXep-dk1h0p98OqDrv-C0O_cc7m7LkByY05-w3Tg9hVgld-J3kP4YaXJvW77PL3_kEiisjVbJGJBsrD-4F8zw_d3SHX116CiweTnYMro-oJtKOsUwim62EeeU8Hz4lo3IeZi3BAhlsk_24hTNX8aYDqtimllNxCrBMTD7y1a3kYp0AXXpAxIsc8a-pZUZE0B6C2_bNHezP4TjwcSRdKNoShqGt9En41h9YRizPLFCv-KbMUSrqraVLrWUD1rpj46PzJBPlSWv5Q-7WXSckJOqxlqs_AqPC9j31Is2_kEa-AB85sm3yvZUKyTk5QkQgg9LllbW5dJ2aIwZ6dtBiPCAZUvuqBB5x3Z91Ivw0AGqf78wVFgcswutCUlwGCNPTAf2RJSCXH6PDfFIr5Jlg3hbZ8BbQfnXA7x8MIr6FpQGIbGUY-Abs2rqUIKtU0WOrcUvieyW4RGO5O0U7Y78DDITcR6MtS3B8B7k2ENFR7FINeYv7S29NmwakZvURQiMJ-77PBKlqYk6Iqp_hzDugn6HUs8GwSBurphc9fiMDc4Tf9ynasKeXCN0ufJTutI7LmNkjAjQQzGfBpZRjSlh3xYAIVQB5x8lwIE4nI6Tqj5wzmOKkl-2yp84zoeaxuJpW9znDHUnOvjv_xLbkyTye9wl60J8Lh5isCR3IqABofQ-uZlbNyHkhvRep_gopefrqO1l5nlez-o2HjphbrxWfLJl2mKFryjnbjBoNdcuAmKR33FHLEbfTMXLnZ1auB5Jt1UzpcLPQWnn8UiFTD26nQ.%26bt%3Ddbl%26ch%3DAQEAEAABABRz74jYvv_ihQHisnEsRyQpZlq4Esmmzk8.%26v%3D2%26mac%3DAQEAEAABABRt2rBYOqveZyOXyfZoYlCi1cZy7knGTYg.
+.netflix.com	TRUE	/	FALSE	1783281191	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+02+2024+22%3A21%3A35+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202402.1.0&isIABGlobal=false&hosts=&consentId=43ea82c7-35da-448b-af0f-240b647da054&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&AwaitingReconsent=false&geolocation=DE%3BNW&isAnonUser=1

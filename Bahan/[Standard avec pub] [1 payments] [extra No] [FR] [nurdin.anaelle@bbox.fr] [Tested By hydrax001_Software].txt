@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raph
+– Email: nurdin.anaelle@bbox.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2025
+– Next Billing: 2026-06-20
+– Payment: BYTEL_TV
+– Card: N/A
+– Phone: +33635488845
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ana
+– User GUID: FB2GDVLXLVELZBQTOIL7JP2FQA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809555931	nfvdid	BQFmAAEBEOgxLyP6NWLsNzyEfN4GJHpgPHAd6SzwdDSYa75GhsK_iPquWIqqJGD6yFwpgya_L4YYhF0I-ZUT6hqxgQCThdCKhr_JcEJo8RUFhWsnVTCBHKjWgW2T0x7ARSP8MFHCpCVfcUvtY-RnR_k5VAIcmwWB
+.netflix.com	TRUE	/	TRUE	1809605650	NetflixId	ct%3DBgjHlOvcAxK0A8jnUImUCkFsOHWa8mqdvttCNkVVIu3bQl4ZAUfrl-KTV3BCqr-gVqrx0dA85k55flGoVUOir3Arm3a-Uaejm4OKslsNiiWnag5yFzg2Fq_G4Vx-u7j69WfnjagUm4VX9YsA2NjFphe7sA7ph8RSz4FKm-QVdOZC-JEulr74FfzSKHyXRYZzZQsj5twSb7U6qoPTSriUL7Lt6EP4s3VNTA_GHZ9HpeL6KDNHEDmZ86WSF-SWrUHCOUXzwHwqgbjZU7thuRv_UePMKIB9VcRAM64KGrR2XLSn4mnkUm5gKWpC_UWM7NmRm5x5RVYAB_1-4UhbswlmwpZymHTV-Ft-hJAutSawXzLILtbDhXixcfx9U48ry6TtJm9EQjHVF1A3OrRcxqgq1LHRj3MzyBYuvWgeQnQPO1ePnCJDRMGrqX0ixBx_ygqpVItbkJeINTRtfd1NCIysoy3nHqbq07rmAxBCINb_x2jvhXDaeIynYX0CurrG-K8fmr8qBvtzvWcp2ulC3zXbEgCos2b1Hj-HlBq-nprkEFxCfaP6Y-MTqBODsHV4zYP2zg5nFdg78vOdB_yT2kYYBiIOCgxcS1e-p-sKmCNXBeI.%26ch%3DAQEAEAABABSBmgprCuehyaggyQJOYR98VGH_oOEvw1s.%26v%3D3%26pg%3DFB2GDVLXLVELZBQTOIL7JP2FQA
+.netflix.com	TRUE	/	TRUE	1809605650	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRujCPhAR1Krii2VkWztljjDOd0Rc4jUZU.%26dt%3D1778069681045
+.netflix.com	TRUE	/	FALSE	1809617348	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+17%3A29%3A08+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92aa706d-0019-4487-a6e3-2fce874724a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774140559517&isDntEnabled=0&geolocation=FR%3BNOR&prevHadToken=0&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rythmist.9
+– Email: rythmist.9@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-07-07
+– Payment: UPI
+– Card: N/A
+– Phone: +919029575299
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rythmist.9
+– User GUID: KKIKA2DONBGV5KVLYBC2TLQHEA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812264296	nfvdid	BQFmAAEBELJEcfnwbqvTLD1HMgMQbHVgm9QWQruX8_5MRt_h_jdT-Oz4L817kOiUahLhoJjNL10SfK5DMRqpjti_MdE1ryenHOqqitCVywh3lZH2fH6d_yUBUit4OqIy6vwFlT4lHmhuiR0UaoxMZoKNatfcTaK2
+.netflix.com	TRUE	/	TRUE	1812265458	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5HjEkJ7H13TTm9yQs-jCpt0pI1M9b1kY.%26dt%3D1780729457440
+.netflix.com	TRUE	/	TRUE	1812265458	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA99GAo8teWYA9lnAbRIaZ5XikzORN72_C4BDtLPXiFhFpQrQ8oy9xSa1qm7TzgJ5WvtmiLB69YU7b5NngCuxU9-jeuX0bpPZDUZBT9ZSV0EZS7DrdIXCCu1aEiSeTltyzZWoPPr05iVC8yQZVZFwzy8pmbdTLIAEwakEv6zUEEOBhbuZBpX2qvCqq_rza5hlswr0BnKDa5-joOnW1pe9saCL5MxX6sLFNbRGc9TdNVJnoCdOg3V_UCbUIYKXaDISn-sKftjCSuUWlRxUfxyZOZ6BXnEmlompIn9GlOjckaq32Je4Eh5HKzkRjY6IfMZKAwI6egyg2fSZrgh34agrAe8jM7V2aynyE1nXaGyLLrgzPs5q44kPkb_c1hroCQPGCDEjxs3-flA2d3eN1KMc76Dizs2p2ECxGll3x5lWPBrjChTm7yJdM7MNHllyHmTFDtN1zDzsA-XN_bQEIeomSevlVu9uqwTpbKchvoiagTKetYLvfz9DizhkxNtbbiZRKf8YLTOdAgqKMnA2PlLJRWxbeBf-Grr2__akU6aztWVmTHbYcHIYBiIOCgx5Vlyy3euTJvKHREY.%26pg%3DKKIKA2DONBGV5KVLYBC2TLQHEA%26ch%3DAQEAEAABABQyuDQJVp9m19bco9HPMrzrS-r1ymlZEm4.
+.netflix.com	TRUE	/	FALSE	1812293935	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+20%3A28%3A55+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c2b981cf-e16f-4b3e-ab50-786c5bc35428&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780729458347&AwaitingReconsent=false

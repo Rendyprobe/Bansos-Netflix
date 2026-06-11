@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yutong
+– Email: yutong_97@hotmail.com
+– Country: MY
+– Plan: Standar
+– Member Since: Maret 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1098
+– Phone: +60125097981
+– Quality: HD
+– Streams: 2
+– Price: MYR 49,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yutong
+– User GUID: VPKKKOBZLBBKFK7IXD7IJZ7R4M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783357154	nfvdid	BQFmAAEBEDPliD3EdEm4zZclkqMKF09gRcYndyitp7u99CqLfkTkWpiTdiISc6ohRk5A6uaE-9fi2pYhacZaLDlSSYhtYuOSG2fUqUTIExnbkkGayBdBMtmDspBlgAVgcc5ooLvzemisiV7quPXAGV2q998cdYz-
+.netflix.com	TRUE	/	FALSE	1804405622	NetflixId	ct%3DBgjHlOvcAxL8A2HTGGP1aKhtTKiCk_dCk_rYCQQdv82x8gSc5qv_dUhQklGWFTGffyVNN8kCn1FF0hY3-ASvLMkarbZbQbfKYqyH82mKX-cJjQnyDG9JWKE_7OsqZmtRJFfNgxbNfk6eonC3JnCUXha94pTIVmA7GAPwjcrO2Uk93-30Aht4yoCLqcCZ06STOM6TPh9SDjvvJO6hGtHkJdOqDNA_oCDzx4gLSNWt60gQojtGGp-NtWzGl15mmXe-pHJnXrSH1BNZ9VonaF29k56uaDZ5YYjKEyQLTbxjNHYKkmmGRgFZXOjweXVJZpIF2yFe4exJDCKr6Otms-0bRe5-EWqzA-9l9p5DxVpzDWAoBJpMAJSxfjflaue_dsSP5ZIrBkQeKBRheQLHpu0I_V3rSldDGBuiDTaHYuxBj3b4N_TYSAh8vBBn79heIZBqZk98bycqimardrO-hS67SN57eymNo1rzy6csicTe3G9b9Mie8cc5u-DuDRhPANUDWOEDg1cDG97FLMt-HbwX2ajxmKhVWQTfopltlAWwMPGL6kW6lgZiWBZ4Zn7wLPKQ_2cfVHtkbABTePuAQpl3srxEj4Mk2UHVjzmyrUe-_aJXyLVQzNadLvZ4eG8777I4kc2VYhxBzdvTFeXHrqbt-ziuEGXgQKbJ53KuqZuvqSFKoJNkOfMYBiIOCgws9POzsknc-hyTPPw.%26ch%3DAQEAEAABABSlhRroC6sLo6afFApYl7MtFLMG5OjIMm0.%26v%3D3%26pg%3DVPKKKOBZLBBKFK7IXD7IJZ7R4M
+.netflix.com	TRUE	/	FALSE	1804406036	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+15%3A53%3A56+GMT%2B0800+(Malaysia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25e22d30-66ef-487f-aaf7-3dc3515fe9a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

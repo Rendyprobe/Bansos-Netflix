@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Davi
+– Email: antonio.izidorio@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: October 2016
+– Next Billing: 2026-06-15
+– Payment: DC
+– Card: 1794
+– Phone: +5545999096374
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Antonio
+– User GUID: QCR4HBZ46FFXZMT4YA4E72QIBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805634969	nfvdid	BQFmAAEBEK7l457cdjOgM6-VJLB-vfRgIietMwcFgKtGBRfiZfVUnRrk08CZWNdcbnXs8ojmTAzeT8oJFdLzGwaKbo-xwIBgeE_pLh4SpxTLntVED8cupGSUw3_k9XuohlhsYVn5Q0Qvk6ky7Maq7hTkSOZUnwCU
+.netflix.com	TRUE	/	FALSE	1807469792	NetflixId	ct%3DBgjHlOvcAxKCBHfbsK5YpiPdZ8052Rn7263HjRwE16jli0tqMFnNpA4lobBDXubocPwETt1Dd3kUBfIck39TH1pMiETVLlS-pHGTUdcpz3TwvnDAcO8T5uft_EAmO6S2Lxejv8FumHQU_ZexajYBtbVDLoKLmayiqFnm3QpRih2ZEWiakYUvXkJ7aLbVJMNeMPHQccXx8Fh79PnwE_WDy-CmxtRSrsvwz6Jri4yiEbDXR9pI03dXclHmtn_TCC2i8_rul_Bq0KwuNug-l8lbiNxiJVddxvU7gokhaGvEJmwSVodth0auMjWO0a10Vi8QDUMbGQF2QhyQl4BNKVwSVO5btInZvAjbG7SapNrC96sMXwLN4gTroMBCt3iAeF5MZbMlFVUbgWB1asLhMdmb9CuwkyarxS8U-eyb7icF4fHx0eh5hiCDWQ99QXFVNHZe8ZOQyk8xmqDjhtGVuPnZjSIrq98Cq_7Cwym4DtFDMlHrED4C1vqUMwF6fLD48wAdbYE4nBVl-kjj4cd2yTr9OiHpTGNEH9nwy0mxZ3UTK_kvnvCIIJqQ4mHCyyzVhp3KwjCE5fhaPnJH7akxJRn8vPGTymasUqgUWj5rhIxb_AU85iPtwFspTCrwbyw0-BJyyMLCwjx-ikvqpgUt8HmgvDpSOqOpFt0sY449wa_L-QOUIdPkdWQZolfvftoYBiIOCgwm0cDgRLVkEA49Hsc.%26ch%3DAQEAEAABABTzhI8eALDMcgmCUZu6xSaP9opm7KRRO4M.%26v%3D3%26pg%3DQCR4HBZ46FFXZMT4YA4E72QIBA
+.netflix.com	TRUE	/	FALSE	1807469792	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYtQUwMFxUWCyQjOr0rMdhtQZx5jmAupM.%26dt%3D1775933795520
+.netflix.com	TRUE	/	FALSE	1807469803	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+11+2026+15%3A56%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c132fd94-bd4c-4b8d-a43f-2b2694294c07&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false&crTime=1774099008210&prevHadToken=0

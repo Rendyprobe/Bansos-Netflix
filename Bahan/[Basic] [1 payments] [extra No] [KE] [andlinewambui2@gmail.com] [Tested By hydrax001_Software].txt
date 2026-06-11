@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alvin
+– Email: andlinewambui2@gmail.com
+– Country: KE
+– Plan: Basic
+– Member Since: July 2025
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 8696
+– Phone: +254746610147
+– Quality: HD720p
+– Streams: 1
+– Price: KES 300
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Andy
+– User GUID: FWAF3AWYCZE4DGEMPYOE4YZK6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805297852	nfvdid	BQFmAAEBEMfqoBIujYxST7y3g5C5aadgsNSJJJqKBdTMOcHQEKQ1CKWmsI0D5cksmsKlY3jdDG58VyvPpy0JUrS5gurL2XPp2rJils-LFuzYWV17DUETaa5W9gnTHvukDd4FFYsuVXIh1Cd2ktcdNy6qy6g51LAs
+.netflix.com	TRUE	/	TRUE	1807700720	NetflixId	ct%3DBgjHlOvcAxLNA5QXNhca55GV3_4AApdEeUE5TO3mJ8548yhntmrBE5_t96DujCSTK1OVodpxRxENg4n9hEwPmjb5zJryj9Xc2gVPvVPLCaB4wTZBEnC0qBv9zwngui7QEZ800g79TpCT81kc31a1Hl3LUQR0p25jHAQY9dyFbzWvWPbWnDoLz-dCZ99OY_c-VvoiqPpdlW-JmzE0XMp1NA_to6NK4CQaAp28r0idPzkvDqiQbs07ELjphGeVA_-mtTpdi6Xa3idb_DHdrPcV5BCTnSBdBDMfzU9Ltl-1cpY1Ey932j4xedjXuX0gU1Lwb8T8WfhS1RbXNZhT2CuulHf4r2HYKwjIkDKvFzwF_2rl5Djv3mOZZpmgQV08ufNDJASnRH6dBFBM-dPrInmN9DABf5AZsG2nwGmyodXzGeuE2IWG68Wy37UIT7s6edZoCZZ0Ze9fQf8rpKdqY9_XceetiXr2WYE8SSfNz9451SV9Jl2evFUIuchBlJ3Z0YusHluFDldRwPuOSt08_eABElKIsj_wApzVA-rgNRWd0Qykgg8LmKDtyG1vTvLgqDzHISJfkPzwxe2m3wCMOTj3TNxStb7VLJQqq266UxY6onrmYo_jbpJlGAYiDgoMm_ISo3CWowvWP7eX%26ch%3DAQEAEAABABRDQOOTFRxMiu6U0-jz2bJSQjDsUO0AroE.%26v%3D3%26pg%3DFWAF3AWYCZE4DGEMPYOE4YZK6Y
+.netflix.com	TRUE	/	FALSE	1807700721	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+14%3A05%3A21+GMT%2B0300+(East+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca6b52bc-5985-447c-9c33-9ff87a9f693c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773761636651&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807700720	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3UTYvBSXexJhL8CIOc_y98xk5TseWxu0.%26dt%3D1776164719100

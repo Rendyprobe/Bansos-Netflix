@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bertuğ
+– Email: bilgenmat@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Januari 2020
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 0888
+– Phone: +905465902300
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adem
+– User GUID: ERNVE23GNNFDLMBQNG6GFYWIOU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784157028	nfvdid	BQFmAAEBEPxMhAnGStdKjTNvwvXGDTVgt0lvdWXAoGn3tzBaWo0yrzdfumZFGKU4ezQrytVUD_oHqtyFjKd_YwS708rRztKadZJkU2_IaNRDNoff1x11fZX4DUVsLeC2j8wwlK_Dj_iJOkE994Bj26h9PhqIsPZk
+.netflix.com	TRUE	/	TRUE	1784737144	NetflixId	ct%3DBgjHlOvcAxLhA-nUC1fWZkSusjECUscXgIPPieQ7TLOGROxh0lnrtxneC_W-rOxuFIobfMPgbKu-2MtdPciA3dPMK4-rbRrBUjFxeQJBY9EPUU7AQq7TlwEX610jmqPS8bspYZTTZ3gciaDj43rhVVq1MqVVS5eZzRRkWTJzju2CC3iGLvU7w4AWL6ftTK4OoIY2JfCyXNDsCgkJXandx5NkBVtbEmhC8BvKUOzdasSDIpmGLFYJ4tK-7Zt5uQLabBOZS0a6Mhd5ELxFGviLHBzsCZxV-09rTp8jPUmefDl-a_vxL-xw04-CAzEZxah_QroI2fO1DkY0YQOrorPxQHfcDvruNbD6TzjtdVpEOV2bVAHVF66CMirDxwka17VJAU_2fXpwFzbzrtHYKK9P0Rmp2OQ7_u_GoHdMAbqAO39xAukICiaVUOp3_BH16RJzV21nRpQma81UfevkpDqP9sSrjGFRB1E74SM0y-A8UYeK7y_ycj_p4yKB_rXwJGOXpfztb16_pWGb49DNtP3q6FTqb266JBo0btzBllZddqT8wMmHPW9XshAN7Wx4mQ76ILoYwMRcqaza4gPoa_dguj21dELJcfeRTXdcAo_ExU0oMxeZnTG2xXeVffff0J0w_H4p44Bj6CoKGikYBiIOCgxLq-mwGNUUF5fxkz8.%26ch%3DAQEAEAABABTWuOLqTH92a9GVUMl00wYtZEWalX3ISUk.%26v%3D3%26pg%3DERNVE23GNNFDLMBQNG6GFYWIOU
+.netflix.com	TRUE	/	FALSE	1784737145	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+22+2025+19%3A19%3A05+GMT%2B0300+(GMT%2B03%3A00)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25fb47f7-9f6b-44c0-b7fa-9ce09ddcd42b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B06&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784737144	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvj3u8FReNv9FiAhnXmXJ4IK4Z31kSdso.%26dt%3D1753201145302

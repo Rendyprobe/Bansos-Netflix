@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PAPA
+– Email: carlos.saraleguicodes@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: abril de 2026
+– Next Billing: N/A
+– Payment: O2_SPAIN_BILLED
+– Card: N/A
+– Phone: +34659893561
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PAPA
+– User GUID: 3WYUFFSMCFG4BPV3QYF7G4GFSQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808591018	nfvdid	BQFmAAEBENKT_Mo8ibrpkAhezVsq6stgKWQ8fbtujtW4eXI1V-tejQZHgY3YQDdahMEn4Nn10pcXhW8aQvFcCovAqZSwbnAcj8JlbzOoT01qHm4I6XuU-4j5c1AUPvSO_TwNv64skfDKKTxuJrcBTTJNip1Sypm7
+.netflix.com	TRUE	/	TRUE	1808593705	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA072V6NitOxDVt3ErmZJSLk_pqpYWzGhIVLwqzQmweHqO83lgpZNrXulNVmZDHiMeYG_X3lLZCVTen3W2yhsmYDP3oBx1_b2Ydl9w-ibmxD8wIUAbnnvak-J0Y5k0XioEzYLDS1bZ_-hEX1szVJOKhw8KCbzv7zhaXBOb01KVx5HwkgPNdWEVNoNW_e9qgdBG0aLj_6SLrxsHi9t2BFbU5a4vngC3C-7W0-N5jHPDpMFB6nhJkdPvFhSAJNFnAAoLLBhBTk7bAgJmsxz5VdWMhHMdD8FcZBJkUpk0rKgim4RphV9XSoNi7Y0zVYtdAKCBHM4TIGQehDMMUY4IxMRKJpAvIorriEbJ3RG0M-9isnszmjhv7Ou68Y5re_bA3Zts4SHc1jL7KObglWzVxK7ojpR4uJfZXdodp-sP5l4eqLkPfxdKFSG0aZfnVP6CLzbQNKkU8H3NGOuN4nGkKxt4AWYrOiktjCv4pQFSS3Bli2iv7RbS0FvPC8rf1hEbuC_ojOrnwMNvg8-zjXKjl9SBgcFEl_xHVJM-6Lg_KzGVaMQBjQAGAYiDgoMEHsoQf2J5gJxV8XE%26pg%3D3WYUFFSMCFG4BPV3QYF7G4GFSQ%26ch%3DAQEAEAABABToC8QZ32cdSlFrPsV7icS6nWrKRmcSINQ.
+.netflix.com	TRUE	/	TRUE	1808593705	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtNC9buWl26p4JCVHYhnwe4oDPxMXIqXo.%26dt%3D1777057705712
+.netflix.com	TRUE	/	FALSE	1808597633	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+22%3A13%3A53+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2670a920-e13b-4eed-bc90-46a71d08b587&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777055018319&intType=1&geolocation=ES%3BMD&AwaitingReconsent=false

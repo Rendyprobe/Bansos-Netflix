@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AdeebIsSus
+– Email: Aungsitthmuu571@gmail.com
+– Country: JP
+– Plan: Tiêu chuẩn
+– Member Since: tháng 1 năm 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 4969
+– Phone: +8146926976
+– Quality: HD
+– Streams: 2
+– Price: 1.590 ¥
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AdeebIsSus
+– User GUID: JGPQODEEEJD25DCHQ4SGM6JLUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781273662	nfvdid	BQFmAAEBEOnZJKtktF11Ldgv3jLyrodgDuT9p0km5NDfao7VzX_zrBKRtmGLufTz5ZrWghbTqw4LJdR72i1cKq-QugBel-20ShObcgyIRUE0WuocSWqdHsLYeNTFRDmMBJzsPJnkcS8zilMMXrBpYuVMZBQXudwx
+.netflix.com	TRUE	/	FALSE	1808729625	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+17%3A53%3A45+GMT%2B0900+(Japan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f937d2d7-f5c2-49a8-833d-75cd9a2d19e0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808902422	NetflixId	ct%3DBgjHlOvcAxKMBPCaEd8NT76MtbMb_QZzNne-QNiW-z9Io2MAgYyjbHC9uapUZvrFEV4xSJaLlhFIe6VUpncKVeIauvKZHlSQsqPl8GTXL64jg8GqfEeopcML3MuFmXc-ofrY9yo6bLo1gl7UlA1O9NzxS-b_NTmu3d_NebxfVW39z1t2LM4oPfwF3AvNzAC4aMFlWSdz58PrXdA-HIKBB_tzg-_a7vm16VRh6eNcM205XatNQDVr6oYytoHR2Pan6DCUKh-8la4DmFGhZi_4BJ8Z3XH3J5k8ndpqjghKJ6JCMJNFSEAX7bWk2UwPHqVSkOeN4U1w99jdIQ5d_J6ev2M-QDZ2CBKu8nH3HOu0CRrDH-GSUIWLowme8V7D6zVjAHt5D7dkRcpVQ-VIILcmAhLWdOxPF6X-NAIRMPowbISghRcUlxEKpGuAvUGHZ4zVa7W8MquIgd9gCO26myOJObbxi4UaDSCLoZ1AQnd3prREjWCsoUAU2PgpNC-SkjeFnrOHqwpSW3AIvDBUvYq6xjJwUO-6uzEf7prROfs-SItG-LzdVUDTTtDfzoZ66LsSLshxwD_X31I3N0CrdTsQkF_-b4KhsB8xcKFswRSgc82xibQ4xQDgV1Qu80vgtjF6h1JFcFdRM2CnaphuWtUJwHV3WfC-zGapUOE5Cd4Dy29dHSHxBC4-HhTzx3-EYRSz9Pg1eAP8GAYiDgoMzlZeZbStIWddt19L%26ch%3DAQEAEAABABR0JV79ZPrYruhH43K4MX6wn0k-aEUniFU.%26v%3D3%26pg%3DJGPQODEEEJD25DCHQ4SGM6JLUM

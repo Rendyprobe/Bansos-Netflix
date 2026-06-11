@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paps
+– Email: leon.k.wot@gmail.com
+– Country: DE
+– Plan: Standard
+– Member Since: Februar 2018
+– Next Billing: 2026-06-26
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +49176043622755
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leon
+– User GUID: ZZCMDDWJBJEKHALLP2EI5ZUV4Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798248264	nfvdid	BQFmAAEBED-zSo6iO-fTpvaJyXzzTgpgAhIPVqV11DMZAZXcXQDZA2vzFHpjTc0OYucLc9wPxvqSskShX2IHiIPbNYfFHhbm-bFtaWji9cmBOYJllg1vAyBHeu7YD2bg_ZnHmHIAnu1fRJaOcMrxy9KFr-6vQHex
+.netflix.com	TRUE	/	TRUE	1811082658	NetflixId	ct%3DBgjHlOvcAxLoA3itKbhechILVlowZw4Pgg7iyYbryHH2evlDCsajvx0HXXo8CRpoWyTN2Lq7R2bmQLgDrwREzRAFYp9r3coQ1szK05q6Kz1_no4Q9HIRI2fpIoZx3LC1GuDPa7glWfoAqRFM8t12EYe0AUFyQqS9ikqG2gjNlBRTAVVpsJ-S_wi72VC4m2RRJfUJOPlG1mC5yQOu1yYtP5aeJb-dwdJRX4SIuxI9S4AdFh6YHQ2ccjBueFwIW-e91db6wBX3uspQzfC3pL3lI8Fw1u8JTpnRwayuzQErutsGhISaR9c4URioun43cdJDLFUJne1SgiTxoxBUzBJ5R0MwwXCLy9AdKRoN5xj_ljzrBBVL_lgZoqy10EEyr2jGiypex9zKIyv3JHPb5PqG_j0qOXzttRxy_HixtuZETF5W-bPne2VdWTWRO2SfV7akA1aQWhqSiKUnZ05wAAv6FSBco5zaN1qxauem1qSbxJXooQFoNALKML2cbdz21Ul0bwCP3GKOtTV3Uj6c4tKLcJPmW22PIm8BRiFeumTXOxw8z6-HdnKJ3ej6Hy7VFqV3LkfIWstfxb_a4dVnQaxTZWPAEyOJwz2B_HpEeeJONUdW1110gRdxTscRqrYWLQQTmZRk4Us9KbnsvpC0nGP4PDJ1GAYiDgoMtPfLA2_iFY6IgHWe%26ch%3DAQEAEAABABSNPAtQhgMW3YoqY_F_0V1owgMKuCQvoxw.%26v%3D3%26pg%3DZZCMDDWJBJEKHALLP2EI5ZUV4Y
+.netflix.com	TRUE	/	TRUE	1811082658	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRcQijBaCcocIm6Z-wKggd63HC1uEX8gg.%26dt%3D1779546657955
+.netflix.com	TRUE	/	FALSE	1811082869	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+09%3A34%3A29+GMT-0500+(Colombia+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44a6075b-17ad-43e4-818f-33dd557e234a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

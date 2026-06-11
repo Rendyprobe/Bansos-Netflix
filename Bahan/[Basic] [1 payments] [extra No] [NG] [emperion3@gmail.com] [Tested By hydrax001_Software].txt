@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: EMPERiON3
+– Email: emperion3@gmail.com
+– Country: NG
+– Plan: Basic
+– Member Since: December 2023
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 7540
+– Phone: +2347013005341
+– Quality: HD720p
+– Streams: 1
+– Price: NGN 4,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: EMPERiON3
+– User GUID: XOFY22NK65FXVKCSD2KVBNXR2M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781593223	nfvdid	BQFmAAEBELZMPC1zReopX9x-MjGPpY1gKRTQi3-RNvooyiP7QSeiEdZ63l7Ib_xDlpgmo8aSVIHgFs8bK4SX_pZcALAEICUnDFftOqtIcVDX7_of-YILWnwpQN3HJ0vsBhlL9L9erteWDIcefiGnlpik39nFGOVt
+.netflix.com	TRUE	/	TRUE	1807802271	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtJDDLzdmSLSac90_M31RrNV5HLsLXx-g.%26dt%3D1776266271319
+.netflix.com	TRUE	/	TRUE	1807802271	NetflixId	ct%3DBgjHlOvcAxKKBFsRd61q1ephmMwYw_iHVAJnl89XNFomj6s5w8DYDbwPKJj9_szLQMmgAPtOLU3Vy8FsWAJk03FfIH_ajmNNTbn4BMk1apsBBWNH-k0mvgMWhsfYWwrOeYpjVsmh9BLjzbfojx2ZGT8WS1nVYWrGOPBTf4sOGVbvewzj8DDtYfe6IWbqNRE3-xXTcQSdmOOmnjl49d9v0-A3jf4r52xobvPdPbM0ARgRL7A2G2WpklugGcwaTUPhgwnm65rOsa3VZ89Ij1WYEhIXQmKsEelXaYqGQVwFb1bmhVUx-1OgQc4mJiKw8UnPoGvbm7o0UvuDiIGu2dn8Yn9JHX8xqfgjO2eMxQcMyB4EsSfZkKKNxRN7vGDnysdJKh8u2z7OA9atovbc7aA1d-j_63ID7Fk1VLgY7iFYoGmm3k9RAdQ6X6_4jXTywtz5P1n3dvFYssqER1QcTdwGJHqUblY-EsZjEw72F-qa450yu7zpZfcisBrw1SqlB1675657tfzMDEG-CESAVNqhXqlrx6M3tNQrmvJSBawElgAmG7F5FH7Lli4AQHf_oCTvMpb73iycSfdVs7iyaEEysdBZkKruE3SnzKqLUfq2mYnmNM8DD9p2arUe2lKsF7_BN8ZXKJEBXnPL0I1CFwvOltCRfquO2HxmlJ4Jhgh_vKhJ3Q357wTtzE1nClkY9JtuqoODXhgGIg4KDDVE-oqlHaVdraoEJQ..%26ch%3DAQEAEAABABSO_-QgewUMsBPRc_hX_h2GIZ727iGQPws.%26v%3D3%26pg%3DXOFY22NK65FXVKCSD2KVBNXR2M
+.netflix.com	TRUE	/	FALSE	1807802278	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+16%3A17%3A58+GMT%2B0100+(West+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4586b0ab-27cd-4f5b-b0a0-138927a0f2e3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

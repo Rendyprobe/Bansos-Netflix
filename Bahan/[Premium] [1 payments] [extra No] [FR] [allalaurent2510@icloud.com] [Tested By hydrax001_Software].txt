@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: allalaurent2510@icloud.com
 – Country: FR
 – Plan: Premium
-– Member Since: mai 2026
+– Member Since: May 2026
 – Next Billing: 2026-06-12
 – Payment: BYTEL_TV
 – Card: N/A
 – Phone: N/A
 – Quality: UHD
 – Streams: 4
-– Price: 21,99 €
+– Price: EUR 21.99
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
@@ -27,3 +27,4 @@ VERSION: V2.0.1
 .netflix.com	TRUE	/	FALSE	1797967053	nfvdid	BQFmAAEBEKt4w_xUN86ZYZBS9HXmmz1ga4BWm9eOzNfYqc-t0jHCZgdlVKT6uPOYYV7NrcB4lzzX5bk89LagVG_hE6wc7MTjR0bwpdwUveNUXZ9Z0KpboTtsdHIussdApxIAb5FIY7vClWVclxfV6wYIG0Gqrnux
 .netflix.com	TRUE	/	FALSE	1808036195	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+10%3A16%3A35+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12a18a60-3419-41a9-afbe-65ec6d0c1a98&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0
 .netflix.com	TRUE	/	TRUE	1808203466	NetflixId	ct%3DBgjHlOvcAxK3AxDMULcRbWz2m984jaLPLBCZl0OvKTRq_kDw-b3aWEbsU9-bstXce47CciOb4A65OTeCrEjU7OtO4LHGRC28wwviwDZKupNJyoY83i7DJpxur_UgkLJXVrQRhjt1U6TE9RvpqMoJ6gBAkqw75xXXc0TrUNLcvYHFbtC1FvGcIb79Qp3-Pa1WNe4TNDVIOndqWYanDMqEOTokQRMG_upmt4vGC0vXuNX_wn7NXaLRQf98LP_buJQfB3v99HxaumIaqhE6TLz7MU2BZxfvo1-GicOsHtxMPyRSHUhFfAgkQLPuhj1sFy8gOKlQoeymGibbYlUZWg3F2k7CZ1PkSnssnkHHziYlROISneFvMp08JGWEJA88yD_VtQOkBYAxa0y1Kx8pK7Mo4ilIseGSeQWE5VwAgFrjlGhL-qj-Rtkh675mATwKvvuHyjI51z6jUJyo2jUoR3j6eUzWNyWCJWrpahuoje6stLAIdQZlWFpb5wMEZdBskiYu_dI132bOv2WIkZoo3XF-8DmGSIfDQrq_F9DV3vhVsmhDefndxc-HPjsKKAxFTraHzxas3ZHbnYYx8uLhRNJbdLYYBiIOCgyeLTtQXpPQnXavfmM.%26ch%3DAQEAEAABABS0LdGxidtqq4-4mZoGdcnr3uiXhUzF2B8.%26v%3D3%26pg%3DZ42GJKZQT5CZLMJKOFE6NL7BGA
+.netflix.com	TRUE	/	TRUE	1808203466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2Ug5vC9ITISP5bfPlElh0kVWkUv56y8E.%26dt%3D1776667466223

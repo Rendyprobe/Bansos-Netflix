@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gsr.ceramic
+– Email: gsr.ceramic@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2023
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: +919636244441
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gsr.ceramic
+– User GUID: JGIAMZWSFBGIVPIDCT45UIFHAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804781231	nfvdid	BQFmAAEBEFd4CsOO1LbmY7hPUgXineBgHFsf_z-ueNwYKheL0cz08dRhGSxU5iYDU9-CC_qHlzagBg7TlFVfl75eAS60F40mCKPh_kMi64rwh_xLnJGpKU6wx_wixt0W1-_QsX55QVpyLwoy2D3qaXpsoXOxrG9S
+.netflix.com	TRUE	/	TRUE	1808044997	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA66l9dkIDLZRThRHgXXHX_C26KOr-WRsAAdqmxqQRJhlI7hy0pgUlCtvDPNzAhGOcweVLEMyeeUqj9q_46PJAScVLvSykwianvdVLKgBC6cV3w3sXzVPM-vCf3SFnnat8ZlkWv0Uzbi0Oki1UZ1gleiczEo-8m6ME_TkitToJyBmrB9GaeSLqop7gIvmJVTWFROFUiRJs53a0BEfW8nps-_lM5EUwWoVQd7DRi54kfYWx9RQ36gAKzLWs_GCamKH7CFPYbZNw2oHDcWlrkm5LjmkWgcfdvfCTaAbX6Kk-GWlLBRINQ_uwk53v0mPzbsiNZdpltDNhkOCEq1JAiRnv1zU_0CcjN44Qr3GbRwluhDqtipwsO0rP94rHIkIWFk9M05zoMyvZoalCaAJu-7SIy7PNT_f05kZoqtkOiC30GagleT47mn7w1RLU4HHA90MZQ77GSOoAe61273iCqXdVy_vLkYxT0g-6_WpihEPZP6N483JkGmyXY-fTZNV0xdhtRq7fg5UWh6bOA8iqmmMV8Y9pYbi9hjO2slKEoCXmr0YBiIOCgw5-_bLSV6EcEPamP0.%26pg%3DJGIAMZWSFBGIVPIDCT45UIFHAM%26ch%3DAQEAEAABABTXRrVpOFg383q4kwJNPMM_gFnCODdtiHw.
+.netflix.com	TRUE	/	FALSE	1808058349	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+19%3A55%3A49+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dba3b8a4-4ac0-4856-b8d1-ad3742de7304&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773245120880&AwaitingReconsent=false&prevHadToken=0

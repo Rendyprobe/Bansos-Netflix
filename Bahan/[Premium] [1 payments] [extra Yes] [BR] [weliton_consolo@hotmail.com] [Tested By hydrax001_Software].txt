@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Ana Laura
+– Name: Profile 2
 – Email: weliton_consolo@hotmail.com
 – Country: BR
 – Plan: Premium
@@ -19,7 +19,7 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Bia
+– Profiles: Profile 3
 – User GUID: UECW6AEVTBCSVC5AD5LRM7M6RI
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════

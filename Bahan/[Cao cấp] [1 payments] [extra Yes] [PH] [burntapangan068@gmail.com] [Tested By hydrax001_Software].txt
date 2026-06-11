@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: EDWIN
+– Email: burntapangan068@gmail.com
+– Country: PH
+– Plan: Cao cấp
+– Member Since: tháng 6 năm 2026
+– Next Billing: 2026-07-03
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639664680754
+– Quality: UHD
+– Streams: 4
+– Price: 619 PHP
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: EDWIN
+– User GUID: DGW7LVGBQVGQFFR25SSCNRKYWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792739313	nfvdid	BQFmAAEBEJE2OEWj5Sqk-lHN6PyZMedgkstYTPWMcB7H7sD7DwWVbNOqDsmRftwUfCXa8Jda-ZRHugav3KGuLbnNK9MEqTxHzLoWYCSYSNahUY1DqrsYhxj8vTA9J0YORnqeYJtAPUfVaAIcnlbRSAr2Wln1I6Wg
+.netflix.com	TRUE	/	FALSE	1795103202	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+19+2025+23%3A46%3A42+GMT%2B0800+(China+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d801784b-0c2b-408d-942a-90395ee52e7f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810899733	NetflixId	ct%3DBgjHlOvcAxKWBD3f3gJWZv7YhhZUObLS8rF0nX9A1s6uF9ri5eBytv0DqcKPMumC8txurVBhMQIAqUrion2VzDXKxybCOfYl75xQtiQZzfkBU-sTqpxiLlf7nLa_8QAMEYp-ciu68f22AHv3z74cM9jupfbJ7ERki6X7W1w1C4gy5f9wDLrAH-m_yMNEBllEy6uMij-_0mIpmFOk520NgvYwR6EF-sS7Q16VN4nRi6Jn3MEcsfkk69zmvFyJdOPdm3eJXCNbbME9t5S4CmWkeFePA0V8xy0MJZv85H3lPtzawMtHilyqHk3_VsCU1v04Mp2UJmLsf46xJTMPJbxqio-1IWZAs_AEwvakcrIXyDgJ0NsMI7Y6Uoam-Ofzs3p7Odo2IJlszJPQaHF7c780hc7BWWDpbkHc09btOeHKpJGBqZhFfOnYSCK1BepWi5-7iA10zX6GEbMN5PrVeSrG7ky4RIlJ3VwrftsRzyQ9yZbi9Ho5n3MkdwATTDTpE4cKbXFnT4PBjuAXpQCWPT_oQ4Q0K-V9mLKq6Q1kS3ozq_nULxjy7ULg8-vdUWRDL4cWWZCwunC_a6uD-O4Y2bvpaNbyPwCbuTJQgMuur1jFGblfvTWUTcKvmyIir-FIzNpim3OBvdYqpJGfBLssmgHZ2fmn2fGvXAgJZIaQ-oGOyXopIpNW4LJrllBNIoD6mp4-EHb0gRHHRxDvyQ7zZTAX7hgGIg4KDKAbbYUfidrl-KidFw..%26ch%3DAQEAEAABABTgdErYyYnTETGPQ4AMbhsEHTF3mWtq69c.%26v%3D3%26pg%3DDGW7LVGBQVGQFFR25SSCNRKYWQ
+.netflix.com	TRUE	/	TRUE	1810899733	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIAwaS6Bh_ADIU8BKkRdc1BsEsFWmq3kM.%26dt%3D1779363732781

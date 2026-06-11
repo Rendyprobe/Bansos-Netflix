@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: abdramanemaiga001
+– Email: abdramanemaiga001@icloud.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: mars 2026
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 1423
+– Phone: +33767597793
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: abdramanemaiga001
+– User GUID: DBTCMGCJSJC4PEKW7ZJ6QXFVYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808187348	nfvdid	BQFmAAEBENT6BxWQsIYMkaI0MAf1BIFgHN2eKANNz15wVH7mAB1-TCf6xcTZIUMuu7M7cV1RAcVXR5nqD1I_7yxVfKw_mvbffr5g1LJAntByAyJK3CD8JvVzujCtm5Uy3MOporPDXJEi3Qh7LMqBYdYrLZaa1gyr
+.netflix.com	TRUE	/	FALSE	1808330350	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+18%3A59%3A10+GMT%2B0100+(West+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=790b7ea0-3267-4f57-a67e-cc4b2b0eb51a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776651316882&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808439385	NetflixId	ct%3DBgjHlOvcAxLXA53xmqRaNCV4YOb-Xz6C6Ita6jUntS6VxYIb8Qje2eZcD7cVVmFgDupfYn18WFdhOP7TDiVLghSFbmod3s5D42VuxvppP9CK5_yt3G3Q36W4DEEdpP3oKtmFO2yx0RaB91HI337Bum5MsCZWNFckINdohwVLVu2AoXF-xJuokpPcXrDTVVqRkKHiXWR3DX3Zik8BsxrhtXDI81Z9MuTkkOjHGWEZiZ9elolUTWUKAh2mYsGcJnCeFIPVyFBHhXKGKYraG94T-5KUmwxVBpJWgDnSAK0YgpJbI3K4ALPQlBSzAUNu7nvhLe4VHdCvJNxnAG2t5JfQJu4S5JqnnP50vm_BJ8YdyHXylTzcG-NDM_7swxgeRUn2PBdDLeuW8a55kWSz2goTyX3MMuWOoz7BgQOYOTPUofCjVCV0Ne5Cz7jgoRA1AqREkwaPSk6RRwv3qwZUZu_4MztDCWgR0jmgj_J1ZuTmnGpdgcMEldWGPgT9uLjh8HCXGcJEQS854EMyEKcUe8XmeHzXSEa4qeLh4kHyPjYlLAWyz85m8wORTk1udiBjqAUn5Ww8AJ_dQZcJMc8Asx46-qxJxyhTSM0PCrrtmAxeNIBOc5DZWmQUEOqlLQGOnKeSsxgGIg4KDDCWGtTHL5lnIAZEbg..%26ch%3DAQEAEAABABSt8OixK1APUAujFRn3Pq8rFfoxDFhE0rE.%26v%3D3%26pg%3DDBTCMGCJSJC4PEKW7ZJ6QXFVYI
+.netflix.com	TRUE	/	TRUE	1808439385	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQrudfvq1ycIkz5noD9p1e5Na6uMpLAmww.%26dt%3D1776903384532

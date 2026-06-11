@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hardik Raut
+– Email: yogesh.raut80@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: June 2022
+– Next Billing: 2026-06-14
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yogesh Raut
+– User GUID: PYGMY3EJLFF37ICJPSREDCD3TY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784444882	nfvdid	BQFmAAEBEGu1lNF1Opgd9RlbqbGf8n1gTdcJH5tZCxVOs6A5ypzcK5JNKiz1NpOiQaY9Dr_vPG5SR3ehr6SxqBXF6-MbEUFarHxCV-u3x7n76UhCoYFOdwNUqiBDq6M38tUbxMPYpklv0pvDOfoXtxX_bAFxtddy
+.netflix.com	TRUE	/	TRUE	1805874280	NetflixId	ct%3DBgjHlOvcAxKJBLCy4G0k3ILu9FjYueVzGQgRrf6L_uMF--YUz3tZ44Rxs12SorkiWGEtMCA1GKUZjzELAZ35LcLDVCDY5qaCksvZt-GYvFU3wnzrN9dNjPi0xrpFE7eyGutnk67XVFMHgojJqJpPDEsr9zeC4QsXul9STUPd-3XMHn6Rq_wHt7ZE9KORjCln7GSrWjJ_TA0Q3-M374BZ2ss6-O8dqG1jmbOgovy2ddASBVTnAbVSPCNRHRUznL-PzzZNh9OYq5ZLdlr77Bdc3maA2UDwU-swimqOUWtmWY2XPfr_TaawVHQsdxNuBhvS7SuEv_opuUCpIpTPrEzzmuLvl6u_OOmsTvNgmDI9nNzuRB_cxMM_QSgoIkxvfw-QpJgNoKDXPPeUzOYlmHuj1mXWwgjubakC0r7yiWDxNJ_uzW83SWXCNZXJCjP7N2CweJtEHUT8mpOEE8bNSYVdZg27QitG_yX4R4FLSEbJszvmVxvk3lstm_LFtPgZdI_Nq-X7Abpt0baL3Vd-d5uwO3DaQeeJOOZxDMIBYZzV1Lh4aYuggnBNu-LyvR0NtSAm08ZMBgnPs848XI0r0XLxZiawhPW1hnBNQiFx9vacU31TYIk26D0I6phbXfQKAzX5zjkhlqskH0Q83_cxXu7ph4qzi-1k7fJsXKV62-7LpnNiSESOu2gmehDNB8OGA44FDF7FGAYiDgoM8jg3yUPLMxo0aBNs%26ch%3DAQEAEAABABSYep52hrexTzM9g1yPTUWfCIKZmn2_Z0I.%26v%3D3%26pg%3DPYGMY3EJLFF37ICJPSREDCD3TY
+.netflix.com	TRUE	/	FALSE	1805874286	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+13%3A14%3A46+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=854a04e1-64b0-4801-9520-7cb4deda0a1f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805874280	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4XbBJM3xYphzrw_34i3MqcDzlvNJFQSM.%26dt%3D1774338280950

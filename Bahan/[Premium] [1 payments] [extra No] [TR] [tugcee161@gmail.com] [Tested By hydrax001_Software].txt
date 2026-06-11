@@ -3,23 +3,23 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Belma Demir
+– Name: ankush jha
 – Email: tugcee161@gmail.com
 – Country: TR
 – Plan: Premium
-– Member Since: febrero de 2026
+– Member Since: February 2026
 – Next Billing: 2026-06-25
 – Payment: CC
 – Card: 8010
 – Phone: +905535696864
 – Quality: UHD
 – Streams: 4
-– Price: 379,99 TL
+– Price: 379.99 TL
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Belma Demir
+– Profiles: ankush jha
 – User GUID: 6O7BTQU2XRG4VOVTCA5CNOQBQI
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
@@ -27,3 +27,4 @@ VERSION: V2.0.1
 .netflix.com	TRUE	/	FALSE	1808071809	nfvdid	BQFmAAEBEC7LH4Zjb6EriE_E97F48GFgFxipZ7k4XrDtABBgq_JaSUdCsFY21qpGhw8QTZM0O9YY9lJLiWTj2wzvsumHZEYsJBuX8U4-Y1IJN33a-AZWpEHTQc9RJ-_j7zRPegXjRRDYzzS3fvV-Dhgte-UCrqz6
 .netflix.com	TRUE	/	FALSE	1808497300	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+19%3A21%3A40+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c74c445b-f16a-4314-a333-8ff386f8211c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1776535753565&geolocation=TR%3B34&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1809008707	NetflixId	ct%3DBgjHlOvcAxLTA3TpudDUIsqqDnNqLLnJzEggJA4Tjepevgh_vnZGLSR34Y3eT8Mw24_gNV0kQ356SpK0D8qHm6cxCR4vpmPL6cPNwf_v2xGmg72zHu3Eww6NcQvjvtbkiJZGFc-FIaKHmP-2jAipI42lbWvZIeBcnocKuouTVF3dAxKwYd24UaHlqMVskMgjfsCuUJPoB5VCwdaklFf1l_wREpQFljqIDB7wM5AY8d_ZHg_rfT4o5dUN6hAy4jZgMinJwAA-PQ1ho_uvL1pcog3LJkasxVLcc1-NJMWKSoiFMnJibxOJOe3_Vns9TtUJ8ZTc5acNjVKo7fnEge-BUA1fCeqLpKoa4g3IWlx5uCMEvBEMnZ10iQaXB4rMPTioqy9TMcEHUqdkGwjW4Ge8W7nzjyc_GY4PyUnQxmCwxEbrwvqLf3hnB0XLdm6X0eCX-_7IjuYG9DvAZj-f3U45VSNAfQDoCnFEB6lW608H_d67yECCsl3ocBJ0AE0fI3RZzMJcfiqybekP-hQ2AZ1JFWYz78zw5cQZLu_BE-RkUX5XGGu4XqQ46viZLCaBwvFQnZAFnLaoIdA9swMwr8ZKzfU53wh6IodtbfNy-PlDi_8U3u6002YT9gGThPyEGAYiDgoMGPU_HzH7LvCyyZyc%26ch%3DAQEAEAABABRqvkfdf0669eLrtpiLp5Q5kIgXhW8bEhU.%26v%3D3%26pg%3D6O7BTQU2XRG4VOVTCA5CNOQBQI
+.netflix.com	TRUE	/	TRUE	1809008707	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQseCvBU-wOI7gxRoeHLwHStghcOgDBGyU.%26dt%3D1777472705657

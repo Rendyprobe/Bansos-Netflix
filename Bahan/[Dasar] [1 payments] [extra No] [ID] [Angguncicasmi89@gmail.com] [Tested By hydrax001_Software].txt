@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Angguncicasmi89
+– Email: Angguncicasmi89@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: Juli 2024
+– Next Billing: 2026-06-19
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6285269112310
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Angguncicasmi89
+– User GUID: IGG4NYE7SVC75OJFT2FQRWG6RY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789475179	nfvdid	BQFmAAEBEGd_XYP4N7NdzoDJwt0yDkRglQsx0L0h_XE6rgv9IfqUB1yK4Tq-Kjky5g06fPwcljdhXLxA2NsqTpXYQCxUFjQdDbeUhof1lAzBSpATEEOBaBJihBRScUK1CBkc7l3QsfLnH4flKsparlhRR-X8NIvb
+.netflix.com	TRUE	/	TRUE	1809705195	NetflixId	ct%3DBgjHlOvcAxLXAwJgrvTg66WeiOrNUxICf9gYxf1f3Y6YtM5Ny3SKyOR3dvltx6TZ7bbnuiW4nIdl-NO5n8BEzrOqGlmmqo4dtOaT_dTmz0MCZMwQZEBpA8QBLDlsxEM0_lQ2ZCn6TizpJNHCePYkW7BxDejanoLsRfKCwieHmlTIYYpsvYfABALC_Q0WfQNyO9OeS6MP5P32re1Pha9MxvsWymC8iAsTgDUdGWy2UEU_I0iwusBgnQGMb5QN2-fxYxVEjKrCMhw2dMvAOt9AXi8j1L6hhbmQ9bfxOG1Duc33pOXnENMRobCduiCUlPqsVcu889jAjlRC7oBCNtES7ui-E5wbD9tGEtrbuwocySpqHuUgnXY20_A4VSpplTLZqA5QY-kmd1nauNh5DNO0_BVSpST9CPhcGiBM7aqIcFL2KV44FK-yu25XbG49E0FMnOr4jQ9p6VQ2VlCrDl1Te9fpesuSBl8It_faHD7ehH27TUlGNtnrJfPC7Mm_SPiV3OMdS6nhEnGxFvD8yrYmwhdxxKh_2VNyQ5aTza1x_pCH-YfZZrP34urfc_ZVoh4_ZyA7Gk7ohWiTJUilLjeySzmwiZ9JE86ERxokjoZG-6NBC-nJZa51yErcRg8Jvl4f5RgGIg4KDMU62r2bSS6QccAy9w..%26ch%3DAQEAEAABABS8CTE9GniCCsYg1zgcHPNcMAxjtAe3TIo.%26v%3D3%26pg%3DIGG4NYE7SVC75OJFT2FQRWG6RY
+.netflix.com	TRUE	/	FALSE	1809705198	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+22%3A53%3A18+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17900331-ae95-4f6a-8154-16252beeb9d2&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809705195	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRC0ut2dNBVeesJO1KRBVlxxRg2v52B9Gk.%26dt%3D1778169194207

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lapiece
+– Email: jules.prignac@gmail.com
+– Country: FR
+– Plan: Tiêu chuẩn
+– Member Since: tháng 10 năm 2023
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1550
+– Phone: +33684808815
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lapiece
+– User GUID: 5QNYVBGQ65EBVO3S3OOXXMQQBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798427718	nfvdid	BQFmAAEBENRy_7Hb0Gha3PMGQEbnF7BgojyCATR61WxfwyRWnau_wrE1QEdWlNV-kVffCUCdLnasWvMhbDlwwhpEIU2_pcP1wX9s7eijQfzOR2K_-vvmzpuplcsV7WKtQQ5Uztskp8VwXWj9RlxfijCOae-hko0Q
+.netflix.com	TRUE	/	TRUE	1809223458	NetflixId	ct%3DBgjHlOvcAxKDBGUlCmKv8PFfV5KjpDy1i1Y2x6RJgoWN_vayWrqE5fPZoV29fCuGniqjPt0lceX0M4w9eOeE6k9pDWtoQdWRPn_FXoDMXmN-oN569EDImASH51CCqdHtl7MD--M8-4ufFcvNYm2WnR1304W9UXwgGfUikRTBBax0ti-ybET-7iWyJIcFzysYZhpvz3c4AFmrHDzL-meGsEH4rkeIOnSs8mN0nyC5ILwFTn4oQCT0fQsERyieCDvZy4Np74CRZoQpcte9lx5PdLvYP-Qm9nxIOVUyfq9z8hK2W5SJQoDV9bv97SN4NfHSiP0noTnER84UFZoZNyoVvHJ_-Rqh_YUyVvlE8qWzJ5voSQA-MVk8WrtfdJdXnFnp2tTU6ovc_glvn-jUw0uFu_nuNLRfrqWgGt4M119Z6S1EZWei_wNqb2PAfdPP36dGdlGWZ83PqjCbDXAhZMb0RPdHaaMVifl74T8CTDZikWgoYQj7dGm7C6_V8Y2RCqyKtTfHqvZB0Ne0YC-IDYvCZ_c7e5zbQWfS9uKcbOWUTWTP1ToofZVYLUEqj5ceUZQeBi2xUjykpdPgkzaVp7pFbIZPoAO7zygR-f85UX_5hA6Q48Jz2zmDffeyG0DaYUPg1c2pQ4dvG9zWDbMkA39zVt4ejp8oQP-DukQ942EFdgIGZjeXwh77keMKi_6-GAYiDgoMthVR_REoT7_S4Rxi%26ch%3DAQEAEAABABSkf8i774XI6SFN5kNZjBgWFXiZDmPGsJ4.%26v%3D3%26pg%3D5QNYVBGQ65EBVO3S3OOXXMQQBY
+.netflix.com	TRUE	/	FALSE	1809223460	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+04%3A04%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6385bf8-d230-4927-96c4-e3c5eed5388b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809223458	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTE7NTS-FzuwnDwIQxKJfW-2yAp14a8FsE.%26dt%3D1777687457872

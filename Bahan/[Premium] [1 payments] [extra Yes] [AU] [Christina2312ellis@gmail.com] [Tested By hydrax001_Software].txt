@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zaki
+– Email: Christina2312ellis@gmail.com
+– Country: AU
+– Plan: Premium
+– Member Since: March 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 6389
+– Phone: +61422875840
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CHRISTINA
+– User GUID: QINS2TO6NVA6PBPSSQZAICHHN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793358745	nfvdid	BQFmAAEBEKqomsV-ydZdEtT1agNDmJhgLF5xD3hxtny38Lpl4PaYsSxAIR3o9FDoy6ZEN5aUZoA9IPu15N_Jptl73nARamambZFOp0fBfJE_uf8Y7S_yrkVFaMu0GllkFMP6gxbroVC7QQBOOjHRgOM3DBWVrFiu
+.netflix.com	TRUE	/	FALSE	1811027860	NetflixId	ct%3DBgjHlOvcAxKyA2Lcg0hg0oZ_pVZSHTtITyRqtBQcW2fDRqX5yekl_19pCGPDayeVDz6N_8XxxGuzqKzJX3go3IZ_wpxAJrRfLO0jpIZ8_2nxOQU8ZL2CNta2egv17ztZ5QRN73QPl8eURCl8vz2YRSewlVXMIf4bxgyBQb1E3Jv6tV4CdV7YkW1aDTxwSLvAgzC20Qd-nhQ9cgzu7yhSrkYaT3Ku4Mx9mFsLe_HTbYCpRIGkF0VnsoX3TN7r3yrHgRZlRjWCsv5csUfwr-uJ_sxvqBlNr57IqvgIrQLQcAqQ4Twr8J7gHhLxdbJxd4Lyf_iZ9WB1N8oxDtUaI69iG3l_sNqja44DTYI36mTS9Cwfxk3jtMCNhNU9SLQ2zHnakLplKov_Am9DP18jITtLCUrH3eD-vm9jXLMxUwClSiR7OxeQ6Xbwb_lfYyb142AFd2SoJuKJd16ZPV8i1RsJ5MgrwhLHeBAHkewZftN0omNYZqwAdnMT7mb8SggMCI--j6i3Tj9zs_z6WqpQhYEh3BZu5D8gFAaOlLKqosICJy0WMS4oiAA85SPXcX8iW2Kf551T06ykBYA_8xKAGAYiDgoMfwr6f7L5vfDccKi3%26ch%3DAQEAEAABABR5lTiROKOiDcm_zj_Ha3PLRlxr0PSZXFM.%26v%3D3%26pg%3DQINS2TO6NVA6PBPSSQZAICHHN4
+.netflix.com	TRUE	/	FALSE	1811027863	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+07%3A17%3A43+GMT%2B0800+(Singapore+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7d8ee295-e23f-443d-8a8f-dcbef4c71ce2&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1811027860	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfIuOnm2vEaPXrbKxv4ZBjoP9nnaJQLX8.%26dt%3D1779491864787

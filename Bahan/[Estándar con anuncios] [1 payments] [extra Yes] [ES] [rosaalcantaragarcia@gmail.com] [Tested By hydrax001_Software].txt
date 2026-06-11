@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Loren
+– Email: rosaalcantaragarcia@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2021
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 9648
+– Phone: +34611455431
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rosa
+– User GUID: ROEMX4URM5FKDD7IK2IT3YIZFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1777885989	nfvdid	BQFmAAEBEHB6JXVy_grhO8eVg5USBaxgWYxrgx2VZBuhJGflgXHUx4IQ11gCVEHR7nK-v3oByd4KYl9aPXowU7JTx5ZH3gANWNNvlhLlQexpcdHWfvk5FAo4HEfCET9ajdw525hIHpaRqEQlXQpKc2tc3-9kAl2W
+.netflix.com	TRUE	/	TRUE	1805629166	NetflixId	ct%3DBgjHlOvcAxKDBOCtohrusrWDzreWyn9Du094-wrzhmbkrDIVDgKa3mPgM6pyuU8mizNp8AtmrhRcJlNk-g0Fkcyd0Pn0J6o333YyjZSpNlM6Nfqn7MNyTqmZHOxT9DgXtnV7TZDOLBkdlk2_73wTj6wKsIKriwuHwG7AP46VTDtVvG0t7DWnxhLHqcodZVt2UKqLHhoGu9u9xm_6aakWnP3BEech5x4qQ5a1oEd-eQLHkypoTAeLJBeFlB7tXlIvqHV5OV1-xrq3oNX0BUDACrmlFNGkefusGT99TgTZ0B3k2bcPfajiZwl_oj6OKplKjp0jrTJmLwISXDFVv1LdTdrgJXk0l5hgrCvGe2EeQLmRApLsoHDRnVyTXUGM0CPBPVBbKkXlAJlq9Ax2QCcMATts_tJ8FY1HFTrWUC0JUACxFPGrAKKFktx2fAlYfYtzckW_rkqsQ7_aPETWLol9kgS5OKeY8puZ12pVD4wOC9zy5ujUBAUH77GPuGcEBGtzTA65MUAdSjvo5LE9v_l1vd-XQGuC9ABgfMNEAmXtx9B2B-uQkGyYRa5ZImSlhd_8C-EK-rWWI1uRnCkvG4aqaeStBA-iOtaEQHJ8UXlEoxZB3NWZ6nI7WdmuVbGSxzRayv3dXvM9maJEQg95NiB2joATNKsubRRB2Ur8BRiOLMkwRlE50NfbKH2002ivGAYiDgoM5L-OVXuXwr631sv_%26ch%3DAQEAEAABABSsC1jdZ84TkJI8BMRBoSApNasxm9i3TWQ.%26v%3D3%26pg%3DROEMX4URM5FKDD7IK2IT3YIZFI
+.netflix.com	TRUE	/	FALSE	1805629166	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+12%3A39%3A26+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=f7f4e4dc-b5f1-43c3-aa6c-51270bd147cd&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&geolocation=ES%3BAN&isAnonUser=1&intType=2
+.netflix.com	TRUE	/	TRUE	1805629166	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT93bCviQVSnBRZ1fT8TGkkZ4-jJI6-9lk.%26dt%3D1774093161595

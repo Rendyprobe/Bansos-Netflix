@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maelys
+– Email: maesha93@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: janvier 2024
+– Next Billing: 2026-06-10
+– Payment: FREE_ILIAD
+– Card: N/A
+– Phone: +33662124851
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maesha
+– User GUID: KMIVIGCNEBCCZFEA3WY4XFDU2Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786825004	nfvdid	BQFmAAEBEFAPW7AqvEaR6nzpvQwrZw5g2k-kAWLE9PWrbJSz_MbZ2p3h64KRJId44SzJ7O4-e04aRjRfgqR11QOi3TQwAhez0LiEBDyLf-ar6IcjQ-THwRA--BtRMlHDMNgaS8hSIKYJYzM0czDDbQKnLnrLFyVK
+.netflix.com	TRUE	/	TRUE	1809399695	NetflixId	ct%3DBgjHlOvcAxKGBIHxfKfUDNQTssSz6vDyKEuoRK4oME7lfzlVTEQDCq7FdgTqdTNU1QhuSWx7noB-Ej1zs936jjkWn5aJ7CBl3Bw4tIpdFwkQW8AOF4MlPvEh6f186-ao8TvB-UyazkpdXmVCZLHhYLDxdh7DxfS3yrkWh7YuCvZShMYdAA2eDvbQVfetmdAw3jbtBswv5O9gzSdsMbkxHURi8lIno-Hk8aHtl1OCXVWg4PTM6r7KMDRJdGQcbJjLkljyxv4GSlRwcZcInGrvaia_7_xM8_Qc2KadXtGW9FvPHByN9b8zHmD58lx7bPD6OybE5MLvoooQ8etaiNnIXOg62515d8kgb8HYPRWXRGFdEfR4LN7OxFkyad9QdTR0M7Qra5DpFqHjUfpRFINU2pkAohi-j20oOHqmNm_Tp8Tk4wknT5_hn-Tx9KpBM-D-MltORAL0KtzDK1tm_6lFFKswqCzXaUHerChHvCwBktKRRNvDIgPphoR6BtsvU3ev-o2SftY-LfYG7qzMM6a69ro1kUiuqWGUA1wpyAJbllOsAUP4k4D78Zx0c2lp19JhJdvmPEyWTO_ysUN_YqmHSd6vhul250t8kKRQTowmvxdW8yZzaYAkBFEOHHovOssznf-1u0EiN6Wk6SIsenLjgyqLLT_5T2W63QE1OhHPI9XlMNCJzvLLtYqXs-ZbU7aFGAYiDgoMefliln0zH6c0633d%26ch%3DAQEAEAABABTu9mWB590vLgdEwWiPJca6kMeyduQ4hk0.%26v%3D3%26pg%3DKMIVIGCNEBCCZFEA3WY4XFDU2Q
+.netflix.com	TRUE	/	TRUE	1809399695	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcgcOIYV5THL7_AiBhuYVAiv4kKmCryiM.%26dt%3D1777863695066
+.netflix.com	TRUE	/	FALSE	1809435561	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+14%3A59%3A21+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3e300b3-e643-4f63-b3f2-a08ab1c980f9&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BCVL&prevHadToken=0&isDntEnabled=0

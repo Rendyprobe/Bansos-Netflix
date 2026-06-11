@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: virtual
+– Email: alejandraemelendi@gmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: septiembre de 2018
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 6006
+– Phone: +541155622156
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vero
+– User GUID: GMOEJPGJLVFQXKFDSXKFBTLM6U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786670010	nfvdid	BQFmAAEBEJ7QT7OyIc135ykB_svmTYpgQNw2eYp7Cf10V0KiaDxOQijgthtV3rwpqq55G8OdrblFDQOeWa_AbOgm1M4366CZ8TukR3GxiE0pWZnrBS90xjrkslWWbDCRuXFq12jwQ1DQb-2L2tfc4H6RQqMTjHJ9
+.netflix.com	TRUE	/	TRUE	1795628410	NetflixId	ct%3DBgjHlOvcAxLoAyllR08Z7QMAqHMTzW_SO2EhQJ53CYwUcHSQ4hC6KD41HchnTJAoNvhkx3iCGKTBGxN6wPSnq39Yil3Bi687bnV0rswvA0b6pUD7R-6-jwz4F1N1EgDl54s9Q-6_pQWQ2eXdW5L33m5xb4RdjP-QUJ6RnBrUWNdLcczRYesyC-EKYzWOnUfYvj4n_WHYu-uu1sop7fQoXNSq8VfAMaF82A0RqKmPY5JnDx8OPVqwr6L2zR6JNBechoNnBHR_q_sePIDXJdB_KL2up8l50CzyklKeFFo_-GfS-TpD-VZTukyD5YXBJQesN5EPi0EzKJiHJNRKpYVqL8m0Nex1iaWSjiu71k4obhJgPw_OZ2gNrAcLD5lL-T13auwkiJPwyLP55m8REg938mSp3dOzUYFHc3oFixEikAgM8_f-C272SEn-g30DsfVdcRxWZOpAZ0GlVeBcjJ-HX1jvCPqpQA8y7OKxo1eMbt_q90MFrl5sOaPlYiYh7oLYL1QsxcI85RXvBbxYmKprdK-LAY18FOergpNuGXiZu3oA4eon64WL7GnjU_csKjnfip0GQT8K24UO7gmomAxzN8h2yvC4jnwn-r8hNRa2j-oqFP10hsLjWIrYAPekPIlsVDPTGnZTopFBraIp4bEJ9qtAGAYiDgoM_mva1i7nAgpk3Nl0%26ch%3DAQEAEAABABRwucDgb2wYDS6kJmEyELnhcjQS1MtqHm8.%26v%3D3%26pg%3DGMOEJPGJLVFQXKFDSXKFBTLM6U
+.netflix.com	TRUE	/	FALSE	1795628413	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+25+2025+14%3A40%3A13+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b428d594-61d1-4eef-9b15-fe8088fd4a9f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795628410	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1LPEGN_5wEoXyhG_j6BU3nwJMeLnD95U.%26dt%3D1764092402375

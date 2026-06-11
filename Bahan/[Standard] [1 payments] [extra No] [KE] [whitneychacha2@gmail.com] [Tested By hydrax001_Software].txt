@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: whitneychacha2
+– Email: whitneychacha2@gmail.com
+– Country: KE
+– Plan: Standard
+– Member Since: October 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6220
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: KES 700
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: whitneychacha2
+– User GUID: HRHPBQEGM5HOLBBGM3XYHJ7FBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804270515	nfvdid	BQFmAAEBEEyZd6OECXb3oCkQpJNQMwRgyDte18m2zUZBPLC_HwImzsDb4UxZHDSYhViniuApI1ZK_tg57b_U7o7vs7DKLITxsX4mzKvCMgVsr-2cBf0J6FOGaqh7nedy9QqAjCSoI1UWafFj1d8DTNM8JSIWFALS
+.netflix.com	TRUE	/	TRUE	1806344535	NetflixId	ct%3DBgjHlOvcAxKMBFdY5I1XzdvYiwdqgqBS6DRcJ-MZpY4mOEkuFFtrwFCDhXkEaBpKLtvQgGLkyVPOBIcvG5O1UpidUQwr1yj2eI5yKzDuz1TpKjyi5KiLkronvvv_FXFiECVsbttG3DH14SyxNiwGW-lc0zQMSqPpgRwKcH9IFgmXn2TCoe9lr5rT0wRVJdOIWXXlaxElkdrtFmtZDEtp2kwL2B9kGihXb-uk8AihuXbLD3FlmH49fikesjZ1Cd2aTX41GL8oJeutIlalA2fMwC_fXzxbLFPn4vg7ESQdDytv_XnnTq5E8k-vQmJui-rBhODtq7pTm4nC6cSgMDSnggo3L2IcTmtheM2kHPzm6Nu-B1Kj3tHspI0fn9zAd1sQ6C2ksj0vh5o7RwtCdxUKZs8kK_FGr9ijwFB8p8xXHS06QNLSrqg79f4gc1qccpYUPuSmAACf9jcSoFgIUr5DYAQmXBzb0BKro08JuWkjF0QkDBJXI_GZQ_zJ5QVdGVJMStket_EdhSfVPMVaueJfYu-XHxWWA2WWvftm4II-1Vn4IP16sOMpRBXF7yf7PM9YYh-K805QQ4ZT5_XhJcCTzkZHAltFRxW3FOYTpHQkvB_usfpx_5eNwimCIFxp-Mp6o7QcdgfoFmUQ6i-e3-r4HkzCBGA5rgsPm-RRegmkiaR2hJtWEQZwp5MJ08iLSBwbU6u-pGeZGAYiDgoMqFJ0LlSa6oKkYyHY%26ch%3DAQEAEAABABRmo-oEzrJCZFJ22M5RHeHg6JUeTQ4jX_I.%26v%3D3%26pg%3DHRHPBQEGM5HOLBBGM3XYHJ7FBY
+.netflix.com	TRUE	/	FALSE	1806344533	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+22%3A22%3A13+GMT%2B0400+(Gulf+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=efc5a486-cb17-4780-8338-d735751f7a32&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772734515527&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806344535	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOJK3HSidg094lL7QS9FA191djPach4Fg.%26dt%3D1774808533109

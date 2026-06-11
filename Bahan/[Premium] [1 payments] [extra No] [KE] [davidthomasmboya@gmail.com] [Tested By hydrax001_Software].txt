@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maryanne
+– Email: davidthomasmboya@gmail.com
+– Country: KE
+– Plan: Premium
+– Member Since: December 2023
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 1170
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: KES 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: David
+– User GUID: QIFELS7CCJFURAV2RFV4VU4IK4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795517676	nfvdid	BQFmAAEBEFaYpBdrjW6CXwUH0EpY5M9g-VD9XP8DLZhhQXo8wQGdlH1AHgOVnKP6w9wQ_EcRebcdpDDQluEBJkxh5-yQZmhJ3XHrwDlRecNbItsFQHV2ICcV-ZQPqupVVBFnuCGSUZl31SuNV8o4SeIDobjYQGAF
+.netflix.com	TRUE	/	FALSE	1795517771	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+24+2025+02%3A56%3A11+GMT-0800+(Pacific+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=557f7bfa-7b52-4372-a733-b73304803a62&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795760844	NetflixId	ct%3DBgjHlOvcAxKXA40f9OMsngr7onhzH5bZva08qcKL0ZjLzyqpzMgBelzkoqX8AWPRUALCQUo7PxSu_sopRiTGIJv62EpNJm53Bd6EG-ct-7ZE6FUms1pTJLGHdEBfNFpe6LWwxBuPVjoOwg3wPWJinmimag_bdcCMVjEkW1ISHlr_emO9zwfGtomj88Qw8Iulk5bUBuubvNpVSoaAFZ964uq4-EDdyfYIlS43j5XeUNE6S_vhuarnMlD44hs9s9d4H5In1wXsUWo9_EAYL2N5MAgwyqdGotx-mI6yE4SxUZcros3brlrmnGEEAkca0eXDjhie_4YX7LpckSMPn1BRtHEHjx4pAULxFAigs05nGdMhn69lp0dLfuhsNqUA-JnSJZ69g1jhRFZa8zUVyEFf9vomAqwMAqjcQYy7b8oFnepwUK4daV0cMD23t1PS3VYIPBnIQUHtL8tuHESmFIHJ2rcg0o6NXUpsfh7vBoIV-nnz-aO_MaxDDhaINvs3GwtGbLa5xzIHiWe7p36d2MRwFFG_bjzBLLbpYeh79DXbyXtCGAYiDgoM-efKlVjSKXC3iP-v%26ch%3DAQEAEAABABQnVWTo-IKYpnA_-ttssd3nMTt6ShO2K3o.%26v%3D3%26pg%3DQIFELS7CCJFURAV2RFV4VU4IK4

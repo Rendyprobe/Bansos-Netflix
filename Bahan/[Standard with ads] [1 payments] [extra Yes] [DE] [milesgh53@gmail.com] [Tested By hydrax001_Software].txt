@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MIlesgv
+– Email: milesgh53@gmail.com
+– Country: DE
+– Plan: Standard with ads
+– Member Since: July 2024
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 3137
+– Phone: +491638127984
+– Quality: HD
+– Streams: 2
+– Price: €4.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MIlesgv
+– User GUID: 4R4TAN2MTNHVLAVKNE7FHQI3PU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1749621117	nfvdid	BQFmAAEBEDrhl7nrbaOGk2iGaFOlL79glwbsrzyvfQwG133V_KFvIZxdZPjLHAREo5T9h7YZ3KpY6cc-R5WC2E4qj709ZWm0SC23_jr6OCwo5OQoVCADUFiunQYoc-hxZE9Gsn8e9AGUcDG4OcXAuAMbO27tG0cZ
+.netflix.com	TRUE	/	TRUE	1749621117	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQy8137dQDDS2tnzrpKZogKg59rskSzC1k.%26dt%3D1718085118192
+.netflix.com	TRUE	/	TRUE	1749621117	NetflixId	v%3D2%26ct%3DBQAOAAEBENRCOyI29ykFK9ebS1UaUuGB0Lz3qSv9YRIA2Bdj4DFuUIBLWGu6LblJogkxwErBOZ1RSu_STPVz8OuIcaBYhsjuUa83ZXutu4uCSSiudhWWlksDBe2a5OZj00-UoYXBxZ8igKs0cbuFyFlmh155fynd3Sn7M3ceroRxTWMu1OY7nqJ0CUerUelMOeZGNHgz4AR9NYhTmVbeuZ1VVQDrHXDynP2j5ONbUU33A1YYJk5dWjl_U50r0vgTs-okHunfL1u_gYPR6-4uoKjyfZxTDFcNkHoBSo1I3l8fJF12wyw4HW60oyA-bJPGMRIh2q2FjZhsRz1nMzzj2OjJsx_tlnxoRlburh9q9SVFqL6Bj0xt_EM-JVQKy-kQxfDl-VEeomKdOue2Givvq8HfF9dSDtB0rQRBUhdtEcqCeIQVEPbIlkeTHYcMDZqS_rkuwss00fusRZE45DA6ftdbzdH_2UhOisy5gXNkaURrH2C1sBNmj0NbBP-s3_JgDCFac38l8uYyccNbbMZ6zo5coDf6_FzU_LACMv_s8m3QhiODbLFUu_Y6U2XqhmelrhIQlx_Zy9HXv9z5tiEGWmr_NYwVw4htU9KgdbZvJOUTw8JdNrHwVOPEn96xLQUIEnohzIQi_9Yo%26bt%3Ddbl%26ch%3DAQEAEAABABRpCAx7TqqJ7gpI8WOQHtJC9ICHLtzaxj8.%26mac%3DAQEAEAABABSn07nzO2rTUu9tZVFQc7pbNkVNhi1reEw.
+.netflix.com	TRUE	/	FALSE	1749621118	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+11+2024+06%3A51%3A58+GMT%2B0100+(British+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08273313-4677-415f-b39e-a939785c2660&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

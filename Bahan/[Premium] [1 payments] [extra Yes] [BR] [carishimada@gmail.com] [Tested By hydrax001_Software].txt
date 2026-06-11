@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: carishimada@gmail.com
 – Country: BR
 – Plan: Premium
-– Member Since: dezembro de 2021
+– Member Since: Desember 2021
 – Next Billing: 2026-06-10
 – Payment: DC
 – Card: 5303
 – Phone: +5511991705380
 – Quality: UHD
 – Streams: 4
-– Price: R$ 59,90
+– Price: BRL 59,90
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -24,7 +24,4 @@ VERSION: V2.0.1
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 
-.netflix.com	TRUE	/	FALSE	1781294315	nfvdid	BQFmAAEBEMdGfo03nYD6HIz9lcLp6NZg9PmXn6ryB-tKZWorMWbPEaiyzGsCJpOVb5XRvXIj1pjl-kMjALcPWe-bYBRNxAP3RBLSGPCoHHfIlhU0pNdAjBtRemFCrK4PW8ge5lyBJjxbwG3QblbJJAixGs9Xj2J8
-.netflix.com	TRUE	/	TRUE	1790296314	NetflixId	ct%3DBgjHlOvcAxLpA1YcdXGpruv_KWDZX1wOQfoEcBQlXXbEKEETuYrgzHjcIyVbxlDIAYTsMJKNSXVb5rU1sG_-VSHgOPuFe7LXuKpRHe5gh7_PcuitD4eDwRquOFu0AlDhTDyzDvipzIPhLK533vwBy8Ilkedgh5m5LuxMKy7mAlhkMi3ynXAN4-qIWv-I9zzwJv5AsQq1Gg-0Gvu9GslU0fuiZn2FZuFh4rNxkigRkzB9DeKIilDjXkECWHA-1tJedM4i-w7hK6yNsJmXntCUAZgsQWs9PYSqz6d22oq011qecIoffebUVi7vZOgnJ6M_if0maD3ln3Es0KEB2X-2ODiJAIgvBA9MtHpfXeO2bDbQiix0Cy7Y4fE1cOWdfqauFgoi7_XT4Ij3KuOSiILLqvpkLEXAOeF-IuvAFfoX8gqP0EBz0PhEVea7-ZgNLzkzNUvV5oJaebgFq-C4m3swXu_gmns7eUFy_AhRO2PGfS9KbxfYh4esj2s63PSvnQQ0_74OD0zsJ9EvBNSxiuEXvBkrQqDDI_h4XfiPyWSBMOHMKxQ8vPK9Dg7lyzbrwFodYgxKboYTdIoyDjxqzfn4WaWIG-3qupWE3TfOpROxuEl2LdsUAc9qILBHzBaI3vOTUBsjQy6sDXQELBD_Y0JhGNCVKBgGIg4KDJ8RkCtKV8iQ1fJVRg..%26ch%3DAQEAEAABABQPe-Gmzf5CNyTZ0yB9fhrOAvIqhKAuEFM.%26v%3D3%26pg%3D4Z77UC4KX5D3NANG6S2FMC7PYQ
-.netflix.com	TRUE	/	FALSE	1790296316	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+24+2025+21%3A31%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fdc16ab-0dff-47b9-a2a1-a6e8747d1f98&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
-.netflix.com	TRUE	/	TRUE	1790296314	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdCdAGJkO9GhdeN6IsOyA-Wty-ZWdt4sg.%26dt%3D1758760316435
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLpA1YcdXGpruv_KWDZX1wOQfoEcBQlXXbEKEETuYrgzHjcIyVbxlDIAYTsMJKNSXVb5rU1sG_-VSHgOPuFe7LXuKpRHe5gh7_PcuitD4eDwRquOFu0AlDhTDyzDvipzIPhLK533vwBy8Ilkedgh5m5LuxMKy7mAlhkMi3ynXAN4-qIWv-I9zzwJv5AsQq1Gg-0Gvu9GslU0fuiZn2FZuFh4rNxkigRkzB9DeKIilDjXkECWHA-1tJedM4i-w7hK6yNsJmXntCUAZgsQWs9PYSqz6d22oq011qecIoffebUVi7vZOgnJ6M_if0maD3ln3Es0KEB2X-2ODiJAIgvBA9MtHpfXeO2bDbQiix0Cy7Y4fE1cOWdfqauFgoi7_XT4Ij3KuOSiILLqvpkLEXAOeF-IuvAFfoX8gqP0EBz0PhEVea7-ZgNLzkzNUvV5oJaebgFq-C4m3swXu_gmns7eUFy_AhRO2PGfS9KbxfYh4esj2s63PSvnQQ0_74OD0zsJ9EvBNSxiuEXvBkrQqDDI_h4XfiPyWSBMOHMKxQ8vPK9Dg7lyzbrwFodYgxKboYTdIoyDjxqzfn4WaWIG-3qupWE3TfOpROxuEl2LdsUAc9qILBHzBaI3vOTUBsjQy6sDXQELBD_Y0JhGNCVKBgGIg4KDJ8RkCtKV8iQ1fJVRg..%26ch%3DAQEAEAABABQPe-Gmzf5CNyTZ0yB9fhrOAvIqhKAuEFM.%26v%3D3%26pg%3D4Z77UC4KX5D3NANG6S2FMC7PYQ

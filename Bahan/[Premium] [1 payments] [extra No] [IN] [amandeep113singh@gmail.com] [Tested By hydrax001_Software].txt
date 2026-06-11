@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sukhi
+– Email: amandeep113singh@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-26
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nitish
+– User GUID: 75CUVHHA6NDV5CKP54ML2BIHJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806701364	nfvdid	BQFmAAEBEFCXdV7ayMvGCM4OQ_RrRS1gsXmLjuS77iH1VhghD8Lg3_GJ7dyZiemc4cWKOezeT90855PYv4hJD5qFHPHoXFOwqRlMSn20lspZCtf_Xqq_OzGT2RBpJNwO6QPiGg9qiGUuivkdO64Z58CktsXAfaeK
+.netflix.com	TRUE	/	TRUE	1808553925	NetflixId	ct%3DBgjHlOvcAxKDBMGHAXMN_U2rSVB_cJyCqoPoqseXzAnqNDTDEyD4OalrhEGEE7GoNVVT9FtM2Jx--uIYVxyqwOOMDyfFmSY-joRHir2r3KePvtt_tMEZjDJCAdF3fRHs3MzdA41bGMZ4MFFCl2t_r24KH_66ZTuKV5C4ESxGQDsFbcfZAr6ObR2QPMvpb6b-l1E4aGDjZXYJ7_9L-UAakoMnq0zNqpxZJJ7_xUU7qEYeN1fxlxp6lNJNVRP0wR67qdG5R4_JAskKmZhj-QRFtwrgTBhqNPrdcNGKZmT0bGiq41TGkx-kpX0-sgoDnxAN26chltjGAueVYW3g2xeR_VzrAyN3wvftg7VqEnpZb4VrFglGAQ-NDmPzmO8sRbKlig0AoHg_tQTsJe3_nNJK7eqRfUwzltfCSBKqdEBVs7HYFdZfShscQaIRHLMuSkH3sdKAUJMytb_rLxKBkrv0txhqhP0sGV1RLOWRSU41GrRWWymS11uViDnBeqS4Oe_HUgXjWbLFyyB1iZej62icVKmfb1eqplNG8BdTCROf69lgff1ihgNtJL8tGQcWQ3r5j3cS8g2TP-bI0FzItvmWVowNrLRfpt7SMMxGfTLneia9Wfe9e2ylc97OI64aTjn2hoTvJW3gU72n2OiOotNrI9oQsgSMRwuPsPn6ptg9OR_umg-JBy3g5HsjZhHVGAYiDgoM5wbi_3YjtMm6M7q1%26ch%3DAQEAEAABABTSMcz-nLMeouwPwylWRqfHsgz3Dvt32f0.%26v%3D3%26pg%3D75CUVHHA6NDV5CKP54ML2BIHJA
+.netflix.com	TRUE	/	FALSE	1808553927	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+13%3A35%3A27+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ebba8bef-df67-490b-bc1c-f6d56fc6582d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775164199278&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808553925	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5fIS_-gzbAWgmdnixRaISw9_r4z6-EX0.%26dt%3D1777017951503

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Natalia Ortiz
+– Email: natalylly@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 5594
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Natalia Reyes
+– User GUID: QF762NT3BVHOHCRCMIRAUX62OM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801429493	nfvdid	BQFmAAEBEBQ-JAfAyzuPyehsv3NcMJNg2n0QFSwKBJlxpkTHOlyy9-_vGKhXXfE0gYRsGZArbsz8UdQzIhfbBRT36iYXFJDWfYE_kQJare9szuEVnrnok-AMX77DupSD66nc8jfy2S69aWcdw3zm8DBEEMEdWkq0
+.netflix.com	TRUE	/	TRUE	1808494050	NetflixId	ct%3DBgjHlOvcAxK7A1o_l7MAasqUNKCcZO3JtcXGuKciBoGHIp4OYM82KRSj3c3YyU7UuVnk2yXio2VjGN7LTo9Tg9KtspNykWF8tw_bkqs5tKQanWvfklb3ZvQ-ezh4xHcyqZHez1sXg9jLZp4y24ehnq79eNZK429_uyKhjBiEn-YyenpWGud2IUQfVyTgz2OQs1MKEdCArUkz_D4PPEv3dWLtSk4t9i_QhoDdpNDIb3whMy0G7X1tO8MGMNyWcLB6lcW_YcYGUNqMEGTsRFcvckTQ9R8FSXAS3r-yOi3YnAP0wsSrjk0CrWoMDicQP_Q3T4FTVDBvm1nIJrvyshPw7aaOj1Y9iubfBPtdmgmXLIQBlgOyHTpLISbgwu9woouZTB0K-a24AmgMsi1yueMfmF8GgrdOZtLvtMR9x4SZWd6ATA0dMX9ECfU9KgWZQE6Oxmh8tuVFZGqDVUgXI26KkJSi8mJmGM6XbOUafuyHF42UQ0Ksh1g6pep5DCxq7ouUP-Wow9KEldeUE1PLNHgX-oSy2avQBOvQNHknSzHm9d2lh4_VN_LrWr5d6ASDjntChmibCCMf5bJN5MUrujBWUutBtm7RGAYiDgoMlSKRcguzIcfs2c3L%26ch%3DAQEAEAABABSTb1QYAUOJMpEEGVK1cKARtRvx7BWMGSY.%26v%3D3%26pg%3DQF762NT3BVHOHCRCMIRAUX62OM
+.netflix.com	TRUE	/	TRUE	1808494050	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSD7DfUG7MV-HhxdFx93z_AwmpwE9qiJhs.%26dt%3D1776958049847
+.netflix.com	TRUE	/	FALSE	1808529783	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+03%3A23%3A03+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6b0c5930-1321-401c-8fba-1d052aee0e69&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1769892921990&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN&prevHadToken=0

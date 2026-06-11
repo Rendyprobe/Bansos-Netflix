@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: SG
 – Plan: Premium
 – Member Since: May 2018
-– Next Billing: 2026-06-08
+– Next Billing: 2026-07-08
 – Payment: CC
 – Card: 1341
 – Phone: +6588209744

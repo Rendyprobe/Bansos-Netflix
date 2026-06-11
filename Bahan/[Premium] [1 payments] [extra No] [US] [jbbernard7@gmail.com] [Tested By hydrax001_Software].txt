@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Woah! I'm a child!
+– Email: jbbernard7@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: August 2021
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 1014
+– Phone: +18018566034
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: James
+– User GUID: QYUKP5ZMPNEBVNJZNGHEKOEYXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811530381	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+08+2024+12%3A40%3A20+GMT-0600+(Mountain+Daylight+Time)&version=202407.2.0&isIABGlobal=false&hosts=&consentId=e12baa81-fe01-41be-847f-43939d840fd9&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3&geolocation=NL%3BZH
+.netflix.com	TRUE	/	TRUE	1811530381	NetflixId	ct%3DBgjHlOvcAxKcA02bQWaM82ccLMldfRZcxMOVp8bExzL8cPTAjqomSsfMmF4d7KECTzNjoGpcbhjL2aPKYgoEb-CuNa9Mc4SSmj-iyRu-Z9nseIgjz7xy4h8YmTu8345PbiOgpvrG5P8z2cdbiwmMYrW8BW5ipHr2LKKEVA10BC5uA7XyF8epyeQy74IC7LYv853-XV4VGhyXNYD9OPET1guC3pNK1HTPrjh9YtnS5d35tLDIKpCu62sH3sasaHNPnMVHBOIIt-igBJ6Eu59gyCC9euw8X9qQqoFyNOXdI4lFskIuc2krTsPwh6cvsOjPL1jlqI-qPD1xjpGPitniokL-uKfycId8dFLbXdaM6JtOUKxbPqEfozLnLW_u8wu5xyzr3je2MTa4iggoi1n5DuwjybOIVVsAUi_1OvdJCMOO2-DAsMsyldDFqCaNP8EQdvNK6aN5lwSQPv69bSMwy7sr6aTiwEKHqcBstgGcdMs4Q71lXcSgW12N7rGMidHenGkCCEKS56gsJpOk1BA1i4RHwDoz1SpG4GswinhokzwUPdzN1wsYBiIOCgwRM9tpbHJRWsSo3JU.%26ch%3DAQEAEAABABS4_yZHsfhUQk4GbLfb5v4SpPySlNbhOvI.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1811530381	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQK2czti3mFVCsejy9qypyhnEDkccxlZOA.%26dt%3D1733270190620

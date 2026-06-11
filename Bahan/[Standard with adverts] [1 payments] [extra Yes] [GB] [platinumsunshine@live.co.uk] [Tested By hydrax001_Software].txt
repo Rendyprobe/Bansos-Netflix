@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Armani
+– Email: platinumsunshine@live.co.uk
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: September 2019
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 9139
+– Phone: +447497591196
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Naomi
+– User GUID: 7NHANXHFLZEP5L2D3TADV737SQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802823468	nfvdid	BQFmAAEBEBIDALDUhMlE0z2OMPtLMpJgJFikpUnFe3Tkv4h-iq-DutKBtRcVmuPOjEPmKlnmVLhYwHqFIb_xSKJtWJExye0stL4AJS45LP9fXxkL3-E1_1LO93lJSs3pNah8LEJxQM5CP2nhlsNgunRFI7gcUkUL
+.netflix.com	TRUE	/	TRUE	1803703221	NetflixId	ct%3DBgjHlOvcAxLLA4ECPfZAN2iVr_Y-2VdLKIDUw4UeFrcwq6yiIoelq49QBnnE-vrxs7Zo8pCyErfQo7DHhFspiHI5QV-ioXSTjy7824iM-L-Grb75GXSWn3URnwEafJeM6W1POGjFaJiERwJhW6M3gIfwDbU1-gjcFlxEvsZcml2v04svOQ6ErM63ORikN5u_0PT5TE3_ifhNNXix-DMWySoZhnfmy2oo5glbnRSd0TiUDZNxm9hGV_VGxm6ztcBJ3TUm3ZvFLwFdsm-Lc6wcTJNAhX_UP2AYbTZyIW2q_RbkGKzCPJJfugL4VBXSz0htanvy0HZHOB5HJVrEb9EALoDYiA8VCrOFUut13jg37-f0dD2GWx5DsnJGez21mUvI2wdIEOGR0xlaQNPFAVRVTT_3DeojayY7icRlf2GuJIiDbf4FCkv722xUTORxIGPnUov0Ug-WU-k7QneJexcMOZZy1O63qHsfm6J6IhsnUdvZWhEQog4QIm-09Y39pDNVcgul0n0vSKivK8xL2UGMTtAlTST7cLf-VIm-ISZh6YJSCtVHhhkMNX8L8dDYbgyQg-y1qVsH9c-tDqXlijlJpqeHNQhWR7yxqLKQb-T89iMjx98ZFhgGIg4KDHtLWwgvHS9okAPfvQ..%26ch%3DAQEAEAABABS7GjYK_diS_hdOox83wwrS8nbMjNHRRVA.%26v%3D3%26pg%3D7NHANXHFLZEP5L2D3TADV737SQ
+.netflix.com	TRUE	/	FALSE	1803742750	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+15%3A39%3A10+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=abf8f8db-0f50-4a49-b01f-0aa7c114af53&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771287343837&geolocation=GB%3BENG&AwaitingReconsent=false

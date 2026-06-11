@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rochelle
+– Email: cjhay.uber@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 5628
+– Phone: +639175551205
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rochelle
+– User GUID: E2UIVF3WYFGPTDQ2JWKQGIMJZU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056512	nfvdid	BQFmAAEBEKv_CPYQJB6FM1VMqPc74upgoVYPe_2QLqDput2IMDdjmTC_VwKypQPSmazMNFIai8AAfAWnO3pbpfvxEa19raH-4cYjfbpHwWj_vZKY8C5gIV6BBvXemxhtdi7IPv9laP1wAm0qAwEp2M89cCG1g7N4
+.netflix.com	TRUE	/	FALSE	1783056512	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+16+2026+20%3A52%3A16+GMT%2B0800+(Philippine+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd200103-5866-4c9a-a13a-1376377e7a56&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1783056512	NetflixId	ct%3DBgjHlOvcAxKPBM3uLqBXhbAy8YO6MjWgmZKjj27YUfzwK-ok99bTaYXXJENkjlw1TYXiyOCepol1qlLbBDy05pKSv9-dng-i3c5e95hhXZWBX84i6ywp8T-Z92QSGfgL82B8LI4iCY2UEq-WXIXMHP12Qr9APMePf8FA86R4F2VvyKKdiZvDCUckZmdFTwMXqhJN8NgzQ-cMTN7dwW_ApjJhkqyOX9vuZab2mlFHg0bV8t73MLdKsrXJqnZ_aLia2PsgFJtpZUiUwg-p3u58vcfNmdmnXYdni-wZ-Sj0TfTem-vEt2lWldJnZT6Z3y92955GVrEceiDBMrhaFPejilLaToFzCx4xAY-BdiflryxDZBqHOvXpEto3LvlweQdIC8wo5eHnZytkQUpBT6V65C4pttylH-azkA6HakmpLDGAqVHvrc8_I2e1O2aNuR2vWN-QzEE5phn0mOlX-LSZQN1mnYhsIbPMn4KJeDmmyEGkP7xE-lvqlulVddU8qfvsOSqNiVRLsBdiOaokFwsWGwXEMx3MTOfIgszWcsh12HhqCNKqByAl8R4kctOFgar-xXYX34u1yLigFkNmTjDXECQ9GLbH5aiDBtJc-SDDFOsEbUcxDWi_HZbnWDKTzVGsHxhMIWX3SVPJjnjfzbCrXC235mwdCzVLQ0IPumTMQaqrzhuwjHv6EaWNhcplPZ-p_Bkk2OhEQ5nrGAYiDgoMdd5ZHXNk4isVgl8y%26ch%3DAQEAEAABABQa1Ewax6nzQbPobFpzR7JhO2WNZDyxrDU.%26v%3D3%26pg%3DE2UIVF3WYFGPTDQ2JWKQGIMJZU
+.netflix.com	TRUE	/	TRUE	1783056512	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTHQgVWX_TzSMGbRYz5YS3f7IiBXjErMTg.%26dt%3D1778575550544

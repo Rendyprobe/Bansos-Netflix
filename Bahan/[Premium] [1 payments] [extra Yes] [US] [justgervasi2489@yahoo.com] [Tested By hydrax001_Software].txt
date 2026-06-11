@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Avian
+– Email: justgervasi2489@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2015
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 9395
+– Phone: +19734641504
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: John
+– User GUID: TFSG4I4G4FHXTCNQA6FYAHNIL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786161000	nfvdid	BQFmAAEBEHlBfNtrbyBSGnNSXzlWR8FgsPAPnfmIudYQV_nbf0CgB6kiiT13EM0uoh5PXs3If3hd4993w-j9s6Xip177C6TMYo3XVR3oPt8PCTzuXU1eCA4xR2EkoltcMFdHWo_t3Fug89fp9cTs8lPWXbbWQSCM
+.netflix.com	TRUE	/	FALSE	1802116162	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+14%3A49%3A22+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ec0e3e1-c0bb-4723-b2d7-3aadf87fbdaf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802401344	NetflixId	ct%3DBgjHlOvcAxLeA0A4jzNW5CqolSeYjicwfzE4uE_ticmAyZKf-Efcjv1jdeDZX9yXHdg2YyevDIbkmKNH5SnR5kMoi5es2dwHaUtjFH3AEHhZYebIQV-NXMgbKD-xfHWAyQr5gMOfkiGfIspcaZ29E4ioT8wTQ0SQKk_i4XmGuXvGaRJC2RiOlLz7mQSmoU0taeEQTK5DGJ-7ENa6XyOlkNSy3oP-BBA4yS84fnO1GYiMHxpkcDJPzV7YZvPxLB0oMEo_52oiEMr4lJI3zP5NYCNl2ZY6Lr9cNc00NwipCLqxbseSobuvXmP70o9D2hC5PP6-o1WzWWEC3cY_0s-IZrtSBO7YGQ7ymqfX2njjPzhl08XL6hDojV8MreLRnhFd8ZK997exL0eBnlY3s82s5Pdr4UGxlH1WKzRx812VgUOSdFrxcXNi00oQamDU83UiEhq51vCu2S9hhJXDGqbEaa8anWEdig8C5N1gD9vry_ppmwRn8XLvw2FH6r8KJ2vRe1nQCAejWtNWzLFHIlfktD_VvYHBjjTkZ7mMp8g6mG0TnTryEq8A3WlD7FKNXr7VVUulV3AoOpuIZBLWpbfFGdIjGdoTn5Od3QshbwNNu91rfah5odbAZm5BzQtH8S9jGuoNnULt-RgYBiIOCgxBtLDnFrXWPLRf0jI.%26ch%3DAQEAEAABABQrbYQjcCgkxDICyZBySwL3mVOZlWJtdkA.%26v%3D3%26pg%3DTFSG4I4G4FHXTCNQA6FYAHNIL4
+.netflix.com	TRUE	/	TRUE	1802401344	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZ0pPvyG_tGh2H8wO9-ducxGuQkPHmypI.%26dt%3D1770865344618

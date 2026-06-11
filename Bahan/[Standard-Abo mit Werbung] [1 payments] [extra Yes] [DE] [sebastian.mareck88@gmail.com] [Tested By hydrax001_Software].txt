@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sebastian
+– Email: sebastian.mareck88@gmail.com
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: November 2023
+– Next Billing: 2026-07-07
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sebastian
+– User GUID: PQGE24SGUBASPO4UGHGGBFKZJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056507	nfvdid	BQFmAAEBECmu2kWO9-nl0I1fHgYd5RNgj2AX_wwMWwUJhA9fgIXY_qEI8BbZlECSuNGSyjrgzObOeW7v16AmnszWWvFSvdLdRA-Dzs1ZCL-qVWonrl76ETPJ3EyfylOHZdcceGuDod3mJgaJr3O0ssW9-0OTc_PR
+.netflix.com	TRUE	/	TRUE	1798220108	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXxC2ZuZrChGCQRgjzWjWuT3F-hmsTVpU.%26dt%3D1766684108163
+.netflix.com	TRUE	/	TRUE	1798220108	NetflixId	ct%3DBgjHlOvcAxLsA31NGOWdr0c3qCuDQfR7tJYlFSZFodFHplp06A4dmlOHly2okEnmU4tOuWi-iSLIX6GpF7m5h_TsLPuw95wvAho37iZCFewizqSnU0BzdMutOa89cvQluKefEPqO7d9EVjgRW3kslmGBsCUpih7a-qY9JJOGwzaK7jtsquVVRNJFY2JgQFPbvqgQ_9oHPqh7vDtmozeZYSSXNhHTeoCTEP6qlQDrIJogP448N12Q8yjyvVOaMiWdVHuoDAjpLQ-LoY1h6Hbop7AYkT8w7HY8SQ25BUtxjVZmGkV7XRVBDDMw5sKUkTN_P5200gvgxsH793JaFooD5kNCLwfwKrIlQiAaLXQTcXT6Pr-4WetRcpv8FfCKg4hF0fYpIqW9RtfTTavMru0RTfq2r3ReN5-HgbWum-NtZPlAuMfnRZG-zkI7u3BHsvnoGXZcL7w81V9uu8IFHNdMJ8dCha4n1AAZZE-TVOK4QxrbwXIyDCYSMTmGrOuFofnXosUDeHBzL0xa_uKDgGUfPIKD9p-ZNVeAauyinBQ_cOkkrf-FE_wfSRqWk4IZs8-LOtsWRsAZt0c5qozNKQMir-C7nWobsmQAIN1Wjl874GH1bhCpxt8m9Qoj1lAau_qZ_AfyBb0RP-DzJ1H9UwVcKM_X9zFM1BgGIg4KDMRtDI-UaWSguEZS2g..%26ch%3DAQEAEAABABTW7hL4dZMBrf0M7MQ2ZsgTm4pa6Brlz9E.%26v%3D3%26pg%3DPQGE24SGUBASPO4UGHGGBFKZJU
+.netflix.com	TRUE	/	FALSE	1798220108	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+18%3A35%3A08+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b855b825-0be1-4537-b1b7-d77a3cc8f090&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=DE%3BBW

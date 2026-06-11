@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Swapnil Sen
+– Email: subratapresent@gmail.com
+– Country: IN
+– Plan: Estándar
+– Member Since: marzo de 2026
+– Next Billing: 2026-06-13
+– Payment: UPI
+– Card: N/A
+– Phone: +919811668814
+– Quality: HD
+– Streams: 2
+– Price: INR 499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: subratapresent
+– User GUID: CORWSDEOHNDLNE4S2L7EU3VK2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806157298	nfvdid	BQFmAAEBEKW0mL0_t1odZpZHTqjMoh5gebojXL3tR2xAepykrVkMKrh9I9iSjkXy33i1JSXCBJk8gM7TJqqAbVEaKAsWRDnwE28FF95QVFn6RfgbvGVDwIYYUP-Q2heHFuJlNftyCQ4qhwRTxlks9EZ4idcyQglP
+.netflix.com	TRUE	/	TRUE	1812120152	NetflixId	ct%3DBgjHlOvcAxK1A4wF3y_eQmKcCEBTKQ9lbCz9qe6DNlD1WY5R6Ie7_wDqNZ2rjS9k8TG82g-lJllYpIJthj98dBKO_bLx7q8pHm3kkhpwyx8Tk_jMZD9RdsFflLeT7X6NKPrTzU19X_Brlr71N_NTqP3V9HgmOnbnNEq1NHmTgr8jLbUAnhsWDpTKMGI0IcblxcjKhXmaA4pxCWtBPvXTSa-V54-d9b8398nfj_o19tJ_os7dNVuaki3oeSm9WPWQFRd6QsF2mDsxmNIU0gMCJeXyCX0eZFm9voCN05C9QJqcEwokZzdIoJJnCIc6f9PRlfTvO7M-GMwbhdEX0QPtQxBFKqG4ODDaIb8KmveQwwUEj9gvt0hW-9aZ5c82yBD9ZGQDmrr8WU1GLRLXu234ZC4-86KdhBs-O24hfbond5q9Ijk_yI01GMyhNUmpjJCDLQEUZ4ttC-ET92fpUuqUKBkQQkipVaK1ih9OQdaFQVDnjtyxVEvn-sK2PodEfRL3gvwvk_15OJkcV9geLwP81zifQjMwj4rRKp-cRGiWBZM3N8tuoxgHDlG29ELvuZv2SrwggUtsqWHtttDt5eWNGAYiDgoMQYuEA0a-JaePPGPJ%26ch%3DAQEAEAABABQ0MZ3ljGidLTgdg3NkqDW8ojWpvxsDf1g.%26v%3D3%26pg%3DCORWSDEOHNDLNE4S2L7EU3VK2U
+.netflix.com	TRUE	/	TRUE	1812120152	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-H-fNPbLzQvvqQHa_eoasEOAf1UBEhZQ.%26dt%3D1780584153152
+.netflix.com	TRUE	/	FALSE	1812120167	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+20%3A12%3A47+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ebcefd0-cac6-4d5d-aae3-8f174b10d3a9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

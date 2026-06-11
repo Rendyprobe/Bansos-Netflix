@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pumpum
+– Email: lalvenhimichhangte@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-06-19
+– Payment: UPI
+– Card: N/A
+– Phone: +919366365193
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pumpum
+– User GUID: YQZBKOXWCFFGFKTWNZR3AJBOCI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805392614	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA5b9GkNrY7awzhUbvxKobEDGcNJ98cHIEsV3vVsOFb0KHR9rRysuKUrz-O_RRwblCeD8cC9tFgFv8vP4MLgsxIhFQFTNhgUA1QATK8LjwF7T6-Y1fnZArClEmk6EBjyeuk0M7lP-XtZ-Mbh4XBl9eOXMWw4tItoDoMQ2nHy6EaRcUcRfOy0fzSz9-YkBHTivCDbE_Uw8HNHJbK4sPMwmaztUdqlRXKIKyS9TWFV2GNX6wH0U620iwGa2sHjaD50IDKc1Ya9jCV4dw_fxJYZ-3tZYM11VKjf2LxSvhT7I7J8omFNmj9lROLRwNz2eh8-CUahrcs7PE-yfmZcUlh6C2MN_ofvUE_nHKroq8uBw9ABSTL8pVeWnqJOWxSgttLCKj3pMZ0DeImfeAfU9ioNvgR__N24uMRwd8tT29DbGigmTzHMYLfgk53ampaiF5_t7zPhhIytz9yvsGjvTE4dA_7Mfn1bqauvdFTqXifkzY64XBwfMVcmggEGndvvUK7CfRRgGIg4KDFMjzIZpXL8B8uNVbw..%26pg%3DYQZBKOXWCFFGFKTWNZR3AJBOCI%26ch%3DAQEAEAABABRQmBCPKF4GlDe5D4l1eXsbLw3p9Sr-qY0.
+.netflix.com	TRUE	/	FALSE	1805392616	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+23%3A26%3A56+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d46301d-16b5-4005-bc99-3f79ddb6b8ce&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1805392614	nfvdid	BQFmAAEBEGgZqeGf8HvV_dtqQru6jMFg4kFJ0B03bjm_-1LhvP9_aey0_RoiiWrKpFEQvM2hESRQOqtTGLlxf47-h4hHUHZIEfducOl3Vbe85gr6Ygu2gIXDiW6sNKOulDvophgOnNFZ4uKmL9OHp3kk50TVmlVm

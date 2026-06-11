@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cole
+– Email: cmccrimmon@carolina.rr.com
+– Country: US
+– Plan: المميزة
+– Member Since: أبريل 2026
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 8616
+– Phone: +19106120362
+– Quality: UHD
+– Streams: 4
+– Price: ‏26.99 USD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chris
+– User GUID: NTME3M2YLRGVPG37KXAS2HPHZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809188936	NetflixId	ct%3DBgjHlOvcAxLUAz8gWPsxbfyenXBKovr22dXPRou1FwNmnwtsDktMJbvQCgsqrETe39dwkRMk2puiA6GjZhrgk6e6fjPM3SjduNjafuBxHbmJJDqmRyRrfW-9QtqG6o9boZ7NVRUBfD42D_3o5Flueznbt8lNAgps8A5gjpigrnP-gP5K3pkZHH9BRlsS3_GYZwckWS14MaTtzN8gLaPtC9Mnu_1TY7rH0nkcwjiKMRQgXEYCjjPq50T7Bym0BLGeKdNEF8SUl2v1r4-SMfvUc8TyxqWDS48XfLstBKlSdTCXvWLA28Vx1jiLUmmHEEJqU4McQgh8__A-4kyUhABUMN9in_OtOtImzSXMSEXRGWYTHrAjHBFeOFL7W-0cWVFihK1z_l_V_d2TZ2JCSjyzuF1Puir05MmfBIwNmIk7nuL2R9tMClH0L3RXH1ebxtLnSCQRqkw0N1jzgIGJ5GEj5pQfR_0Fw0w0xq8TJDPJ8HZjNJBFUXAf9HJD29_U_xxcH8rZhMfeRAJkRRmM27Y_H5jNTxCGhtXjrwN0uDM_pEPvi-EaloyKbH_ijYU-Po9TTWNyqunplPD_Fb1JMck-yuBSNhx4lYOvhQ6y9XBOjgxRx0LAevWBaDm13C-3bxgGIg4KDO9IHfq5lSbasu2hcw..%26ch%3DAQEAEAABABSbJtXEOMJ9W5V5maRg7D55JarJW_vLhRc.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1809188936	nfvdid	BQFmAAEBEMGLrYQaaFdEhI8CYghWCaZghZCgfh8Fc3N2glW940t2vL5pwLCFn44-fqdICwbILSM5iETtTfm-03TI3zL_9AVP1CQLeC6tKoWc4NDLENqdhjMtOy31BInk5ku-jigId4QJyfBomNX80e9vZ9ipbPE8
+.netflix.com	TRUE	/	FALSE	1809188936	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+27+2024+20%3A06%3A07+GMT-0400+(Eastern+Daylight+Time)&version=202407.2.0&isIABGlobal=false&hosts=&consentId=565242d3-7b63-4906-a7c5-3d612d5336fc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1809188936	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTWWLKA465a6XjoPo6BHWPRfsRFy029-AQ.%26dt%3D1730072705007

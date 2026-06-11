@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dakshbaweja2511
+– Email: dakshbaweja2511@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: August 2025
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: +919654523940
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dakshbaweja2511
+– User GUID: 2JTQPPXT7NCQ5CCWCC6HTE7CVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806762660	nfvdid	BQFmAAEBEHbDRf_3SlxXd3U_6JqnVN1gbphWwg3obtcS-JXYdHMWT47jI5_uUzm6KZQCh4JYI2xWwKaDXWSLIGhkpN7zR9TOcLKK4ysLyBQIiuPyKU5OwUAccZ571zNM49ER1FhVFUhQnT3053NQ43fdzEcCqXiO
+.netflix.com	TRUE	/	TRUE	1808839666	NetflixId	ct%3DBgjHlOvcAxKWBNFoWgFQlKs9IhOAQeJzkZH1XCjijJ1SS2XJzqsgKythFUnzQ-Cqy_kBfPhblbW6KX-fEuck2gEgsU_9vp9S20H6fh7P5h6t_wnnraxxALcAn7e3x6RcE--felmmivPT2Hj4eQNVTNv7OZxtX-HSegDq9KjmQg0zew1OqNcgI6dprt-hXw7g6z3AjW8evo5y6gALgdG1m7PRV9YPv_GjCCpBCAS7TtKfMF_dbTUwpEVsleHx3RhxUJP1lMLS8I2UDUMeggIdFHSg_rBKjIJFv2t73u5GZE-EcTZEKi3SG0KhcsVBUg9P2lKy8NSFrJW1jLTD2_Jven3XcnyZenZMCgrUGxkfLXHbWIRSGXcIBt7nyKMzpFIKbH00sQA_CrmMT5-F3OOo8yTYBGvXvOiBvWOazRypzEe9_mwX_RtSzJ_aqPcBicWTKaYie2DCzZZweJelPgHEUrvSoxyaq1F0NypiyQixO7sbdjVuKuG1Naaxx6qNM7ecE65CADY6bkhyQfq3xsJpPv9xqvYot4PFZtYM863AQQ1Dy2As1sp9OaGSn9W8VkH_EAhqp5DxipQC7F5IjBt3gqteaR5KdxuRH_yIjB9peeJ4JHLQVu__yql8t_Qa9_-j1l0wcNabT0J0hL1AxQEatWp_Xo46JKaevNmIh7HQjxektCTaw-lbWVfERQfBkzrzdvTHyGb-Y1rkTiBqAfTP4BgGIg4KDLFRyfJaeNjyKp5OrA..%26ch%3DAQEAEAABABTPIo1RjLn1wqeg3ef9tJ_Bv4RDLnr5Sko.%26v%3D3%26pg%3D2JTQPPXT7NCQ5CCWCC6HTE7CVM
+.netflix.com	TRUE	/	TRUE	1808839666	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKk2x6U0VNolhICq_lmrmfkP8aoEM5c0Y.%26dt%3D1777303672226
+.netflix.com	TRUE	/	FALSE	1808839667	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+20%3A57%3A47+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c03b00d1-8f6d-4d10-9a8d-a5bb274092d6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775216510234&AwaitingReconsent=false&isDntEnabled=0

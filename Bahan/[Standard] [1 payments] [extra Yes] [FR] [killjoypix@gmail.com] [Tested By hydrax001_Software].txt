@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Didier
+– Email: killjoypix@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: novembre 2015
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 4075
+– Phone: +33621043930
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ChefChaudard
+– User GUID: KH7N235FLRCDNDIPYSSC5N6KVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794260087	NetflixId	ct%3DBgjHlOvcAxLpAzFdXXpU12fWEI3eawhUj2jekA8a2iRkI6toQQcTegqZunFd3cEki9CVrla0LUkEcDDtWqlXFpnWRiHDyymAyNWQ2KrhwkQSD1ClydBRAI0AmAbLM6yikM5qbzjiTi8gi_XK72-kbLuXWTs001Ngh0naLNhgd4PU1yfDbMtvLlEdPV_XIn_PDAv0GtVrB6Cx06S8dKczyRhJ1p1NMS-4MoglQ0ezqZjQBbrPXG0W51PXBOJaaFLpZQSXVucddj-iOpjXtUPgHjkPBN4R4Nrumgh-oLZE1h1jfs0sbP-nVmFplJx98k-OGnNqvXUf9xODyPqZmvzRdIUFvXSrR8lXPYnWBzWZXcviNIkPNLGGKYIE8XB9uKhxtSzqqK8P57UQEfBfbTpQn5igL8dnhtJnGUf08H2BNIBZNmR8PrHCB_9wfMGwvpCgyh6aHGO1K91QuYrJUykRyOXLDzMbdV-TiwUl3piY5XG450X00HWxX9bx6DitQSGgYHhB4CHbH1B4X-907RUAVq7tymVKD4ABtS8lEAIemlOg9f-kr4rFx2VRwKRUwEFWnlRXUiS35227HZBJXKcdTNv-p5--ej3woyaEXUdwZFgmx_KJMUePMSaWugUNNuC5qCC2xi4DdLGNPi2HX6kRbfX3JxgGIg4KDJQsflaWg5lECdwBuw..%26ch%3DAQEAEAABABRpkZahy2VyiMPQphA96Xp-aJ2rAwfkzL0.%26v%3D3%26pg%3DKH7N235FLRCDNDIPYSSC5N6KVM
+.netflix.com	TRUE	/	TRUE	1794260087	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUDAs4pb00TL-pq-yUZmGE7JdJM3a9x3g.%26dt%3D1762724087870

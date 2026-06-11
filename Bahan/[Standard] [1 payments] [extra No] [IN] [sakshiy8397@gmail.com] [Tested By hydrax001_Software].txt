@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SAHIL
+– Email: sakshiy8397@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: November 2025
+– Next Billing: 2026-06-26
+– Payment: UPI
+– Card: N/A
+– Phone: +918800341651
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sakshiy8397
+– User GUID: 6XOPHHDJJJGHPNUAEX7BPMAXUQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1776610712	nfvdid	BQFmAAEBECKYWmV4lAhnkXevUHmb-mFget1mg5fDuDxx6lPP81s4hBhPveTtXyL1AFED2shiG7RGxB1y_eK8eaRCk3Zf9vyUQ9mWYcHbzNPKoZeLE2Hju61tRzHpY_ylSn_HivZuM8QSDGJ4RGLQX2I0MFFy8H-K
+.netflix.com	TRUE	/	TRUE	1791280667	NetflixId	ct%3DBgjHlOvcAxKDBKxb2BMjR-w8JTcAWs_9P3MWVLYxtTysqq-cuDb7dRuRwUXMqyJWn-aTLWBwSlJI6GkheEd3HAhfitq58P0JHGdCbVCk0EUS2-ggMjUuZmsB49hrghOukDOooOnMGT6UAF6fy8lnI36m6b0rDFyZzca6eqPlG4Yf2SWDbj-DAh5OYHcj9NOxzcVq9DnIXq9NxK1JbCNIrnNBexVHlipV-qgLNVr2BeYlp-NUIYLorJEWsPOWjPlHvJHkyq6EzToK9C9JntWmPvcUr8xq3qti_tFXtst-gp96HbTnP2820LcoguUhziQMgsTm4kw9n1BSYtIxsJPdwx1y2KOoqsi4i_3pWQrwVJKIfObDQPY6loadHxz14xIl5OlTFL5RdcfPxoP12sIzYIVAB6n4s4tW4Maq4ZyMrE_iqPfAlFPTOAg_XgBqzvtlnLsi2sLorQLV3-kC8h8HmBQ0dh-0gzZ4hEj6THZVieVO7uIHGtNzEPpr1qfZPlEGDr-tXgf1mmYLDAYMd7Oj27f-30iYhIcCzI3z92hthe5NaBiqYD3qiFlJitVESFjXV-zt6but0iM4lWxOMDX4Dt2T_wusXTUxyDq3GELFOKngAiGZagcUsAp9eDuaQBwgd0M9wHWRcL6lkyAMXVe8R-gSqUSMsB5HxdHdQYL9moD4pXVa2ZFq1ghm2z0YGAYiDgoMcXthdJO1_Fca8cO_%26ch%3DAQEAEAABABS6mG8iXPFwECJJjg1l4zjITX3GuOtIb4A.%26v%3D3%26pg%3D6XOPHHDJJJGHPNUAEX7BPMAXUQ
+.netflix.com	TRUE	/	TRUE	1791280667	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSrUN-qnfLm3S1mAH30x84AKsGbJ5LBEgE.%26dt%3D1775728666720

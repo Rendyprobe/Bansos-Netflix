@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: melinnn
+– Email: melintmehmed@gmail.com
+– Country: NL
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-06-20
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31684051286
+– Quality: HD
+– Streams: 2
+– Price: €15.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: melinnn
+– User GUID: J66NXUDLJZF5XOXYLHCWL6AT5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795194780	nfvdid	BQFmAAEBEKmlKQ4KirFBs6U55wqO4WJg6a6L_H5lT90kSLuJRgw7Cx_t7PLz_WrfYQllbRLQCqqZckgSRR0ocbtKPVgNuNkBHmbxjYKAr6JDWfNQyMsMacjNdzP7FXRI6abDx66tBP5Bj_fpJ_1wrj6523c9xJqs
+.netflix.com	TRUE	/	TRUE	1811445193	NetflixId	ct%3DBgjHlOvcAxLRA-G7uEi4xYj2k0l9GJ8aAbRwFIgXoi8GWAP3AjxTEzVbFIbQByOoECQ-3mASlSuJX1MpCIaEz3nPm0uF3OwepG8u8Nx9q3WDSs7rjG8gEWF8Vk3rOuycN759zPbd2YVJrKZoUlyih2wCIPWYc6963qzmu7wnBbIFe5KbIHYjOXINLXCMgMd3r6znV3Xf7YMZt0N82VwDHrlxzQvCYVWeBOr-7CcVa9vFLAb5phbE2SIrwN99fYNOvFuphSbiiOiE6Nm02gj4wB5it6BKn93JO0N5k4ap-98RgopyjL5IDih5ZxpBkyiz8kCnAiIQa3rcF8alAAC5UzX3LzQuagieuxVshUiabPrWmdiGuLrvCVksBu0cA-BRrPfBIIlLHcNVfyn55gy45NVXjK1qaeHH-0mmAiML_Gf85C5nzl4GYVPnow262kfIsOD6RsKF74SnMtuJmnBqgXfZ_1msuxZ8igbE-RbKsGuCOsf7fMzHSCt9udP6sNrDitqx-CF2ikiJCc9av6LXnqRT8ZR64KoDPUp_LwW-10pVFYWEUeIonZrXjtd7l9Ga5xUraPIiGjUENGdPHMN8CD6tyf_kk2QnaI1Wk9vJoTbMHRTPVlnZPNXgLRgGIg4KDO01S0jpbgSJVIYbfA..%26ch%3DAQEAEAABABT-kZSiwxFj_buwTXWrQ05J184cytfhTEc.%26v%3D3%26pg%3DJ66NXUDLJZF5XOXYLHCWL6AT5M
+.netflix.com	TRUE	/	TRUE	1811445193	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZmFjqsUYRkf82yLQqeRBvVqi5-dFQK5E.%26dt%3D1779909192683
+.netflix.com	TRUE	/	FALSE	1811445237	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+21%3A13%3A57+GMT%2B0200+(Midden-Europese+zomertijd)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=874cf088-d517-4409-9ac5-4d1265a9fef4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=NL%3BZH&isDntEnabled=0&prevHadToken=0

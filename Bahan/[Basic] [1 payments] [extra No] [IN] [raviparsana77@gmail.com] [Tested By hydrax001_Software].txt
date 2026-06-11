@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hirva
+– Email: raviparsana77@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: August 2024
+– Next Billing: 2026-06-23
+– Payment: UPI
+– Card: N/A
+– Phone: +917016502338
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paresh
+– User GUID: QXJJQQT2ENHW5FSRRGU3BWVT2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791826593	nfvdid	BQFmAAEBEE9yNeVrY3MPtpHl6vvAv_NgYqX995nNJGGE69uLUMErFxfAWP06UYZM16WJDCbkBq6K30DLyqY99djiwF7VRIZM517numbTM1oePoJflBQ-4bgNOy7VLrnAGMesQ7NKHl0RsFMvumL-j8Io56dQNAj1
+.netflix.com	TRUE	/	FALSE	1806309620	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+14%3A10%3A20+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d4a233c9-3882-4fb3-b5b1-5897a1edb995&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769276189805&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807982334	NetflixId	ct%3DBgjHlOvcAxKDBNwafN0DopXtAiP9m5Jvs909xJnF2eQ0dL3aS13tfufU5JBl_Zdkx1ByKkPf4xuGtzghtRTFgQJcZdfXRzG0nNizWk3sBNTb-_KMomzoF5Gd-oYI5xGbmvNtHuEr7y3dyGy9uIady5mnG9Ulqt_y8rE1g4HvztFsgvD1WHXb0EhODebFPs1ckv5gjbZjOAzKnPwJ2rMkbqDBhzTZeR-wI42sGvMrm12VLg-XkQd-hdsf28Vs2hvCzeE-d0D2RLxAP-tcpVk1D-r0Dm543jO4z1Ob7UCsuaGI1lahby_H2F77MHsPvIEzYDi-mDOQgt3S1GCO3rUWQAaybgCbAPYkwX-tnHszSQNNkncSrIp6oAYDxFp99Evd7juTEcBvYwGcZB2UP974JQsCiZR8e8uBBWVy4jyDtyqha2BW1MBlQ_hDmnMugZEzeVlPxROhxYw40_xOfFqek37ouiTAyggCFMFk3uSPEbg69DCeydsFiF3_O-rd_k0BEndbVJacf7i7PHGD1tTrivELhtqS3zFTw23HuHCqLyz44Xv2DPy6StHCzjXTYh-8hOGx7EjYAt82tZiIXz-bgadQv5_JuMi-CGdTaC6E3H9oypp88pjdIB7c-hN9s12iethkA8DYoD83KMGyE277db95sbGPgygODNlYc1E2pYLydlALi5iORnqOjPyJGAYiDgoMgylENAfB8lP_yEaA%26ch%3DAQEAEAABABS_VxdmJspVymRdfj6ClXdEIpCgAteVwjg.%26v%3D3%26pg%3DQXJJQQT2ENHW5FSRRGU3BWVT2A
+.netflix.com	TRUE	/	TRUE	1807982334	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUenJ-J6Gb3li3M4b4R82Q95n4z-QRpa4.%26dt%3D1776446337023

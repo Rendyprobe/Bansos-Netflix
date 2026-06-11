@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kacper
+– Email: a.cieslak.stasiak@outlook.com
+– Country: PL
+– Plan: Podstawowy
+– Member Since: lipiec 2020
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 0381
+– Phone: +48508534293
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Agnieszka
+– User GUID: B6PRLUSC35A7DBWDUD3QXMLLBQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807119073	NetflixId	ct%3DBgjHlOvcAxKGBBFgfq4q72ec2RDaHaNANbGoBCTHFJX2HWEjBjb9Po37hWkz8lC5ecyD89Vt87C2HNaRdiyOaPbnm3ZuocIa6wAZ1uJUOEL0mCuWPTDIvR4QUlIFP51m4IucpqNgv-6ZxQtkWbCIqI5RXRi5JRCdUwIk0xjJtQ_7QEUHlQ7oh22NeUd7nzmZJc8fY7fBdAhb89DUWWWdDCT14t90ni9JbHs_Fx9D02WKcG4vgY3KOqzeXoEV0vS3UuGJ1LOVtuu2mljYy25JI_VAEf-pkHSg0qkP6jk6R5Uqn4Iy6shfM3A9T3tkbjqUNKMz0cLcMUrTyK7lWywmtWARguzoyy6xWdDFhPUk2EZ4MSHj8HMSYht_mk4jG5dEmuxeJvvvO0aveXij7ujSu7L6t1DB43loc34uHVFcLnc1pOTnicVILZrWL0fN_sOXt729TeNdYh8fe92xLP3neOXzXf24rTp_gY0yh1IBzgT86bx7fbW2Z9V0Of7dBV4jQdhqwo0DZpdQ7JamKeDfG015RucR4czwf_X_UOwX1LY4gOprGF5bS9T6rfGTTvWJat_y_14phY4Bvi-CcareHQssJUt4L3WBf2uOBaRnmr8Y3Zy4aeA4fcjY8w1gQy2dR_84cpB-em0oGje_pkbkHgPhBU0iAXjCxh0j8WCM6sNKytT3lCEdjCogaTrVu59qGAYiDgoMPzLTn9iRHguWZU6d%26ch%3DAQEAEAABABS4XUzJ1NjZqRUWhEg-LRgJkWcNt5hNYOA.%26v%3D3%26pg%3DB6PRLUSC35A7DBWDUD3QXMLLBQ
+.netflix.com	TRUE	/	FALSE	1807119073	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+19%3A31%3A13+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b3f7c5ea-b88c-4d8f-9f06-1084eb942239&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B14&crTime=1772712188894&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807119073	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtH9tiOdXltduJACR_i-iEcZPeOCmO_Uo.%26dt%3D1775583074830
+.netflix.com	TRUE	/	FALSE	1807119073	nfvdid	BQFmAAEBED1guC5QYM3P00KSbjQFE6NgRpIiaQW_jl1DuyGhyhKzdfNMFVqQS8ExOhhX268BiTDcGuPzUIRZFVVhj_3CEuSekAlBCqo_iux2jhZXS-__MkqRwe0RDB9O9k69m3zITspsb9UncFxA80XzIovCwoKx

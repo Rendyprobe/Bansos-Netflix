@@ -14,7 +14,7 @@ VERSION: V2.0.1
 – Phone: +50496964285
 – Quality: HD
 – Streams: 2
-– Price: $9.99
+– Price: USD 9.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

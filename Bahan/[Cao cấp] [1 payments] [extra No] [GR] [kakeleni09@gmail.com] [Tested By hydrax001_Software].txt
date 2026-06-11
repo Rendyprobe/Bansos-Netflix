@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dimgreco
+– Email: kakeleni09@gmail.com
+– Country: GR
+– Plan: Cao cấp
+– Member Since: tháng 11 năm 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 5006
+– Phone: +306971868727
+– Quality: UHD
+– Streams: 4
+– Price: 15,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elena
+– User GUID: JMST67WSIVB4DB6OROSG7WAYYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797807107	nfvdid	BQFmAAEBEPLeTylcegynSDlRIwa3wedgrAiDnLqcoq7FeNnySPeQaFy0PG3qZ7HT_f5JqtzPIHWFU1N4hbmpvYHKRp10xNW1HHijXZd5BCTeJNhXJa815rtbjJpSj2ofzDPqwF1-TyL370Zmh7EJGwBDffMFEgYK
+.netflix.com	TRUE	/	TRUE	1811368656	NetflixId	ct%3DBgjHlOvcAxKCBBxpMIVJbZO4MNfalQ5Ltc_XZ3TxlSNSMdb_vkh-LBbCuc15a2h61g2xssDU1ENHkwDClDkiZ7Ro58H75DF3ayEfaabUqJhrZUOEXjsWrn25k_bzuGJNJn8D7VkchWnjDzyBMRISbsEOhdxE1xdIvJGT02cYNkVYtAbxCDU5JDrUO3zKlH67lZS1iAdeTARGHRwpSIJYE8U8k6b04BpxCbFEIpIy7Vj_wzC2MHLS85tQcqB0J8mG8aW1uJfYcB9jQSqleCKEa9NgxYdM1pwj8BEUikB4OsgoC1n4cS8J1PUDXo9fxxS53zeBGwYBmLOZSB4yBq3FpX1PEFR1R5p6UU4noEIBWaIOKN-NJ5iFYw9XhkEEuPb-FKaJJH6VSZCKkXrE6kBIu0ZsDYP7HJJOVn8Zu8uka7oNqnQ_50HrB0P5wIlQHq4ljHRf9bCQ3osUsPuSv5IURUnhrvpuPJLGpMQhED3e8eOsrDVogSp_84kCs0srI2KSvnKume8xsD5HgKP_dfdNar30nxCMzqZ-jE4lGrsotAGkKGyqj-yTdX6zFlzedvurrQWghJIzIEVu5ByvV7h9RzxagcVdP2kEx8GabAe9W2vGravusMGBqcgiiarEkyxCzxYws5yn7y77szMjIAhCXePVoOvBvgA4BF09Zqqzr_bP3NEOJDdOgxvQj3AYBiIOCgw6Rap0yfYmEmWY8Gk.%26ch%3DAQEAEAABABTNecP8bdHggq1li_BABfcq269fAPSJJ7U.%26v%3D3%26pg%3DJMST67WSIVB4DB6OROSG7WAYYU
+.netflix.com	TRUE	/	FALSE	1811368658	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+00%3A57%3A38+GMT%2B0300+(%CE%98%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2f05e934-8ef0-4f60-9d5c-5098b0d0dc47&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GR%3BE&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811368656	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdsqtpKw94UYSsWNPOZH_QLn4OjUs_AzQ.%26dt%3D1779832656682

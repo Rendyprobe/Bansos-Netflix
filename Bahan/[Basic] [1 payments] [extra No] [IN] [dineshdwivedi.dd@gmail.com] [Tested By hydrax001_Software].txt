@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Divyaansh
+– Email: dineshdwivedi.dd@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Divyaansh
+– User GUID: CJ4YJY6BENCB7PD22SMIPRIATY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803835231	nfvdid	BQFmAAEBEJvYO8WIeNYfH8K3zSAHdDpgU0R6jInTdecfyk4PefmrjJdtcjZlWTaFgOhZInfjA1Q8fOrjKYPfytlCkJM6BIhTVBPgwI7x23BHgTJ253dQ-OKHmsbCDMMvLy7Sjsjrbzv0e_5VC3ROmJ4vpdIV_sr4
+.netflix.com	TRUE	/	TRUE	1803835901	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AtfHcqBCF1a2tteZibAwI-t9Xw4Yxh9WP5wIJKmSaYeOLz-vX_H1OrDXzWYgc5zf0HqoQcWnAT6vTxlgT2BdUaeamlYh9M1VGV9-IvIXZnNh31mC2db0Wi9T-PFU4RfjExFuoP3vxHbylnkPya-3aold0yGhCdVooe0gZfoaS05Bh202f_P3SKw5sK1UkxDEHiPi86v1QVmMAAp4V_St56_kHE22cajPIWEXAJ603QjuJ3-KzuMeFm9x_9aOMfjiWbkKmaBse1pZncMRDHkVC3uPTix6I89JxbvF5Fis45XxhR8MiCR1PXHqMZWeiK88KRtZ0d0V8KJMNr5NNV8bdN_dwzwUj7UEIcRyX_VPO2dffvMHi5SXEo5w5lfigSpD2VSBX7aT1yJBUnA742E2DC3rBFng4L-1VKvaIe9_Z8ZlhoRh60_uIFwMrev2UpaFI8H5Fxmo1InMD8xtnTOy8t5DwC1K-bW42ZxWMbw2jv2x1VqFdSrur316aux9cRgGIg4KDOZIdmPIJtIs2eYv9Q..%26pg%3DCJ4YJY6BENCB7PD22SMIPRIATY%26ch%3DAQEAEAABABQyZIwy4R5iBk9Awh1nCTuXqAbQ0vCNzho.
+.netflix.com	TRUE	/	TRUE	1803835901	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNOnSkGDt6szEiKGhByem9IjgVb_H9e7A.%26dt%3D1772299907222
+.netflix.com	TRUE	/	FALSE	1803836182	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+23%3A06%3A22+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc92209a-0f66-46ce-9a06-a4ca4422b8b9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772299798215&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bibi
+– Email: tudomuda146@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 9279
+– Phone: +393519979871
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Day
+– User GUID: QYZN4KRDVVBXBIB77SJKLWUEMA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802684502	nfvdid	BQFmAAEBEB_8oqnEwRw-yaJg10woWYxgWtYDtJSRxEwG2IstgHBW8owvy_NdxJuVwo9mA1JExUN3puVe4rYiZxEYr7TxFPXy2WF9oq4HsCAdq4Crm-xy0c3k-ibs9I_hOlpJXO_AhK2Flx69Pqh7WSXjPSU-TZtd
+.netflix.com	TRUE	/	TRUE	1804701060	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYJefugWlNSVPXdlfxSBmRIxyz9SzPrR4.%26dt%3D1773165059785
+.netflix.com	TRUE	/	TRUE	1804701060	NetflixId	ct%3DBgjHlOvcAxKuA9k0ivy-z8HFOXXA0LmOddam-VbpUEIkh2yaHp0IoN6jrhp_iQRlrMTfAWCOZzN_MdJb_eiynG-Rf0uAbtIOUXTk3LL8zeEIvOR1dfkbLhq119RB-6bgc1lDBNYd_haWxz-PaG33_U992dJRpSGL3gTZT-No_3NLAfsRL4C1Gljz7XhFWMxdsR6rBMZpfKt_Mqu-gN_HP99TGFFibo4jqDrbIOAME5jKhZq3RZKF-VYcZ7Mmwhv2_itma7XHZrnDrwE3gQWb3BwhEls5DjeGHRdPUUn8RXqEbzzfuJwfc7pPNNBhJaKPk95YNRU5ZP_HQSoigNP4aldxYiMBYseOUSW7xWwFpZYVCEMmXIllRrm2p1alHjW5E73OVRy6_JtbPNFhXflFMeVJYwBW4iN7dyXXOyxrUk2fH4q9cPpgw24JCV8ooDRdS8L2rdQ0ZSbBWwHZEnq5setZSMZQk_1vSsD8zfmShKIWJXq0U3yK54HL1t95Y_F6o8K4EmKq3BOJ5cp42XAatUWZWDibAXw_zvDdW5jIDG1dhzA5wvwICHWuiAHEc7K1ZuNGqaNqlPQYBiIOCgwZRrzzWNYylX72Jyk.%26ch%3DAQEAEAABABRLSt0U789PFy3oayG9wt3VYsKpz3ZSPuU.%26v%3D3%26pg%3DQYZN4KRDVVBXBIB77SJKLWUEMA
+.netflix.com	TRUE	/	FALSE	1804738443	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+05%3A14%3A03+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=4ef5c324-b652-4a98-a4e9-5f7ada595633&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771148083068&geolocation=IT%3B25&AwaitingReconsent=false

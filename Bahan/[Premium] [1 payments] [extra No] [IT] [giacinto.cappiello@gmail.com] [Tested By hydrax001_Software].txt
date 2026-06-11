@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: biasino
+– Email: giacinto.cappiello@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: October 2020
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: 2931
+– Phone: +393383257037
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: giacinto
+– User GUID: WO3GFT2ICVHINJNHMJTMHHEFSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056510	nfvdid	BQFmAAEBEPYK_sKSaAMeyhdBGv7RB_tgVLmOPh9JTvDzbczPxPFMeZIUOu24k_3TDpxSq4hHs8lF-p_P-FCnaZKSj8z8wyuk_JxcnmgK01eN1rXWrmecKnsztfod-rMI19f9FRxGjrQKUxaM3R-LFdTAAsNzn6LZ
+.netflix.com	TRUE	/	TRUE	1808444447	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAyzN2oetVrFmcc1-KCLSjidc4CtLbSI6mMAIDvOSOYm7MkBBH2s8JIwgAEfh2GTVorpbsqQJyU4eMAHMRZv8uq6Gh1waWIqwkkNlpRCPqzMiQnU-fRXPEA3VlIQNaJm4y7Np7Jl7DzCZPWTXVIpqejTlkD_-v7hXTh1H7hdNJpr_KbSzOSp4U4V4r62M8rYFS6wiLD-lwunTmffuzqoKnjdVKmOXdFKTXrcAmQTNt4GqWUaXIwvxXbbU0fT2BcRThN3hgTFs_MFW9H-M4aQ-wIHY2IwLhahhsoDRDlxfI4GWJlLraIRecvPrmZyqxfMAUIUKUygdq3qmkAEJ0RrIYnDZtHq5x-pLSRrmyW1EyRsLEybPUi9d2yUS_5xF3fYikR0XMyFOGDW3X63WcbAVVYZFiGSx57Gj9lMc5lCZuyJTvcR-TjixTuuirVl77sYGXb4qIJFPH2QPIRFea6kAzuUdS20WlGqkiMw9wWGV51x_TUpoxk4NOR-TfpOksPR1eXgrsODSEG9zXaih6-NHvKjhpB4iZwA-JhyJ2r5nGAYiDgoMRPFtU41YV6YaNgcJ%26pg%3DWO3GFT2ICVHINJNHMJTMHHEFSA%26ch%3DAQEAEAABABQrVKDG9oT1fgzT6zIUvbH8G9T6el_52NI.
+.netflix.com	TRUE	/	FALSE	1808444448	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+03%3A40%3A48+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=947ceb74-5473-46b5-be21-3b3c3b80c90b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B75&prevHadToken=0

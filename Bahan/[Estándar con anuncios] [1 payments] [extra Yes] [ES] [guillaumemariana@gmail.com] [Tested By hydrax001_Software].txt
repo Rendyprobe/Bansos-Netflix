@@ -8,13 +8,13 @@ VERSION: V2.0.1
 – Country: ES
 – Plan: Estándar con anuncios
 – Member Since: enero de 2026
-– Next Billing: 2026-06-08
+– Next Billing: 2026-07-08
 – Payment: CC
 – Card: 8649
 – Phone: +34647867168
 – Quality: HD
 – Streams: 2
-– Price: 6,99 €
+– Price: 8,99 €
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

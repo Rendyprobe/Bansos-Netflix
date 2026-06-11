@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Amin
+– Name: Manny
 – Email: manalkamel507@gmail.com
 – Country: IT
 – Plan: Standard con pubblicità
@@ -20,10 +20,10 @@ VERSION: V2.0.1
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
 – Profiles: Amin
-– User GUID: HP35AANQSVGQDBPCBWA2SF5UH4
+– User GUID: UMVYAK5EDFBQ5BJO5VRA7KE7B4
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 
-.netflix.com	TRUE	/	FALSE	1796242289	nfvdid	BQFmAAEBEDiOlChDPjAXXEZEjN9h0-xg1Hb7S9FzD4t2C3ASpWurK1ajXdLzGv6J2sjovv-vlCf2EXJ1pYQ057oDcakmGYuJU2y2xPqk8SjepZKTcHwU7cz97UeVrNWNQwGYIvS8lw-HeWZqUnuylSdT-pTMtYI9
-.netflix.com	TRUE	/	TRUE	1805669017	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAxsm2Oqe2yA9jyiQbPdXe2w3fXavIXuHXiDe-MB9RxCKZd2gJg765xN9ZoBjPS0y072QoPcS6lbrG3SubYN0LC7ZLeADSSquQXTds0eqQuxn94U9QKgkhkl0Qa2hZt6l3TfGbNFxo6S8N7nSX27LJ6P_Lp6Z0td2a2gP-uQHGUi8aoKcuUKztezpp3zRwNLQY8_rKBfDX7Kv04tomcb_X2Rh2OYqgoSTSj0VC5DqkW7G1LDUKCEbH7dLanaLaFWZoi9nuH2ElvElZ2EEaIrOvl70b_bmDZOsS82TA9GHF1n4OEqZglqOBIedp1A7hLgeoZqGugr8bDNhrm7UA9xM_sqwcKSAPhqbDXgAvau52lEpk8b4XfTyEdBPr2zPbQLDNpmq-uiWqMgUVcpEJe-tkKRIVq0ESt6IySZ76Slc8tF_gqH3ZUhrlBcokLK-Y6Z8WxBwrzfX5o6j9jqvkOA5EpMHWgudr482siGHgNMQy2WI5pbYqe10GGo-W4JGq-riDNO1wPt-uK3Xjt1UsRj4PThlEB0F7AeAYBgGIg4KDHyECNoBoe5utY3QQw..%26pg%3DHP35AANQSVGQDBPCBWA2SF5UH4%26ch%3DAQEAEAABABRaySG9Y7FLzUImy-9Mg6-wO3RD_XNlEUs.
-.netflix.com	TRUE	/	FALSE	1805669018	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+23%3A43%3A38+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=49f10b8e-5586-4607-8aeb-1a00538d6f02&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B25
+.netflix.com	TRUE	/	FALSE	1786553238	nfvdid	BQFmAAEBEE7T_nnjqun8-zJdGVfHbENgkTMzkn1lPVdMkGLS0md9z5AHc6C17MwSNb2TPYYAWE-64AgrhyXo0bWgxu7wpWV5jB-7AnIPsfC73Aw2Q3bmHbFqaztTSJg-w-QMbqX4QAX8WbnyNw18HRdmbcY3oBwh
+.netflix.com	TRUE	/	FALSE	1787082809	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+18+2025+21%3A53%3A29+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd0cfa78-5fdc-4664-ad63-efb4d058c57c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B21&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1787082830	NetflixId	ct%3DBgjHlOvcAxLlA9BKTB-gErxOGsUgQonxRWNjSffXXmzXg5CdDnExfI9bl7bKHmVHPjavaiJTLRTSj0N1w2JcF9UHbRE6X4ny3f-uVjTkLjPxfiW_ZQb1iTukN09201cHlZqwPbkasppUzX9lj4fqCjiRMzJgxmLXGdjxmdKOmdnEJv3CVOOR7vokbbvj5uv1C1DOyMn8Klj_tA3QSxTRyj-Q_88Zv67ClVEo-nkSjMqBTs-zY1G2sFfYSQufRmvXaTlFZibC1N14eLaOq4dGATNtVqBKHnSsO4rF7pQkghEdY6gVWyS_pvI9ORBosvQaBi6f_tg4sDbmrBi992FM7OM7b6OzlF1buYRW9k4fF5PtJKOay1t_cf-HBimp6t8h1w-_wLQRl7_RLmoskUNeo8WQupflQMbkPO7y5tRQrBaUeMy4vXcP7N3i3thnmmXOqo1aPquukU5zbYCbY_HQ7-mfIWZwuhD5qDJLF_cTZUNJzLLP9oGxFwj--92jwn4VfkiMn_8_erJT_Bjv3n8Wd9shp6RU3Ruw4DBoKCXcw4-NRKrlS1PFMWUMUetyz0encUAHXZr62IUWX-FASmBOwMX2zPmMjuaaJDRBxkJSyqu5WnyP677Am6kKdBYpx6nBRr6qoBfs-vjPwdsAAmCJGAYiDgoMlApU2ocLe8EteUWA%26ch%3DAQEAEAABABS0l4jQWwrY_hhxahx5b7GeP0pWfShUfhI.%26v%3D3%26pg%3DUMVYAK5EDFBQ5BJO5VRA7KE7B4

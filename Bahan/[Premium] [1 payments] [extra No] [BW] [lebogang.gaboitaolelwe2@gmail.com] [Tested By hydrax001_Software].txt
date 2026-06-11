@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Skater
+– Email: lebogang.gaboitaolelwe2@gmail.com
+– Country: BW
+– Plan: Premium
+– Member Since: June 2023
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 1085
+– Phone: +26775449920
+– Quality: UHD
+– Streams: 4
+– Price: $9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LebG
+– User GUID: TH5XO2NKERDR3KPDA2JB4RNM64
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805738330	nfvdid	BQFmAAEBEDo2XQw9IiwKe97P_cksu5lgCph4k-AELvayN6PRUJLdsjJuRtVxqmiItId4_SZVQELB393GsfdFXnXGQpxOP79Zfx8r6wNFSU5vXE2ZMYpgtY3xVd4MpysIYvPnZP4ReIMt1_uRH9BY2LjOtYv5aMO6
+.netflix.com	TRUE	/	TRUE	1809536579	NetflixId	ct%3DBgjHlOvcAxLoA8KWx1UWqhKGLDTioh62UwEgOJttiZ1ihyIUtfekZ2s36JNJd6kJLm6RFJUDUdvI_tMsuRBhKfNvzHJ277s6pCAEY9oSgjo5KJu3w72OlHNrIvn0H546yk-NUfDOF76Iq7GF4GpiMY7gE8QDkbgxyuTr7Uo-3qr3cqI_mfZJO4TEetDM_Muj9Y3JufYqqD6sYGdtiEsVpn5LwSP0C7k1ZAj3NYsVYyGbBAoimT0KlNN7ogyB5Ka3Z1FzrZ9Ol00WM2c_6-sOQNHn8T1VFXdQd-_LW79p-PDQ9lkApfZCYtvD8Fxm4X1Y8PG2bsPnYYfJRlL1DrY6SDdyk7rl3LYW57T2eKHKUOHNX9t8lWNdXdG0SYArjjwFJcTKPGYAOhuVpeb1wR2Ndjz5N7KzV-Fa2ZpxWQC2YPFn2ZeDJ6uC6g_FdCNZTb5on8iFQNwn3McDdmCBqZfNhNS5O4zoBHMF46ODYD-Bz5LJ3EekdpunGGfbsM_devxb4tAtv8uvdAr_cl7tBGxNePFxsijfD8C7sLh0_NCGM1U-rn04VEtOtEm5t2lkXRb4bw0SVneevxaIFC6JFisKkYB3-SxDre8oVRGC_1hieEb9HfqWPxqahSbJBwSk2Az4EaIwFZYqRR0-GbSHCHInS3z9GAYiDgoMM7J4yXnmSSCXRQX0%26ch%3DAQEAEAABABR1rcLuTJw0ZDD89sjN6owaiohNtXO1s2E.%26v%3D3%26pg%3DTH5XO2NKERDR3KPDA2JB4RNM64
+.netflix.com	TRUE	/	FALSE	1809536586	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+19%3A03%3A06+GMT%2B0200+(Central+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6741e65f-fac9-4e53-a768-fd10922a54d0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774202312304&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809536579	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvDqoPV7KGWL9Haak0hOutZX20zqQmAn0.%26dt%3D1778000576450

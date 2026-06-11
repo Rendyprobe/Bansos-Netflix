@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LEni
+– Email: ies@dai-heidelberg.de
+– Country: DE
+– Plan: Estándar
+– Member Since: febrero de 2023
+– Next Billing: 2026-06-18
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ingrid
+– User GUID: XJP44XCNHZCTJERTTCUCPTHUYM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807556407	nfvdid	BQFmAAEBEHej0SAg24SmO-7ue9NTO29gM_yhHcra-MPreTxh-N6xsS0qQ5yWI5ZzqUw18MRNhM9OsbwkZ4a0Bi8nZZhJTx8QrMEOk0urKNAk_rpUBncqZjMaCkcp-NBjazQNouH9rKUz0liZRwm9Z3K1X_g24kkd
+.netflix.com	TRUE	/	TRUE	1808413331	NetflixId	ct%3DBgjHlOvcAxKEBM02sDKVnBmQ2_sDYlGIPob_NvizhZS09VK7hRf1O0wbYnv9J9rS7wBnV0Q-lNEV5Hi_O5fq8Wii5xjLvLPkvkxsFc624Y_ePayWPtUl7ODyQINcBUrcYD2jKe0Aizsf_JFRcWjij8VHAhdwpmBeo5xyFljjzm9L-zlvQjguONfGTw2Zd-7NV4gL9cwdTkWjjfkB_-yoXda7PWl_ydyuOB8xLvDBy6nTRRFxF9jwLViyOwyJgZ-5yu2rlEyuso2NjqynuFJUn9Pc_t-_zhQj4kEa1LXG4oiTUaYVHcpZGbI6EW80s-pBt9WZsRwU4rIqyQcZw8HevTh5UkQMjyN1H6p8dtp7GD0tulCE1gCnbeOg1Tn5qQDs8roYgN-R4J_3t1oJ7-lSy515slgdCZvLwx2IvCRAt1hsyGfWkkH6PNjTXsOq6obo2KppI_hWvOylXUxio7jhKNJEH89_xn0_fVw_h1ZE5r36OjomKFRb3mpum0LJcIVjuo_6tv23eUr_84YTV2fF5SFJ4G-h1OvW9XnYpCMcIgDNRZIzhOZzoAnLI7c9MOQ9pCqm_PXG6mdcDZKaXOUYfHraW7JGP8zg2kNmeEYo4hRpgfpRqd4lNVpD5397mb6whc484Yq8ijhlS_CWfZW426pedrXT2HwZIaak3lIILJBQHl15jD2uoukJ8rZtahgGIg4KDO3aHSSDGSTlwSEdsA..%26ch%3DAQEAEAABABS1n86a9yWBeoj8IVXQvU9QdkEuR7mrTAo.%26v%3D3%26pg%3DXJP44XCNHZCTJERTTCUCPTHUYM
+.netflix.com	TRUE	/	FALSE	1808413336	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+19%3A02%3A16+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e38d28f-c190-4b04-8ace-74c012715a3e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1776020398208&geolocation=DE%3BBW
+.netflix.com	TRUE	/	TRUE	1808413331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQM6jB29feG6rcqDLRfJqWere5uTQgwoaM.%26dt%3D1776877332980

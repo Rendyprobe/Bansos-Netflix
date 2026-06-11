@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: electrodmaracayiica@gmail.com
 – Country: ES
 – Plan: Premium
-– Member Since: julio de 2019
+– Member Since: Juli 2019
 – Next Billing: 2026-06-15
 – Payment: CC
 – Card: 9432
 – Phone: +34722462892
 – Quality: UHD
 – Streams: 4
-– Price: EUR 19,99
+– Price: €19,99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

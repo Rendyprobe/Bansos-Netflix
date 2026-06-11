@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gurpreetsingh1233u
+– Email: gurpreetsingh1233u@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-12
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gurpreetsingh1233u
+– User GUID: DLKZNW4TXRBMLPQT3QWX7ZAZMA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811091614	nfvdid	BQFmAAEBEIE6oPyTWZk-AR0zmjiVs1pgmVuGwyrC_m73Qfdx6x1ziMpfYCGNWsaf-ZGHQufPuUsg2uq-jbEd1LaK5yeYPwUNIJILZ9IPPBp-UIAgS3E8GMUg4E1rFrwlnoeQ0tT82pM5kXnyqg6iQ20CpFXjQH73
+.netflix.com	TRUE	/	TRUE	1812124513	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4aFzgij6ebIl0QJOBfaZvXwaGc8ic-Zk.%26dt%3D1780588504203
+.netflix.com	TRUE	/	TRUE	1812124513	NetflixId	ct%3DBgjHlOvcAxLWA7dSB721nLFTzQjFZmrejmF-0prQUJkM9aw2_LQNC1TD6HEosBE6P-SywPE4rH2wFbfvPKGye1nG00MCwfh4gcMDCwhHtWtSNoP7fR6EPKCJuaAJQh5gioOYXLmx-dI8fHozwbjdW87NX0ZOWst5V3ujdKf_Hf6mHRlUT9KsQEs0gY92Tke0ymJRG0HmeNMMZHMRV65fSiJ7ZQiu73RB3ifSJmVDOzQncGoiGESdHBLqQOGP2-9YbUvyfjGJFGwB_lPaKNWlEZ6pIg9t0ZDJChIrpjQCeNwhECgJJFAPZPvnNfVbEcS_yKtHvszl4ZAyQcNRarnpWMk9cPtqqhLMHMo9PqIouG2PJ0vgBvdpexDNIAWcyyND6-WOCmwdGpwtGtmk8mW1QVu8lN8ASVb8Mhi_Twed_kaSJ1L0V1q76ulsAUlZksBNuU-GcxzsQDcZPaQH_ZIM7o6aF3DC6XKI7VR3TgcGvLqXtgBRUjzOCznN2_7oOSb0PP1CAiBg4fjnc2Hjp0Ps3qjglr2LX12aQjcJaEtUZMn_kLgOrvUCvrKfdgsIIl4VcQNrJrdw0OeCz9yWuVbSsi9dBs_6wPWFR3idT8WSSWyvzVTBYNdZAws1iJWlnWnsGAYiDgoMYsYZjT2FDjI9iSFA%26ch%3DAQEAEAABABTqg6ZC7T7ZMq4ZS3T1xn69mgPfNgnmUuE.%26v%3D3%26pg%3DDLKZNW4TXRBMLPQT3QWX7ZAZMA
+.netflix.com	TRUE	/	FALSE	1812127827	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+22%3A20%3A27+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fb2afb5d-e85e-4495-a6e6-11c0c0d320e8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779554728420&AwaitingReconsent=false

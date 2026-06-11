@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Daniel
+– Email: felyti@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: junio de 2025
+– Next Billing: N/A
+– Payment: O2_SPAIN_BILLED
+– Card: N/A
+– Phone: +34696495591
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fely
+– User GUID: ZXVWHLFQIVCYZDQKGEN3HQQ6FE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798231866	nfvdid	BQFmAAEBEIBZ4Vo2Wu4xRaHwjO8MLaRgE02sQojwTqdHV9epj1eFkL-s7kGFSP79pwyz1CkGjAagPjFZ0-FtXuDFYePWFNXcY2_cSztNJ4r_hbQiJFgz-PosEmOto09Rv7NFJ-Ank-Kte5mJkPE-hkl-35RDault
+.netflix.com	TRUE	/	TRUE	1801066854	NetflixId	ct%3DBgjHlOvcAxLnA9BGi4Xnu5rRIEHf0MeeiwPfYmUrwZTosWUDI5jKlZ6TAwL6EQ0C2-pqrOy4jbS8lj19stS0pv3i8cA2cCgjMgraIxijCWFD89bTB1MVg5nyJewI0brdQlTsTTobCtpG-YG6vibkh_NbbaSJuOYAXfGJ6SU9piTBjrv2QWMCj83XOCgcQL2Nqq_qLLcQnWFcbX9CF-6mpsHSMTK9WM8TEu-YjcE4cl1hEQwZateCsoruh3KB72i85emsG-6ABoXkFUyD4-bUYAQZZJCcxcLSyM542l6k-N_y1YvzsBycDYGzADXjUB1GrL8u3GFtvf5FMgXCJ3g4iZa8ePfEA748fu7leetvvUvRynTIlVVvmv_vPErbegIftLb0mJTJQKByGUqXwhUV2LjTj_OPIiBkjhYuOA0x_rpEdUVFZUAgwNf3hHTRA9sZ8azZzui3scnS9Yc-NnqjaryBDc6OkxyzFpy2Kq0GiMTN3Wa7RXIEqefEiBKt5MZdFiUTQvkOV8dnAY7jvlb3u2n3M5oENi24CLYTXYaMZ1mtkspFUC5W-Ic0hlN1EWAHW5hfh-Sqw846MpPsYYAk8C1yPXnx-TwJqw5TNInNh8aDC7y_xj_vdI5g3ps6D8STQ0njNng6i008AAyVEyYCoV4YBiIOCgw0h15_0oALGMEAPHk.%26ch%3DAQEAEAABABQP7oyvlXMsBYGAecBUkOsHe0CRMyHf4cs.%26v%3D3%26pg%3DZXVWHLFQIVCYZDQKGEN3HQQ6FE
+.netflix.com	TRUE	/	FALSE	1801066855	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+17%3A20%3A55+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=317cdcd4-c188-4e29-9316-3bb0dae1a7d6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1801066854	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKYLusi1is8zrOmy9bA5cf8e8eG33t5e8.%26dt%3D1769530853430

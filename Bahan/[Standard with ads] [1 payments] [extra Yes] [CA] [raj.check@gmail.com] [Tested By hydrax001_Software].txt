@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: RAAZ
+– Email: raj.check@gmail.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: December 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 0385
+– Phone: +19028561176
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: RAAZ
+– User GUID: BM4NJBDFA5DZRGIA5CJU7WUBNU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783281191	nfvdid	BQFmAAEBEFySnXOuiV63PYw2ewVXvbFgzsZRxv9FX2CdetINOGIZPtC0QOfTMLdRPyQhl7KKG0V5Pe0yaZ_Ab0Dw7Ab2DJR6vzF6x-m8D_ib977HcX759VVsOE-9ZZ8GEiPIQNi9BNMu1D54-w_G7ek6jKjEoEG5
+.netflix.com	TRUE	/	TRUE	1783281191	NetflixId	ct%3DBgjHlOvcAxK3A-sh-Yy95VIh32nWSMrQa3ho7zWzffgMEDgUr3roVnAvw54bP-IAEQQGMSwaCvfQf0YTC4Y2MiYHL0mCz20dGDeXLH_bav1ZDmAM-gK77VNdIKyizuvPoHSwO2j4z_qBU42-pgIYLjCcq_p0gDbxANPUlTizSP6mMbaO-ZPEe8rv32hv7hDts-BnR-S4BOAx_4qN8v1N4cES8kax9wWa4RRdUy0P-wZU_QSoKDUsELtFH4XQHtbbKtCdJgzUTtDvN-4LYYwE-w9C3_A1Lbj_giUmToYIBpQxxG_QZgorMyX7_kQ22anQjsy2q1qsvCfrA1Z5gr_CSgA5K34m2q6L25-KjQ5hqOJRkTBa3o-9SQ2TzJHyfa07H98cwZw6rl7pxe6KmlfhqMwzef8diaSv9jMTAzrpwRU3Z2A2x9klPk6sU4fSP65Gjg9cDL7sy7DkxhwRdzvOcUzdHgcN9h8QQxNnITvsKw8SX9yt4l-wpqNTtjJv20f5kFRtYUSYnBPW5l9P-4oqZeq4q4tUgckPxwFX1BxEjhA1UyuU7tLwKeUXnXqvEEJcrKi1ZMlMyhwnoaP3gSraqAsYBiIOCgyk3Ij2wwz8OIcoGoY.%26ch%3DAQEAEAABABSQOHyCRszdYrk0OmwamjrYfvAIVQ6hLM4.%26v%3D3%26pg%3DBM4NJBDFA5DZRGIA5CJU7WUBNU
+.netflix.com	TRUE	/	FALSE	1783281191	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+18%3A34%3A42+GMT-0300+(Atlantic+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=506429fb-5628-430b-8820-4f75ee09f331&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777776353059&geolocation=CA%3BPE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783281191	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmcpb2hFgS6DVyTO1DXCVHrkBbPqD-4q0.%26dt%3D1777844082129

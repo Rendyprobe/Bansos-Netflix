@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bartussssc
+– Email: ewel7@poczta.onet.pl
+– Country: PL
+– Plan: Cơ bản
+– Member Since: tháng 4 năm 2023
+– Next Billing: N/A
+– Payment: PLAY_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ewelina
+– User GUID: IWX2LCULIFA6TMG4UTO4OKVUXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805006602	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA4-5r6Z6RAk692-bVvVlVH_P4PHF757qYpAmBlY_0SYLoRNrFDPnSdYcl_VmLBktlzQ8DK7y4MSd00Kma9UDgr__c3Q79sJRckBWJp8vbuFDKhvKn43oqhcBjY_lHHQbcH5gz6TF7EqSk3rtuKmYcxj24l0xX_iD9ybj7PxrmccrP3kb-fw5xhf7wdiZOlU5T5cQvcGV3sn9f9jgv38VUkf94hIXa1AkOe1ENUAxiIgkjmxzEbhbeFE4dWxkQe53YfhRmnJ1ikntOfGbOZ14xxbIBYjYqRmnbLhOpQTlIuul-5wpGF7JNyzkuYpUcxKMqyEKviMgnJkmhj3eBCzCHP787NuZYUqIa4tczNzscOSqqfKGVpNzZqXsQOLpU5HkxyYOugiBGwZy4T97F-s8acbfS89zp4UHrcNPeSpLmaug3HF7xJSKMvBTp9Y8U8WiIPvt7-Q--mlsNIXJ79OHIbWAUtwmnucwtNLYZYS3h0QSXJPEjibskCg5BZ2D2NaGZ7CSGAYiDgoMIQpJ4oL49Y_0STaT%26pg%3DIWX2LCULIFA6TMG4UTO4OKVUXE%26ch%3DAQEAEAABABSKL0bXwlirl8qGQ3CeutAcadCXf11iJlY.
+.netflix.com	TRUE	/	FALSE	1805006604	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+07%3A43%3A24+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42f6d333-23f0-4943-bdb7-2527c49edd31&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1773470596861&geolocation=PL%3B14
+.netflix.com	TRUE	/	TRUE	1805006602	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCFkRCngupKn6x-uZz3HoyJ0lW9nYU9bs.%26dt%3D1773470611019
+.netflix.com	TRUE	/	FALSE	1805006599	nfvdid	BQFmAAEBEK7MA_XOixFFxfqUuEszx6dg2VKqf7tAzlMnCCGfjZi3rsFviaG9gNF81qiE7mtNzL79zU1-MzZsdsw0yN7mJQJ7Vb6wVsFv8FUrpPsrA43SFFtsOPxrn2PkjHLPjtFT_D7wXxXqDhpT7m6Jg2qm_Y1c

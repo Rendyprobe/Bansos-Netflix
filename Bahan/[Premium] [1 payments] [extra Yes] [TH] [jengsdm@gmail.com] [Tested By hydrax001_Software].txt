@@ -7,7 +7,7 @@ VERSION: V2.0.1
 – Email: jengsdm@gmail.com
 – Country: TH
 – Plan: Premium
-– Member Since: January 2020
+– Member Since: Januari 2020
 – Next Billing: 2026-06-18
 – Payment: MOBILE_WALLET
 – Card: N/A

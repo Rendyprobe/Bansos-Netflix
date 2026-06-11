@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Don Pablo
+– Email: jovithbenji@gmail.com
+– Country: CM
+– Plan: Premium
+– Member Since: Oktober 2025
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 7020
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: USD 9,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ing JOVITH ARSÈNE
+– User GUID: QMTHBBMTV5BSZBBGW6NEDXOCTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800803631	nfvdid	BQFmAAEBEJxGqYJH8DPUNz83-IWPzPdgBfufGmoSKGWdb7W-uLtUKTPf7as8DUXV5KJ7oFHKykwwM8pxJSl8fA0vmzn-XC80-HkWDVOxuDdKTdoXOsbDFGlE01ucxEfoWI2yuTA06E2CnwQg0wk427s4YeYobGvy
+.netflix.com	TRUE	/	TRUE	1808412705	NetflixId	ct%3DBgjHlOvcAxKHBKoZiC6JwxRd5i976XbbL4VQXr2FRxknAd9Ov19q7AzeZCybT0TORsbHjuSnXdpXZLzYZZke5QhHbN5G9tjN3gl32fHrhSAumULeDJ4aJAq5aBBVrbziecOoXHtt8s-oBd9ZWG7gVd_sz9wCqUYKu2Tkrb854k1cJKBebBewwXMT7VuRMA4NHItnhZJaPlnIQgTdxudWzXMG-Pp7JbvK5l4hUuo_fcOlXOpdaG0lN0oNsSh6tC3VgeJRZYFYS4Ev-D2D4GRW0iIl2U0qfpKpNj5EohegeQbWiEQnWZGsWq-cxxMRyfXOavlNd7ZWv62SvU0RJw1M11UikGG72dITm7CcBPSJwEezfX7HZvtYRqkK6-ZpPSmmhz7XWTQkVadprzDbJKv3_Bt_45F-zJvdQJ-WezswXIj9Rv6K2bJ83M2xFHkIHQGisTnHcT-PdLuB1HgfLZA6DIRLTSf0jBfDMlUjrCu5QzFth3Ip0J4w9OxiZzZMgFmrod73BWTypRQQR_we8xpAO-T4-fGf_Zd9-FlyeBeWBt3rUCG03j2lCAah9gx9r4hciD-OsRvIP2uG5fM7SmnZgTkiYWmPR6Qiy89MC5q3fs2katNx_BoddXFikMVutub2eUemHG9eKINrY79-yFF3paHa5ITQZDbxUYc_3UIf4Y5awOkBVyOcsOc81c61bmFxERgGIg4KDIL7FC4OS_ZRPmy82g..%26ch%3DAQEAEAABABRdRR8BCEi3b3xUM0hsKhszDySFrZirLsE.%26v%3D3%26pg%3DQMTHBBMTV5BSZBBGW6NEDXOCTQ
+.netflix.com	TRUE	/	TRUE	1808412705	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUTHBapuKx1BLmptCT58tyXMq9ZvDOBOM.%26dt%3D1776876706315
+.netflix.com	TRUE	/	FALSE	1808446122	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+04%3A08%3A42+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aab28f08-0269-4c5a-8f25-312e033ac54b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774136574165&AwaitingReconsent=false&intType=3&geolocation=CM%3BCE&prevHadToken=0

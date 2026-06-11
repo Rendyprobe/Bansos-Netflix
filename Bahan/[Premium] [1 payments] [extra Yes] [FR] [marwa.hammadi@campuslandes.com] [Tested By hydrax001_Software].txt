@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anass
+– Email: marwa.hammadi@campuslandes.com
+– Country: FR
+– Plan: Premium
+– Member Since: janvier 2025
+– Next Billing: 2026-06-12
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33610789093
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anass
+– User GUID: SW3KV3FQNFBZ5H7UEVUNM62WD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056509	nfvdid	BQFmAAEBEPUEp8gukEDxQsK6awqP8Dhgg_yV7Wr8l1UwoacZhT-QBSeEEn7PLdSE9OS08Ykk3J_iPtexcKpippgBl92Z4CLvUT2_dGc-HCKLiEo5q0favZNf9Mn1PmpzimBf7jJ3mBb4VuDbsn0YShBHCAIJhizi
+.netflix.com	TRUE	/	TRUE	1786992995	NetflixId	ct%3DBgjHlOvcAxLdA4zUTj5GNDtXX-rMzO0pXdsewYyg5GUjac9WPxwt1dxbrH-JSOsykbTnwZ8qSP42Uebszzmyh3Mz0gfhbJ3DKeYCFjgKk8LZFnp49mkhlwLUwwhlzriLshTPUD0GhOT3DoOK2q4mRaK0gPQKWYS74QilBN0LWWQowvRvBnMaflicPGG20DDPvmxoE2B1E40AMn82TGro9PNYbvzfkPIzF25LsJSx-5c55DPxz4fzylW9EW2NBzEG_j0QpiHaHpoa5mmvmJZo4gE4IdTK4vrqyNaWDBhfGIcieAyC-e37MT79Ow0XjIq88iA_xEF6DDkxOAUv-kPLOg8rHQ0Quc35nV3KBJmI3zstprDtcyLOsqwmD99xdLzap_QLdZODS94nyIIsU3yuru8qNFdtG9PJioK-WNWR_3gLoxRyQPTmcBgYYVu-qu3nSL-0-le49oeozEM9fniNZpoTXyzvI5-26eBIoWmGAzUhmZ7F1LhFnHqi1PPQs7t2bk8gQH_nCsKxpGoAxqttQlopXR-alPUqdDjCkg7qP-E7mKqlFXXvXHpX5UgaFdYys_vo1gRGe-dBRN1KJ4VWmY3wo7sBhCY3OnV98SZaaacJ4jJ9DJ8-FEdf7CeOJpjbEC0dYOoNuhgGIg4KDIrhtX_NzUiV5R_haQ..%26ch%3DAQEAEAABABRmCBXh9UW4GIUen80KNKOiE-rkAX1nxpU.%26v%3D3%26pg%3DSW3KV3FQNFBZ5H7UEVUNM62WD4
+.netflix.com	TRUE	/	FALSE	1786992997	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+17+2025+20%3A56%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=378bbe6d-9ce8-47ff-9036-418bb0ad05a6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ
+.netflix.com	TRUE	/	TRUE	1786992995	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRU13bGYyBZH1uC6rS3XCsEQYi1eE3O1II.%26dt%3D1755456932135

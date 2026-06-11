@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Stephanie
+– Email: stephanie.lyew@gmail.com
+– Country: AU
+– Plan: Premium
+– Member Since: March 2023
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 0000
+– Phone: +18764090764
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stephanie
+– User GUID: I5Y733CMANCPFFUYR5UURRLN64
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808152411	nfvdid	BQFmAAEBEMUJ4fMgDmwG9dt6kGmCbiJgWuhE4oSOL1eldBEq8iQUnnFzCYPx_AUreGQpSo1sSC6_LWJZAjKR_ltohaqrqwx8XKqIIqsQcjQaMdXDhffSPuYg9heE_vsEOm832x87lLecwDJM4ljQVNWB_AGubjn0
+.netflix.com	TRUE	/	FALSE	1808327962	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+12%3A19%3A22+GMT-0500+(Colombia+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb9a445e-0835-4b09-bb04-861e3effabb9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776616411530&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808384033	NetflixId	ct%3DBgjHlOvcAxL2A5uOpYdk2LL2oeOwVK-RYamlJPTdLCnKJYt7_RqKVZEiJiU4qGCmr2K8Y-9SFogFNtWngjyZXYA9fM67P1DG0saEHSif-SmkQse3rtO2-vjfpaaugXjouydfMIDlvvgFdjVLFkSHuFKTnLooEQGXZrIKIX5mR5GKvOnNX-yzmBno19oR9FvNqp4iBilxqIK2WC5wx1IfaUG2pI8ZXve8Apbpo1J2zcQZdChlXloIwpeUVM78DcttsGQFjDnscKqI01uO8l_se0TO_T4vaoAnLII-AShW755O0M7Cr3q4u9klSj8ZN1-HPu9pj0Nhak0acnwMIT7mgeU6B_ut4pxQNkyMP9UF3orQer8GnFBfICwBk1GCRmA9WbGtk7hmuosIYfpti2daUCnouxSiJ3s-Y3CB_wstqD6kMlcUkcG9gMhxe9uGWdhQVvwiLpkb3KGVpz3dc_08GAshzp4sSDWtSKdgbVEXWieVCa5SQwnJAQmIxvUd2eDc0ChK7QShLBmKKvXt_K-gE4P4ku357Qi5RNMBplPOdC6GabWSrx9u-TMSizrSnJJIod-Twc7qkad9NzgaUOGG1asYi520TfEu0qZWIwzFYKsYJJwLA8CDXRjQwXxCbclANn7pTBrdkymlSKdULFVy2Dgl5Wxaj7VoBz0DqGlxT_cYBiIOCgzxqVH9oj7ckL_Amkw.%26ch%3DAQEAEAABABRCZHjjxBaHv7tvqnw9qiiWkbnsBKOfaiw.%26v%3D3%26pg%3DI5Y733CMANCPFFUYR5UURRLN64
+.netflix.com	TRUE	/	TRUE	1808384033	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQ98yqU3ZflCFLd3fTIGPCDrVOAnZXDZc.%26dt%3D1776848033709

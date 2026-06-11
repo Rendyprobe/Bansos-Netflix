@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rajat
+– Email: rajat220688@gmail.com
+– Country: IN
+– Plan: พื้นฐาน
+– Member Since: มกราคม 2569
+– Next Billing: 2026-06-20
+– Payment: UPI
+– Card: N/A
+– Phone: +919997174769
+– Quality: HD720p
+– Streams: 1
+– Price: INR 199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vaibhav
+– User GUID: IODHAPYSURAWHH5XMUJYPF5UDY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806468792	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA_p-j_Xa4nUpgAdkXwXFF9QYBUN3VQG-ZnLT98bDRaf6aUzsuaQOeNVQfcGyOpcVe_wdp3hHqzg7FZ9gLh3Qu-6ibD1PgddWAdjR1HOCXnLf5ZvH7EPRRRD7iMTUH4kj7DkqV5aUVmVI-1DUM-sDWMQogrZYtaTchWi58tuwmEQ44fZCzwemGsUUGW2eoy8a4Av8QqogxO8Ouh_PEhg9EJuhRnR_4f8owE351IkAxwJrGFArCUcqdIwjmWFNsgBWjDLrOv0hbLYdggB1VoHJao4yLdU1CuIjlrJga4ZKXuqROIN0Kd6sBgJMJKnNpQonV1FiS3TsmQBUqp4ObUeDZZ2onpL3g52lxvqkOAGHar_6FDeJDsLf6Zsr8GOfNpLpAL46ZMUgEUcy0uEVYjupGo4kK6P1_J8SYoXZRI7MhQkzvAXOKPWfrX658O4aynYaaRbWF3B9cav3Qjxo0A1t9JPnKHecxrL4gaMKp9wN3gQnRxhAz4rtRV1_L8_S9FostbTIUNrTs98USBot_yAxeNqtEOAkJlaMUi4YBiIOCgwsyp5WESakF5avhU0.%26pg%3DIODHAPYSURAWHH5XMUJYPF5UDY%26ch%3DAQEAEAABABS4ScDYyQGITQUQGV3qEYpCBmbOmu3MenI.
+.netflix.com	TRUE	/	FALSE	1806468794	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+10%3A23%3A14+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=013376fc-3b7b-4645-8413-70aa1b338e15&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806468792	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQkLGLvtsQdehxw3FHmVpseIkFGqXcdSoQ.%26dt%3D1774932791463
+.netflix.com	TRUE	/	FALSE	1806468788	nfvdid	BQFmAAEBEIXNcZ98UNRWCYjJPMyJ3SNgawtXX0TsL0X4qwXjUtVKuG-At7iWFzX0js3TJizr4BTo1gJ6fsDMlqjAdL-fwp_Dwy9n3B9PiJaeWrR8nATiTtgGEfU6Y__PZR9Mz3_XhQMBCPsI3HdXzCuzVYVvvY_B

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zhanel
+– Email: anelaskarr@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2022
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 5005
+– Phone: +16109734762
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anel
+– User GUID: XVL3RVL3PNCTHOZSUQJHS7K534
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793640354	nfvdid	BQFmAAEBEAYGO9v4LIaaAeG_OxCHAG5gPgjvNKsyv5BdLnOdjTMQruxmMpWIcV3oSnVnpQX3x_YadpZQhlH8LkTLDP4lgCGDJuxJXa404slc5BOki9pw1x_uyInpiRVhNwc7zW4-2QZ5DnsW-uG2J_lBO7Iscq74
+.netflix.com	TRUE	/	TRUE	1805232129	NetflixId	ct%3DBgjHlOvcAxKwA-qBXFY0yHh4ywIaxbZomJyXG7YU6vVjvWBavhbM5Z2QSqwlTJfV80x3Y1FPCsjt5ennT3APqz_C8soyU-c6G82W7HNxOOwgsVaTl7EqgUryZmk17i3dQCsoct0a2-eY0seD2brsKdimmzVnxM73vpVrWQBLpMYGDO_M6g8UfOnvcicrFwyTQK2usBoxXrsA8CynyoaxL00_bKSmQLvEO9tqg3sCbArfy72RBxCpFvkZPB8qZTofM_ptM9lgsLJjIKGTs1DrMd_WJROo_JlyctG5f0rNq5NM-Cn7nl9Tp8bSmg5vTcWWdM5ubNk2rw9HK8TwsbqE5OPyxRKNyHZkJbP40bKRGVSrspqcScGJ1eYMc2Gtmg91seT0LVtgigbRNi952IeE2WDqVQ0loHpg3gFc8yxiKlQZX2pRIJyW7p8UHnQZp-83XoH7fvC_YvlEf0V_wKLijt38HLw8aYYAyV4Mn-L32GqsCmM1jgs4UAYOIjlQK1Rg635YFcGPWxoZvJfwzf1Tde4yst4qaVRBheVtt3TjK2YTLNT-JfkZ-asGhm3z8HqBtAQBNOXSaCkjaRgGIg4KDKHhdmzeymoleO4nwQ..%26ch%3DAQEAEAABABR3DIEQ5AbYWo6pG1nkOqPDxNFYoREMQyg.%26v%3D3%26pg%3DXVL3RVL3PNCTHOZSUQJHS7K534
+.netflix.com	TRUE	/	FALSE	1805232140	OptanonConsent	isIABGlobal=false&datestamp=Mon+Mar+16+2026+22%3A22%3A20+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&consentId=130588ca-2f2d-4818-80d4-1c9db3e9751c&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&hosts=&geolocation=ES%3BCL&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=2
+.netflix.com	TRUE	/	TRUE	1805232129	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzOOnsLF5q_C_c_UMeGeIQOS74Tnze6X0.%26dt%3D1773696131928

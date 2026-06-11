@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Laura
+– Email: analauris0628@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2023
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: analauris0628
+– User GUID: 3GDOFN4B45ENTDMXSDNQWUMIBQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807602783	nfvdid	BQFmAAEBEEsvVt6YvqrmpP_jlaUVDGBgd0qP9UPCF_9R2MxCxRGwK4EFDWN8Sq0X487umAQ8g0I3wSe7fUTLs7P5oNkL-xk6P_nCaAUqzfUiMLnf-xC6gLfSlYU6UbWowlSmNawdKI4sTkwwloyKUGvLj9ggPDhs
+.netflix.com	TRUE	/	TRUE	1808100953	NetflixId	ct%3DBgjHlOvcAxKDBEnZB1NqTqqcGe9j4DRqVl66EKKpvKzpd4F_pOl2_yo9i6WGFtSOie1jMCK5u6ca6_8OHNdP7zPsC3x8ebHfK82mPB0oPJ7UHy3FOOhEt0WJNkh9MANz5PbubWXWoqVw_Uwiy_1nMgg4tBeTqPpZVdJ41d52mFZiA_EZ5qt8Uq2HEy3XF6Vvx2GvuZPh-2seU2OFyNHZU4CIUzLD9ZRJNglfOZeicCax7O-gaQlbbbWgE5ytswSxo-ia4QCiyK3hmg3tjknxpTWtVfZ4jS4dAqqelf-N8QB2jLk2SSTFSFkv2wOHTGIGuZUTbnA9Ew29YqBf6grvtbHxXyBHcGRtFx-bo6kDWKD8MerlUPc_iLdwhUTi6ZNtaIJpg3CNSphf0vIJk45F3Ae9qdjvvoG-To3Ah-nPEjn5GS9d-fvIl3sl18aneiAlVEvg3S17uWQSS7S13YWzvOhPhYPzPvk-3GIuKgd3AlGxY3u3pZPiso2EqN598byhOD9jQuJdfBLh61GgtbVzUdRWD9r6HC3-EBg3cc8El3ezZSP6dvRiEer__qydWw0qWNFTrjTfDl85XyCELSS4_0EsCygdGvCZ2ovDeC7mgRlk9wNKXuk7gVNgg78khsvIVfqJfd4q5ABulXa1kFY2luGBDhQS_Pk1hB7hWK5dJF0gfXSKswe4AeeGv-t_GAYiDgoMXbRkxWX6NoP-TWNd%26ch%3DAQEAEAABABTgfq8VoJMmW_pD0BLMlgIxoe6I7ksKQMk.%26v%3D3%26pg%3D3GDOFN4B45ENTDMXSDNQWUMIBQ
+.netflix.com	TRUE	/	FALSE	1808100954	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+20%3A15%3A54+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13be82e5-7134-4826-8166-6a7c370a7a67&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCOL&prevHadToken=0&crTime=1776066794042
+.netflix.com	TRUE	/	TRUE	1808100953	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLKP__DOXi66k1EYrOsQ3o98vsp5coUNc.%26dt%3D1776564953502

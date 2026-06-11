@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: La papa
+– Email: florybon@hotmail.com
+– Country: AR
+– Plan: Estándar (miembro extra)
+– Member Since: abril de 2025
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: La papa
+– User GUID: ADNWCJA7RNE45EZSY5GQE22YO4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801258732	nfvdid	BQFmAAEBEOfA0VpvR8E9bqe-RdbzAqtg3I9HPujr5MANMlrJKCp6eqLkqtUqgD6ASPSXyHZ-SR_aJaWqD2HUUdaNfqTsErErhYMOUJ8xT-_T1VMLl3IF6qFJE8rxCC5uQWZggm05mmk_9HfY-7rxCpjyE99CHrKn
+.netflix.com	TRUE	/	TRUE	1809913826	NetflixId	ct%3DBgjHlOvcAxKIBK4yA6kuSSDCPwFPJfH1Pt88DOwaS3cqIf54YXbEZaUD70LvJ9zswsDk3xK6F7NG0C4I6ymhR1xlcWX90dDX1gk0OmJWnorr9rYm_knSdeT-0-gZbyy9_UQL-rzR9SLBZjiLnSY4phK3C5bHMXKN8FRDWYSVtSHUULe5Y0iynCsDl1bxmW688mqErkCsQ5JXJ-ppbghsrYdupCLKoGL2qxzW0g3r6BDogeRATtBSLvdMHY5fZL-uQdaI_1k5lFbjWEvwlar0AIkV2_gQrASDdRRl8EhZldgmOhYoWHWTpv1N4K2PHeeE6kOxGPi8C1T_kqjM18Ww80yKR6o5oB48hSup1U02NVdDfVYStx883pLoD8vlCic04r-K5YB0M5bxNiP7kKejlOOYNJzAQVivcM7lmlHtyaXMRDJ3H1gfMW8WtoZvcyjWustmDQBf4LMNqN_A08rm49gJYNTnElGtlvKpHpOwtxz-nXdZw3w-PUlsesHFdkxqgjPGcECkR-RR6CQd2BMZywxaJTesJStjcdJcsomc8p-4fjW4ckkjMzWGv_VaLT0-r2IXm81roc3Wvc7SP0ba_fDv43CjFk5PQmdayDyRu9zdlOvIA3OqySXlyD5CqBYbbs8NA5jYBToMF1s_3CLHIK5i6wm7wrG7mlwDYpn2MCMgD5Y_Ms_h9jlXXKCMGwVMxPQYBiIOCgyH-RXiELm-ww-MkCY.%26ch%3DAQEAEAABABSXYqmjLLrrO0_cbam6q2UewCRDhlQvkjQ.%26v%3D3%26pg%3DADNWCJA7RNE45EZSY5GQE22YO4
+.netflix.com	TRUE	/	FALSE	1809913828	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+22%3A50%3A28+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6940ba60-e388-4fbf-b852-8ebe74b9b3d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809913826	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQSDD0_ZeB74CEavZ_9imwdTzytf2u13hU.%26dt%3D1778377827601

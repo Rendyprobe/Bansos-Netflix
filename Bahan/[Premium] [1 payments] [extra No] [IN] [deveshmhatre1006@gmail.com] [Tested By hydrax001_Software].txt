@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Uncle Sam only
+– Email: deveshmhatre1006@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: April 2023
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: +918422954868
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Family only
+– User GUID: SZ7ZI6FTJ5D35ODMI3NM752JMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792426246	nfvdid	BQFmAAEBEJAX02Pu5MWl5vlhaZvJgQBgNyU0hqQiwdjaOLLy6GFZCSXh4MCXEpNy8qMOms0J5nSEPsXMBZbVUORxAvwYeKolUSFNQyAFBj0WxyVRbF3YQss7ZPXuHutY_SLfsXE3E5ui8tKN3niE8hNr5DunhuWk
+.netflix.com	TRUE	/	TRUE	1806911225	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA29pZ-_-tMugHjbEt-X51y9hxwVtf_b-E7FONXuTlKVsg1BGurymUcV-5q1lS3kkd-saSm2Vz4a5C3WNo3ZvjPFGpuXjVbzwEDuquo15ls3XDF9tX4lVCzNVqFrzoWnW-en4cpZ2Y-pz5L8-a1jWS4_U3poB5nVLkddYTGBv25SR56q6Lmp3ItHSKg2By7l7rHjrpGL5gyg-t4H5mD5yEyDNL8iZxMLSeBM2bw1YOtISRIqTo7rFmWUtep4LCzWJ4ItAriVBwCiuU9sgMcHfOzQdvE57CfXGc2gDG8YhCNhRv8kAz0WbIEuzMRNoB3-ItpzJz2tOjTr9eUsJD7169YvTfYmwo4t2KOk9sRAqMIb_P4wN43znDkATMqQ5p4XMelXxdT9CQY3sCUWb8z4rEEYbo0uO6Ch51EGBwm0CG3JHE-YSQAXygEU5-63iktoxpoGSmkU6ASIvMk42gt1JAHiK7IfbjcpcOgTsUnD_WyArk_ZB5FML6EUkOLY94-CMdBDkRoMN2S06lY1OEZIl5x3FnFJOCUv56RgGIg4KDBFVqCCPmDyP7Fz9cA..%26pg%3DSZ7ZI6FTJ5D35ODMI3NM752JMU%26ch%3DAQEAEAABABSpxCoBdPFVTlc08vMuwMDSJZeboi3Q0o8.
+.netflix.com	TRUE	/	FALSE	1806911226	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+13%3A17%3A06+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfb0c071-4b51-45c1-8af2-8db46b4d5732&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806911225	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0ue2RaDQZ-O4YkUu_6pGHCP16TVp8Qrc.%26dt%3D1775375224886

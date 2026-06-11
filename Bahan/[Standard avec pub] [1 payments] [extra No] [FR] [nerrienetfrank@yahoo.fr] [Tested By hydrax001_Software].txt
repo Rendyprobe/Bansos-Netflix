@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Loic
+– Email: nerrienetfrank@yahoo.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: février 2015
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 0377
+– Phone: +33645905179
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Frank
+– User GUID: MFDG7MTFNBCQJEJOCGILPENPHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803061542	nfvdid	BQFmAAEBEC5Ghv994Lpdamm_wGOxdhFgqkVEigLTWylggn2gwLnDBapaeipiTlz1stVsyoglysZhsWLv9Hcl4L4Vgt0dz7ZItbi0fzknTyq9ewSbHaMQQW-_XhRNYEy6Q1lF9VZEBHCLf01tqLUGU7To0ovM1vHv
+.netflix.com	TRUE	/	TRUE	1807608067	NetflixId	ct%3DBgjHlOvcAxKEBNjMUiI6qJNF32O88WMbZBmPWc3U5M7S4_AmOxEaaYuuq4C6T9LGt1Bf84LpU7jPVdZ8bI5zDxpzrIxXZ4zRg9lt1jUfwg-j5sJiivDq0MkeGyAaWpKj0FwNXBs0n_x-80ZYQkmeupZ-lqyj7Am9CE3ypwEN1Kn_1fch0CEO-wzpZhcLCNgqzbR3LtpnOILcICv202qchjs5r0l4Ix1HYqDSpQxv2MGcPkVXFsSPyIQDUiAwCqQ7GBKny1-xydJt2aj5GPcfZNg9zki8iIa2RWmD2Z1KnEW8ieE4ccJb5i9wP_8revH_gcPNw3bBbmviF4gySob18T7E3i6mubJQpBVDiXmcTutA2uiI1sJOaW1k6JuosE0rzgasaw-6zpnegwSXpqzn7fOgig8jp6WK20saUFlY7QwHGALdjW7epGpQd_60xz5LS17kKRNWzW2tpncdEcmyDSrxg_pSXNvQS4d5Dip74hK742Ptm155Ip9E72WHPVOfO0WT9efnRcc36oj3yJCjxMzppvrORJxjoqbBXiZnXfw99l2EgT_f4sst1_jEhLlOZINq0RfhXyYexopCJzlQufIpqZkw5nUd7FwEsMNfzczVrOF2Er1USfyMA0rfidYKFZIBKJNB0QgSmis21Vmug4MFTs4i3YTyPP_6gT3I3L0zH8Nj9yh378Di_aDkqhgGIg4KDCdOZi15ArhaErn-Hg..%26ch%3DAQEAEAABABRhOQk5muj5O3W8rUKMtGlYNYTJjZHEdy4.%26v%3D3%26pg%3DMFDG7MTFNBCQJEJOCGILPENPHM
+.netflix.com	TRUE	/	TRUE	1807608067	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaCZtp9DJp6JuSMyNW4lJvpRqSkFaJTWQ.%26dt%3D1776072068581
+.netflix.com	TRUE	/	FALSE	1807640930	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+20%3A28%3A50+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd1e4b4f-2e7d-4967-b7b2-886b69988d0f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BNAQ&AwaitingReconsent=false&prevHadToken=0

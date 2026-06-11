@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: NIIKUN_-
+– Email: fitaas520@yahoo.co.jp
+– Country: JP
+– Plan: スタンダード
+– Member Since: 2021年4月
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 1063
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: ￥1,590
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tomota
+– User GUID: BQUG6VDCOFAOFMP2F52NV3PQOA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803283616	nfvdid	BQFmAAEBEFAh4Q-ZSZKSzgKbJwwJrypgFrK7hGUMximNxC2BDl8Hk064UQ8UMB9kWRdQPcEA1kADfKPZXuyVYQcViVpvtqNjEErIo1GVf00GzWkpVMo9CJ0g7j46Awp6j5xKVxXtf8yhXYgTToWOcoUryOqFQheh
+.netflix.com	TRUE	/	TRUE	1811518690	NetflixId	ct%3DBgjHlOvcAxKGBDPfzQyE8DvGsyq4z394fYFoK3pAJ-Ltu9YmLlOpbWOTXylX7mHJ5rKUcWUqGkp6Ua2kmoisp7sl8mHqpYfuw5PY1LvCFsvZk1kHGebRVXu_yGOMd9-yxn8dIHbnJBQ7UqPR4XtGdzPLqwOjL_ntIF-0k2nFHEZREU1LSAhTolSM3hr7B-wCVr3Qd6n8QoytwavzeTVzepmxqI3E0S32TThpV_NB9u7CkndjRe-PP7H0yVNAWC_YMXmHmGsq83qYLOPdE58HJ-rlzPiMUq_EhdBfuE-d-2gV8-3RzrOl4Oye0T2mAQhTiInpqYluhxcUVEIDVgDWf2slTi1PYJGb8dtSk3nzuerjMPpuMohUctMg3QfAtLpkk_vi3lD12k8yixMa_LU7OdRy3DdglnC9DQTjrL_ZFWcuX2dzIZOvAZges40xhUDpVnj2yOD7yZI0bRaj8e6CrDn3OpB5ISEIBcSJCkE94FQcbl8ieGXZuQgTx4rqnYauAbBJZhsijlTKlayeO92i0gMOTOQl7nIUO1jkc4emPoW5Kriph9iwI1qY-LTVVxsHcPOz5-VbGVcDQv78djK1KiJXevASi-08d0NVK9CSdOjxjr8lW1J8qucPi67-toj70ZpnROk1yiRuJeUTbn3Mz7L8USxak-kY_lxjz499QoXTTSQSv0SnMejYNS278kFUGAYiDgoMdNbEBV7q5hEv__MC%26ch%3DAQEAEAABABS1MR_DY86QdzSKHsMw3hFPMqu6ca_o9Tk.%26v%3D3%26pg%3DBQUG6VDCOFAOFMP2F52NV3PQOA
+.netflix.com	TRUE	/	TRUE	1811518690	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThPezf62NHfEBnI0P6ka-nFx-9JU7NNmg.%26dt%3D1779982694678
+.netflix.com	TRUE	/	FALSE	1811518924	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+00%3A42%3A04+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad66434d-ebb5-4e1d-8d46-86ffb7dc1ff0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771747616593&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

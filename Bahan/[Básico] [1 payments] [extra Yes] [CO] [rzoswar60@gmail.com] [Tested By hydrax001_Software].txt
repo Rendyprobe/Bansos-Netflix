@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rzoswar60
+– Email: rzoswar60@gmail.com
+– Country: CO
+– Plan: Básico
+– Member Since: marzo de 2026
+– Next Billing: 2026-06-09
+– Payment: CC
+– Card: 3474
+– Phone: +573142876027
+– Quality: HD720p
+– Streams: 1
+– Price: 18.900 COP
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rzoswar60
+– User GUID: BNO52EX6WRC5HDMFA7NY2GVXOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806345978	nfvdid	BQFmAAEBELBuoUThy6QCy8DKYpUKD-pg5RydfhBSR0gZsA1iXJj3z2YrQ_9krzcqz91qmo-7bw1fbBo_JEhwXuhhKj5jIunglFhdaxrRe9ucCGF_Ioqhsj4TAST_c0xpYmI1_Peqc4FucIxs_dToflDU4gD-KUAw
+.netflix.com	TRUE	/	FALSE	1808528675	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+20%3A04%3A35+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8450682b-67b2-4ee2-9092-9be38f6671d4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774683284101
+.netflix.com	TRUE	/	TRUE	1808878782	NetflixId	ct%3DBgjHlOvcAxLNAzYGg6a2MJB-0tWjVmEW3d7iFnCimyd5TQqxchctDWnj95gp_aX6f813Ul9gBmE4QTZxelNBcx_gtuFFrDxoq3s97Mdaa8MfExRBZLJjGSbbLxEzHkChc6EmT396BTnPmPDEDGK03Cu7BLVzmZuKB2pxLA4IOy_Yrm2EJ2UJllzFrZYxr8gqNvpEEjG03FcNgZYkGAbsgB9Yh6u6yfqsFmdEodyIqtkDGZffxq0dnP8iXD2kjqEeVqpzuukPJtALD3Gx57ZA7_OP1c9lsqGVdn_qKvwhzZG_pBjX37cq89Yp7RE4ODMquYR1pjaPpW8ygKV3w3wqdLkuWFmgJihsm4yuat281D7WlHZe_s7pherajP3QyHSQUYAP_e5xVGAvEfJDGt2ycuI5A1bJibgGoCl0Mf2zb7IAuaIxiXl1NJuSMKm3k0LI7--DdANCDsoR_JzbhmwIgWk8gwsKNdlWlMLu6C2OCnfzc9WITppa7o6cXSEMweFIVSBDC6yYLppcEvzMEsq8s3HxJ4xUa9otrIUnGFJqZvGqlKczHL8N3bpbrh1J8GM-32JjHDW6j8QfuGWvIUiNp5fRxu2afAqTj4O-u-9wTuriETTECnUIGAYiDgoMtWy5wPDgjW6JjmZn%26ch%3DAQEAEAABABS5__pYfIWj7WC-8i1ZqnJ0lHlsZz29xsk.%26v%3D3%26pg%3DBNO52EX6WRC5HDMFA7NY2GVXOI
+.netflix.com	TRUE	/	TRUE	1808878782	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSAl-n8x__wzbhbF2L34qm6ihH5Z8Y9VM.%26dt%3D1777342782962

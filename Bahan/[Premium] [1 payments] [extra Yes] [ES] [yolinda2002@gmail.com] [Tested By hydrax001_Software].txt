@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Óscar jr
+– Email: yolinda2002@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: diciembre de 2019
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7446
+– Phone: +34616450079
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yolanda
+– User GUID: SKL6L6AYNVFQXPQOW5SVUW5WBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801223317	nfvdid	BQFmAAEBEBbBiefJEy5y6yo8E1QyJRFgoYd_x1SGDoWIbCnpWNrodUKBP-VtkmCeAGKw2mqOqPgSgb5oCFpx9A7xKhlWq7VE8KOGEJTkF58fPOETKou1A0XZ8Job53zMc04DgVNy7S4zYYQmTeSpkx4hJdV3jkZ8
+.netflix.com	TRUE	/	TRUE	1803740469	NetflixId	ct%3DBgjHlOvcAxKvA4Rh588_slPEIjuuQf-yhDl5hQsezBmQNudzSSN2Di8cj4gy4N1e2fb9X9yk9FG7SdT_PF1sZgrz9Kutn85uGLJSaCbHzqKJ0bhMWDQ2DhJZ0YsI0Twj1cc3toTvUccFJm7Tu_IIbc5bqZT5OftVDS2-My7VJY1QpmH4a9EJKUiypFsG4x_a96nyIGCcwXDK66zQvxNb1hCQaZLPgwbF3KZqkVOEia7gobqJtdf9BvvVpmFnpG8vG2YykF-eTpHV4U1743E22pOMf61sq8_SqN_JALgD71reU2eOjeKdNFmp9m8TBCUuoc-gJCUobf1jd0vWI6S1Z2lp5HUB4Fp9z5zZQhDMlFblkghtQOgg_ELUPad8oyhjWDpUqOgo-HNd0iXlpae4PkTcFB1qr4dxQia-cxliT-69s8iO9Ln8rUUcv1evOs2tsLW5p_Jilcgu6WRiE9P8YVXymt066UoqLJdG5vd9DotNuuQv3ZgbZegT964LYL8PiZiMKixapeSh5vBRNQlQBp34NGlGr_O5B7r1XkwN6Qe5R6e3AYUzrhUTD1hjcBOgFwQ126-ZhzviGAYiDgoMOTotpE1qQR5BoPy8%26ch%3DAQEAEAABABRS0cgzu5QtJqXaO7qqZIACdYrO7QD_Erk.%26v%3D3%26pg%3DSKL6L6AYNVFQXPQOW5SVUW5WBI
+.netflix.com	TRUE	/	FALSE	1803740471	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+16%3A01%3A11+GMT%2B0100+(Hora+est%C3%A0ndard+d%E2%80%99Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e43da028-e963-4102-81dc-8d4982c7085b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&crTime=1769687313335&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1803740469	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2bs94_intmHyxmzix1_B6Gbm8z47Ma7U.%26dt%3D1772204468674

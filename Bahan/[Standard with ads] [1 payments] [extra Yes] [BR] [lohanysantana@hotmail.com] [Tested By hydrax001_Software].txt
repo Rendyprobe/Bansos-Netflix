@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lohany mikaelly Santana Duarte
+– Email: lohanysantana@hotmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: May 2026
+– Next Billing: 2026-06-25
+– Payment: DC
+– Card: 4129
+– Phone: +5513991281447
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lohany mikaelly Santana Duarte
+– User GUID: NFKCCZOUAND23PSTLPXDKEVUUI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799982424	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcAzxBUcRBsQ_qXbAlbZoGzrffNCRT56EkElWgZ2KNRe87tikloeJNk2ALhFWrb-T74_iyy0pjRc51X06ppIc1P60KAkewHFqUi82mEHEUlp9uV5An4VU5UT6SP03XiSW1o9tkQ6OMc3zIQ94dk12Yk-oBW2aJREhWxoa97XHAuJ72uaEYnHJFuooxd73yTrtGT7FS9-4eilQKbJlwQwINCDR20Ox9Ibzqj2Zvh0ZS4ixiNrncZOiC1hmcWKfq4o9YlBX9cUjBINtNSe0C3B-KyE_j_Zm404RG6-u7ebETFAvkGvTEDa2Ek0g6JDdUTMAH6Rbp5RBlJgU3mk4TL_YRRh0chjvWbPsHbrwZ1ggDqRKL_wq4stIeKZ82pv-kgwpmuZrUmaBZ7_AHPdHVCdmAlAg2PwuaitP8-F8o_YVmKXYBcsKy0FVBECIA3z8DfiDX7_KGZRZrKonZIcKisLftTTuDyMx5oTYA7f0B3lYPp4Uhn1WoOQ2CbF2b4RzQfsNHDXUMPeY7VBaoNGVVIvXv0Aly7XhP8lOvPZ0JdlkYBiIOCgy8XZ87Xn1tGCaxnrU.%26pg%3DNFKCCZOUAND23PSTLPXDKEVUUI%26ch%3DAQEAEAABABS6v0eCADkcYL4Bc2LRMrI-wwBmHAvqngs.
+.netflix.com	TRUE	/	FALSE	1799982424	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+00%3A07%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=497bb50e-b3d1-4a43-9220-9bafaa185ba5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768446374981&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1799982424	nfvdid	BQFmAAEBECn6uQ93tVDF6WE-kIQYd_BgRgsDjLqRqFuix1SZXE_dd_cvehb765RvUE2P1m9986XbtkQeUHrZITpNH4pZFxY6LAfEfdx2RodK7CNAgHqJrBeUHgYxeIXHNpSPXVKYBfj1D0nMzbYcHA_aABObS1wk

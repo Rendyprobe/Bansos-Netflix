@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jacoo
+– Email: mariahu80@hotmail.com
+– Country: CO
+– Plan: Premium
+– Member Since: September 2025
+– Next Billing: 2026-06-22
+– Payment: N/A
+– Card: N/A
+– Phone: +573196686136
+– Quality: UHD
+– Streams: 4
+– Price: COP 44.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LUCKY
+– User GUID: HTTRE2FNQJDF5M27YKFT64XTWM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801107094	nfvdid	BQFmAAEBEMSKpi1vT5A3G_q4z0fga5Bga19LGvds-cwuXZV_S-xv6X3CKTMOmE4bmbX4zqQo_BnKqPZ-_TggcRbM1NyIIbo5ExIUTI9UEf8raer0cspr5oj2WKiV3iwDX_tR0eibLVXDH_LD4u19wjWqYVIKIh8B
+.netflix.com	TRUE	/	FALSE	1809144371	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+23%3A06%3A11+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f690901-5717-4583-87e7-d0898d60b197&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809292444	NetflixId	ct%3DBgjHlOvcAxKDBDge1NwHLl6RQluWHO-P7gASbj-rcGmcfVff_CVU8gH_Dr_PuoLK-2wLHEVE7k8DXkprV52d2z1oGY5D5p_ft8OcwvdSrvDlyyCO-jDfa_swugIiYJ_nWYmPwc6ApUTQskUtkBrCn-35W0YlwSzEn_UNnMbo5VitZNfu2yZPiaOLvhnvg4XYJP9E-uaaOBCSqmTeS8GO_RdSMSzjhec_m40gFytnzxCFFTFJ-3YtmjyfkUrP4PphjdeiPKiL2p_-bI-qlFPLWxk_-VB9A21WrDww9LSV0vLze6jdW7HbKnyh6b7889vDjDzvK-fmyS5HY6oJDq-8W1A6ox3h1rZrSqvh9Br_GpDeX0lGViDOWL6RzgKrsnL5RsQOCjzPTNJbix7CQcCJLBScyI2Zw0o1ahihhnEcav9_FOfSLdG9fRWX7BmtQ8QDGiRQ5zMDRI4E67JYuF-e_HsQvoTm7r-XQ3NSjjD1dSDKpio2GXIlJAF0k9UE3FqL3W-DiglDh-PvG0I8-gGcU7iITP1xYvj6vGb8jCxCdoZVYFvWdIlYM5k2awEWUa8xn6GZPxcUfJCbv6jKe0viHbCbrClUp42SAUsyXdgZ6st9pDQ19fXMv8IqkCw4VL7AS262nckHVRafSHcMv4v5fhKjdhnQo6eN8LF0IVvzO_6mfMGFPgwrO_FbWslRGAYiDgoMdOmcar54afW06L0x%26ch%3DAQEAEAABABT8NlSaKobv_B4ayQLkRzRA87IvtRAp-tI.%26v%3D3%26pg%3DHTTRE2FNQJDF5M27YKFT64XTWM
+.netflix.com	TRUE	/	TRUE	1809292444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOPgThlQuVhmBtuBu-gdexlQxZsJGbzHc.%26dt%3D1777756444516

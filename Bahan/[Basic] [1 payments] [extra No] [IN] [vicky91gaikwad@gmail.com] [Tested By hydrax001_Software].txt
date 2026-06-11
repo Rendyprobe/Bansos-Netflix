@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vivek
+– Email: vicky91gaikwad@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: +918655156939
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vivek
+– User GUID: 5WM2CGLAWVAO5M32YPDEIOGPMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806182689	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA9OJhLSKpp9P301Pfh5FVStGZBD_dns8S8XscQeljWuVZ2W2HOaSTxdYxs_ZSh725KtFgCCS_g-VaAM1pU66dt22l5arMNUlUySGplBqpsl9lquRNqD10klgeLNEdTjGMZdeDxKU16NtFNxtpc5jGN158DA09MTkLE-z86AxFuFnANjVE0Lc3mRxh9rE2FmvxFLeYMLVSBVqoW8eHJKt4zZ7Rmc_NSUc4hfFVOLDS0VP_fliQR-s53FgYbQGJZKlq29pyKYm2suimPUBE_kXnrlrK59CnlopKnGU9-igEV-yZVEVOAPi9M1qdCNY4-XRblum_NBK7vOQQY7EuNmUg5uQ4-Z3APX9UBMNrbcayiXGq43O-CNHDTuixw7bZmGt3D-vx7SKxoJiPYhBmitvqsWXnqHonO97mARMxtyCScO-w8yQZYlxUjqAbPq1hGdfavrSvjfcbh_GT1KTKQBDwHnZl27fhzmSeW-U28nrsXgsofk2qsyghAO9fQSHYFtLOi1xUyewzbQTQRcuUGX4DFHECfJcuQpR6moJyqz2NjYoQlgYBiIOCgw80lY7RCyqYm_xduA.%26pg%3D5WM2CGLAWVAO5M32YPDEIOGPMQ%26ch%3DAQEAEAABABR5gDwc3X4UJHGVtnjwkz_b9A8kzI6MFts.
+.netflix.com	TRUE	/	FALSE	1806182689	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+02%3A54%3A49+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=665256cb-6cbd-4877-9f24-a2e7e8c15842&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774646658767&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806182689	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5rgINzHhnl-JMYBVBnVIisSUxq_cjG0E.%26dt%3D1774646693518
+.netflix.com	TRUE	/	FALSE	1806182689	nfvdid	BQFmAAEBELvoEw8dByW2u8PpsObslctgxrzkLhJe5ewM6a_GUxFdYIj9_glW6Sz88wa0ecs35y81cdTF5RBQ79cEKA_ekDqQBfHyFrUkOjplsUGrs5QoRQ1mp1HtN6OvCD-K4sdk5EAFYwrj7rbxouALDfSgw-Xc

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Debs
+– Email: ds9606938@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: março de 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 2679
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lili
+– User GUID: SWTX5NILY5AVNF56XSVNIWLENY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1841945086	NetflixId	ct%3DBgjHlOvcAxL-Axl59qTA47zNGL3GEJj6A4z0xLO43rjUKcuQt94J0eY_1-y7G2IWRBoIMgNb3hHc0TkF2u14GrtNeEen46gc7SgoWmm3bUnroV3xsvMBBbLjqc-MHFpH3dbsK9xQl-C_FZpeWUUG7twzeQI9UPnYavzWDv1Zw8yPlftSbWzYVz84iSWMsJS84NLwwqy3v5gj6jypc9VOncOcdTJEaXyZ_tRj-I7Oe8GZjteijFBH3eFthOsY9xwprPi2gUc_LCsCthNfPOQT1mL4Zf9yO3hAshFtEzaD8xS2qH6--EFlhENI5-ZK2DGF5PSh9TbBuFRzqT9VZ_CidWAZ0Hh9y2Ej4uhgQ5B46mI7cWH3lbrV7T1dP-GLv5G2zNHbfdbsPyyAq0ew9LRc8yeQfZsKndZZK9ntMyM_aeAIPulsg-XfN5igz4C5WnyYOBE7p83aPuMhdCVaJmZXTfwQgLjVIVfa9aDlWC2ZJRbHpKIQnw0eaQiC0ljVYm6T2FCQaNTGSnK5_-aLuAedbh43K5jQD2RCD_VQjs5oCYFeDO7KiSxtXg5-xp-2AJfEk1s9eo1XaCQQDp2FS0DvKCFVI3DMB4FfhmKl71FHo-Qwe7-99XATzmBA5ZCZl7dBVl91J7OFdA5WzI4_HwtsZvNnXerNgYzhaH1tMMytnA-xNSpIqdffGhgGIg4KDPK8sdBQL-yO726QyA..%26ch%3DAQEAEAABABTyBR9dJDDaI4bXONPwnI7YWePGDlVXuUE.%26v%3D3%26pg%3DSWTX5NILY5AVNF56XSVNIWLENY
+.netflix.com	TRUE	/	TRUE	1841945086	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmkP2D8xfkjZCxR7_KCMWtSJN8PH9D2CQ.%26dt%3D1778786685821
+.netflix.com	TRUE	/	FALSE	1834436445	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+18%3A40%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89979439-e58b-4111-8d1d-5f314c2084e5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771277868587&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1834436432	nfvdid	BQFmAAEBENLJ5wCpQ5QzKRQSmv3QKixg9AwdzqB6SfkPfDBJwxOa4hsiNr4RZBFvQou7yGXkz5MV5-gMDGPq4-6NvJt85HRzWl8ujuVof-Z-Ie85pHYhJxvCXVmNRgBNSxTkTlRRIqqr2ST8nvwjg3EHU-cFyomt

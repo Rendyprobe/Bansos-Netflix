@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: SA
 – Plan: المميزة
 – Member Since: يوليو ٢٠٢٥
-– Next Billing: 2026-06-06
+– Next Billing: 2026-07-06
 – Payment: CC
 – Card: 6575
 – Phone: +966551990898

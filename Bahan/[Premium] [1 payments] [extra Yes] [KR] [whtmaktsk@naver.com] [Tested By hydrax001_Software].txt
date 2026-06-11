@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 박상현
+– Email: whtmaktsk@naver.com
+– Country: KR
+– Plan: Premium
+– Member Since: March 2024
+– Next Billing: 2026-07-06
+– Payment: DCB
+– Card: N/A
+– Phone: +821091727926
+– Quality: UHD
+– Streams: 4
+– Price: ₩17,000
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 박상현
+– User GUID: 2TBGHBSTGBCRVACDBBLOAGOH54
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792837279	nfvdid	BQFmAAEBEBtA3fRjaj5t5NbwzJlj93tg21IdZFP2PAalB2kKDOaWS1q1ZgO_8p9mKfU0kS19Q-j1X5AWzxmbyqafH-DPkw8GwKGVmlqSlem2PIsggf0Huat4TZ-i0M_uD32uJPyb1oyD31fof2ICcQBNZcuFV2tb
+.netflix.com	TRUE	/	TRUE	1808318288	NetflixId	ct%3DBgjHlOvcAxK1A-fFFsQmhsUA3iLpUnL42-BdLRvTmfucSKrvUeZuK_HjIw-DzRsNSuFF-jLnXjpBdreqCi8Yww5oq5bORpxQsMe7zlqIpV4Fit83pRTrw7ObW38wDoZ7OZQsdEzZ7ch0zrviUrl7-ZLAE3_Li43Y45ZX70GYiRNchjEDAxn_ZLYhp5WFzi3Ohfg6eo_RuaBi2mDCsahBZAUPedHWhW3m5gNZr53P2IcMXeR306IMdJ29_BvMjnCNJ3VYZzjlY84zK5Q1UV69SAkknJAOGjGImV-q5mHIPAgs9gBCBvH3tMjTu6QXKa21VeOnXXTNfuCbf_jH_cjtjqJKGpnoQvCbMokXgauFgmnoJVprUYsBFRvLKbb0E7d4wa-q7_mbYYR4ntFpqFvQLC-xq-b989i8ZxlEOraSmq8HdP662BsJRti4KbLsDOsfHFL9vcQgKT9n6jjQQQbeo9mTTJp20kmwQgRHYkwy710bcEnlu1d3Fyzam6A3HqV9ejbPXSnAypm9738wzQ3NR-3aiVZzS0IiP1A5j5jqtaUujMCo6FjpIyQs6Kos6BXGgJK5a5EiF4inEneFAe23GAYiDgoMLjkodFhJwsr6OK-t%26ch%3DAQEAEAABABTPJfXNXqvzOBo6sElk1lYJuX4cUhKSd-0.%26v%3D3%26pg%3D2TBGHBSTGBCRVACDBBLOAGOH54
+.netflix.com	TRUE	/	TRUE	1808318288	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTx6ADExE30FgbS_blSgGxBtn41DAkSmzE.%26dt%3D1776782291345
+.netflix.com	TRUE	/	FALSE	1808324796	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+01%3A26%3A36+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ef5861c-e5d3-4325-968d-ee7f72de864f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Enrique
+– Email: kieth.webdev@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: February 2020
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 4075
+– Phone: +639495122531
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Enrique
+– User GUID: BYOY6XM54RAGZLEACNE2DQMYQA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1788047670	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDAwE4M9cwOCdlNEKjK_kDXyUltNHfeIoUgMZsnM2zHMS21tyL7lBJ49bEN_s4QWflUTJGE24mWLNKR6cndEcFcdNm1DywyD0-ZAcjAzIXJtnOgFqMXWyCmltRcl-ew9fGpMV93uZlApRMVlDGyzKlMAXVjcYr_CaB9oYQIv6IbfzT16X51kzqfyTLgHY2tiVxtzSMJEmc-A-gLhTQu7pBspS6yQKr2g-_-HMSWwo2iac5gtMqD9Ax_dI6AhQAKLjPXTTUkx6nscBdYTVSQqeC4xxrDGPHDn55mFBT71l3vhJLT3ePnDcyaYey3-jm88Qj23ZYINl0twDeZUDSPPNu5cEdiJ99QTLKRqqAUZbx4B7eo4CfAvJ_qT1TReGY50xxOkeipURCri5AUt9tk1Spo4FaIjNvcjjFMXYqtOqLh2wPjGTJipDa-BLICPG8ciKUijY84ROePWK0Yi2PQiHmYlrp0NemBwVjXABU-yQuyurhZEYMhzfbnTqf2zqJH_WO7uDv7RgGIg4KDCCzAr-bPhH3oRaJvQ..%26pg%3DBYOY6XM54RAGZLEACNE2DQMYQA%26ch%3DAQEAEAABABTSGZBSjvOzorrCiYz4qAQrKi1VLukjRbg.
+.netflix.com	TRUE	/	FALSE	1788047670	nfvdid	BQFmAAEBEMEjrYME-zG2FZ3j33ln9AhgpgEGHiGci-4gvcHvN7VZMRH5YJDbm_2-6B53rq0zc_Z69MAvnJmmCr-JaI5-Rlu2esfVSje4AgBPL4ZELQQB4n_olEf68di9I3bNGqVdiBRZZuJdC4xJZD49LaXLayrU

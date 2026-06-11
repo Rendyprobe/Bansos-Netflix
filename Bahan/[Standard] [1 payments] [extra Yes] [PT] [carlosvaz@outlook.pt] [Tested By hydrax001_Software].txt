@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: carlosvaz@outlook.pt
 – Country: PT
 – Plan: Standard
-– Member Since: abril de 2026
+– Member Since: April 2026
 – Next Billing: 2026-06-12
 – Payment: CC
 – Card: 0950
 – Phone: +351933825213
 – Quality: HD
 – Streams: 2
-– Price: 12,99 €
+– Price: EUR 12.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

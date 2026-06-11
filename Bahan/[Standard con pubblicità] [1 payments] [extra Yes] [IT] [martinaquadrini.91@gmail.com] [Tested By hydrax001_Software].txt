@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marco
+– Email: martinaquadrini.91@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: marzo 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 0742
+– Phone: +393398435757
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Martina
+– User GUID: 4DMRIUMJPBENJAIE3AUYLS6U6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785652275	nfvdid	BQFmAAEBEGC3fIU3wiw3f-iiXbXEXHVgqoK-Hkj0MiSNpE4jsrxxIz1U8ZxlVST5d21VQ341KVaI1eFI4Q9xWOZqu5ELezgVvLtEM_oRA4Orn_wOGAPUbGobp8e_SrKerlVc-XAgvcVHKrQ50ZapuWYELnqGhAj2
+.netflix.com	TRUE	/	TRUE	1788594137	NetflixId	ct%3DBgjHlOvcAxLjAzJ5H1BZbsYym272uHa3r_lOJYna6SPRrd88m3qugnmN-UFAKwbG3YDndGvxgmnYhrN0AtXEffv_TdqdLCrO2P_IUHdCTkyR107xrmvLjh5p_DvrSBrtzTCofuBCfpLZu913032p3Qe67taXVQp-BvlyRKzUtx8-Kp6cVKWOsbQuv994Nq-7NtrZ2EEES0TI39a0IGnRVwjGspPFWyMya0-eZwO-3g2OzJaXRYojDIjB0flfRd_HCWSskUak_vK3X-LCw6Vu6Umx9i25oyAkSTvDox-g67N-o_KhmEacnnxXXo-LkRp-lYngYM2P6G-JDqReBRX6xy2WumHi40V8-ftFmEO7ooBz_zRIPOWkZN3p4DXDMMitqgBw7D9EgQRIW7MV1-hBNne7pRYoGmPCCqsSySauGFvWMtOTJbSS1tnd3vG3xTnx5YhU4LVXHZK6qpnvys_R_0XL_OI7cWq6bveHCiU9Zveis1HQluBzFYQjXIouE5RYRZ3xlnob2IN56jX10FO_2q9ATbggXUihZFMdGoIfAPAmh2FAvszZdYF4fapjv6bRWOOM_CQSf47h4pQcLwa6DhWEi3YZlDF7caHAYOeIfBo2vwTB4KO-rznuLAekb7TEc2_FZpa28xFrnPiXRRgGIg4KDHxv9I7_Q36ld0JmSw..%26ch%3DAQEAEAABABSGFv-Xo15tiJIrs3gHdmNr6AI8cq7Ih-I.%26v%3D3%26pg%3D4DMRIUMJPBENJAIE3AUYLS6U6Q
+.netflix.com	TRUE	/	FALSE	1788594138	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+05+2025+09%3A42%3A18+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14f3137b-4a1c-4813-a3c1-760cbd8dcf61&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B57
+.netflix.com	TRUE	/	TRUE	1788594137	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTpP25OT_s9pFwRCRSTVzEaOHJjhE_tkn8.%26dt%3D1757058119566

@@ -1,0 +1,27 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: David
+– Email: mhdlanoria@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: marzo de 2023
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 2315
+– Phone: +34617388801
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mhdlanoria
+– User GUID: 77CPCNGH5FGCFHTCWBPNCN3XEU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKFBCk2n_sVWEXsweRKqe-QmJwXI6b-tiJobdD2SmPB-YDYCGdBPVWYoNQiiMYNydS22OYTUkxhk8tqB7RX2EWkeftZTwrR81F6Unb31PS8ul4w8HDCSQJYHSozTRnCXIYnouAMljgY1kIfdvECVWOEuk9cjIAVayX0EdiSa8E7AUm_mMaIBkRU1DbonO94lDKpBfSUN2vCydUbK89xleX5J1JNIzUqN-XDfugpyXplheEV1dfvjCJUgHkY19bmzQqZkWQdP0SnvYsvwpPzvZ8BFdHq_HjfjJLH5iDcLdioKgNXvwefuzG7zvrKvdjbgg4oohZQ5TzyfDYWw3QOlINu71cwRJoVnj913whQhd0VLM4A9Drw6G6y6Z30PVXPq62r0_echRfWydqtc9Kj6ntXBUJ-YkshkPvnd8RAOnBwuLDlxMZnM-l1uOECI5p2p8IiqibyBm1TDpVsGGQBNME3x9iKsIzd2-pNr48MUkmmpms3QCgBRyV_IFOYZyO2oTy7xOVqh5s0_N2t82vUTjffQwtFM01SnDVPqTX9QB52JzUCRsNxQjhwaDp953rc1HR7R5CVwuJ1KIFQICkJTqroFfNgsrKrbLmYFd99z2OfZi2bR12rSeSrP1HfdlVcltDNo529ywFOOY2EDPLj_WcTeH2LvPVl1nhxHEJBJwjr55iwW6Kr0YMYBiIOCgx3gJJl4Dqblq7bSLY.%26ch%3DAQEAEAABABRMaLRPefkjJU6hl7mBNbbMs3dnM6rroiw.%26v%3D3%26pg%3D77CPCNGH5FGCFHTCWBPNCN3XEU

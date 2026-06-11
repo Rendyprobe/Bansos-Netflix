@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Venkat
+– Email: venkatbogavalli416@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2024
+– Next Billing: 2026-06-27
+– Payment: UPI
+– Card: N/A
+– Phone: +917207730416
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Venkat
+– User GUID: HR6DM57OEJHKZOLQDJIU2FI7QI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784455119	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBAy2RBEEFEGJbCwaTJAPnaAw2RMZSJ7qkAVDq1Rz5lWhmVs23CGqV-AD3P0wz-xTWmLlzeSeJnSuoyCywGi6hz3XCAzwsSD0wKo4MYuScyXuuapaNXgRuXB6g41l4vsOZNjXXQmlqo5lt2BDdOM9sLpLhpy_0ThJel8Ix24WkPbC2cH7Qkmtdcth9EgMaRiC4juaiZXVE-M8d7o_1LE6H2hws2QpbRkhlXUmUST_VMQOqtNFYKiQgk8aRf8D3b75Wt1ZIzefIzs4_YdxlBQ3IjeRg1KR7pJdLy_G3_lJcyDY2ogXQe89spxyUo6WjLrMXxCU1X_BTSjvoOyoJx9PUn5YJqth7nDj4FZdrkRWNfwEJMKH_shfeWCIaTRORdevKIiG48owQIb42clTpy1mhE2s8Lcw6I6ubihbJ6upkqLdZpDeq6bwXedHhkdsqpFuzkWSgbHpQX_iQTGRcGyTndsDWSucCHdCmgoBBi8f3KLdLS21APqcJdPR6nWb6wnDN1pYYBiIOCgyOuu2uxwUfkKVkdQg.%26pg%3DHR6DM57OEJHKZOLQDJIU2FI7QI%26ch%3DAQEAEAABABQHV1yUICUoKkvnqeDUatmKgbfwBnO4ny8.
+.netflix.com	TRUE	/	FALSE	1784455120	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+19+2025+15%3A28%3A40+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6ad727a-a863-439d-81b7-afccfe506026&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784455119	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcgzbD6rkx2uceF5NTPH0rK6Op9jjt79k.%26dt%3D1752919120651
+.netflix.com	TRUE	/	FALSE	1784455119	nfvdid	BQFmAAEBEGrtcA81mE3QfV2KTdtSHAhgXAaBGpZPkVGzGvX_5KYzjnsXaZeAZA-WzxnSn8d25qaWnXggc2bAwwtpY4dmGkF9ZLqWuvqJYK48ys5sSGh6Sfdanz0FTukIYD-rB884LFlj49aqf37g0y4MIlXSmJgb

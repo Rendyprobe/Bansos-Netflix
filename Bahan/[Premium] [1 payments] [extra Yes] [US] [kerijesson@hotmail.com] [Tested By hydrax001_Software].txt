@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dantaie
+– Email: kerijesson@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: June 2013
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 7995
+– Phone: +12068191002
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Keri
+– User GUID: GQU6HHIXENGQ7D6QOOZXAB55ZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796014449	NetflixId	ct%3DBgjHlOvcAxLgAzUMmh8M47X77LyZkRuu4wg5XjNwVcJXgvO0AWfgD6sdVVg22e2sFIL4dosul24-GDZUHXWZRAXYPIXQQ49aq1hvRhNixgHX3RTINQxcZzbiW6nKCbb6C4F_eh0L7n8vA8mqNQ-jogrSGfN4JHuEmNjeVq6racmjpP9T5J_4rHtC6L7wyO2hGF2o3AiBNR2DkgylwtfPdLm7J94Gdy7vzwArz7bSvGu4SaWWw2KsoG5jD3i_H-byi1k669FnCFpDaZ42PCq8r87XDEhVjhbGZONLXrUxEVd5xrhnQP0Zj7Jhm0P15izPlkOj7VrLFW7sryhui3yZEaGE2M-PXmXxvOyoEVyigv8vjlxHJSclaRYJMgfj8nmC75g-Eo1pfyWTeu2JscawppxB2i9DaIpQup5Rf3jBoJ3Udz97IGektuv-eQU6RfwySBTTzenhZTb3UJc_OVdu-KzCxI0B3wgnjXiAiOaysww9g5Rbbzd05_56UEXis-jRS8CqwGvJbFnsT2T5O0Uk2IoM1mKj5gd16XPE7oXArGv5Thunk3XzuvQtO9kjBxmk-cVEV18qob0Jo4nZ9NPXsu8OI9i7uMQtdneMjry-Tm-Mq0PocDAEVc9WFDaWzwwBZ-YVb-GybFYtZBgGIg4KDHb-fub3VghlvvP0kQ..%26ch%3DAQEAEAABABTE1RdJUZg00Yls-4EE3JHTbMJjGsKmma8.%26v%3D3%26pg%3DGQU6HHIXENGQ7D6QOOZXAB55ZQ
+.netflix.com	TRUE	/	TRUE	1796014449	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRYF_CrP4bZ9p0emOvl11LAHYUeztmJnU.%26dt%3D1764478448815

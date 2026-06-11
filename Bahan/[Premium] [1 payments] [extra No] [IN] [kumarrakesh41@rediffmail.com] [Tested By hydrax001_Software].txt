@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ajju
+– Email: kumarrakesh41@rediffmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: October 2021
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: +918826495437
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rakesh
+– User GUID: IOJQ6QRYARHQDMKQVZZ3L6VUIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801925631	nfvdid	BQFmAAEBEM3KEP4-O7CEj2K0OOYM_0xgGQYba1ly9tf34O8pn6XKoKqLESCybRBm-ZtXQCP5EL-LNkQkNvcuqpDBPCe_PVghnYdX5guQSc3vVibiRGsy7Wi3DVJDOx3fql0XlfYRkBfh0Ondf__Mob8aivVe6s3F
+.netflix.com	TRUE	/	TRUE	1801991730	NetflixId	ct%3DBgjHlOvcAxKVA4-Tjv8TFypFQm2qk1SCyEoGhVUTF1Dd4hAtOqnT_ZbQkzSMikWSnFl1K8Y5FbWpVZCgA_fErQQlaFA0PD3oXnJIuXAqEqFv4rMp_AZp35K8abeyC675toAKCsnJPsT5flyq4oJqKr-FPwiXCODLzF-qtcW1wvlUugoQPPuiLUgFQqhxyCho1AnoGPavdSbIxp8Lg44aDIDksGzq8jr82gSSIHVeS-bXGDuMreDJXJ_eAD4r_gUQMYawtouYOuG_w_LPPwJ1DFIYySsJjIqN96RLhE0QeiKO0EhejudcBjY0AJsPzVHr7-5JWCdjVE4oAl78PtFxq4ZFJNy6PDRdA-yHLERqEPMct6AVFE54lhG2-9CSL6YVwUkwcbe10Rr8w-J4hVq5NUt1443zvEt6t_kedpJdGY1FU6HG_lKr0ekAOrv7q0pBODipA6wYRaVHjLrqPlFmwHjrXjQWMBbopwcpDESYVrttOf0xk8LthenczT-2CuwTpJpfWO2vUohLSlyEwFTLuMqxrjg6Cnzf-oOifzsDnRgGIg4KDDa7RFR9FtKr4w34dQ..%26ch%3DAQEAEAABABSI7EZpOarMHSJRUuBKpb6KltJfeUk90I0.%26v%3D3%26pg%3DIOJQ6QRYARHQDMKQVZZ3L6VUIM
+.netflix.com	TRUE	/	TRUE	1801991730	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrYzI2WdTb271LEI1OsV2wbxQhizbVQ5U.%26dt%3D1770455729954
+.netflix.com	TRUE	/	FALSE	1802015274	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+21%3A17%3A54+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42b850d1-3218-4bd8-bf4a-20d5ded271d3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770389452685&AwaitingReconsent=false

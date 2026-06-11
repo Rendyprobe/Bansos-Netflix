@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Memo
+– Email: Yessicamariellmedinaroque266@gmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 1597
+– Phone: +528687964818
+– Quality: UHD
+– Streams: 4
+– Price: MXN 369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yessica Mariell
+– User GUID: Z2GKNOEHGRBHZIIHF7ZFBURBGQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809124193	nfvdid	BQFmAAEBEMKd4x68AozosrJlP7GykUFgLSvJ_9pqck-kMpAxnbxOZk200klrgoLQRVRiX5OevWpB69t5xMUXbBD82uZg-KfJor7RUdDdVsiOcXK5XIE_A6w58GxlcOygh960A5Jf1woTo73xqTvJyR8v06sD4v6O
+.netflix.com	TRUE	/	TRUE	1811141086	NetflixId	ct%3DBgjHlOvcAxLmA4k1ZDdD7OmtiQ7xsLXujDQDZQCGxMdpHDZpT3iPV2K_ojcHFfPQIjQzBsDR3oksPLUVbTNPdCrw5E486U57P7jXAS0AraSbmNuQj6l3ltd8OcpSTvJZPeztgyjwimJpVIgXB3ZPS_dCBCNPLHYQxC-sDpYXkKpbpdgQ2RgOXthhYIkWvllXjwO34ARoycuodDodHWO_Kz9PlP7cFn7dH0DjpTRYKN0ok68ctq_p0hkJUvIe1ck6qCCeTp5Nkg5-i9doxCZ-gCTL8iTIvBxWqfyMqbA6qyl6k6Mbyk7up8C2hq9xfxoN6gn35AlBtT5cES5EIPNpCh-P1xTXIo6U_I2W5km1tn_SvZdTN2OZ-RfOvwyPGWpCHybpiF1ZD5OarIVEKmhOeGE4vo27nF3kR-IjPOxec8cVkC1_7AbEQP6XpGaSN9y7T2fThoyUqy-1p01oGs1lOKQ2bKF0Bory-zKBcYwzpWY3LSlJMRfbV_MCkd3HvLGL6mhGX02oEG_zRATbhNI17KBaY20KRVoTJZGGSc25ioTReenED-Lh9Bt-6Gx3ynvoaLDPMJXTZlYiiCS5MPWYpZ-vcQOV3V1y9MB6TVakM_bauBjctpMrYL92pubdBaWrHF-Gd3YB9YgwRJYgJoXWdBgGIg4KDKO_pS8lZoy5zYsl4g..%26ch%3DAQEAEAABABS_ZrdTJa5gGMy5c5rrxb6RNii7PTnGIWQ.%26v%3D3%26pg%3DZ2GKNOEHGRBHZIIHF7ZFBURBGQ
+.netflix.com	TRUE	/	FALSE	1811141090	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+01%3A44%3A50+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=54df7e17-e3af-4c26-b19e-fc981dee7666&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775507344224&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811141086	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsr7MCUbU-UWAjmaUk3yvUovwlYCJY7UA.%26dt%3D1779605086884

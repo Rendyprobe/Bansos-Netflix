@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rachel
+– Email: elkanaza87@gmail.com
+– Country: UG
+– Plan: Premium
+– Member Since: October 2018
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 9690
+– Phone: +254711561704
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elkanah
+– User GUID: CFSSHCPOSZFZ7BSTFAC2XHLX4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799400565	nfvdid	BQFmAAEBEI4lECnLm40laM95jfMbvwdgaf20Z-I-x2oMQwIpepS8dRh2avDIKFizI2KxwJAUI_oZNW1VhK1vOtQ6kJmbzqvfTWQ0S4pzWdu4gs9orlp0HU12H8hyNKrB9p7wVo39mnlPjgd86hJB3XdfCtCjX69A
+.netflix.com	TRUE	/	TRUE	1799749393	NetflixId	ct%3DBgjHlOvcAxKxA2Xjl5GRtVfN22FLLot5Ucy4WMgF43uwgg1UUUy1Ev4z5d57vBvxUp8FTh_MlYIgU_JmPvHFaabGRLuCVOMBLfpeB0bqTXpONsTuLzXDwMVb-yjzK8aIANJiLL9hwQQCYbbuXo5qSh9NUVPk5yFfBQKDO1PHay-ETEimaBlrQs9gdwYR0EKItKiSw5c1Vk6rhaGQASp-Y4omV10xGUoOW4jlzn-d3unznsVd4ew0S7PfjetIUEl_Y2QzQPk-37S1ZxWSwUodTLmMXGzhf24l4Ok0fw2HQlMfYQzMtMc-hMs6q9TZc3f0AikbOpC4OW0wH51u106tAQrbmKoxdaH15oNObGaL7l0LIY9rR8HFmTMB2-ZZDBvUJLHNkHP1XcyqmknTri_SEH6VFQKuYIyvr-ILc5P1xTxC1oW89d0jZShtIAoulTQNuNLbneSmG5AquIzKjXlb41-s-RaKo1D7sIlwobT6urFgxxPhwvJ0LyJ1PHhP6o8giANxdMUXVlg1P_Un3Fd2skuuQtFDpumfStMXvdSY95KsBAz-G-Y2FHzrxKmhv8VH8E-JbwqdEWZsVncYBiIOCgxE0fI1KfeTY0-_igQ.%26ch%3DAQEAEAABABRqcwkX15kXMv643fAxXYKbEP-3DYz52NA.%26v%3D3%26pg%3DCFSSHCPOSZFZ7BSTFAC2XHLX4I
+.netflix.com	TRUE	/	TRUE	1799749393	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrRCMP_0wu3D_zY2w2E3AaDKH41yGrCE0.%26dt%3D1768213395079
+.netflix.com	TRUE	/	FALSE	1799749489	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+13%3A24%3A49+GMT%2B0300+(East+Africa+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=caa74784-d626-4c41-b536-92a3a7c0ab9e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

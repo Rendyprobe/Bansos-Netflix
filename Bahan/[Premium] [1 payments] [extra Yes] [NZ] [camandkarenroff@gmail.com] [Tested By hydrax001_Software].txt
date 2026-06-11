@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abby
+– Email: camandkarenroff@gmail.com
+– Country: NZ
+– Plan: Premium
+– Member Since: July 2017
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5228
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: NZD 33.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cam
+– User GUID: AZHFIRHZIBBQ7NGEIZ34RANXIA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783545584	nfvdid	BQFmAAEBEG5LSeQKIqf2vsLU57GLUeJg-x9xwyrHcO37NEAn5heWRnbFr64aCBwwgDOKCH0VkQ6ZHHxpbWq_5rThGHyOBFF2_gxBYE0VZ3Ae-Jw1ZAs_mfPsx8u7UdloGlDs48xbuO3dZHdpYdDlHuGYF4-wLd4S
+.netflix.com	TRUE	/	TRUE	1782190781	NetflixId	ct%3DBgjHlOvcAxLgA48hMs4FK0uFyRrsGYBmrqMinsbJSioJSCdP5IiRbC04HtC6DoDFfiqBQKcmEMaLigNhivzb0Fj0nvIVoarAeqo2Q9gus6uTg1pg__kNoQqnK_YSgL6ALFx2D-NZoNuK1lrD4BlMiL3WYYHkJ2tPzhyjMTU1-JwcNVVNd7OFRc2gK_jXvjxIeLoCf7ruWjl4HVGH2DwydGfS_7AlDDu_d7KmYoP_eWb80vCEKmnG1y3k-Fh4pTbdLRphAm5joREvoLVl1HOu8Duh7Yc19v9aU1LDPCd-78fs-aPgWbSVPNlJcGu4oGzRbsajPjNgOzjCnNtg7b5_FtVL2e08FqJLp0huMmgC5Lcwn3UA18ztoGYeufRVWOV_8MjyCzuZRBhSssiL-HoYXcEbxEJt0yapphD3fy0VP6rMzKvfBX5k-tqMeHnAryECNhLG9SVc_uiZLW2TVD7_t2CXWl0D80dD4H1-asjGl6LmptoMgZ5KiI7C3O_c6D9cTvdwZfrGNjhm1cdw5hrl0N-TfR68oK1-GitBKWzkDC9sYJjh49nxTmgcFndnRvMyqG01YSjBgFMbKEdtOr3eAzS8HeV94LyMlD77TI4DK-b1uWXdjAZngonOGgu-Xkfzctr_VqUDD4bQAxgGIg4KDJbNyXrDm9Ze1gtaUg..%26ch%3DAQEAEAABABSpBCVyDqUhDG7GkCIRfWUL_OO_sG51QAg.%26v%3D3%26pg%3DAZHFIRHZIBBQ7NGEIZ34RANXIA
+.netflix.com	TRUE	/	FALSE	1782190782	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+23+2025+16%3A59%3A42+GMT%2B1200+(New+Zealand+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42cf0728-c821-4c27-93a9-b605c23da8eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782190781	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBhnRrNhul2A3fOOTM3Yj3rChd6iIeX8E.%26dt%3D1750654781164

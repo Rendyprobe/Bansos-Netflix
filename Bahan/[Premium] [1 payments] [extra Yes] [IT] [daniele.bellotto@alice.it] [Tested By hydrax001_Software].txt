@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Romina
+– Email: daniele.bellotto@alice.it
+– Country: IT
+– Plan: Premium
+– Member Since: July 2020
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 2111
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: €19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sara :)
+– User GUID: RL2UOWJO6RD53KZ7Z77IUXN4CQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1776544336	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+18+2025+22%3A32%3A16+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=814b548f-1713-4a63-8270-e9922f9efb18&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&geolocation=IT%3B62&intType=1
+.netflix.com	TRUE	/	FALSE	1787870296	nfvdid	BQFmAAEBEPCAzZBkEcGeCAC5AbEhRstgNIdirGTCc4-eZPDIymYXzR0zA2df39e8KBM_f1Hnycs-ut3qy7PAnVANuhScG6IHOZ_6qJrmFb00vxlUxwSvqNAEbMZFDTzfIV53ftjOqRi4QwBVbTVYwyEK2OQhUXn5
+.netflix.com	TRUE	/	TRUE	1790885602	NetflixId	ct%3DBgjHlOvcAxLiA5VZAtrDVUyErLJ6UnsILLI06YOV-LbXRdJAQhclQoLGVSYDTxIHtVYO6CSGORQ8moD41_IVwUJtcXMqYgJ3ZfW1t72HrQVghoIAkMtCw1S-trY7rMWJ0Ebq7ak3yUXuC5hYBqPNrCC907OQ9ZyCVlcSWJ1vd_obke7ErYLjxgDAmLeGKGPxPIMPWSmFF4tfH8svF5cezxur7gez4RiDuXdFUpWwlT8-i4sT-wl0vfgXA7M2rwhNbdktj5r27_Huf_ycuDTFqPUnkO4yn1MEp0PbjCPA7miEEOF0LwXPOCVb7dGmstysWqT12oL2nwzVN4K-vADDjXtdr15LGczKuVy8uylz-yXnENfjXgEaDSZUyJp8B__yo_qxLobWsTzkBdRiWCVJlTG4o48zBG1oj4LZ__jBzlC2AweR13zff2PfxN7ukNOXVB4H1U4eWqAcHkWR-08bzzKfyKvFNU1VQp9ZE7Vsbc2n-1lSr0iGPKo5hEh_u5idlgJr9vupn6WiJHQn_Sd0lR96TrYFsN8yDoJp3hZRkiiKCen0bm9gtNb9SLI7N2n57neEOuRvOtrO3oMbBfKQNGKs7r441_nP4FjGLHLhBsSnvrrOnWVBwamiI2AndrhBFU1np9pJyr4WqYEsGAYiDgoMHEAqdkBrcMMI9dci%26ch%3DAQEAEAABABS6w_-BBF1dmCEsj8SVlGXvLPpiIuU9TzM.%26v%3D3%26pg%3DRL2UOWJO6RD53KZ7Z77IUXN4CQ
+.netflix.com	TRUE	/	TRUE	1790885602	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZg84A7V7qSYI9wmMrg0OiTHuxjEMse38.%26dt%3D1759349609137

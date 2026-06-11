@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Roanan
+– Email: roananbragadauneau@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: janvier 2025
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roanan
+– User GUID: 5ZOKU6IAIBE6LFMOU2IDWZWGZE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807630467	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+17%3A34%3A27+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f22b9a7-c0f1-4cbe-9464-70ad1a554864&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1776094436851&geolocation=FR%3BCVL&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1807630467	nfvdid	BQFmAAEBEO-gEZSaqKr0CAT60CUowihgjeHkvsEXRSw29PiDTIPIdzRBiTi_x8ZI5OG4TSdhjxsN0G2SDJJxICdcPkZv_Py9Zml39PHSPwjWcZWEP-HOL7y3qjYb6Ubaf6jNnSYgSegNJrrcJuASiBx_JnDC2sex
+.netflix.com	TRUE	/	TRUE	1807674423	NetflixId	ct%3DBgjHlOvcAxK7A0ofNperb8_xg7hqgjYxNG5slC_vd4lGWhDmda28OQ8ED0W7ywExgSca8Pzwy2pnKQnjZ3civx1bankUMd5RWzu2BDkVskUR5FLaDMEM2_NUapGLaYx3fGz9AX3iiDcsQ4ia8Al3DXCCeUdKHn_ARdneA0cXe_J9nn7BTwXPirBUxCAgCM4kFyTiW8wSEUeZUTuImVKQBsE7DkxBiRkxhla1zh4rjHi6HFdelj_p0kmCCM9A5lp_RxFyfhGCrUqOcgdSe6W82ff6kPGIU4YcK-KHP31aCLPaB9Kdn5U5KZ9tS6x-1OCXQGaWAKZ-BSxbdqa9yEan2FdniN77fmAnLQ72xRZZgtROazlJ1ifpaen-fbVJP2JLLKr6gBUoX89_iz3RPsuXSGntPv0uxpYT1bY8Jjs5us4UleCWMujcEPTw8MzVx7gMbv7B0sVd0SguRO2iOhM26_IF-NBz3hI16palumQ3S-MA_VwfTdrV1VCM6k8N8_kRbMOxeTNSnKUsh_G2rkE2L2Ji5pM36z-D-m1Y4iEhHv38HK_seEfzhJE4IadA61tyKvW_78Yta2sKGYLfoL_ptgvY2EBRGAYiDgoMaafbipnkwEgom8nR%26ch%3DAQEAEAABABQnMeDp7yGQuLP2KyEN97P6CrRccWI5sY8.%26v%3D3%26pg%3D5ZOKU6IAIBE6LFMOU2IDWZWGZE

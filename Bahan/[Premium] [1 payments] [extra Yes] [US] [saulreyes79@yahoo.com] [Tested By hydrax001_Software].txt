@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Giga Chad
+– Name: giga
 – Email: saulreyes79@yahoo.com
 – Country: US
 – Plan: Premium

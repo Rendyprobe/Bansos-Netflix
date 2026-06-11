@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kids
+– Email: george.koumparoulis@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2018
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 7008
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dimitris Koumparoulis
+– User GUID: JO5Q5Q2GUBGVDBKJMDOIUFGUNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783120838	nfvdid	BQFmAAEBEEmMZJftOGWn3vTnv1lgAxBgy9NHuvJx0vDkUwvDbkMv_L6C7SaBteCU3lB4nsUcUDhv8SAJGrP4IMqzUuVWaiY-c3yS3GrgrWraZsxa-VBvQHPyYcjfuEPYjq6gPFG40j6S54tp_SvQiUNGKZ5MagrD
+.netflix.com	TRUE	/	TRUE	1783120838	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRMXpcGdK6atu4N8kCWZXkmNF7btvCp9hc.%26dt%3D1677916455747
+.netflix.com	TRUE	/	TRUE	1783120838	NetflixId	v%3D2%26ct%3DBQAOAAEBEBvFTDx9EK91Vq33-qeHmDOBwFjKFNYKPz7SjHpLtW_5c6u1SX9P6B2iT8Dita-x5BkS7nhzo4ul2bIkjJ_JUMofJ58PEQTMpRxA9KYoIz9zI-KiH8gxe_-tq1EO_MqxBh9i_QBqCoUk5ffa_NKU9AMyWYu37tFWin5QDDWc4VGkhiLvcyv3qnGid-HbfqjudyUozp5-bAAYhhKq_7YtYz99T-ydhho464lWmiY7f_IufCd27VADQISYCUT384J4_LBuPWrVUr0aLaJN9i-xHttFXezIQlOP1F7nARTOlhOqjngClEkxRUzrLcwEsmUwUq4-UKMlf8bgC8FpXCkDEOhdmTF0GB5IS5ObBOv09rbyf_rieppcR6b6v1UKsb1RxP1I3s_WLza0ydDqyswWSq7xD_LEmAbMRfTId74g3sa9rxUYAlkrzmK8lOTbSY2y5UUAR7EA702gb9vOzl6jPg41CzhfvKLghSCH6gftLtCFTV_GnrIqZmb1k-Lt8GKyFMB6ZQgkE6jN6rPQ7H36gMqSVeDWQLpBf39Uczm41THC2sEDsXKLstezMo9etUXaXn76z42WaQHfHEeL6Sul_LeOuTgGrDbc3jwYysRzMU4HW9M.%26bt%3Ddbl%26ch%3DAQEAEAABABREWxZUJyOHKLZ2F620wkjrRA81w539X9I.%26mac%3DAQEAEAABABRo9VsAxpbc1D7D7z2ia6aZ0tTfxPsiKJo.
+.netflix.com	TRUE	/	FALSE	1783120838	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+04+2023+09%3A54%3A19+GMT%2B0200+(Eastern+European+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=4d29e9fe-b328-441b-b70b-4e2866d291d5&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false

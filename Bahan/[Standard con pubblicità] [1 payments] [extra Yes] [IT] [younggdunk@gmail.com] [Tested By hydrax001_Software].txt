@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: andriy
+– Email: younggdunk@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2023
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 9466
+– Phone: +393247448911
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: andriy
+– User GUID: OMXUPYOGAFCJFJO3JIGASRD4BI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801245877	nfvdid	BQFmAAEBEM63mVD-bbjn9PJSyzNO7GBgnaHcUUVvjHwfYkQFeVZaoA9pBhbQvtRUSONMyf7r7CFOB-cYEv6X7oXQoArb1OasQ3SEyAdPsbXWKeejrR4juGdqE8zsXKTBJXATamDBIOOVji1Ss8l6mo96FcGC74HZ
+.netflix.com	TRUE	/	TRUE	1808511243	NetflixId	ct%3DBgjHlOvcAxK9AyIun4uP0WHNJ3-UJ-B8hL0DarnS-CaE-CfM4WrD0G-t60f2ZFsRDFN20xmXRq4jAKJPeBEgibYGd3NCizFthPQlZOCxlq6Dpmj79ei_IwEDq-5l1Swolth-w02SKR9jLUii1ArvCFcqeCHzxmxQH3nyEsd8_8RmNPEWXMNHV1LxUZ2KfUNvtjWXy1Q4XzQpKJhgowMeHVitR1dCT8ec_1m1D5IB-dn9D76I61G8u9DjatTUKhOfI73J1KMZEknxxgMof-52vSUGX4gnTlxWfiK9fEEvmA0NX6FbHK7lGbYUXLQ9KUaFINd9aAJkZTMS2KwZK5GkIpDvU3kmmlQF-xzfj4rnM4tdOFSElygkMR1TKezVtX502XP0WJW0Lf32rcVDh3EXzQ_HubeTMYyXjKIwqh6YZH-oPTXM2qYiPeKvZ9toEkdfeLXaFKr281JmvyQqYBXUc-5ISgCOBAsaunRB-nchiU44e1nVX17n80KjHEWuoKE8SiRwJPOThC4v2d4r0TQtgOtOzUc180EzSN0bFXaDAb_-qd9r3DqgU6R_GBxVIL831g8C8R5hc6Z-TfWj5uiY2qgFtGPxOCMYBiIOCgyt7N1TUzvNV_3o3Gc.%26ch%3DAQEAEAABABScm6_zvRYgEPxLcPIpLynvbTaM7BDf3lE.%26v%3D3%26pg%3DOMXUPYOGAFCJFJO3JIGASRD4BI
+.netflix.com	TRUE	/	FALSE	1808511244	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+22%3A14%3A04+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7be3e757-161c-4821-a76e-c4d128a10966&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1769709808968&AwaitingReconsent=false&intType=3&geolocation=IT%3B25&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808511243	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-khC5ctDkFqcjfPnX1b5II4Wej1YN6XE.%26dt%3D1776975243417

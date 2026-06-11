@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ali
+– Email: siemprearantxa@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2020
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +34646830356
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aran
+– User GUID: MS2OCK2EHZHVPCGSHQC6POY5NI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783281192	nfvdid	BQFmAAEBEJNLeOLUl3gbMewqldzyp09gPsULMVwKmkpg8ZLeZdm2GVjz2Gejxz6Dpnd8PPVTgLNSErT8zSLo2DM6Z0tUwX3SlhmVgCrD7DTr9OovKceUDVQb334H2zNcoS3nF2f3GBhWL7OexCvv0HoIvSi-97ob
+.netflix.com	TRUE	/	FALSE	1783281192	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+19%3A41%3A53+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=a762a3fe-43ba-41ad-bd9b-1147a7d5e9ec&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=ES%3BVC&isAnonUser=1&intType=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1783281192	NetflixId	ct%3DBgjHlOvcAxL_A_lkuelOB5yhITrTTrNI2op9IminEyVhUDjxv7PHahmBpf01KRFD73HzulltF95qUw7y9sKQ_TuvyOq0NqwVw2Xf_rX8FsQf9bV8FATVxotavgBFx8JW7KRDRN9f0a9ymtIVytR63yWtUlR5CEWXdia8VGl-81-D4qHldPKdtbIXbfFtBhnROUyl4aJHUyP8DUeFetsLiOmNf4EuWKM9um8Co5gHtHDSP34SVjzwyv7MPol_iNJPq04Sr0ZMZlqa1uK_qlGyJchRFMJuSl7DLWi9Ilxzjg2IcdV9_91f703v6isT12pnYFvGbdAZaUtYATUFl-8A3EAnxoD90Jw82ivA1o32TxK3uzc8F3QjrGDCIWQlwaZaFX-Bw17mtxgGOA-BmFc4XUuEiUJiP115VuX3CkNZ8OwiHBIza6icGQHa90d4_N41UNv2MUZVRj_X1Ld1GrYKoKn1Cf99zT65Q1elbZmHQLPYxdeF2QLYa284IjJAEAXjLXZFTf7E_36rEqW_KDPA9Qe1pezKYYq834VheMuKkP9TtwBGjDhovq_RT4KaQilg2HK4pWKaoxpODhQ0njOR36NxUh9l_mV1kdvrD8LApM5gxgZ1tO6IjJTsaNgl61cAquoWXVmpi-oHPOYpQ6HpaBfUD-D9X95igz5uQu9jjrzSfQVh0bN_kaYYBiIOCgzkqhoqVgWHmq__2Yc.%26ch%3DAQEAEAABABR47sDH24tIj5mrkmVaa_QqjKfkJd0I_d8.%26v%3D3%26pg%3DMS2OCK2EHZHVPCGSHQC6POY5NI

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shelby
+– Email: Bjhobart@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: May 2022
+– Next Billing: 2026-07-08
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +13194311889
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BJ
+– User GUID: XKEXSBNCJNBY7IBNXZ5OGHLP74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056507	nfvdid	BQFmAAEBED5vfa7EqjYPvcRCY_LgLMVgDTUv2f9JePALYXT_N4hoezgmG3n-D2hM4IR8Q7ge0wNOalyA00KVvuieXu5LsQF-8Ezrp4AmeyesSdN6IVGyF2PjqLwhFmCYFq5GgnayUygdz6Wpnl6gEZs7B-7gte3p
+.netflix.com	TRUE	/	TRUE	1784858806	NetflixId	ct%3DBgjHlOvcAxLgA37cFSPkfjSUXhYx33cpzFuooBbEy8dKRiw2JQw7Lxdhm984sudDeNvHj_gLjiOYPaPAgU_unFHwwdvr9apuzve5poYFZYMsfDO7rMswBPSfzk0Wa4JMmeGfL-FmztHB5arIZVmJkFxpJubO9RmGo_beHmZErIvYofeEgUTc3kyMg6aFsRfbKqcOpm0-qzHpkIwE7eEUtL5pJXIzRj5rpxqNQyfvU6z00_OU0zrMB-vHCLTEqVJRc8xT2ki5Ok3xB-jkkbo8ByEWWh9WWfrDTGtIlm3ETBKWYViwKQQhQkQkCTOekZa_PvhQ6yUXFRWoe9HFRncvEfaPm0Z1sDPlfR0U2-cYE78aFzdH3HAESmQOyr2NY7dzMnp4ARVqzwqPEA0uYRnINpUd3aCq2tvYnAIFJ6BLiifcAiLUYkbSjpqpRaj4lagWmSwWP7qRiK17NOzTIdFAPSlHSqwf5cxA4B-wVP_TdaV6Z-e75ZJPNfa5nptThBdjbgbnhG4lXd1RJem3u6nmoeoz9Cz9KV6NMqdkf7UGumLXUsCXt1Nb75IyrH0xoKKwLJb1yA_wE6T5mCOS97EE1d-W823yZgHS6gfQEQ8nrzg90_bAskmvhzM1QqpWfK8NEupJOkJAQH1O7RgGIg4KDBNmUs7Cfgn_elefRw..%26ch%3DAQEAEAABABQIaAmAv6-OuJT7409eyfzJpCVtZHhME40.%26v%3D3%26pg%3DXKEXSBNCJNBY7IBNXZ5OGHLP74
+.netflix.com	TRUE	/	FALSE	1784858807	OptanonConsent	isIABGlobal=false&datestamp=Wed+Jul+23+2025+21%3A06%3A47+GMT-0500+(Central+Daylight+Time)&version=202505.2.0&consentId=65186e28-f98f-429a-a011-6b97e0272961&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=US%3BGA&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1

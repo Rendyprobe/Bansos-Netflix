@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lusankya
+– Email: lusankya_89@hotmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2024
+– Next Billing: 2026-06-17
+– Payment: GIFT
+– Card: N/A
+– Phone: +34643262449
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lusankya
+– User GUID: BBZVCSF6NBFLZMJCJXWW5WZJ2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782324746	nfvdid	BQFmAAEBELqX-zBY9C6v1zpLjOV_znNg0T3pAla28nh3pI_TOBmyswMx07z8erhRbiZjcpuRpKwnY_uKZQrS7SrlVMb1CH8k5mpWBZjaTgFAHgh7ZyiTpDSC1i-N0PBwNKEEwIaK5R1iP02bAd1sbQt-Bwglso2S
+.netflix.com	TRUE	/	FALSE	1805160887	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+19%3A34%3A47+GMT-0600+(Central+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27692932-ce92-480b-9085-a8a0a4e1e908&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCMX
+.netflix.com	TRUE	/	TRUE	1805235783	NetflixId	ct%3DBgjHlOvcAxLfAw519SNa02-hVszX41ihRX9J6uH1kbqp9eG9QzCtfIULbJJNzNBGcM4QMCzwZYngfBnpAFk_AOCxeZdat-is8Y5a_z8hKxtyeRlhiPWKh3FpnJs4UDvcQDeh9UHlhovO34nZuQRTp4XJpcpXIXD8RYgtVXeLfFEcUa6mmkBNFy93SVDxoacuSw197Ri64EPRzkDglwDZzAZNVGS-u3y3SZgs1DHkZBdWhzGFAZNVKjIe4AV0gp_MCVE9YBzfVcWKrER9C22VBKghPSkoXVipU3iLuPsGb1QOYk07Rs2pp9MZQoXgcyTxyR8ZVdCCucbEv-URjG30Yo2VPN_ulsfbuVO-i-1foqH1VXxMct1IzDbXle2Npqwz_Vz3bXBYN3AsZfyTOi5pi2zUhTcQg2MCi_pMz9lZXkZSK0Zx9fZHOCrZ-7XaZhKI8YcFK1oyAFOBq4wStU-XZSPxlv-byiHdb7-wJZla9SbL7m_eodVv4dwG1ApkNwBiImCSITOOkLpr4bYZ6rgcgYCFmTIhejAbVY7ninozZ5ORz99NVuwPMuolcuvVpG9iiFC-cy3YVtWjU9UWrMqDoCPTi05Vke1fO5eMOmTVzBtvYZoShgzZ_MAX4DGHHmQ0_OwewtbmX35tGAYiDgoManZYBVR4-xBGQ95N%26ch%3DAQEAEAABABTnZ7JgsEZ1-rOmYpOgXzX83m1Kl3yP7CQ.%26v%3D3%26pg%3DBBZVCSF6NBFLZMJCJXWW5WZJ2A

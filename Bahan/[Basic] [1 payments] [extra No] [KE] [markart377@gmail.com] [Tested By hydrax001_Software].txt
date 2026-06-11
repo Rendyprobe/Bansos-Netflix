@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: markart377
+– Email: markart377@gmail.com
+– Country: KE
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 4667
+– Phone: +254720882038
+– Quality: HD720p
+– Streams: 1
+– Price: KES 300
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: markart377
+– User GUID: NJB4WXA4B5HE3MHXEQ7OCGROAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809357334	nfvdid	BQFmAAEBEGtc6IjzhameCa2D9-7idcJgZUQ_OMAZmEOeT7o9q3Czoy0TMzx5r6bBOuVglnoeHqJ7CZo0xsRpMeSGcZFK_FR-LpbMxiXC5eWJzXmB3jM6OQyRW7CRZ5HTSViHDfrb1DFr7EKTKrOgq82z3lUcKryY
+.netflix.com	TRUE	/	TRUE	1809865673	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA8W3dx9KzkXMLoeQvPFZmzRzHPwB79p-Blzpdm70ftFtDY8xC8HzTEc9AzVgHgUSaBhtc8piGUwR_xZWzXe3ma4fd-1gKalSIDSzO8T2psfeCRinWiMM_gdO1Kuw2SzZsqyVfnSEt_bvaiO3VHCFXiigQa6_n7bk6YvGaT6y_GR1f1qq43DumCZmRM_ItudR2DuUM75lrVTRyh5ScsDD40O5R2Etc9NBm6F5rikM9uqFP5hpKdBs1pXCzRHRwGycTG1A4WPhRyR65EE9baNdl-t4Bz24QHKSd1brBcrlUZs7OZvmNGfBMQrkjePgnB2QN-0PqY70D8kPgmTRhpqOKps5UnLhEHQFwwZktp6Ib0H4HPsI5DULAlXy9yCgTehwyU9on1MRshKi2WWjOTsaAEZk_c4qR0DEDZVttPQQHLOh3BJa9aI-ID7OWG8J-LMvSHdqANQ-1Kgva3VgC5w4Z-k6v69o6Utz_2UofENbY05HtOT9j1EigqtSWGhLEnQG3D9amdcqDB1tnztIN59zPIoxNFLvIN-FHpQsxE5kRRgGIg4KDO3CfiKOXpp3KbvOuw..%26pg%3DNJB4WXA4B5HE3MHXEQ7OCGROAU%26ch%3DAQEAEAABABSu2aBpRnGmlgEFbK9wKkXtd5JhOH3Xac0.
+.netflix.com	TRUE	/	TRUE	1809865673	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBbkTimz6HzOtbVn1F9E5MJaLxQaZBxxw.%26dt%3D1778329672212
+.netflix.com	TRUE	/	FALSE	1809865764	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+15%3A29%3A24+GMT%2B0300+(East+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63faf697-e62c-420f-a6f8-b4c9f939193c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776864837174&AwaitingReconsent=false&isDntEnabled=0

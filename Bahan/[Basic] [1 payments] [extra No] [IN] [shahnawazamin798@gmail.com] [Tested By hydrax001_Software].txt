@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shahnawazamin798
+– Email: shahnawazamin798@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: August 2025
+– Next Billing: 2026-06-15
+– Payment: UPI
+– Card: N/A
+– Phone: +919560138347
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shahnawazamin798
+– User GUID: UPBYWIQT2FAORI3ZWZ3ZGMQXUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785925422	nfvdid	BQFmAAEBEIlsw6phg5uUMoPhmvRw-DhgBQBCgI7Z_H92apB5iM0hC1JOpgVYjXJLAqgw4bssY6Wj7_Yr7RDGYPf60ekwlPLPal764xfYX5_6LcQqYvxULw9_dmrRXYR844lgJIvGXxsNpVC4sgwm9kRHYthqLBtU
+.netflix.com	TRUE	/	FALSE	1810091549	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+08%3A42%3A29+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06873dfb-1959-42c8-b944-238e70de61d2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811690094	NetflixId	ct%3DBgjHlOvcAxKKBMVsuH_jv3k0ENpSxjiv_Xugp0T__ahA4INjGTx9OVcK1NDsK7FN-qWG1VXoJbQ9sVRVgNPFUmW2KYyfW8T8vOCeT1DrC0cQ44u3O_epgtN9NX3mOzwa-3NDn0JzAEnFXsfOK_fvVpnMTn1WO3gflFW5JP-EmnDRECXCm-OFzGfKxAnJfPYIMAcIg1pFGJxaNH6pE--IXzl1iwidGlorxvGFl0O-1X_XpNrFls4ZjBVFJoSHS_Bxmp-1kOv_u1bjgZrzPRy_DrHlvbYF2VZg8RphKEEWFfiQLljR5Td__Z4e9rznT00YJjIwaXMzALj4Y2sfXiQ0mGnYcr8zG_7n_sPImcLCf_93f-VcJyTnWN5zfuNPYaxdRhVnN5eSrTzWQMFt8_P3Gx6Hy5onnctRZegiH-s6jNhl4uc4_vNHHIE7mAk-JbKsjq65WrB8stEr7ZM_YEao_rt1OHQoKCLkuAhYGmMsvavhWuT1OK1QuyXJr_M_OkHhFHkHZcyaq-tOLN8bjc-ldwEzs83_MokSqRn6ZH50t96bC6LTnCJl4LbV0Bh_GABZVULgFQDap8c3gNmTObxWh0QqgGSFxznoL1KE_ureMaONvBTipJ6RCdyf-0S2CVdxFT8PhpD3vVixvTTnxw5dFMsuAjWsOz9j07BAskL3VvBJ3EKVqsyMcV05qYYwsXXhbV5CeRgGIg4KDMw2V4sRmmNEJE5uFQ..%26ch%3DAQEAEAABABSiaJb7QDTF4h4S4rqhtL8iGfqczteXupM.%26v%3D3%26pg%3DUPBYWIQT2FAORI3ZWZ3ZGMQXUM
+.netflix.com	TRUE	/	TRUE	1811690094	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRvYenfzOq8-8RLq2viItiLP9ih_V_DG-k.%26dt%3D1780154097206

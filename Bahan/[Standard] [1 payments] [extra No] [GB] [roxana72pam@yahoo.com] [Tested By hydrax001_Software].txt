@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Antonio
+– Email: roxana72pam@yahoo.com
+– Country: GB
+– Plan: Standard
+– Member Since: July 2016
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: 2724
+– Phone: +447572062317
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roxy
+– User GUID: S356AX3JWVHVPLKAIW7C4RD6M4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810499609	nfvdid	BQFmAAEBELQH78mZOQSHYDsPUIkDN6VgVGEA0Mdcvv2i-XW8IggvY8WmduNqNbSRDCU_4dCKVIUb77MlSp4s4vf96Y4B0gE7jJy2KyCReFys0GYNUgPJLC9jU1xQLa8YxNvyyg3EEZjc8NPQJlHZZeYcEU406hPi
+.netflix.com	TRUE	/	TRUE	1810506846	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA-6L0DZ9K6JRLGHVpevBq9VtxScOW_krQu9vw9ywgKF3JR786OvTN70uQkFEmeuoXIikcv22cyOciiEzrOtY2EWF8xyyONL1KC7hVP0RelMVHOhVsO50Pozw0kfwYG_XkWWQJC5MHXkLom0Tw0JnIpsomCjfJZkVkJcfvpSurNqRs1zLzlVXkrDTToA7BRt4_kKEY9gthNP893rO2_zSmLp7K94QVS4NVaFfTCwvmED1234vYKLyRFTt3HyJds63oAdQgcAU4NGr3jbDvQ1YpRmJ3LPOI-0V0KUI7ABBVO4FjWhrxLS3IqyENhR1XtSXowWDnn9Kjw8iy5DXAuNRodB9PntlJ4fDkhl_AThtB9xRSrP4akkeOCRgFfnEGJ5lRrSQqFI5ql1eR7ChXftrZIVjTEyZlDxeFocc3J3k578XPn1kNUMRx3-Tq-dyY6Kb8lWMtMxYoPvziSvd26-JTaIzlP22V7xAa3MQqJz-dzmw163-MFW18V2V9nL8I95JQszxLPImYghfXxfHzomlQSq4hzmomeTCLvuAuQjhTZEYBiIOCgz7KTelM4a7zUH2hLM.%26pg%3DS356AX3JWVHVPLKAIW7C4RD6M4%26ch%3DAQEAEAABABSZN30gjT0EfFJwvDXUwnYEFoJ5NAP3qwg.
+.netflix.com	TRUE	/	FALSE	1810506848	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+23%3A34%3A08+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d3c7ffd9-306b-410a-b232-5e2038af1bab&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1778962891823&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810506846	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRBcyq5sS7HXIMYPYwI0NGPptg6XPWLEwo.%26dt%3D1778970845407

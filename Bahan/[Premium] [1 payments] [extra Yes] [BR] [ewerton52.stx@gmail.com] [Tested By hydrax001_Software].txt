@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ewertinho
+– Email: ewerton52.stx@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: fevereiro de 2025
+– Next Billing: 2026-06-24
+– Payment: DC
+– Card: 3770
+– Phone: +5587999465894
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ewertinho
+– User GUID: TYHOVMJXRNF3VO2KBSVIEJTF6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784994470	nfvdid	BQFmAAEBEKyjzydyviMI6C5UqxA9rmVgRTzmApgcwEM5lZmcxPgnnvVxNVU0QhL9VHcLNK4vy0wJ1uwLUVKLNJt3nKCxKBSlYWaotMRzp4grYPtQUXUK8rXBCoDW5IzrVv07nCVxwXUBZEigcHOjrFnzphFub83r
+.netflix.com	TRUE	/	TRUE	1809141482	NetflixId	ct%3DBgjHlOvcAxKuA7HAByzc9Cy96cksAGUYxMusOgQpqVEBazAlv2AF7MTzgsKwnHrNxg6NXSk_yQQdDXEiAo_qwaCWBvFLxprKGTMXVEKScRfthZG-q4aAviQUQFX-kEef9dA8ijPvRoQQTdgkKpKqsl4kHir5Gh8_wuXwA9MwczRzFYo5EfYsHwD5HChM-gbTnm9zBcNXAERqCmJyDFr3Fqrx6lOfvGSL-7ah4aQlr8NK2uYWHw2za5w-X0UDNRGxzON-mYd5jukcPozKUZikFjDEamcZvN5FAZuBzh-tje1xBkLSdJrd1KeldR2ZlKZiIX6E--NgL4Bffy_zN9iAMX2-4FO5hxBvBDxarRqZ6c5rVkQKSK9G_QhZaJxl4zo6gCjAVmUtinlnCg6s8PJzzSTXI-a8_aQAkIXTaRF-aaPAl0ls81XYuQ8md6hEw9xByRRjOfYHpLkHO0xtlm7eRaknchf85THfSZoU_DTHB5ea5mR8NSNeZyaHcQ-3P36ciG0q4fRtTS16AmLh3tY67ZeJXlTqslhn2mXYmnVZueaK7If7aZ8SnL76DdwpKbzUmi_iVlLRYR0YBiIOCgyZKilgjtLmOTdFM38.%26ch%3DAQEAEAABABQSajqewb7fAjiw2Ig6PybWtls4EKPp65g.%26v%3D3%26pg%3DTYHOVMJXRNF3VO2KBSVIEJTF6A
+.netflix.com	TRUE	/	FALSE	1809141480	OptanonConsent	isIABGlobal=false&datestamp=Fri+May+01+2026+00%3A18%3A00+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&consentId=8481a874-36d5-4d1f-9a1a-892ac8b78a9a&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=BR%3BPB&isAnonUser=1&intType=3&crTime=1773376567601&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809141482	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoLc6puNLxqwtxbc3z79WBrrilwFUnmT8.%26dt%3D1777605482000

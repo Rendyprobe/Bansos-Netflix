@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Saanvi
+– Email: smitshende3@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: November 2023
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +919002624404
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: smitshende3
+– User GUID: 5DN4Q77AVVGFLNQT5MOWZNFXHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786990032	nfvdid	BQFmAAEBEFimimBoT0C_i7x8Jc9sjy9gCeeJikBPKsVysBj5KO1jGmqAEswtELx_s8Vj5jWhM2j-tntyVfu0VTWbbWgWb2oMH2DyIAzjItYrzxffwej_LOh_QyXhz7yibVBD0seN5SUv_XZFfh5n5YnHWe7s3PMy
+.netflix.com	TRUE	/	TRUE	1808248662	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA4tTK_hNl9hh5fY1o6QgANdV52yzw1EQY1eyccYsPx3JdDxvBjE8Fs-cQmJslThmhponfOEkThuN8ry9TjLImA5XI5HH-6nMvmsf0H56HHfO0IBXsYUUIBjoKXXuuBL2feg3YQgGCDXCGU370ZknHCU_I5E9yd0JVyJjIGppWU_1cpD8cNKg3xzw7eN9qArwWzeS0nO0RFbchith3mb3_Ntnor2tFz9EOGjWvj2FPvJa78IbEi74yk80uZ1GIKy7ClEEq5-b13p5HCgkAjR8oOjp48zHrav9Ica4dcCc3lnggG3pI_ql9pv7dq7_I0G-JkFrN4xl9IR5D9mJrb-ZEAAAZikvIC8HkHtlNqRKfpBWHaH9qJ3ZmgZ0L2l6GsdYWXhp56lyiqj26MwU74x8InO9OkkW0rJKPseAYfHoRCv_WD4QdbuGnJUogDLn3vRbLEyWusAFOq3AGoXSfgeNkXahA79U66ZuP_Y7CD8TAnnD8nQXJcRd7JD6qfqhieCHu0_GOE9TwFcT4Ie8e3uU-UOr3gnGoxrme0-M3BgGIg4KDOnQflvGIWmoyr3eVw..%26pg%3D5DN4Q77AVVGFLNQT5MOWZNFXHY%26ch%3DAQEAEAABABRcNVTnx1NrOVDMnIg7L9Q4pe9FZH-4NcQ.
+.netflix.com	TRUE	/	FALSE	1808248664	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+00%3A47%3A44+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b4c2df7-f123-49e5-aaea-75e49d0f5783&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808248662	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTx0hwtKRTb24FxtU0uUizFRvyrKxZX9zY.%26dt%3D1776712661524

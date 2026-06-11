@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Reynaldo Brown
+– Email: gordonsabrina97@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: July 2022
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 3352
+– Phone: +14018376527
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Brina
+– User GUID: W32MNC3XWBHGHOJMJXTOXRBNSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800230929	nfvdid	BQFmAAEBEOBk8hk7OSYxQzUsBaZ4SiJgP0nBQp1rHnXD68r8aq_IExdFmDFZIdPsFiP5gbBLDGXWJZWDSQ9zPUD30lbSCtes4mPKipidRudP7yb34PLwWVwArMTiKjSJ9Z54XxZO8WYzeS6xL5HdtQdI8Nu6sac8
+.netflix.com	TRUE	/	TRUE	1807043643	NetflixId	ct%3DBgjHlOvcAxKKBPXPYuIZpPnQEzuyALvTn5QL8hjO1FnuVDqYOTaklPv2IkvMtz8Tx575yuhUb4Khpy9zBX-8lYEQ3g2drlkEtZ9qGvf6EuloGpaRRrhycy6U3ZvWfhKj19X3uVYxV-iXDUEHFl-x_q3vLKsx9X5gkEplUw-hmHRzPtIt35B_GuYkFYit3f-0D-Qgs6Sg0aPTC7aEmyflSYtE9bGV9FotHBuYcIB9OaNXnulbhaFGtni7RlYQlkc60fYzmExKV8RfnRm84hdfXUBzbYe2MtfKgRsxGibXB8IXRxgIiLMh1_BXLy0SFvgVgyYra1SwbDzSle0y1PXNcdYwmJu7I_RW1Lcc-pZ4cWFSjdqc0XTQoxpE7wJ0CfsiAYirVn2Ogd93r7n2TqETAXmuLHI7MVZyB7LFWcH9j5-8XNrXhfp35Z57HE3o60BvhYotiok_TmYkn4uwM9gdbhh8kmWmpJlZ22I8tHzZve-soCe9z7S_buovHqhzypqcCsucY4kHlut8qML9jiaQ3tlyd0BEJ61O8vIMTT0SLarwQm-1641ELThiZlKU6ScT6XnucBXi4435dMZLAr5VwLydT7B4ASfkh6rxGQ4pFncGIvqek5fIb_bFWf9wB75wk59vGzQCdRUPjzJmOvnXTkZNbc2F21q9j9UVF6gtnTn4Q-5qlqhI9GhSY8T27MdOnFp7JRgGIg4KDAX343I7cg1cGUHOnQ..%26ch%3DAQEAEAABABQGaqDfgPgmUkk0Lids8HvS6hR_HvMxOro.%26v%3D3%26pg%3DW32MNC3XWBHGHOJMJXTOXRBNSE
+.netflix.com	TRUE	/	FALSE	1807044019	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+15%3A40%3A19+GMT-0500+(Colombia+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ab86fbf-8e4b-47c0-96dd-9dc96a39d7fd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

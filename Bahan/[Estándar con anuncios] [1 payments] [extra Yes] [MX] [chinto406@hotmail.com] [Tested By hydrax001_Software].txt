@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Diego
+– Email: chinto406@hotmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2024
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 8408
+– Phone: +528341115114
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jacinto
+– User GUID: GCGT6GOTCRA6HDSI44V5MPCFGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797314447	nfvdid	BQFmAAEBENCyjQEaTGgowY9M9_9Y4zxgSmTypo7NKU-NMIVzF-QSiug1sL_2lLlhkjf-aIfWObl8Cf1XAZ3x8CkOc1B47AsrPSdtA9ywC1L5UH48C2fujdDqE1OLhaxAyMlXVFGCWWTlvnA7nki9j-mOvVMxUhdt
+.netflix.com	TRUE	/	TRUE	1803184442	NetflixId	ct%3DBgjHlOvcAxLmA0hHxMNKjTxt9Oa4b-JUKfhEIyvYap7JNI8YTVHPHgoSjdAIpu2w7uh3FI0l-EpwWpnQFfIuEUR54z-Sx3m_9OgKsT38SYVZaxLfx2AjHZ46mwW_J36odoos_2DCGe-VOGNIagAKpAupuB_T2uQhHTZBcHwzlPImWL5ImcH2-F53quUjkJtGeMj6HjSXBXtzpw53Ehuqq1eGjMDHnnYgiekMIHQKYqbWSqRzqnUowoIJRUbAzEZq9GJlkL5lkUMo4HRtnCDcdExuY-kvEQHTKO7tdkxhH08P_rFUXrkGKIlDIkKBg7II4_p6rx8VEk6kCojaPZQhBlNxH6s7oI81JmrJdNgW9hNa60YPeTjbajJGCP1VFkuiW7KWymaxvnsAZCHL-TE2bqRBzSW9bkmFrE2BVj1edlpT-qoesftYIcVpvW2gTJAS_poYc_gYf9L5WC_t-O2M_K2JrZtTEWE6nLnUSoZ3vlSPLeWU-1_qijKhB0uyjk3Fc-sWaYIr-VmQEasJ-hzhxuR9VdMSrQRoNagudblsiJhyztcDVW5PacFXv7iIsiq_FcKZv_KToOR8vfX5XqcXpp0axkgojCQ2xvAZVnSzHeQ99K5XYJmrd952TU269elPS1uuvBSXe5lkphlWHB6UOBgGIg4KDLuNx6HxdR6qMrBh_w..%26ch%3DAQEAEAABABQ2Jn2LR1ArucqOgfdER9Xu5of5IrW6bho.%26v%3D3%26pg%3DGCGT6GOTCRA6HDSI44V5MPCFGM
+.netflix.com	TRUE	/	FALSE	1803184443	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+20+2026+22%3A34%3A03+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25b835eb-8d52-4fda-89c5-399616eeb9a5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BTAM&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803184442	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4Xn32jysQmzYzjGj6n8oR2l9a6GAMx0Q.%26dt%3D1771648442664

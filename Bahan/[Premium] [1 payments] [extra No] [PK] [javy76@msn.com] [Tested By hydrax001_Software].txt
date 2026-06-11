@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Madmax
+– Email: javy76@msn.com
+– Country: PK
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 8142
+– Phone: +923336871073
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Javed
+– User GUID: MSYQP32TIZHKDLFTYOCCVKTGKM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808054283	nfvdid	BQFmAAEBEIqJGnoIzf8tHz8vJ_CdoxVgvTomA2R1YcXrIpfztqxja1AnYYvbCFLHxPWj0GsafBky0URQwSzML2PVA9vEF3H_KM3ycCWcAzJLfIJKExDEtoB1WXoOmGRQB_pBX4k5c5QFwvV3z7GYaK_4dI6eIOsq
+.netflix.com	TRUE	/	TRUE	1810431579	NetflixId	ct%3DBgjHlOvcAxLOA8TCkUsnJzYYrc6YXCObetQJV3vV1rbtPFivc_C4Dlk3ONF_fW6-ceVq8cGebE0tvSFzS_J3T14odJHrULSO2ZGUOBK5QLFzvAMhNNOyZ6f93JhpjQR0E-mZzqMrjFfHq-J-y6Bg7d0lzaaBhxdEwmKjoBM_CzyTkuQRQ7R8Dp36rp65ZnL5QqpO28oSdhN7nTmIN0DEzJCA5ov3Toih6eEsdeSuVlk94LfJxMektsFkCEsQVEUvQje7cbPv7A7oY2ApWwY0cd8s-VfuCEEyqlzmSessiyZl9B1sqFB6GxxxBLAC09K9NPQ_iUJTpTSQbwh-2lJcGnk-n5y8UIMcskxI_NyxjpJagf7vM7IiWBQXecH30UYb-NhxLAZLlmYfhxkG6cTkMMrrjdbOpXeZBX6ubVM6xwZC012bf2U0q7z4K1OVPbzpBE3oAUeKj041zjmw1sCKPaldENO9yhdNAqMa6OVTY-EUgNyCkIc_DJg28RvNLjs1bTiTDPJM_vDCdbA1sqpTA3j2mLgivo3O2A54_Aohzi7ahsple1z3HzBCUORRU9y-yjj2pkxmYbNnxdM35La0MHYoDQtBAzkMUMFPCj30qi2xfw-ct0eYVRgGIg4KDNXN6cj6Nktcvr2M3Q..%26ch%3DAQEAEAABABRBWIBp2C5ASxbaKp7TFrn0HqcWG6Aeq_8.%26v%3D3%26pg%3DMSYQP32TIZHKDLFTYOCCVKTGKM
+.netflix.com	TRUE	/	FALSE	1810431581	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+06%3A39%3A41+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e39b32c7-738a-4dcd-ac42-dcf74b261db1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776282500513&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810431579	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtDa8pTyTsIiqJtuuixx6RqOq070n9KcA.%26dt%3D1778895580494

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tai
+– Email: nerisa45@hotmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: junio de 2017
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 4011
+– Phone: +34652165541
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nerisa
+– User GUID: PNVBY2HKFRDOLBCO75VPKMWIUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1781210674	NetflixId	ct%3DBgjHlOvcAxLcA5xFwd0epDRSEZSkVZL1KTzMU0e4yF6Jnzd35JCjLmH6zHHtFLW4ma3rI5NoZOdifJ0MDDoM-58GlpcKJRMnW-ANzKHbmEGekS6ga12x2b2IAH7jrq6uX7opMVfNLwOtBL5SRrLMqEri5d-faefTIfljk8uNPGXBwF1WACuPfvDPkzfHljKO4TCgbv_XUNsHqJUO3NNwrFwGAWveBE1XOOZOCGYHGdJ8znX45X78xtBJj9rgQY4QLsxNjnjlSVuOZyrNSp9JD-QEe_cycyhF89aV8_kjqXwL7hDraM5iF29TX1oZuvI1yqU5HYb0Yn35ZfZg678Mp65hTWvsf4LGZRAmRlgDsQGI6t345niCTvuD36aa13d1XajQltCP1hS09JEhjNw8159-NyGaFrk0iBp83pKjXVv0ULvsONaM2BG1mYpjch4yIcLLaXAEUICG1d9K3AeBYs0viPpKDJRTKX1pmPL51oc5QR6E-XpwBI_FmvCP7DTWP7gopPp1Fm-rtz_s_HSRjq5Nn72IzMhF0VqKkMgcfXPT3ySgEDd3k69rvOBFFl5uVcv_nfrNO6PP5DTSKveGPwrGThIDOK9P99R8-T7I9i9R_yInjyUqpJSpbhMM9w5FcAuZgnVBGAYiDgoM5oS9K9jSzeN6Xuve%26ch%3DAQEAEAABABT5xFMi0k5RGexplWv6DEgoW-np71pUmtU.%26v%3D3%26pg%3DPNVBY2HKFRDOLBCO75VPKMWIUM
+.netflix.com	TRUE	/	FALSE	1781210675	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+11+2025+22%3A44%3A35+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfae6dc0-ab2d-4a4f-ab5d-0ada8a9ffea3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1781210674	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRG_2X6DvAJj2cPfq3qRbP3XZcSMNAaAvo.%26dt%3D1749674668245

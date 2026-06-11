@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Prabhanshu
+– Email: palprabhanshu61@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: August 2023
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 0186
+– Phone: +918303533881
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Prabhanshu
+– User GUID: QN2PW25LWRBTJCDQGPOP5T2E74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784749238	nfvdid	BQFmAAEBELGDr0xhZ6xYhUe_qKIGojBgvmFSfcQbfSI4pMTJeY_-p8LRUNiVmuqkLMlQJS5dyJhQb7DyaAdDC9vbHZaHMzfqLjgb7CNIUMTCBEzSVS6qGR6ymXOyYo1xNpu1LR10h7mjPHOmbPjJB6EtpK7VuGjG
+.netflix.com	TRUE	/	TRUE	1808041553	NetflixId	ct%3DBgjHlOvcAxKJBGcmnfxpgh3Uab1vwf46ILwU4l8xQRPeH6gvUXqdQfztYK9OmK2pQ7jPDZBA5XClzl-zCTJovpuNs1FwyvhKmgOxMX7Pu-YgJb-SHn7EHG9AhSF3PYZHwqqTQWYwjzvwsYtRFxO-0pG8VH6wVQhOTS4R8559zgVXvHLdxsyFa2Yt1bQA0xCdw9Z3CCB_l4hK-dPPy3uFUa-ebObjL9y1e2TZhSNK9x_ekGVe-zGq0wUK9w3rUhSId6qZBTdbY6RoEV2sbQPPuAnRnl92h4RwLDB88djkjwhr8zl6PACLiIFl1RtZHfGlc6z9rhakpdkHgy2hWONvHyGwZKpiJSsYhM9ABGnizHQY9HAAgM5Aon-tKs2Riki-OALhTGklemj1lJKYF9W37bu7GiJUHTPsK3fDwrxa0rF2-rCb5JOmSUtTsDeh73GvDj0CchOIM9FIFlTDiwuvY6b6OAhZSxnpvLuO9hcA0HsABGTirtko5FbSPEGf3AZXXJjYUayogwk6O5VVIyzrRrNWfIuIsc7oaL2Ded5yzOdgEMdI-bzOXLj2tUDTQVccZbrzDfhDavmrWIDqanADOtL3ZCOvyhu9RQiHHCtw4M2p_Q3pXCiV10c8xfec5ifQgzqY7S3ii_BZ9kanZeQuPgxw3a7JhRFyNXhHbFIhdWkFBqmPjvawCanr-8u7MqxnheSrGAYiDgoMeAxg5Iqw-Bwg5S9y%26ch%3DAQEAEAABABQUykVU1vA4NpTAPbWhM0wXh-7XXf_pZVI.%26v%3D3%26pg%3DQN2PW25LWRBTJCDQGPOP5T2E74
+.netflix.com	TRUE	/	FALSE	1808041556	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+15%3A15%3A56+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=640e9bc1-92ce-4717-b198-281e71251659&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=IN%3BPB&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808041553	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQMQ-SQ6c96OulLkLTW3XAuVZOr4pXVfik.%26dt%3D1776505552308

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nova
+– Email: annesbatista11@gmail.com
+– Country: DO
+– Plan: Cao cấp
+– Member Since: tháng 4 năm 2024
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 3287
+– Phone: +18296050490
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 USD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Annes
+– User GUID: 5SYYRHYICVD23KKTQBMJEQEMYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783052268	nfvdid	BQFmAAEBELz0NR5Z0pq4Z3c8lDde80Ngyrf_1Jp3HLfhnhd4pyA7Z4tNlXGhORAJKuaAbU6TALpf9NiRXGL3N-iC9th4y9Ddf0RF7vFN0lgPtDY7bdXqjnXAbPhVaVCnM7TjdGhWtDgYQ2WkDyT4BR7Ffs5MuqjS
+.netflix.com	TRUE	/	TRUE	1793094142	NetflixId	ct%3DBgjHlOvcAxLlAwKOaq3_ODqXPF7PdsfKznnRTxMlmUd61Ml1aIhdb8C--vrArO4aHqxJnwtf4hjWHrLOy9RcKH-MQh44SJleSnMXQnOIlphVcm2PCwd_5IQ4bcnzJPey01ZRsKmEmXXGX7ttUg5POmGdUFFt8ckFTO3-z96ITEebuRcnjOsg75SBytw1UkocAsr3sUujlx-HjmjuqdUhvl3BJv8VyCSHHrP4QIeCrDR3u2ULJ6KzsKAXPTAUx5w6ersapQ5jN3ETOiMX3NGoz-N325Za81JewvsmRKeBjxSxPPkGuvPIUOo-6VV9w1lICaDkJqFhqfUXVKJFHxoGHZRr6pJ4m226QCHeR6NAPNTCIUWTVGjh6zGfDHkol74DG0BilMbbHtznlb8W-A58ILHXzjWpPF57K5jNG_prboWjl5HdBGxn_n9JlhRj7p5nzfLVeT-k6mz1UVh1zCLEJ7-LAtGRCmweE_HsO0X1XwN8BKMIoh1O4QmcrNiQer6I-7OguypEDe3PU4Hl6yPUJeRSbBG8svSMK7cVqV31Y1FYzmOnvCdBIzvTmf58c8k7-BHlwFfEkfUh3IDlQHEDcLBnf1evTEjMm-8wCeObffVQhZY80sj5ndUPsfYnCsk7i2tY8qISij_MJn6kbSVPGAYiDgoMG6XkpFU9pFrdQbsv%26ch%3DAQEAEAABABRHfAjTD_p4x9JGXTTVIupycrSa_oFQ5eY.%26v%3D3%26pg%3D5SYYRHYICVD23KKTQBMJEQEMYE
+.netflix.com	TRUE	/	TRUE	1793094142	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRufT6dAAn4Xo6I5P1ViZktNLSc65tYXZY.%26dt%3D1761558142094
+.netflix.com	TRUE	/	FALSE	1793094410	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+27+2025+05%3A46%3A50+GMT-0400+(hora+de+Bolivia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8d51e52e-b71a-4f28-b1d4-9e3f19878154&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

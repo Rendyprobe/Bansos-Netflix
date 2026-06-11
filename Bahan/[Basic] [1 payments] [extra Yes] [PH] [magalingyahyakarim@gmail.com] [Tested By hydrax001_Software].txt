@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Esmail
+– Email: magalingyahyakarim@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639308204360
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kareem
+– User GUID: TO5ODMY3JRDODNQLV5IN3BALGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808025318	nfvdid	BQFmAAEBEFO25yyapVDDiB-8ehvxon1gA_iIl3zMP5ps2zHbSwMymr4ENt9X6jSHshifxzSQPHhnXH-rKj9xo825SL7jrXxmdiJd3SZ3IimQAtW2oLBer1vOgnoFtsKxYjKrz-WmXghI3BRBAI86Bb37QkDivZVh
+.netflix.com	TRUE	/	TRUE	1810607229	NetflixId	ct%3DBgjHlOvcAxKABGvvpSFkWAq7s9fj0IBJsJULzR8_bS0W3qIHpLnsthAopSluJ5rBewtuktMqkkT9neNYt2cOJsSq9KvjZ7elIULBwJzwqPC1I5BUWHdQPoo_vVQ8KQkhEM8KtkWN-HQm4-zFHYDlU_LBvHPmVksiouD8bOAXol_iYfF32vYhuWukUh8QRsbXzHgwQiFwPlLObA626agESeHeoRMelMrg0FBSoeXLKtzlG9-88DmA5Wp4G3T96m_xnq4ikI2F9Y7_n8Llt-2wu1f-zgUTeowhElAxL957LZTLS_l59UIxuD_ztaTSXWc6g0VB9qfmQpPN4Lw09f48-Vqvkrm2DLG3gtb3E4neVx_bxv0nmWNVxqQwH-9vc_ziAoh19_-752GKA5U_rafk433XyfoSDi3ViyN6jBWSJ5sOIxCyTA21pO8VoLkrQvHW72mjodvD2ZUgcjmZ2yAsSToGm-T6a0Ca4TzPXFjl9DKCxrWflMIkNRpeRq_j7E6V7twLwwB7183aC73aYn74-7ZbCQyzFrW5y87lP1klekfJBpUxl_tZ-ECbvighlcFLxeZJ_eAHuIaTGZEywBbpmk3JgY_9VnXfRSTOXWEbmlRLa8ree7ICs_Cxf6znKXsLsrDt9BV5PJefkYWbkzII1iT6KWuFw-iIMwVt96ifAVc3c0rTGX82DJcGGAYiDgoM0x2fsXj2sdoLF9hQ%26ch%3DAQEAEAABABTtdR9PgQucmA1VErZ9xxned_654XJZ0QQ.%26v%3D3%26pg%3DTO5ODMY3JRDODNQLV5IN3BALGM
+.netflix.com	TRUE	/	FALSE	1810607233	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+19%3A27%3A13+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fec855b4-75bf-4e65-b107-d1cc7916f9f3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776487476912&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810607229	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-EZQLi_JPVVSTUhc-FBbFxAZFBgy_xZ8.%26dt%3D1779071227685

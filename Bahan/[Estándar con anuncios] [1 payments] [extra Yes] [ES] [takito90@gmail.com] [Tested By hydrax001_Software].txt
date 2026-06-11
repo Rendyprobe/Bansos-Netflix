@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Salón
+– Email: takito90@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2023
+– Next Billing: N/A
+– Payment: MASMOVIL_BILLED
+– Card: N/A
+– Phone: +34622110208
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Piiter
+– User GUID: LBOUYDFCKFCEHE4C45P3RQY23A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783545571	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA5Idgm-_l2sY9iu6qgzRKZ4tuvOPFCDL-hJn-TwxVuMv3P4Z3zXnbgO65Q4Wxqv8qvbxM0GoCj5zKLHV6MOCI92TjayRMgIUqTogMXTW1Sn9hEKHA6VybGIxnXjc4VSp7rp8Ui87X2o0UP9wYB57LHnDuBVVqRIRASjkJEH4wdHDFW5nAKrewjecVffhtAK3i-Weby0JvJuuFDx5CM9KsLE7EtKQLGElu7eN9PNoJKrvnhesUk7P6CdHqQkjGTbec7SKVN0HCkZOG3OpSU0jgJ-RCr8OcjJGxAK85XZOnSh5Kp89AAe_27QunfZAywu1S-PpLgnQE4nRlsMnOVziul5U_vT0lhXh7ZQkjfEVOXjN9KiVG9BDpuRtpWEayf46TntxH739KuGC49b-KsJa08k-FNwgKniDszm39Ay4rx6y5-NW6HsJfhlEySXugbJaPKyf-upySGYdltlUT8VHyh8oTJF6URbvDlgvUqHBW1mh8xh4l5NsNoS_n5Hxco0DtrFx6_bVOxPSUuq7ZElKWUJmGAYiDgoM2d2sUSMWL57QoN7r%26pg%3DLBOUYDFCKFCEHE4C45P3RQY23A%26ch%3DAQEAEAABABT-Nhm_Ri_98Cn9wV4_X5hA_DqjjmMXvd4.
+.netflix.com	TRUE	/	TRUE	1783545571	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQwZLNJKD1SSWbjWASczVyy70G1YvU6LBI.%26dt%3D1752422408024
+.netflix.com	TRUE	/	FALSE	1783545571	nfvdid	BQFmAAEBEPLqW78PxWJlo1xI4y_AJStgZe-HeSVTgcOjTLk9Hmfyj_acF-_bZwC_YAD0qMpYMD0CwrxeboOHJB3dGQ4zqPdwDi_c7spfv5iKzPbL2LduK_17qDdHKYDUow9YxFG-vNCvMX3uHuHZAzqztMAgwbv-

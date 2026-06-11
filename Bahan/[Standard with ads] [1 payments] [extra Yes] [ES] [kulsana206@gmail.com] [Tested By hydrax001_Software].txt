@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Private
+– Email: kulsana206@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: November 2023
+– Next Billing: N/A
+– Payment: VODAFONE_SPAIN_BILLED
+– Card: 0465
+– Phone: +34631221512
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Private
+– User GUID: OGXQG3BLDFGKVJHBLZEBD3CXEE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786315700	nfvdid	BQFmAAEBEG4aBE1Bb5IECRORSUGluElgEEVx9xz0n3DtD1XRJrMkPG30_FCf6x6lKpDDsndzC_y-WqQCXipwyS-EbCVJi_bXGztKF4wRp2bPvQlppx0XCRRVmIMoFTLAF8n2YyRrCkucDB9YOGyvWIUC5_csvw9v
+.netflix.com	TRUE	/	TRUE	1811185134	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA2H4x2sA3EnTz3RAkFT89NWLxp5CzKewt7JkcvZod67MsX9spw5Qp1h8E2CKrBFLQcDk_kF0yKT1ZzRcmNpukpJlIc_QPATgDvBTBmOpbZQ6GyXUUjwTeFbRiKARv5XnvVee60Y2TwlUXWLKntM6MUb12QLTZbstd3Jv7nIBeGZNzRJrddoBWswd0O0dYsLye-osSDqv6bWVsMceMz65TeLOmqKqQqYs6SqZy08Yc5PxOZep-_8RpXBv8gQjSj31TOumLJ6jFbjWvXuqB-YXKpz_ovXh6PVZIcy7GkKa4c-5RLBCQ2zZk0j0MCgc_pFXEglfqY-df6HgnXnJHJVE1kSL3PjzlhRxT2jxDa8IVrRRGsu6WYAa2bRsFYzTUFoAPwTtCK2vrhLNtN5b9nrGCMkepmMe5F6Cbgp2HnN-YqcKPdHwpJIWK2SdlFD0ctuqTLwMmu_u2dygNaJbsptOCdYRREWRj82KMpBUsvX8kNvD9-p-KWxApiqjSX7ix7MbDsRfNqOxfP7qLb0uLij_Xks1iN3CKp3YHDUrqBgGIg4KDEpLHPDDgogd7fJppg..%26pg%3DOGXQG3BLDFGKVJHBLZEBD3CXEE%26ch%3DAQEAEAABABQ6Sb1UN8tOVqM6H8ZZYS2cM1oEe0x_0sE.
+.netflix.com	TRUE	/	FALSE	1811185135	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+20%3A58%3A55+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e14c85b2-cb64-4492-bc73-057b6259d3b0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=ES%3BCT&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811185134	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRABRj9ZzW0CABpE4snSgmJvRnPZNneHU.%26dt%3D1779649133270

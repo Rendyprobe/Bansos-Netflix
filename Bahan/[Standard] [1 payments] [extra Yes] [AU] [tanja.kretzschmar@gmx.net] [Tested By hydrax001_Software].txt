@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Leander
+– Email: tanja.kretzschmar@gmx.net
+– Country: AU
+– Plan: Standard
+– Member Since: February 2022
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 5084
+– Phone: +61400180739
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tanja
+– User GUID: ZRFR7OAWWFHJTBDUEXFFSRJAIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802259568	nfvdid	BQFmAAEBEE9RavFk_xBK_s2SkyPYSdZgGH1raTfhJ2oc11g4Oxyf95M60Buwm5-mkTuFUiL6xCcXq9qqsx1-f2gne8qNbtoVnZKAV_A-2XrxEyjVQS6hzcBDyZ128pcFWV7ApgQmaXY5FJFDgcPUXomCUd8fMhME
+.netflix.com	TRUE	/	TRUE	1804468361	NetflixId	ct%3DBgjHlOvcAxKDBKQgv30aUNH72uyGEciOqGDZn93W2XhGwxgT6nv9Akm5u5xHWckYL7k6glwpaH2lbB_avhXkLyLOkQdGXJF4SwoiZ678hlzsGywQowmkSjo-QCWkvwhoKduXfAfNnCcZKrshcj7Tt_0x6qcNuD-zwk4wPpC1JEUMLjvN2kLA1NxOf-1Nl_HR8lCf1WLPO6QG2Mk_XHfDUfjAQo7PxtXpo95diJokO_qlUlHV9ndM61vVkQSNaOzhIS38Zmq-d2tVlx9uUpeEXXee-1LYaaZRKbt8Yz6V0sa-3oqz1k6_RxEu4gANfu1EeEb9C0F2GtUz1FFRN2FaZA2_LpCku8zrvlspx0_MLwU1nocj-flxop5DIXQzMH_qSOzb2mK0oFVuc2ql1M3UpDf3bqvMV0bsPLo88hQBvKkwKkQOUR1U7LgHKZANrJkB4KtldY50wFntPoalDdAIIK4-u1i0EE5bYeUAgX_CTZDemyDVIGZf-dy9I7GKzPBxXnEF0ybtJx5Wxjj_hhBbMVKF0JpxC5jGp6KP-eGfhtRCUGjSeyhLBMUCL5Y8H4rZ1Pgv7_ZOr5R8m24fVkSlx16rtkEXWNSqoFe_TRQtQ7HWswEw7WSxkaNkvTrg--_bHxkEnASbJIc7PZgyEQ2lIwxJ5r892Ev40WXc5y6_y1URn7kUlQ67_I91sMrfGAYiDgoMP_5DmSF82MVrL65H%26ch%3DAQEAEAABABQg9lbxEdnrR05ksvDBMwObLBOPSZU66iM.%26v%3D3%26pg%3DZRFR7OAWWFHJTBDUEXFFSRJAIM
+.netflix.com	TRUE	/	TRUE	1804468361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQypIxClMScQA8WgZeOvvGHcowBhTjjlYQ.%26dt%3D1772932361421

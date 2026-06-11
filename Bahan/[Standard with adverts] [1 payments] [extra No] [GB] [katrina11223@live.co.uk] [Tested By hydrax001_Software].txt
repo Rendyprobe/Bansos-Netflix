@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chris
+– Email: katrina11223@live.co.uk
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: September 2023
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: 8548
+– Phone: +447546599738
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katrina
+– User GUID: EVLAOSS3VREKDMRORIXMWFORYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1779891557	NetflixId	ct%3DBgjHlOvcAxKrA4P0ZSZ_iMtMe9Vfn7s_ciSECwRImX2F1VV3_XRR3oNqVJNB5JNX-jbngkb9lXuJEmfF4z0YSI4iDJBbeN6R248_0H9otxo19AVM4upoUA1pGs7UlB8FiILEkZ_Fm4auY-fIvyrVEA6lEVnOKQ9iEn-TwCcPKLTIRjdTcjPo4Alc7EsAT8E2XEw2NR5ZU_vakLslypP-tx2S0P8-JXvr8w1DSecidnv0-8n7yzyP-Yp8fR_p9eH8ZqwsdGpFDHbGv70Hds_iqldmJkuwQ7vbjq_vUbvE8v1wpOZvB0nB6-JvaJQ5ec295cqszWXuFhMCnyXp4CQsRxXeXl3FrEE2fkdrCudNeYU8GyP6PYqj2ISCgnngjmGicTq1yRrX2rXFF0tGXIuSQJsaxHo82JCP99We0NUbkE9ynq-geIKCL3GWiPaLe4hJTG-23Z7nCJ0ekocIZt3FyeRq-ZyAXX9WTmuj3bwvh-RIm4KMCjBKHSWB6csvKZtInJFS8E6kIEL-0ykVBJgOU3t1DBNuuYRCoXjZYiQ37Yi1UN2YLQxLPPGchjtSE9WurBY_avQYBiIOCgwwjYkJxrtc3cD-pfI.%26ch%3DAQEAEAABABTuq4xbB-JWGbXUW7LUWG2ACVHYt3yRW6c.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1779891555	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+27+2025+15%3A19%3A15+GMT%2B0100+(British+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34faf882-4e62-4ca5-b2e2-6e9dc52d7011&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1779891557	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYhkS11AJ3mi5p5vxIwXine1D7IRpRim0.%26dt%3D1748355555241

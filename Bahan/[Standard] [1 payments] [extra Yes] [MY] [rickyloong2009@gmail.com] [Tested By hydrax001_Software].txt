@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ricky
+– Email: rickyloong2009@gmail.com
+– Country: MY
+– Plan: Standard
+– Member Since: June 2024
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 7391
+– Phone: +60198996166
+– Quality: HD
+– Streams: 2
+– Price: RM 49.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ricky
+– User GUID: JI2G5M3JLNG3TPK3ZYETORS554
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810798262	nfvdid	BQFmAAEBEA3n8bqn2V4jZX1YPN0P0wBgJjVU2xN_CuXx30ScnRf7VHGrrK3sD451b1NEkTU5ybqnT7sStz-Vow9m1kpHT0m3emWLelaGj1UHJbbX2NhOLlf9v0ULTi5heyHqgsfMrg7mW-yFGWDt_6lCIdzSd6WX
+.netflix.com	TRUE	/	TRUE	1811205400	NetflixId	ct%3DBgjHlOvcAxLWA2UnbH1_IclvGdlmqtCSNqe7CpyJcdWaxMkaA6YWxnuzNIGuGXz3Fz7498fGpz7O7Fd_aubjpQPM1Om5fkXRdVwS1M51QsVICW9WUHq6PkcR7S_3QA_mNktVbQuV3jFIPs6IU7qXFWCLB8pVv_LfTdqjwZsd9dGHAZtILEOBswsO2rLFwJ7tmJl0jRX9WsshDoHEmvhV4xnSazwWPvwMXx8PR8YSM8TxNGLSWEU0FXQk5AqUmVTHrl8w7A7IJ5_v9F374vmplUmrtk9v2kxOaqvSlyfoga8Stk7dqvU_AYzECA4W644sd-4cU-ngFnDN1JCIlWuW4ttemCpW66lLujJE1OqykWxAmk76Pmwhx1j79u7UFWE_HM7dQ_Z4BlXwGal7XldXJw03XuKC4WVRVH6ZtUREn1hF9YhcTYZBOb_3V81l_UgzI8zHgzBAEkTlar0XSAM4qEqEn8ls-RucZ5MTN2j9hMsaAdUKXII7eKNiOepACKl88hEVuX4gtK-oFDVqO2oRWnrki86sPGGsbbA0OBTp1BtAeKiBQEWXMOIhBF1XdE9Tu-mOjz70cQCXfOrN7MKB_9RCOOpuKDPQnHi0GlQTlohW8zDsUz0HQCPz76lgn5cFGAYiDgoMwlqfbSoNDkUQnEYR%26ch%3DAQEAEAABABSNeb_yT0gERZchodbHtlgkGVWwvnBwUHk.%26v%3D3%26pg%3DJI2G5M3JLNG3TPK3ZYETORS554
+.netflix.com	TRUE	/	FALSE	1811205400	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+08%3A36%3A40+GMT%2B0800+(Malaysia+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=afff14ed-c0b1-4193-b514-335209ca405a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811205400	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQSHaw6AtHyaVKQjABQNw_irY29qAXpwSQ.%26dt%3D1779669399274

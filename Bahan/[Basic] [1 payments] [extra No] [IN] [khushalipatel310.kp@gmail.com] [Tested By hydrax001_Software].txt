@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Khushali Patel
+– Email: khushalipatel310.kp@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2024
+– Next Billing: 2026-07-06
+– Payment: UPI
+– Card: N/A
+– Phone: +918980903373
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Khushali Patel
+– User GUID: 2JAGRCVC6NEB3JIMFQKVTARACE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808824750	NetflixId	v%3D3%26ct%3DBgjHlOvcAxK9AzSoTaJdLHb3WBjOtQE0bxPZm7dlZaBJi9e1fzHb3p0p3tnSBAOKBirZvJSEe-YM8GC_k00j1Ca7-i3P7FnipQz-0YOO5xRC7-L62Vn3OvjW_g56bjPqsPnefTZ7zlbjxUiTQ739MaEMi7e829jTmzFNqHxPFicldFBfHbs4lm92W8yFWFHSx8cih3LNnluIKkKAcfRaXeXwHISqDrF_VVPkcJe6r_DfJDrKk7GI8w5yKQu_GAy27kn29Il37IhCnICtVhM3aYnQ-CSUT29naU0387R8QYMbYcNYOvZmNeLHWkuBg53Ol_j0fXN0M0MQrydRTREF0B0K-pLv3jfg7Tg4spoRhrV2-H-RGLQUDzu3D7qON5oaqLLI1RNPa7XoTR2Wmo5vmkmCa2Q0Y6Mb8CGsoak2oBzmV8KGViGmovX377wUnO3Pdzu6CsNA491s8eawQimKUfa1Mbxhs-blHsQMmB95Alx2FWJOZje5lYoC9NiCt81MZlYrkzxtp31lsszQ-afDec7QDOATXjxG7P765Yj-hsu-w17VDiskXNJjy8qaoP4n_Ohh5Ix-eBBr-_kaz_Ri3X-zcE2GtfcYBiIOCgx_6wPp24-wRRQ5q6s.%26pg%3D2JAGRCVC6NEB3JIMFQKVTARACE%26ch%3DAQEAEAABABS3o8KAoxqpjFB2ZaonLHG54CUvA1b1EaI.
+.netflix.com	TRUE	/	TRUE	1808824750	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS2e2MKsJ4T83S5ubIohCjXF0SsCIn8Uz0.%26dt%3D1777288750326
+.netflix.com	TRUE	/	FALSE	1808824750	nfvdid	BQFmAAEBEPZtWd7N2QqXTBrITu3NQ4dgO84_zpw4B1RNdO17Xk1UM_qqyTWFeeG3MKiXqfsVSOH8xA0p0vVJSXxiNS4_s6qzf9Smq1tLQoq22AklYdnsG83vyyME87vn-5fSQPoe-IPy4GbCiVKmXE0NS80rUUNn
+.netflix.com	TRUE	/	FALSE	1808824791	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+16%3A49%3A51+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=765bb410-c843-42ee-adb5-c18fd9404d31&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Faccount%2Ftravel%2Fverify&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777288791132

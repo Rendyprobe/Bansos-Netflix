@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ramzi kfat
+– Email: rahulkere753@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-07-06
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ramzi kfat
+– User GUID: I7C343UU4BD3ZKGOTPHNJ7H4BE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797148980	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+13+2025+13%3A33%3A00+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=91d8b04e-db34-43fa-92d3-14dbcb9a2c5b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797148979	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKMA3ifrpVZV3EOiAWXK-ONwI07iBuMaF1pEnF8P7KxDJ6NFrmHiQBr1VGyPhkPF4Q6NHCfNKNtTHisq2vVTb5_BZpj2e79wWBgy3c6usEW8PPKiboMZcPBzRwIJp3BOl0GeeftMWdzj_ukL-BzfgmmddqQMYtXlqupe-dylX8lWI7NItZzNfmKg53XT3quHgZHozDclbP0aRbZai7OXrd8cfcABsoymA7r3KmItqN4N8Qypi8wBwB_vA6XQmhLTfK9tRybbI1W0YaoIxrwLWeGoSzHOTqikoW0Kq8LWaD0i2nBeS--bRjBA2CMwV7aHeHuBClYBPN_kw-jhqnbWLb5wowFB82taPeJVLbLGtBkR5pKQUjMyRGCJ78nOsU-7ISEKCoHNOi3s2HBUBmNikP4E7ZzJvtzC0qp33SeDgO_ryStQ7JZ_KrJsart3pHri5tfG9grthfR-rIBa29Bv5pPEbqMPP9ULt4nn_aY4c65lg9eWC6LxxJeZtOEeNrQEDiLrk4XKWLS6ijmfdJngRgGIg4KDPXF4ZXHy2J2w3XDew..%26pg%3DI7C343UU4BD3ZKGOTPHNJ7H4BE%26ch%3DAQEAEAABABS7FMASgUOO9duqqZHKZZ_uXkw0K3JHUE0.
+.netflix.com	TRUE	/	TRUE	1797148979	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkrX6w-q27eJyK1Jb2wZyzh24-Gz0go04.%26dt%3D1765612980133
+.netflix.com	TRUE	/	FALSE	1797148979	nfvdid	BQFmAAEBEEbI_sigm8bFUko9jUkl2jJgcr8PHqQ1j9RFOdH_aZl6Q-3yREHvPV7-x9sd7hmOKr_JZAFJF5Ye1fUYZFKNKZFEnQkbHMvOQo6s9UXwh8yHD9tmrEunvsYfCSKxvCgjlp5wPnWYXYDPPyNaWlPynFUo

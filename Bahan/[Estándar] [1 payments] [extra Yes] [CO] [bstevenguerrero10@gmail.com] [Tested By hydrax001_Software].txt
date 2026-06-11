@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brayhan
+– Email: bstevenguerrero10@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: enero de 2026
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9377
+– Phone: +573103109223
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yornelly Sepúlveda Rincón
+– User GUID: LI7EGE3D5BDVLDD6YTSRZJELGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799965666	nfvdid	BQFmAAEBEE1Os3pj8eYZy1V6uu-n47tggveUsqx8hcCbz56xxXWDFV5WQQTl9yFY4a2yeRtHyCR_N3AiKUSYUwuk_HacMM8m7WMIQe_VIsDHVPYCr37xbSrXhXCgaxteHnyZsZuSCKtQaTqdlgQyER53P9xGmpm0
+.netflix.com	TRUE	/	TRUE	1806211713	NetflixId	ct%3DBgjHlOvcAxKBBFVqcBxEP38UP4sIj548WCf34ZxZul84SkpCQDgcoq9Rl1MwWBUDeo_CFIyizNYCdzLbrQbvETcU-HMBJgSNBhsAxqw7-fu0LOWCE6anvXYGiPbMKru-JpV1xo1_lh62H55W8I-gXdC8L464RH16Io0UKz3Vmu0zcJ7ouHYOYkfrttYayPV3K4XsjZ9upC690PCKwszqNQ2oUQ9anW0-S1bdYdTKWyJ762w2JRsFYOAq6h3Tce4IBdIZ2m48RAst_u7GKYuwc_31EpMeIw-4PJJ9NUgyvAUW64EppYoCnK8pFby8wEp2CmV76mf9PT0LWZyYdItJu34RbHtD1STqMejxnDiSE0QPwBpvogLQJrkURcWVYN6rVlAaMXgtUfkKWtVEq_IBmtm7IvpgEiBBDBJpDMEENQEj6eQ-U6ShZdJmzVF4ociUHU0tle0bFdeUNcxp5SXq8CKPF20aNytVLJi-V9CyWCVp83NidbAh4qgKwoeQEtrOPvOVfbgvIlNVfRlVdxECdgu_G0OFDIKWYsFEYdSSFNIXM1q9rpGa-Eal_qMPa3ZwGy6Wcg9IM636T5PVnBZ7oIa0pmlCKeQC1Xo5oJtWgF_n-DWAYNN02jFUIXRtiGt2AJzETkPUIFWP4mITHguYXLWGGrkHk0bk8PBZG0Trmej-cjbcIs25cRDnWBgGIg4KDPunLZiJfF1Kg7YOGg..%26ch%3DAQEAEAABABSMVQNOywnYEmTk_fIFdE_mWRhIL8wXO0o.%26v%3D3%26pg%3DLI7EGE3D5BDVLDD6YTSRZJELGI
+.netflix.com	TRUE	/	FALSE	1806211714	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+00%3A28%3A34+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b350f0f3-d546-4512-b379-f7f7d951986c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806211713	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRda6JCoC5ANnDsJav8YQpCvjjy4CVJOX0.%26dt%3D1774675715350

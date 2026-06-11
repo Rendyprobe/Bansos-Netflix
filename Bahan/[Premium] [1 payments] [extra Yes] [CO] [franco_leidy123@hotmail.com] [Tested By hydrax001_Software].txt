@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dilan
+– Email: franco_leidy123@hotmail.com
+– Country: CO
+– Plan: Premium
+– Member Since: mayo de 2020
+– Next Billing: 2026-06-14
+– Payment: N/A
+– Card: N/A
+– Phone: +573207754771
+– Quality: UHD
+– Streams: 4
+– Price: $ 44.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: KEVIN
+– User GUID: TW7UW32PRBDGLJPLGPOQET4XQA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805288999	nfvdid	BQFmAAEBEGqE2F4s_EL0XM1gnQ6vKB9gPkId78jlxfg5jgH1f_gueTAooUeWZeHjlxwlsl6dwjTKtyK1KI30hV55FgY6jfFwG9M9gehS-lxlqstmkdQYpMWr5IlQk4TSBTIg8-aiNOP0-BgZiAgSDB3lBvdXn3H1
+.netflix.com	TRUE	/	TRUE	1808630175	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTAx1LZLCzNjC0XgaPSd6gJ-kCebG9e_ZGL18pNddDMNnjR5O8XulF45DgFYmhPpIaHG3h8FpHpJ4XfyczM_Wme2ZPeba7DbqBXqv3XElPUUiNJDixIezZX3nr_AMXEDbpi9bMuwABGgzxhTD8RiuFi8mLgvNRa2vXZbcClg5ORaN3FCBFDqXRfIYmIRP8bffkKqIrpLeXiSI_ifXYQH19GZzVbgLPNzvuWU_pSOspjv_Pjqjkul63xm84_UT8kPsXkjXRLzVYBN_j6XZ6eVrasBuba9q5yWw6iYQWST9oG9YO_7DWvu1mC6Ah5LqUl2JiCOBjYCYbHrOSWQcCU6W4EGFD0LTdiH8MfKiTe7TgcL0ljryQv9t2uh0m92B5-tlmIrACNEqbwm8rP1YRkuINW1lM4KUiaQPt-4iQphEnkahA7zJrlnNbIJ444xrn0GJ8MKc70AKzd4CpbVi7WYE57_FGLcHBwVgKKlJJv05x8LwUjpI9ZJNwBVPqjQpKvmh5ygpRe79HanSvlPvsfIehc0mpnBgYBiIOCgwfHkEb67HZWC1dn7Y.%26pg%3DTW7UW32PRBDGLJPLGPOQET4XQA%26ch%3DAQEAEAABABQ30l4124fzTKg2d22HtBg8-xg0arbcH0k.
+.netflix.com	TRUE	/	FALSE	1808630177	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+00%3A16%3A17+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c67f5d6a-857c-49e6-af54-9d9ce66af63e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808630175	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUbe4vjt8DPbQ3eSCoxKrfoPcblYzkaM8.%26dt%3D1777094174518

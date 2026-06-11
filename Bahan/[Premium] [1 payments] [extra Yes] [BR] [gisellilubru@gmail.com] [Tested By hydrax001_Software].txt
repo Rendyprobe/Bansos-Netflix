@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luiz
+– Email: gisellilubru@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: fevereiro de 2016
+– Next Billing: 2026-07-07
+– Payment: DC
+– Card: 2282
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dorival
+– User GUID: PTYUIO4Y7FAPTFLGXGNV6OG4G4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803202061	nfvdid	BQFmAAEBEFf_PLgZgesWFD8EDWlVn8NgM4W5HpEOIg4sHOxvElKrak7rAQ5BC41IFmedjcafIHKHBJtYkRKoxBhBu1jqoZeyQ-0fl_dOX0KZsOzNw9LfFnkbVHAZ4qTRs4pWKCNSyJ3ZB6anhueFZvuTYwl7Ppy2
+.netflix.com	TRUE	/	FALSE	1809879562	NetflixId	ct%3DBgjHlOvcAxLmAxFCdcmAWQrpzMU3QHpEBUo3U_fTYVFhC87ErANi3pO7JV_U29mVBVi1qmSQl8hMgsldvqomYwyKBFoB70ONcAUAHf46d_xfba_yc6Ij-j1Y3lv4Nx55B2j-z69zTU74zujt3evvGfp-oqEkOw3bZyLQqKDrKqxqLxxwfvbFOIgqAw9nVFsaFAMaOonhcgBU3Fq67ux8cf0-6ZjkkBpMlA745Nhf9MAtUu8lcixzzhnY-f2iJWFUlGvpucOnYrwqbgpjUTh3dstlG5fagt3aCQiKUB0cGbWEUlLhd-jdh37weu_SXggVh0D-hSVan9LJI2bzel6qPGVV-cXw5qy3mMxxgGgqYPYswVv2YRT27rfsz4g9eRrYNbIu6kchKQM1wO4o5Vnw1vQ8RM3ge5kugtZHX_2FrJvVsGRyZBx_K2k60t-tUKzhnkSNQOfRHgOeyFyn6ce2w-3VBXhi9lfyyWoPG24E4gVNf1_bE2Nrtpd_V627JkfG_3oUd325ytlWEcJx4P5XB31Ta4BFluNy5nJteoqTSyzOZSl3SrhiCx8uKtTcCJxkuHEqPQ7TfF9rkpZhdVHxkFUhzukBaF-QVPf7ktW0c2JheNcEDrt25Y44PZCfGV4UG8QDeOkAcyEv73Dt0IHLKRgGIg4KDK-eGVzc_UQSAjM1yg..%26ch%3DAQEAEAABABTBHmDd7pSHopZAYZ87ZYI7bkFDklyr7qk.%26v%3D3%26pg%3DPTYUIO4Y7FAPTFLGXGNV6OG4G4
+.netflix.com	TRUE	/	FALSE	1809879563	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+13%3A19%3A23+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=82dc7d86-af9f-4666-bea7-e08c337f0d5c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771666194126&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1809879562	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTYHiNzAplAbyLcc2PQb49fK46O57YwV8Q.%26dt%3D1778343562629

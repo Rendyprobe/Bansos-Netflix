@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alison
+– Email: unknowvecchio@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2023
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7123
+– Phone: +33632501839
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Damien
+– User GUID: O2OOMEMYZNE2XKLNJMQFRGRIW4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785667579	nfvdid	BQFmAAEBEPu3XZsrzPyjWLRUf_sWWw9gouASlynWuE_0-VOk-ILkoC7HIH99wayPPn2sak_czqdkiKuMKCHkAFV6M5uPcoorCGUxIsI6C-NlEEHQAbiWNGxEaXlQV0jZqPZnuyJuxrIhn5IkpYCiuGSavMKpUCSk
+.netflix.com	TRUE	/	TRUE	1807195000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRguCugPJ79QtEXbuWQO5GdtFnA0w6OZjM.%26dt%3D1775659000230
+.netflix.com	TRUE	/	FALSE	1807195001	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+16%3A36%3A41+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=524662c8-ab35-46c1-aaa6-0775739b7c12&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BCVL&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807195000	NetflixId	ct%3DBgjHlOvcAxKGBEhOgRKcjNJUEl8fsrOj3fmQhRy0PSGwn3Vref5urHaa6y-Iuak3e34Y818wISsMr_2ZQ2r0IhwH45bcNjencOZvQ5NTGHBbniWGdylmBoaGv0VqQjcU8jkyXg0btGZGyvxHddytUc8QjrVVD5-zVxZbWG4YHNFLpkAe0cNCeToTb5HK8xs0LwK-c_bMWGm7R5Meko6YSJZchhCnqowjZPgjixrlJGUMOgmkMPfJs8VaqXZ-7dX7jsq-GQ-BgP9OLe5DmyJGlYJW-w6WM8vMAIZPQ0yySbS8I5zaHW-cBQfRb5u-NkdqiF-OVSt5YNAGAVevLj9vG0ObntIEfcLZKMYz49GfISm_bi9ZjXldGqUw_qRjd3w3EMKsSEHeulw3x9xGbARpLTamWM1Iy_B4V3LR1_c2ZzamkYPEdHpwQgpLRAISltWpyLyfTgGteyzzemlIOH1xvBHWbCvI99cQQfXPsCTmN2PazdpTqi04AxSXvqoJP6mNOfosF1VzNQuivxD6cWCsotJFKRiOFX-8izWKOjRbHmQLC3ov0AqAm4lHQOlFqcCs-93y0jKCG8UUh-4Biv0tQYqEHyKqOup3kiW1frz9yknrVB7Mjdvd5gTDOZ3iVEU6Ndj5ZiK99rbte867JrSoH6fT7ZpK635_qQnTrRHbkdSb6Chek47Y64Hf52WAkb1qGAYiDgoMUz4uhtz-aSNpQ_jf%26ch%3DAQEAEAABABT229iZNmndMjS-ls052fmJbYhknAYMFSY.%26v%3D3%26pg%3DO2OOMEMYZNE2XKLNJMQFRGRIW4

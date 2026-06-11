@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Artur
+– Email: najlanana@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: fevereiro de 2016
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6755
+– Phone: +5586998281037
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luuhraquel
+– User GUID: 5TOVWF2CZFGZTBK44JBAHECTKA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13440640482593525	nfvdid	BQFmAAEBEN9xG-GDh4mMU-vp-y6mEFtgsCAk6wKb_2haf9bV5AAuzmMq1zxfoQbCYcYPiJAgKwPH4h742To_Nxa29rOFgERJNmqTs1XySIja5kRbmSniX4sMKKxNjSfBkc5YHosZxgqwL3YXhOJkPD4R6qbEY1xD
+.netflix.com	TRUE	/	FALSE	13449592719000000	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+10%3A58%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3a88d88-7dcb-4cd2-a045-41111891f128&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPI
+.netflix.com	TRUE	/	TRUE	13450367850112132	NetflixId	ct%3DBgjHlOvcAxL-AySu8G9tpcrT5gU9VHOMnNTxGPs6sdEvFuY53flGWOTVfgRsvpo1aGKS0h-HKE29U9m7K031jVH1ePB7jGQtkwgkg79xPnnXdCqhbWKvjdCyuPGN6NY91Ao6sMkZ9Ge4Ab-akX2qV7Wu4o4DJm38zf8hAO0JCCGbVsbTgReOiLn5ZQ_G9kqkAP8CHgN1pjKgtZajIDHn7VLV__eSfk2yS_zMTjLAVvDzBeGrKwZr9ngP7BKs-uyPPxCWkzLChTkKXZQjqemM7AOlG4pyRfy7HKONBlgomuE9y83pjiDyKGakP38oTYLEcsNg_seTJrSF7mGOOqVGqTZBi0-c0r-cfqSSPypIkCe_Pa5Dzy7w8iheLJ7uvBaQ6ueiQ4veXe7mkRg3Ftova1X7gMr8Y5Ewdii9WmIDfIER6GVKifEXtsN1z7jh7VFwz67ZoGzxsIHt-T11c5ZTXiuSgXXjy_Y17jFRs8_FjVmMiv03JuZotetHQUQcRYLhKfs13Y2FMS2Aj3PxFlNUIVCzQrFnY1GeiBpE5n6yvgrW7vctHk_niWrb42_GQ6TJgI5iZGFAwtpSGKw9_Gryj7VvxQLB21V4LDMrKNj8ZuubzsZogOAVN8gqsKj0OQfDBzTnkZCtu4Z35totsXxJk8cxsI5HdbkDVYqEMW_HDssIksmK8IVR0RgGIg4KDEkwzGoGVmZ39jHltg..%26ch%3DAQEAEAABABTFUz6gqHw_D18R0rk8F0Ilt3MIPo00HZA.%26v%3D3%26pg%3D5TOVWF2CZFGZTBK44JBAHECTKA
+.netflix.com	TRUE	/	TRUE	13450367850111986	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUR6BMXlzMV4Ab467uQce3FTn3ZVSnkoY.%26dt%3D1774358251852

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emmanuel
+– Email: emmanuel882000@hotmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 6832
+– Phone: +523312977520
+– Quality: UHD
+– Streams: 4
+– Price: $369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Emmanuel
+– User GUID: RZ2TDLOSCRCMPEDEYPHLPKZXDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796844882	NetflixId	ct%3DBgjHlOvcAxLqA1dvf-uxZ7JMtqjZNcu7Byl6KUECsKyDk3chsW5NxUYViNh5V8p9-6Ntfw0Rz_rZjhw7IyrCifT2AKI3fWLDC0Gj7skhapcMEr0Z3H0MBkGOxoWqBU98D0E4rDtP8nQVX4LoVbJDC5ZGKu7rjYDN08Eoj22RIYBCSxqpaybsh8WiWr0BtsJ7HROaSV5XYnbkbt49yHHQQ36y-BjhdxSlz7JSMk95Co1kgha5b9MLND1Y3HZtAPE9y-Fxi9SByh5AsyBHP8oL7POSgkNRVzxJeXUiLksQshkKnjbOzj72_EfFdNSqiAKsniNxCP7Rp8xfac19I0yJHJBZsxxPPwsbh_vVf3WdUHAJnjJiyPSooUuZs-Ag8P134MO50BjqECOC8-NfmP-S-aLOnqIuySQzUuSvRjcxS5KR0PLnKDEu17cgVi1sR7FAGEaMOulqkHtr7FzA8BdEzaogn9Q_qjymfFGPc-BERsMX7MfHnUJaOGgtHQy8a1dpXyCrf-Zet77RAKwXeUrRiMThfp0UItacr53P6zBwl9OeX09qBTiHMDetm8d_UAVnMjlZyXrobcG5ofaZ3FRvmqbuoVv1D1dljVId2NBwfIIRHtTJKhWb6u32oC5kau4pnqxo-3xagqj2yyHTrfQAuhHPq_kYBiIOCgyDtRQBKaWoxyt-UZ4.%26ch%3DAQEAEAABABSKf9exD__waLWMeXTAhWPaH_mPThP5rus.%26v%3D3%26pg%3DRZ2TDLOSCRCMPEDEYPHLPKZXDU
+.netflix.com	TRUE	/	TRUE	1796844882	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQAmiI1S7ntxh7T02zaliyzNoawjtqqQnM.%26dt%3D1765308882364

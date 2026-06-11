@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zaid
+– Email: otmanyacoub4@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 3199
+– Phone: +16463635387
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: otmanyacoub4
+– User GUID: VRHDWPZFZRCZBIZQJJHUXZLI5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801163801	nfvdid	BQFmAAEBEN3P6NL_WBuBQ-WAy30HGI1g-Q89TX2AQwfbVsfLpBKHyvWHwBEmMjAjn-a1DptfDo5eV8NfV4bFQK5h5SqV8bNHqU5ugXtHDXYYEIQVp_kDyqDkQeNnOUMMYQrI2EZzSFS6UzxO8-TUkjNUXOGzsP7V
+.netflix.com	TRUE	/	TRUE	1807640233	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA7Evc0FGQOisWg_D43ma8zvlGSus0vAY0wn_tiqlAOmhtyq1GNxOXZhdI2wOH-zaFjp2X6wAytWhSvoQanKwaEbsgPmu3F6g05nOCWbBJFI8ecJzgx3piimLhGFL3L1M6GkxCOZgB7ENS9xeQ25OHnldFc8Vcv6wFLL_VHjOutXATJ36vUaXNkDNHlJFO7tcYZPy1Ia-ioe_JSsOHPfdnNLYGKcuK-mWiLBQO5U8jt0obyCq_LvQL6jem-nXNKgTK3P5aOQ6NgkDZGzh_w8nhOiCZY5DRrRhcudghZPpIf_RFcSZFLy1pySImrPknTTy4WZ3FRN0Yg51eSo-EUzuyvGkmsvYBd_Q9dPgmixxuEkeOHW-I8F3A0CNgG_5eOwZ2pge3mBsKVlUO2NGkC7KOekljsjK8eBsQn4EifkJKyeyVcXdLhATHj03icDCSTNUnQw0gIigZOgE4hNF1mNslnEUlcsjzQ44vHwX_R_aOCAGYZ8hb_TMhYUGNUb1dDjFlwcF7p2ztEUaI9BK7Tzo2-GVTS_bzRUsEhgGIg4KDH1aZjk6agUf6DMeOQ..%26pg%3DVRHDWPZFZRCZBIZQJJHUXZLI5Y%26ch%3DAQEAEAABABQUbdc8JALxS9pVu4_lbIz69wxbrGisYYg.
+.netflix.com	TRUE	/	TRUE	1807640233	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTPfy1UGAQDFSmIih2ixPTMNyI87P8XEHo.%26dt%3D1776104233027
+.netflix.com	TRUE	/	FALSE	1807640267	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+19%3A17%3A47+GMT%2B0100+(Central+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d851d088-04fa-4c36-8fd6-af7d280419ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&crTime=1769103515371&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

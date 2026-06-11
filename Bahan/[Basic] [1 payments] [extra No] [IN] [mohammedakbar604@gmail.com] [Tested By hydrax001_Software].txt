@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: flexofrmgvb6$
+– Email: mohammedakbar604@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: 2026-06-12
+– Payment: UPI
+– Card: N/A
+– Phone: +918668115811
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: flexofrmgvb6$
+– User GUID: WEYTNBRQFFBPPBL66DHDZADFLI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805013094	nfvdid	BQFmAAEBECQ2K3gZC0bFLl3F3pxD_KNgXB2_0btdqRSN5DQqq6FK6Lw8Xkc9x8kgTIcC4EneMjtX_qyiEk4R1jBTfbwtevoBB9-JN-P4F8rMPPNtbVuv8ahCM6-U7tSgFydVa_SAMYDw-ARfS74Cb_JTDKeiIlAq
+.netflix.com	TRUE	/	TRUE	1808549473	NetflixId	ct%3DBgjHlOvcAxK-A0BJ67Tax3GdSMcMUvhybWEdm--4gG1ML5jYH6UDz1g9T8vOxa7lHn4hsb23_6cXuOdBOFRUnWtaBzKEPPvFUwu2y_2-rcJkWrCKsGTI1q8Z7Gls889cL_y-noC8TmPJsleMiiGOdIPdYnAYeibcy8WNaxuXN4S6risAftPXEzjB9oy_km0IsSWDPcRbqH1xYwOQpZFsq9e9Yr9Xxydhj4TKsLObBP6m7d-Xq12XZ5w8X6CGZQ1TSl4slF7exTTxd1tef28d_S8zsnslmyYhrxz9jEbjrCc-G5DN-Hj_QQeez43ujzzJV6t1rYeCKnTXHeyFBci5LMR6KDoidP-jL6SMaJXeo8HeSHohI-kBaz4MlLPA5sXYdqR3TOZrjmZ-oJxWP4zSjxVhXAG9yF6flY8B7tlNDK6KVPn3oThgei48C5pr4P41t8_pHsrZlwdNJFdkbfhzd4YJQN6SvwV3tz3b_-HGe7aJjepoMfaoVC34hgQVxoO-2CrLIDbTZzxcdKiGidcEeRX8BiI_t_v4_NN0ao_NcYJBHbo5RG73FylPQc9aoG1t7WWUCuXYOV8FkJ1VGjR5HJ9wKGSL6cwGGAYiDgoMP0WxfS37TLldj9k5%26ch%3DAQEAEAABABTEIxi0h0D76iM0ca7mEtnyHnxp_DjOaz8.%26v%3D3%26pg%3DWEYTNBRQFFBPPBL66DHDZADFLI
+.netflix.com	TRUE	/	FALSE	1808549480	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+12%3A21%3A20+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a53cc636-810d-4cbb-915f-af31c893a4f8&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808549473	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8e0831k1d7Bg5ljAOpaRf2h_O7CUdG_I.%26dt%3D1777013473098

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: YZN
+– Email: abodyy11110@gmail.com
+– Country: SA
+– Plan: الأساسية
+– Member Since: يونيو ٢٠٢٦
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1589
+– Phone: +966557880737
+– Quality: HD720p
+– Streams: 1
+– Price: ‏35 ر.س.‏
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: abdullah
+– User GUID: NYI5N7BCMNFMNGH2D35LQOSXFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802983395	nfvdid	BQFmAAEBEIBkjYa0DRnOzjV8mtSGvBZgU-6915lmfCF-uPvc_BR9QTfXs4Pg7PlUxtx6BCnr1RLDiq5o5ZnoCiUO1PxVsKXPp5fKs_qLy-MAyIDHWkQMTwQ_RJx_lV7osYSNb_SP-NHBHPGtcfPj4FrQKDszxQwR
+.netflix.com	TRUE	/	TRUE	1807641566	NetflixId	ct%3DBgjHlOvcAxKBBMhMwXELXyt4w8BfRa444IaD5WMWF94jTTt8qJh6q5qBfe7ETtTBXCa8e3e_TpxWB1VOnVnhzY5h__1rHL5G8YIGvEgdSutX0wMqnH5adVfQJ-w3o5OrdLFoyaZUddEvCfHZzR6302pEuUP0dRpUYWMWmb2aDm3k0obYxS7Fm-5vw5t6oJUMwBJa7oGNKajGLN4OiPisOSymZSaS7Oxb1Mlg_EnCazAuBlkD772zXyKp5FH6SBfXMrs7yzMzm8KKgDux_6OtVeGAdE4IfByY0Gqis2x57sbEeNMtS5cFEL7sjPbA35cWHZD1H6WHH3RPh6xrPrHIoYxWQxebNwgnnMfYkP472Lx53lAy-gFP_2CUPaX_Nut1JA-EaxFeSKMgyY_oOSglMZlGQHARBJhzv5hJqKVyycCOjpzBzikroRM24mwR7G_Nti4YfU-Rwh_Noi4j2o8ur_A29W7YZ6aYoV1ZvgugD-ml5DRo1bu0pEgQ_e06L3fWIsRWfU-fCnuk3NBzl2A-kxjdyBXPidn72lc2euuIYPfs_UY6fmFdGCxfTEgoYWxEJ381CbPhL6EBiRv1CLhjoipAcjFLZOq_Zc8uIfnYcImz5DpIXN4CyOlWQ1n6gjQ_GmcLs7ixzr7R1gYMBTvXxattPWkLPuze0hP1b6f6FD3-9WRCY0Ysr4KzURgGIg4KDO6c9Gkprr64Zy2WFA..%26ch%3DAQEAEAABABTLjZP_aatUCAHz8GwTy2eHBWROeT-KOIY.%26v%3D3%26pg%3DNYI5N7BCMNFMNGH2D35LQOSXFI
+.netflix.com	TRUE	/	FALSE	1807641570	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+21%3A39%3A30+GMT%2B0300+(%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA+%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A+%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2f55506-0f6b-4fad-ad22-5999bbde8fbc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807641566	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTgGgZFrkWExnXy2iUVSnOcewWhJAjZsa0.%26dt%3D1776105562627

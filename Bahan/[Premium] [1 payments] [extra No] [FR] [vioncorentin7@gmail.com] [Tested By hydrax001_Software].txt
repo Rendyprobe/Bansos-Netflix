@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ilan
+– Email: vioncorentin7@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: décembre 2021
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33602591320
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vioncorentin7
+– User GUID: JTKMRWJTPFALNCBDHA2FTYA4N4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805396374	nfvdid	BQFmAAEBEF6_GE8irVdspWuv3keEzI1g0GV-O4hHOXbBOWbeQNlQlTrXhCxMiWERcibOCZ5vTpnEdsgC0XOoPrQ8QPCCHRjpiM6EeyGC4jCcvzXVAF3zJ1ank5wm_mR0FuYSwB-RMDMshe5AOK5S3_PXOKnAGfuG
+.netflix.com	TRUE	/	TRUE	1806000860	NetflixId	ct%3DBgjHlOvcAxKCBJkKl31Lmgt0wlF2kqEHe8ueRnZ5RFrhHAgZaOVXOrCjdieTsbEtB-gUkkLpP1bBYr9nGSTLF_LhHQ1SBpl3KlVBRgC3sonHCDE4pGQxBbeGva_igU6eEw488ITub4RaaovylhLRvG61VPSM6y8jhpA93-f24yZQKnMOLq8bHTjMqHrwRdCkX7ko1wJMNMDxr6r1LkzSek9ngXWnCgBJHBKIVvsXkmCs19Zwt3JEKn4nngbeH4hCRXsSycXkNqpUFvJVYk_2i-Rq_bI9T50uqGba1jQmE5yOViSuoqy8aTCZqejH8iZWDOUW_R__OAnYZ7r_FJw7WRFg2WdveaIdKv6dEztspoyuqLzw_WkCO3YrP4nxFia7UkDNjsxJW_2RSgKuoENYdiuhEzDry6zp2JFs_bmgH-DH14EqvvwD5XPpg1mdGCOPQHOmYku0qEc6fZtn3lF-9h6vdDtJlNECpHR5aHKrzO-BTgCwRRxuxVCaiGqcSeOQNW618Fl4AyuxQjEc_Z61mIlGLSMeXJ19mTIZ317spRFlk8_fFrRE2DSi9Q5uTBdVqwKgycy2WpsN6g0L9wlUgUEwgF0GeRyVbUcnIK14XkJhhtVCYFpie-fYexrFIor_-dlxXp8nWyt4jAoIoVbcTRmthXpdi--YqPwz0dLnPSBzWpgaBHR6lhXklKMYBiIOCgxFVbBlClidgPv3NBM.%26ch%3DAQEAEAABABTN1H6FLECMrDovX1BnCm2r3fMzxUFdvg4.%26v%3D3%26pg%3DJTKMRWJTPFALNCBDHA2FTYA4N4
+.netflix.com	TRUE	/	FALSE	1806000860	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+19%3A54%3A20+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79841378-c1e8-48d3-af44-7c37834d50ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773860377885&geolocation=FR%3BARA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806000860	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBtswShFTgwwNg9ZJOipdanZAv2X0F00k.%26dt%3D1774464860317

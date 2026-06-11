@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ronald
+– Email: carwrapper@ymail.com
+– Country: NL
+– Plan: Standard
+– Member Since: November 2021
+– Next Billing: 2026-06-30
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31630973702
+– Quality: HD
+– Streams: 2
+– Price: €15.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ronald
+– User GUID: QNXSSZ6HCBDR7M6PEYQNYDM4CM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801914697	nfvdid	BQFmAAEBEGtKFTHwpHf1cspcfe854m9geZz2Wl7ADj1bcxUnKZ59rmbhVvuxeOEjnqxS_Vfy-nqhmD_XdsHBpfYrs8Y3MjBLepwyct2QmRuEe7lQ3llHpPdCgZDSwmjL9GCXfiAxEe0YPvOnPx2Hq1LaUJiiMmkd
+.netflix.com	TRUE	/	TRUE	1808773387	NetflixId	ct%3DBgjHlOvcAxL7A4gDK01twzRR-231rSZ4cClHHG7GRDeeQvr6byxB8rVDO8FKA-KfJPIj76eyJecmahpr-dxdtEdxkmOokyMgzPIXilTE71d--x6tSV-UMSOoa6UQhOG5f6UoRsshWvwiGUAZ2LBufY-ZndQZcPxjQYDVXF01_Owk1-de0TJI7KfxayKmg2cxufHvZBw6szHxbabgr7S0imj6O-AiKgDWHTMYl-wIxx7giGikZLxUi9KU_34LhVnk-nHHxL1zP1mTC61tkDQsFEOENT8cUMQhwoOND8GKVHgQqiN5SZsyZIYD5GcgBDvQrC3H03v5Wx-EBlP0uu-H8unKlkeGxreqn-wpAeFiWgMkW7Q00qnIRPD3waZ-I-S17u-YLZlMbPoj8VG1eVsjKFRIIpeu7e5HaB0wqUM7Otbtn7suXTL6a9ecwkOEyFLK6NPPUYRSw_s2Zvcmfm3HPldWzHQ2x4nqRGYUMMVWaUW9UUgT7OLE37pqBGc2WrYfrwJF-GDejzXVFNI1WGlmnQkp7hl5SaOkfjl9aCOWS_4DNw76cvDr0aSqeCH4XvphiVi72TN4_fJMrofASdNHs50sORMmlFglzrRSdDXfJEKTN_MgaJ36PaCucL-UfPxGz50qje0Q6_avu-JGub2kcxJLi_P2vEOgNaUJvGmNH4uBQMk8zBgGIg4KDGpUPD0gDBulQ3nOZA..%26ch%3DAQEAEAABABTW50wf9pMYiUsvkUpDj1UTuY0qghmZDhM.%26v%3D3%26pg%3DQNXSSZ6HCBDR7M6PEYQNYDM4CM
+.netflix.com	TRUE	/	FALSE	1808773386	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+23%3A03%3A06+GMT%2B0200+(Midden-Europese+zomertijd)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=393edfce-3542-4e2c-8ac0-dbb3411b83aa&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BZH&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808773387	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoudVIxVYpImRNSgsHn4SzyNiNsiryEdk.%26dt%3D1777237387391

@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: IN
 – Plan: Basic
 – Member Since: April 2026
-– Next Billing: 2026-06-07
+– Next Billing: 2026-07-07
 – Payment: UPI
 – Card: N/A
 – Phone: +918903000460

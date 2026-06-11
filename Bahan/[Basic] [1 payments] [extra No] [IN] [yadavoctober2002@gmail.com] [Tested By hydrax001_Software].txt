@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ayansh
+– Email: yadavoctober2002@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: July 2024
+– Next Billing: 2026-06-14
+– Payment: UPI
+– Card: N/A
+– Phone: +918058010029
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dhairya
+– User GUID: DCEJQE34GBHSFHBJ6ZVAX2LMGA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811070498	nfvdid	BQFmAAEBEMTvPQ8W3pM_gxLsfUML41FgBrtBj8AQeSAm_wlb8RfBayMf8x3b2qq3Pj-KV-RyUgqS7GAK1MDDrjwbE96nFwQtwbMpn3A_BtkJMLyAvJwhyzXZQshtMLCbirNsm-DXcjOfdGrsZIbwUQAAr8g9hxKN
+.netflix.com	TRUE	/	TRUE	1811233801	NetflixId	ct%3DBgjHlOvcAxK0A80Us9HVojhFXJumKGlR7PF82ktTAtkyb2EHswA7bqFaU13hC0_MqDB7DbZwaYo_SspoOi9Mevhz5TnnBzHhVa80cp5vsGW4uKQRCftbxvSRpxuvlQLUlw8O2yaQcuzXrEAXY632hV3kHxVJmKgKP0I21uEyeVezlyel55iD3Lrh1JjffEzy8c4nJgqvy6nS_SShmK71ZXop73bz4jb6eGHP4nUbtPja-ulCVkPN_PqMMTCDZDwf7OH9F0lljRgJZzXsWwpnXA0o9C3NDFM5PekUFQtbD1qlzMREcG2cvN_YPwiCwVgk_aO73qMJO5NYLPVOIUYZLCCwvvCOaQeUW11Gn7nRxYz9gq-dGn9qQNbx7f4H3Y4CcehTai19vxOzGv1yZIffXDbxCxz3whkPaIjToj5AZCstvotKx3Aekcm2aGWUJGVZmEq8FDjhnl2sCDN37CmrcbS93_JisbUIQLQgXgqoI56lWpesV_LO3kFWOLnJIypKjCTkuhFGaeDxKjcL6n_MTNTeBCj9ZrWPkEEQYp5SxAb0CYoodybvA8hhViI1JgHHm6yDnK7Vw8YntG3kMm0YBiIOCgwTn9L_T5QpEu54Jj0.%26ch%3DAQEAEAABABSdSy4WAkNsHgtdegCR7vR1ddY68axr5As.%26v%3D3%26pg%3DDCEJQE34GBHSFHBJ6ZVAX2LMGA
+.netflix.com	TRUE	/	FALSE	1811233803	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+14%3A00%3A03+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5f9ac49b-f973-4c8c-8831-3b9a7dcf1792&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779534416770&AwaitingReconsent=false

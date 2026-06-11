@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 똥꾸
+– Email: dltjdals0456@gmail.com
+– Country: KR
+– Plan: 스탠다드
+– Member Since: 2022년 12월
+– Next Billing: 2026-07-03
+– Payment: DCB
+– Card: N/A
+– Phone: +821099093064
+– Quality: HD
+– Streams: 2
+– Price: 13,500원
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 빵꾸
+– User GUID: 6X2S4ASTLFC73ETR3PYTEK3FZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802352977	nfvdid	BQFmAAEBEFtMvHqfMALugHDLzf6pHiVgC5MNTwpJCHPCuz0lSgYrdA5IIFFUizGaWRUuvKUIr9AXGHYgCUxKw6HW9CDPOfAoDCi0gkvxu6aWnTBszPkKngFexXGV74MLhCaUpTFISbcdn-LlLq7VEY1SeBnB1gR-
+.netflix.com	TRUE	/	TRUE	1807800865	NetflixId	ct%3DBgjHlOvcAxKuA06mEZ1JmJED_szDKfNMTuX_XydtpBqwseK6cMpHXzt6y2z3_Ki6ylJlAMXpyJX3MUOXGm4J4knN1K1pvJIgPNDjTM1fazSvNW7hirvZrM1VuSZDY8-O01I_BOLxcSnFisUeI7qIUoPwnHzAUXJaJ4BhcGJ1vxtSGGh8c1AcOPKR8nfWsrlVEdWHoCaltPf9YB9WepdIeh6bhls-uq6HtV4GdcF6p9AFYEwh6INkBCqOK46lHttJUWxUC2sZ8AIG7B2ajaeRyxN5h9RqkI37UT6GQ-LjKov6OrB9hnmPRmgSzDp30BccUD14IMUp2UIU8HIl6inR2K4_GhWUUDXPOlgs0xolXuoLfvQZoG_xTe96z6PDEYctwbPNPgE6pFC5I9E5pPzOWim8NEl1whCzpiV2lo0XJ6_C1Ov7v7zBUyx6CyKDEg2t8K20jvUoytjucNqvOEEDx1Z_9_g4RPpGmalZyzcvf8nmrXHj6kL8XREjGwr3aSC8ltuEod1yvDUj6Kp51hlZAT9LsVbPZWMY2672JkgT70OXavUx-u2kxZuPuxbAGUvUtYy6CA35V9cYBiIOCgx-E1L6VWvHYYp_Lk4.%26ch%3DAQEAEAABABRhjEo4rXm7IiB6BMPrMs1SO-aDBhCMyS4.%26v%3D3%26pg%3D6X2S4ASTLFC73ETR3PYTEK3FZM
+.netflix.com	TRUE	/	FALSE	1807800867	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+23%3A54%3A27+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b919a4aa-d7c6-422a-b62c-4695f2a03cac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770816977808&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807800865	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmsZ4DhisfyGzQpxPsLN9QUVYw8VY21H0.%26dt%3D1776264865548

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nega
+– Email: edna_silva2013@hotmail.com.br
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: março de 2024
+– Next Billing: 2026-06-16
+– Payment: DC
+– Card: 9768
+– Phone: +5511992928054
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Edna Pereira da Silva
+– User GUID: JXKM7BP6ZBBCZKIPHNBYITAPUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805750057	nfvdid	BQFmAAEBEIjrPpY8I6DKBfmCPJ0e-YFgf8nHFFACRMwXO-F6rVNYOmfc6bR4zf-DpXsM7KUBZXHxeFqGYWGEmnm1efILKBGkiyDeXhSO4mo2WE0o-Y_HJaXg5L52mFDSQqGu4Nka2z5Y6lvKer1DAYX7REQ8kKaM
+.netflix.com	TRUE	/	TRUE	1808589607	NetflixId	ct%3DBgjHlOvcAxL-A0X8MQ7AY-XAppWUxR6FKVCVpMcJe8MSVOUilsqnCZ268kVVUwuawaIgFRbN1gl3vSqbcIYS8IBm-B0SdAoL9MQLXD5PyJzEG-Zsr_mas3PMibRyo8-6yWQIHEhKkes0kB90MCC22Ul1rMKPK68s9WEXlx6-axJQh6tsT5vkedgaAmccaOSZ6SpQV32g2M2G6MeZmcIaU2VjI3FYQzOpcYMnxGdqiC5cwaFdbQMQhoDkXKVOM-KdQJ-0NEunC0JRO5HuY4UITOPtXQYMqWcBptQejp81gUcrwp94dUutA0Nr2n4vuCebNdHkZibO7yThm-MXWT8MbYRjOgB4XMlCTGumXonos6tps6K3NWr0fQTS0ZIsdc1xmI8mP2cIl-8V3sZlMy6Kx3CMo6MsJCzb3XSDutvK-DViwAWK6t3QRxdFnZWAh6NKbM0shnt_vEKtUCEI8-TFQ_F6LIrlHsC1vdPMU4EXfZUkHOoPjV97n4j8irakmFJ62IUZwiBjqjVQn2kDbD2ljdBnLE-e7HGfh-ayqX5RJylPABk7y2DpQSPrmgXa3WEyIGo7C8vgeZWURsN2JSa7Jfn5vgZy3vhc_T8rcicAUYxxNnOpdhQy-TDwQqoQUfQXtPs-YMGQcrD9IwnIW3qO2-Yn_ACog59p3NbLvTC0jxjzOyD_7eyQFhgGIg4KDFWRTRbFucRgAE1Bxw..%26ch%3DAQEAEAABABS6LCI_HFdLoFdhZTg7YCz_TyTTuiHcreU.%26v%3D3%26pg%3DJXKM7BP6ZBBCZKIPHNBYITAPUM
+.netflix.com	TRUE	/	FALSE	1808632329	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+02%3A52%3A09+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f36d3795-a430-4bbe-b075-a9063f773e22&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771302496549&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0

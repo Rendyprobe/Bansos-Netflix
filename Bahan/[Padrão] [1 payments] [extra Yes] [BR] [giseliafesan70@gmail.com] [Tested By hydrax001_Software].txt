@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gisélia
+– Email: giseliafesan70@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: dezembro de 2021
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 8487
+– Phone: +5581995251421
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gisélia
+– User GUID: TTF24ZGA2VGQ3HZ3DCP4VFVO34
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803355555	nfvdid	BQFmAAEBEHRQo22Iruy3ktY61tED1kVgyUHhJCDjxRTk71toZL18CMgiL1i3MEfD_EfNCPQv5gYy55U6rxqyOWXVxOM-ijR85hogB9GkJkaA-8dK1IPmwW5Eldy054GznQITf6EynHJKyuePw6vpnIiv8RJBSPpR
+.netflix.com	TRUE	/	TRUE	1809826172	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfAxTAuMPJltzhZ_OmgpCIdwcLDZst6weV0zqVDLwahO56jPwlfYQ_IRrMeakpTXxTbZylj6pl7zna8hN2-Gbaf76bylOBpynoBVurKr7KAOs3e2gpg3xVMl-vrZaD2uvZSQHIfj1lgYv6ubUNzoW-YFTgqrIAwnLG40lHmUV8zV-QpmVDLfDEsqJDargm202cHxO1yTgfyIuQ1MCDt5AMKntQXLA8NLpwyDMTvCjYXsEiklFfCz1XkV7BslVBX0KnMnjRDqAQ-se7AuVLllCkgvViqhZbWO1v2FXht8ifvcIGUjuyk8qBpGJ0KocmDT1ls9totZJH4qVMnH7ycbu9RCxgoy7cvpW3xQ_BwJZpGG0o5eylor4lZlvTTGTfi6Ge6x7rQXs2UPMznOniuSYzumCnEldiZHfjDtAfCw9q4Ru5YxUK0sPNU3NfBRHRG94KtMZDy6QV9XdGaNik08oGNRcndpUJS-C_ArXfdIZs0Bf3HasI7gNli0tqp_U2YaC13hCsoEUAsZMk-reEm5_6lv5T6fQVlSH1WWmHxkudS2kYBiIOCgz4zH2dJOWrNSU2s3g.%26pg%3DTTF24ZGA2VGQ3HZ3DCP4VFVO34%26ch%3DAQEAEAABABTlWFNKci32VlGGGKqsTaNn9dNQGnUrAFc.
+.netflix.com	TRUE	/	FALSE	1809831326	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+23%3A55%3A26+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4b0d633-eb5b-479b-b3bc-d38914a4fa27&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=BR%3BPE&AwaitingReconsent=false&isAnonUser=1&intType=3&crTime=1772149936971&prevHadToken=0&isDntEnabled=0

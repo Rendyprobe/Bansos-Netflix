@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: eme
+– Email: emelinelorrane@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: agosto de 2024
+– Next Billing: N/A
+– Payment: TIM_PI_BILLED
+– Card: N/A
+– Phone: +5547997828918
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: eme
+– User GUID: LULHPUW5F5DX3KUUBC5KDPGYQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789075273	nfvdid	BQFmAAEBEPeqbzGp7NqQVSVqnqeCgSBg6pTyn2CsOkULp9UF4Xyamek737YcTvd5mv9apLLQvYquLTR6y3mvZrSZF5NvUt1jzpP1dg7m7jFYbsAREy57v-jmixox0u9BU8QczR-OoO0PjqhjGnHcFAVm6vQgXT52
+.netflix.com	TRUE	/	TRUE	1789177134	NetflixId	ct%3DBgjHlOvcAxK6Ay5cD05jdpU-5gXnOFo2IGJMIiaoBv8xHeNvit_fBnPLBGLY70A3-K-m9vBovQqGTjrhj-UH2tXKt5g1rKfBPVYXDRbP4HgRRMmLO95qAHQsO7ExGkJhXyPv73ndF5E1_IdAgIVYM8wvuFPrkT00LuSHtPdukO8e3O_k_kYEwef6bHyCHrBNG664ul64wilUt_riggxs4NKa1CELxvc3Ka5RmXRYe5iKwsYMP2gK3LGPqCAfZDs3UhYrg8WqxcQsWnVlWT8pVCIGM_ydybHwM-w1zU-AVckEKHcfC6M0t4r4f9sOgS9l2IbbNiyD0aAL4l4EQq9YEzeldkRk3PtnVSXzANXUsDUmXwEBPQQ2GCU-MRLNrG3Ro5YSBShI-OvXvBcd6Eyys0rp7AvU1fbmW8KvgFjrHBRvV6QdE3ChNV4DJ1JMj1SLR31DY98HG40IruBlGJiyQM4WlwKpiRVVPGwEyT7iZ3QZJeRYP_bZH9SHp3QqGAJmFbLWob51ViSxWsLw8yvMSeBS0ZK5qJt1HAxl9agfTmTZChgRhdeTu3_efNk4zklMQDDsESbouRP_FP6i9eB_RJKYyBIYBiIOCgz6WbvK8goi-RSzOV0.%26ch%3DAQEAEAABABTH7IVG5EG7JQgCMmiunXK6TwQ2jorzmQI.%26v%3D3%26pg%3DLULHPUW5F5DX3KUUBC5KDPGYQE
+.netflix.com	TRUE	/	TRUE	1789177134	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOwnuo3FgyT4dA-zKY8ueADYmQeDgugB0.%26dt%3D1773625104308

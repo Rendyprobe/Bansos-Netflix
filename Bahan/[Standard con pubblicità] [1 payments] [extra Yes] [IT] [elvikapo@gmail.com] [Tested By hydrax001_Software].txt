@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Elvi
+– Email: elvikapo@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: gennaio 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 8599
+– Phone: +393756100268
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elvi
+– User GUID: ATHL3SSEXZFADA3LG3N7MO2YWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800960705	nfvdid	BQFmAAEBEMhbswDO8n1eJFDZUo5uFShgl-3WbqVIh_ZJmq8ft2Re1RRuzqLQe8joy1dsqgAiToTwYZRQ_4FSt6PuewgVzr3nHMDb_kjq49FkTlj9RRTSVqLmpTfwlr4Es2RAnDhtS-X1veFqzsIIDMCG55DmO_gS
+.netflix.com	TRUE	/	TRUE	1807627814	NetflixId	ct%3DBgjHlOvcAxLiA_w8qVHa_Jmp8w_QooPQeesGmeqCdT7U3-WsfF2BCRNmBAAhhhJlmgG7eN8SD0Bq3sloz_O8keroqDubg6R6t7HeunJa5IXYmUEUevWQ0xDV8HatguYvwML9CWM_1TKxJaoVdoBsR4zxR3f3fFtgLZqKkB4mPlDpIUbdd0d3fGQJGvP_eCbseGML_Xt0uLLGwO13cStRznhfcaFTVAkd8NVK2MiugV-jNu2mnhSZLOYd8EkmYAyY_mnNNaSsMEVAaCTVKktzRLnt12L2n352Bkea_Ud4_hrHSesc5Oao_WO0srx7Dg5657vNjEm4O2vtaBP6UyfBv19Dr2FDiM7qonRrx3ba6eeFxRiewKiRCIGI3dS2caoHjyXzt_ohjLX6kQg7TC2d7JZTRWUVRpdxURFXoWGRbKx34wqh7lfEFqlq51kYbTfWlXpO-J5Q_K8TXkr3YfRNpe71iE0Vdpoj5IpgO9ish4W-Ek5whg_abc-MGr1LgBcJJS5A38BEirl0EzGOLB8gx5zrDbkQ-Rp97-Bi94LT0NGhC-F3tuSdNUpj6pXOy9OUTRmqpPSoksjzHPjtZIt0jSu5H8Kj-3JcQYguu604JMOq4_DhweVj77FXztZzF86nZlbMMA_K5j_yuagnGAYiDgoMKjzJeDM7wz_rKZK4%26ch%3DAQEAEAABABTQo650XOTlcwAuatZNgTQaRf83_HOhZo0.%26v%3D3%26pg%3DATHL3SSEXZFADA3LG3N7MO2YWQ
+.netflix.com	TRUE	/	FALSE	1807627817	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+16%3A50%3A17+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af950b41-aab9-495f-a0ec-e4cf6afec960&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769424697293&geolocation=IT%3B82&prevHadToken=0

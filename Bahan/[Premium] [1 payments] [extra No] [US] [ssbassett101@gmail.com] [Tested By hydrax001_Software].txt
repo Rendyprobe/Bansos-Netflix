@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: the rizzler
+– Email: ssbassett101@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 4532
+– Phone: +12523502475
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stormy
+– User GUID: OYNE6MBYEVAJHAEHTI5AUC3NBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809969395	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+13%3A16%3A35+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=67625877-5eff-4582-896c-23835645e5fd&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778433388102&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1809969388	nfvdid	BQFmAAEBEB9H0QjNnq1d5YOm_oYpwcpgwabQ9PsrR_kZXFiOWIza8_vrgJ03huc_JBwMSbWhyyaPsCiEVl9QJT00AWpBhzI3m6eXHHn-lQ5QVmWXrzNtNvLamNG-06TuEwWmWsfEY-h9glIM4ByOdOe1HHXc76we
+.netflix.com	TRUE	/	TRUE	1810524550	NetflixId	ct%3DBgjHlOvcAxK5A6i8AjDh7UfQ0-SNGD8rIzJp3czsO7pZHENfq6UkBj30WY2POIxYNq3fh17eBQFwfgUQ6moHT70BY8yKBfBJIOdirfxEHFVaWg1X9nIgTO5sQUwKoDQ86m82UBisJVkkd4XjQJnCRt0Lx5a6opYYmjvsvmdXYCEL9la6RHyw2uWL54i5ECYgswbrPE36BMxsurg8qQNlHsya9ZVJXs_43190BJPabDGuv6kafGbbRlFausGBrelgqiCGZb5UJJTyLDve5_kpNhvncPpympGlgf5p1yRt3KElyZ6VaBm-BeZAGubXNoxrWDsHnL14dawcOkZUsthLHOQ5xQIZBb5A13mG-XYofihF3wav2QHJAIcDRAs9hh6wCCE7MTzOXT5Hu2i-sVTbt-qPTgnpAGwWVeHe-O6t2ge3nHrj9PhhpTtpih_1V8Q84UEy_m4xke_qZ9AQJUP-oY7S1f4lmce5TcDChQ81AOfOymrkrorOSbRw_0QrGLfIZaouQXTi13LyDAl6YFWF8OA9SNuXurKdqaWM5ys7Lgcg2sFd9KRkj6WVNSmkBblAgd7kNWC1Xdiqg731rJxpcRpIIxgGIg4KDFDLMiNAnCiV5AJffQ..%26ch%3DAQEAEAABABT6x3OwSt-La-jtZbMl2i6M3_nAfi7mz-c.%26v%3D3%26pg%3DOYNE6MBYEVAJHAEHTI5AUC3NBA
+.netflix.com	TRUE	/	TRUE	1810524550	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRQ8aUtB411oEHeGSdxYvjvRX-Zxp1HWKI.%26dt%3D1778988549833

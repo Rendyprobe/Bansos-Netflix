@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jamar
+– Email: morrir6@hotmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: December 2015
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 4104
+– Phone: +14162723662
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ricardo
+– User GUID: 7O5VPW4LKRG6TLOTELEEWDP7L4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056507	nfvdid	BQFmAAEBEL2Dt-YNYLFXEtRXRiYxo1hgxOFS6yF3bmCd1j2T3-ReQuKad5Pu6N0-sQX2baW8p7DL2KN--VOg7VZaJ0xQupoLMtVKCVZmDQmZH1petbXY6Gp_oCl3jnLxBGFASjMugi1g7fIi7XqoZCf2BwZUsV_5
+.netflix.com	TRUE	/	TRUE	1786587669	NetflixId	ct%3DBgjHlOvcAxLXAwGcTFGHBD569wWaBJ6vGgYJCyPhdV7Oxjit4JOtnG8zqeTYVcvQ5c2Taew39iAYUIQemdrndDRStbiDj293iyDK83j0ml_e-0-tQnddEfhHjQTOgX9yTlB0SfNcUKZKmhvhEEZnUnklsaxKMz-HsghP1GmOMBr0XZP9t-eQwyY5Z791I6449DMcwSQc6Kw4f5g-r-72wGry-TZ95AlBMuSKPsKQSidXGx4IbxisA40qF4wQjbLSV5b-Xfz_oiczyAVM_OfUHho2o5sOu66wSvWLJt926htQAgVrSGq6BRjhWOUUPKpzWtr-g2WoS_Wf3AYa9olN7k9TiPhgDFXfZsc_xSypkCYEMGtx47KNYWER8mqRz9gzRSsTeZUuCP-rm_0HKbWfU-gQchEizfkjUDsvTP3H6z4YEZ3mh1FMEII_N1EKp3uDfTvemg3RHjC8__mgeSMhtsWG37OrZwGV6G6J4u2TWE01BigrNSY4UnegtwQ6Z-OT0QArkCdLYB3ll2CUadteRPYzDhht4OznRk300fGS2I8QI_fAFIeEZvirAvexQgRHoqbfCGCV-MrYejsMf_cTHcqwtrVyQvIdZN04FfRCu98B4HqShigOPHAO9U1t4yTetBgGIg4KDA5KKLyJ1cBZ4HGxnA..%26ch%3DAQEAEAABABTe4IOdxTO09LitAmBZFphRndjW5KWxMlk.%26v%3D3%26pg%3D7O5VPW4LKRG6TLOTELEEWDP7L4
+.netflix.com	TRUE	/	FALSE	1786587671	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Aug+12+2025+22%3A21%3A11+GMT-0400+(Eastern+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13e79a90-0397-4dcc-b89b-89b34259c902&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=CA%3BON&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	TRUE	1786587669	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQisB-kgo157prfXEcanh7QrdAr2LXaF5g.%26dt%3D1755051669288

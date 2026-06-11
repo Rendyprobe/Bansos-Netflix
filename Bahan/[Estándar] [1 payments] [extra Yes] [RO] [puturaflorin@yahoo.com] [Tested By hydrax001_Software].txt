@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Florin
+– Email: puturaflorin@yahoo.com
+– Country: RO
+– Plan: Estándar
+– Member Since: abril de 2022
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 1536
+– Phone: +40745376846
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Florin
+– User GUID: ZKX4SLFVVVAWHHIO2XSZO7XOVQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799664489	nfvdid	BQFmAAEBEPsCag8Dhub487cIjG8du9pgofOSHpny67rsgzOC4-3OEtgfSXJdaK4LgVSqFV71YBJnQCwV8xWcgre9KDr6ncy7ijGYXw8r9_eLeFdSua_D0mOyJdAypEjf9TxC3bi8xfd-c5ZOKreAcpUglZ6NusWP
+.netflix.com	TRUE	/	FALSE	1805650943	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+19%3A42%3A23+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=66078726-65f4-4720-8c45-4f99a6b4b1f3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768128486824&AwaitingReconsent=false&intType=1&geolocation=RO%3BBN
+.netflix.com	TRUE	/	TRUE	1805881788	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTppOX5j9CM6hU5ztcuvonoDREKv1cgCIY.%26dt%3D1774345789061
+.netflix.com	TRUE	/	TRUE	1805881788	NetflixId	ct%3DBgjHlOvcAxKNBCbLNVQpQEpNM_MCcIz3h63bOiBzPWv1ETp7OKRQqs5m1r_f1JpaOagxI1AVM9MgjaAQZQt2SMVMqP7rpEVsFJrfguEUJwIQ0TzvNf1mIrxJi0VS4iudikvYKCubh6hDQO6NQLrO7oOsAvd5pszeHPx_aP9PtaMZmO-YRNtqiFa8MHqALQN0tM5mh3b1LW-q_zdmHEKJaQyodUzDxU4fayjRkwjwKUCIK_y4epeWcr-rDqp_zn_zikwYsCX7DiuOYYL9h4Sv0G8pDzEtYYERlEkXQxaroSxoQsYUnKuepSS6JCo8NOiCxsd8BHv5RPQo2pcL2AHPqbNxVhXWbB8KPcJeLMqqWerv5hrDrtHQc0MZZHUWNPuzLrcqKDGQK7CKi-Ib_2jFv0udgYKFNF-Q5cY4C14U_Xv68lOeS_ST0NxDGj21l4qkUuNGNUfPfnJYpjYDjGhU8w-yqHmAhhvVvCFYPrZUrrImbAUScDl9DjXnw3NCv4Hi4eUHzby0oBqjJRazL8NyR7l4qXWF6FAGwr4vUhW9gglBE0uBE6_7r2x2EfCqCRlnnLid0WMhkYz3Co3-k55va_5r-qgQ3dHc8UpB2SBChDfUhFS6chNgYWpJ012cyVU-C7-4nAEP0E4Da_nhP7AvBEIMkkS8-qq15WD_tjIWON3t4dWBP_8UYrwur3N2K3jbtg36E5dW6hgGIg4KDJTPtqEkjsozu1P0jQ..%26ch%3DAQEAEAABABSQ3dt6189HEIyYtiyMcAY9xhQAHtQDUcw.%26v%3D3%26pg%3DZKX4SLFVVVAWHHIO2XSZO7XOVQ

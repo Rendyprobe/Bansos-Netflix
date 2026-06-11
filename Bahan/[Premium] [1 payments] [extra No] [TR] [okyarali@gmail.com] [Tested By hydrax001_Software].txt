@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: okyarali@gmail.com
 – Country: TR
 – Plan: Premium
-– Member Since: julio de 2019
+– Member Since: July 2019
 – Next Billing: 2026-06-14
 – Payment: CC
 – Card: 2546
 – Phone: +905331399303
 – Quality: UHD
 – Streams: 4
-– Price: 379,99 TL
+– Price: 379.99 TL
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes

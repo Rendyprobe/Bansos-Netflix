@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sunil
+– Email: buddysunilpunj@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-06-19
+– Payment: UPI
+– Card: N/A
+– Phone: +918860905807
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: buddysunilSharma
+– User GUID: 33QAPHHSWRDANGOEVEF6L3AGL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1778319119	nfvdid	BQFmAAEBEF5mZ37B05IcOfzr5KZFxqZg6cBdHdBESrp0_Y1TMESW5rqbqCh0BcKhPXnqjCcdtOt2QH86wTK2IN8famGSz4Sy6PIpETXv9QTKdM4li3WGd5D_IigVNbHIZ091ltMNr3HgBdYYDqZIo3FEv7GULCfN
+.netflix.com	TRUE	/	TRUE	1808153967	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAwHHzE0XmzZZMVlPs2Lb5yQK7wsFymWHyZloP-q-DFNNDkoQjih0qN6QeqzXPuKvxcqDLcEUdj15TPgWpJ2PAVno0kctu4_0BOVpFXFuyAi3ZpNkQe8Zajb7DfOCYzkUXkkOM0h21YShBJHY2E-cQFmVZrthp7QywZCMkhMpNtasYB04ArBHYXWkna-3vix2Q_FFxHXaLc72LcIYaLcdI4vrSHHmGRcD7ii7akHwaoWXgJgZ_llrndWer86AWIUyYhcHpF0KvQ4jSTTkZHy2sgKEUaJ_GR1mpwBrbjcnBStL-S75__vdbK8hzXJH1r6Dk7h5-Vfuvy8L82DcvdNqsoXEB5Gr4g0qez_ssnSs9WYTXnijPhJ_9XDxyJy7bhBhVzsXcriuUQD7kVUkRSANxYKY_rZ7hNJ_tT5zDq1noKrdgu3HDY61LG9SpgIosXSwalj3MKoqGL-F_s_N4D1ntlSrKFxr6QrnWx6u5pI6qTb_RCS03v2xa777AXrSdH24g0ML7eY0KJ4v_uNYBr2_bvNT3D2T14dh7Z8YBiIOCgyrfn1z6W_ggn1X290.%26pg%3D33QAPHHSWRDANGOEVEF6L3AGL4%26ch%3DAQEAEAABABTuOkxkWsW3546ImMF7dhgMzwSZ-0hOlhQ.
+.netflix.com	TRUE	/	FALSE	1808153974	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+22%3A29%3A34+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=93a5b38a-fc61-4029-86cc-a58733456ee4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808153967	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuM5ri5KoPxMz11MJ7HbYgcBKkwJITqbE.%26dt%3D1776617966534

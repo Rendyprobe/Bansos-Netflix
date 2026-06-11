@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Suveeeeram
+– Email: madanprabhuram@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: March 2024
+– Next Billing: 2026-06-27
+– Payment: UPI
+– Card: N/A
+– Phone: +919940844251
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Suveeeeram
+– User GUID: 5LNEHOQF4NA2TDK4X44HUKYCLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808119822	nfvdid	BQFmAAEBEJCG0ULvmT2CjpPrPH7yCXhg0Z6BvX6jMT9_b82j3KjEqZYEq6WVeWfqY25_pldIa918-7DJlmfC8HCD3BX-aE2ex2EbW4xG2_GTA3UZjb6bwXvUOMnYt_g67F3tlbY-LOF7ENKO1oP8SFGd5EwXfT3a
+.netflix.com	TRUE	/	TRUE	1808120145	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA9S-ZBId0cO9bRJSCR0CSDvp-24dUJGaircS4txlYZ8xlZ1dsxg7g1_Z6_K5aLabZmPRTcUwakSybwYdgIwRsJGn92qaQ4M210mL2SsA6IYLwmWpblk4PAhpi8eU2QZTziX0yKWtLWUZoFB8UHr66uHvWo6mw44MafIayvFYhzo0SMlzWSZJvMfhygDWekCBYYbAUiYQMrSvVtAPAQYwypDhMvGzhKZ2F9SMLMZNVb2bjzw0bmVHwo_c2j6SY7BDPrL6LXjdLYK9EsLSGlvAK6z995tCKXUJATsiOLXiAACfq-tDbLUT02UfQ4fNSSBMgUO1VRGbZjJDrj1sMS8hyU1iZmTfYqndAUiNOZcxpjy-NqvANku_fPhzmLrHHPSS1dQynjNppQPePlwmmefgDhf6do_3HguZxKfUWyaSq2maioGOvmTNPSq68RjhPqGiS2O14kMReofZeJ5pePXBUIjo8BTHWhed9PC0zm-q9MwdDiQR6TdoXSrnljchOvGmeu7BHZBCo6_QVRdAOqMiR53Oe2nk1nCOXi8YBiIOCgyZRhvK8F45y-0DbbU.%26pg%3D5LNEHOQF4NA2TDK4X44HUKYCLM%26ch%3DAQEAEAABABTxExRuodk9F2_0Jb005Fj-ilQjE4HSf9w.
+.netflix.com	TRUE	/	TRUE	1808120145	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4FBPYV4_mUMrZZiW1cqlt29ExsEQmsbc.%26dt%3D1776584147346
+.netflix.com	TRUE	/	FALSE	1808157039	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+23%3A20%3A39+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bde16e33-c8f1-4345-885c-6b19a1b40fae&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776583564327&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

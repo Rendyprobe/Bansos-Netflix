@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 최영인
+– Email: cwks9112@naver.com
+– Country: KR
+– Plan: Standard with ads
+– Member Since: January 2024
+– Next Billing: 2026-06-22
+– Payment: DCB
+– Card: N/A
+– Phone: +821080067908
+– Quality: HD
+– Streams: 2
+– Price: ₩7,000
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 최원기
+– User GUID: LHY3BLCKVZD6VBVFJNQYX7FCWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801989808	nfvdid	BQFmAAEBEL0QsBT1K5m6ImLuOQHqmlpgn8flDUZaHMmnYl-Ys5-FCuxV1AoTaRZcxKWVHbExUI6OavgAxvUHQMs0mrSevKE6T9No_liUq2Ifo71Kr7ctuU7OzEECBzbH4YdSUK0jY3H846e4TvBnhw43y-2U2RgY
+.netflix.com	TRUE	/	TRUE	1808466630	NetflixId	ct%3DBgjHlOvcAxKHBOPmOojehhqmdfXHo15aV3E4PCHpH2qQV5H6Vt4X66EdZlXqDaX2Fs53eTAIppwuvudjUQNRgSgwC5NpLXeF1u1qX1MmNfDLmXZ1CH74olljoo5vs6CydmFzpsQz2yBglBfFPuzkdpKC5_Z1a-ODThCiv-Q7MinwYQuAmFhmPETBAVBfIKmvL8J0d6zvkxj4bBfzX8Dnxpb7sp3gcX46aeBKCSzfn9KHoNG_fdMCFNCvGFa8qaLA5CQLMuK8hP6jvlqJXp2Akkl348LCkrYayKRwU4HLX0ERY4R1s_lVCua0tjFE3V9uUenb--Jxzk71Sgt6HrK5kRdrvc-QsKeE2iCssg_RSnApKQ6j8KeDMmrw7ucU-ITfOjqRmjB0l0vDl-FqFk9mRGgT28OX3q46PL1bI2td81-baeS_iPGy_t6MR26hKg44ujwjqFTGwKYEwEJdJAbqCSSxy9kepN6ioAVx1bT8yZgMwzxDakqNP1aLLpUfRc8mpfhWb2vpWjYfxvdmJNrW3ES7jpHqigTLnDamaClQ65u-6ulgXIs0PXHiFa1Kdknsnpk2lWXE-8llaVyLN5ooGcqzkw4Fgs3mMyJ9GIZV6aWfc2_Wtm9iRSYb3ZpCtb1qvws-NUnJ3A8z23GE306c5tc3ffX7u8cp8fUrAMCdKPqJ9iI31p7QSxlVhVsZiTVp_hgGIg4KDEXX8SZ28Ub-5nyygg..%26ch%3DAQEAEAABABQMk9Ati1gyBMncyAfD8ZttY1PQzzgGSbw.%26v%3D3%26pg%3DLHY3BLCKVZD6VBVFJNQYX7FCWE
+.netflix.com	TRUE	/	FALSE	1808476338	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+19%3A32%3A18+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3a19b13-2f07-4139-b02c-d40c86ebeb81&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mariebaufof1
+– Email: mariebaufof1@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 5977
+– Phone: +33695595085
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mariebaufof1
+– User GUID: SMLURVAVO5BXZBO4UR2M64UX3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810747160	nfvdid	BQFmAAEBEHkDG0MA3eqNhtDsA46boFBgTU6IwaV0ys04jyL5lDKg5OAl_kACjj_5mFc53bKB7NeKDnL8EpHxlczqZfHvTJdyk0ANXFQVWn6Jm9hbCI2_1TNZbACrTWP4-deni9Lei5JpAE7qE40DcxVx_MPZCdRT
+.netflix.com	TRUE	/	FALSE	1810747497	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+19%3A24%3A57+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8d60b031-372b-47c6-b917-63941923347c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779210419203&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810832986	NetflixId	ct%3DBgjHlOvcAxLDA-sFXrOeDoNsgIYoJNJkKV3C2mn6wBffgydmRuPqPnQNvwfy_Df_63S7Cwky5s1SjEtdKy4Di7Y7nGLfCmY8Srq3n-GOIolwQCuSD_Mjcxi03Ln1CyuvsN566e7oclQjafxxcWWm5tLZ1Dnw6SQRYByiPlNSu0KBc2exT-Q-ff4h5dWbZ78S6hG1tj0YeCsM58Js0oB55ioMx7VUBpgavPl7H0RMZRdvOnYfcAzrsG19UCCqwXGI2N61Hk2b-tfcFI37SaTDeMr10xeMLXcoiPq7KSRp4ss69p1YMWq-UboWlPfh_f_b44XQjzk787viFoRJlloUS2VaIiM-BpfYdbrsfSYA-WHD-77WOKKi8c6_yQ2pGuuwY3E_bcSetNRVV15bnjS2SbDURRMre1DkSRvTMkRt_Zi8wrT3k4Q2U1EXEwLIBfFFWEpfbfYUsAXLgubR_8nOnEjdmFCZ0LCLrY_gKA9AL9lWZOjvhiIFQ9jcRodT4K3Uv43FvZNrDx6_5QGoCHhr_J7RrfldKqFqFMsOP8ki4-maAOl7QXONEPa7NmryfhGHo5NRy_0UdKtXu6cRl0Tu5Oda7lj1bC0JTw2m6aQYBiIOCgy4ErmUDaKpPKcSvJk.%26ch%3DAQEAEAABABTWuTkx_pmX6JczH2qrem0WlbwIsgzeFzU.%26v%3D3%26pg%3DSMLURVAVO5BXZBO4UR2M64UX3A
+.netflix.com	TRUE	/	TRUE	1810832986	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQSACYMSiKttimdFSdXMdG9hSzaItyB3nk.%26dt%3D1779296986658

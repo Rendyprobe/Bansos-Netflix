@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: dowglas.silva@yahoo.com
 – Country: US
 – Plan: Premium
-– Member Since: janeiro de 2025
-– Next Billing: 2026-06-05
+– Member Since: January 2025
+– Next Billing: 2026-07-05
 – Payment: CC
 – Card: 3047
 – Phone: +15085609151
 – Quality: UHD
 – Streams: 4
-– Price: USD 26,99
+– Price: $26.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -24,7 +24,7 @@ VERSION: V2.0.1
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
 
-.netflix.com	TRUE	/	FALSE	1794805308	nfvdid	BQFmAAEBEBEis8q_JI4JgQalzH0Fgqtgw9ckhEznpftNLHpMNnszv0ik8cLA165f4wAwxN0HDvStRb0eBXEkFtQXv5rKWHvZiMxWDdRcCf6l2nZv9kvbV3AvKRdGZgH07FDQF0UWLxUBU4lDUz7UeC7WHpPhpGDX
-.netflix.com	TRUE	/	TRUE	1811021248	NetflixId	ct%3DBgjHlOvcAxLpA1JgzQtl-BeyL9N_aUtdydt02gJ0BsqFedveRlfWYhr7F720VmaN_F02XdJXWmp2bVaZI8XaFEF3m8LayhBKY8M_4WiTRyW6KegHACS2Q3_cVibDMerDQw5ITtPsB356uT9h_PHb9zlWLRXiJUFR4rulWm9aCrNTixIBqQklFLi3CvdGzR1IegkU-NyyVLYvQCNcEfyjbIWUlXc4V87jeuI9qmJyglwoOQ7h_q5QAHITDS6vCmqwwfV1fQQPDpH0LSrZ85eImnCSZJBh8SCVPuiN23Eii5xhJYlrfjRXuN8AXAAqKW98Iza4vF_im2jL39BF8o6vylpb4J2m-y6Jup73K5AjHj3MK3nBX-JU72TNiIPiOwFONkOjSbMYaK1ydhqzO8RJ5Gl_YEyOqXgC21jZaTFtW_eZqAi2JOchxyVpser4s0KvdBpC2tun4kk863Gb9G2Eqwx-fbJ-vnreXheF6xH5lzV9DQcxkJ8jjX_IzHfdGE6EQ-Nkf-KJzvHQeeS2a-NEXuv3MNl80TYr2fhOnJSelPEQ0f7sdhWLoEU9lmKd_HTYbyjyZ1vyBpNnBxO-Gt5y2BfeAybrlhhE35zAql-eZGb0mYsqtV9JRdbYftYXsPxhAC95NO8eNWnRPK2gocCIJMgJpRgGIg4KDG5s6201IHFpf6axKg..%26ch%3DAQEAEAABABR5wwcXoomJQEj1WWWPgMx4PNzlp7QP7IM.%26v%3D3%26pg%3DNZT4ZEBW4BDX7FUGXHVJ2TBVHA
-.netflix.com	TRUE	/	FALSE	1811021249	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+18%3A27%3A29+GMT-0300+(Brasilia+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6530d877-8e5d-475a-bd30-0c440c2236d2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1771635507695&geolocation=BR%3BES&prevHadToken=0&isDntEnabled=0
-.netflix.com	TRUE	/	TRUE	1811021248	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSq3guJKKiunaXpNpLNFJPPT8ioK2PhQ0M.%26dt%3D1779485250599
+.netflix.com	TRUE	/	FALSE	1795400862	nfvdid	BQFmAAEBEOHAajJ9IYSYE6-gwGgaFGdgR7THUQGbTtRVwAD3b5D9xOnR2EaObEPwt1NLsZny1t1pt98nxRAjGA6v0YuC2GKBDYv3e_qxxZhCQ9nnNQxczgLmOROzULibKX9Z2sWnS1hbbyn4sG-xJ1BOQXQC5WdM
+.netflix.com	TRUE	/	TRUE	1810615587	NetflixId	ct%3DBgjHlOvcAxKFBMa0VS_UkGE5qVZHJRsNClrgPriLk2Art9sei4VE05LNXSIDPZRmyCuwckQmeQDfN52_z7LY9jzlEwRxlydWxwl8sYyGfthCySzMFsgrGWgB1VS8YnQ3mKzYLhsIFB12098HHMuKhPuFUQ6hUGd3y9pn_Nph5IfHjYPbbYkQA9vFwxmpJY7KjY_zsOjdv8mXrppKkxXvQKrE5JYGyX5PC21eWB2t7RunE0x-odfzUrMWIq27HS_gzSQD1BRZsJQLiDt3nxM6al5Zmb2s8oC0m9IMDT9_t9GUj-aW2rbmI2Hu2xfx-hCSXdl1S2TXR46nljYWI8oxvsagWXoPgR433t-O51Q9BKg70c1Id94qgGKKiMTn62Cqtxj_P2aS-GXjpkV9mnWqU_eSvReXjLmBt26VkeGwHR87UXr5icju6WF0-Mqs1VeT2vz8T2vpr6VElkapGTk0C-fYBgmYFAWTMQrzwNzS8ndsLrscwP6SqD7YzL__32cYODMIArKF9y3BFwicVpSSpizUdEQkM_xkLZWZDDG0vlggA6KnxFFlaqewiNS_qNVRsegwtu1WISNaf3L4jHgs_6LANilCCOXqgMkJUpRqCn4Pk0u5aqvZaA4hgE775JYKQLGajVNs3Zfo3wsLVHZnIt4teNXl9mx24xQLV0UQWCl-Chhmae4VwmIUbVvG54kYBiIOCgwc0l5eUv38Ht4tnV8.%26ch%3DAQEAEAABABR5wwcXoomJQEj1WWWPgMx4PNzlp7QP7IM.%26v%3D3%26pg%3DNZT4ZEBW4BDX7FUGXHVJ2TBVHA
+.netflix.com	TRUE	/	FALSE	1810615592	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+01%3A46%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f1ca2cc-41cd-4c81-b659-2a8939c3e7ab&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810615587	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxUxd_GOu2jq-gmbIvPinqvdd17islLyQ.%26dt%3D1779079595470

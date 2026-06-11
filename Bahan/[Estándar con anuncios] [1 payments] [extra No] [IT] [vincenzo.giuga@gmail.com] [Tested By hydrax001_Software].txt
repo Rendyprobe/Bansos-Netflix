@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Samu
+– Email: vincenzo.giuga@gmail.com
+– Country: IT
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2025
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vincenzo.giuga
+– User GUID: L4SPMZQJTVA6JOKTWTTDW6I6Q4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791560271	nfvdid	BQFmAAEBECXKNzUy6m3baKKfkS5qk91geFNp8kgso0hwXRr-BwWCvM6RsJTf2YqWI6bL0-mNPr-uuk9Q-ncw2F7mTQM7YwuNr_4FT2Px1MTVv3amoK4YwWJaWST0AQmLerHjNY3enQj1B2WYi4V4oBvQ9lgwu9jF
+.netflix.com	TRUE	/	TRUE	1807041288	NetflixId	ct%3DBgjHlOvcAxL-A3Dn-XF4dFEOgyd4fI5Oj1Ih05hbyy2tDlqiC9R6v7WJGLbsQM8tO5PFZNE3i-0JY8bKDxXUvl5dWdnP8VbtUPPS-qAQYcCEixA3rH6dyRy7R8fm7py5VH2ezp_CjD_kuaYgm0g0n4HVjxjOMM-ISMUxD1Ija89HjVV7zHC8TJzrT-6dmbbsIpDN74GyitRk9uGfuKTILzWGflwHmgPCWxTSSewbVtdjTcVU68pbVmyOt1Rnzgd1sPlYQzUJ_m-uNSChPzx9u97UElTYJY1xxAQg_a2YXsqs7XyKJ-vSbHFlzrb5WNNgABwcehgBlFiqVWIH8jbSjdO84XJHxoNPteX3v085Y4-BkMTlgANQVr1orUwZq-3dKQRVyIoSlhM9L1bkthzaRH1c5VjU2FjiSD_84hXKkuNAh1aYtrYSg5V1frhD2TzoryW15XyoIH9n653Q8M7GPRRi0cbF5ySjj42CNW9UK-XLfzPEOke4eciYjy40jGc4LNMdj9y8jAyxODewIQ2W-sFgNae5nxa0zPEbXr8jO5GzwcVaCUCzvuLjSkBdLfhONcE7CZ8slyR9lL763bl__xQdAcd8JuLka9Dm7rqkO7m7JZL3kvv8Ja49r5vJ6ayV7-UP3IC5fvKv146hG1iFRJslG3fTrC6YrOKQDAllT73sLxlGM99xGRgGIg4KDA2ZLnjQmoRf5gzBSQ..%26ch%3DAQEAEAABABTBJ29LE_gNPVbjXHtsuIddr7T29YLFLME.%26v%3D3%26pg%3DL4SPMZQJTVA6JOKTWTTDW6I6Q4
+.netflix.com	TRUE	/	FALSE	1807041288	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+21%3A54%3A48+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e77d59a8-98cc-4da4-bea7-44b2431e1357&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B82&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807041288	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUQeCc7tsqBxe1vxPBaK-BlytFw85XYT4.%26dt%3D1775505288100

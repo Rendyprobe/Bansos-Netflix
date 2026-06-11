@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: l’affreux
+– Email: anthonylamorille@aol.com
+– Country: FR
+– Plan: Tiêu chuẩn có quảng cáo
+– Member Since: tháng 3 năm 2019
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 9300
+– Phone: +33620778559
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anthony
+– User GUID: XR4KTKHQE5B6FDOVBP2BSMOQWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800172155	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA3t42dga4XGscCfZQ9iZvY4Ui2rAE_3VMqhgytHz7i01bM6-UbnLSB12PS4SJ9prHmJWMfegAgbMwegyytSmKojBxA6C6Grjf6QVLcXX07XwGh2HS0X_K5FK4tMOwYDMyd7_BGHgKLh79NqF893FOqh91yB8lAX8uJ1jxgP-A_l0qeRa6b_KTUvurjsE5VlijIoLWXLF0hgPcv9VPxWWYamojqk3kk0znzdlAHCmz-X4CLmu-_xHdQ_Z3ZaUvYA40UBYdgmcOWZxK0dEhvjBz8LjG4kRdXnQ4ht3-ujWjUif4R3ASUgd22dEmvrS9cqvi6syr2MoJtx3mhtlkQNLtuEWLo3g5N47iC07ByQiCceguc6zEK0wXw1MxGLEyZ74KT8OTpXhBOxIrRo2THvBoOKVDqfnaQwx4gaG2CyRdbWMOkSReDzcgnPZXN4CN8MqK_5wNMJvE36IhwWFasOQR3tOCgsz5xzIlq1ZelGevAyo2NC2ali-4BTgbDBgKC-UArShGAYiDgoMU21VF2g_JVHoSRs2%26pg%3DXR4KTKHQE5B6FDOVBP2BSMOQWI%26ch%3DAQEAEAABABTOyXgMbYmDH-hzI18NY3n26FZybmeAY1o.
+.netflix.com	TRUE	/	FALSE	1800172157	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+08%3A49%3A17+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ebc869d4-34a5-45a7-86bb-8041e939d143&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1768636090767&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1800172155	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTO5ppYRLTbTkmWAGtMHahTHNuJrhrwfoE.%26dt%3D1768636163852
+.netflix.com	TRUE	/	FALSE	1800172150	nfvdid	BQFmAAEBEP1lggDj9FNproAdRLeFdd1gR7Hx7iFgkEsfvVU3Xjzadb2HiVs_Ws-hOgDlLFQm46pa03FG66LBjnBImugXswwphHRyrxyn2fUD-zg9tXWlc-k1J3DOrKQ2Mn6HkzxpsQD_lVXS_Rq0K0R0iGCfwGH1

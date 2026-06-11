@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dragon
+– Email: shahbaz4707@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: July 2024
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +918600668974
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shahbaz4707
+– User GUID: D2Q6X5CAINDPHCFT4IOUA2ODUQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807273507	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSAzHe7dPw4wS9wL9jjbZuTQqnX9jvGnzYSSN_9laLVN4hC9q9EDXhL2boMw7XQ39NO93TLTX81pj-9DhGi2JPpIlrUWcnWCrYGZLSIoCh2vV8y1Zx6KSVbcfrXxRrmL9Y69txYWLy1F_gjwAIhTIG4Z7gxh2YvFRQsO-XOLc90ctmZzjEH-clHYFm1rXozdDD35jkdCEuVUmF571iN4CXKrp3iCsMlvcN1bctkT8PbwLBNznEXdEM-snUIKSyhikkSn-5l76bulLUcdcD3Czfd06bkM9cfEwxAbdLlAZSRey4qiBahmJvJHj8o-arRG0QRf-YSlIlxianaIBWgW1PrRLmkxWEGBERUMK-QMX0YIwITsT6WOn3YwHoIsDtlNl1UF0JYq34RX7Cw_T5OsIYs_YiAmxRS-6Fwd7u6oADOHqKpZnOEuCEDvyVPlZEcC5qp3kY1umyxaxhEteMTRVNEv2p1ygVsIwALA41jwsEYCacDn32yqku2tSc18sAK1JB87P_S-U2cQhs7Aksj8tEZNON3RgGIg4KDEdSbMAvenTRNqb8rw..%26pg%3DD2Q6X5CAINDPHCFT4IOUA2ODUQ%26ch%3DAQEAEAABABSh8zJ3ob2wjofusZgu5P_s9yTsOURGxb0.
+.netflix.com	TRUE	/	FALSE	1807273504	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+17%3A55%3A04+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=febb6e22-535d-452a-bb78-7d3652ee835a&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807273507	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQao2072EHfgQ_H9cPJpc-ILR5mfU-wmvI.%26dt%3D1775737505870
+.netflix.com	TRUE	/	FALSE	1807273497	nfvdid	BQFmAAEBEAsHeAHtpuJQ0GQVitKXtnFgv_-6g4ooi93F4vhHVSLoKY0ESL3ExNMuwwBHLrfN2n8Ug195MiXt85iV9xh4RcSOJO6tdJCP6IXpYPoLC8TePG9J-GZ-KZGhZOS4Xlzqmx71kFy1y-Qnh7PW1eNTw1Ht

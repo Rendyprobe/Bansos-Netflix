@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mark
+– Email: raminanwary711@gmail.com
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: August 2025
+– Next Billing: 2026-06-10
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +4917642011410
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ramin
+– User GUID: OOHL3T7TUNBOFNSMOMTZWS3UYY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786789625	nfvdid	BQFmAAEBELaaW4hL1Q2JaRZ77KQqKNZgXRdGC4bT4oExpzkTYCb9i63VSWDxdSRJmB2Q65koBkMR_5hTi71LNuMIVYG4AtakvZi9tzd6Wq8Q6J4jFx3CHX86spIki4bIHTnDkyfFYKCErXNzraV2HFW4lEVFlx_t
+.netflix.com	TRUE	/	TRUE	1807707859	NetflixId	ct%3DBgjHlOvcAxKABMFKA7oFU01CCFJlmcdt828oPf1o2Dt83AyaRRY_wrOYzUljeiXz4K-WhFM01mz9Oxmcldb8RF5mAHsK19wOV_XqyoePzxt8GSpDPjpnbBRcsYIWpCyQEk3Bq51u_up6n8lFwOjZV5rtQ0ojztucqrxWByyKtNfPU1JoqOR3oyS0Y8PFvneVxNUrzf547geoKE0mO5CLMs5bNCBcaHLZtO-IMgRTMYS41XUeS8o5NEePtoXuY42fyC1wxDlkY-jSHsvxCkM3V1b8RwY6kolMUxEeWNLtKQ4J-0YdeSyZ7yIg3fgBQi18_DdksmrIJ_MweD1Xh6Wx911jEOfmzo0tY2HXebFu7XajMEPIdALQOX6qz8jprrZ9TSav0fXXuUTqoA15hRQLvrbYSYLdmkIS0Gei_qlOaDIrh8qxzDBngigvxbPJEvn_hdV20hzfNlCoEqwnZr8bIdHgEpa8YkXQhCykmNpClmgCRpGPtZDDJMUKJNdclA5AVrkqAY81YBGOTiJErBn5hw_VDiARUbhlQm8Uhrdhst3dmx7SCqp5LOUz4i_f6lpGmUXqt8lQGoq7a8Xk_wcm8-5cj-FYtcD4yy7Yw3Qhnyf036D5iCUvd2JovznEHU3F5vHvSQNr5r937cvRia5z1xaBLxAOUpZ5TPVQoUB_OYlx9aai0D8rPLWdGAYiDgoMTcbJzM8DrIz90pVc%26ch%3DAQEAEAABABQxnBpzOb8erXUVE9WrQN31h0yjAUmdWcI.%26v%3D3%26pg%3DOOHL3T7TUNBOFNSMOMTZWS3UYY
+.netflix.com	TRUE	/	FALSE	1807707860	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+15%3A04%3A20+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d447903f-ee56-47d2-b154-45d48a830bf8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=DE%3BNW&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807707859	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmJG29iPfTfwVgTSHzWEeduE5PVvcqHFI.%26dt%3D1776171852408

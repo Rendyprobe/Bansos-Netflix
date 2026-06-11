@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: manishcurious
+– Email: manishcurious@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +917483154338
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: manishcurious
+– User GUID: 6GSROTOYXRA7THRO3G5QGBPAAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810115776	nfvdid	BQFmAAEBELq5cbnW1tltJfc5XpCEgzdgZLWBCIw_A1v-qpa_ULZBQ_yVv-G_K5kV8a054K_zVbzBotetjL0TNjHgohxk_9aPS25S01ixc1uuU5AlhJonKj-THpEtIZHwFGgk0APp2bzDowtU-W63kORyS1kjfS7D
+.netflix.com	TRUE	/	TRUE	1810116352	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA18nSAWOsbXVZy___3SAS1LoNIEl_oXYJbm6034gelCRZzjQtglrry7bwacKVQxRFLXw2Aqsem6eAID2ErIWJhgyafFFTn0EmA3-7Kkhu06ghIGPzip0ufDmnMZLnClAQHllYLha5YFRFCWrFUBiuAdWC43djjxXVfymOnUWnM3S1KOykX1M3aVM54PbupoDgopJL9j-LJkQHiLNSpqEXgpyAy7retcLYEJNss0Ohd7JeAtz-iH5yzGSSR0c76YanUSnXRUgd86lpLPf4saL2p91XWGkxSkJ3PEyMdC6OoUuA54M3wBMlaLdHcFzhXymQUHGy26g2nuky9SoQwKNKqK3OJgsvFh1AW7cj94YRCqvSXK9JB8AeiUjcSMvPSnKteID4TCU8dtR423fClVdVUaBTMehIBdPY5fMDFQbxrkQVUQ7WkYB-gYn2FAjGoE8qFTTIvaCDHAWvDIHDqfQPKt8obzirTMGMhzFY6WxWtAGjiv3awaU3c_Oj1KsZeQYAPSi-dfAUWuaeVlW7lJdD8O_S1Gbew4HGAYiDgoMg_vtWpy2pWmpHdhX%26pg%3D6GSROTOYXRA7THRO3G5QGBPAAU%26ch%3DAQEAEAABABS0R8VB6Xu50qL59cNnXpbcAx4x3mHXApA.
+.netflix.com	TRUE	/	TRUE	1810116352	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0ve2Qt0U_WBrCmz0_ytm1yl2fc8oxa_g.%26dt%3D1778580353973
+.netflix.com	TRUE	/	FALSE	1810124362	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+17%3A49%3A22+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=63a86dcf-3574-4750-8754-945a3df93a9c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777541326890&AwaitingReconsent=false

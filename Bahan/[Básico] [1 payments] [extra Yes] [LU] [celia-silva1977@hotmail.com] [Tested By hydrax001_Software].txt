@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriel
+– Email: celia-silva1977@hotmail.com
+– Country: LU
+– Plan: Básico
+– Member Since: setembro de 2023
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 9396
+– Phone: +352691280377
+– Quality: HD720p
+– Streams: 1
+– Price: 10,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gabriel
+– User GUID: AHNSY6AKPFAFHMWW4DZ6GTIFK4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806673214	nfvdid	BQFmAAEBEJPwc264Z6CIemWCmQa2IZVgVbhiRXo9EIqKIIs351XqNCgV9KTkBJ64s7yvqTGdWS84E79eIyr6CIxiAH8TUf-DIqH2K5bJoaA8LJJxBXSg4SiWfVGxo2iHpGAXOnE2a5sPBwaK0RQ1tInrbjFZeUzN
+.netflix.com	TRUE	/	TRUE	1809173807	NetflixId	ct%3DBgjHlOvcAxKQBB1k__726LSyjFL67LNQy2Uj_ngxdDTlnudXm2kIuhAuodVDPmO7b_aTWrM-tbt8b2Zof3jaA6JIYvza9ueFDPRnH7wgqsqjquqrz-dUMxOcK7LWLLMvDilM6C0B86gdGZj2o1u-oNkvJpItbn8gBFtEwShXkenumBR0oH-lDDS3xu-wnqKIWfauCA54UBoBtvbejNJWz1h9l58ydcrvUYeiBZfHkmfX6LkMIr64ieJvEpBKK1MDLa8J22gEgXNKCS8Y3q7rA-uVmIJJi-3CIub99H9qRx1MXKsMZjb52ZXb8hI1wmuStlGLFyc0t3HrPfTPZxc220Nh_43JVTRE9KBOPn8HYIJg0BrfAm7qXbi308n1urlY4f_fHwmWgx6CIffegfs33dCy7v4s5Gcs1__u9CWDbiI-SPeJx_b4ruBVlyaG8AMuU-BGN83NDbK8HsTWrblc6TAmPELwB7a7R1EP0pPvrBYlBAbO1R8U7rS6Dxu407FAlSZjl-Q3pRKYS09yRwN-xMVGqs7UvxjMeyp5dq6CxtyY99gR4AtM4kJ13fzTvy6zaNjFwa32FvOcSBQ2hvkjD5R1b1f8WybiMSbPvC_nOdRSzVZp9hdAn8ahMRqLq503N1gyCvl48S3TLOkifwiXmHPPIGurdeT77ip2fpg0uAFfobqUh-EMBE2ZvvpAAWmexTwlqpY1MbWWHBgGIg4KDPBuhxhx-iTJfzV4WQ..%26ch%3DAQEAEAABABSMTwOhWdnBN1K7k0NAtHymmVjObTK4Nak.%26v%3D3%26pg%3DAHNSY6AKPFAFHMWW4DZ6GTIFK4
+.netflix.com	TRUE	/	FALSE	1809173808	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+14%3A16%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7b7cf531-3b3c-41ca-a691-8640367a9f87&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1775137086051&geolocation=LU%3BES&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809173807	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0pGgdzqql-rJlhhZ2OKtIJi6KJcOXsEo.%26dt%3D1777637807400

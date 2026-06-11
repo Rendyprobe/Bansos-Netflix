@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Caitlyn
+– Email: yvet.westcott@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: December 2018
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1020
+– Phone: +27832915167
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ruru
+– User GUID: PEJXDOZX2FCBLDAHOFMWUK672I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799175430	nfvdid	BQFmAAEBEInYVUpTbU_W4XeFC0I9ioJgwshkonwylV41ghMNB0-3OXNJ64D8mb0FwxTflEVE6cVx7eA6Lv5yk3ulIx_vpZECW8F_ZS5h9gVJGk5efZDtBUqQ3_ceFpF41ST3jos5XeepeU1rZ4ijZlA-ayfF7d6R
+.netflix.com	TRUE	/	TRUE	1805979587	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA9slbX2qXnCrY2JOgNNfED78I5MmxZCRBsKXHJHN_b3SIIvkeyhEDh9AJzLWzrmLBbFQLE4qw5JRQaBj_2TcOrf-q6re-lTRoZpxUexx0lV9T2GOOqZ3f3NB1Ct9cJ8mUXVR65CjUM4NEchec20ohdbx0rq7ROrMxdXdL6t-_5jwFIEdK5tdicmL1n-CvPZUcp9c2WXvxPibZH3umjH94mK0OKNv6U0cuLPGtrdyCaXhKUI7wg1Efe8zBP7fEPdbIbBG3bH8Tehwk0g_n9FW8GW5U4WYschxitJKi2tU0AvU-CiqW-bir9rniQbAF_3-qdfRS0mSVzdjSpFvYxMHYZAQeqiuqjUP6sXwjeGJkJcGRE8jlYw80ll3K6Ddov8V27CAt-9LltpxhuoDKrcjUgWXCafqfBo855clWJQ9QYNFN5b1lHU4-LnWnK7zOfnYwBYtJWoQJU3db6KWRThOL0XcCI5T0hx7Jfeb8FIEYGDY0l-iTW9yuyyTtr2rNbRiJJ-kVh2ETn-diIAH720vyza2NDwsUTCloza7TxgGIg4KDNwjuHCe0RI2b0T9hQ..%26pg%3DPEJXDOZX2FCBLDAHOFMWUK672I%26ch%3DAQEAEAABABThHuz5QnMJHiH9VXcuwzMc2eqsZlcBdbs.
+.netflix.com	TRUE	/	FALSE	1805979588	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+14%3A59%3A48+GMT%2B0200+(South+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa8b6dc5-29ad-4d9e-8f6c-9118c37c9562&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805979587	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFEEb364jJ4DZi2t-8m1UK0HFAYoWO7oY.%26dt%3D1774443587140

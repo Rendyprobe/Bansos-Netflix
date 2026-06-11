@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jaamal
+– Email: kmngothe@gmail.com
+– Country: KE
+– Plan: Standard
+– Member Since: November 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5533
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: Ksh 700
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kmngothe
+– User GUID: SU2V6R3EQRFJHABIT2AGUUGP4M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795418742	nfvdid	BQFmAAEBELAmWdbYrb_SLXENQ1BfTiBgY_IY3fIEBRgHQzQA880WIv8ecYAgV3SlYkFrnA23LF_C6slaFX73bZYePp_0JhQVoHQ1zf9R1V1Hxuab5AWEEWgsmfpZa-ebgF4K3mxEmI0MA-xFKo_Z74ZMZjbS7TMx
+.netflix.com	TRUE	/	TRUE	1795418755	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AmWI_4xc-mdrOSJ8YMes4EOGW32LPOTJMOiogZCUomZlvYFnRgbMVedbdslOUt5itTVWVou237GVRzReVM0aO7l3ATdkiP6q1dAGbzFYg5TnJjKX6s3A4PMVydExalDoUigDb8aVvRlxgcZB_XJVrnkf_b6L6_6tgh4eiMWhtguvxYQx5G2J29vBLANO7HIloJi5blcaR6mIoA6yQdwkoLpvo67ZzHYWE85uxxwBhR5hQRTmG-JEQK65d9FMrIxL2Cnv1J84MUuk5-CNnAHzOGsnFxg-c_iwCCn4tR8erjQym31fez-Q8zPGUQsLDeCbhN5Zs9qyBfqPxNpKoJ7RfRM3MUjGh9DyApa3BH8ClUnbie5qgR-VXWMoQv00A9NDVT1BAogsuzRpAhDGxF4p3cCQyqMafNjG-FkWUfuUVSrU8CJ3xEuZhhWcF7p1GZiGFr44GfIhv4MNY3Q0PaQSCoSbotSusu0NL4GfUGhtDfwhBCOULZojt_0YBiIOCgxeMQe2qIDCMvdeg3E.%26pg%3DSU2V6R3EQRFJHABIT2AGUUGP4M%26ch%3DAQEAEAABABTkT6eCVNdR3Rkv4kn43jnN4y1WRAJPZxU.
+.netflix.com	TRUE	/	FALSE	1795418757	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+23+2025+10%3A25%3A57+GMT%2B0300+(East+Africa+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c8dcd29-0200-434c-8c24-ec6be19fb9b6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Samuel
+– Email: argumeroluigi6@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: febrero de 2026
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 4659
+– Phone: +573022052167
+– Quality: HD
+– Streams: 2
+– Price: COP 29,900
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luigi
+– User GUID: T2MSOSCRKVCKRJJYH5MZJRRABA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806768273	nfvdid	BQFmAAEBEN2uLqZrbpRm4R9UjI-EzzRgzQiYvemarMLSu09y2JKBPrcDg3gAchNs0bpodo8Yzx9kjwFeuMn4OEALNIpRoeRs6PoxGc8B0YHIoTi647qcgAZRaIPPVLE_FuTpUu1gKvpM3f_1lqJiWQ4c5XqZI2Ui
+.netflix.com	TRUE	/	TRUE	1807930964	NetflixId	ct%3DBgjHlOvcAxLmA65LH9-pbsyOCGBiQeskrw_LkIGwvidLgFbHeWQrTZtO7cqJGzPyzwM50SnMSNOb9_PkqOOx7Cb74cKBed6cEk8JVKdNVam15tNfwZPMiowBrrc3LAja-ty3mulhAj6O9cetQHtz14QWNE2Fu6o98-2bS7TRdZQC2uAqW-AMdwsoAxbzYy4FBJfRqQCBloDbvx6Sgq1zfcZgNWI5luwFchRAUMhfxekSBUVrtrL6pW7SGQFmzMGEUeICWYzRMDaoahDnGvwAiRVJUWdeogJt9DtykWmjGdZhG5frMxTwwLYVjdi7Gxw2j8XMzEwHZJDXACzfN6ixJmb2YFiBX5tyIvbhnPyNnoF7_bhkL-GrDzFUJvPYBPxk0jEydYhb1jhd3AbOpAFcigYF9mxryV6siYNhokTm2n4dtFuA6AfwQGprw09n4XYTJ2d7-OTicdl2aGqSv2Iw8Zqk6RyXnkltG2JMgsx_jGmUo1c7YKjCGQb25zb0NHiaCEAuxyzLbUDR73BFn32IQptb9P4zdeCd6NV97adBurvKjsCvUDGnJHO1wigJKEPGLqn0nMKCf0YlFGQOEK5VaJMEzW1_wuMSC487D9lI9wo-p2qUQg9Q7DS50opDsp3s5OdyQbiZK1XQINLUGhm5HxgGIg4KDMh3LFnqdLWG5OMhfA..%26ch%3DAQEAEAABABTp_T9NlpGe0oNud-Ld0mEasa5YaCTvbK8.%26v%3D3%26pg%3DT2MSOSCRKVCKRJJYH5MZJRRABA
+.netflix.com	TRUE	/	FALSE	1807930966	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+22%3A02%3A46+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6f032990-8248-4560-aa56-f1c683dd4e33&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774472697995&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807930964	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRcNGw35q9YYJ9-MPJPKkr26iD57W6PaQ.%26dt%3D1776394963819

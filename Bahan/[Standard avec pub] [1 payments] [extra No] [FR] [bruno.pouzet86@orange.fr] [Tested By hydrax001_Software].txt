@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Loris
+– Email: bruno.pouzet86@orange.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: avril 2023
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bruno.pouzet86
+– User GUID: T2ABIVKXA5B6PEQI2G57VB6S5I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782061483	nfvdid	BQFmAAEBENNQMNO0sJ7i029G0q4gsbdg1bfQ4yP0-GMEryYfJk5K3pjGMg_Yr7GhwBxxkxd-OenWVtgAnFe9a0yS5zKzElE20D9GFQFdnnvk34o2ODjpVoAfcBklwrA3mg5szoW1GGub410jcLXlYhZLORNeu7vg
+.netflix.com	TRUE	/	FALSE	1782061483	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA_6cQm96md7fp4cAyeCh5GiFi678ux8gshBTZM7Sl6rf1SDPiXOypHKtcuEduy87GHGPt2mH8kDaspdIsYX8uKTRBaT2oLgNgO44tY4wDuPjC3q220IFu4tOfogt0swFzUUEEfR-xjZDd8WUc94fKvgCIohwunsIYcbe9TqTGm-bjNjG8RYvFY_j2yEXpUed_ID2KPWTbCTU1cHNrZejLYLs2TZsdto22Jyjsksf37Z3WTQfgAuqj7sfGGb569h4TT6Yw2DLFBtid9MKGGJB78On9wNOwS5ehe9jD39KFKVNcu5j6g8DgS81SRZFBdaJKlLMS5oB0WtRllzstx3URLoKIp6U67L2_Eh-KaxHJMRsKd0f0A3TiysTfZXwjbbSFdKfhIOu1bXZ3ajl4mwZODTn0xV74t3XbIylGuz03LknHT_yDKjAlWK9bIZILZTNwQ9mgFzHsd14xaTGKohA_HGG4QCZ1HigpgMhP43Qjm3lO_YlJFlD2mhxIIFeKC_y-Js1aK9cHISTlTDZBOkz7epqsZjyvFvURQEYBiIOCgzrxaU-GXRbPtKVxjA.%26pg%3DT2ABIVKXA5B6PEQI2G57VB6S5I%26ch%3DAQEAEAABABRpDILqiXwwH5x0gpkFA-KCVID08ejNjCM.
+.netflix.com	TRUE	/	FALSE	1782061483	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+13%3A23%3A41+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=232ccdc5-b953-462c-ba83-248ed1e7d876&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768221755822&geolocation=FR%3BNAQ&AwaitingReconsent=false

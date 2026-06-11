@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: RISHI
+– Email: manavsandhu675@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: November 2024
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: +916283504338
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: RISHI
+– User GUID: VUNN6QDIQBGIBK35NMGDDLUSEA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807767376	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+11%3A06%3A16+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=26441942-eaf2-498d-bec1-a442e9a725ea&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776231312374&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1807767375	nfvdid	BQFmAAEBEG7s1EYulLEdDrGPSgQGpxxg3a9tdKPBmf4-npUlZDcNygNKSSLEVs1VrV1NOUgxnQPvwcohhWyWF8mjiXlea9y7Pso82HN47htfcar2U3__mF3I88EUoVFa0l1vR-E1vAQeLdvQhB0JQji8Z0W0oSAI
+.netflix.com	TRUE	/	TRUE	1809104791	NetflixId	ct%3DBgjHlOvcAxK8Aw2uJnb4-AkGQv8gqGibs7l7xlHoY3bjhP4Wx40X_E4hzT2FGWi1gK2_XkQAUqNmmyGgipZleazdB4CUEoHrTTk5Rn_XsR8Olrl1VKADJKYPBaloi5RHHR4zvDLRtHLnwQXa8CYKpZn-hq_erMzS1NSlQ_BbL8ryHSDEGNohRTkvtopXhjvhZiA-Z5JCVp2yksvUx11tDg2Z7NKbuRC3ILCbpp2Q1m__WDUCUIqo6d8vkcjVljdF5GnIOgs7Ldrj__66QIMVBAKVzKJ1JkIVBUQFCc75UsR88KIFNK8hQ68PN1fg9HgEX5KyGAViPS7mbGs_fUrsRzp7Z8YylEQ8IKhHEot1Ztg-0XLFTVyu3RX7QAiPqWrZl7daRY60XUuzWpjUWZbdnVAEmcj15op8hCxDGeh8pFVupQRgD2oL8e8zeHXiuS4N86Mt0XHdP0OUxJx-cHK4v14yw7HbX9xFgWeLdDkNHpMF4pBpdNKb-9rkXgaJSttsXMoW5lf2Kl_ru0vM6mIqA9912umjWOWBfnt2LXXo8DiTe3BjfCLk2nN1-iv2BMJcJBNU8yqRV-Cs8x3iBjbPn2NIBVp3mhgGIg4KDHQqT3Dtc-RYtLnUxg..%26ch%3DAQEAEAABABQYK0YQHEH8xbZLnSSLzGcgz2f53H7baLs.%26v%3D3%26pg%3DVUNN6QDIQBGIBK35NMGDDLUSEA
+.netflix.com	TRUE	/	TRUE	1809104791	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4xqPin697xMYXyAtvboov-1P5MsUSiOU.%26dt%3D1777568793561

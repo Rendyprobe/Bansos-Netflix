@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francesco
+– Email: filomenaruggiero83@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: gennaio 2026
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 5825
+– Phone: +393345440696
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Francesco
+– User GUID: SHJVKANENFGVNGLXK7O5EWU5JM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792523386	nfvdid	BQFmAAEBEIuVZfh8K3jn-WeRuQaJIY5gXE3lULLdDJ92Db6mcPLF_zMzQ4ZuqM4Wwn4vK-eXvsO7tNnhKb3Hgy0QTCJKwbX1DHkVteADikm2S_ub8QiapuAk4lTQnMLd1htqT12tP9U4tuJxBEqZ71-9FGzeSK2u
+.netflix.com	TRUE	/	FALSE	1807820321	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+22%3A18%3A41+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db44d634-6134-4734-8cd3-20788d6afae7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B72&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807806850	NetflixId	ct%3DBgjHlOvcAxL6A9F9IJRjiUsZGmw_OUDJO4ub-s9FexgmmvUQuxVMPiVX9rA5hjHZbWiqf3zT-SoY94cg1jbzJmKBZbyOfpYY6nt-uAGlAqJgN0omrSW1wu3wuRDOIcn64smm4S2bWQ1e6gQYer9XTUm4oT0b1ClLybIRgNB-W-mcs4XBDaDHGzzAxwHjLtpLSzMuwufQTURZurXsbDMHxQn0oH-ne4Xwf1POz-SB_OUma4aN4_ash-c3ARijFGwO0BYWmRSrLLZ5rMA2whaSW5xWWILUAtQV6lclg4bbD9_2QYybXKaK6bkpz3Ln3Uqxw72HtgA2CqGOGckF6gd_OjgRaByuVnnwG5ArcutNaZwwI3sj2Y-fjUygFFz0EDKBZdSxzFieG9YYwgGBsypQKh631t82UfiRwLata9manl2cyCDTlGE2_yBBmKsSbiUEOTEktqghg8qNr25jh5l8ZUOnJZxP639jx0HEdaLKlcw_7-5w3sJu3rOFRCi87KLXuoaJuzbxu4CyiE4QWZA2oW7NXGeb4p-VJ2c8eJ0cToJsWJgpVRv3AZU_t-ijW9mLM3m4oacEdRmy1z14KcCRFHH-zlqPS4X31BdM_W_B6s5O6sld4xgHXf-Ok0_Wp7QgVDht5p43QkKsFxkMY3TOnalWh9QMhQu1YT5qV6hWQaaXCoHjGAYiDgoMCMy_g2sA7abVkifW%26ch%3DAQEAEAABABRIF1d9QqlyJeVWxVzL5Q4rn94ZBs6MV1Q.%26v%3D3%26pg%3DSHJVKANENFGVNGLXK7O5EWU5JM
+.netflix.com	TRUE	/	TRUE	1807806850	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiUhyAS4fLhB9SDIg_bCLt9m-eVNoB8uM.%26dt%3D1776270847184

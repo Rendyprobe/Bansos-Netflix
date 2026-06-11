@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Apoo
+– Email: ademhilo44@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Temmuz 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 2184
+– Phone: +905060312520
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ADEM
+– User GUID: XVSB4HV7YJAJDOEGSY2CSSLS5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793893054	nfvdid	BQFmAAEBEJVSsYnCURFG7O_lcslzTXpgkI6F93MUvPGk4J07C2noT-UhOCj8k4GVYFMvMXhdccq6vQ16L6oNdgtmW2rKuNHBRDnCuNakGFMApL-GlPYcgNuqc6LsW4P-SzJ8TSuX0V6comlYO1TbIeL66zcf-kSY
+.netflix.com	TRUE	/	TRUE	1795447969	NetflixId	ct%3DBgjHlOvcAxKCBKYy--PjH7p7nji884i0aKTfGK3r0r4Kfc3uDyev3llfHDMmuz5eiNukNXaJ-WHEPhsRlyTsmYBPas0CCUTPQfHhRrj1u5NnCIvOCvA0uHIOQJp0c4hqVoirqjVSmMY8lQ4VQW42S4IRarKN0LFaOjzGDbjG3b2lDzBwwZND620xqwz3wc41SRmWR4ih4QBPX3raWFwoBLSwbL14c8ZdeNFBHry7eVVP-tc8oHZZYHTjKIi1kLbz9GqViMct3muYJQW9xfM-GrdVLcZK7RBkkJaN94Y6RCanY4HH3JBotaLCrmCHUvf2X2LegtsgaFsO4-a6jMxlAr9YnU7Lp5hmc_IjUxB_pbmtTFUVMV-BuAq4gXjfdr2VI6Oc53UXPA6dAPoEYsvWZH2LBxUoV5PUdulIXoMEACCOxeqVaa_EfVW1E58fGgclP8YDM_R1mojzennY902HIrbfQhA1Znu7BPju5KikaoItbuAS1-3kDVmdNhG3uVXqw-Ox0KQTJWu6w-9lxd-ZQFp_7BYvOe61OAttzfuDs2W2lEzyVmVw1Z3Ae8UuOcFcdv2qGpQRlvld5k5-NTkjFINmyWqYoybaryopUe6mLnYs0DheogY_BMcFlVfYtnqQ15iv6YAA-Xjkxqzz1WYLocfNN9EngQFetRT5cE-b_LHtf6DVaXQI6mCSmG0YBiIOCgyXZxepqS6nrzlRBsA.%26ch%3DAQEAEAABABTjAooM-zMQ7JqR5hSshHXlBLTswfz7Ois.%26v%3D3%26pg%3DXVSB4HV7YJAJDOEGSY2CSSLS5A
+.netflix.com	TRUE	/	TRUE	1795447969	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT04kFFgucPij0_odZ0tHiL4Rcf--94hXw.%26dt%3D1779895970743

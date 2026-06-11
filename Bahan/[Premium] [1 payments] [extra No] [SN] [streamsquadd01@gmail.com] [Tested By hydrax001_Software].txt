@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: streamsquadd01@gmail.com
 – Country: SN
 – Plan: Premium
-– Member Since: juillet 2025
+– Member Since: July 2025
 – Next Billing: 2026-06-22
 – Payment: CC
 – Card: 0227
 – Phone: N/A
 – Quality: UHD
 – Streams: 4
-– Price: 9,99 $US
+– Price: $9.99
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes

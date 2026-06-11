@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jose luis:)
+– Email: josedomingo97@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: diciembre de 2017
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0027
+– Phone: +34627378755
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jose luis:)
+– User GUID: QU7EDKTDPRGT3OOP6OJGI63BFY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1787852903	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA1OeOZFRa0K4RHfaW3yF5bs7oW6LLb-wyGfvzJZPm5A_hKceILHsnnYOIc4oZiHzi7tZUdhiQBff1S8imryfpb6VL_WAtaoMJEDGja4NUSSeGvu6jV756EE2RROP73h2DkKppkc9JIEqeyckIiI5fwJkZEe4op_7r1K08uHw1oY-W_4LqxGTz6NEnaDEqq_u59R8hGlZzLSi82qsUlnPddhvDWq48bumR64rWOzH8Uef3s_Gz7yPfxK9vYEFjNnbUdp_v1GXf58AyDR7WQbsOrV0NbflvnxLeK9kWaTpBvCLGvfTLju9vYgw_GPICp36oNHkkIq4og4RfeJF-TrP4qzr8-i7DSX8bEQcF5WR2DOkqocLpgmRjAYJ-Qu6YafJcm3CLP1rXDb4K5wk4BSW9F7gaOSsTqzB7-fPo5_b3Um0a2uRyDNi57-iLLGDOrEkp1V8Zjbbrlo1lqR_8sbgNjwojndvvkzcBg3sTrtrgkYWQA297RYfXgaHTOfIw3iJfQztytw6-mqrGAYiDgoMIfcSu5wE67BSszn4%26pg%3DQU7EDKTDPRGT3OOP6OJGI63BFY%26ch%3DAQEAEAABABR0cd6s9hbUc-CNmoeA6jhlmi-pBjqRsd4.
+.netflix.com	TRUE	/	TRUE	1787852903	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSG_j15fluXHNQaxCI3BFmk9bKTOkxAkLY.%26dt%3D1756316903228
+.netflix.com	TRUE	/	FALSE	1787852903	nfvdid	BQFmAAEBEAebj-jFcq6rZtJvZ7c3e4JgdmEUxXntzV00CG_23HeLalwEb_vUWsAbgxOo4X3z9H0QXdj7T7QwXtTq_mvIplBWJku-7lgZDAKQ8BD8a_BURnf4YiaN4YBfymxXlJZjw6lHzN-3lplxBKQUQa62XCyr
+.netflix.com	TRUE	/	FALSE	1787853405	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+27+2025+19%3A56%3A45+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=19f9e2e5-474c-4d58-8caf-12c9b60e5d8d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD

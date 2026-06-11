@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Swati
+– Email: ar.swatibhingare@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 5003
+– Phone: +918976629331
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Swati
+– User GUID: 7JUSFSASNZDLTG6PSBVWP3TSN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805452486	nfvdid	BQFmAAEBECB3jHeQVSen9qkHE3DkhWRghpKnGgQw8-JhafIpSdjNlYexxrHEAqeU08DtzyQ7WggDlTjJ-j4LUatHtU8IoOqwz-_SAtECoLl4rmc7BdYcB9NttmAkUVM05rxAr5nND456KCBmahWE_VxK4P5dLKH8
+.netflix.com	TRUE	/	TRUE	1805617133	NetflixId	ct%3DBgjHlOvcAxLWA1nQDNKpbWi3_lN4HxUxXmbtm9euXJLlmomP5d836pqbLowhoAr0uJ3c1wCfVFCvtlrpgzq8KCdVaeNzu1jDleYYcVDyaqh1BEckffUyStwRld_t1zIUoFJ6_mB2FrfhJ9F47qsis-dmVZNBKTWOzj2gRNRh1D4J0u3ZPJZLPlTJYhIK9JyAXIidwGdgcRPhJIRg22VNDngmuMkH6oBZQF9CU2Bgs2uz59xBTNW749q2aX4saDOynybIMrKWDXL0Z8bibO3YjTL-nw-md2jbyf1mA8QuOMCmP6u2qmvf3AkjzAJv6cR0mcabKhKv_CCTYQb66WFICHwNYW-eeoCGqf5GMLY98uEnuuxKjz6xgaGDdWDrM8KHzejdMCJuDfnvZ4lbr7J4yUn-3OFFQVEwrYhnp_-ko2B5o8t3TyNJhOJkLC9fTrUbSLViqE3JwYyb90xp8oHRmcn9hoLL04Sna1oRkbsTZ7APtmspP0Xt4v8g3eX8GZkTffrY2wd_BA8jZ0MU0pR5pwCYvgbSSlYG6giUdhrr7GkoSggqMKP9rexSpW2-m4me9p8rIsAVGk_-xqgB7njmR_vWH_uTiC9lt0BHuHfToIOFrawA25AObtLWW2iLz2pMGAYiDgoMZ-J8jwdjeqGNaJU-%26ch%3DAQEAEAABABRLzViIPhhB4tPt2_6vFr7RXwA9rdx6s1s.%26v%3D3%26pg%3D7JUSFSASNZDLTG6PSBVWP3TSN4
+.netflix.com	TRUE	/	TRUE	1805617133	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6c20DLHFis-_B1nBXhN6w5WSzRp4Qmc8.%26dt%3D1774081133526
+.netflix.com	TRUE	/	FALSE	1805646211	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+21%3A53%3A31+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8411931-6729-40b1-9cd3-e334bbbcb011&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

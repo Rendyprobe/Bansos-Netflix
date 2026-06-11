@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: VICKY
+– Email: loko45@live.fr
+– Country: FR
+– Plan: Standard
+– Member Since: December 2017
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 3007
+– Phone: +33769400017
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: loko
+– User GUID: GRM2YG5JLNCYDEZBPY2WH26WAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806786027	nfvdid	BQFmAAEBEGNtytzJjNhjgCPm88KC_5tgkWnS31eGPRRW2_R7Rmc1cTiYH-TcMemO90Q8NpAh5glHUgi8XaGeyfZk_QO9qRnQw98Bc9fiAlfpvj_IGGo9hylUzwldoNqNo_oWmAyrJtAf4nUYfC934tkfEL_OBz9v
+.netflix.com	TRUE	/	TRUE	1809704628	NetflixId	ct%3DBgjHlOvcAxKHBMpdh-ubMqKwkELNRLMA7bSykwqnUtQ3LPPWaJP4XtxPNfQtADqJq7WYtAuJ2nLuFH8Dd-CZIoZkNYKszRt9Tq7WXYtCz91BHiSPLMKk13nUOMhtk_mqOinC4rT7b4xokeytf1XXObMkp-dkQrDLDO26af8ddEP4jf5NOEAYCYBESmweVwkJfkuZLMpvFvfWz7TOcmUGtQPMSR8UPUD9X5qpsG2IcGlLEZbjq81PVBoEmnZVgV_gUBfODfDGbD-1IRX2JJi7F4eF47l542iGsA-fSOZ8fElLpPlaG5yY2VRiBN2Dt-uaI8_nnQrOgKTHC1thc6pj9ATycGY2YOa5vFJVY4P6FYNIHUcbB4pAzvj3tegjlV4-99829b4kED97NSzQSU-myHMYp3puN2kPYRIDinz5AieaRfVsoIMXwYst5Z_GGLQ9NKfMSKtCeUTnZcDwTtCt4JIw5pqJ9g21_xmnzH2_kQoSfNwqW_8CVXErOvLFpi8Az3WsJfXtN-xX-zOHUWFOBNQuGptcfPEaCVPXSms5Ur4Y9gm5euIy-ApL9Aov8hPpsatVkbj6JD3Kd7JIbsDPeHXzTp52SnLF2Grn_oOMZ5PDBBGe84Btr4ue29D5-_jJzaKrycTsiSVUCbxqY8LX-JOlRnNvdiZ0mWhYK2kKKMHwghL0eZiqWXhFMyQUwEc-ShgGIg4KDP3Yl1YDQDctaLptvw..%26ch%3DAQEAEAABABSDcsTcbcmxDjJPtShN3m60oIko87f73OE.%26v%3D3%26pg%3DGRM2YG5JLNCYDEZBPY2WH26WAE
+.netflix.com	TRUE	/	FALSE	1809705195	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+17%3A53%3A15+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c856ed67-84a0-4c4e-bb82-7f45e844e6b6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775250007227&geolocation=FR%3BIDF&AwaitingReconsent=false&isDntEnabled=0

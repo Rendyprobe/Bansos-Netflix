@@ -3,34 +3,25 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: fadil
+– Name: Aakash
 – Email: fadilfadilla876@gmail.com
 – Country: ID
 – Plan: Premium
-– Member Since: Desember 2023
+– Member Since: December 2023
 – Next Billing: 2026-06-21
 – Payment: CC
 – Card: 9557
 – Phone: +6282351454687
 – Quality: UHD
 – Streams: 4
-– Price: Rp186.000
+– Price: IDR 1,86,000
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: fadil
+– Profiles: Aakash
 – User GUID: JMGRZL7RYRDIZF53XWFP3ZDJMM
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAX0Ie6wTPXMhSu7zZ8R1a2JyJLLDikrfgcd5vOGP+wwZkPfG26zPsNy94/HZRoNiLgqdTbhHQIGNZNTeNaWvvMAOaNZUZBWo9iXd6KRnMSNRsJRflYdVbYfEznCANo/Y/mh4+4hzGnxx7agf6T3lXd+ZFE3MSdLv/5Ssw83AsaozkSmUZF1+/ByL4hTsW+mJA/6zOBXhJmz4813xlYB0Po5jIn7QLUttsto2cI+2A6f02glDj4uP44kO/Wt5A7jw0GpBGAYiDgoMCcyfhN138GbEmrlO
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAX0Ie6wTPXMhSu7zZ8R1a2JyJLLDikrfgcd5vOGP+wwZkPfG26zPsNy94/HZRoNiLgqdTbhHQIGNZNTeNaWvvMAOaNZUZBWo9iXd6KRnMSNRsJRflYdVbYfEznCANo/Y/mh4+4hzGnxx7agf6T3lXd+ZFE3MSdLv/5Ssw83AsaozkSmUZF1+/ByL4hTsW+mJA/6zOBXhJmz4813xlYB0Po5jIn7QLUttsto2cI+2A6f02glDj4uP44kO/Wt5A7jw0GpBGAYiDgoMCcyfhN138GbEmrlO
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAX0Ie6wTPXMhSu7zZ8R1a2JyJLLDikrfgcd5vOGP+wwZkPfG26zPsNy94/HZRoNiLgqdTbhHQIGNZNTeNaWvvMAOaNZUZBWo9iXd6KRnMSNRsJRflYdVbYfEznCANo/Y/mh4+4hzGnxx7agf6T3lXd+ZFE3MSdLv/5Ssw83AsaozkSmUZF1+/ByL4hTsW+mJA/6zOBXhJmz4813xlYB0Po5jIn7QLUttsto2cI+2A6f02glDj4uP44kO/Wt5A7jw0GpBGAYiDgoMCcyfhN138GbEmrlO
-– Token Expiry: 2026-06-04 09:18:13
-════════════════════════════════════════════════════════════
 
-.netflix.com	TRUE	/	FALSE	1805890384	nfvdid	BQFmAAEBEOphHZCuyw3qvu1_-v17oG5gqNbWeaJZe5apdQGvLARPvUV4H7_feqMN_J7ry1ofO8htGcQjPUAqLtDr_DwwtiWODIE4VYSMqbGoRFZfI46m-T6dH-ZFzObTdb642m6QzRWzfsWdzEYWgNLAed4AOF2k
-.netflix.com	TRUE	/	FALSE	1809616836	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+08%3A20%3A36+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=61c4630e-dd53-485a-828e-676533b3af27&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774354355563&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
-.netflix.com	TRUE	/	TRUE	1810479616	NetflixId	ct%3DBgjHlOvcAxKIBHRcB09Cro79EvP42CA88Sv0DliBkAsFqvbUWHRkCM9IyCTDI9E4rv5mktzXlMIqYiVIguVI1XGWxd9YzkoiLDDSqsP5gZTu3VCnIMs5VX0JdwyGHO9dPu3xFN3UAc0AkGOG8ngOSXuO5eByrcgLavclJdlbF0ueSpwthGxncst2gmZFj6f6nlMn2rya7DdiWCqMMKkScOzS-7Xunt7GKAZ2T_-aqZk2Smb2WK-RqQL0YT8SDgUyiRMLz_1CNwRAfLrF0Ja6F_FdUIDODDk58ifCbj4bcbUWmE07xwsV3i6offWfIxFAqX3TyiIFAjBawnzakU7vgVdn8XmGelYvusTb2yXycl7ogwaOIpTAWUcT3-br611v__fJ0Q7o8wwj8CFwomA4HCR5aJZoprzcKrWtKyMG2qyvm62ItofxHF3HrFJ_5559Gg3kU8RAUCA-y2rIIOJ23quur0LsUFG4ROxZCG7hTg0NCxzsf55wXYvhnaVimnjAx8E667CkY2Eznc1_IIB1X7ZhIcJ0LzANjNkbrLHrRynOeHQ22oDc1ryrHIKFIhYVYkJ4u4HBixxYARC_wlR656ei9MB7YSx_WgyK1GHJSsVLO1acBQzP45eC9XkIeGFPPuD4NaBsQR3_FIq0CY5-E3arLGz5gjLlOJnsnybiinSxFRZVleWwqyFdkbYB-BhuR5YYBiIOCgxd0MlSsJ_cOYuNsME.%26ch%3DAQEAEAABABQbkMdiRtVhvzxMzb1-Nd8dIaJ4oXNESmA.%26v%3D3%26pg%3DJMGRZL7RYRDIZF53XWFP3ZDJMM
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKIBHRcB09Cro79EvP42CA88Sv0DliBkAsFqvbUWHRkCM9IyCTDI9E4rv5mktzXlMIqYiVIguVI1XGWxd9YzkoiLDDSqsP5gZTu3VCnIMs5VX0JdwyGHO9dPu3xFN3UAc0AkGOG8ngOSXuO5eByrcgLavclJdlbF0ueSpwthGxncst2gmZFj6f6nlMn2rya7DdiWCqMMKkScOzS-7Xunt7GKAZ2T_-aqZk2Smb2WK-RqQL0YT8SDgUyiRMLz_1CNwRAfLrF0Ja6F_FdUIDODDk58ifCbj4bcbUWmE07xwsV3i6offWfIxFAqX3TyiIFAjBawnzakU7vgVdn8XmGelYvusTb2yXycl7ogwaOIpTAWUcT3-br611v__fJ0Q7o8wwj8CFwomA4HCR5aJZoprzcKrWtKyMG2qyvm62ItofxHF3HrFJ_5559Gg3kU8RAUCA-y2rIIOJ23quur0LsUFG4ROxZCG7hTg0NCxzsf55wXYvhnaVimnjAx8E667CkY2Eznc1_IIB1X7ZhIcJ0LzANjNkbrLHrRynOeHQ22oDc1ryrHIKFIhYVYkJ4u4HBixxYARC_wlR656ei9MB7YSx_WgyK1GHJSsVLO1acBQzP45eC9XkIeGFPPuD4NaBsQR3_FIq0CY5-E3arLGz5gjLlOJnsnybiinSxFRZVleWwqyFdkbYB-BhuR5YYBiIOCgxd0MlSsJ_cOYuNsME.%26ch%3DAQEAEAABABQbkMdiRtVhvzxMzb1-Nd8dIaJ4oXNESmA.%26v%3D3%26pg%3DJMGRZL7RYRDIZF53XWFP3ZDJMM

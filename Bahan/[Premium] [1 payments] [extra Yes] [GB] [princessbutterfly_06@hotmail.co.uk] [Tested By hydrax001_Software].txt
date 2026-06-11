@@ -1,0 +1,27 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jack
+– Email: princessbutterfly_06@hotmail.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: May 2017
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 9026
+– Phone: +447713962212
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Terri
+– User GUID: 3N66WDCHFVCVNOHLNAL2OJA26E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLgA1IyhVD7TVI9pSPXrV9Il3H0YclfeOuo9KMlKQqH6dPJCvjh7ls9i6BMjLD8e8K1mVI_C6Ibj1Ki-bfzqzKz0digIOGlo5qlCsTvTTFt9fjBmYjt9x-JcAgcIqMhJ4yO_etu5--RQLAYhxxbPXbHS3_QH39GJdNCitHUk4NgUqNEwnXvSIowXaFbPSdrEt1X5G-S69K5WhvJ8MpteYdpzrd2DL8qZj7Ivu6Vf7Wi97t4mCBR5f2Ez2wZ-g19YgqtcGoTKKtUM9QAdXo2hKm8WsWJyADgeSgcx9d3dUhvS-gJAJx62YAH0Hj9zr45OrX1cKe63-Pt2MOtMXbMtKOyt6AKe2pwwobvHOogNZqinubSXnT6EGyQEJyvyHBxlEbfKWvg5rUB3YtX1tZy2CRDnUE58nqtkSM6K8CmRYX8q14LkeVFH334xbecTpd-sDeqTt5jnySxX7UMqNN0NJ_8HgH4Z25UFC6dZXJ6Tmxol82I2CxfuWPLBjMDlXiZ9OJ0qL0baURfJ9Z6t82AvH7TEl1u-nGoao9e1y-x9OgH63iUOPfIZHX9oH07skSXB7ZCP9zvv9IFZbBqXurHCbjw6iIbpA4bxBOC68Si3J-JXfw2l7fH4zXgZ9x-KSceWnONPxgGIg4KDKFRFNCbzf0qDSyI3g..%26ch%3DAQEAEAABABQm5m2Nd5ejhbn7TOj6187iWuboRm0FoPg.%26v%3D3

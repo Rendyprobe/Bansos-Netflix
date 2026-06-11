@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mdzahid78785
+– Email: mdzahid78785@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2024
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: +919136653221
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mdzahid78785
+– User GUID: 2ZZOYRPGNBHXVLCJ6VL2242SD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801146444	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKA4U4RkN1UMP3yYsyaBWIB_i6dOsXgQmjkW806nshQksMWifTqlo9KgRQSM-Mek0aS2Rb6O50EJ_EcuLIjYOB9e4tE7NQxh8kx2nYH_7GAm59qmakQtbkAnoB4JYsN9-irq0LFgsO2pGoHmp9rbzQyc2mQAlicB0YTGVJgNSWTOo7dkGzBvGtOGqzmgIsxcESO2eKWn6iJ8y3PVRP_dVwh9VLBZYPOtEz7H9eAaVUt9P6ZgyzkV1B9hdFTqjnxphtM-nZu6pArpcoSOaapTmTDrnc2evxb3fPvdJ9yVwwgRsVeJXnw4up_YeKsWahwkTs7SFAf70YiYVfwRLnhEPApA11zUPQeSBXPDxrhtlalA9mYrEVOrB2eNTyS_k6-CwBaTmDIZDeU2xpBXTaGhoT7iqiauwUQqDQjwft_yhcKB3Fn4P7zuCKmRvJ0k57Xrt2UjgfDRC1ft4IK1VHMzX_I9pR4R3vn_pFqQuq3WPOPI7LKBQj6XG5WVY4Z61DyHJldXmypregZmQyjoAYBiIOCgx3Dri2WgwEbgzLk6o.%26pg%3D2ZZOYRPGNBHXVLCJ6VL2242SD4%26ch%3DAQEAEAABABSPUFgZaAJjZc5hy_mtETJZV92vF_roA4Y.
+.netflix.com	TRUE	/	FALSE	1801146445	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+28+2026+06%3A27%3A25+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5271f0c0-ef4e-42a9-958e-470746ee3e82&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769610405138&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801146444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSP4_ajYJETXmg44JLA4GZJD3_pbvg0FA.%26dt%3D1769610444534
+.netflix.com	TRUE	/	FALSE	1801146444	nfvdid	BQFmAAEBENLBpq7jEjwMpqKnXi9WxNdgo9AXk-nXctbg5LMrk6twlw3BPmlKvyDzCsmXCyDlGxgh9velB_amEUqxnT-g7u-jJ9RPL6TojCW567PsMiqcieeXLfj06EktZCocBDfqVeHtbwc9kM4tJa0IyX2qg0PB

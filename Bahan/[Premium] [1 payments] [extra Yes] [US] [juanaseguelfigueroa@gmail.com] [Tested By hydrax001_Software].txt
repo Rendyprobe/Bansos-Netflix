@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fattyalfredochickendih
+– Email: juanaseguelfigueroa@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: prosinac 2014.
+– Next Billing: 2026-06-11
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +14078443254
+– Quality: UHD
+– Streams: 4
+– Price: 26,99 USD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Omar
+– User GUID: G5XBU27T3FABDEPITYIY6XQKRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795059856	nfvdid	BQFmAAEBEFwekOeHCM1KWc70nTOnryRgTzc-zUX6-BGZ6xwLWqnWlD8BJ0dz98osey1GOOi-pbfTQAr1-9F1C6UHve7RLAJHndokn8GROjV6p9lQsQiBOmzjhmbBgxOf44pMJmAZGcAYHGmCQDjzm7UFrzWZ7Kg3
+.netflix.com	TRUE	/	FALSE	1797735400	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+21%3A56%3A40+GMT-0500+(Eastern+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55f7c04e-dfbd-49c4-a9de-775b341eb54e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800311426	NetflixId	ct%3DBgjHlOvcAxLgA61qDVQ96QvFSZAKEIfmHGk19R1-6uPW2izVraHx2EN45-RyHS2hOPFOdFgjiztToo6P_PQcne_RJY-SM8nwmw69-A-9ZfZbV5Dr1THZ5JJvcZ9zGmi0G6-381H7XCr5CwJYL0yaaUHpetLxy_yFpK6DIFdEylGDetvS80IFfDCHQ4vQtenteDMBVVcqyU1fdIP35f9G59mjQ808thp6gMvsLcAlcj2ro0L9CJ7L_prf_AlooEdG6-uOuvg3iEpdwK2JJNexLG5SY9lvW68SN1w5HonV7WQCM2iQtBxP49q7z5jbSuwNZUwehF74irxsGBg0hrUwqq0gSxWz1zT5PjOkzuhk9Ho8BKeA99OnL8fNvmeTiw-oibWxgeJAZKwFhlokNXIWpYLPYMCtF7ZkEN_Hyr1HU4X2y1zey_knfZzaMlpw16czM-P6DSln0xZkq4aOVu8LFiLsiL42woWUwVYjT_7KncG_DvmSJfiFs7lq7UU2dBpaGqnqpblHGuyfWzJ1J1np8QyT3OHhoPUlvm14r_i8r1CVAYGivKLxuksKWZrZZN2l7yzMGV390ITkH2y1RYg0ajaFEhrZTnfP4JiGRemwnhDmw0TXoql0B5UNTzhqdQk4BKKGmex8S5d5ThgGIg4KDCpPyebpYhqRUVPckg..%26ch%3DAQEAEAABABSgu_1cujsw1jj6UzGYvCbI8jn6_kRtJ4o.%26v%3D3%26pg%3DG5XBU27T3FABDEPITYIY6XQKRE
+.netflix.com	TRUE	/	TRUE	1800311426	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRqSmzvAFHacl3TfAaJgxXL648clZiQmjI.%26dt%3D1768775425111

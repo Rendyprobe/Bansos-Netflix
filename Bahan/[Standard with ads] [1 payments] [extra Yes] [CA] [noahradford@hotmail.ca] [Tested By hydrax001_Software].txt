@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Noah
+– Email: noahradford@hotmail.ca
+– Country: CA
+– Plan: Standard with ads
+– Member Since: July 2025
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 6240
+– Phone: +14316687788
+– Quality: HD
+– Streams: 2
+– Price: CA$7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jessica
+– User GUID: WDR74Z43DFBUHBCNQU3YIEEULA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790561189	nfvdid	BQFmAAEBEJdWNt_6khafw38s7tlxG6dggtscgaXL4GTWJxuuykVlWrAqDRjtgyEyippxLxuSYYy92mpB2_oBklVdv3HYyLs_QU2o7-2TQnaChv4KQOtMz4DKptTqD0SXF9E2spf-UabBUBFjVCfiTswFuAjFnVn-
+.netflix.com	TRUE	/	FALSE	1802159236	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+01%3A47%3A16+GMT-0600+(Central+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=195dc3e5-e592-48c5-b21a-76b02315f7a8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BMB
+.netflix.com	TRUE	/	TRUE	1802229198	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT2WBWKxnubUCTwUXYV28Yrdq4j-PWFCxY.%26dt%3D1770693203373
+.netflix.com	TRUE	/	TRUE	1802229198	NetflixId	ct%3DBgjHlOvcAxLhA44ykn6UIVS4i0OqUu0nGNAIeusaDJWVMJuW_krXH1ROLPkhQxr7X7ORFmf6RssisNRw-x_ieKddjuANIx5ySciv2RQjc_-A8eYj_YMRBjhe0xAZLE3BSloIewo4kvglibUDzbozcxOXA1wDVNJiD5Uy_WhiVe2ZkTxd1xhbQlSMUMTIVbm9olEZTm_lZSO3MYPTeGoPRUCInglMxNMAGqBYVFE72y5P2YL2C62xovMxmatlxmvLQtabZcK8ptoHBVD6zNOXUa5q_pMZbu70aGjXiqD2w_NDY7YpbwE42wv_yN15rjv7h8HmfqXKESFWkk-fbXuPbA1cQAwG-EdIcULo8EJV-HX6GPn35uPnE8mCNVeOfraFZ9YcLnlW0fUXZpISKJ2x5Con22BF1U7PU9yMxth5EAqrbU8WBiAzRmJ1RcH_MR3A35kfdIvcl5ru4MF9bRFGUyTOl752Cjn8fiibvqti1LjJsHH07vsJdTkFk4NKhJ_k5srn-6XXlEFiVaGhmiCLzVVJ86L7LBzjMcjqAheQ2hq9RIOoq4bBWzHiahQaWHsAmG3IVNmz0JcSKv_x4JzfRUf-sBxZi6eTkD-kgTxrCYaeXZnCAZ4-fGABX2SfqNRWlism5f1dwIHhfTUYBiIOCgwndvGycQc2dHPwRmw.%26ch%3DAQEAEAABABT1kDr9Qr8PD2SBi42cMDofkAIwLruhCs4.%26v%3D3%26pg%3DWDR74Z43DFBUHBCNQU3YIEEULA

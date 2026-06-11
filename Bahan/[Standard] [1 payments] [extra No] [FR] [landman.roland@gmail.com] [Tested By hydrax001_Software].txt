@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jojo
+– Email: landman.roland@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mai 2016
+– Next Billing: N/A
+– Payment: ITUNES
+– Card: N/A
+– Phone: +33620527771
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papa
+– User GUID: SMJXE5IKYJH53FSYYUT72SIUMM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783291793	nfvdid	BQFmAAEBEMdSHAlHqgVV45Ga5O73r-Jgs8xWtH2CHQ_8vK8QxK1xZ5op9Wb1Im7FUcAUTqovZ3a8PPexGBMMBmrvam9Hn7zjbZP-JZRB0_O3TjVwaa-RNI4aJ7i7eovT2sbz_6AvxRE2_7sYHdpybVgQbuzy-FSZ
+.netflix.com	TRUE	/	TRUE	1783291793	NetflixId	ct%3DBgjHlOvcAxK0AyPPE1gCPmYXnezDdDaNXauMnMkusrUOyVAhRpGU6moTjh9AfR5npFJkGO3gxjayQToGBT3BGKgswH3Qycx19eCwzNIMWDR6XvLRjqMuGcnC8ecQdE1LCBcBVJNW0H3KCXdueEaqE3UBDORJlsyPpicjVTDtxg-wmdtARaM6NccuCROkPFJGmjLDeLCoD7OaTWEac3bhYqxXtQzTvFMHRIjT0xghqsydAhw0IUOGw33KOKvdkwK7i9NvGr2OMRbQhlOSP8fSKw-G42pnIMgXrr-kwEZ-qGjHLYQYIcS6GBDIzNssXE333oro2RTPsbma6SW0AR5ONAIe3JfbW0apvXn7QbgTQGhgk4lpM7KfW5TW08_fYe29zAQdA4GaCfgAAeoI4UJTrfSt3MT7vZl2uHkaUKMoc6m3ouadq5bTNz8UHEekgmtQ2AsMLHVLdHBPvL_2cMke34P2IFe38amX6SjrA6Zauya0YyI9McynmKP34T4pcde7FIFoegHyjULJm9h-FPkz34n19VACIMcxxpV0UhDtKS5i-GURuLb1hhQTW33csAj0leDch7pSkHKtjpXZq6sYBiIOCgwXKjcCKzXR3cc9Ljw.%26ch%3DAQEAEAABABTIZ9ef1xyt2cC9kGDBq8KBPvH4FaKLjIk.%26v%3D3%26pg%3DSMJXE5IKYJH53FSYYUT72SIUMM
+.netflix.com	TRUE	/	FALSE	1783291793	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+21%3A23%3A08+GMT%2B0100+(UTC%2B01%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f63842a6-1f0d-428d-918b-fab28ad66d55&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1770759027228&intType=2&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783291793	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQlssY5WNx8DNVAMsqsPeMRopWH3s5wOno.%26dt%3D1778185388159

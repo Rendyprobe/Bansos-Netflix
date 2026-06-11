@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marco
+– Email: djzimmi89@hotmail.com
+– Country: DE
+– Plan: Cao cấp
+– Member Since: tháng 9 năm 2024
+– Next Billing: N/A
+– Payment: VODAFONE_V2_DE_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marco
+– User GUID: HBRM34AJCVDB7OYIWNLS7K6SCM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805034961	nfvdid	BQFmAAEBEFH3AlatkR3HJxsHGgILLwRg8YI-1XXomPxaKA_NO7mQFPfKu5jq4_kZduDXCEndZEeHV928A07NaQkj2rSIp7n8SPW5CWr3w0dFgXMpZzUtDx3EOfnACBAg_J7-WebzjvMu4fWwUzAfMC684Y239kI3
+.netflix.com	TRUE	/	TRUE	1808992489	NetflixId	ct%3DBgjHlOvcAxL6A-EXqpRz1B92ROzJWBtm8dO109UvX5Pd-NoXUjsS89vddwoKV3A0KnBQB_womEd9PkS7k7V9Zg21raoaVcqX9F2bl-aAi5SSdnp1MXbElIbx4HFYS8ihaQ3kzd4fvhmI3fY817Aa8CMyB22eaLwywTVPs98oto0Vt4yMmHnAlQ489aUJc0azFmT-vygHRkrOCX79IIPBG8NuTmbRKPEnodZpO05ZkweW1Njw5xBaOIh_SowDay3QbQMQJDXSFibc3TPPRrpqqPPlMAPhvtwtZoiDz2hgHZPK-sm5wlbxw_qaJRsDJSFFgya00hHfudcXEY7UlwhAUB0O4CIZcuRy4obZIbukHuPFObpWQCbbGCrqh9ESPE3_63MzxSRSLSO1J6ebSHWzXBOqvyzJKzL7LkFYp_sGsGOL7Ju5CGiGawIgIIoyb3BGmqXJ6-EDr0APmOUsj1sB9LHqeUxaZPeBK8SEnmSj9S2sQHB_0TV5KWKXAREeFCYRwbnh70KEddsjQ5IYJ8gVR8H2UINZhSCcPLnLOW2DPFuRel25cV3FZWTYqklMpzL8XmJ-KPuSa3RepN8b0ez6n3nCugDB5KDIloQH8mDjhwnz2ABWQAb5_C_uc9C9CDXHakS7XEUaHQixFkMSB7EZ3mgoTC6jFcWD8vGqInROugEiTFPTGAYiDgoMErGy6sqDSlFczSxn%26ch%3DAQEAEAABABQyTrUou8SiGhIDnb2sBgFTBJs6_j8BxZg.%26v%3D3%26pg%3DHBRM34AJCVDB7OYIWNLS7K6SCM
+.netflix.com	TRUE	/	FALSE	1808992491	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+11%3A54%3A51+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=98b99977-436a-461c-bf6c-da563a0793da&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1773498959119&geolocation=DE%3BBW&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808992489	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQVKnBjFdvgZv6ZYd_4Il0FGR1MlegWM8o.%26dt%3D1777456485800

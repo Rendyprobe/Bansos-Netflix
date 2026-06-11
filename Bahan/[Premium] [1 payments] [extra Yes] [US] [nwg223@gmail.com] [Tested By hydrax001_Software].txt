@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kjjjm
+– Email: nwg223@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 7952
+– Phone: +19177452887
+– Quality: UHD
+– Streams: 4
+– Price: US$26,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tenzin
+– User GUID: BR5TQLFKTJCHPAHUD3OCAVLPKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809640608	nfvdid	BQFmAAEBEEZiRj-qpjc6RKW0AlI_he5gix6YMQq4YTFuPR9GlWfpZzUSTlUT2l7zt0gNJ4z-7MfXE_9FhvYp_i20Nunf89L9C5FmY-uYvG_tbpCfSjjyRwGU07fV-MwbL85EPAfBWy-c0n-YXe6CdWATxtd0jk5I
+.netflix.com	TRUE	/	FALSE	1810422144	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAxTXwLFwoNPquYrjINFeRTGdTq9B3Oq2o2cgFJagbUH8adh_t2HVQ6VlP3wZANYnClVV9m5MplLTBaefmWp34l8UDcnxXEwoE0P_e8G8Ecy7JwT-nkT_vhxqXqbVNWU5hhT9tuJbFrCqmNBnw7lUsLzNgoFkjaJF_y0FtTF_2ILj9TxsinIFCv2LS00p-PFnsctPyhRbJ_Dli6qrdAJtt7JxYNb2KBjzA1surqsXuXF2NzYyiaLT_T6eyP3zwWWSZH-dtR_ncmXEbyXFaWjMLQUzw_R3f-YiG0hmVRI1MS2iHGzRJ2TJox3FV7hXtz6ativyeOz8fd2PzLtDsobKRQGsuFvOl5dB8N4KfCIBuP38w3HHg6vFpiHfG1i0PHcreDMpAO5NiihCOzmfD-Y9_Y_oWBgBUH5xGOoWbB2glSpc_UFjetYpWTxNlNvz4AW7kjeZhz-pLQspyyYk-_kJPflIMS8V8ZZDAZDVb5jYjcpG20wur33vTS-X3enp9QdiZQDoaKTdQRO6EzDzetWVLhOotzGtAXPIwlQYBiIOCgyJuw_7Q_W2ajwlbqU.%26pg%3DBR5TQLFKTJCHPAHUD3OCAVLPKQ%26ch%3DAQEAEAABABTgXndDzRGxdTMb-NOwBx1tQOmlNanlKSE.
+.netflix.com	TRUE	/	FALSE	1810422144	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGi19Fsq-Jw3kRhrT94ORjailFSD_qsk4.%26dt%3D1778886143380
+.netflix.com	TRUE	/	FALSE	1810422335	OptanonConsent	consentId=0f426b25-5974-492a-9dc0-4596d6bc17e9&datestamp=Sat+May+16+2026+01%3A05%3A35+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&interactionCount=1&isAnonUser=1&prevHadToken=0&crTime=1778886143637&isGpcEnabled=0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&geolocation=GB%3BENG

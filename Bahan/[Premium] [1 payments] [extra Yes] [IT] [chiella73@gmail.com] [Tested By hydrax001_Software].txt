@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Martina
+– Email: chiella73@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: novembre 2018
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 6598
+– Phone: +393357905216
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Angelo
+– User GUID: GOKASPM3VBCQ5CODV4LAEIPGSM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797633262	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA7s-qW7lzFWTA1kvQ1mNpsdtw3Muxyx5aT0hnGHr-DFw1hEyJ-312fpuHEDGhqOtRRSmpl0UyUSGBieBUQa2bwbMEM8jev_AYK1KOBUVKGeld6UbnLSEMk5IOMT1TYDKPY4Q10ib8kPJ0U59wEWpBlUpe0T9zBGG6jzU0AIolhkLJhvX7QJ-kM1DKa0GAtsYp0UsEAvTyAQFHM-JPyPzVFySBB67toXmhdO5387yj_O3xjsyFN4zMRzRHzVbKE9wiZS1f4OKy2n0NxArqloJmaQL6w9Hs-EkK2Qgg4XXZBkU2Kcx0mNsv6ANko8Rz4z9VbqQm_pCGGMDFD7ObxvXmaRGuyVGKNMVskjuXvmJHaHtoE0aSdsGxZv3tLiDUI1UZz39mO20ItNgFheiRIM8wDlkW33steiUa5yxqfF4MS_m0MDunJIKqpQ_8sqwWwkbRijML5UrVtdH1x02GKul0VW3s43S9uvlS2bkyrtgyTkclfo4tTWlqbqOq5bYIpTdVssYBiIOCgwFPw_k0G6v3GvnqCU.%26pg%3DGOKASPM3VBCQ5CODV4LAEIPGSM%26ch%3DAQEAEAABABSxNOxcNXm7yzpl446pD8zvXu3L-aCGOhE.
+.netflix.com	TRUE	/	FALSE	1797633264	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+18+2025+23%3A34%3A24+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=1cfe6232-b814-4df0-8059-e8f2add23142&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3&geolocation=IT%3B72
+.netflix.com	TRUE	/	TRUE	1797633262	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcnneeiU89DDwRefWSsLem8pRTiDUCMe0.%26dt%3D1766097262902
+.netflix.com	TRUE	/	FALSE	1797633256	nfvdid	BQFmAAEBEGePEgwpwID43SHXMmAuDj1g3IYV3VZGV9bGKT42f07ZFzKKaH4xTmhfDxDjxZuX_qaJ_hJelgAWT7m8e8ouOwbv3s1uzohHf6yCfYtZHKOBfXHlDNcPPzyntMD0ETL677q0ZHeIXGfr0c4FMdM4_Gk_

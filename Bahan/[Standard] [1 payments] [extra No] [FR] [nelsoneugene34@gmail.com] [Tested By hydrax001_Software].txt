@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Harimalala
+– Email: nelsoneugene34@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: août 2023
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: 2464
+– Phone: +33662299761
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Harimalala
+– User GUID: WQ7O6KWTBNGO3FW7PXHNWWGWK4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807622605	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+15%3A23%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=879766b8-b75b-4467-87f2-f5b7fbcb7cb9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776086360929&geolocation=FR%3BARA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807622605	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA46akovno2npFrXmo0Aq9nFj72yJuI1bAxcdTivVJFJ2T95awA-_n-E1E8u41crTBIgN8RL4d5k2qW_Hr5GpNqkz_CIaCtIFzN2xBLVI7l4uQ_5q15QT9NeUB1Mjpe02ol_BeXJlT9kJo7-RPk6WeL-hUns_9O7A7sFEwDX7Q6Xb4sTDrAqRCpdPl4QjlOqTsPHhEbwesNSXoXxyqmM5cGzKczCPYOKBuZdJZ4Sx8ReqKxOMOBMomUWosXcyqYoBDasXcAP5frsHNYoGqkTLSt9PoKPQ5lBzbXH8_K_ZX3AVrUXEBmm1p1mzonsiK-L9JsAOcKl8BE8LAI6ol3beMAw2KBLXfsQWaDavAAPqwI3RD-UOGLUu9j11k4zflc7Pgh6nDxKtXjKhUzREcKPq8MlVnI4f3A_db7CRYn7qWfd73vZSPA9fpcyE03OAFKX4xzZv4t-Q1Vi-8_diF2tuZZBiL8jsT8Lli-2kT2JBSbAtRBl6a_mw7Ck9IewO-VDJx8Lu70ZKDizPFyApuB53fJo2uLzXJNPFIS0YBiIOCgyvtpJefU3lcj3B5yY.%26pg%3DWQ7O6KWTBNGO3FW7PXHNWWGWK4%26ch%3DAQEAEAABABQ6aX1dfVoXAnylF8pvg7NQ2Dve86v55XI.
+.netflix.com	TRUE	/	FALSE	1807622605	nfvdid	BQFmAAEBECA5dq5x_V0XLFOdw_js0ZNgbBCq1EF2cySi7NKmsDQjzDITBVnM1FbnOnzljisUwh5MnNAbWFNbMp5zlWdaNvp-GX9RGZcJIvtjc5FMEeDXlVgcOn0yZevOoGgSBbZMGVYTa_-6rj71p59qEWhmNT46

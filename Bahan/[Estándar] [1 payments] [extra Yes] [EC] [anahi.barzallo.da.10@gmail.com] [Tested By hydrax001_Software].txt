@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Felipe
+– Email: anahi.barzallo.da.10@gmail.com
+– Country: EC
+– Plan: Estándar
+– Member Since: junio de 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 0309
+– Phone: +593968209069
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ana
+– User GUID: QJMKN2WY6JFIRNP4R7AQOQXMFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789603500	nfvdid	BQFmAAEBEOmLXu3dB_oXYGab8obc_Gxg7kky0GYwqrMcyMoTFg0h-bDu8yxvY7MQgHrVgIowxbgaBpvM4kYvZkWFxwMzN1M4WpQyQW09UsDbjbtTAcbzWXy4rkLF8vPFmY5ea0_p8c-X56URXAToJNUN1KiGCZ-Y
+.netflix.com	TRUE	/	FALSE	1804811850	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+19%3A37%3A30+GMT-0500+(hora+de+Ecuador)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc957b6a-21b3-4fe6-8974-721755ad0acf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808440174	NetflixId	ct%3DBgjHlOvcAxKABCY42jYkxfsVK4N7j94h_N36k2tU9sApXbdc0tJq8JlaSebNCAOLON1i03ipxP6bPaoDudT0LovnZsLKmEN8RzKcI14sn5nUlopvVRmlw50ySVJGWKUMkhq5T6CURf7mnltsJcsJJLIwCqsRgvnG3UZySvyULEjqVeqS9AlI2SBkyJRDtXfUIrFXO-VKoG7U8VXajRtGwJCCf4mnjNGgBquPJRHcqRjHmV4i1JQp1zCrmQf_OlqFBbHLQBnqTc1g4g_Q6Wqp-bqm_VnQTWc13225nA7jKBTecsPaTnj8XtTLqIyeTI4Hgl-cSM3Q_dkjlOWqlb-IDf0Ilq8vDTJUAl2iBzlTIFo74Z840OFxlR_xANHLfSsZAzW_WRUTVs-_ECMzoZy0A9BBKREXam_YMw8lm03GF0YmrYf3nOLnKYEFRhaoyPN_YsaFkv4mnvzoroopdgQJUfsnEFDp3vPZK-cu8ZPOY8_sbXiMJj8IzfetIfHLhIPRY-Fdt-uK94yigdm9K76wHkXYcu-UiVeOXI_aGgCvidJovgmi78ihW4Ruk7OXxqd4ISRKi3liHau98ZRyngY_s-8tgJl35RUTOIrVLoNnRAt9Fq1vpYwXE7WTq7Vi2VDicGr_UgrGaPUZxQUX1uXk45stbxOG-1SRoYEf99uZfKwj2w_saVXtJOmOGAYiDgoMbZvRD0TMmepkZU4G%26ch%3DAQEAEAABABQ4Lzz1uxhpNnN_8t_EKJuDE-AID094ohM.%26v%3D3%26pg%3DQJMKN2WY6JFIRNP4R7AQOQXMFM
+.netflix.com	TRUE	/	TRUE	1808440174	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKS1wQRPoxcTNzZ6EDbNKAHXtGWcdzrJ0.%26dt%3D1776904179043

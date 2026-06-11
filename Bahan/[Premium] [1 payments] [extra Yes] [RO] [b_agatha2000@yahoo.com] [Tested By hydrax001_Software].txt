@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Agi
+– Email: b_agatha2000@yahoo.com
+– Country: RO
+– Plan: Premium
+– Member Since: martie 2021
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 4524
+– Phone: +40723420484
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Laci
+– User GUID: AIZCZJQNXRE6FCFDTZKHJTZYE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793978043	nfvdid	BQFmAAEBEMgRIECuK5TiZ8_nkTlfGFdgBRAcIZAOLbcyQKTGtRWMBMd4ua6CHTE_V6HQAzDTkrMAIyGV1K0JrMX4yaCTgk64JibBBCVWDTZXm65zHX1Aiap50W40Th3tBoEyBG8_mVlck42k4f-8rjM8wCYtuuel
+.netflix.com	TRUE	/	FALSE	1808666154	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+18%3A15%3A54+GMT%2B0300+(Ora+de+var%C4%83+a+Europei+de+Est)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7d8846b9-ab5e-45d6-bcf6-d1bc3c022e8f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BBV&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1808869679	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0kR1NneWzDphgzK8vNfvqUP_vHZBd7RQ.%26dt%3D1777333680168
+.netflix.com	TRUE	/	FALSE	1808869679	NetflixId	ct%3DBgjHlOvcAxKDBIc_gGw-j7-czf7OzDz0o1Jo7-Q_eYHPd-wtzSkCCFjwdd4L_m3B1ufjQVCFMUjeVmcxSUxjf5KYS9tI5s9JJxWNjnt6vqiFz_jUFKFcNjo8WLO8eiD-fUMMeBrCsRNC-7OuOVRp1Zt056wn6i8e4YBl0o7LMrGTrHp3LPO6CTO9D7NVC2Hn-Q2Dbx3OfRppQrxr3zXswU2scH3x6daQenMR4zyaTbf6Etdx1DzGCweZW0AoKvh61hdW06mWanVtdUyGYNZDGa82axO7rSoDKZ0EM2aaEc6fbmBmZ_pjq7fuYXDrKLcSm6Fv7Q0wuno6SwtuVlsvVBNWDeNqayNZYUrjwPiPG59XzTvQBLVlgvnEgBU4O7lRJO8StDYzYSLziEPsRhZP70p2Qc5USkYgK3a4rhASowdAG1FL6KTWIwUCkTcII1WWQSG5jvOCpfjhAHrDjs7BFKB1Xug_2gM2JdD9dh1kCg9TQTYiptoqd7LclCUqJwDrET685nc1TkxEjsx3RhBCd1hqV-ZzfMhUaqHFymvQuaX55GJ9gIlg4ZNL6zQLe90uvVHaJx2Cc32KvlnrcaGO6QWGcAQ99gP9uEQCxuOyVfAszvMZnY9b7gpIoH-1_j_kPTdoMNpj4nA6jxAbYfkrKMFRJjDom83tIU6XcqXJ7YWsHmMMl2hgmOYWm45cGAYiDgoM3DRHNMRIR4I1za7o%26ch%3DAQEAEAABABRYl8-iZGACJ5wQAPqNwWUgRrTkIXyZYGc.%26v%3D3%26pg%3DAIZCZJQNXRE6FCFDTZKHJTZYE4

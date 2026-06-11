@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: محمود
+– Email: nassema.alsaagh@gmail.com
+– Country: SA
+– Plan: Premium
+– Member Since: January 2023
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 1574
+– Phone: +966568002177
+– Quality: UHD
+– Streams: 4
+– Price: SAR 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Counsellor Nussaymah Al Sayegh
+– User GUID: NDMELJGXJJGXDE652QTN5VSNWU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807380095	nfvdid	BQFmAAEBENFoASEpImjufPm4Vs1bCkBg9fK95WTyHoKW-ccdYvLXJQhYIEVAaV-nePhs-PD7JuC2dewIiNxHdVj01t2LH7DttkDI_YuPhG7fqI7nOe2rPdRPoQJNpZE-rlcSmMMaQEFVAI0NZTdMk-nIbG78G_4W
+.netflix.com	TRUE	/	TRUE	1810610366	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA_7qIMhOgV0Kr83CJpT955rrGe97r_0Wc0HcbHLNQBpXRCIRBpLCgjYUWZRZYR5BQwyXfcaD8XHD0xAkEJHtntaAzmVa-tujcHy4-nHEFDArJ0zCQvug9pftu-cC9cVK1T2OwBpFt1OJ-aRwq9ybc7P5jUHSnTbCAnxxa6PUHJgKUxzfEEobgq6FbWr100Eo91S9LRnk9n1cAPbI3uu_T3RnT_AN-2OsNmHi7qtcz7DN737ULuqChYP783batNyC4qvmOrvR9gYpmhHTN11-r5YBTQ4077NObk6TYdjIxFUs3jybdaJO57j465D1tQt90nLNeTnm1ReyXufAdXl-8zMEqV0k_Jrvq3MR3sXbaQhhBAJ_GBCa2J8ZLIu99Bkjede7Fyhp205UGO4aTHmGIXCWtC87gpycY-NqBsWxhDa3NsVGDZMi83qaqW_xgbbF7f3MQbTJokH1HGSeB_qj7wre-3LU3zo211KFCyvomcvet42GkD6EHQny20NKtZWoQdB00wXZNAOZ_sDi87mzI-mpnHc8vfwFiOT56yZx5RgGIg4KDCoAuvLYRIWiNcGovg..%26pg%3DNDMELJGXJJGXDE652QTN5VSNWU%26ch%3DAQEAEAABABT2IchHrdavXNl-OVFTJBwR__mCPyr6bQc.
+.netflix.com	TRUE	/	FALSE	1810610368	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+06%3A19%3A28+GMT%2B0300+(%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA+%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A+%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=30219cc0-4761-41c6-9d83-e291a9630385&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775844094854&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810610366	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXEZJa2sZEe0MXam2za3Yh6lRTN5FN8qE.%26dt%3D1779074363099

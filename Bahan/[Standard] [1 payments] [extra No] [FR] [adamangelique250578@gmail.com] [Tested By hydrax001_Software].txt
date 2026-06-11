@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: prout
+– Email: adamangelique250578@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: août 2017
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 9589
+– Phone: +33662728445
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sêbasti1, emmaa
+– User GUID: YDWU5CNWOJFELL72GZUOLFY5MQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782567675	nfvdid	BQFmAAEBEIaJ3PrG4p69ssVhtQeD6JpgQjLo3NyFtNca40uphZokFIWmEmCkhU9Z34npeW8a5EFjqjL3cPhNKcnKEQqyB901h-iVulaEzR1nceIbOB-bhFzJEUobSA_rhwit__K8HmxeBKpzvQcmLN2dGhL2xB5W
+.netflix.com	TRUE	/	FALSE	1782674576	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+28+2025+21%3A22%3A56+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f674ab9a-1d56-478a-8992-c9c2ce7a220a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BHDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783528658	NetflixId	ct%3DBgjHlOvcAxKtA2TdqdmSawItvwaAVuq_JQoE4wwuZMlMSZudAYVIAuV2d6WNRQuyP0tFnETsV9DiqZvGXd26b8QLTHCVaxuusWLC_79C8i-Hhck0l4QrHxpBT1IlojVgYn_rC9VgZB56rlzIa5GazOYdg0q4M48sUGyktOA7sycRKX39WpNTAgwFJ3datdTot50lmoR1ZLMR_n4s52y0c1qbiqF9d4tHJkftZW4C_HJPLQIzBG5kreSUYI-4GxUE06TpZuF3bPcog4XHsHvXK-NxT0ALqrG0jh15wjn6sp7rG6PU66Tu_GsmGeDiGbMTTPPrONYreboInDRDrVK9wP_oyClC4rmbEGUgCuICv5xVHkswh6bRzkbPkY8CurANS-qu8AC0i7lp5cmYM3KrwqnqIavbGTksWl9rvacY_0g5hd-WAVXxiweDWj60FKbPiDFr36mwZogC3sintgLfpjx1xFspw3nZY8CcEHzuh-1MiDg-kzS4vwOn-_Lx82gSssQZfwQnzWP01CygGNYRlFNhe3SZhGIKwQqoSuQWgy2bv-egRjxiPEL1vduoUS8Vj4K77VxX0BgGIg4KDJhmrozkHGlZkkAJUg..%26ch%3DAQEAEAABABTP7hD-_pGDvLJxQjsa2owGCdSGUGBV7mI.%26v%3D3%26pg%3DYDWU5CNWOJFELL72GZUOLFY5MQ
+.netflix.com	TRUE	/	TRUE	1783528658	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTToZSaYmqXCKZJ6oVTRu9AGAC88Jv3U10.%26dt%3D1751992658927

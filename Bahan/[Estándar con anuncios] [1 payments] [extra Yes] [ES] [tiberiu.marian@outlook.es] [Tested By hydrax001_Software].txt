@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ale
+– Email: tiberiu.marian@outlook.es
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 8097
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 6,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tibi
+– User GUID: R6VXFC326JHBTLJSEEVCIH7QEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794509316	nfvdid	BQFmAAEBEEX4eq3bFymmFobUZ5xi-zlgc_9f9bXGm-Ju__sOWah-rLrfnUxtPOi9uIkm9oWV3VaLHEHAXdwxLoo_aw8sbe4WF5Qn-Obanm9POgQ5F5LSv511k-o1Grn0j9OUziCHz_sljlKwfz50ulb0juH6q5e8
+.netflix.com	TRUE	/	TRUE	1808594026	NetflixId	ct%3DBgjHlOvcAxL_A8MirWzrCKOIR0G61jJzya19Bjr7lkUeZicwwQD3YFc097yZDRN6vvY8c2wZKWXyV9EhbZ0xa0SziG-4J_5RslCxuckePA5QBppDwGYiGwGjaE3A3ircIzg3xmzJZFguzaeLOAYx5V6NVcZ3uwL3p6BjicEKGjkTQkKxOt7V46_qJAuq0NtJKVEDr_3fvdXrYjNsdnxK22QR7WZv9mCqgdrM_028ZMoJ4Zdy3QYMesBFL4Z-AY-H0bvhDrVyTx_h4OrvwxjnB0EXeUJkxkBp717db4F5afdVqgNHdBzBLC5LdfGWcFGk58VfWWJkjsoTq-cyk_6MZ9YhTU-8FrJ2efBy1b7F99AXjgvRq1_t1KnXoHQUG3mPGzrHtSBfG9JdolwqjPHQpROw2HHkYieLhBKhJZh-OGZbI0yT01uYtFgIWZRUOvvfmcoyMzHtT1VGG_gEwqciZ0UjEvQ0tLt2VedI0EV2FCYCNXHxRZQSCARqFGltwEtzDnLMHPfzSrV__XKPABROQIqVhhOLOtdurRyxEdnI9ipHFCAxcFvBkQkpgvU8fZbhgKaqTuRV9QbT42ODzCbSqUFEwi6IkUfnK9ORTXF-uXmaRjuyd692TnMyfjF7RHww5oKBTbqe92ll7sbj2Ya5cG2AQqLF_3qL5fGASasHKeif-tvzK1nM5CUYBiIOCgx6FK4SUaLv1v1RuFw.%26ch%3DAQEAEAABABRNzWsFZtM-TXBSElw7IMKGbO1Tsi7OcYc.%26v%3D3%26pg%3DR6VXFC326JHBTLJSEEVCIH7QEM
+.netflix.com	TRUE	/	FALSE	1808594026	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+21%3A13%3A46+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b22a1512-b78a-48ec-9ef6-6308f9f07227&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BVC&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808594026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRo_xLwkmLzZTFqI0ZE_T8oSCJBpr1sJc0.%26dt%3D1777058027173

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raphael le sancho
+– Email: eric.benichou@free.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: avril 2020
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 3746
+– Phone: +33631400231
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eric le sang de la veine
+– User GUID: GA2ZZN274BCFDEO7LXO2IS2DEE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794943071	nfvdid	BQFmAAEBEPFvk4GtTrFbk7mhXkiSGFhgsGnv1eKQSa5doKW85vDXjfbbtA2xcmc2CrS91SEZuxIhWmYdjOKB7aiI2OGK5uCqpXdzYf1C_d1CL_CKo8LrUJB4KI-rsveCXbowAhHCVXJzt8v077IJO5_V1JYPNGzs
+.netflix.com	TRUE	/	FALSE	1808523677	OptanonConsent	isIABGlobal=false&datestamp=Fri+Apr+24+2026+01%3A41%3A17+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&consentId=94653788-85b3-46f3-826f-953f1440bde8&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=FR%3BIDF&isAnonUser=1&intType=1&prevHadToken=0&crTime=1776889015566
+.netflix.com	TRUE	/	TRUE	1809277482	NetflixId	ct%3DBgjHlOvcAxKOBP_UB3BuTgwVZQ-HDuPgW-VINeP-kdSdCnfxPzhUYl7cJGQ6jsMxfg8gBVhecXAmkdeF9PKnJX2wy8lzWeKfJoVfd5IHYO1pJNFosJVqQxVTcZPYzB9CCFgKiU4Dli70zDgx6P7QIr-8ctMU-k4Mp-G2sLIdJ-yz6NSwDZeQtwDFB7JGSBLmVpb-F25jNlzskSWl53Hxwb13uPFNXAl2a1jBE_uA_mR2ikPZU6mWC0O1J01_wSmIbt2RYlEGG2r--6LOKWcYwaL3EWsUW5YY32a2-La-wpohG4bMzTPlItRZ8DpPsgo4zGohB8Hf8mAEebEoFCR13LY3iCu0o7TJwZ3aexTdAkCoz3V0t6hNKU66a9DNud64jeMSQo-FAqbvFQc-fvOOFdcLL8oNwNwanJi4UP29HAgg0AZgjRXojShy3zhaE44cXmXOOuZQJ_Lfyrs-4hQdOvnp67LSFX1IdHpb2Aec4Vpxyzk2lkIIVy-3V3Ee6Xsli4gKfy34_1G4R9pL10aE5D68TUskd_pRoCWoL2YmytzC1gwSnyy3BiS5Qhkw7v-WNFJK1-nSuUnumsve_GNhdS7NAm6XlqCbh323O1XHEntM9YcZfoudZiIHZEogxNSKCLJPmgG-T1e7pMPG7rCChDqgKmFSf1PUsTkHdhF3jFyAGBr76cgLL8F021Qhxo7rrOPmNKrmdugYBiIOCgw4Xi-uNjCPRZNs4LE.%26ch%3DAQEAEAABABRWUVe268uaGg0VZ4Q26h714gQGhz8DNII.%26v%3D3%26pg%3DGA2ZZN274BCFDEO7LXO2IS2DEE
+.netflix.com	TRUE	/	TRUE	1809277482	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR74lbCL2ZwlYVXVMuOW6GWbZDJAmIWieI.%26dt%3D1777741481066

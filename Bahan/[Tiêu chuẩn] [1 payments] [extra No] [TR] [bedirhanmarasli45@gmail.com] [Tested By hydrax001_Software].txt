@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bedirhanmarasli45
+– Email: bedirhanmarasli45@gmail.com
+– Country: TR
+– Plan: Tiêu chuẩn
+– Member Since: tháng 12 năm 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 3199
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bedirhanmarasli45
+– User GUID: DWPOMH3WURGE7OG7JYJRUVVXT4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797959839	nfvdid	BQFmAAEBEPxq8aLwqmpm3xfqQPd0npJg4LCbW1ycVCFoU3mz2Ri1hefqxTodPmX3lgUHwm_RWSYp7lyzVClO4bQwvB1rYAMvDogA53hRs9TJtmx7l1qbBw11goOpHvKVXMHQPC4XQUaEPpZHINeI9WDWlwZjbqYf
+.netflix.com	TRUE	/	TRUE	1807813579	NetflixId	ct%3DBgjHlOvcAxLVA4gO937-fSxQg3TbxhrF3kmP6EXNThcrY0_m04uiJL9RYXF9C6doMghM2qqxACA9RsMUToVMQ_lLeevaAfv4P4If3LvWF0BHQw4K2qpREl0rGI-DK-Zu3dBc-TVPEffZeNiI-z-rauM5Cgx5MNGZfiuVJ3nBBnNqdBGjpxlLkFG__1E40IWQ-8xxOyOGmuHWdhTOrGgBlH0ThJIcACdUKxMK3e8s4Z0jMidH0C55cfKxpif_rZTl07dziFwso2wn7ZXNsZBCo9XHadXq8TqyIYwp5c2-C8RLWV5vS47WapdJrEXqK4BRPt458zg3-o0sSIgcvBCLvGClx0NK6hn2PT7OARwPBOrwIDJCLmwQnQIM6KLNBZhhnDn-Uv8BM1MpWhqZsNBDDd1RyXf1Dx_7lgjU5GXe2gG-4LkjTmfdbsalYD6nQozWCd42h0dbuTCqPetnqt0c-ii7PN8IJGh7zN5arrP1JFe0HWiSFgRX89mNxFkBfhJGPefB80cE98eRSkcZIv3Uu22mbvP7o_2NOFq2qU9GNl5Ih63jgXlqBanxlafkztMRQYe-9zkj0GxoWIvpLe1Vxtzk1kZ9GDV_VcGUuhxxQuaMW50LfRq8bsUlbzRuq7sYBiIOCgzl5CzsOHcjP2mP_Mo.%26ch%3DAQEAEAABABTtakFr7Vqk6ddCGXT_GSZ4NmV_LcZipgU.%26v%3D3%26pg%3DDWPOMH3WURGE7OG7JYJRUVVXT4
+.netflix.com	TRUE	/	FALSE	1807813582	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+21%3A26%3A22+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e1703118-f452-43c7-9a8e-b3fabd0a7c8c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B05&prevHadToken=0

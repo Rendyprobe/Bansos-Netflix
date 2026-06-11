@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Andrew
+– Email: Tamzinkhan03@hotmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: December 2024
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 7719
+– Phone: +447368637428
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tamzin
+– User GUID: 5HLNCDQA4ZAGFBBFS5MPCAB6EE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787588062	nfvdid	BQFmAAEBEJ1mHLNoLxyj6zbYclfa06lgSwMs8GC9hqjyyypDhYPLlqeV4lcERoX1RHjK8t_5yb_U-2bhn00GU5R4l34A1i4_0hAPzu3azrwwOO3ycFDmyqHNEu-a5mqF8-ClpBuFUg7ML1V2b1-6rrmDUT4FWcJV
+.netflix.com	TRUE	/	TRUE	1809368931	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA5Kmpblqf7TVRKzNj5wnvIJVlHyZFAU5ZZxlybcIrFHajVkmfCU57TZ1ki3AkMljxFHDMomotg-4bAgaEXVbroOvyuJwF6UR8ptEqG_MQllA2zfpzRB2XlpDdfcSHEVjYtiC1G7Bo9jvACWz_7nuamc0QWwBCUzu5FiEYp127rurhkqBabyo9noEMsd9KnrZ7tRRlBQ3DwSui_qRghVZLvLj6_BpktY22jrmNNFydpf0xl3c7aGM1Fmi62W1qUytdsJkHkyn-83ouWxDfG7RjxuVTM-vZUt1-32gcS9l8swhkfjWDdgjIVxXpHLjkpCbTjd_9DdvryqJ56XLJQCLUEVH5fuyvgUyBfC-tCDsuWkPrHJIFeNHCTX1ZDEmKn1iBNin59RgO7tjbh2PJr8_bAOimn86HYUkEAz97bQlL9dTQvmpmJEvCqCqe_7uJ0MSHWAwev2mhEjgXkEOSVagA98IVmuV5zyvgiyiGedMoOHLMCo3-ICA_HjnsTVtAocDVtDU2aAoFYzYzjIHsAe-m5l12BHJJBgGIg4KDJfssnutYU04CI8kWg..%26pg%3D5HLNCDQA4ZAGFBBFS5MPCAB6EE%26ch%3DAQEAEAABABQ9e9lYxwJ94rnVLs-nAvkFNVoIdt-jY6s.
+.netflix.com	TRUE	/	FALSE	1809368932	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+20%3A28%3A52+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c4ca48af-6fe8-45d6-b240-e4e175a32797&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777832923806&geolocation=DE%3BBY&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809368931	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6XlU7-WqxzJdSS3BTKIIutCg6oOvbRcw.%26dt%3D1777832933385

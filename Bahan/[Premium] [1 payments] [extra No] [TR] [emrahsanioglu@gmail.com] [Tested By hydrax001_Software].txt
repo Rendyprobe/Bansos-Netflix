@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: emrahsanioglu@gmail.com
 – Country: TR
 – Plan: Premium
-– Member Since: Eylül 2024
+– Member Since: September 2024
 – Next Billing: 2026-07-03
 – Payment: CC
 – Card: 3014
 – Phone: +905423758909
 – Quality: UHD
 – Streams: 4
-– Price: 379,99 TL
+– Price: 379.99 TL
 – Hold Status: No
 – Extra Member: No
 – Email Verified: Yes

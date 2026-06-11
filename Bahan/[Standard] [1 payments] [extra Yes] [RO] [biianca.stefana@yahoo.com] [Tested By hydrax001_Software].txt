@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alex❤
+– Email: biianca.stefana@yahoo.com
+– Country: RO
+– Plan: Standard
+– Member Since: February 2021
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 0442
+– Phone: +40755277774
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bianca
+– User GUID: OMWS2QJ32JGTVLYMZWEEPIIWGQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798320302	nfvdid	BQFmAAEBEHWQRjIx9mbkH1qiSTUBCsZgse23ty9F0EkzFZpAnq0LMJ_EBEYzSfl_FlMoB3mdxa-I0VqZLyBUzNtWm-UQws79XXUDO5Nez3l5z6aGulfU6fCqy_JEZIvzlxv-bgC8fl8-2mfvAS72yAnoopzbFD12
+.netflix.com	TRUE	/	FALSE	1809034408	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+00%3A33%3A28+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09e04237-e48e-4635-b844-165be685c836&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=RO%3BSJ&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809084711	NetflixId	ct%3DBgjHlOvcAxKIBN5UujJEAwMvogKvtdXA7YFMp86sy6wyQFO1JVJ5BEHRdgfPUcXLP4M5QcDyQQ50kLjUPvZL9AGZI_zftE7NM5G3aviTM3kiyMtatnXuApBCTEEF3oLLfXO1NLb2X7oyFb80aLUcus_g_yhuM2VGQWq7ocxDvXr71DurnXoJlLGCAj-W44OKqSWzHbQTIWUrIySjdC8h-xOU7JcxoYzCv6SKROPX6IOuSgM4h08ceary_kg_nRWQkID_RDMuaHwexh89tfojc_RNT_UgzLbSM7rA7BJUwxNMLNdbj27NmMsGC4OQUp3nwC0_pVj8CzCZ7iBdGqJaAAMUlfO-dQR98u08mFBIJ9m1RjJO4BgK7zuO30Rm5o2dbELASCjWMlcdhcDLNPoEcd68iA500owXvEvvalEMDvZ-C40EUaT1Wz0SovQVy6UFEVvBtH3cZ5bNLHIXp2Q1wnsmxxfhdSmy5S8QJTVKgPCwP1Ks0paf_WzIN6ur_Ny2QnKR7D0wS2Wc_DxBtKi1ERG5Mp7biXGe1fo6RyoPaW_jVaZegHECk3gfBSNuBcK-PiBp-0M1MprKfr2ULp9T_XBGiOLSiZAcUe60aom3mv7YhJOrczyo59t01TaYXvNKkn7PX3UEFA0a0faxeupIqYdJ7BsAT0EnZgfYZRswYhiu0C1EjPiEXCCEOwHZEdJblMcYBiIOCgwID4kAv_P1EUZsXuo.%26ch%3DAQEAEAABABT3A7fK0ajqQZnCYTyCI68xc8-E6NbEDjY.%26v%3D3%26pg%3DOMWS2QJ32JGTVLYMZWEEPIIWGQ

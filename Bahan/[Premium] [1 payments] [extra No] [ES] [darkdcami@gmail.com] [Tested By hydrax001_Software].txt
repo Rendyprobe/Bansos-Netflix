@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Infantil
+– Email: darkdcami@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: junio de 2022
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 2390
+– Phone: +34690054387
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CASA, montivao
+– User GUID: 57TNYWCEWRHPBDOP47HMQDLEFE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805232408	nfvdid	BQFmAAEBEEn2Uro9OU4p_dVbZJcLMG9gfeoVPDSlTcNthAY2dYHYC-193B7XuUfstMThMvobuqBbOqzscmco_CdhwSwNUg0lWyUzMteK5B2xW7LtFV4I1DoBcAKrVEF19FjS2eNAhQK_Fq2ivktpmWuvah4jU_Wv
+.netflix.com	TRUE	/	TRUE	1807364195	NetflixId	ct%3DBgjHlOvcAxKCBPMG5uhdPOrJEyv55dbuFWTxxYSkJrrUSehdYBATmys5K931YSTaXlaOi-hW_CAPQdaWnZ5MmUwe5wzFPTV3BcB1CiT0WKf6CQaSO0qSBF05e1_6gPtWQDbLM1U0q7PvX_Voh9Pp-wxbVwb8Qe1gHDDX5YzSewpYyvelqQ-s7110b34OYa8z3va2osUkHSXNA9TBqQ4vj5CCdP_A7PoN1SKQXdG--5gSVWrD7BWF3uhuhZaqXtoOsZHfKPbJACP3gdcrtzP7c3PDJkL8_cSDHf9z-hiX4-gPGG4JSoE6g7RSLRB0b20hWBdiuhh4REJutHwmpUyMcMMfw93l9hhStY-7qhvnLsTKC0VTol6goO0hUBHQ9ca-Jkexj7H9_SGnZUIpndbcGTQO79OxRdKF1h7-2NvGEZs0NLDSekal_IuAemZaxzYFDmGkOJYPNLGReESON3qEvrIv07iNmWrv4UsKZeoRH3YW6eoyVViIZwPkm-jKGy4mXanso9p8JTR8aPfMG66619QO8ntfkdwTqr8Fi18YYUDpRpjEki0J2Yb-zf7eBhIkuH_LFD9M2YHcGiKboNh4GbxKaQQ2-OPogDQ7dpumAjxlwxuQoxF-RMIRCXKqEyz80TNyR4VLPmH3n1p30DEHeQJXxZoYTtL5Zn9YbFKW9y7yltawqJBflo-C9pcYBiIOCgz-_DKnBCj0_xqvg84.%26ch%3DAQEAEAABABTpIgGwKpD3h8oY9z-p7NC9hFvIBLoPl0s.%26v%3D3%26pg%3D57TNYWCEWRHPBDOP47HMQDLEFE
+.netflix.com	TRUE	/	FALSE	1807364196	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+15%3A36%3A36+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=59875e5a-10dc-479b-b286-597cf9fbc072&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=ES%3BAN&AwaitingReconsent=false&crTime=1773696432263&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807364195	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR6pae2QDp_64e8TrCz6XcBST_XV2PpySg.%26dt%3D1775828193687

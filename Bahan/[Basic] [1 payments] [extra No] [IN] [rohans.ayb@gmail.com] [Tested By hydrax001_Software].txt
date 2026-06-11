@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rohans.ayb
+– Email: rohans.ayb@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2024
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: +919910261994
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rohans.ayb
+– User GUID: DRDMXAKVWVFUXHMPTQ4KJWCXLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1780159680	NetflixId	ct%3DBgjHlOvcAxKbAxr2VHyVROPOFjR8Yd_xCaxV_uFRKw-8hiUri0r-2J-qkYlqMQUo6CEnA40hw2jL7YmeHWKvs0sU1GWRwQuX7Z6NfeRGnDG8f9ej1V0BWZ0pzKAMBwdQdX0BUz5Pb524Owg15zoZV9bBuUrsU_ZoQwfS4AotRyuUO3xlI7hvk2GyFK11L8_OGcQzpx_iKuyhu93LyEYquxA7vo3MG10SmtZb55EWSXgw3Tfo3-0yLXvYYY5SFg0ZOzOe-_c_q07JPdaeZVgKxQ6I1ByoJrSvOBcrybcPvx1sUICa08zbuEJ7qXsyG3kvoUMDGP5f10WtOb67Im-cxmwfPXKvHth24f7O-0wFzmJ4r6N9HiRuYRdJUuQWuHizAUABr28kZT6NXjiB2f2AbNWSQiplH1ge1cy43sDVKJ-v788M0O2pNDhSLA0VOp_Lo2s1mYbh9_fVeHCNEst_d_ORJ8CwtGeLq6plw5Oxv1H0CvNlZkgqbIYawQ-8Jy46JHJzwmfG49UwNg-9gQEcUQ5AvRp-X-nWrXkqsTbigWph1N_0gxgGIg4KDPgvTQ2450XkugRrrg..%26ch%3DAQEAEAABABTxCE7lGgBxornxAIG6o5Y1eW2LCKOnURI.%26v%3D3%26pg%3DDRDMXAKVWVFUXHMPTQ4KJWCXLY
+.netflix.com	TRUE	/	TRUE	1780159680	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9LIGmGSS8VI8xEUn5KqkIdEAWO2PZ8Kk.%26dt%3D1748623681979
+.netflix.com	TRUE	/	FALSE	1780159782	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+30+2025+22%3A19%3A42+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8d1bfca1-3499-49cf-8141-5674c3083ad6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

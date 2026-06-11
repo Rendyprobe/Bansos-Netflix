@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eva
+– Email: trebol2219@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2022
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 1176
+– Phone: +34656938350
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Teresa
+– User GUID: QUBXSNIC4BBDLGV2HUUJN2NLV4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797799934	nfvdid	BQFmAAEBEJs0IUG37Jz-IGYkcZo1ZxJgg4knbnshli3J_UFU3_f--rX9uAvBs1a7cPOb4KByezipmH6MNl6qTaanQCVw4XDDjTacoRRAbvL6aWwbIPxZJ1WTKzmCaj679y-BWdDfNciA2Ln9cku972uda0jgwiNf
+.netflix.com	TRUE	/	TRUE	1802994345	NetflixId	ct%3DBgjHlOvcAxLmA5D8-U5JT35fwVSSsNW6QlsQxy2FGAVAiqFPTMEBvRUDYB1BtZhVAdBcuIvDgB2RadUUFewuV_x1_A8DjUegYP9vXul-IJsWoXy2qKiOHqVDlfHjXwUkozORjlb3MBOvTMzmXoBOdjq7ohEJZtfZRn8m0-w9MrQbZCSJbiMPBfhtEWc5i7tLo-pHhOnUynSjMJGpxfizIXxMyqOkbY_u797bCiKTwQaVVB5L0Fql5xgbobnLLzK8MwWTRUR-78HDLym99SE5quVx43nP3PqFxh_ItYYqucovQd1hGNrde4SXEH-yAiUpX9Lc_FHMhnZpj_DgVP-uVFsJEytHZ4NGcpZrI6naXo_pc9EwpLExIXhIJxPD0XpNEdQzsbYPSPFRLKCaXXywvYSh11PwuxKCrQVAXLInIP2x69psQ5NoMhL759IXB9dWbvhv2B8kNx8Ta7G4Ab0fwKM4UD75dGm3QTb02BvgosDfvEOE_aeF8hHX4cUEgzhABa8Ya8ax_1T5_mO5Byb98_h4NitEZFi8WLJBWqyaAFjqo14FVuD_khHzy90yIY7umlrW6PLAIoJG0dA9gyjGtIvErRDiVA3NDJV5Uug5BvaSLsSYn9gzbPjfF9kIvdkVb_rJ7AQZlOeVpTdS6VEi-hgGIg4KDFMH6GThKpH37EdsTA..%26ch%3DAQEAEAABABR9SKqML-HX2uivuikVpha6HeAMxeVBBYY.%26v%3D3%26pg%3DQUBXSNIC4BBDLGV2HUUJN2NLV4
+.netflix.com	TRUE	/	FALSE	1802994348	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+19+2026+00%3A45%3A48+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=977232c7-149e-4e17-8f85-80241ac8755b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BVC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802994345	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpEzt9Rj2fgdCsrqWDJyr836DsdhMqifg.%26dt%3D1771458352855

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ADAM
+– Email: ffhdsvava@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 0639
+– Phone: +212632337160
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ADAM
+– User GUID: 33K5OLYE2RARBDX3OHUBQOVQRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785765315	nfvdid	BQFmAAEBEHAzNrSIelPRc_pA3EXexzxgQOFn17GsP5CkH2xyjC_hmbHhVTmng3egkMD2PNpTCQdrx1rLh76G-2uP_9cXogjCDWM4FS9Mdo0mLmsV_EzuKFNSygwePA85xrdRfH3gXy1PatIaw2Z_FnZmWQQEc9ha
+.netflix.com	TRUE	/	TRUE	1798793510	NetflixId	ct%3DBgjHlOvcAxLhA5rC_FvwSxEHBVoEoaJB1v8EMz6kf76SIN6cMhM1vsX8ci_KlGl6txKqBvD5Pf05KzMjVf1-6k-pkfhe52yXEz2UPuz8_T8n6ANAcYzbaDSAID8xrYTTIdTpHsiB4I_mPdnu7lOG16g7ZJ9hyb2MZdjey1N6onSKEfQVlrVHWgFtFfCzQ1KDiqY_1Mhb56bZ5OTNveymIvsmt2NEJL3UIxP5u5Daey8itCkj0szqvWskmiQJB6hutrelwXdTlZuT-oWrBPNVPkqB13ikbM9otpXznrcR5Uw8TFndmk7tKFeAnoUU6YuyuFoJ02tx0GT84_MNsYrhZ5-eh7EbQGYrWgaaj2OTbxkp4UmymemaJ2ly8nUoaTxy_2CitStK4h1NAkEJrVEmLeXInGh1gMCOjHM2xklRylhF7-qUZIjHlekfYwld_oyk2QJtNa_yj7wT3YPbzpfamC01YcRdeHi2a82y0M8ceMV3KLCP0VvFW793upL1Ij9XkG_Zk0QFKUr6-c_07dmN-Z8cKAtS9NOxuRZV2Wi5ialDjHQTrO4axvnwCAi9JtQ87ayeIOJ3Czfm0dZjWPZ7EUMSTdmH75EDb0XqcEuzFDK4sj_pyPSylmsHCzsIgMPpOmOk_wQs0V8h6u4YBiIOCgxLZ3EX4wdka-b__YA.%26ch%3DAQEAEAABABQZ10HJQarZ8cAHvCTLUoDBgUmYnmb5eAY.%26v%3D3%26pg%3D33K5OLYE2RARBDX3OHUBQOVQRU
+.netflix.com	TRUE	/	TRUE	1798793510	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9-7JZIhHdKbcc_cvztDX9L64MhBXpRnY.%26dt%3D1767257509599
+.netflix.com	TRUE	/	FALSE	1798797829	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+11%3A03%3A49+GMT%2B0100+(UTC%2B01%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=56058248-ebf5-48ea-8f87-387c15e13d84&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: HADI GARDEZI
+– Email: mir331912@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: February 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 4271
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HADI GARDEZI
+– User GUID: D5EAWCHKIRFVDDBRG4HTBJKXRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808675838	nfvdid	BQFmAAEBEI9YMN7-8HfVuLvm2IjM6Z5gMcXaMZ2AeO_JjVzzWHoJ-qO7eJVG7zV3CmKbHy5K_0vIT533l0hlejr5_sTlCrNipXdl4TOs1ZOexZBFOazQ6jQyW5u9oNa6Tt417Ds0Lb1CViugbhNqckuSQgw4TChi
+.netflix.com	TRUE	/	TRUE	1809725979	NetflixId	ct%3DBgjHlOvcAxKKBHMAtepP0w3DmMg4N38G5u-Y9rzxO1GQ_EOlTNKRKft1744x39q4BeCVahZqXt53MaWEPwB2SdMEIb3oFz-M4asdShB19WxJqVRh0n0LJJbVy23Bd3a8dLxGxhVSsTZSlMGaFGA7YHd4iu7eLqdCj-m-3sGSyvOLNzgdIU2PQk-5M7a-D7QCyeHFeFqmTZp_hcaFTmNZa03suUi3RIj9aIiFNo-FRLrFCbuZjWy_iTUVj2J3PTEQU_DRgJA9iSSnueBIcNidMHIqdL4JQ7fH1UCc8Avc_NqvGZXzuO81L16y87iarTzZ-w6HjWFiwYO-eMX2yyQlJq38EO0mrpyeZdQk6DGA3uZetO8di6lMhSKoCTzFuh5il-C9MW-jtt2bzBZC6KnSdENnbogZ5JXRig6K2v0IDi-_Xj9wjX4lNIaMtR_GjqnROmXM1wGqKBmRXvzbXVvvjjzX1pvRcRiyGpaXDGco7kHQ4CGCSO1d-6W05C5V4etMHn2cK-v4Nf9JJeXgw00-VzFqlyEbYGg_KgKFm0ee-FGgfo0Utvu_1HUTEntuQVuJYEprX3cLj-4cY0YrT_y9DJmZ6KGK3Qxid1IsnRKX7ZCpWQfxKlUoWJwh8GtDBct1qUZVbr9gV4su4WtnfOhC00sn2Fw4MG1JU3o0Za63e5-WsGm8ZTqxdztsHx9eUJBNcPIrlxgGIg4KDHEWOwG_5kKBgLzj0Q..%26ch%3DAQEAEAABABSrsrzdIhW75oHvAVAX62YQIjPakd4FZho.%26v%3D3%26pg%3DD5EAWCHKIRFVDDBRG4HTBJKXRU
+.netflix.com	TRUE	/	TRUE	1809725979	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRX_l53r2sTNsIVCUi057LA1FmGhFNd7Lo.%26dt%3D1778189980898
+.netflix.com	TRUE	/	FALSE	1809750789	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+21%3A33%3A09+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=84eade7d-3805-4eaa-96d7-e6cce4bc7941&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777129416674

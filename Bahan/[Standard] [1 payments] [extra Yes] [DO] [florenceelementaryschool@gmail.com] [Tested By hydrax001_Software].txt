@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: familia
+– Email: florenceelementaryschool@gmail.com
+– Country: DO
+– Plan: Standard
+– Member Since: Februar 2019
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1126
+– Phone: +18298548884
+– Quality: HD
+– Streams: 2
+– Price: 9,99 USD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gisela
+– User GUID: XVJLL6PQZNC53EGM2PRDIDQOSM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1774671730	nfvdid	BQFmAAEBEOiIlB6jnB3o4mT8W-izM35gMZthmrC78bmKLs7eZkmKED4suvsdJ4SVzKZDyxXyEt83C_Ro5MdS_RNIfUlAZKglRhi10gx_DB14ALWtFQ8_rI67iKNb_aN-0kehjv_4OrxXLrZAvkgNMK6AmcZ-r_RS
+.netflix.com	TRUE	/	TRUE	1774671855	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AvjQjjUwW1zqpP7p_SMkrSPjLr5Q1o4AEntT-lyjjrh4iN61GGgXBdlMTd2zaKuWVlYBbEBvne1qRTisEMAkEVtKk6T2961LAInUT0cZSfzemvkdKxXyi2SJzTVOsHlfUrMXiE0ccU8D9_FFvgGMYZ7kEaW46BHHvmtGGIvk-FgaLPTPCaPrw1Op_r30C_jiyf1RNuKF3VFaYswzilFPMAuVduHeVJRlfwfO-Pm7Qt8Qsfozpca24F9omv6oo7yAPP2KIjWHw3rvBthUAv3jrb42lTaVg6dXMADaubzZ9TleHJXLFWs3VmJJO83au8wzAxCOpr6KV5pxo5-i9ChPnwDRnwN7Gs-Be4b8ASeY-RMspNDADhksy6uNGPzwm7QfFctmi9EwgzI9Ky8XMGPqZbg0DCzhTba9TfS6ebK8mwXMzoxrfGnkIobZBm3cwYFTH2Ew7R2EN5ZvL1oRcJWEFX355naZ0gvd2rRUxAiWUn952amhoOWlSldyGAYiDgoMhsHA4fxG1sL1lPPq%26ch%3DAQEAEAABABSzALBIQnvQPtmwBH0zKqGrkLxAfKv2iDw.
+.netflix.com	TRUE	/	FALSE	1774671855	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+28+2025+00%3A24%3A15+GMT-0400+(Bolivia+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=364e8006-aec7-48e8-acd1-9b9ebb7556a8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1774671855	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIG8X-JO2CTP0kNxzSuSZ7izl5ZOU99tw.%26dt%3D1743135854413

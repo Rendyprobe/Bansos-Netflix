@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sylvain
+– Email: sylvain.loridan@free.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: février 2019
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33766540109
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sylvain
+– User GUID: 6VGVR7D6LJCGZK3AAYZSJVCGRA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802361484468	nfvdid	BQFmAAEBEBaUhwumGYN05fGgBQRTDYNgCmUgP0RxfMtBfT5e3jd5sLUSVdXtUDqGG0ETz8euiVVSNuo5b31YswFrQHlR7J5Htaf6p02Zgq9p6hpfDkFkbwvhhxqG6naIV6FrMGazE0t0KgB3FQ_qFu9cWgO4xrUC
+.netflix.com	TRUE	/	TRUE	1802361484470	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTMmkTW5xz21nRyEFh7uhSf4ASJ6pWNj1M.%26dt%3D1770825484911
+.netflix.com	TRUE	/	TRUE	1802361484470	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA4P3Q877qqyyTLX-86_jD3NbliVPU4HrHtpIvJYdsNPujoAzG6cu9Jf3mcP9N1Tw2AOXLGfN4_JU2c9sMgopP4fim2FosM2TD7gfy9oacLEF9Bjcj_jfQQqGyyKLo8DM8OfGZRdrMgPy1ovBLbGZo8cXBGXI48g_GJsD1Xvmx02yMIe5-I4TjeloHLCOEL_FHZ_I1fgb9pGzOm6Etia_Sqfe263x8YhikQWmIbJJ7Zq9Qpz8ACV5fr5PmuPC5U5414SVO9b36pwNRqDlS5MaWW2M7454WMbYCk7825XMlNwPiPUodNbyqPE5hoQGlZp0QPF1AqUgz9uUMB4Ai2SuGF2ClBjwXqQIXAOYVzJcy4B5gVlDfDI4xuhQ7ZCz2elVq1zgSq54NLxDZTChjsJTF9gWSr_BwWtcwMAFhTU8bXINHtwan9TQoWCZFnfRzbiz1lo-X61yXSXAGvNxd4oII6IdN7cJv3Pg61iPJbXLKRQHRmV1kafPYayU-w5KLF9_qHVcX88BCaTrPxgGIg4KDArVVIjgWhJgVe4BBQ..%26pg%3D6VGVR7D6LJCGZK3AAYZSJVCGRA%26ch%3DAQEAEAABABSMEw-CwbV2qwiy1fqH6tAhYRGG1gw_sg4.
+.netflix.com	TRUE	/	FALSE	1802361568000	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+11+2026+16%3A59%3A28+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9fea2de0-60f7-4514-bb9d-f98314a724db&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1770825470948&geolocation=FR%3BHDF

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sasha
+– Email: alinaesa08@gmail.com
+– Country: DE
+– Plan: Standard with ads
+– Member Since: January 2023
+– Next Billing: 2026-07-04
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +4917681090601
+– Quality: HD
+– Streams: 2
+– Price: €4.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sasha
+– User GUID: MJMLEGNPGBHXJNTVQIX76Q3S3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1803979041	NetflixId	ct%3DBgjHlOvcAxLrA6HGE8p9D7amkjAAjZnFZ_n2x_MCkJyIkOcwKV0PcVVcy2AWv-wQk8VjNwDNeFJR1JYyjLO1cQmQwW4ibwl0hlq2_DML5JYmj010YDAreOLZYLV9FQjv9QW9zNxRiNx89L51gAUVzVz5AtAX-lnzQPrPZOKOC0tWgCPUqf5l9LEJ9bjSqNzE1iHlv9Dcc2USZtudoe4Ob90ga190toi7iQbjYkgxao4AuZvjOu-CFlG37omFDdMFGMuLPdJngD4HIp2LYrcVLwLvkoZE37WC-wT3pwdJZSoK2i7cRBOvLr2C_L_imGgaLASWj5H0-pdG_1Xqf0bNcicadC9rbunafuM3yI28ZkMYbfkGtrnOatAkZkowmmh1RUVzbr1LqoWfbf2u-ZMtPDDklpJNoiTbo7eOzrzgkYAUWBoWc-9uPa9m8ddcA17UNbvFvgQKfJ1IYKg73brFoWljveBH0bz4bjxSc4HYFDzlqLSLmmZeTULiOqbCEq4z6RnlV8OB92r2JhZ3XZMfmP4deBdB_LdIm1PJLQcbB7YfSO3E0cxHqyQ0SEioeszCPmDqJ7ZFmW-GSzWJt1gJ8e0OsHFG3N4JMkm_4po4Ulgsz6QBDswKiMabYwdYuclr0kpH4vRSP3p7N7-z_2VEf2EuolFeGAYiDgoM_tW6hNNn_YoGJ62h%26ch%3DAQEAEAABABSHowUYqqk7YYnSCXb6CzygTYpaM1gvqLs.%26v%3D3%26pg%3DMJMLEGNPGBHXJNTVQIX76Q3S3Y
+.netflix.com	TRUE	/	FALSE	1803979044	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+10%3A17%3A24+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=47e6ba16-50b7-4147-8245-13c899541aeb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772443044877
+.netflix.com	TRUE	/	TRUE	1803979041	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRx32_fvTssqQbjwQ3jAHpIy5Kzg3KIQPQ.%26dt%3D1772443044082
+.netflix.com	TRUE	/	FALSE	1803979041	nfvdid	BQFmAAEBEI8sBRpM6PQbyx-F2igBc3ZgmzAv-ips6qXNIvmD1N4IVXzR3y28T4ZiEyPlPX6vtmAEkrusH6N0ywONmkhaUkJhUGepCtBa6cfcDUKuZ_-b6zpPq1yzQNjhv1guiWvxOQXeg0yATFSKu6mKjxl5LDCB

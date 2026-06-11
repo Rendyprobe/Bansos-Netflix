@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: US
 – Plan: Standard with ads
 – Member Since: July 2024
-– Next Billing: 2026-06-06
+– Next Billing: 2026-07-06
 – Payment: CC
 – Card: 0817
 – Phone: +17744050325

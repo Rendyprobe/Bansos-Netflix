@@ -3,7 +3,7 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: PappÁkos
+– Name: P1
 – Email: drpapperno@yahoo.com
 – Country: RO
 – Plan: Standard
@@ -19,7 +19,7 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: drpapperno
+– Profiles: Marian
 – User GUID: HY34EQYRB5C7VGHPTVF5IEDQSQ
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════

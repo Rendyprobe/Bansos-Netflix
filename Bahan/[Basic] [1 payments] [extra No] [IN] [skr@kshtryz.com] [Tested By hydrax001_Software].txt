@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arf
+– Email: skr@kshtryz.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2023
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: +919619696940
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Skt
+– User GUID: QQECQDLNVREWBPDRDOPJ2UGSM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808665187	nfvdid	BQFmAAEBEE9x8JWMOssezf_72MVDOhpgQ2K13ypcdF8llk8PSMe7-jyuI0ZTnzNHnERiwWYcKdMhJoxJ8FGzBPFqfUUUpLjRUcDE4Kt5llyEatbvo_WYJxDU5yQ_XsLJq_s0s4CNMzWlKyNAizl6wzd7PdGLpShd
+.netflix.com	TRUE	/	TRUE	1808665202	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA44GXI3-405zMoxN5bXUlVu5DOw882mdOCH9qY5ixRgBdbdxhA7vEf7OsGMbQzBoFQraRjir8r6D46VPyA2hdx23YH8A7OPMgl1IxYi0D_Jdbyr9NucZ_snLObwaOiLJ_sVLr8GQ_cYiQdThJhw2zCwWFptKaZ60O8BiCrl2paFXuUAXku0rfkPfOQB5wEJ5uroJc1EX9kDnRUiFgk9ND5dFjWadTQRRQAiXvolqTacwnGBnU3YA-TFD1xaaaeSfNK66iCdY9u0HC7wV8JeJ0PDxEOY-zn_MTjRva-ejsEwhbeJaDb35L1n2T7jsmohcRA2Lt-avRHnwAHMvVWBRmo64iUuu4q--KmVYWrafgXy2lB9zMmRTxjyVjK6GZu1-fmJwM3-zByxx3QuqKu8WshQH9f42dEbYdbp_NKaTZLD8lKx56WGJCSIJ481hx5g5yzSh9cT1g7utl1OClH_5FO7YurgOjQ5qt-CnMZtDrexUbNu7acJ0vwKFJ7EdhF8hbd3T0VFjpi4vVFwie_7HUYGO1pp87GUaGAYiDgoMYH8Oka1zvePjnZnA%26pg%3DQQECQDLNVREWBPDRDOPJ2UGSM4%26ch%3DAQEAEAABABQLJOeUa0q_0PsHjWqbrDJ2rYQ4oCHvBl8.
+.netflix.com	TRUE	/	TRUE	1808665202	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJQEnBkOkCxGVqoxC8ZmYAPB1E-98nR0k.%26dt%3D1777129131428
+.netflix.com	TRUE	/	FALSE	1808665476	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+20%3A34%3A36+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b40d90d0-66b6-4405-b8f5-798d5d2970e2&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rayan
+– Email: dcrayan2006@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2025
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: +919591331331
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shaz
+– User GUID: F37DRMJHW5HJ3GJCXAG3EWHDEY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797252405	nfvdid	BQFmAAEBECKL4Aa9rR-swg1tWLeQY1xgI-a1ruuMfSBBF0tlbrEJppHyHBL0unXiZ3NNxjPpd_NOBLUw6DcpTMcq3uMHygqbjX-_ZQ-L4qfWB6lsOnjPH3yQm6d88bl0WXEg-PNNqza44851SUmWZ-dInN4I8Ft-
+.netflix.com	TRUE	/	TRUE	1809151009	NetflixId	ct%3DBgjHlOvcAxKDBHqrj-V1HjKFnFa6z0mWzDAdtFMn59K2kcP7vnAYLYjAc9M91l6C35V3t0Ise9605sgM_zHyBLxDNUK-2sdIu1mQFUkB1Zly_Rdsn9ggNhxdu5sypNTfFdIY5xEbd2_emUC47gDPJ6eIDoKdrMtiO18qqIVz75U8FM8embe28IlpZWLQV4-F1isKUWT1LOKEJ_7kXpUDWabvWePpNPSrCneucO-WVpuYUJyl-V_qsC-ptiw-F7tLnP5wfIchskP4LtADK07Vzjl2tfyzoCLtjEUKqKCb0WSUd9mwHcxsHBVQ9p0a9n7Tvn01rwntxycJo6_B1_NgyfFJMdSKRVBiWp9OQ7Gj4vp3_3kE3ZLdeutAJX8cFvALrJwDLrI9MwY3Z6uP0qZ0vDxH3RSxVymHwD5mAeQV7GzKO6OCB44o4WDafkT373K0zLTH7Fyl223kvV_7mvbIa-5D7ZTYDIEoR6BdjvkBCaABolHKCwPLQlODzmQDdJtxzsW1bp2trdrjyjYvfb7XtrRC_T8ukrTdK0t09gHI5NbI26b_4gdmc8ICRj0rnQFLtEUcoMuRSWmuBT3BMyyKBuY3ph8A1OvVnfcy-_5DB_oQK1u2Q0wXUcP1DMTYA7Ujwcmzj4e7UNdPY4qTsGr0wSd8QgMaHVAk-aLHWlU6X9_cC1jLgQ2GQL7ipbf4GAYiDgoMMTAA-gNQBFix3sdG%26ch%3DAQEAEAABABTf2MTMgIWu5YTTxi1RSePiv6o0FWvy7i8.%26v%3D3%26pg%3DF37DRMJHW5HJ3GJCXAG3EWHDEY
+.netflix.com	TRUE	/	TRUE	1809151009	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzL3NU3F200XMGbl4JllAgJzCiwoRjKpc.%26dt%3D1777615008025
+.netflix.com	TRUE	/	FALSE	1809162538	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+02%3A08%3A58+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2afb766f-5154-4970-b32e-8c4f464c6294&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BBC&prevHadToken=0&isDntEnabled=0

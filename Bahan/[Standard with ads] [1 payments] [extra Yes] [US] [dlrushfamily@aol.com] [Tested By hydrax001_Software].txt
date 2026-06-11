@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Koast
+– Email: dlrushfamily@aol.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2012
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 5439
+– Phone: +17608032884
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: David
+– User GUID: S52MUDJ7JZCULAZYXNOSLCKLBQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806720331	nfvdid	BQFmAAEBEFoVFJiXOIEcUTSnXY6WOtBgNLj3b78pFlpEIX-JFt1KEp9dO1t-efog07RIGmVGS0WAiVajpxgFj4E-_XS0Cv5f6EFSlYd-l4hGAMnRkjK-ejycZv0R6b8ssFhdAnSaL_eiXAWuM3FPGmlz8VQj3eaG
+.netflix.com	TRUE	/	TRUE	1806971300	NetflixId	ct%3DBgjHlOvcAxKpA9s-4lj-dc6FatadZQtVLDE-_ndhWM4VWA9DJ3wzLeXbnqEqlcSLde1p7mHCzg-emSzhl6mRrMSSz71GA2ItwzJKD3dXGi8pFJ4lxdZZMayEUiZo40yLTZvqRkPtY83woGwZS1rnAozsixMB7lNkMSqMtknvDaCYkpUa8OSR7d_WcR2UxLVfYKu8JFZSED9yCgKzbnYu_AuEJk-2jSKYaarzLnN4e74VxcCicwBOCqSgaJ5oddweHxMkfamfvtUbeAdnZLSURUoaqe6W_YlJ8J5MNKtwike2NX4FoKBkfKG0rMXK72BdSVjdwsiM71TUxpvQrXCIIOsxbVWgoZ18v0oXbA77-7Q8gndK0jCpy5atO8Vm1x39M-HPo2IJteuh01A1WPkRIktwk3QpG3Gez_5k8TxqseER5JwMDAFIkHkJG0tyMOIk5I9REi9acMJJbYMhqG4XKg1zchAcDkt7GtCmTOs4GyHYhfaYjQcz4o_gAFNkVBB1KwOoIUi9kFBp5_tdNudkPySJ0oOOKnUn1BUPgDbRACWgoZhxVyG2Utv5tfNC7U7XuOr9GAYiDgoMKuwVbdaMHGObGm6x%26ch%3DAQEAEAABABSFFMUyMxIbGmKmHIF9mMQYRANaN1qI25g.%26v%3D3%26pg%3DS52MUDJ7JZCULAZYXNOSLCKLBQ
+.netflix.com	TRUE	/	TRUE	1806971300	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgwCZeBZEx5l44gI_MQ_Uqy7Mu2K4M8zk.%26dt%3D1775435300834
+.netflix.com	TRUE	/	FALSE	1806984180	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+21%3A03%3A00+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=105279ba-c4bb-4b37-9ca1-3770b15edf64&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775184330017&AwaitingReconsent=false

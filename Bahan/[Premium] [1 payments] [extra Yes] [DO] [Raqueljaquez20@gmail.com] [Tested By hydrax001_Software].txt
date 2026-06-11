@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raquel
+– Email: Raqueljaquez20@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: diciembre de 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 2754
+– Phone: +18494089319
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Raquel
+– User GUID: I4VYUKUEPNBPZAHFQRNJ55ICRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13438153338856847	nfvdid	BQFmAAEBEAu-8OLRoEmQXF699M-0XPdgjkEaJMbCMwUzAKfIqtzOP-zyIskOkH6bOZR6mFyZiWafGfzO5VX1IeJEvceycL5-5iMoGFyr68he7Iq51am7cUvnCaenxQXAHbHh23qHGeO2Bbg0h2DGu5DLZ_YYOkDa
+.netflix.com	TRUE	/	TRUE	13450901366216724	NetflixId	ct%3DBgjHlOvcAxKEBK5bD_35flFIz3MDSMuHM5uymf6lGYzru241BbaXhWx2dhWE1K2_vBCj8VXOod5WMIp3g8HKkwUerIGHI-pycAnj27dNMUI_dsZUScQPM8PTNuYe6-3H5a_TWsAomEWLIWZKzebCwRn_3uwvdyTI8TV_7Bj5IhwXPYEOMp2OO-m5f6N0zP7vzTHFH-TfVWJwZkaHceIMWrlr3LChKGwSlIjTVaZR5K87n5t7ZWO9jEtXUZxXTJwanl3ZMjU9wSHyAaBfCSE9PK-uoH3nz_lU-09D3PTC8l5N50yqjH-q1E1mzgbSvt2DqrZmy6qxiPAUFlnSOIkU_URbX5KRrlKPAesE2FKghrNrbnp2aUXxGjHqzXuZCOAY4Uya7HXV4lhYGMGBJzlhBj_JqQBtHQJkP55Y_Y-D9KisRFnBpEZktBLvUdl0cwp_lOJzLuPozRDgUi5mKbI0PSg9-QS3eO5VNuLkuIJaGkRGItorbhLCQbNhwlj3YvkDNTGJTJeDCmdFZ4dJjt2PX8qNXB_Cc-rE4wdj8wykCFa3G3zQ3Vzmq5qegDIoRWqBsYqGDd9a-1Fuy5lnHEXZHWL2wgFRtq5agcdYr4g0fUpYjJMJOcq6xNvHQx8M244l1PnEYmY527MC7Pg8DB7tTdQ2DoMJ1otWRwKioaLP4pf3fobJp3Xn1x3VnqWuLRgGIg4KDPZy0lPsqUTO-56vNA..%26ch%3DAQEAEAABABQJ6-3n3lrl0658oK84-dsFhJk_HsBGDaY.%26v%3D3%26pg%3DI4VYUKUEPNBPZAHFQRNJ55ICRM
+.netflix.com	TRUE	/	FALSE	13450901367000000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+13%3A29%3A27+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=59e5f350-5977-44b5-8bed-4daa6eb3bb13&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	13450901366216679	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-HK3K8g6KjSA5XnkSRVAVYAhrzpb1BGw.%26dt%3D1774891766503

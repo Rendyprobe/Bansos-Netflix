@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Caganga
+– Email: makarenaopazoa@gmail.com
+– Country: CL
+– Plan: Premium (miembro extra)
+– Member Since: octubre de 2022
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Caganga
+– User GUID: YDE5Y7TYCZGH3HFJCB27AFCXVQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801667191	nfvdid	BQFmAAEBELJgWHWFbcdzPrTOwQkdVRJg_64Tu51u2d2temM30EvauuJry2kHFlFHnZDC7n5J_FtPZcbsUL9oCUB78qa_ShxLXKZ3iZYwZNLHWdal3NzVuTZa0ubsvy5P0ee16KtPHsBH-AtPtxLWLXk1Wds0SfPB
+.netflix.com	TRUE	/	TRUE	1808841698	NetflixId	ct%3DBgjHlOvcAxKKBGlCMrskuosTwjcm09dxZwZjKea2lt4mH8yqYi8BPdNnt5R9DOUEDlWmIaJAkX6B3Fj4jzmuE9FOLhchyC3rK0X-BdK7N3V3WT_YvucZ8tJ-E-ZVnRwIU96YSZdDGPesYeVOY_NIF97Mme461AXgCOeZtrSD21JlxjnXN1i1-x0E6ctTRrnlSxWxBGCyY5y4hZeQEkWQId1x0eqdyXKt5l3NU3dblR147JQXe5223GcxJsdip2zelwfyieibKW_t_TE8yCNtmCWeYFRraLKvOr88sKqk_7hZvAREJKqVQIMP40aEgoiJrKwZuFCM7vFJqhJA6UmiqAvLO8oNYQIFXGtCjjTeRSCH4EPp123FFUyK35dGPBL280-hClOPejIoU1IQazQb3rq5vtIaYDwaIR7h2lf5b_CMDOU34sICbCBjJiTN_Uzcl7TtAbroOY0BJRsXleQhm3WvGWC79BZbU3ow74ucm2Dn9pUOMZI3Svv8Z03eKVnSQe5l3nv5SdV7PGLNx8R4PEwP94wccrpn_qpbUpIaXaOIgvsUQptriIYuA_kftT1z1K5LG29ure7h9gyaQ9ropRSsfnlwQNq4ObL9zN5zWcHNGheN-sWeyVNdUWHKw3J8b0PdQKRZ8LR9FxSRqGaWbGO9nABnH-DPXmIXI96985WkdbCHWlmwk0ywexyoa7Rq9NjJNRgGIg4KDNzQXXo4_zooTG6hoQ..%26ch%3DAQEAEAABABT4CNrVw50vWCHaeukCJDv-8JFIazhUIoI.%26v%3D3%26pg%3DYDE5Y7TYCZGH3HFJCB27AFCXVQ
+.netflix.com	TRUE	/	FALSE	1808841702	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+12%3A01%3A42+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6d4ee142-a041-4d93-b2a1-71308dfd5f1f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808841698	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS-NplbAYQnCIcK0jdhMmZSrosg8K67mxM.%26dt%3D1777305695432

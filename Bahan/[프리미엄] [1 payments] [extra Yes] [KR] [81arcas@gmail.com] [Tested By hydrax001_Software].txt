@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 본츄
+– Email: 81arcas@gmail.com
+– Country: KR
+– Plan: 프리미엄
+– Member Since: 2017년 7월
+– Next Billing: N/A
+– Payment: NAVER_BILLED
+– Card: 6538
+– Phone: +821094554211
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SANGWON
+– User GUID: Q2MANSMRPNATFPPLOCXWIRXQ3M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807481068	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA07JZ7rp3G9KyFq8kx5xYYVc9NeAGmLm6UtOLJrxDOVuaqE91o9FX5wkC9A6gjvJFbH8hY9rlRQRTTaGgcG011RSX0Ieg2V4397BpafKyG52n9elFuDLDf7v1GPClIMPaH5auq-Ok1mH81n06csB_OQS7-dmZhkznQq3Z1wtCPH-pns79WQtVWx8K1n6uxa88Ir2BzeNq2HuJ4_Q7vrDfi89evB8B1t-UJdTVn0CSLAJji3Ag8I6m4YqYg7M27v8Bo8-h1WB_ATn1EjWBo9DvD3LRUnt9ulJk1RMolhDWuZX7kdAGrOYUPgpyEyRym30nh3mrZDF-cF_WAt0qGzT0HDkVNek4Tu_mDPiQejudwgUcLEZTFNjZ7doH_V7hP-AqNyxCrxCcO5PA_URb7Af3l3wWNd5F1cbKOdbrcj4n3aNoxwCXTSfHFsKNJgJ77H0CUzx-XHn-rbqr4fPMUFKLhG2NkHwFWob7SJbpz3gmPpu858dciej_g4CNKHtDUdhZNKn0KHtcpcevYSMI49mwxjC56CsotUg9NYJGAYiDgoM8fKxqbrTzjZOsgCT%26pg%3DQ2MANSMRPNATFPPLOCXWIRXQ3M%26ch%3DAQEAEAABABRMhOOGcfc8nvtK9ROLjya_3RcXCSZSOcc.
+.netflix.com	TRUE	/	FALSE	1807481070	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+07%3A04%3A30+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=62db8c1e-4320-485b-a2d4-057ba1d96a59&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807481068	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0BMVfD-bghGBcRLrf-w10aXuY9QktYrU.%26dt%3D1775945069370
+.netflix.com	TRUE	/	FALSE	1807481065	nfvdid	BQFmAAEBEML3JJeiCoRe6Zd4Fd5pIe5gLQZfpmjn3VqC9ubLXts2U7CDo8GIBuY2A6AP2sQLR8ToREY3epYoEOgCrCzXffi5MBZ6P3s7TQ6ENksDQm1iRmEYE_KORBbr91qNnMVa6XDKWAIKQsI6MAGxnXEFNCaS

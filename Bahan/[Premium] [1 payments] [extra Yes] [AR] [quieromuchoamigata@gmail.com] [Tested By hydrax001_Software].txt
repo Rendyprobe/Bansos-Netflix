@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sofi
+– Email: quieromuchoamigata@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: noviembre de 2025
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 2849
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $ 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papi cholilo
+– User GUID: O5JPE2L4N5GQBP4OZQF2BWZ4DM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803669276	nfvdid	BQFmAAEBELQFs8vfEhKZvYGYRCfIrCZgBQugNmkZL0mlYLwYh1Kor55SBNtWWCvX7Rc16yR4tCFtDqDlG5vUZwVfcGem4RzZiPDZhLIvwlGAtJqmO_3c3t0s5HhOUkRId88RnUxJb1XH2fzTFwVwWNEC0nhpOo4R
+.netflix.com	TRUE	/	TRUE	1809630674	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA5iGqpEeEOS5zH6zFSy-4RkVbwCWBp97MdFNqJuSk95-E5jtEUWb6KQFTQvLj0pqzUrno-7dbumNtHtV4kjSYlT-r_t6wO_FlTb0D9nY5lGF7844_Pqw812t9m2rgVE4QPxDEU1J-OSirXLQ3GJ0yQnF0dW6WQWIrLr6aCLfu5LgLodYbeS5QuVT60IX8oChJnwrc-io7SssCdv_858rGt8P1YtnQQVNoVPo3opltaPpBIfMMo3qWft74YL5dZ6h3OGWtou9FZn5dEKkS6IJ1Ynkeb0eE7KU4xuz6H8YKPY7YRkZnTkDvohjeJ6yOeY7zqb9Sk377fSDG-dmKYr5bfQj3iOIDuqvOfPN1fnfmmQlIXeTNdQ6iTpfOgFzNmttiDW0b_ZW50owbvu1v-eVCwnMahy0Z5IXh5iUThZvSQb6IWWzjH_mnys56o9b8LmzBkiAwtAy1Cse7I0mtyHTaVaXDJlfonsabS8fCclPOAHDj5908UOtCZFSlcUOslmP3MbCwi52edhZ7OYc7wwrlw6beWwk8pwYBiIOCgxUlWPYOLtZ3gL90Bc.%26pg%3DO5JPE2L4N5GQBP4OZQF2BWZ4DM%26ch%3DAQEAEAABABSv3N-m2MrampaS1rmW9ztfmaIub04NqfE.
+.netflix.com	TRUE	/	FALSE	1809630676	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+16%3A11%3A16+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a626ce1f-d29b-4fd9-98f0-784e250bfe47&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772133275662&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809630674	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQVi4tWr5tcsnCe9OHcC6gyoyxMQnNnG9Y.%26dt%3D1778094674186

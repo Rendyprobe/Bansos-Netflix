@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sshawnk
+– Email: sshawnk@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: July 2024
+– Next Billing: 2026-06-27
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sshawnk
+– User GUID: YIHA5W6OVVEG5I5N3VDW5F5XXM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795766795	nfvdid	BQFmAAEBEAXMF2-hMeVB3IwLkMzSQWlgRXuIhcu58CcFk21-QuxNQqFP5NAcnotcN-4hyHBzbSJDJkBUuTcc_boL1hyQUSfzLQ9uAGtPJqpZQY0N3gHpXTT6-aGgDOglIcuuwz2MdfeI6WpheUh2mjZ-UwHsDmUu
+.netflix.com	TRUE	/	TRUE	1800765147	NetflixId	ct%3DBgjHlOvcAxLjA5cuZnGnWksTpu0gx4yPA7bh1T4V19UjD_N7hfe-6usV0BNz83h-7Jdp3nDO1O5H_lEiPS4gEuNtTin0NokX3O-w5n4Ow17wTYsw5mlHMI1xu1Km0PWIDUK_H3PN_stLS6amCgQfmxhu__oSkl0dZAwcNZUMvv-IbSGJq2rjS2bWvSbax0OmZ7Rdb9QB9AhAzVovIaMrDOlP2EYqIV_m1WGtRXp2LyOiNJaum8jBtn11QQcqoHycVVHohTBpXPUsdOAM6tK1DDFwwLHrmtZu80uA4TNBvVzKuxz-Rl8mrjmILwL_aY7ExqKc5YtRjxCFevKb2xviwXRRF8UtLhWPrk3JpD_AoodzFe-J9JR6C0kjyxcKX9SmoCY67UoJBqepYiCrb09FSay40PJbnKp0jqCvVuKhXo5b-mDPf1Bzqr4EAMyJabSBjP4mk0a-GD1nSKWoCHpK0li7R9ORJLpvRiIgqJilTNBGOfS17ttpkpnIlJ9kdh1NsPh3GFXnuISZzLfvPe16mhsVG133XEPy-fTxtP4N11J_QpQE8JWgY1_r34t1yc5uLksqxAxQJqMAoqZI2UPcKpSZ1sBNLLOc82rXd-_RrPSOXzzrClqf1GAZn7T9TX5m2H1-csDxnEwHKZuPNhgGIg4KDDJqBCT7dMaiLbcNYQ..%26ch%3DAQEAEAABABREYercDDfIo4TcZ1OYSm1HcyzzuJiX99Y.%26v%3D3%26pg%3DYIHA5W6OVVEG5I5N3VDW5F5XXM
+.netflix.com	TRUE	/	TRUE	1800765147	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRbRI5iFtzyVEZYQKxjnuI8rbovy3QPSA.%26dt%3D1769229145709
+.netflix.com	TRUE	/	FALSE	1800773556	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+12%3A22%3A36+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d77859fc-5f2d-454b-9a7a-c044ad1c9692&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

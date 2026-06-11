@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Prashi
+– Email: shivanikhati@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: +918077154196
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shivani
+– User GUID: V3ODUMRTTZERVPPNTNQZAAABBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783357154	nfvdid	BQFmAAEBEA3RUVYq7ZNwhxD9NbJwXalg7fnw4Sw9-961tcKJ0SPM-IvSZZB9EhjXuzPRWKKEQ5sQ0QAGF0U_B-yPQee7QB78AGE5i6xelpkGZrhNNvawpXErkMETouTtj24JYfIRxugCshsWHhLQapPpgqxTDr9E
+.netflix.com	TRUE	/	FALSE	1783357154	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+20+2025+13%3A18%3A39+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=63aee990-a366-4b35-8c08-b9f507795d8f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783357154	NetflixId	ct%3DBgjHlOvcAxLiA7fzUfr_CvAkb_rLHnoRmu0VBIl-jAKwC8eJjUIfNutsgT4CgQUsqJ0EC9oJBEjBCivP1qAES8wTRk8xzmnQbQR5jmUcC7SD695h-UEXqSY7wID0yCbaULczfL3ZHUe8Cn6R6amuugBJcKkCcDEmDQPe_NxbZ_Br60TAsroDbyiOnCwaJhVDtr69lVBlROn5Aj85nowOl2Rd1tDq735gvoVqVeCSJy0GFgIV8GtMvMcB4fd2xtLmPBbMulTwR7gAedfESp_OREWoZ8tAKX8YZfATSAKR82DHX_aeeWjJTURQty8tleSJVb66LYk7O2DfAg6txZrZVyzYqPyvukArMb_a7575OcbkRyzoJPPyzZkjO4BLVlV_nDJ7EyK6kYcp4PQbZwULGDCmNDSgk9SvnlVUjEznvtGuNBhFXWGGmdZn1e9YzgjTFkti-9DgWW80DAnG6-kHvq-4w2-7ayKv6bopGT2ZfzgTD5qYmcnEQZWox5ZtC7lTT6bdW4gpiYXeZT76HrV2WmhxeF71SH__ayIWPTjhlug-SdrFQdx7qysSBwgTCE4v0SW3QKm1fyZus1AeWH77rQEkp8uViO_tVjBrE4HEMoAm_P6y4P5F0udEwCVOMs5ngqu-hLz7Jv47nXVcGAYiDgoM4gmQAuSJUvVNT39Z%26ch%3DAQEAEAABABT7dY-xk3UFvRa2GBsYQI4R8_txXiUD58Q.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783357154	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQWcTkjd07OeJy_BuDJeN5rZJ0QHwchbs.%26dt%3D1742456923264

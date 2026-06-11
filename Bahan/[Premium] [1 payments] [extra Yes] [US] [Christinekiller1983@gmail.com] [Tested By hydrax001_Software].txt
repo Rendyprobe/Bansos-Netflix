@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joshua Everett
+– Email: Christinekiller1983@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2017
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0581
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: turtle
+– User GUID: NLPLDEKLW5EHJMKWKP3AKHZE2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803404139	nfvdid	BQFmAAEBED9ayPL51Kru1caSYeFs80JgVWC4x2don7B6gwgbFMA2EbAyzDr12FY4wFTe0QNDEbKOWGEKPp_GZNRNCd71SxkYvuHfsn97e_LBQr7Lf4ZRul0sYdck0-0ARwx1YDsw76eoRVGgoXeTIhhnNHE_ahgh
+.netflix.com	TRUE	/	TRUE	1810963998	NetflixId	ct%3DBgjHlOvcAxKMBHHPesKMn-VzfdKUEgUveQZWLwPXgPexaii_mK3d1rEIqo3WRFHTvTTLtUgOxogJLeHa753IuqDFR49_dmzuohanFu0Duw0QuyPJ87LJS-lf-euu_BYLc4N3TX4g5tEZ54HSVcq96JFcj4Cq7wYW_PUoXG7SaSwuuCjhwlbasZtROHwWg1tVkwWVXOpIyxNKC42LxTqewKszIBs2jJro7pQtwfEUiRycx6XVumGGU1GWYtQcmz0EgYKZtbuOgxIlR5532_1MjHYfbNELXYFKXdRr_RfCAMPja7hsQfIO5fNqB7KF2muUNaj0pKC27SJ0KAMbUvt-h-bBXRIeF3J9u0pICM2qLc740wYpCX29d27LxmYaDfL8pY_duGxML1MaMUBhTmOUBYUiiGplu3KrvJCuPWpxCnFl8Gnbn8hlZZeqfLicrxNj-Xr4PUEtQfJzxtgYALc72Dl4xjezGsLKV_K1k_dJ48I5-Xdc0On34u-XMkAvxBQIEtI56icIc6iy07A5Yx3YBHKDCAR5SJrXYGTGYkruTF6Q6G1-H7fLlJsDzEgVE_KHhLJnK_4x-8Y53Imrb1c5mAQYXYGanKnCKFs5brFBucPA-del35yan5ziwDmUcGiih7Xnu0N1sZ3FkBNfLBUHORng4rYlMIVyJUb9rwJTOn9JHKygzqO2Xfy8FA3C5iSAliXFTvb5GAYiDgoMYQcFCx5eYBgZbLoI%26ch%3DAQEAEAABABTLdj0SiP2lMqjBJ1ETwI9qBabLM3Wf2c4.%26v%3D3%26pg%3DNLPLDEKLW5EHJMKWKP3AKHZE2U
+.netflix.com	TRUE	/	FALSE	1810963999	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+00%3A33%3A19+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39759d01-4068-456e-86ed-3ef1f14ecaef&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810963998	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3gCuX5DimVO22JdxB-lRUh8yCTTJ_SNI.%26dt%3D1779427996890

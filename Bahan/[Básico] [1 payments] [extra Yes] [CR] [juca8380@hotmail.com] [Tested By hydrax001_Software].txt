@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan Carlos
+– Email: juca8380@hotmail.com
+– Country: CR
+– Plan: Básico
+– Member Since: marzo de 2020
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 1921
+– Phone: +50684170603
+– Quality: HD720p
+– Streams: 1
+– Price: USD 9,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan Carlos
+– User GUID: VEFJEOWLZJB2TM6BA7WPTPNQ5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804137279	nfvdid	BQFmAAEBEDvViBnuI0QiJyTpNk9lNj5gYYVomxhksQTb6ABEHZUEN5nq9gNQuhjw_dEtdlL3PxEdTTzWfMocriGOjiMcyFOwSvHYWCEr79laYqbox71BUpt-1o28-iXLpvn0ZnhvBuDB6FoV0o3WkwTAUlo8SF5h
+.netflix.com	TRUE	/	TRUE	1806052836	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA4lkB2wNi6K-SKZRXuZoO_xq-N7sNxmQ_3YD3AU8PoIk2VvWkicau1VOpNeIvm-SmqJKdNLR1zy-Jbj-fPm0GRKxe6bvoLz9ohkEGPACxHu9GRp8w46ij9buEf0T3_ET0gdOfRGZ1266WITl1roW2zTfIdtkwi2Raca5pGsJL6ts_WTeubdKiAXKKQpbDSasFwsMCQF9kJM93so8KclpR639kVc5plQP1yieTClBUIZ464tsSH3SZ40hg7kBZcj1fx8XE-ph5VSe0gLI6CxyEmGO-_8g5b2JLQNnCYMdFAxEsHlySvlTLZc6MoAvE0Wh05nlt4_iRR7FitzpxglnF3aZzeQdArMuCSAmgrjkp9tmqlZpdAc22V9HuVGvDNI_5GmsKozvR-1jjZip3MSB5I3bXC04Vf4Iuewv7HlxGA1mr2afUoOIJ5tPjpN23AouBNJ3ptam8kAMszwfRV-fuzmJpxmh5y4WKYo8XLWCeFrInNIegyg--FwDB0QZaJL556IiC9WCNPjnVl9CUKYMwFWls6O7PkLSPgFHWffdegYYBiIOCgzSlilMiPkXxRb4vsg.%26pg%3DVEFJEOWLZJB2TM6BA7WPTPNQ5Y%26ch%3DAQEAEAABABSSBsgWsCSBSJKtFskiJI4nuPx7vCDM3t0.
+.netflix.com	TRUE	/	FALSE	1806052838	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+03%3A20%3A38+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83386daf-f1df-4f7e-aee8-7442e8f95726&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772601188295&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806052836	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9ZYaoxgrl26WpZkKHFqvtpt_zdlKvAeU.%26dt%3D1774516836779

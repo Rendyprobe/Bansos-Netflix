@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Richard
+– Email: laurencejoyabando@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: May 2021
+– Next Billing: 2026-06-27
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639663207504
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joy
+– User GUID: GNVI7FTAUJFS7KSQAE3BJHQ7VE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784202728	nfvdid	BQFmAAEBEDkbd7z-GbVykhkeautOTT5g-tkQJxnhh7KHLKl0XLoVA1kK5dc2jz5H7lggPuWesBo9tpX824vkCVsDFo1bqGh2T4Ic-qHEch5LtRNY_utZX80Y8RLItq4JyueSxunR6UbY6oY-dcJU6aLYZdQxc6pU
+.netflix.com	TRUE	/	FALSE	1791383916	NetflixId	ct%3DBgjHlOvcAxK1AyNscq2XxxuuNvVAUh2YFEmi-XQFRmDq-XZ4jDPkNoNtmK8mUrxKNRMbFToAYjeOd-RUGljH5o4m3IPiP4cnlFPqJQGXLcoZ1FfbotlzRLF10q9Sffojn15I95UOCuYk93ggVsGUwqlE4tuDrCxDlh5M9b-8739FZZrWsejnOPr0x1E9-a4jzKSDfmOAa6fBDQCT16bLwBcwmhTHoN1BwglSAhrwM0gpzLW-l9EQcvl8sUtisDZCfdYbF85tOzy9rl8U1_mgFQOxBHuYF-jQj9xppcjf6iBDhK-X-k9UmDpnKgU7lHhcLJ98J6e7GH3yBBXSOjjJJSI01faO-YqVMNV5IVVncbnTuR4xCJ4JRtwh1HT3zYe0-dJmfHdq1GUQtNRvpJ3eqMlB0yQKke2FXOu6mCfJVIGWwSyk4REhMIIeQpTeTVEf_vFoHCgj630VCLCt_7nPeMLzLKLWtKNXFrYGZslbFzglu9uCTzqlJN3mlT0O63lfg2d3C6eM7R3-5U6NYiOBZRz9ioxHT-lXjd6kJOzjPv5AZoPldg2Orsrh7c5ehbXlAvBrFUDdlng_N99pSHb-GAYiDgoM9LrsslFMhD-JYftU%26ch%3DAQEAEAABABSZCvZShu_28rJJ40nEh0_y06NVe25uhC4.%26v%3D3%26pg%3DGNVI7FTAUJFS7KSQAE3BJHQ7VE
+.netflix.com	TRUE	/	FALSE	1791383916	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRopBkA8IzUSC1QNT_cQD6OT2jfctvTbek.%26dt%3D1775831916054

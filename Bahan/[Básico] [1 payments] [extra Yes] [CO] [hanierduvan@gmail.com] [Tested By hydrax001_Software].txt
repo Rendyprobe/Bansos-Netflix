@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hanier D
+– Email: hanierduvan@gmail.com
+– Country: CO
+– Plan: Básico
+– Member Since: enero de 2026
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7043
+– Phone: +573117423425
+– Quality: HD720p
+– Streams: 1
+– Price: 18.900 COP
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hanier D
+– User GUID: 7BBTHMALOZBNDHDNLGAUK4IK5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801773447	nfvdid	BQFmAAEBEEfnhlaRwxcFF3FKzSDwSIZgAbmW_y9YXa38ViBC_-aN0VbdhUDTUdpe9Tf7sx9L4_VkKT9L4elZAZiJqVERMUoBDrdtwJrsuG6qh2LO6j2U-3QoWSNS7fcgxojDdvyMnYWkqjjcBBz-5OhY4djDBCG1
+.netflix.com	TRUE	/	TRUE	1804102978	NetflixId	ct%3DBgjHlOvcAxKNA0cQyjg8Kpqmz6jWq7B8IRRHvZL_KsZ_la_2ShYMxQxj4F4IWB_Jn6ux8ERaU0trWmlZnVHxYo9xz8p3OQOWotf1WZUVQ2T9rQH4PGaRtYpW8pRdGE4bZVau1pd8CBHzlMLsYGfs6UUEkBoPsmYfOgSye-crSOFJID6o6Pj78byBsni9s6Xs1tmuOOMDK0DT2C5AHU99UybRPu8DA3FZKmJILL57-jUfRS2Rgs_sCZGITX4SgjTmquvBCfHynx3YNLzYa18mf51SZJC71S_7gFA0k9TY09t-9MOfo7380IEyzxrGXnEqBw8uPa39QxpDTdMN0DTeKaTIvz5_fdeVUn1jrnwgGNQU4vsC2pzbKGBH4S_54dBo2vlAgGVLMUL9lAHaV4oGw2TkhlCfzAmhM-ecqjC3b5G2NswYgiQC2a-XiOABF4jDzchCgbvnJz-IOeTvaJ2UHAxCt1awpHPx4-tZDTFqwnCebOEw823m9-fJZEwPvmDIUE7bToDWJoKx5wIHiOiwqNOmeNLUR5EYBiIOCgxTtqWEjGwFhmWd3is.%26ch%3DAQEAEAABABQv-bm2TjuV3_kT1J76FeJFL01YrmGHmec.%26v%3D3%26pg%3D7BBTHMALOZBNDHDNLGAUK4IK5Y
+.netflix.com	TRUE	/	FALSE	1804102979	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+14%3A42%3A59+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c2e4c25-e575-4ecc-9c0b-70aafc8b58af&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804102978	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxgdV8_CpPMS-qyN1dlkzx4MXZceEimM8.%26dt%3D1772566978177

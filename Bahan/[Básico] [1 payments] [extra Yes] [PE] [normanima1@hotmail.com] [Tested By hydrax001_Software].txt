@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mariano
+– Email: normanima1@hotmail.com
+– Country: PE
+– Plan: Básico
+– Member Since: mayo de 2025
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 2774
+– Phone: +51991370126
+– Quality: HD720p
+– Streams: 1
+– Price: S/ 28.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Norma
+– User GUID: WHF2XYZ6DBDR7EQI4KQ6JDT2NE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1793106453	NetflixId	ct%3DBgjHlOvcAxLoAzbuooJPVltCneGveYoDpseY1A2fPEOKGWb2UeIcJZ8O6f-0M0_zqTklyyrRgG_M56cBC1CrLrvzu1wCJ0GtsGQYfuKCPmGvttKfLwPrxTR7VTDSQn3dQipdwXrvD29FFUlPa233kCPdbkrnFJol0rgr_7PTJ3HeBFIm9TGp-dvL-kzKhXT55BHq0GhDzZl_wOmO2ZIKk_2LGPsjFEO-aVQT50U5WQccQCaHLaHCCXGpSvTl77FbQLhfT5fY5s45X8rCRR6NVawWzFtQKEW76kpFMyM4rYoKGq4iENCqPw_zgRi1DrY1UzVXN4mEVt6MmXwxsCFFK8ppVBGkQp656cG-bIAIydGVzYbViAps6nLVP0d8-orjA8T79xIoSrMFNgsYrX9UeaXdRggekBAwDBEisOiQdi-rT-XeNMd_3s7uw4K50dgcRdobbW97Ap9HQ4yBEvZbjLUcKs6Gk0QwPoixEquZSEw7lCVTKTaryYnSg_1F6BEE7g18Qb8XgTeHjYIuIxMHZGAMHgPZFzxmpPa9vm5uNC-wI3yErLKYJrzZ6d74Sqz6VlyCQZy7VAv1ndUqBlwthA3Vpg4wz85hV5QwangyqJM1xNM6usJfHdUaHz6VPipqzC35fNcnc15IRsLlGR58ahvQGAYiDgoMwROA6t1M7xcAeb6i%26ch%3DAQEAEAABABSLep-7vHFa_utzmX9Pjud5vyzk6351Dn0.%26v%3D3%26pg%3DWHF2XYZ6DBDR7EQI4KQ6JDT2NE
+.netflix.com	TRUE	/	FALSE	1793106457	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+27+2025+08%3A07%3A37+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5e89e32c-84e8-4dc7-9a76-d5dc1c8eb39c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793106453	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSX-u0c1FzenmUXCzTyqnB_SZK7Qeqou08.%26dt%3D1761570455780

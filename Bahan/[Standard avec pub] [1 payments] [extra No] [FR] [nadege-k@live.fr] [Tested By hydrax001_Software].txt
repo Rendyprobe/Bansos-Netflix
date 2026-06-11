@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lorenzo
+– Email: nadege-k@live.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: décembre 2025
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33782698101
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nana
+– User GUID: 5KYBZ7KKQBDJVHXL5HKFFWLPII
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801331347	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AmwjfHlO-3NpuhpfAgEYcFolEj6YlHJePfhkfTwMcXieuZRW4z3YauJN6STIrsMff2Jnpl9JWQC350eg29a5IjmEUpXbCKMe3wAQ4uVUZ5QSKc3mbunGlzHbf50PRdszTGmp1bAzxgTou5-EiJLTJ1Uglry9m186GdJlRgQYdFtHm3nzqkQ8CvQjIFBkgQ7MtalHpj6mHhgAVUjvD516sPcQhoVWbEYrvXMTLxK1SF5wJgm3ogbGF5CLKzT2_hyxe-96Ibbkwdfq8ln9zt7McQN27IeeL0ZDNmInXg3H2TsMxeg1S_0bfOLV4d83v4biWiNvErJN9BBEYd2rnzdpIRdL5IvRxcHhTighRPSsDGSKlzFPiLaLj1WwqacSyKUWukeraWfLs-ddqAb08spzRSBlrakssEQPaL6tVG0fBo2lMSGMa_iTITZdQOXH3Gj2_oXhgOTY9OyA-NRwWQ6UlQODtlN5dFHJyt5jVtEveD4xTssdHcS-YoYKD9UYBiIOCgyeRPy1Auq7WjrkL6E.%26pg%3D5KYBZ7KKQBDJVHXL5HKFFWLPII%26ch%3DAQEAEAABABRtielrnJE83_zu0Oa0dTjgMo7E_mHekRo.
+.netflix.com	TRUE	/	FALSE	1801331333	nfvdid	BQFmAAEBELeDrAYP2-ilfzOX-NV_wepgwq3U85NMk2o0X8Wc3coSbQfbQf5YTpMRKULnYxHEiHjfgcszKZI-qd9Clia6t4E3cDMtpVA3-B634aRaDZ2weMrOCtgrJvxb2cDnVWuqmJUCBvAIAIvQkOZHwpLE8fwB
+.netflix.com	TRUE	/	FALSE	1801331970	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+30+2026+18%3A59%3A30+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9842621b-c574-468f-a7ac-6052e81b6129&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1769121175811&geolocation=FR%3BHDF&AwaitingReconsent=false

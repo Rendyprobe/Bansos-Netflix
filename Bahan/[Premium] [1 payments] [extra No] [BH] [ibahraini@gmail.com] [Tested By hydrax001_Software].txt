@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ALFAISAL
+– Email: ibahraini@gmail.com
+– Country: BH
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 4337
+– Phone: +97333080502
+– Quality: UHD
+– Streams: 4
+– Price: $15.79
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HOME
+– User GUID: S64SWKEZIZEONGL3W6BH2ZWZKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791319256	nfvdid	BQFmAAEBEGvkDIXWbZrUwsfAg1pJISxgxzNDbXG611MOBh2L_UAc8BzDIIXFrYLdBNxF7-6jQqR2S-Xz57ZdpXOUy9x74SHTD0NNCZf9Y6f3f4LiEd8iVWMO6gHqkZFotu-XsMyaMko8H0UO6kmk38eNob9b9wzq
+.netflix.com	TRUE	/	TRUE	1792379555	NetflixId	ct%3DBgjHlOvcAxLqA9xJHMTezbb_ZPEg3ab8ex8H-RP9PKRx4VwfByDGqORwnuETRsBUyk0i1McnQh8TnZr3AiCqmaq4zeiRYa1TX8tcixk18nB9SOALErgQ1yb672sg7vo1JmxA6DyfNUB7si3kEk24SX-TsUlpij9TfxLIXm7c613dBKWNhHpAFdwDG7_Vq7SlbuQCxcZCbz1Z6fE7MqmFk1-eLNXBaDx4vua4fCVRAZebsbZHLLL1Ct-9_LxZLstatUZ4iLuWUqcAFcm-cPGJkthNExml6wvyexosef1YY5eRqit9R2W6RzWUjlILbl_Le-H2AOn13dy97lzZg3SlFZH_8wbW9nyTk-YfC8UyqVZJwfQ_2GIceqQi8nEIwVryVEwNnBoUNYb_82ggsONtiiBP7plWabJnLR3AN1NP2s0swbrv6OR7dteNq01nGtp-_UKwvAsuNmV23OcXETxbvbNhhwBqDovLkrmpwFg4JZqgHp2hYGPqTL9ZtTSlmsxyMyBmvCkg0l-y-0LBhp9iZ-tHNU-A0Z-mcCGUz0FVLk1cRRWHkPlOlFwW-AJo5wRCqhPQrEocMdfKDJSwaPMJmHHXT6P5w7Iohm1LqPZHmDQTV52Fv1HbrIXLceJIs6NxbxNWevK95yn76yD2mmS6HV5XXzQYBiIOCgyNsuonjUC6CZzFPPM.%26ch%3DAQEAEAABABSiln5kozJP4i8wBYqs2IUtCuYYPd1LR4U.%26v%3D3%26pg%3DS64SWKEZIZEONGL3W6BH2ZWZKQ
+.netflix.com	TRUE	/	TRUE	1792379555	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS8xFpkDwtQikaj6MhOHw7h55EGN_03MfY.%26dt%3D1776827556457

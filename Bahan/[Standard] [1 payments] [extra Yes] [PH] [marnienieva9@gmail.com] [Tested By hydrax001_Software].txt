@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anino
+– Email: marnienieva9@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: January 2026
+– Next Billing: N/A
+– Payment: PLDT_BILLED
+– Card: N/A
+– Phone: +639462414194
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anino
+– User GUID: SQBYFXRDEJEWJBNWB5S5LBAI54
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799852183	nfvdid	BQFmAAEBEAImkUhj4sssamY-w6VpiRtg9bgtgnYTwYnaYCZHr2kwQbGyBfwGRi1pOOVq5J3Dszq6y57Sckg93RjoXDQ_pV9PfcD65lhElGmAS3zHcwiLYH1e2y31aeR0qsPO0BBykVFlmxf6EY1bAvNc12G_fKHM
+.netflix.com	TRUE	/	TRUE	1809440723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA0LjDm1iLhESNWFGRrsF_v_vzMkPRK9S76k2fNcpfipf6FmA7TheXu093gAgo5pZWOhwQ6o_Hj6yb_eHoT-uM_LIFSQ_owJA9SUzVQtHy_Gany-4lV7WkwLDyWvZC6_pgLKWKYMuy14g1GhSF6S0JETYMKEESp6mUJz2N9wWVeYOWn2Wped6PTtIrQdCNvtK4ORQd4WHjKnfX75GNzQSzBnjWJgG9kDb27fuGVjdR_B1snqWajjkBy9woOzg68F1TG6R_Dl5rIhNGTMpny60QfuNcmq1hr3_xtIZiLplPTX1dIiv7YvfG9ZeyQH7N84-uFLp4Z5wpSTtf2fcZZ7sikki3Z7DmZ5oN7SIuDjkdKMRED867U_i-sE_Q423WG9uJUXPjF5UE3Igt6dukh2ThUcuER8ZHFO5kfxjQAhZ7oZYJ9rd3rWMP7zwRVaEzx19fv_-iQgY0F9GtvLFouNEnCWpvMxeaFzn3iN4gRs_TQIK_H9mR_xV2hx4vGMMKn_0I6vhhFGjP5cow5sniR-U1NHUeDVGm0_VDqsYBiIOCgx8mlogXPsLMs_rHKo.%26pg%3DSQBYFXRDEJEWJBNWB5S5LBAI54%26ch%3DAQEAEAABABRDfyHJYIo0L0Fuak2_59yQfvULAGUrhug.
+.netflix.com	TRUE	/	FALSE	1809440725	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+22%3A25%3A25+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1399fda7-8021-46bd-9c6c-9d904ab13d34&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809440723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4PZr8hXPVy5xy41q_fHLtlDnGw12gxuM.%26dt%3D1777904724177

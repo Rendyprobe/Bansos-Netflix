@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kellzie Lacuanan
+– Email: liezllacuanan@yahoo.com.au
+– Country: AU
+– Plan: Premium
+– Member Since: April 2016
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 6204
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Liezl
+– User GUID: JJBETLFBXJCDHHGNMWIB46J2II
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783281191	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA8-0WfejJZnb_nwE9BpdQoZ7cQ4ej0Jx-ZhpcsVRHDRuFCXE6su6YbhybvoFazAkcfD_AjeVA_1KtClC_KIgkfMdVSwgMs001KqYd0Rxq8U5tfK2-1tMBzmrMVvhwpDWxl9zXme9F2wk50zz6tK1fz2MH6BOTu-uBJ7LUdMax_CqC0GPsrUOT0A4JPVD618XvoL9RxvuCEALcwUc6Bp-WdIlD0h9L25VJy-UGRCSEii3VKuAwMY7-JujAsaVMAl9qUw4aRjG0XKB4lyj5M_ntf5TKSivLrxZEHo0cTzlIXD7E5Q-DRE7u_j3urr0GTcn5YVtPwq1uDUb50UIRvHTcG5TmEO-LqMl3XoX_ujG2Vug_fB6PKHqPtBpo0yT-RWQZN3hjBpYiBh0noTrmwZyVmi3JVkgvbVP4psSmwBOVbZouwtgkZ8WZ5Ioli3fl061mf8PUet5sNxsV5f3n6uPt-3JY2rkfjHDTcCA5Yu8aOSjQ27nMDtqmAiPdKjS3ok2lFTXXVj1_HRECzaAL1mqLwfFIoilACP4v9e7uNwwejjd7ZEYBiIOCgykRglBpBLhIA5i_A0.%26pg%3DJJBETLFBXJCDHHGNMWIB46J2II%26ch%3DAQEAEAABABQdKp7EefcJZPRyviqK5zCcjUcRzqb-Tew.
+.netflix.com	TRUE	/	FALSE	1783281191	nfvdid	BQFmAAEBEGMNSJBRCOdWDGYsDvxtJ8JgBxl-Zlj1rGl9DF8kMIPd9mUJBDXG1BVUXHG-zUSZgx96OHk8xafaNW-aeh3WPWdYWtIdZUMcX_a_rpvBTanr8zQhVhmAgpxPqtk4KTj8y9B1eXsMWu3TUok6GmqNeoHK
+.netflix.com	TRUE	/	FALSE	1783281191	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+17%3A19%3A01+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2b3e283-7717-4c10-957d-284dc059a6a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

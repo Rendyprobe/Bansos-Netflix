@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: yarit
+– Email: gonzalezvictor423@hotmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: agosto de 2016
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 3464
+– Phone: +522288265224
+– Quality: UHD
+– Streams: 4
+– Price: $369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: La familia Verdulera :v
+– User GUID: XPJOHMPENRENZLMRMZ57Y7KO24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808069183	nfvdid	BQFmAAEBEL0aVcihDWSPghZQLS8n33FgfliJnXA9BL9RYXFkvuCS3XLlmCtLJheFytsnCByQh7I_BqNe2EE1rZFOnESArf1PDz4aJm2pXxN0TbQceYUhQ1pW5YeVwFYEd8_gS3HjArNjHmrU8pzR-xPO8QntBBaD
+.netflix.com	TRUE	/	TRUE	1808069198	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA6AjiRm_VwDWUEluJ9zqyRDTLbwcwMuwNi0jFtcj6khqPkwywFedpzjwW7___s8O88qECDjFWHVZiV_0ylIOjgR8zmMxwhz7asoX7FUMegvxMz7ZNzNZhNHuflBHN5YZ0wazU2ABPOdCgfWdZsP7ercjtNKQ4HAXAj4_KKmb7619B5R-17mUKikrcZGUI5-FVYoC-9874nh8hiOdQ8y4dzirSLQWGV3A2Qo5h9ZVG0C2LamyKt53SouWioZcCFE-iW5AZnjAvTey1Wb4iGy6jzqOM9X92cmTzftAmqBzNRXFauFEp5db1LfZJkj3zfY4dWc11qcuFYQveyDnNiQfAwq8tYh7Cy6HwsIcurD_g2dfutwyqgRoSXud4tq_vpa5xF5svS4InH_DcO8hVQ9_6MRRRcleluTktOG6H43fmV7ghff-_SztJ8ZEuwqMPXZdA1w48cM2R8vHdJub8i78D483zOespiLmjCL_8Zq60KZaPtkE6iWvwfos1MzkXajPuG8xapTsl28fYvsEYbncgIV-6inZ_ogvQqQYBiIOCgwgVUhy_eISA-FJArM.%26pg%3DXPJOHMPENRENZLMRMZ57Y7KO24%26ch%3DAQEAEAABABT5RKDipK8ZE0zdSz7hO6J8TqkJD-rJpvM.
+.netflix.com	TRUE	/	TRUE	1808069198	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTM6JpIMQ1VQUFpdiMS32KRzmfzkm3jA40.%26dt%3D1776533207038
+.netflix.com	TRUE	/	FALSE	1808070875	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+11%3A54%3A35+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aadf766b-e226-480f-90ee-afb5056f21e1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776533137813&geolocation=MX%3BVER&AwaitingReconsent=false

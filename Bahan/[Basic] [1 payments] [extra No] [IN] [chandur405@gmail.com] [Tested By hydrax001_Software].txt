@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Roshan Babu❣️
+– Email: chandur405@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2023
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: +919963063039
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CHANDU REDDY BASAVA
+– User GUID: 6VUQYHJU2FCMBGB24EXRO2FWVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784819880	nfvdid	BQFmAAEBEGlS23j8tqvQDfv-qySL9gtg0gS6ggFSwI8q1PUU-ZcbLZUZbjkxuotlNb_2JEECSc7msbtL9x-tXnSXR9fPb2wFgtQrMg82DeP9iC3qAyIl5BwLqkPFgJoRJ14td38AA9hkcmJBkTfi4szs8ImLvnkY
+.netflix.com	TRUE	/	TRUE	1806243936	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA_8YmpdoFFELPK6VOKVWq-5uq7F9lj7HkjOdrvb62Mx9BNjfTMchgdRGoeiGvtDQCPchkr79vPRkDxvHlj3GsZ07JKUloNCjUe3-SpHikahsER8ETbBlwFhWEwS1ykcf13UTiQ5vbessHq4wwB33u5_gTo5WFgHrsthcp3DxRT9DRSstskxRJoA3EclCCIs0vOWHgvALp52hcw2ft3P_jKS6LcU8g3J44ESFJhb4nzGvjQ96b2s6AWU4gxIZZcpHovdUjl5py0cBhEXrIkvaKKqVm8Y9N5LqYfTSNs22_xuGXc7dmXhfYnhmpSvm1KsYwp8fR6tANpJP3i4IpUJ1u8siq1hSBa0AmMm3e0xcqBJBhpxLaZexAiL0a0tHVucYHSvJu-VO_xcJ94GdCuwzOTpFHnu8FSGGzwjAQ9PgUwcqjxCbiBSAO1ZPEXwBf4G9en0TtOZr9QGFgnOHTOJPoXDaUmZxwF8tdn61pHY1poNKo3RJI2yZClUAON3ZyiV34pbsCfx9o3D8ZVZBk59at9tDZEg1NvHKfhgGIg4KDDsaH-UuzH-_rgkavA..%26pg%3D6VUQYHJU2FCMBGB24EXRO2FWVM%26ch%3DAQEAEAABABRlov3LeQY1Ey2enBPaKj6CcNvEyy8K6bI.
+.netflix.com	TRUE	/	FALSE	1806243938	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+19%3A55%3A38+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff3b49fb-fa0a-45c9-b817-023f4182ceb5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806243936	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1tl8gh4QXSaCiSDfMpFPB1KPAOvvgZK0.%26dt%3D1774707936312

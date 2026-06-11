@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hamza
+– Email: sindhokazi@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: November 2012
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 6628
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sindho
+– User GUID: 5GPX33ILX5EU7OYAHUCLOCSSXQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802120983	NetflixId	ct%3DBgjHlOvcAxLcA1wV3biB-pTuxPEfBJ8wbGozY7EnzarkFPVUXYMunGSFt_5oapyS_DJ_1Do6X0tx4v4BmMxpOWHd2Dv81AHYp2ymANjHqGLBpmf0x20FbjUIRy43mToBWzUirJmrH2M9p60VeNnrrrVkgrHw-Kpk83p_KqhflCZmcSD_9dsIeJ1APJ6pmTjDikC0HaDNXatui4y3LqohMnJU1BQqctEnnPBMCDoNq0ghfAK6qfGtP-839_SFzzqud72_Fy9smqwuFqQN0NR1xtHaIeInAivXxabs0OdaYCnI2Ddnexkg-evvy24AV0nwMI7cmbih-gxwQfS8w1eghNbsf7V59HLajgzxUuCfaK5SWZthx7UpJULCTR8VFrlXL3y2Ikpqr1NRZvXJB4119VGyVLUM3CbOWodSlgwiAiwLht__wVPtVxtCGPsRCfN1wVWjDwY_w40op8UwH5nk8dZpRZp8dI9aXJj2r2l02c17uecHCYHxWknKZAvKvYqj8gTDLBazT4_5VJH1vuSW_ve62IuhBfbV1J6yiTG9vz92xJbrZuYKgvIMzYMAEVNrJZrC5Dua859zHneJwzcunj4ZCH2r_4wQ5TXLgevqIUwMIIBV7v8Y4UBc4j8wbm4tIdgswSL5GAYiDgoMNk90SrejQ6T0DuoJ%26ch%3DAQEAEAABABQduPKLKFL7oXNOL3bi5m41sWRiSMJ0YJk.%26v%3D3%26pg%3D5GPX33ILX5EU7OYAHUCLOCSSXQ
+.netflix.com	TRUE	/	TRUE	1802120983	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEreKD4ZNc4Kf5lM4UdzOHJO5LRWMgDR8.%26dt%3D1770584985983

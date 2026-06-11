@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: A Posönök mestere [cr7]
+– Email: szabozsolt0420@gmail.com
+– Country: HU
+– Plan: Prémium
+– Member Since: 2026. május
+– Next Billing: N/A
+– Payment: MAGYAR_TELEKOM_BILLED
+– Card: 2868
+– Phone: +36305893749
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Apa
+– User GUID: TNJS7WSXARCTXCO2MIW6WRLJHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790357673	NetflixId	ct%3DBgjHlOvcAxLxA17t5eQB9vFBo-Hq-bmoqPax07I7MkICvc4-jBp7rscChwuVflOT5T_BiF0X_QcwfTLCrlw3SmMzu-Ns5Vjws_BLBgfvGsUgdbqzwa2ttBc4LIhhiR4un5qbOME358JCHZrQKNAoQ2zJfIn76JgAVdFqr1FVYzsGK0vOxrK8a3SUs5Y8OAW4kUrgVtfxzJp66Z1o4AGVZ66bWTf6uozBN9aMm3Glu6PwEoUTB_lFy3Wqh2HmnwOFRd0ZSJovG_DoziIN18fm_dK87ntETyo0e8Tx1GwPBpQ6z99yXxE5NtWvGKPTnUGGDH_CsjNQDrFRhkh7A322z0W2d8gdrKqiOwC1byJIUtBtcSPFLg0UhHtmzvU7SuFJSQshIrmaCiPGSRKFL2YXrh91Q7TAEom5N1VaY3ODW5qSBPyQYJqpNC6i5J2NxwAa3-BYdy6X1wFXUFhQvogPgPBSUQNFNFHesHr43rpTgmA30fgEKV4lsT5G267SZdFJitfbaaSmZlCFRoYvMyRjNSkFWp4MW-bVtGIswzlXdT5W4zCEmylhT7DS6geWgxADGvKg6CYLh9CbdOSGQXFYxavF1hfYi4YbzZiFTnOntfJt5xH20_FpkFC38ut57d6tNrfVEm2LJn66sOakDGLVAOZiSL7kOTuERYSZGAYiDgoM4-TG31ob6MECv1k3%26ch%3DAQEAEAABABR3Rgp9rABjfDA519ctsmmO9WvAzSN5ss8.%26v%3D3%26pg%3DTNJS7WSXARCTXCO2MIW6WRLJHQ
+.netflix.com	TRUE	/	FALSE	1790357674	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+25+2025+19%3A34%3A34+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad798dff-f212-4faf-97aa-738afd64f739&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HU%3BGS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1790357673	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQk6fIHX1ntPE11Mj6FG83FBm2zChBGRLE.%26dt%3D1758821672045

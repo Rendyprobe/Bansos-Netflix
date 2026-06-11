@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pauli
+– Email: raages@hotmail.es
+– Country: ES
+– Plan: Premium
+– Member Since: octubre de 2024
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 4697
+– Phone: +34658775772
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ramón Aguirre Escobar
+– User GUID: IHQSFIKLBRDGLKJBGOQR4QYENM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056507	nfvdid	BQFmAAEBELzLsSiJw5NJlIAE5GowT51gvyVLls35jo-F2PbhfncBCnPwfCtmq1GJB3aLsWpj1LPlTiIUAhJNVD1FKCz78WcxX5VpVNNfv_XXY1AQF5pv2DAAn4SFPH3HiRNX-6UqN6Z39cwSogTFHxnSLONMWyIo
+.netflix.com	TRUE	/	TRUE	1798017446	NetflixId	ct%3DBgjHlOvcAxLIA-LolPvEJWlzXXLg3sbO6RRvx7tdEID-DrwuAiC3DFY_mlTvkLf0c7IJCWPov4XIcXyw3YU9WAJvN_MZBQ6w-XV-UPAac97Q24XSTG5IMMyDh5B4VPcoL8Joq4gXU-Q-XFuM4PWEml_OMjmqSaAGnChP0o0qaRfIhE_PUGLGnga4yPajKLY933Kzt3DbrnU3f5ChWJ4CP8c1kTIa4L0fmlYJio7tWyoWqro-2Ui2ymk-7g92I0IK-BeD_QyDvCMUMWj2cMS5khH3oqpzBqbk7egl3LRUaDMez9HCsjo1MSMqZbb9I9PoR6vH4KeBk3QDrDNWqIrhXpquheCZAe-p5qghwQlu_fssc1L9FVvTnxj6UANCS0psLHLB6VXvJ1CZqHnPtjV48qYmRedZMt_z3anesXZnvo1cTatIK_Bamw3onlQU26G9k0Nxd0UJPeJtjRU1cWV6ICBnq9mcafrSwPV3C7Q6qL0qxDNxSjkZ32GbWemE1jZhYm7TtsmuK4Hkl-zuGAayN6S2Fvt91B75a-n4VLu_wYDfpmccDkSMme0bfRRjlgvTR83d0qTla0mFWzZ_uUHvYsk9SAiN4yOfeIfp7kIxjxBtrhgGIg4KDPCtL_UMq062NYGD7g..%26ch%3DAQEAEAABABQ7YT8_AQCjU0gK443laal_BQJFRbZCLl8.%26v%3D3%26pg%3DIHQSFIKLBRDGLKJBGOQR4QYENM
+.netflix.com	TRUE	/	TRUE	1798017446	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTogljuD_w8Qynhg_luB0wECjvX8HJRBaA.%26dt%3D1766481440682
+.netflix.com	TRUE	/	FALSE	1798017803	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+23+2025+10%3A23%3A23+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=189f0b39-3aae-4f43-985f-daae8c275a17&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IE%3BL

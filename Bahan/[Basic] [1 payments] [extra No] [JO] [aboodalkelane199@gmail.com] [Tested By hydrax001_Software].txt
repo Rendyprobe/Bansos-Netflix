@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abdel Monem Alkilany
+– Email: aboodalkelane199@gmail.com
+– Country: JO
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 0122
+– Phone: +962781599664
+– Quality: HD720p
+– Streams: 1
+– Price: USD 3.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abdel Monem Alkilany
+– User GUID: KTJXPZRUHFG6VCGXFPHOQQRYNM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786228947	nfvdid	BQFmAAEBEELKSxogHDTZTFoEbTKBMVlgvmZ8tFLx17tcfswy4xfVhYNntMvVClwBbkbVnQjYPhQ2LaqOQewucYmEAOVHnR6pf2MocQfTmbjtJVeKZl_fJOrNBXT0le53_q_rU42Yqqy-j28SrSWtZq2sfHxNwQSQ
+.netflix.com	TRUE	/	TRUE	1808081505	NetflixId	ct%3DBgjHlOvcAxKbBJNX0CAPdhY2NpPci2vafMI9dg8b3WzfTOOnjAKeZz9hn0uhchTRnz0wJoRnxCwHQTXFj8rbB0vStI0sbHK-JIb3ggvjUho4Qzzw396k9If1tMdzR6OV58zndKQel0uyKEkARki8Z_Tci5l3qyG4JgwgGTlAWlFZvYzS1HQYcUTMuLm5TK4wSVK-P0uwst8QfaS308uX1-kROSJfs1lKAk4D5tiv_K53skC2dMV0KQLa-17K2f_kkXplAwWTmOzcAKRYAsOKDsAkI1fqlYnYzsZmWuAmSYLwUPa824yA0E2I-FliWp2MFFiZyR5OoN5Rl31PgwCzU59wcQIPGfRyptDK_eNRozKGnuBGxY7w7igk1_ErFkWrEzsmGj80WXQOhaYWaPaWz8uyp-dab5IaMtYre0iV8n3dTvYX2VREjljH0grSZ7JOEzP8RdtXP9vHgamSi3MSuOlJbBDEhycQSEwpf2DKCL4OSzsUYriy2WXa6uen0WjGa5c0LgvKzUcLLT5ymhC6IzWlJxR4P2qKPaTlzj5Ux_ITCEqBEwtMmAtHPjsiemIv3Elh4tQ_L7d5IeFAYPEerpb5T6qFhT0ifYTA5XEemRQL9hLV_xRXL0ISr22beEbewPk7uFCBRUhRQyhIgg4KwQmVCep2ngjEDyAXxjRqXFhcHKWE6te_oaLMg8oaMWc7IBiT896bG88-mP9271u3zZ8TWebyGAYiDgoMTdIBcs5CI_-gvQ5w%26ch%3DAQEAEAABABSWEreozzXTxDU8JWvssRqOCStBcNfotzs.%26v%3D3%26pg%3DKTJXPZRUHFG6VCGXFPHOQQRYNM
+.netflix.com	TRUE	/	FALSE	1808081505	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+23%3A51%3A45+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f556a60-5409-4d51-b4e9-91fc8190f341&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808081505	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGv9YA0P2vMxTBcZK-RyslheV-YCmeC3A.%26dt%3D1776545505995

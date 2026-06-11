@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: stramby
+– Email: veliwati7@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: April 2025
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281218680657
+– Quality: UHD
+– Streams: 4
+– Price: Rp186.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: veliwati7
+– User GUID: QD6LRXPZCBGUPPWMBUPEYT5D2Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783441457	nfvdid	BQFmAAEBEBTefSTOntWG1OWKl67fQERgom9yeor6EzkR5UafVTsTsH8qAySsOkHrHydFHx-pFOydVivfa9yNfQyLiloOZHfFVQsymXCsSCDPlSeeI4N3aPKd64sPFDV32vLkAaIPOD65zfu6hpN8YGV2VsHIvy3A
+.netflix.com	TRUE	/	TRUE	1808978771	NetflixId	ct%3DBgjHlOvcAxKGBL2sg2VD92LqmrJCdUPBi1wd0tt6yPBMiA823sxu6i5ukRLOt6luzIGx24e1KZwMPTD6d51XzrfSQabOq734ZizeAwaR7wfqDhq28vFkrYfGPFqDAWY-ilyV2V4OEE7OAGXnsf__UaYnlGR9iWnXcl_Y5vQrxcVtNX5n725AZdZs4wBiUjFBMLi8ock1u7W3bIcLH3EUi8W7o_9llFSONgrrAOUultCt1Hf0NHEmmkCcWwiSxwoZ37FMDBATy6nyJaWj5S-PhiBnUIP649lEmPcydGrHkB5yu-bumw4U3wFyBqpq-ev5ddXaN0G0GTZnfzq5JE9tU4g80ZLzdoVdouv3PbdKMT0w2pTswNumeHAHbTX1czCgfyKeHvxrFN1GJvs0cwCxxKpLhXhGtwz1UcUiUF4H4PkuepQreYudQDhlfkQ2DrOYq0yZXy4M9WV2bfj_ApyUr1Qo6L5hfUVF54GqAJw648dcYPMXTda2vU5S0VAgxLSbD155xUY63Xr9Z5e-sFUjBefE0Tt-pX628TXYrorQHf-8N7LmFvxsz5r0Bqzo5ZQqSORI2YqZ5a3ovaIB2P2CHeubzETVxoraNY6EvTeNgdd6hI6rJcObQMPMTcZ8gfFtYPDAeoqWxCu1X3m_jAl5LyOHX9J-nLkhOl0mN7UmPmrVQLMA4fYJJOnwDwc6_wJdGAYiDgoMr3xFrHRFvYD-4BpE%26ch%3DAQEAEAABABQUGHKsBlrGhFtXQmjs7yLpHWiRP6wJQbw.%26v%3D3%26pg%3DQD6LRXPZCBGUPPWMBUPEYT5D2Q
+.netflix.com	TRUE	/	FALSE	1808978774	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+13%3A06%3A14+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aee7624a-2ed8-48cb-8c10-7bb425b0c55e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808978771	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRp_WG9Fk5j0Kj-L_JaOa2A454g8IUg6I.%26dt%3D1777442773034

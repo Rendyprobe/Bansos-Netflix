@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Théo
+– Email: tetoucalleg@outlook.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: octobre 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 5117
+– Phone: +33641316832
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Théo
+– User GUID: D24N7TFUWJBSRF4QZLGH4OZ74M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786110755	nfvdid	BQFmAAEBEF1Ns1rji0Gfkup9sKSvsThg3XbLUEueZ3rxcqWr4iHUYz3nSRmiHMphP3hfbVCaElUg4Q8gdLfDcyc3E1XLu6QWbIaH3MAEEX1tXNvu4i4Q0rBsP4mdqqszTATFXm51DegQvHHdaIXKlBQyCo7XkG0R
+.netflix.com	TRUE	/	FALSE	1807926391	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+03%3A46%3A31+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5ab875b-8c71-4039-b5ed-1af3244c7e42&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=NL%3BNH&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807908295	NetflixId	ct%3DBgjHlOvcAxKBBLrt6SHBSQUWJhGr2u3JmVtkTj6e5lOx0VF1OiHXT4HoCbkzpQWRlFIGODBMnHbFpyf6hSGeOVwV5zdnFIwfop5cXimi9EDAavinZT5cd7eZ80dUGVo-2o-W9pVBP6G_aSd3y4Moy5QHr_N_HfIwWigecYOt3exlQSy3r9b3IRcBrlOSUfkaROEctkB3qwK49lZU5ANLpOJD3jJZdVMfsGZlPgsnNUzmTOWcgCvWSPn9Axx5zsU6If9ssqh360_Lwu42iNHYcYklt2eCoMPktwsvY2lgBjRSY-cukn8RPUpraoINVUniR17Ey2XzSsHVxgGAgZIN-Li7lnoSWcMngeoPXNFNGVmFn7fI0SZ4jgUOueNXWc9SiSfaxjYI2m6vOvoq7paSo7p6jHkR33od5DeH9CwH8kxaQTx4GhpDIcASJeVjq8cWDncz0dM49iUEnE0ONuPGuwuZ-xPYJRzsZ2uFf6plrQiDKhC6luMx9vSmIa4QM_IxbU1bcPBPjoLhyVgHM-eh3hIFHSFlsEwW7-KhFyIgUPewAVqmPlzjcY4wDfGG_GZeMrRcbX60IsDmd0aDHEy24F0Zp61Xc73Ya1cbZpj9nJ6qf73Ua-vVDHkCn27RltMD5XMSsL_h69YeIlH0kQsCDJJRbsqQjMz4f_CuZNy7wuvLl_zTinK69DKqHRgGIg4KDEkZBRjZcr3exiW_JA..%26ch%3DAQEAEAABABS3xzFsgl4C0zTWxIWUHy0F2nkRmk-0Gj0.%26v%3D3%26pg%3DD24N7TFUWJBSRF4QZLGH4OZ74M
+.netflix.com	TRUE	/	TRUE	1807908295	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8_xR2-zCPT_1HCHAdQkNQcpT2dz_f280.%26dt%3D1776372295748

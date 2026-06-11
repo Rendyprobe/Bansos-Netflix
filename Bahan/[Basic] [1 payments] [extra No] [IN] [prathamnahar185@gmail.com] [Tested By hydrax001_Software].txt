@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gurkirat
+– Email: prathamnahar185@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2025
+– Next Billing: 2026-06-15
+– Payment: UPI
+– Card: N/A
+– Phone: +919888328911
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: prathamnahar185
+– User GUID: 46NOFF2TLJCO5A44XNPLPIWKVE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802265870	nfvdid	BQFmAAEBEJQJGihodrXu37Z-gDkR6-Bgvlzlp1TEzIm16vZGna5st2e8u_8kvu8Ac3hY7dd1omtlhiQ52mfYkaRIg649Mi1xSKeuetENXwIkSsHlv2Tg9f1ocR1TdbxbMbOpxTyiTT0w2nha4MG2MG__eKLfCdKX
+.netflix.com	TRUE	/	TRUE	1808124644	NetflixId	ct%3DBgjHlOvcAxKyA6TI02wyYOLh6dfc4BfWAYegqLmBJXp_kBZTke17EYp9U1-04ko4DN5ZQ4jKQR6gcA8TQXoEjbpmNSa-biTpFotphmwuSaVe6leHuV6odzc4AfrDlGaVVeT54PgU2CVpP3nMbnMYXOsAs-lfFbpq8XWkcuOeG0lBBNm1vEHK5d74szAK-Ta5nOEcwmkEAeQKl1RB19qHC-y-blBHaLZTnltKwdZeOUpcY13AcyPvK4A-x6grh1V1YtcbKdJ2_YJ_b-yOmVD5hbHxnVMfIuNsEEqpdgg9UMy8pNnSE7fzZYKU7hT0OrWf2gPrbQOvHe4-0UzPEPfNfNNYfERImi77p2GtJrmFjdddiX8L_0DB6swG3O44q-X1Lckk3i71ydcjjfA5NFwNdX7VX8xqRvRpAaWU7bnsnjqkCRR_KpWaw3Zkol4fRw5b_bnApnKkElXQl16TvFpMKBQXVbtVaWKv7DSM7eHJh_g8_AfuuV73ZpY50kUQci0Avv6ohmCUUt958xebUBpdi0YD57pCidxoDmGXik5iunQ7Vj4IxdS3sceoEFlftyY0Aowwna7gyGwSZszMGAYiDgoMB7xKHI_EPuTt1ef2%26ch%3DAQEAEAABABT6O0oukKS9xlTlfIbHMdWxutFZYAbakYo.%26v%3D3%26pg%3D46NOFF2TLJCO5A44XNPLPIWKVE
+.netflix.com	TRUE	/	FALSE	1808124646	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+14%3A20%3A46+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b80a05b4-6eb6-48fb-a963-96c2c4611f11&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808124644	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzkkr7ti3sT7Nrv7AVsblaM4r7FPjECKI.%26dt%3D1776588644240

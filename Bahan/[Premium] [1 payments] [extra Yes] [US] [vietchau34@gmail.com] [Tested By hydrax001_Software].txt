@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chau
+– Email: vietchau34@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2014
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0136
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chau
+– User GUID: TTUFTWUZ5RCXJDYAZCSMI5T6YM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800491997	NetflixId	ct%3DBgjHlOvcAxLPA0MhhND5dUN0y-it71uJb5seSHdNKz5gR2G5KMw_Cymi2kgQFHtuRc3v4dU6QSybPHs6lwbyqUoSbMKymhqPSkCIPhrJYRq4a5y85SZb4TgbE4MRdXWKV2NDIEzFsrR2ifng5ccjcDhwO88FCFFuTMszUCAnYUFZomhYRVWnHNAdgGu0i1qFhm9GK0W_aEhLkgI51L__1fgNnv0AG0lxJWFCrDS69MlkOy3rZbauWILA7cLPV0SDrbjxN0rgKSAecBIKehpZ-X8ecaqNKnQJ5KiGSMPzIfc-MInt8659aFdUlax4YPHB0MiAe2GpHDOdBF-cDWR8vd-FMCEwvWKIcdwAgR3UFmF47Id97JtwVBk5cqtz2bQBlRd73YeOBDRS3luOEv7gNe04TvkE-dl0qweXQ9gpQRzE8S-0fAYviWwZGBMwfqWhDB2S1BFQgQTUA0YKjqKLQ28pGdyaLMMVtajMGPh6tFwOTDNNcl394p3cKycHOjADwvKblgBP3v6dxQtpJ_moEGGYOGqTdkqZvkWYcuv1iPr_Yb6FU48Xbs-akq8t5bvbpcA8rVLYMG5KQGtYTK69FR6B9xFybV_JZ3LG5FrHTgL_iooLKNCWVegYBiIOCgyIQrD6JMtMTFWg2yk.%26ch%3DAQEAEAABABSRduqGbHn3OS_Q_X1NbhBSbAR7eEJBJNk.%26v%3D3%26pg%3DTTUFTWUZ5RCXJDYAZCSMI5T6YM
+.netflix.com	TRUE	/	TRUE	1800491997	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxJTepOyJCM9iIiDAwvEqzkAnp3Ov-QhU.%26dt%3D1768955997184

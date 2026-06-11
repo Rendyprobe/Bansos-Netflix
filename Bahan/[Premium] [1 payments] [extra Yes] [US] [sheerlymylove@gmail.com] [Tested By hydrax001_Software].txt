@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: HABIMELETH
+– Email: sheerlymylove@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-06-09
+– Payment: N/A
+– Card: N/A
+– Phone: +19412853202
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HABIMELETH
+– User GUID: LB2PG4JJYBHQBEAWN72DRERS5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806974494	nfvdid	BQFmAAEBEMUl2ylWFdRUEXtCx0TDxE9gZB0bKdT9Hs6oAvspVW0joPtfDu_F-q2oSqre7vCCs3UmAlgw_qmSLzjUUusJQ8VqmvgXXytQWpDT6dEoOTUPg4wdt6AjXzCTaAwNbyFp5bvjEI_9m-9Z6ETSk1PiJzwa
+.netflix.com	TRUE	/	TRUE	1811095430	NetflixId	ct%3DBgjHlOvcAxKvA4BMcliXOVTwRYaRzvnS5scXxpFt1h1H3cVrpVPVZbmTbSa4GnSfTLI5aDtzPkM7Tf3zp6g4IUDt5xQN7aNh7PyqW2pkMN05fq7WQsNHQiqU1u8jxWmoCPv8PD8X-LrMmvGYQbEIc1kS-2T2koAfGnWSch4Q-Yw7UNyVMVeAdywWWB-s3zG4oamr6ueHZtfxJ5o-PGOA49jo7Jh_D9dWYuIenJDXykAQB4-kzykBL8RSYh_TKmy5Z4YT9U6i8my8-0I8L_Bc7PSNVqY2WsGR04vTbHh6eflRAOLsjOF7G_-AMAnkCOEvaSs2BPjiLkZUwSDFMG8E3yPuFBF2F5fwUHoA4WgT8kgls6NNs2pogtbs9rAxqMRQYQd3hGc8DhWjbNu0l5D6Z5f2NkINYQNmDMts0QQZv0-3qKpibEvytHB3lcTKyROrNVgcCQxv2nsBjz1AdRG77hwidS09KGLTEP-dHAMOYCvK3KzjluXKjAW-gCc7CFZn1stunVrAcUwHRoM1304amGbbmtrZrE7JGqwF9_bWujb9gFTxYgAPvjPMlKC6RWHptH3AGwAOz_hrGAYiDgoMzR1kI1bydxdJqnEg%26ch%3DAQEAEAABABQ-sVR2Pz6ex--ya-p1J8ai8sD871rSlDE.%26v%3D3%26pg%3DLB2PG4JJYBHQBEAWN72DRERS5M
+.netflix.com	TRUE	/	TRUE	1811095430	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRK8UrKEb0mfPLyEkK0q0mtrrTlMjHLxFA.%26dt%3D1779559340118
+.netflix.com	TRUE	/	FALSE	1811097420	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+14%3A37%3A00+GMT-0400+(hora+de+verano+oriental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=46edd5dd-e94c-487e-94e1-2fba7c197fef&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0

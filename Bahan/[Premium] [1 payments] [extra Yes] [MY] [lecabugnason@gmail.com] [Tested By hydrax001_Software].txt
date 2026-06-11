@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ikeyy
+– Email: lecabugnason@gmail.com
+– Country: MY
+– Plan: Premium
+– Member Since: March 2024
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 0085
+– Phone: +60168027889
+– Quality: UHD
+– Streams: 4
+– Price: RM 62.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lanmark Ebas Cabugnason
+– User GUID: AKQJC3WATVBDVLYCKFV26EH6YM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783441457	nfvdid	BQFmAAEBEHrbuhmPiXvQLo6THRoD7RJgQC9j2thNLdyC2tZtYu8NR7lvqQ7kp4-zQogQ-3QBKrALmH8tepFZKsxJZBW3xYMqqONDGLJwwDuPNQ_sOo-BS9_srSFaPl3td2j6I2KzAsKyVTeIdT6ti_M3y5W_UrN2
+.netflix.com	TRUE	/	TRUE	1809001258	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA5pkDQBUGM1tIOvV3u62p08n-I9seS6wVdXV1-Qq_lisooeh-tA4BV4A6INYLk3YEspBE935Zy6LoUzOdab0pRfWC_NWbRyjUXn-8ljwKv5p5d6iT9PjynrPuxo7iwo5W71OBCRc0dJCEZO45IVO4I9DYy05Z-ClpO6vFGts1qFtZB0I0cnYJtKQ6xPXS8x9qpF3nYQ75wXdst01pAZEf9CVf98WTyIEQu6fmiRKcD4szvqGw0O6TVIyjSvgqnuSDsLr9c8B44RQjaDMzKcKHZggbIaSDYeM6T1PuJ3q2iw4PW52ZlSSfJz3W8su1NwUf9Y73RQZO4sl-EgRgYzh9DWWtAEPjtNXyV76p4fpHYDL4yYYVqMlXOwNWNHSqMlIxQl7WTyoC2RH6sSn7TVbToQKMHkAXcwPB50GnV8S7rfbztdo5lH0EGHeqDYC4pqWW-lcD9WLJ4JFBMl7vmFxYGRYUFY-R5nlGHeaP3ue9SyPHmMIhKX--LKf0_pUIV09A2V_FNPNN3c2jaomSjiWQAABrwLfHmn6FEIYBiIOCgy8fuArSFGKF-PaOs0.%26pg%3DAKQJC3WATVBDVLYCKFV26EH6YM%26ch%3DAQEAEAABABQ9qGms6ZLbD7sT7V5C5UP4cqQ-8HP1bjo.
+.netflix.com	TRUE	/	FALSE	1809001260	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+20%3A21%3A00+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4cdacdf2-de09-45fa-8c49-16dec5741204&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809001258	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIdLh9wBDY-eT8mZs9SlgVi5wMhdmYNKw.%26dt%3D1777465260686

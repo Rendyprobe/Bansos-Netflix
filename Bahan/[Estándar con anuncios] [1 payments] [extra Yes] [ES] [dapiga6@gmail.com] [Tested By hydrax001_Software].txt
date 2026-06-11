@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: POTROCLO
+– Email: dapiga6@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2025
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 1771
+– Phone: +34661272122
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: POTROCLO
+– User GUID: 6HU2LXR7I5EEBDBLXRXUS66524
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1768077783	nfvdid	BQFmAAEBECdt52QWAMDMg8R6nO6bBjpgs_i2X3sklqTI8WnaBvGoBQLA3D4XdlTBezGw0E7LboIUG0-inaEi0xvofOc2TubiLeh8MgNimRiAwG_NxxdX-uNqsGgZupbL6pHLgbVDaKv3KPEe07iY4saKh3EbJcw_
+.netflix.com	TRUE	/	TRUE	1784270714	NetflixId	ct%3DBgjHlOvcAxKiA5UTXeI45dDOdsdIa583FSeB3mY9Kuo3mCkrlWGBdQYIKCcOa2Mj-0TMULnnmniTPzg1xCMVdhVxyvU0S0j9bqUeXmHSiMIZp3guaei_Z_8-LKDIL3MxxmWXHe6ICBz13lrTmYfvc9Qhvmlz0cvoxk3IaXWupo4I1SXs51P6C2AWm7rnMANnoiLXiHbRe_EcDzEe7sCvpgML8OTLZa01pH3XnQ6Prw2J5FVjEKHr8w4PsSEnWhJFleOHkj2SaqPeNOSWaHhXS6e_2wnHI2HA5X2H9aFVOHcQo_5awTbChWkbwu_hHFt_GuIo-R2_n21PPg4JJarrZAZwCw9mSfpdgIYOf8NGeYqdo0wvmGR5r8i_40_vPkA5Sy0D9Z-RtlzjViX_pqUFQc5DMwtaU0xqFO8gHLV5p7a0LZ34T4gxbt2RUj3cJHWVIHuFGPcZcyUQ3i3-2ziExFSi3_P6V8y8KKPAwEtGCimu0FRmx_IZM7VUtT6YeF7Aa28ofJgV7myP8-cRJz1dAjLypqwr_3LkbrutUMApdf4wJ3YZFoIGw7s11RUYBiIOCgwNryrnchRdWLXZPck.%26ch%3DAQEAEAABABTCtgDEnkX_sXHGW126j_iaz0nD8SCYkSQ.%26v%3D3%26pg%3D6HU2LXR7I5EEBDBLXRXUS66524
+.netflix.com	TRUE	/	FALSE	1784270714	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+17+2025+08%3A45%3A14+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9fc13ccd-ef50-485c-90d8-3e4ec5c7bb66&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=ES%3BAN&AwaitingReconsent=false&intType=2
+.netflix.com	TRUE	/	TRUE	1784270714	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUUFYHLgBRikO1ogxEbEBGp04SlPf-LE8.%26dt%3D1752734714422

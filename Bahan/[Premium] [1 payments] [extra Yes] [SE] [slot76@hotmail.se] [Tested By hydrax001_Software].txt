@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gäst
+– Email: slot76@hotmail.se
+– Country: SE
+– Plan: Premium
+– Member Since: April 2024
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 6037
+– Phone: +46702226307
+– Quality: UHD
+– Streams: 4
+– Price: 199 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Micke
+– User GUID: OWSZPGETNBBZTF4THVHFNRO6HY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793910792	nfvdid	BQFmAAEBEDPmsMtc3_IQCGjeBsWzLYZg11IZmwTH-mC-qITs3EAXYEMxIc29oqqVHEzEKMkv3F6rkxYY8z-__fpIibbMlXGq8vdcR_MPXKoNJ8_ZpN1TyDTvBFUQzXMDgdmpPyzPZl3StUTiK26_SVh8A6PA2WUO
+.netflix.com	TRUE	/	TRUE	1803377183	NetflixId	ct%3DBgjHlOvcAxLeAxnY-ZKm20xExecGradZJ6qyFG8t9E1zNv7uSD-NLZA2K2y7RBSJXnhWnD6swMOJ0f-E9d1LsDcAQ816CyXrtzH347UYiYGikJAOzj8hYA9nAX110Px16xE9DIvB7PMSz2ltfllnJLE2AdCtNDTdFoTqikNLesOjdkZLvblT9uyNxA7Wonmx_uuQ6eAGyb7F-WQbWFufkDNJqI-Iv9Hhl2IuxesAvssf5g1UzL6iLIt0-irLKCH_QMeRiF3_XNzX1jg8AGjm_RrgEUssMfkXU8y80YAGqtHeLdxB54JZJuXD96_8tv-KYuIE20QCXRo_FJV6c12TUxNvRzw_ZkVQW0Yo6lG9DurclaSLR98Aa0cBD1LM9QA2wwf7UmQqF6i0Lpl2awzU0OKKMUqTl0txbe_aigtu1H-LUiblZUrjurPvah8OMwyC7PXOH8XzFAAghAstgrn-TvyDa5ZoazWj0-3Km17veAj5aRgWI5OVDRYJXRFP48JLWu6ftG4KEvy0A-DNkPTh0GeFnNmlR1ecCGddxSNkOjv413Gso5t0toCvxpKZjlzy0J9ActWNYQn63EnyTCO0t2J7j0c3zAa1BCqoVsS4f0Zjra5t_FmchJnih4UM3pX65Sf1dkGam7sYBiIOCgyfF4mcNIu_CB0_i5E.%26ch%3DAQEAEAABABR2bV-HHBPJX2XL7mS3q2v8hm31CvRR56k.%26v%3D3%26pg%3DOWSZPGETNBBZTF4THVHFNRO6HY
+.netflix.com	TRUE	/	FALSE	1803377196	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+11%3A06%3A36+GMT%2B0100+(centraleuropeisk+normaltid)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f0725b33-a5e2-4e06-974f-f1fc2d08db53&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=SE%3BC&AwaitingReconsent=false

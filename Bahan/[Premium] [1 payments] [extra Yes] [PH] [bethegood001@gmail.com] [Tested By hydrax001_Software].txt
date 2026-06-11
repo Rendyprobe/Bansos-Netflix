@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carlo
+– Email: bethegood001@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: May 2020
+– Next Billing: 2026-06-27
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639209786486
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carlo
+– User GUID: SKDC2SHXQZHXRFLOOH5QJMGJ6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796544037	nfvdid	BQFmAAEBEIiKMwxQn4sC5KQTzKNG935g4Mh6Q6lg6l60GLM9Trt3e0n6QCn7d68qhLdVFkgRxg2cvZtKb8N0_5XXp93VTu5HXlTliSxwbvogXuXWu2K8yX5iIGi56FHFZ5Ik-dOD4wsqKv1dBTFmnWxoPV-xtxC1
+.netflix.com	TRUE	/	TRUE	1810452836	NetflixId	ct%3DBgjHlOvcAxKHBNLBpmzjZlvfPx8Y6-EeZffef6a2186WwKHpSZkz1gPu9UUAC5zsMeFExOO8VkH42vlwURoQIK1ku45ZAP2uBd5wnhY2qwvhtQzDWscBoCx2iuXzUNvmeCLgteUuL7_V5dnmR5yOVWmXCjyXDJDWtu2GZ14YxaLlufMHqyEn0L8f-hLdqQ5UL_lwZW6o13zhVU82jUklMC99cZr_Nh0wSnsBuxTofd4fyFpSBeOa-qJ7p2cPeovpUa3MFM2ilofTQSE7IbnGpJT6aaD3XYwkaLa_5hVG42zdhdAUz7Si7pWHaILRQApTg5oHBVT8lIhdnBB-WWEfMzMMmnSInV9QfobFUFC1_gSuD0K6ETiWMWM06CSsnZoJ_5T-xRMoW6vMCs--ujK48v1IzuakSfw34Wyo3ZJEELWqytLNysglJWuf0SRzCPCK8_J4vT18HBHOkBtuv7FdS6qV-DcHU1u4bn2snQ-0niVHmRFpZgF-8Op9hoCbv8YgWafYittiWvAlosonZdyZp7dzw9OsRAWHnPL3gPMlv3AOHm37xyPRQ52P1WLw7ehaE6ZqKA7ErxMAhLie-FYDMML_J5BIGHpFByYRoR8b4iorowlRv8WyjNnXOFlA_nLXlTCRus0ihC5T8EqaUtlCKiBJYy6ppqzIkv3Nb_70OzQNnWi739pOkYMoOaUd6mpSWBgGIg4KDNQ8WUwrT7VBRk4Pmg..%26ch%3DAQEAEAABABTd92up8W94t6f2kJPSZWZodHztRMF-OrI.%26v%3D3%26pg%3DSKDC2SHXQZHXRFLOOH5QJMGJ6M
+.netflix.com	TRUE	/	FALSE	1810452839	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+15%3A33%3A59+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d1b2495-ff11-4ea9-b257-5403da017d81&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810452836	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVmlghj25UVcpz3rr5D-_EodPYDvAlN5E.%26dt%3D1778916837920

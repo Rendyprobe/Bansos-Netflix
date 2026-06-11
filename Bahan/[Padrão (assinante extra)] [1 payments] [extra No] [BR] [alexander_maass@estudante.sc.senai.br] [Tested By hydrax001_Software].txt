@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alexander
+– Email: alexander_maass@estudante.sc.senai.br
+– Country: BR
+– Plan: Padrão (assinante extra)
+– Member Since: dezembro de 2024
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alexander
+– User GUID: QSW2BOG325HGRFSCMFATGS7ZKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803271077	nfvdid	BQFmAAEBEH8Wgcf9pp5p_8-bhslZpVlg2OwhlaZ4hIFa0JapCd7xlHGa2QomDUw4VvBgLL8Rt9hk6rwrjqLe2pfieoRvwbuVd8Y2RvFYMXoknZ-RbKJua_xhaGj08IBwma8ZQvEASe8QuYkxuMdfT3zUw_hyr5Lq
+.netflix.com	TRUE	/	FALSE	1803798063	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+28+2026+04%3A01%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=028874b7-17a9-40d3-9f9d-0d0c39f8132e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1804113274	NetflixId	ct%3DBgjHlOvcAxLiA1asxklPig-YSCIcCGXdHGsWLopdmGERQA8xvcmQfnR69W00uKD7rmVaOeJbEn3jzq1VLKGYy6XM5ZPmaiK7Q_OBUFH6cDRV3pS7h5t4P89c3IV549OG2gUaHFfG8OZDwvQUspSPf0-2OwWWkrI1LdQJh7yOS4piyHLOpnusfvMIw28UkEY5GAdapCc172SWC30eAFs1xflhPY_Trqx_uQOJpxTGmXE4csty9N9jBvqS5fzbFOhkGIuQfagYA8TheyJNaX0JFpI3l3w0Hrg5TH_2_cFJipcWkbZZCbaTMrebDw2r3D6uRZJwDoNZUfc3LUxoL0BgZyz_gR1vlrZgpFKrPLRqNKB8045ENBmg1a71j2uiCA-fvuBCq9DrHzKLAMUqdYI730dhl-3IufWLeE9VpQvsLWsHCT45LwP2ImbN27amyzqrtdl02gbRmlN9YA4gthV0yZ_0dN3QCmJTYKjg-FyuNLh1dOi3w5eB4kSRAELGngyhQ2NraNFTqUZB8x24UkJ-eWhmiZq3ClFD9Ei2H6fgdFHhtM805P_LJDZr1FakFb7grnAwfTDs5PuE_DWA16Ypn6u280eyO_D_hrLs6k0RKvmO91h-4KjAsCmvbxOBk57LqKSP2nqAaIvsQRqgGAYiDgoMx_MDhys0YDJ7xXmI%26ch%3DAQEAEAABABRc3mDUR_w38IrAFFFNWORPCCgrviRKq-I.%26v%3D3%26pg%3DQSW2BOG325HGRFSCMFATGS7ZKQ
+.netflix.com	TRUE	/	TRUE	1804113274	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSy_uQxoHkJdkivAskob22Y-ydAEDhmG_c.%26dt%3D1772577277467

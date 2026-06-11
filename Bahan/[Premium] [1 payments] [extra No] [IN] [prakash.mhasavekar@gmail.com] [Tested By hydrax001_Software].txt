@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Prakash
+– Email: prakash.mhasavekar@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: August 2022
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +919920651011
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Prakash
+– User GUID: EOERCY7W3FDOBLJCBYET6Z7PMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801888470	nfvdid	BQFmAAEBENXIgwbXlHFb31MQ5rUUkYZgdfYLWaHOq6MyounZoFCe-PMwon9K0UiZLBJ5ptPvCfyisYY26eHAN9xniDLXrQA1afU32CybCxqtaTkJvyyzbCjzIsz83e3mvX6XMm8tPgFB8Cm5oI3k1bp4tlEJdg2g
+.netflix.com	TRUE	/	TRUE	1811739704	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAzDq_fSaQrQ9oAJcRmr9mTHckz687_2AoXG9hBI8xjzoB9qjVAB9QIqKM7CRrC2zVHdackDag2Xksx5-66cV9gThhvdJdtOygOFT3jQ_DgPNlH6fUAf8pyBUhQXFyaq_nIhVK4KI82QPm3e7KmPe88hDbcUgYMHp6SxrS6R4Duzx_oA1qRxuRHINtii2z5kzxIRYDjKWaFTK9LwwL0Uae0hfYVQoQTH244F7SkjVfmTpdWBJ3iLDvm3iS2s1WO_sOHDieRpzQ-RYK_izjGCQzu3QPUmfPAPp14HrGF4RUhEjuuAtrwKKB96abMYPBb-zsjDHYR5509_LUd5C4xErpWcshraH3sr8fF1OmCo_k3cOxnypXKnQeKntEZJoGXh1VYqu4OYPQKaPkQosDBw9zpLfWRIgEhJ7GiStHCG4knvcDA0yYhkMsbr3fNWqeIUkESWMpFpL_WjZcRVYUy4eyEIIQHO2QfHChhqNO3aLDIpBSChGXTidfSUcU6o0ED653spcBmV6JuzdNRBXfvT-v_5fBr-GnfVKtDCezRgGIg4KDECG361dH_NwikwL9w..%26pg%3DEOERCY7W3FDOBLJCBYET6Z7PMI%26ch%3DAQEAEAABABTx_HMZ7XuGLLRNGhZzS1QUdjhXHtjFe8E.
+.netflix.com	TRUE	/	FALSE	1811739720	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+10%3A32%3A00+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1efb15ce-d523-41c6-930b-a91330db8ff3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768731437335&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811739704	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRu09ZROLPjTkjO_9k2OYsd2Sgj_qu_jrA.%26dt%3D1780203703917

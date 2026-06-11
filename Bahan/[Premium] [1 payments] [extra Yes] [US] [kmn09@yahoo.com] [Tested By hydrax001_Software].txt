@@ -19,16 +19,9 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Louay
+– Profiles: Kevin
 – User GUID: FHO427EORVD6XL57OUO3Z7MWVY
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAYBZ5MCdNLw0pit8QawEjbd+bxloyHxqH94CFqL5eKT2qzhJZ9PX6V6cjmysvcHILebvTPhuQ/BjE5LfPScTi699w1ToIwKYCltcKopWaLxKUStFO02uviXbkaunQI9wAJayjwnU05jc2yz4N58HMwrnzSQ1JDzjyyHUZp5cUerlk+d/RCqNyV6nt8jDBeUbEv4EsCgsGWs5kYWknv74NDnAMKx+xhKGXTo1pw4UaD/FyHpnKtJzmpGeTqnsSNfo7q5TGAYiDgoMWWcMQvKQ8Uhwgv+/
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYBZ5MCdNLw0pit8QawEjbd+bxloyHxqH94CFqL5eKT2qzhJZ9PX6V6cjmysvcHILebvTPhuQ/BjE5LfPScTi699w1ToIwKYCltcKopWaLxKUStFO02uviXbkaunQI9wAJayjwnU05jc2yz4N58HMwrnzSQ1JDzjyyHUZp5cUerlk+d/RCqNyV6nt8jDBeUbEv4EsCgsGWs5kYWknv74NDnAMKx+xhKGXTo1pw4UaD/FyHpnKtJzmpGeTqnsSNfo7q5TGAYiDgoMWWcMQvKQ8Uhwgv+/
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAYBZ5MCdNLw0pit8QawEjbd+bxloyHxqH94CFqL5eKT2qzhJZ9PX6V6cjmysvcHILebvTPhuQ/BjE5LfPScTi699w1ToIwKYCltcKopWaLxKUStFO02uviXbkaunQI9wAJayjwnU05jc2yz4N58HMwrnzSQ1JDzjyyHUZp5cUerlk+d/RCqNyV6nt8jDBeUbEv4EsCgsGWs5kYWknv74NDnAMKx+xhKGXTo1pw4UaD/FyHpnKtJzmpGeTqnsSNfo7q5TGAYiDgoMWWcMQvKQ8Uhwgv+/
-– Token Expiry: 2026-06-04 09:05:30
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1806787173	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AsWWkBlm7Nn1vlL1ixo3Z22QAjI0wVcatUrBuItZY90zuYysvqVQj6vWpUCwyJV0rexsKlzG6Pv_zwUpbtV36juP-Bn7PsW964wI9vaYNSXyYCSgSj6Gl0-vASkgYsqNPo7K-8yexFm7e95I4LTbF0EkfoUu_9csUdWBEqS7Fdhgi1-Yo7cq24MIpFiIYmLqJeEh0nuRrzBQx5kpjYMv-65GTzDvk3RMEUxjUp1-1Dv55_ITqR5o0Sw3qG9hbA-PuLrst0AhQgnrfvLRNgnN3TndXcMwo29LNpGDF2V_BYpaTvT6500tlLTcitFvj-FgYN4nc2quXMN-ZpX0Xm6JvXVwWZ02eEwrJvauK9Eql1tLGedICZWbVG9otyFqNNEMMedad1Kk0BZJvPJYr4T0f8irdQ_XP64qRypX0bkHXb742F0JJXM23URW-Zqf3cw8QfzStDNhdGeK3QlRQM3h1ibpuIVUTxUaezHz8LlrQeRJnGa7dRb_HukWG2qMGAYiDgoM5lZahX5UvwRstVUq%26pg%3DFHO427EORVD6XL57OUO3Z7MWVY%26ch%3DAQEAEAABABRhzpD2Yv8lzw7xccGQnlM8pHPrjzxXPCk.

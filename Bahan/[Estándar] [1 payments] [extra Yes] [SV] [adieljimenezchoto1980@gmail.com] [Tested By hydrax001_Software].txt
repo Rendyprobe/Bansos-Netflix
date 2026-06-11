@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: adi
+– Email: adieljimenezchoto1980@gmail.com
+– Country: SV
+– Plan: Estándar
+– Member Since: noviembre de 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 4784
+– Phone: +50370967348
+– Quality: HD
+– Streams: 2
+– Price: $9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: adi
+– User GUID: BXVPUZKUUJALDOYMW76Z5VTN4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795998018	nfvdid	BQFmAAEBELNrh9bpoBAEdEei8P2eSt9gfQuMIIAkc-ZaL80WMf4_3fKgID6sL6BVzR09aKeWJ9oNA_RH6oceUqaQHPXfnOCpJFfIykeXR_SlwCqOzCH8AVS_b9DZ09d5487VbZ4_DzVwO7k3SsChyCDkP9gykGDA
+.netflix.com	TRUE	/	TRUE	1808077344	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA-8gosLxAeW8xZnsCwRsxVpu-AsQr5na_hKsSVRiPn8rzTXw4flPlIIPlMdV5wuO62Ujvta4yqICOSr9iowdjjLLLQUnCy4CKStOuebYqsi_WCE98ulCcBOwntY4dzsXXl-fDYzEzHPfp1gBXdcqKtHoefuxxb2qOIRpXJEPiWFpes6n-KSyI0L04pY05ZfYSd19Z--9gzm6sDZhIo1hX11REd6Wm4WSoOerkeNAOABLlsxgLPOgU9JGV0gZDHyqQssM9SqgoeWSzSP-w1Isu1xaiH_l_D7g-76KkyoyeEnI8lEUGMESLHKe2HHcWDbgdmePeGXArs7I_j2dQ32Xz9ayeryabMdLEM7k7FEUw-jIruI35Rpco5AzVgfSBlTo-rjlbLmkNnYT67Q0GFG6w5roiGuvqNu64QNohqci6OT4MpauafK2eNBwAyPwFR8-9YodF6ojCNtXjKv6KCFRi181eh2MTZ27zAb7G5U6WyhQIrzwVyZIDGv2JXHsj9jqEiYP_V7hBLA2zsUEl65EQfylBw-D6omE7sKuGAYiDgoMptF3X1MzHBKcasip%26pg%3DBXVPUZKUUJALDOYMW76Z5VTN4E%26ch%3DAQEAEAABABSUeZd0YHnlBW8KkKtEBL3n2vL0UQPs7I4.
+.netflix.com	TRUE	/	TRUE	1808077344	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPnfgu5qJ4Nh5m13sCFMzD0SkNKeQnx2s.%26dt%3D1776541344216
+.netflix.com	TRUE	/	FALSE	1808078643	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+14%3A04%3A03+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db5879de-b1bd-4a88-a38f-8de040a7cc1f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

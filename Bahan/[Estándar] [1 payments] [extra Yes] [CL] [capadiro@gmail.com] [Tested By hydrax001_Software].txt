@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriel
+– Email: capadiro@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: octubre de 2022
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 4324
+– Phone: +56982065142
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carolina
+– User GUID: 6KAKRURXYFAY5HMTB2VCAJMJ3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803261254	nfvdid	BQFmAAEBECwrxrwiAIzRfv8eX8WTDEVgEl3ePjc3dGsAHkvcszvJRY3yi2tJ3t_excrO1tt8H2gGkeBf7w79rUOruD5vxpq5flHqvhSW02qn5LP-aSGai_d57yF9RU0cJqRAFgBIIsK89Rfk0wgU-svu4MW1cs0l
+.netflix.com	TRUE	/	TRUE	1803324670	NetflixId	ct%3DBgjHlOvcAxKUA4nNwcPwqXdq5WOcdScHV5VR_N_H2j49FVFIEvDBQEy4QWy5t8rsbYsI7XWRLhObimn4NuWSczAB--GrVh7cHkB-cdIIN2KgeTXnrXLvWE-OE4FL4mK9hWovjN27vFcFdR8Ow4p4hTOY68KKZMNO03dlk3iUSkdMwGwBKcLsHh-PXoJP6DIHniGdoQJAYckN45r8_AP7fRBW8bu_7VqQ4WNT16yrxwSMDbXt04x4qQpxaGll71m5A16vUnb2Cp0K8z4uG_dE-RIdz-jV98wQf9cOw1hhi0DDkLAv5chA4Jekrt0RmPKF_sUWjgsggUk0rm3i8dECqCa3q3pKTdps9yc10PbzegmxIEPJ7gOTNeMTjH0UhvXx1zmmedSNveFGeE3zfBtkCp9n5fSp7QwNwhwFMN1sN7Qf8gFLtLXSf1PP_ekSxKuvesg8sDWgkm_DFOui22_Nb_V9YSWnUuFerAXgiJdnfP9dIxuW3sB8t_jAbCE7ktnGgK2zq9ZkofbNt1Zqre9HcInyQ7hhyPwjNBcXLJX9GAYiDgoMb68ZKzJa_k2r1Q3b%26ch%3DAQEAEAABABT6Lzb7h2fad30Er_cJh_TIh1GcOVM2dgo.%26v%3D3%26pg%3D6KAKRURXYFAY5HMTB2VCAJMJ3I
+.netflix.com	TRUE	/	TRUE	1803324670	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEGYCeHAEvKi9Gnke0iOR1uxRew3JV2qk.%26dt%3D1771788670519
+.netflix.com	TRUE	/	FALSE	1803324686	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+16%3A31%3A26+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca0cc664-1d28-4f08-8577-049f796e723d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771725187084&AwaitingReconsent=false

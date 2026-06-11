@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Koli's
+– Email: arunarani.hr@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2024
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: +919588761269
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aruna
+– User GUID: C7HCATDG3JHA7IPUSTNVQPX2VM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789727575	nfvdid	BQFmAAEBEA3lAb1uWejVWfQtGX8HLkNgFMLKL7A5_aRsjyBxtrwYxkemAMUMy69gMrDZhTKcrxcaXtNzmZpv2U0u4XlTaDyzWGuuqJLeGwJKfkrKfX_TWkhN3IqMExXQrcj0Y6MhF36i-rYWCPeN3NuAg_yECalE
+.netflix.com	TRUE	/	TRUE	1801044133	NetflixId	ct%3DBgjHlOvcAxLJA_Q9C-R9hJWJNgXGLPPFqbHOBQR8UmiRHrbUqwBIPZaC-gabtSf2Mgb6QFIZkMfkk9g9r-klJ3URQhLB7VurwjOYPC08HomLvDcnGPPCMfH7UiijJx2jIHReXNQF0TVgNLn2SUqHYlXxa1rfZzGH0zRSKwN7ubi9byCCNmm4HZhx5fUEwBLp4Vih9j54WgXMplAgZegm3WJl5mU0nwKCN3BStZ-FFL-GNqm5JBRecpbeluNwWsFdpznuhwnKvv02amrNLsjHbpDNUXGRV-ed1lRDdsh3o2Aaw-jtFlNLPN9d1BpZVQsumcBmlesUOrnIz7PT2m_RDhMfQyakQpZW8V0KF_Bp9gilqCQSN7BO_L7m2MZ015ZoCEHSuSY4pPJkEVZ5isil6SSsgE63KWK5LKbt0gZfSOrQHilfJzJYKTv6yeGXvFo0gI1jfRF0z-JVwpPqpewWIyHU1h0i2miPwkykvaPhHWqgNKzch4_jRzPGkakYMF9gwo7vKAuMGya70v_ZjIDpm_41BA8k6A-9li5X6ip9BrARRizQdZOBNCin8leglzicITMVYCGBwcxBrgNn4ZtNz6Rzt1-CsPeQf19BQ9uThc2Dsd4YBiIOCgw8HqqvqaGU8HS38Jc.%26ch%3DAQEAEAABABTr_iz_V3mY4YPiVnHjoCd0I7mLXtL6Wo0.%26v%3D3%26pg%3DC7HCATDG3JHA7IPUSTNVQPX2VM
+.netflix.com	TRUE	/	FALSE	1801044133	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+15%3A32%3A13+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8cc1c43f-a3db-44aa-a45c-37e81978ca37&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801044133	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwf0JUI7TTPNFZXv8I2TnPNfxbxhRXESM.%26dt%3D1769508132418

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tizz
+– Email: calarienza86@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: agosto 2019
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 9610
+– Phone: +393892396831
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tizz
+– User GUID: UGW5MPWTWZCAHACMCEKRXBTSQU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798491933	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA9lZ1SDXr7kUqez66R3igj-JYEfUESPPs7uh1OhL-_T1zcRFH2J2L7STSBOjhz6ms4T-jXZ7l41jV8bQbX2x-7-SShcOLezhcoHJXOtdwnTC0g1VUgSx-5ZPXLsk_1wiKLkZDv4xsU4BH9h0bh5_JXB86RcgvN_M_QNwUDM-TtjpG18P5-8ZX36fmXuXNEj1RLpHKD_GI2OW_-t9x8rFhXLdW6DJ0wucXnDU4pLm6AymUO8WgiiF_Ng294KU5HPXyjWncHLA5scLRC6NV4ddJJiCVap-FVRPyLS4bETCHbcfcRsWc3b9EF3gZDI6LcTBH0OhuwQh59gqfzdIkI_DW4sLMlpvwPeoZwyZTSENZ5vEto7MRJbPnl0-egitOlh6NWYnAsycog2nhvoTIpQ8cFSkErl9kGSjklat4wzpI3YH7gtMOyfRyXocTV7a-h4evwGYjbMN2KDZr2Af6dD9DK8pzfcLrBWsZ4E6FLx7o71BGS5BX43JK4NVGPBko5IJuzFMGAYiDgoMYgga93pQV8tQl2Ep%26pg%3DUGW5MPWTWZCAHACMCEKRXBTSQU%26ch%3DAQEAEAABABRYsOYtLa9lfuPbxGB71Ku5FR4gjmiR_tU.
+.netflix.com	TRUE	/	TRUE	1798491933	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLSNH9s420kb7R66OPr6bUnFfpdNHep0o.%26dt%3D1766955928365
+.netflix.com	TRUE	/	FALSE	1798491933	nfvdid	BQFmAAEBEELIKzCwI8t2z-uqbCakK-ZgSfy4zT36uOa7-gRaSeqZ-8MiHcztY1orze1k30NdWlF_JOJ2MzWxE5N2kqLUOVYx10FgWsBpYPVvF8VTih4vY6C4qOlNlDrJEoQcInjVJBy0UuDFSkgXv6zrSXATHSIl
+.netflix.com	TRUE	/	FALSE	1798492615	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+28+2025+22%3A16%3A55+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80040006-7303-409c-a73c-87acee66dec7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25&AwaitingReconsent=false

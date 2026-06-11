@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pallavidoddigarla7
+– Email: pallavidoddigarla7@gmail.com
+– Country: IN
+– Plan: الأساسية
+– Member Since: أبريل 2024
+– Next Billing: N/A
+– Payment: ACT_BILLED
+– Card: N/A
+– Phone: +919701877533
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pallavidoddigarla7
+– User GUID: DJCYUNFE4JBWLEBSC6JPPBS4CI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807951572	nfvdid	BQFmAAEBEMYUmpGlD5ZgTVAYuZZJeiFgMqEsGtWiOHqTCBTtqhj5yMHUggbTPPyoCcfmCnkir-bpkKlQyDI7ve26gzStZ9sWGukhm8MdBLFTngDjnJwwQJDmuTfOm0HkUj1KNCOlqtsaZj3pKU0gF4AJS3O9cxmD
+.netflix.com	TRUE	/	TRUE	1808468252	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA8updsC9Ng_k_HvhBMb8Rha5K-1w88SkzRMWEA1jvs48P_f2vcOMFSBccBf-a4oua2tMoY33Fo1yo9nIZ0kIWCkXYYYz2BCwW4tXxUh0uP1s1K2gqaIrQ-lMvKKhzdHCoH3fabaW5qKu9vGDsrrT9w5aIH_jK9rkQdYzDHWbdTYdZoCEjxXcGgrRvQ3yQLdeb_8pQ41e-oKKKPu0Jhn35qiGRpitUUAknNKzIHkN9I-92NVKm7wQimp9Jn3oBaca2KAQ-438dMgc0J63yWLkzdSr2FgAIlu_JXThIRoK5PNc7FohR98oyDWXxPAIRTtjibWlPveCW2GTfliMtlT3i2XQcT148_RDQ8BFuXF_x8BYRMeKivCq0V6stNDbo3z74hg74gcuHCemePaEq109mpdsaYHDz7Kt5T2eIe_s6BjP-sJ8Ot1cxHa7w9KO8N-tSoJ4hroq-bDRi2DTgbofUwUH7c4PmCEgxYacuw6Fmq2Vj_tTpq_ROgYwyZoAdoljx30bCNAlT4pSlEf7xef5hfT9hXNEssCIIgypGPd8YDDocBgGIg4KDNeZdfMxUIXQZd6Z6g..%26pg%3DDJCYUNFE4JBWLEBSC6JPPBS4CI%26ch%3DAQEAEAABABRpmfV4HCAAb6K4t7BPaj8FUv28T4RzqDc.
+.netflix.com	TRUE	/	FALSE	1808468261	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+13%3A47%3A41+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72579d33-f54d-4073-9925-5cc13cb71deb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808468252	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBzVIfxm_HVjDhOi_JrUHtqA-PnBzYtg8.%26dt%3D1776932252172

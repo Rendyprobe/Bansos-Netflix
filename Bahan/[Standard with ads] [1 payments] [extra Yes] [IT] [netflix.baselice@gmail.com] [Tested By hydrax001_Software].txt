@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: arianna
+– Email: netflix.baselice@gmail.com
+– Country: IT
+– Plan: Standard with ads
+– Member Since: November 2017
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0770
+– Phone: +393927830366
+– Quality: HD
+– Streams: 2
+– Price: EUR 6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: arianna
+– User GUID: 5OYGBXSGPJGK7A3UBWNDNHMANI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797453499	nfvdid	BQFmAAEBEKchIbF1FbBuaHcaK5LepLJg-PSebOrS33O4jvDcmjjGILPK_CV1z2ldHGxp4cTVQ-VZ5uhxuuzDJneadiDgyJVTS2d_fYuGioyz8MyIgPSB6Ei3yxybhU_BEZVtkTO4v5nsZxJQc6ii-1K783pqrmDk
+.netflix.com	TRUE	/	TRUE	1804588013	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT95sqbYhOhgsSJW3-SKF5A-ejC83bXPrI.%26dt%3D1773052014362
+.netflix.com	TRUE	/	TRUE	1804588013	NetflixId	ct%3DBgjHlOvcAxL2A6wGalRfrMsL8RsSg5cZQa2n_IQolr3gz20Ck1jDVoQzWkiPJBTGVBRYWP14_VScIFAA1a-td7j-nr9y1uuWdtnqGa-4tRYfrluPVWao7GbqBpt7SrQtaYH7NAufrbT5PssJ5C8G3f7X2dOnR1KBp47P_BMrOgpgXro4T-h8qClKKFTDvSzbG3eyy8XSF8VCQeQ1V_G8CGafhzj81eEVo2pJMu3RIDOsuqfoE1ehZmlVpS-c_qffRvwXG78BcGn7wVTpx35Sn_aEx0jFYVvKOsy0e9hOhFs2X52wTENopGzrfnqfUYpEzv69bqD68WdekuZ1c1XJgRVhOi2-9Ct743ZQL0kdca3fNcw_sDf_j0whyZmtnbPDt_GCCA8pjy23fQ1mtudA9yhWv7qVw0bm74033jbuqvK6DohV5ETdJzrEl5vdAur8tVvRBjnmY00FpzfsAdlRrb4B3fadSo8EU2D7DHjc72XqNrmwYmAWelmcL3ko4hy1SXR0UMunpxsV4fDT5s5xfHvbvDyxN13P2fusHFxIjwN4fNVknnsnHifj49AtLbHRLoqVCmMrG4byJg7-BiPtuOjqrkRvAxU-ez-AI306CQBNM-EkvKec6g0P73Bf_t9cGPKMk0hxJuT-mkUNCbQ3zfdFhEFLfu4LlwmwASYfq48YBiIOCgzAgsAGaemRLei84qQ.%26ch%3DAQEAEAABABTKlwepL1_cKSXg3hs81idOYlqnqg9mqIU.%26v%3D3%26pg%3D5OYGBXSGPJGK7A3UBWNDNHMANI
+.netflix.com	TRUE	/	FALSE	1804588014	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+11%3A26%3A54+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f9a7816-da58-40d1-bdaa-1ed0c65f3289&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B25

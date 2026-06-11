@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nick
+– Email: chris.teerhuis@outlook.com
+– Country: NL
+– Plan: Premium
+– Member Since: december 2017
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 6098
+– Phone: +31622797273
+– Quality: UHD
+– Streams: 4
+– Price: € 20,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chris
+– User GUID: CHJ7RTITZND4ZD5D2OZ6VMBRFY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810234683	nfvdid	BQFmAAEBEBRgWgUVP9Ecv2UgiciLFHZgOiMNzRBIYJYxplmXKkoxZNUtEI2jzkaJ-VyRMAAVXH_qsaURZ_hm1c-uBYTWpbLhmeweI-yuEonKGgzwgZiBJaWxfX9Y5WxtisBO2ofpaWswPGTdLFjc9Ii3lqyQ7Z14
+.netflix.com	TRUE	/	TRUE	1811345877	NetflixId	ct%3DBgjHlOvcAxKEBF7zFM39tfEBJAlvwwlpXOYUT3lMq1lfJKWjzQwFKN7rlS8a7RORECKEsVj5aBlx4d4H2m7O6mJXA9LNNn71qhOjRss9zDEXqy7Rok5hTVRzH-yWgmyhBEL4TLpdam3uIrUfDE0TsOVe-qhCHqQnXe4Tx7iGgRm0iCeWsfRZHX-ZqZQ_bijeQAGjc6lrS3QEMAGc8N53VhmH9jYN6GaB4yFX2B7SnYAtRCHx4zyI8vzHiqiJV_tMsDSLmeHx_GIyoTEC2JjesjVOcURbauizUGIgxYv4sNrUeAIXYcGvAB3E7Q1L9nbKbx2PXXyCqQd935i7LRSz8vtbku8CrSAbur-pm2Fd0z3QNMdPiclmOLrWgtqUA5iylPmD7-I_SR0qWdIBiy7G7EpvvHocE9roaNOvEOTipa_ZFPimYur7w-gfj0BYxHHxL2vvWH23zqbZYaTD7k8KmovXLtJA_w-BufZclZv5zN9GFFMVLbyx-1Md1acxsniiAJ6hdwLsPtEdYDifb-le80AAFbUJBu77CCW5UnwccGxFU0bjKfqmi3fVoa1EYeUEHj7iQnsE7QrioQ93AztmqteJnx5wSXdYsTR-uakQh5T4D4nJ8vn96f0n48D2wkcWHz8-d23LGY1QwG9vXsjgbcRvwxBQhdTLeb0oAwO-5Cjf8nY9_qfTV6SMasWLQxgGIg4KDJ4lSRhvtmNFaFaPyw..%26ch%3DAQEAEAABABRuY89orKdleA9Y_A2NEw7JXhr2cj2NmbM.%26v%3D3%26pg%3DCHJ7RTITZND4ZD5D2OZ6VMBRFY
+.netflix.com	TRUE	/	TRUE	1811345877	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiz5GK2kvY78JklFucV0xDkZBZ3cB19PY.%26dt%3D1779809876746
+.netflix.com	TRUE	/	FALSE	1811354504	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+20%3A01%3A44+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=168d72f5-0322-44bd-ac79-e4b7f9e6fb41&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1778698672163&geolocation=NL%3BNH

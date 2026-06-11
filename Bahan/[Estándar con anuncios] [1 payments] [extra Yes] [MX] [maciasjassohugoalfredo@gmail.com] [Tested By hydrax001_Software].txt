@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jeshua
+– Email: maciasjassohugoalfredo@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: enero de 2024
+– Next Billing: N/A
+– Payment: MEGACABLE_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hugo
+– User GUID: ZWTYLIV5H5CURNTBMQNKPRXHYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795161303	nfvdid	BQFmAAEBEAqd_dO9sFJcZy1Gntw90aVggCYRijEHzGwYQM2iX9o9TnuL6I1g-wNfbal-SbAZGT8J7J4SAmxCsWfpCU-OMDT3zta1MPz58w8-owOUTslevPBdo4TD3IwNwXu1Oh6qnYPCcuyKp8jsmWiHlgI-yTr2
+.netflix.com	TRUE	/	TRUE	1801896016	NetflixId	ct%3DBgjHlOvcAxLjAwcLOdknYFbEVQzU7rtzA0abbeBNRn5Hkw2VMuHRbUKc91kyEcsozbDaoeZcudZbJ0Id_U-ILnru_J_TKotGvyvEkg_Ofcb6_0rKVfE0gPJHkIbgZUHJYBslaXMwB4t6yRxy62fz6iGqeQvrel_bMsN6Dd2-SAVXQjgk53iemScxcoABlxb9oHL8Lq1XO5stnb12SALYZqlof_CMAFmKnT-cIG2P64e1Epd6beZiDTsJ3br9zJ_sv_INgxGc9sK2rN6gLiQUAscDOWrVcMi64JaPjZyioXLb1lrfKaWTcYsud3wQJUhDqIbJkzrTHURPqWUleu8frR6SbQniJQGPEcqrbu8cn3hu4fxMowiW4WNNQIljw_MABCtTXY2gPhm94hgzlHHAhsfSvbmMiMtDCCwAne-eouwSZHnSFk-WZI5eIJOwPjRFYMkC8JbHu22UZo-7CDx6fPvlxLAT98-doAt6gvdE6VYcyDu2bTYqZkKLPGiLxIIMsnkKeQTkyxumjCLF73AFAWnCcVrryCKBHOWgTN9ryD8nHOBvnNiiWydN752VDcnyO3yNCRoeY2v98PPQ1xJZdpMJJ03KYdwwKsuPjjkFKFPIPWc4Y3aOl7cXdrJFAndQ7DVI_bhFnDezdP52rhgGIg4KDETX5EqXG6HhszLcRQ..%26ch%3DAQEAEAABABSuxHS4BImI0VE3VtEPZT9o7VOw9KDDHns.%26v%3D3%26pg%3DZWTYLIV5H5CURNTBMQNKPRXHYI
+.netflix.com	TRUE	/	FALSE	1801896019	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+00%3A40%3A19+GMT-0600+(hora+est%C3%A1ndar+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8ab81543-50f2-43f7-8f8c-8ae218c4148b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCOA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801896016	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSC97XC-ZcLs_IXoxRIJdEd0ycuNdauiwo.%26dt%3D1770359911010

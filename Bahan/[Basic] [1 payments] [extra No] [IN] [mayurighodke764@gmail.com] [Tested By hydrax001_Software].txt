@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rutu
+– Email: mayurighodke764@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-06-28
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mayurighodke764
+– User GUID: ACVM7245KVELBM4WBW3LGY456A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806001081	nfvdid	BQFmAAEBEOKmMEcM03pin-TJtdL0IgZgLN7DpNfSJadcIfPt0eQCF63rqPdCt26GUQpBQrtvNTJ7FCrZcB9JPX6BSDhLkqkP40OrPzXSnO3AxLObcYySji1G2EtqEbUYnwxzr_uoOr64nvjBACSTr2CoJc-DR06j
+.netflix.com	TRUE	/	FALSE	1808321149	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+20%3A55%3A49+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd66982c-418e-4c6a-bf28-da223b6b1815&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1&crTime=1774465010376&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808337317	NetflixId	ct%3DBgjHlOvcAxKCBBPcbh0otlxuCeMmJr6_Q_tQ1VAa1zVgVIIufSwBiNozPwhK3je8tYhElpAHcGT6ZZ6LKKHRj0es4k38rUlh3nhaqCBxWeqgwZu-zZR4SpZeVLV3eb21h5cxD5ZzM-5_0bQUiD0bA-FoltzDlkiMW7EdA44pWF3-E6p6Kw-tOQC_pJ7SixP6AB3FesZjitjPs0BRAWMvfILrEMv7Zsn0XSvakPocakqXOm2QRJsANfSyCZc8m28E19T_DkmsWwohP3qs6Qfbkyv4F3YlKFQgoReO1aPbtgv_yp32sVHW_2zTNwMFrzKxx352ll-DdFQ8XthixOJFsD6ZVqxz3f1gcQSmxQwizhRXSQdzSPImujJl1eXoprKpHbPFuLmU0JQESSN4KQeWcLBI9EJ027p69IBNuj4uTokBYT-vQQ0UIW5PYyiMlbVZCyXPwUGmLmdusKkN_jKGOcK5JkBMsJtdj2W9uodtQPjOklvvFCgNWdVHfser9afT5iu1UG2gyIZN-4SGo0K2KqxVaQ1bETxOSUQN4SgJ3YPgjwqbN9mVvg-yOb-9u_RJH91K-4iIK7gkxUu4y1Eg8vqWzg1H2VcJbS8fhvJ8_MqPfzzazN-k_-c8WBhWvWqRqdKYHtIkD1Q-_458lYSxHLpG6J8EVXWDTCUktTvbNcvvV14ETvpGgm3eaZMYBiIOCgwYUDuSFevIWKxEbnM.%26ch%3DAQEAEAABABQL0jz3I6GcbASowz5KL9FJ5tCQnZgibFA.%26v%3D3%26pg%3DACVM7245KVELBM4WBW3LGY456A
+.netflix.com	TRUE	/	TRUE	1808337317	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSf2bXwlYiifVaDzFaQhvXM9cW5c5Hib6E.%26dt%3D1776801316753

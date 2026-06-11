@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hambre
+– Email: rubrum2015@gmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: enero de 2015
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2068
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lucia
+– User GUID: MT6UWGRFPNBNZCZD3PDTXG6NYM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056505	nfvdid	BQFmAAEBEFhcJTfbErkBVUFT2VJx-ahgCvpFi9pzpRJGMFIGSc7Qun5JqK_SHS7Hs4ORaC0R-ZaFiWypKgEebkoiV50ecDKuSP-iBCs7oAravrF1DIKgRN0Cba1UFJTseqGNjxeNkLOiKH6x7-8CF1EpObxHfeH3
+.netflix.com	TRUE	/	TRUE	1783056505	NetflixId	ct%3DBgjHlOvcAxLiA0EQ44a_rkhOaJCCm4DGtmzjP9XU4Ie2hPd61RvF5jRc4-pBWk7kQOAoByHy5IkkqICzoamT1zxCYFYklaxVIkopZAcg6kotjrcfrroqu0WxahplUAD9DSY8o6UweKIUkXmdd-0waryx-Vq4c2vf6-Cgt3N7VwRkMfQDALanMakADiLrpbH0Vw0m_-ye4KHy-JgjIpct954i9-g6h8o-N7FH8eGdHwFkyktft65TWdZTI74X7jbPQEN7EdjHMblgTPWcoDqi4SBfdbo5PTkpNvEg0ns3LIOTEW3wfilMhoK_4H-Ia7sHkf3rBMjya4samjUtX4_qMgaauhPE1ZpYq38WKO0e1tUVPXb-hWvw5J-44jBUDNBSVjedRhT7FgpbW9a14MXCFdRlkPt4ze4nlFV1JnU2_72slGF46-vNnLyaMADz-hLNdjChuY07IhLOBT9YJTy6sOUSEfDUUq3rWUkRLduu0xDfqLo6_ykIozvnqe2SeKKxSc9IQHv6LmlVEZoP0so0ifoVeCbVPh3xqyeBSvgeWCu590BuJIVADyE_6eA62L17hT82UmSN153HgneSh6As8LRMaZCGVm47BOJU_VIFvZdshN_x6vt2lWnxsNjUknzGXo5CJMAOnh_dc1BNGAYiDgoM0_xuw5cyCqkgsAC9%26ch%3DAQEAEAABABSeRp5VwvtufN8h8uCcMuTekEAPyVJ98Vk.%26v%3D3%26pg%3DMT6UWGRFPNBNZCZD3PDTXG6NYM
+.netflix.com	TRUE	/	TRUE	1783056505	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKMQ28S6DDTMyL5Hlxq2TJKJZyBDM0mF8.%26dt%3D1751502098660

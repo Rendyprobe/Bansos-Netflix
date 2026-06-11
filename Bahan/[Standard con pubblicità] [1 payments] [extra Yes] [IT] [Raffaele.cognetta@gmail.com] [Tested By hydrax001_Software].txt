@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raffaele
+– Email: Raffaele.cognetta@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2025
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 8031
+– Phone: +393488506125
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Raffaele
+– User GUID: GV7RTNG5DRGJ3NPTELCACHN4V4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789752738	nfvdid	BQFmAAEBEPjNM19afmPgjJ1d44E2ctpg0rFG5u387t8_RE2UXiw5bCF9NBEJypNlSAp3KbFBmeEquWFvM0eTPkVZVv3-3B3MpzpyF-xnL-G9BTMVVJDGv35mq8qhHDoJVYSdkSSsz863KfVbf2cS4Ov_3Zm4tpjO
+.netflix.com	TRUE	/	TRUE	1791306525	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLxAo8ukCUFrCmU9JsLz-HsiNGBfXgD8ooWy9Ckmbt-hgvp8p9nxDR6DjGEyKsLB-ZO9enmN322NfRju8CrKUvD_Ez94JOncqPC8s7yJVDBn_-rsoXLCtPsJsq3uojOry2BSf_Wg7JQliK9T1jWjZfDGCk3aoVzpg40roYGZ4uxKeZxeTZ8GO0WoSTzbkVcEfzTNGZ4Fe8zq2flb273QMvhCIHjb7LdAXNDWd4YS-upnmMNP1kRRhi9CvedIdKGMcFAQ08h5CUPGt22XN6Wc7FaqA0s_1sjAQJ_ta075zcaNenU0b4x9qWwNsdKA-BKe5Ug0Lm0thdxrQYyixxsWLEh6No1MOzBf6u8z98Ooutcx6WJ7e5RdpAAQieTTAdS_6qo-siHLZiZdW1Ej7DQxJI10qewQq8DS4j1nhj38ZRefGS-qInzN2VbqvD0zTFPtiOC1w1u210kdQ2rSGg6oCXXY8tCe5L8geS1ywWrXIlLaaScKBgGIg4KDDCXD2lCgyJqOGnAqQ..%26pg%3DGV7RTNG5DRGJ3NPTELCACHN4V4%26ch%3DAQEAEAABABTnhm3uRQheRpJb3QnVtcLGTKZLg8RMXos.
+.netflix.com	TRUE	/	FALSE	1791306525	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+06+2025+19%3A08%3A45+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a681322f-9d45-4207-9f9b-1dd4a51cf4ca&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1791306525	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgI_NBjPXtICVkWDTHTp5A5dyx8_xkBlE.%26dt%3D1759770515045

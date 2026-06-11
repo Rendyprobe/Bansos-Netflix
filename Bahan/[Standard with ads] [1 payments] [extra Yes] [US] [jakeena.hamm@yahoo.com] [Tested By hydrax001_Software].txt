@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Santana
+– Email: jakeena.hamm@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: June 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 2804
+– Phone: +17869882777
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jakeena.hamm
+– User GUID: 3NEJ5OTLLRDHZH5J2SM3LV3CNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803236821	nfvdid	BQFmAAEBEFXytUD3G-Ii72RpC_KwzUVgDpHNBHyJx0vHjXQdPoylOXGNI1kjO4o0WIQNToAZ7kqYz27costYKaBh7mJA-_fSS2RXcUWv-HSaZxnV1b0Gj7cT7ppehk-ycW-gVPMsk7Zh1wNCbsAb_PgucilFtoDn
+.netflix.com	TRUE	/	TRUE	1811619096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_-CZ0f-YsaTmiFbnlgpePRKAjh3s0-ag.%26dt%3D1780083089336
+.netflix.com	TRUE	/	TRUE	1811619096	NetflixId	ct%3DBgjHlOvcAxKFBEyXTLgmxzE1RvgPskFIMQ8dkaod7_S1rD1w5bSYEJ1gxlRsU97elmdTFGHJLOeZlpGsp3RXnCb1a4tr91lu2m4ImmZrtoD-eybZ5o4ry12qOX-ipzjDBKFXhlNu9aYrxihh5RfDhrZJduN500AA5j6935O0gH-nijsjchWGHo0h0DiPwfQUpnY9mtr6U_5WMhs9YlM74b9F-s_OdM8cVJpr1Moo2rxqz6919TjpWNl-NG5Z2jI2JkIHtsCBtrZcerho9ECzujqJyxsbhh6_aTkvcG1w7O3VkrBXPFGuapp1oLbyL4Q8s9sgXYgmvHkzgh664CPS03YkVPxHBrVzlzh4Ur-ndImD6oXiErF1_VR-mXmJhAdiemeMOYnRiZP340Y_Pco32Kx9LhljILYDyEwakna8L-zAesUv4qtxrG48_q_Djp72ybYTiDzfC_LmBoX-qWcxoiqSGe370WL6_Hs-LtIhqSfrriq85TIgaXhBaC7TSOWeWfLFLhGppDN4ezbJe9OOVgAJM4xZ4pF3UVEtyUVL5OH8l7XuAxj_D0-F1MEKUC1LmUPbJv_GBXqub2ebdXkuLCbYAijjUF3rWgOWXxiRRH_EyyXuP_BrajbD3vaZ34fRCPtqjRDT_S-LEUO_OK90OVCJqRtyxmail1sbgW3J4Ny87a5uZOT_H9FjsMhoDG4YBiIOCgyEeTNf_tddZmjZkD0.%26ch%3DAQEAEAABABTRSQR6Y4NxUdLw4GES02QdtA-Y3JzBvs0.%26v%3D3%26pg%3D3NEJ5OTLLRDHZH5J2SM3LV3CNQ
+.netflix.com	TRUE	/	FALSE	1811640862	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+21%3A34%3A22+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=91c2f766-fed8-489d-83a1-9a743fc55858&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771700688630&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

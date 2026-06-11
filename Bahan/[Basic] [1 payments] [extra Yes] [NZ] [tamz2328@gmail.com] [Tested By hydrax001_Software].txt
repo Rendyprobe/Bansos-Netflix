@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tama
+– Email: tamz2328@gmail.com
+– Country: NZ
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 9216
+– Phone: +64223743919
+– Quality: HD720p
+– Streams: 1
+– Price: NZD 17.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tama
+– User GUID: HC3DA3O7XZCPZCXMGA36GJG3L4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810891972	nfvdid	BQFmAAEBEBqDgCSwGoKjzjYx46eaLL9gAnV7BY7CTwNGXJNOe9IDUv3JQ9V0BxsfaBh7GL0UWQkY_5n7X0o3JU9F-Dikky5ik8MqlqpYCgiW9tCqRx1dLNcg5BYRd0HffZtPrjht9qlxbavcNsfXSCUCS1amBmH_
+.netflix.com	TRUE	/	TRUE	1810942775	NetflixId	ct%3DBgjHlOvcAxK7A27SwMsmPRgWIFCcmVm42SybaCQ3sSBUAIRYDGzO9mD3leJnv0a9bs5pMnnZoZRwQrRfb9SgmIN9OpwK9KebDqBzE1KPovV5RosXfdCG80h1xchKGxcuv7mPsmo1xgqZLLiX02D5UTVQE5ee8ObzASnyfX_YPAmrkEcSnDMoQqxc8HrS858Y2Sks3QPQbAflOgj55d4aDaz_1Fee4e6k6eS3clYAFhu1UN1MkcurDF273-FuMgYX8dFinBSO9xI6eW-O8P7T44nJh3mhp-y2TZUBPK_t2HrElgkJfCj-Z94wtYXMwmmcu2ncRXa5_gbAG3FG8f2n48mbImVF3TMvuCSxwy3t5Va5xki0VC2ahNaK4OzYqeGDNf1YMCO-Y70Gh_pXTj3rEzHysewFabu3y7TIDV3b6tiIJQORIa0kpNgNohu_fvbnjHui3OwqoHw84n_Cim0NbrY6NmcwGxHYXCv-gdOxh-mqSG5CnDH01SdYLfbBBF3Wn8TsP0qSuAvLwIBFhNGiqUF4ztgv105YS0ZoUUef5-1sr3i9E0AEbLJuhecw9p4De0NK_YpGhARy7yeCi6ahpjhc-pFgGAYiDgoMIdt5hZKZvUe6Jq2M%26ch%3DAQEAEAABABR2KPNEfPPC7DSXE6rIVcqtrvJnkzPsKEM.%26v%3D3%26pg%3DHC3DA3O7XZCPZCXMGA36GJG3L4
+.netflix.com	TRUE	/	TRUE	1810942775	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR69M9-X2L-29aFppoP8LAI_JBkbW9Ee9A.%26dt%3D1779406775645
+.netflix.com	TRUE	/	FALSE	1810955999	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+15%3A19%3A59+GMT%2B1200+(New+Zealand+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1a43b4c6-7e37-4d10-bed7-f797ce611d2a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776240784529&isDntEnabled=0&AwaitingReconsent=false

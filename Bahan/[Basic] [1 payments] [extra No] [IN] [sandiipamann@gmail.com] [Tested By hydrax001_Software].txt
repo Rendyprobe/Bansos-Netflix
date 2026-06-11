@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Deeksha
+– Email: sandiipamann@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2023
+– Next Billing: 2026-06-16
+– Payment: UPI
+– Card: N/A
+– Phone: +916204692442
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Deeksha
+– User GUID: OX4MH3XNJBBCBPTZU3TIK2CWD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784032271	nfvdid	BQFmAAEBEChQDvf-LiTz9udUVwZnFPxgnY4PvIb6IyjTo0qThLp8ZcS07ptIXx5sjQ2IkU03_ouwGJbIns07xvGnSJWE3PwaNBci2noRleav7tbZL4cf_1dwE0Bk7Ts2NQqaXCUemnzKQgX8HLIj3ISPAA3aAIDz
+.netflix.com	TRUE	/	TRUE	1788013749	NetflixId	ct%3DBgjHlOvcAxLjA0JEwRgHcVFEXmvtLReU2scqU60r3n6lY_UtLdpUP0_HHcENykHiXMqsBmBNer3jvMWLm0-NpKk6_o2cvBul8XDTkn0qkjbtKhiewoFoOcIDBdZONBPejV6wCL00UNz98r9dnDsR92_hmoTdg8jK3Hn7ftZR8GfTDzje9Rtz_eM2bNEOLLxFY9oeTHVORA2PqBTD8Xk79KYCWbYjlgi8xWUKy28K_GZLx8119hF0lR0kctKnmty-e0GtbxOlKCegMwxZf0bBWjAU71mho7sIA2zAzgJmAwKysSh5E7M6QjZTtu5uJ8X7JyJTKbs3ofXjCtoxyXgTa1na-aeJA6jkqhFHGCb0bEng-nShQtGB8-F9XM5niVjPLGFHMR7um-0ApF2eyvvMBPrp-G_v3P9GwjDWCLqHgfR2upcTtJg8s4Gvd9XiXc_dFzu1qhRA_PHfB16lRoHZgiPBDz77jndIWAkNdfJPYq1r3N4iSn9bJ-zRQ68WelgkUiE36JThm-SqdPAdwHaWbtB8lyPMViO2oh6TigzL1t27_DqV04Rg_zLf8LvMUALfFkX9Hosi-IpfIAHlAyPoZ9N-1OkThdswkxQo9hazIJWaNcW_6dnUizyce1Lr1h2RML1VWRt4zk3PDOCugBgGIg4KDNjG2g81jqmw0IERkg..%26ch%3DAQEAEAABABTIAuPY_j0Y5cTe-5HH9M_vBZXX4GRAOzU.%26v%3D3%26pg%3DOX4MH3XNJBBCBPTZU3TIK2CWD4
+.netflix.com	TRUE	/	TRUE	1788013749	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZfYdWlYi1JOE422cK1ncsUg2jv91dfUY.%26dt%3D1756477749106
+.netflix.com	TRUE	/	FALSE	1788026457	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+29+2025+23%3A30%3A57+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42d0b043-c9f2-4136-95cc-c95b1cee5249&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

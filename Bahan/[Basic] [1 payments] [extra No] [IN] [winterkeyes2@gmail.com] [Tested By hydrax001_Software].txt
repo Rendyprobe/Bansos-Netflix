@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sukriti
+– Email: winterkeyes2@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sukriti
+– User GUID: NIMHRWFZCVBD5L2ZEWJLPAVATU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807381507	nfvdid	BQFmAAEBEKJw3-GjlTaN2duIakx_YCZgdYSulni7VoWHUAqsmplrGvbokO8G-Oa69JoMIUhI77ms6nkaiTYqOLuCwPx5OupHVnzI2cwae7doOPph52Vz75sg6cIpC4pecVdSs_bUzWsVyh9ViWNvqBLEWF-ougSn
+.netflix.com	TRUE	/	TRUE	1808284700	NetflixId	ct%3DBgjHlOvcAxK1A1kv2zfHkM0vPdvnItBR9WRSYkRvInvdWf0MGl4XyNgGM3uCrkErbGPsTI6tHsOzRuBdacF-cmILrIbz2peD4M3r8T1moqpoZeGXcsaazsP5BPShEJlxGBHgPrEqX6E5CLit78Npzu59MARqMtWedVLJUiBfFLmifdyOf70_QUmzhKxH6txGMYbIZc7pdRqo_uDsCtTDAs742JlFdeTy7gZSq_piB2NPJrlBAlTBXfJJlwa-OFJFwqMDXa_Ci3ieToRKT806CvUGFyVQLxYMZ1T3Ud6c6snReTI4qBZ2_MUmYuX92iUKAkuvMkbKr9CKvX7-o5zBbz9eaQCMREAbQZQps6r0kyl55I194g-TggRQwpOfx2o5IKruyV2nhzD01CFxPy5pzIFYfnQaCl0eXMbMep74c8h2WM2s-ewpCsxwb3o6e1s-80xuN5WZS2KbSsa6w1fui-ytkL0YHBC3_hQ8h7E_u_PNucBG6o6Li2L_gvn0jYa_D-3YS2Khhr8unSpHvKCYsPeTLHB2TJ9jxO4-bS4gdLh7PtJ-CwkAzPbLv4HKQXX_s1DRukttTe-1HTlvWBOnGAYiDgoMzzycmVJ7-m3Pcxop%26ch%3DAQEAEAABABSW_cbBlwV2rKkh4BWDR31_zGvg9WdtnYY.%26v%3D3%26pg%3DNIMHRWFZCVBD5L2ZEWJLPAVATU
+.netflix.com	TRUE	/	TRUE	1808284700	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaVkZ1rF2HieFcK_DeJMd2fpGzP0eN6s4.%26dt%3D1776748700518
+.netflix.com	TRUE	/	FALSE	1808327867	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+22%3A47%3A47+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=601e27a4-5231-4c44-ab30-bb67cd2ef6ae&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775845507724&AwaitingReconsent=false

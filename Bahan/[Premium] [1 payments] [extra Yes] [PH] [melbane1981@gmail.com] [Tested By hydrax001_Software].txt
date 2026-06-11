@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: melbane1981
+– Email: melbane1981@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-06-11
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639770357042
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: melbane1981
+– User GUID: 5V7N57PCJFGZBIG2VCLFMUHFGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811150703	nfvdid	BQFmAAEBEJ9SxWiWcN9a5ORlSb6hJ55gMLOMQ60dK9iFCH4mrE1pViKz-1aTbzRiRunlc3EB7Jt-SE-VtpkhNLNa7vxLyUfUQCO16U29cjrtCKHDjnHp2AWMdhPLxVGOk1NZdk4nqQTlWrTENgqaW1t36l1QmyKB
+.netflix.com	TRUE	/	TRUE	1811731334	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6b8PWrMLYrlR6msShq0LEUVLxfvgiZz4.%26dt%3D1780224153779
+.netflix.com	TRUE	/	TRUE	1811731334	NetflixId	ct%3DBgjHlOvcAxLtA-fXebukt2HZ6ZjCzVo_nxyrT4uKtW1F8pRFrMtcLWKUS2l-N6fwRW2Vb8uu5J64ghHkpjQZn1ajACyX_PjiBR_kOThfwjzb64Yudjsvg6uW4IxCveScfEjtVOhZiB7tqGC6t5Hr46Jkzbu2W4cjR4_X6w5XjDN2_TAM4gY6odzDrcNvLp2gtIe6PJxkcYmlc9-PMTpokUIvn6_vdeIz9Wx1SdkyZyeV5AtGlokAzHgcwjsiRttMPovlTBg16niB4hWOPHsHE2GNRcPaoyvWpnxfqrvlv2no9RFNqXQlX-ziOXx9AZ7KUVsQEa_QoQLY6v4DARibW4BeqPMC0uitofFo8YFgReF-5XP4gpPRwxNUqbzYoOq5Ds_yoYrga0HmgYWW-6axXeFzrU0pkbKjS92ykICCWlgyFrOgEceCrHN3KgWvbIkbJFdPafeEUXW1I9KU02z1WBF3zr7xeKqUwqW-AZc8ix_yGOvabgN9P4cSDWO-ZtWzlBP0Vnw9XDmbe1yXruoyz0c2eFk5oPQsxkhUjJoM9Kv4G1P9hj_c_ZK2z0wba-qYxGO1peZDREAzllyr-vNvYDQ8Z43ip9rN1j_0GXI8-SRxCxeakQnicg23ki9SSsdN18DMrBQXUVCLgF-pajtpmOmx5EknwNAYBiIOCgxCTofa6CUCZwHlb-Q.%26ch%3DAQEAEAABABQLBf964RamwspF2kPrX2rIhQWjfqraCBc.%26v%3D3%26pg%3D5V7N57PCJFGZBIG2VCLFMUHFGM
+.netflix.com	TRUE	/	FALSE	1811735599	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+19%3A53%3A19+GMT-0800+(GMT-08%3A00)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=faee8e7e-a43a-40c8-ba97-de8fd9f280fe&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779614703383&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Si
+– Email: thedaniprog5@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: julio de 2025
+– Next Billing: N/A
+– Payment: VODAFONE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34688743167
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: No
+– User GUID: IJK2CTVQ75EVDPCN2TTY6WEMZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800453512	nfvdid	BQFmAAEBEGZm8rLhM82bQfNc43NKkaJgmWwkghcsHVMZazWIIRywxJXoyE4KgPQpRypQe3um0VoJT6Kwj-bphrxw9jEFnsiWyzJsHte7qcYZ-1XI1Kg-4-yXFk7YTn9k2A6ZHD_Uzbba9r3IZRA8zr730FlnCaz1
+.netflix.com	TRUE	/	TRUE	1806531778	NetflixId	ct%3DBgjHlOvcAxL-A8xDyibKgPSbABpZvMSoISUbS-olyJLElDZLmmfMZpCWcv3HgDotFH8poyfgcuYw9dkrM9zGv8gd6buV4_-T-Ka26DQB-St53dm4B55expu-eT8NPP7tT_ArRxWEpw8248sk4rJnFnvfVzw3eTZ4mqS-lT_ZdDA92xVU5BXmiU47YU-5cZhBypcjj2o8C-xRpSP9ZVWbbR6AUJrWq3sIDUjTkx8ff4u1Zo3XB424on2_7WrpnTvS_7K9aQV5uXPNWvsmgFWzKgYIiHOW9YjK0nrSMl6MSmNzMTRMB7tjRKY2v0nSfaU_C5vcIaQnNc045sbsttikVL5Y0yj_FLnI-cbLSfmJvUkwZ83jQAiUsQRscdinUcQ6Tev2gTQ02KizqNXCZPkwj5exEoJoBYdNfECh2uVDp3oE4bIbnJAm3YU6lik1gejyd6_CNI2OVSdFX9dYRpj033tESx2r0JQcw-buf0sviqoFgHx6QO2Lnv4R0x5knUgHlty3lo8X16YQ2S97DuKkCGOcZe4f_Jw6S0KTByml8DNIPgGLaH907Yn7_8B-VHn0qhuKFl64Cenkm5IDji3PH8yWF1x2dyEOdJ5dtU0_ieRt_r57XosiYSKEdquUlY0WVNm7yVf7qYfZCI65-Vkcyl4xNDc1sDq2Lo3cjNR2A_jSTIuQKcKzBBgGIg4KDAXgWDTrpTVdg2Kcug..%26ch%3DAQEAEAABABQpxdkfVGoQ1SpODw9UI8cE1Df0rQ2ruzw.%26v%3D3%26pg%3DIJK2CTVQ75EVDPCN2TTY6WEMZ4
+.netflix.com	TRUE	/	TRUE	1806531778	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRD_MQocGi8BwSkb81dlhc1eDFWxCb6ykM.%26dt%3D1774995816225
+.netflix.com	TRUE	/	FALSE	1806540412	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+02%3A46%3A52+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cae82243-addb-4bc6-8e42-a07d1f4b3a10&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768917502096&geolocation=ES%3BMD&AwaitingReconsent=false&prevHadToken=0

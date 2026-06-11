@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Burcu
+– Email: burcuguz5454@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Mayıs 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4518
+– Phone: +905454711581
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Burcu
+– User GUID: JQHPKS5T2NCJNAYST5XR5M5OJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792253093	nfvdid	BQFmAAEBEKVHkrZisO6Ooam3p43i23hgYDsBGqZeKtQL1w_XiOuCK5HE7aeUsd4co0JFew1gB57AtzAL7E8c2eU_Pse9PE-OWPIlwVR2rt0OvTmyqg1EplWeqOnh0CLxpkbtPwW_O-FbkLvAfkoZB8kN5DnvtCN4
+.netflix.com	TRUE	/	TRUE	1795969615	NetflixId	ct%3DBgjHlOvcAxLkAyxAqxxlTPvhpWRTPCzZT_spaPwSimjBTEB8AU44gpzyGf1ibfCcagdvlw6HzlwVzVRvE-6qFX3wf3zG23YfAwVOD0WTqeKtcxnelPWKx5qwamyMHAKS-TstB3B9DL1YxceyNZl84eUwcr00mX6exiwCDKtDei3qttsAzCk0nN-wg2Nd9Iofah4d6OBD6jzRT-EuP8AOfLmdY2SxhYs2AhDxCNdWUGPYK4pGV0geyyysfRMnjBRyfQLm4-ye8nd1e8lh1MiHB1OLta2w__2ZdEpoc6ZUKXxwE7xhL8DL76vQv6_bQM0Vo-6DlFyIYeG3OpDCeLnK7zgbxg_yU_zInIzohtoLjuo67j3-7WLt2QTXpAwXJUMcgBrmtcccpI1SmB0TtQDDTkWLJgYPqkFjvXceVU2epq0gGVCVQnlcYVQBkKtJcjYEoJWhrdTwA-U3vTfpcYpOPSQPmBEjQeyTrfpp2R_-lUrGqW1fwwK_qbMchd7smAEBbkKyWZInQjdLAC9qdfrgBtVRl5gK1B9NdaFzEyhdcj1ic7TOoqeELkFBfeqdqygXGeFcWjjzQhcYtKr5vCKD4x04ZasDsWep1d7DmFSh_It6VALh9kB80Wl5TX6eLFPu8eH0x3gc0rvClprxZC8YBiIOCgzDOEk0y7TjCZkhyio.%26ch%3DAQEAEAABABR5Kwt2CIe0TmOwJz2vmOq4Bl0gN1OzoY4.%26v%3D3%26pg%3DJQHPKS5T2NCJNAYST5XR5M5OJI
+.netflix.com	TRUE	/	FALSE	1795977707	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+29+2025+21%3A41%3A47+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a8be25c-605d-4aa9-9730-035b2188c2dd&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B54&AwaitingReconsent=false

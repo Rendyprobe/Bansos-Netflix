@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rickou
+– Email: aimerick93@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: octobre 2021
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 7472
+– Phone: +33681964350
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rickou
+– User GUID: QHUZPB2RGBFUTBVUXD35WHBHPM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783281192	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIAy39kOyJM04wguROEeYdJQK8x8t_ywk8iYEN_ZDuuBVZ7VUmUtTXMO4iVTdU-To6zp8HgHGVUz96yUh8ohXA0hjLKyead8SDTiO6wUPrpTwLnmbcyUp_1M8jzSOG88G4BynJqdGz2rcbThRAWImx9W7xmM2U0ECgRet6QHbvZpuAax2PAuFKjIWCSMp_hihJQAcpb9_1DR85QBC_538ShWeIViomauD6TnCOaW0RcZdwA53OcHmhM4WV6r_rv4KuJMxm7Fg2z15Rv4eUmSuW7P2ZcA4Jn2jiujxmRxl6Nbzeb1rlgQt-S-55rOeI-1xLPXgIue-VkkxpaqNzwtET6gULfPBaQgJPpuxGvWZN2yg2-t-0BNakZypIQh-xGGfE10qjBXt-z4KYc7byzpzIJ-hAfyay521PNj8zYOpBo4pIBz2mQ9D94PpkAHQY1i1Htcpy1z2v-5eiQRywDmGGihACT2bC25MBbB6H8N2xM5YiRz0KDKpEikwojOnJ21xzmJBzibQUZ7bDGAYiDgoMp0OM4XP9nrGfh4Dn%26pg%3DQHUZPB2RGBFUTBVUXD35WHBHPM%26ch%3DAQEAEAABABS2Sa1UjJf7DExlp1xCcU-lxltHEQMMwi8.
+.netflix.com	TRUE	/	FALSE	1783281192	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+09+2025+17%3A09%3A55+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11e3c78f-cdd2-4a22-89b3-a2283d8ffe47&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=NL%3BZH&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783281192	nfvdid	BQFmAAEBECyhUe48fnpwy8yWVFyJ6Y1gKX8JDFS5nLqdILb_HqWGBr_JckxcB1cBcRhu7SRnvD9TGSTSQypuZ8CYkYz8qrAIv6MiFuJfNT_g6IrBq75w-rhqPD__8Ef6sg9YQQbuiRgtYTUz7WvEGnHdy07t6pwR

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Any one else
+– Email: amosharley@yahoo.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: noviembre de 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 0583
+– Phone: +17047982804
+– Quality: HD
+– Streams: 2
+– Price: US$ 8,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Q
+– User GUID: VUZFIZL3RFB4BELZ5Z4NG7362M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1787098505	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLyAmZV1OUJ8ajOVdnV2iecQzBW44P96IeT9XcPd4lqFj4tQTiQFGOT6IZDU-i_ioIqThsxbT_5XYpGxbbo5ML01kzStMMLLAkjAToIs_iWkACTmm8ZxzSBsWYcg6cq6vJB_bhp8RpXnHAQx4Kfq9ZUx2RqxzYzFskTJ4mSPXAqBSOLmQ8wh0cCIOBPquVB6eV0KwVfijUmYNtHNi1TukQhCJJ7aKpyOoaTnxQh3De2SqFPuJogoTu662u4mpPLIwnFw9J6lF0hsSQakR-hizBoSTLNH637yrrSiI3oCaCkGunOvFZ422ryRxD5q31d65PvBRv9LR6tODGVdO5tnjLgvV0mTbXYlgfVg4qOTql8fBsMDZnUiKHqxBxz0bD9BYKEjJZIOvHNgEZg_1sE3_pOBdC-0t6C5iIcxZ98OD4NrlHs-dZ79G1Fp72rjKGHKZRDYOW7JxKVwdvrLhJlDrUdc_IIYkIsLqIWhbG1cZ7PKIFML1AYBiIOCgxzWRFD1-m7miqRAfk.%26pg%3DVUZFIZL3RFB4BELZ5Z4NG7362M%26ch%3DAQEAEAABABQPnvt197QhO2duoefz_xTcFXBhPwWrekA.
+.netflix.com	TRUE	/	TRUE	1787098505	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUGVb27yvVfO0J3hXt_5PsTvxM7_RI-EY.%26dt%3D1755562505191
+.netflix.com	TRUE	/	FALSE	1787098488	nfvdid	BQFmAAEBEKfT5_fqhViohtCBEIMN-D9gCk4mVxdMjKcZ8-NS1CfNa54ao8t4U5dMboXqMBr30EEYtp69b1glNo3areHJziMwbXNJpVSFZ1s2zw6x8Kz5vRF4KE_-AnbyNgR5cC6Vf2xAQHTVdxunrXDIIGZut5Eo
+.netflix.com	TRUE	/	FALSE	1787098629	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+18+2025+20%3A17%3A09+GMT-0400+(Eastern+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76670829-6696-4ec8-b50c-6937d5d18911&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

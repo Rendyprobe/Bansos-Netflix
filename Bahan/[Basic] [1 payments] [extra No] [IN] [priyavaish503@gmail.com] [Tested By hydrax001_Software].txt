@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: priyavaish503
+– Email: priyavaish503@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-06-20
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: priyavaish503
+– User GUID: ZWLHSOA3EVEFFKTN3YDABRSNJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805499396	nfvdid	BQFmAAEBEGY_h3ygKYhUZsxxdeEFIx5gRWo3WOV5vnjvjOZJVLCieUno2Xar4-FLa9ohJ1PKo_n_iCmgp9IXEXcPn__oiVLKU2EKM71rM6GLgBQ8OLVPEITqMzQ1ov6i538rARGf_g0yj8aGthL9inU3BczZKJ2s
+.netflix.com	TRUE	/	TRUE	1808143558	NetflixId	ct%3DBgjHlOvcAxLrAwa4LS28whZg5T6BIUpiDgJw3Ra8ZqM0TmvfeA1NzIs7XtA2ANZeA7t0Ehv3aKqe0W6iXK7NVwHMnBKPKI9aEeTSlAtn9TzOMINmc-DN3zh_ZR8iA5Hn_dEXzb0_R2PM-HBh2ns1x0u7SyVQ1DwrwhjNFqSgECOda8pqzmDWTMGWCvj7ozEuwTnduJFeRgYSjc-e_Sn5byE1vhswnh30ULPQpVXsBQ6dvyfoT8ehX0IGt45X1pjo1bcepZ37z6k-gNAP6TMOxi0KI0457-grm08yHOpCNDpHxxJ7aIn2ljlUmAAoDhD8B-WK7IOhHtpbqQe3p0m1_4giUWaHOy6deUNwIg345jYzddFmeMTaR38RI2et6S-dKwCtcuhaIiEWTAqN5m1gN332iIWcVyW-GqJqQD2rlf-LYBm3Eupj60GNTtp_xdY80AlzddVI6QLcCMF-lNPV3qS7zjI4xiuwWiPtK8vKK-IxBgom172vUBztiprJCur3166WMYCxsUC9TJjCU72X7W-qxsuq_EGoq6an4lV8dkv0AQb29mZID3RmQGDGnq_Zi1sB2O-guDzvLdQpiAHDNxCA7EzZnkaO-3tE8mVcz1OAqeziZFk03QQu1NIJVlRXfi6G7f0spYmlOZ1F4KuVmstQCLkBGAYiDgoMTAtF8W0jrBIs5ipd%26ch%3DAQEAEAABABShnHzeI1YQw30whdeLsjupczhFC2y9000.%26v%3D3%26pg%3DZWLHSOA3EVEFFKTN3YDABRSNJU
+.netflix.com	TRUE	/	TRUE	1808143558	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTbrUXuWQ7h05l8oRM_baRWZ8nas0qPEx0.%26dt%3D1776607562826
+.netflix.com	TRUE	/	FALSE	1808143734	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+19%3A38%3A54+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1e3d8ce-d153-4f33-8e7d-37bac3a0c1b6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

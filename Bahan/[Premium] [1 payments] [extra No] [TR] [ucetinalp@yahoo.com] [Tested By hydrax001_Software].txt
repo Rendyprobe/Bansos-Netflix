@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rüzgar
+– Email: ucetinalp@yahoo.com
+– Country: TR
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 4807
+– Phone: +905353091633
+– Quality: UHD
+– Streams: 4
+– Price: 379.99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ümit
+– User GUID: YMMV7NVVOFEM7FJU5XL4HOGUFY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790249741	nfvdid	BQFmAAEBEIsEz2BUMDNy4Lk8TkYy2B5gfViffixTX-bhIHjGb2hpU8k2zBAb9AjYiN2iLO5-nSy73zJxL-Xj0bti-FN82nQHukn0m482BvLuiYr-Or4L3Lx5Ko4D82AjftKCSTQcA9Erxo3PSYwQMDLW9yio07eH
+.netflix.com	TRUE	/	TRUE	1807149613	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLTX8U743joIhwn1t47VTGc1lFZOJ8-Ig.%26dt%3D1775613612381
+.netflix.com	TRUE	/	TRUE	1807149613	NetflixId	ct%3DBgjHlOvcAxKDBODGBjVbFlb8ZItpMmVu6wDJCZUeRwyIxHoefERq3O15R6D03SYBQQTwGRXCgJEC440jC6We4T_7s2k6HiQKCEAc371EJyrlmwtfsk6hZ1h31qbC27-zcaDwnWDzjWep1oabUyA0tF2uz_TpBcD7ah-acQO-_5N2WohQAfHoJ4s8OXGvyGiacMDkJKlS5qKOVS1hepGJ5V8Tax5TAIn2BX0NTpK9VM3H8mmcPElzzXzw9kyfF85ED-vFx_iVCobCBfH6YAt9fLOWCIZlmH4OSMHQvjcwNDGARbjoKf9xN8lEVTf1QtebuJBW54XUwJkhHuZKqGwfH0oTBPPW6IWbo9bayA6re6Cu8IrTLR_xjQx4smCpSY8FpK3srBAYMuYdED6QZMUel-6uqjBOaBccU0ImErLfnyqdj9rk9c1qTBEgaTMJIycFvSZRHN-Cgh4SQbqSo-pPY9a7qjGvfNZ3FRxRQyJtDD3MDAtIntsSB41A5yLnHe7CYhS7HwoxxCOXgvY9lliG4S_tO-ySYMqGgsoe0KmkPMcztqy1m_RYcOpNSBJ1ljTWwCqARYDZZz60htd5poyOWy2nFJd6-PWFtkqDhtfzwymQcmcQTvv5WKp5PRXfWAh5SH_aK23LCBwhOhiXTEfNxWKlECeyxbwtT_XLET309GUWA2-yJK4rOeCPKBXwGAYiDgoMBktMUB8PmLBs2nVe%26ch%3DAQEAEAABABQBpZ4XbT8w_NSsnotrc3ohBuD-vy707EY.%26v%3D3%26pg%3DYMMV7NVVOFEM7FJU5XL4HOGUFY
+.netflix.com	TRUE	/	FALSE	1807149613	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+04%3A00%3A13+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=729d1f5f-d259-4323-8246-ef7ec7f7ceef&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B25&prevHadToken=0

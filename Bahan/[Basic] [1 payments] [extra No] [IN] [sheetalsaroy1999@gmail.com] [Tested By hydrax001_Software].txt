@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sheetalsaroy1999
+– Email: sheetalsaroy1999@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sheetalsaroy1999
+– User GUID: Q4HGCK3CARALZI4NTZHSLETFBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798958569	nfvdid	BQFmAAEBEPOvK26HXxju5HNQNO8IffZguaWcs1o1sJDQE5kfh9QBOKERJnQxUkpYVLWDuOfWsSzQxK8BWPqF-ntP5T_C5TpQ2xjSO0l5HZxXybZpGzOO8ISBscOzKgJBylPNfRKgghJlrIv9aUwdw5QtZoycwu6R
+.netflix.com	TRUE	/	TRUE	1804305373	NetflixId	ct%3DBgjHlOvcAxK3AxBDHN__78YraYusW_d8vnwKGIcgvjlPIp2g8egrRyJvoyxdMW5CJyNnHYZyzpKpb50HWdvEicytV1Ag1rm_i70O3J_P4Kr5l336ATk_IJqEoiKz9-ekmhH0jLXPBfiBls3wgMj1p6-3Mn-TjF_KwqdgH6yTRFquO4Afxh2dQosH6aGlhQa8bzftflxZKOaFl4eSR8ZQwJQUV05GLfUnQqVC3-cIKsYlq1Ptasi1TMR2gbDwtz8ZjnLvwtKcX3tYnL21KfZ2k8GZ56zvyNRlPrI2dCq82mhJjVBND_GZNh0kv76gCH9WQUA1TgM1psfci7zl3KqIyaDet2vYgt26jDyAa_pr2OgHxz5TOSnqG5wu2DwwRzZf3yXsnxbmwUUPAvUu1N3a0UifzGBBImQGTvKLpnLPyH63j20Fb5xcp7z21XaHlMCjuOa7rkW_2Wr__g-KYQquc6Tykh4lUKf3-KhfcQstB04eZdUmDlFozQzlWWQaQZ-Pm60owC3rb_3jWphgflSFs_8VsfjoYvk0Tq6DsUGBEzBinYPht-iBH7c7aHdj4fdg6J2adipw_HQ-iupKLm8PuAwYBiIOCgysPGi_2aVQhnH0Zqs.%26ch%3DAQEAEAABABRGBVQorefXzFUvwQtV4Nnd0PholSVqxTE.%26v%3D3%26pg%3DQ4HGCK3CARALZI4NTZHSLETFBI
+.netflix.com	TRUE	/	TRUE	1804305373	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-NyksTc5cc0uvP2dT3cV0D5TQTLvOmBs.%26dt%3D1772769364828
+.netflix.com	TRUE	/	FALSE	1804305665	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+09%3A31%3A05+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68dbb337-1e7d-4508-8c50-4e8be2710536&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

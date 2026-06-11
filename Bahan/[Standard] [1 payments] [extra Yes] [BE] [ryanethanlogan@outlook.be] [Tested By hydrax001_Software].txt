@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ryan
+– Email: ryanethanlogan@outlook.be
+– Country: BE
+– Plan: Standard
+– Member Since: August 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 5855
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: €16.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dan et Van
+– User GUID: 44ZQPJ7EUVGVZAXKBJNEZK4SLU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807752146	nfvdid	BQFmAAEBEBokJEDdLK_6IiHuvj4o6yZg0lb7H2nK4y00g4n-JrJZlIQlAH5YUsjkXQvJVKyqSBVIYWGOzyCrlshwjBD-c5wmZNIIenkZGm0YwbhsAKkdrRlPukFjCi5PsQGUtWNKawGAht1gcjN73BlzvdH_3aEM
+.netflix.com	TRUE	/	TRUE	1808398445	NetflixId	ct%3DBgjHlOvcAxLoA2vGdueAYu_9qXg12t-kIcZ6YZt7YvQNbwqWV7RkHDypLu1Dloh2ppdEDPNW1swiRkOx_-p5BLps2z25-vCijpRdcTn3sOp99P58PbGQqbdYlNoXRcGYsrDE8G3kCpM4fd0uJJZx-2bqfvQcQ5wospsft_-Hnm8APS8Pv491aLt_44UBeS-v1YqH-XlxWu_L542E1rcfAxy3qKtShIrrWJM9mV7OgPldmCiSRVVI294hXWIeOYDNJJb7pXpAiG2fJPhOJZq_Oeb6-0AD9wcGh5062KY9SvTfB6wo7ydUJkEmnoCMa9ZnFUEeKj2rNYnWMVUCDjIdk82Np35Nfo9WhEbHpMrD3J-0lQeiF6197LeNDHCrBpfQ1CM5KssGnUExLojNq6oFBa5wsqieqy4sqeC9Ni5o3Toh__7VyELYEfT_VgBnQOfxUrDl50LIrs9jeKx_6pvRHEYnUPXXfl66hWbcq4BGk3PTXetksaNX5XxuYJoMYom3heJrfQ1-Qrm3W0hcHPfo2ivA-8yl_JQA1sNrvKKjOft7CW1HwDn62HEGPDzImrekrQ-_hPDil8FbCzac2JDK40R60PvCjfuAylEr-4cRM-M-AoGx2x3zLtKqcHIQlyQqzl6K-PvupSyRCHxi-Tb1qJWjGAYiDgoMKzXmJ6YbDzCojQ4u%26ch%3DAQEAEAABABSnZePHlbIuyGPlCBQ2VHI2C7n8JkrR2nQ.%26v%3D3%26pg%3D44ZQPJ7EUVGVZAXKBJNEZK4SLU
+.netflix.com	TRUE	/	TRUE	1808398445	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmewb-HW96_d8NC9fIJ1_pqBitW75dJ9Q.%26dt%3D1776862448971
+.netflix.com	TRUE	/	FALSE	1808419983	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+20%3A53%3A03+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34e7adbf-c364-45ae-b44d-4a50b4b73189&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776023980362&geolocation=BE%3BWAL

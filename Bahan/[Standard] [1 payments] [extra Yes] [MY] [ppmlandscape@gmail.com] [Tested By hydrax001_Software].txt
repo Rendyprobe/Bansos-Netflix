@@ -14,7 +14,7 @@ VERSION: V2.0.1
 – Phone: +60184034057
 – Quality: HD
 – Streams: 2
-– Price: MYR 49.90
+– Price: RM 49.90
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

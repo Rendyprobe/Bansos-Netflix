@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Snadder
+– Email: ricbren@online.no
+– Country: NO
+– Plan: Premium
+– Member Since: juni 2017
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 8827
+– Phone: +4797511586
+– Quality: UHD
+– Streams: 4
+– Price: 189 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kjell
+– User GUID: JQYDQ2MJZBG6TP5E6PNR2TYKQA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1783056510	nfvdid	BQFmAAEBEBppWAX0AdfQioTe0J5Kj5FgnB43kWAjMgJxI8OewcghetDy1ltMx5URxYDkXgBsSAuGoqchP81Gkrfk4xqRI3oePfvwZ94DpsApJ_5KWyspxYRYNtN_pBROnWuJx-z4DxCP_8lltjXRbDSEmB0uBAv8
+.netflix.com	TRUE	/	TRUE	1784840920	NetflixId	ct%3DBgjHlOvcAxLjAwPMdmSMjqdaYRT26u6_YuQ-H-YCY2M6zYt7zewrP3g98bxer6A6Jaa99tL6p2D5mUGiQmhpFZCNY3rPOE4SHD1A9sTAo-oq8Z7y_TqmqLhlTDViwHUrBvmH18xCXcJo_7BeTyWPAKdTWKolNL_RDoa-3jyh-1cWUmP3A3U3ZmMVLDHBcxoO2U8SLnUTECigusWd3BrOiox-OUIbpRyIZRNtNXNv-OmEMUNKOaR4S01lE3y2uUa4HYxx8SFicpSCvdQTu35XlU7P6koghqxJqX8hlBdn9RpD_TSjN8tSWv4FOERE4gueehPDdDvkdnmq-c2noF9-_mI4b6EWBxK43Sy4C6DiIuygCr7FSbcqrfZRYEl_toeqc1ij3j2BWz5VYDr5EPn6scl3V0a72ay2TPmEa--Q9PFUs9yxCod4doU6zciYLqs4k8dhwvqY0UshBGHTT5yDyQ3y88Kqf74OyPSusz55pjT1kaP0uyQJAxNs53Oc_1O8-NSghGVwJkVRljJB9YS0TLqFaeVV2uV3AYvInPD1gQEvFMfk3sQWAYMcUN_Ljy-wg9oLwJqYgv1yzomhI4VfA_YxQeY_uF6aTdThxEcV6rS1EwbghEJJepa0-YzOAE3KuieWDpKZNCzBVfCmshgGIg4KDBhhOZTA6ObpmLkQHw..%26ch%3DAQEAEAABABSeYLHkvDO-6-VyIRGShDIAir3nbAN0Mbk.%26v%3D3%26pg%3DJQYDQ2MJZBG6TP5E6PNR2TYKQA
+.netflix.com	FALSE	/	FALSE	1784840920	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+23+2025+23%3A08%3A40+GMT%2B0200+(sentraleuropeisk+sommertid)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8c9c388-5772-45f4-a33f-da227f9114bf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=NO%3B42&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784840920	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEI88bYHCOiToV3F6jZYAg0bEH9pk9kPI.%26dt%3D1753304921473

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luca
+– Email: nitda.garcia@yahoo.fr
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 4649
+– Phone: +33648743981
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: NITDA GARCIA
+– User GUID: NP57QXV6TJAV7NCNBNX3OQRWHI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785440998	nfvdid	BQFmAAEBELwJ_12oMw3SgYrzXS9mLyxgorRdK6JSYSW8ibJlA2fXm3NZVToTRYAlOYuoqUZxYSMwYxrHsEg_iDI_Qgc1MYP9jXonpRdUVes_VjeKrCB06Wf-AI_lhcCq8eHDIY_sc0WEitp3zHNjgjZMz3CGeY3A
+.netflix.com	TRUE	/	TRUE	1807028755	NetflixId	ct%3DBgjHlOvcAxKABB_V-vlWv9X_Z1FQoYTbNMrFLoUi2qp_jA8y7yYYDW-GktT1bWDp85IFm28xVhkK08EaNnpPrrv1-nCFYib4z3YoHo61mgJG0Fh1tBRueKo7WHMPf7ZHSIDBLKRTCe4QrjbuVk-xFlic1tl8uQMJ-ISXgfrFlnWl2ZgXnBVg5nHHd_Ud-ihc4iWukFZ87d6UKP5XK3XCodEPUmlmojM-52iUUJNXWtwZ-K8oGHy4TP4ARbTqe09jTVkEdOKgL3lexoEiqnvrb2QaVMDbyjSmNm_kVBv2zte3crWJ760Lyg5VXo2iJ1Q9ZUFt1T8fszqUtUUq6Qapc5Vy6WQuyRV1Y8d-BxLFlN5O8_UX739907KCA2BbfO5S0ogqK-E_19BoYXLGYASjrZrMOFNQOz3AHhWkc425Pgr43WkiqASPPaV_iBOOieL3Fzlg1TI-aDnHLIea1fn8BQWGPTo0YSi9oN07G4EO6kdK53VFZTeR0kshsr8FBrgYCKWIWmLreXi_HLGcW2TAO7x2fqgQqJnUXr4KZYbxfkiCZlIS9bM0cXiUVbYgiWzcSfXA-MQFChs8dSA_0Tn14TQzJIqM01VX7cKhq9fNSqLTd8fj55SAqNMDE-cLdT0p9zB3432xiKCOEiFrVMY2iPfNTA3zAgwPcbOrtm78FCYghai_jNUSS4Z3GAYiDgoMq84ykDwYh7SjKK-1%26ch%3DAQEAEAABABSnQDHUwpQGksax3I7SDD8hulTnzbY9Ya0.%26v%3D3%26pg%3DNP57QXV6TJAV7NCNBNX3OQRWHI
+.netflix.com	TRUE	/	FALSE	1807028756	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+18%3A25%3A56+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f499bc0a-1f7d-4389-b6f4-926fb1bd0b3c&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=FR%3BBFC&intType=1&prevHadToken=0

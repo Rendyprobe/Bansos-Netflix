@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nzamukunda Jolie
+– Email: nzomukundajolie08@gmail.com
+– Country: RW
+– Plan: Premium
+– Member Since: September 2024
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 7606
+– Phone: +250787109591
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nzamukunda Jolie
+– User GUID: RDZADCFWA5E53K7EOKXW7S5RBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792486304	nfvdid	BQFmAAEBEJ2r0jiRE6gUpgYnxi2Ha9pgu-MoirL3OlnIB8mbqasvEYriHbl5hJS3_pLaR4cXiIQBUkV0md6Tsb7awjN8rrVIpgC8khrzwz6Hml1WYTDj-TUTr6bZ-rtktjuUMLe3_jgLJp7wxmZ2uuRuuofJR5Pd
+.netflix.com	TRUE	/	TRUE	1810157919	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA3IHJ9fwnofOEC3Fe4yUXDArR42FwFUkwChoap4dN2iWgCn8agwoFLEDCw5WylqCwL6DlJRI6d-aInxGxaKeH9AS_KDTQf2PO_rgquYiZXOt2ubBrimuHGPR9o0AjDeHOMIMi4xW6H8ioiMWfoVKkwoagYqkQ-fSwrn5i9f79LB8OfnUCwsebozC1Hw8QwlVhvu44yzxwDLsa8f0iSaUyrH5Kse6YV2V206kR2_0v0XKZMKXrMzHgMHBJ6B_wjWPXxT6xMCcJSrPRpbWXCUhKlt-UI93sSnT5jbXbbT6EI4vJClnhR4CblGYzY7_HgeuBqggLK67gVk4cADkkpauZeuK3pzpOur8TRhSoWy1fETeiaVnp9l3-u7xhxJyP7nNIlGXTmKrReAPJYaVBnhLFdjXC02LAOOXhdCFF7Wa6ascBXTaeOxVodCN8uxpoDax_jQfE0souaLCq7ty8CH2pCosCcI9zycokKv_dNArY5MnVOE6ai_9n_d1D5GTxxfs3eE7AupPs_RgkgKEeGGhJJLChTKtX7xlfI-nmKFIwVx6_-GOtxgGIg4KDIe06bkjvZKlsvI3-Q..%26pg%3DRDZADCFWA5E53K7EOKXW7S5RBY%26ch%3DAQEAEAABABTmLmY_gJd2kDHIsHT4_AaYZfpptTs8TGc.
+.netflix.com	TRUE	/	TRUE	1810157919	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS-qB2UIuzeMy2Q8Dalk2zuy1Osg-zKhAo.%26dt%3D1778621919432
+.netflix.com	TRUE	/	FALSE	1810157933	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+23%3A38%3A53+GMT%2B0200+(Central+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=800ceb94-082f-43c2-a101-268c37989ca2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

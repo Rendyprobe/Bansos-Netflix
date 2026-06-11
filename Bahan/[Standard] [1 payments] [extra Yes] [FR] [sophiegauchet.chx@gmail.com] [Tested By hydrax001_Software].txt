@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eymeric
+– Email: sophiegauchet.chx@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: novembre 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 2284
+– Phone: +33661175084
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: So
+– User GUID: ZNJDX7OV5FA5NCUP3MDG265XTI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802630234	nfvdid	BQFmAAEBEAEscuuDixpnG70Bs31jerBgsEkni3sBR-oAr1UVTKLTLiIzIffvvfJOLYRpsx1JLrio0KnD2wKbsaaF8AkfpdHHK6MrhUFXmjG2oUVtw2KC--S38mRdPtfEYmHXy_t8trG-h0-h3wcmItmHbmPNjkiq
+.netflix.com	TRUE	/	TRUE	1809017210	NetflixId	ct%3DBgjHlOvcAxKxA3qrEoLmtahdi_cJdCvnPK3_Lar-cVCldnTVXqteDFN76a-U0RQVoyFl4FeqZGbAA3vaUYKGmuJUs-fwEFIUXvRr_4E1CoPbeO0hEjvgzKE3Kcj_43UAlsnuvLpT1aZtI7NYZiv6h7odsONqfGrS7TmxnJU61CBO2HLKUxotGJXU8ZqJzbgY-h1HSp8zoaP1JqIJH-3NwUjRWIvM_dhX7mdTPL-5JPosjBTiGdT3fyHoB8VdhailDYyjL8_ZVxBTW16Jmo9SEmjyVqhv10Pc9tYUude6w7dH06OZxdxVGvfih6jwqeByP9fg8wqWDN3poNMzLHnRHvInD4dIhUsSG90GBeUJukO0ef88_R89vShwVHQepQSTn4p09BmqeXTxuOafLIzMmI0pBRCqN7uhOyZVk7CtKWZVhY2JIxGCxRl-j95uH8_56xUJ-fGjxXLHUcb-1slGrnPmhO39I0W2uX1zUoD07w3QhYfvAVo4_WLq-D-fuAnrD4AL-3hjM3eNpXdmQGLTXqmI-5lecLrUR-tqQhNExQEbwybd_ftu9iLXwiYQ_vg5xEnc0Kb37fE08foYBiIOCgzPdv5c67PQ1splrwc.%26ch%3DAQEAEAABABT93xv5azmM53HEY91yuoE1Gtp6aYOTDFY.%26v%3D3%26pg%3DZNJDX7OV5FA5NCUP3MDG265XTI
+.netflix.com	TRUE	/	TRUE	1809017210	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0kdnj5MmKsX0YYscjCZRrx3987zrvyT8.%26dt%3D1777481300485
+.netflix.com	TRUE	/	FALSE	1809025085	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+20%3A58%3A05+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=967e5c57-cf45-4357-88af-d79497195d57&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF&isDntEnabled=0&prevHadToken=0

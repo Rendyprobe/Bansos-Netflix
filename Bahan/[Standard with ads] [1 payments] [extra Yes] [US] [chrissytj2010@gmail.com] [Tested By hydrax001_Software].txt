@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Michael
+– Email: chrissytj2010@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2024
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 1908
+– Phone: +18455462842
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Christine
+– User GUID: N5JV4QXQWVFAXNXVSBGHQW5XRI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801365635	nfvdid	BQFmAAEBEL3BkUWt0iK2meKD4LPLJABgu6H7YhWNDeONJgCd4tlocH-Z3q4_9ajLBdCr6nXWwfRjtzVLoitzXtxJk9_s6CKdl0lr_0Y1N74D1ybIC9dzF7tLFMjzbbZNqHIeUrbtFmLmOZjEYfDNV5tsz7P9Cf9r
+.netflix.com	TRUE	/	FALSE	1802752434	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0JX1sca4OWGDjijuJjxYOSZrl2RSZPgg.%26dt%3D1771216435189
+.netflix.com	TRUE	/	FALSE	1802752434	NetflixId	ct%3DBgjHlOvcAxLkAzMBzkNk0imb_4OLKJEJm3twZiABfvp2J_xkT10ZRWuTV99AEJySxxVBQ6In-_tSKG-cjVRqMZ7TQ2VJEiB2_xD1YJm-p55dR-t9d60imKHu7tE23RJWuxBYMriWIAMRR4qpLdzPvDATnFwEoo2FUfpf_6NmxccwszaHXUCxrpycEYDl7gwpzORqvA9Png8TWh7lYJSLUuzxQj9TtzkPxaJAItBaDfb5kQT570ytTSth2SFZPsBFvN0EIxcV_m7AWV9hjTv3Pg-V-wiDUeRKvy6Vx5XikUJHezTtyrrEFwJamkIiPefro9rilb9boOOhRqaqpkIk2SY7J5NPENn86Pr59F1GTtWLV8PtgkYwNDf0KMoF90tZwAIeqB4E0OuKYVtuTKRAzjBygpHSXQ9Gf2ntMcB_GtCvmUxoFGEvbqdQYH8i0alqiTFLP1TZgtcmSS5ErM07hjAZ0X1yLG6uNgZH4nKHCus47wz3KLsmFDiuCOD5ndf06fF4sJwwN4rjC53GgUmfi35fthJKf2PZ7EvsNrFfVSxoYzxtoSiw3sp1CjEYETbg8Ot5v7_2AvqulFj-yGJ7cloN_bwD1n-eHujIPFDELPhCAUmJE56ocW0wVj6zUbJyGBA3MMfIGpcmviHbr9gYBiIOCgwhQuOWspdwKLwMY3E.%26ch%3DAQEAEAABABRgQPMbOPdV6SCCqp_BzjCD2xVuz-lweps.%26v%3D3%26pg%3DN5JV4QXQWVFAXNXVSBGHQW5XRI
+.netflix.com	TRUE	/	FALSE	1802752435	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+23%3A33%3A55+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa58923b-1f33-4465-b68f-1c5cfb2ecdd1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770674428487&AwaitingReconsent=false&intType=1&geolocation=US%3BNY

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gaurav
+– Email: subodhmall005@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: 2026-06-24
+– Payment: UPI
+– Card: N/A
+– Phone: +917024646892
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gaurav
+– User GUID: JEOVDIBP3JCD3AC46LFKCKDQGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795465950	nfvdid	BQFmAAEBEEPU2owIMiB5hmhWp5SW7tZgtoimsLVBGzKdE1mrljyFp6h78HSYr2ApSNsFBrCmM3Ph3QCf56q0JWzdi-LPdUGEg4z2leNARRLptQpXbZlsOjS0zjiseXprDOe7N033uwx20fPOh2YuXtB3nW9oE5I1
+.netflix.com	TRUE	/	FALSE	1807105359	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+19%3A12%3A39+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c36410f6-70d2-4b65-b452-0abaa4d1d6b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809362757	NetflixId	ct%3DBgjHlOvcAxL7A9shKZWZbe3AutFZ3Bx8KGZFM_U-lRAwUjwEjI2lQdkspS5yZJG7_cIPr9zByOsy7yRvczXovMYn_HpkZtbExaS5hpNuyvDM5RFWsxhcf2T18x6MCmqTX3aWvMqxeFNGuoHfAi4f3dYLcRCdko2JoaATQYM8iKX2uLgLMFCKE-AzOECWGha4QjZ_zjWX0rlUkx_Hho060aADn3OLB5kGhMHadTdQENvOwwgtXwmXnEGz-XiEBnDLzErgqwpUqP2fat_3oEKFY7NvLxBSVHCLhEBeHTrJfG6xl-iz3cP8QC1qxDNonv_g2WpuERs9s38BHV93LKDVnj61z75--t1tQCJYs9pi67WvtCMTOpL3S6YKNYlXbz_cAri1h3e-xTC17fmN5dITyFOLtLDJLFCzKkOabRmGbmTYT_WRyY4KW22vc249XSoljWEw8vAIScLfYZA2sasJug57fAoujXhQWaJQLRnDOQlOHm04IE1Dl6UVCrbODAyjZ5raVxSBgQnxBJMtkFvVtFzqq9A2hbYpCTrAgJPUG4KZ2hF7PPWtHewswszgfZyGrcWLZyMtJK82HmWHTW2vM-ggwusAdN2FbS_DrHDWiU561EU-D5IhCzIYJtGd-xPhNXiFW_8trMeBcortblvzRdidiWmbBbD03CGkPu_WYqN3w_T3sxgGIg4KDH6NOi-sT6nhPKWzDA..%26ch%3DAQEAEAABABTyz1MtfCXZoR7zs7TrGbP8gbZUplKlT-A.%26v%3D3%26pg%3DJEOVDIBP3JCD3AC46LFKCKDQGM
+.netflix.com	TRUE	/	TRUE	1809362757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSc0xGWRnTfKIEB_jHSpS1Mo8qR3Za6FFE.%26dt%3D1777826752396

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hi
+– Email: dilbagsingh2595@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2022
+– Next Billing: 2026-06-23
+– Payment: UPI
+– Card: N/A
+– Phone: +919417575976
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dilbag
+– User GUID: TKHV4LH2FRCIDFM5AJKFIRLHJE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788104125	nfvdid	BQFmAAEBEKS4uWk2fdrvARk4SnFqWGNgo-kDjjSi4CRYAQiaDyU-6MPsufG5k5n7WF9Pn0YqPqEc67b68MTfp2_ZNw3jhInRs3-k5f3j2_kUyR5PTJ_ke02z7OT2JrVhpDzkgYVHDCozGQ7CttUe8gwgF3WQ0NnM
+.netflix.com	TRUE	/	TRUE	1802580412	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AsMd7ntSyjqUuWNRbWeMoWJ4Sfaliw6J9sgIVsxu6DLFOXjERsX-P2YX7itneoMzVxEUlbypC0SR5I3RSXh2Exnk1-NxYsMe0cPehdZB9z-mJVaV67wmFzhEWE63UiQbVzcVTTLvltlpMvWqkozDfjfmTGho4pQl1Y6gHUj_m_yR4OS4I70XvOcnOha5fGbAXApS64-a917DiG9nIZsch5dexHHCq0At5zGRLC-cyFTCcxpqo2XLwj5QvEg47I6mMQY2J3JiZX6dUjfvNHk5H-otCkHwXj9Dnk9Y36_rTtPbVhmabC2PopYp27pa0Bk7qy81TopUyphVqL6mRcgQCuWV4J6Rr6hFCjFDVjCPVl5Ao8Zf8HGhyY5zo69_bn49F7NgYhXVHo0UXUtX7qsZmHKyxBaueGfojkBfwHhJUEBgOE-FgihqjJWEoTqN7NGykP3loDBdHTQaAZA9oyBBfE5Hq8j7wxIYsRcSfABKn-k6zQKaGPT6l4qxGAYiDgoMSGN1-Lyd7sMFepBW%26pg%3DTKHV4LH2FRCIDFM5AJKFIRLHJE%26ch%3DAQEAEAABABRk_5YchOdjaaCQuJ7hAjl1SiI0GvdVW4o.
+.netflix.com	TRUE	/	TRUE	1802580412	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQm5BFiOz1Npijk2jmqbVihXNRV_NjXhi4.%26dt%3D1771044412602
+.netflix.com	TRUE	/	FALSE	1802593807	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+14%3A00%3A07+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e39134c-788d-4a9f-a5a4-62a8bac738eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

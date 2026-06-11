@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shashi shekhar
+– Email: shashiyadav7629518@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2024
+– Next Billing: 2026-07-04
+– Payment: UPI
+– Card: N/A
+– Phone: +918340780044
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shashi shekhar
+– User GUID: SRBPTSLKNVGLJGAHTIVLQSD7HI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796252680	NetflixId	ct%3DBgjHlOvcAxLRA5k0iY6yZI-gXi9vSh8Ae6IrpzUZRIIdWLM767szQ2gwAOtQztTP4GIQcNUeIZWOnC8YjQQYWEn4mPWlMq4uqnMirXAnwBiL_M6lnF0W2HFBkCb-yu3MEDnniKbspYUTbiujyvwGSfeKVlrcFImM_Ps4kwh3iYnZE0en8zzsBtwdDTcJa7LOjxMzKV6J_xDeOO1mKD8rd5j1mOQqkI_Tg56NUxq2w5fNKo3O3kWMF8bELUCOoeHI9lbaVuSOe9YX3FnBHLtbIngfqMtUo8kYTtbj47q4TC74kwbtHG8CIvpwSe3oIbL1jWNPGhBCuLquw2WBusaqFobn0rTieDWx4Exp9hrleOZpufyYNjN2FyvxT8v29bdXMJJiJBuwPWh-Jx7rjfupjqphNeJjw14LVSHE6rqKshRDyL-W2TXfQmF5VTA9DVYXX84-NhzZn_tfodJCzgX6HJWbQW-CeNQM-BW2DUdudALRq4fBgEVyvSrY_bhu72maLSVXe93jE5RmOxwnIzwP3_HUTjpU1wzIhxwrVddOWKzrnDXzIDtyk0lX2hUf7PBE7IRW_6EUnDhWf9o9TWl0u1-fjaDSKFo-YDuz6nFPnL1m8IeZc3blm4azVRgGIg4KDOJBJ0Z0oBZei5Z9-Q..%26ch%3DAQEAEAABABRhOIOS4nJIxP3U2apAGoAFFA_fQkneRIc.%26v%3D3%26pg%3DSRBPTSLKNVGLJGAHTIVLQSD7HI
+.netflix.com	TRUE	/	FALSE	1796252681	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+03+2025+04%3A34%3A41+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c6b75da-180d-4ffb-95d6-ef4e832dbb25&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796252680	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0kD8eqmJvkVJmRuGWS_AMIwH6Ch0NlT0.%26dt%3D1764716680597

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ahmed Awad
+– Email: ahmed.mogheab@gmail.com
+– Country: EG
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 9568
+– Phone: +201004593309
+– Quality: UHD
+– Streams: 4
+– Price: EGP 240
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ahmed Awad
+– User GUID: KJKSPEHGPNGGHPPRTITINC3DGQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808085876	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8kqORuQ0UArtZ7FSAIQDkNfTrNWKQS9G6C3WTbUbvw_je33Lr4vYLsdA39xbf6UyoSFiN5WuPtoQ0dB-pA8Cq8LgJndBD-2mdy3rqOoRxWinZBOA9PlfMQJJTi8q7EGek-h88l5GIvXzjm7vqiN6IyHqvFU9DLioryqJeIiWPqnQV7X8R7l7tVo6mZfea2OysdzCmXuWlILYzfs8K6fp6EY0nVNFmvxhCsJJYoOtmsJF86sRxm8QjmBRbxhcELUq57JVN7cnfUU_KZ3-LqXR4RdNIJbWQNwD2XdGKR0qhGWaFPq_aen4W3fJXxBQrSdbR5kOsmvQBNvLbvppYwFkdqvoLSD6Nn57lwbi_ZEnigt3fyTbCXYOO00nCPO_TVETS-t7w-OTPf-k_mcrEwOHGtF5q-ztSEWbAQJj2sO1iOGc-VLPx0C6-p9FU5TwFVMok9OVMydmoaQ1Qx4CUmHZpdpFCyPDJHAgqZLIjUexAOcGHQOONsU74CornZYVrNEXaaBYrqwdnkWtlpx9roUzXSvtIcNo-ok4B8YBiIOCgxea6XAerIpRUoWcBs.%26pg%3DKJKSPEHGPNGGHPPRTITINC3DGQ%26ch%3DAQEAEAABABTVnIisXAjwhTLlyP7pUQlo7vdVU68SFQw.
+.netflix.com	TRUE	/	TRUE	1808085876	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ55q4W6uIz2LVv_1ILmPNd4ChEHkogckk.%26dt%3D1776549876198
+.netflix.com	TRUE	/	FALSE	1808085872	nfvdid	BQFmAAEBEOS5jRNMvuSKerzpDfNkMsBgcskCHeboyr6SloHocHzAziwH6K-qke3HuGak1vlNWINReuLOTZYtSYkkKd-jPwQEcAIJogfA3Wg3ZEvZd7-0owbenoajLy1lffVj9LTdlq-vSo_wCeoyhfcnAyF-6XHz
+.netflix.com	TRUE	/	FALSE	1808108295	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+06%3A18%3A15+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bdfd139a-4aa2-4575-b69c-a50de7bb3a26&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

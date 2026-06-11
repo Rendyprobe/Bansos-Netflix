@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carlotita
+– Email: carlotavieramartin24@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: abril de 2026
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8330
+– Phone: +34679341885
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carlotita
+– User GUID: Y56CP4JNVJGRDB6KD7PN6MFPXU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788192478	nfvdid	BQFmAAEBEEG4zGid91M19BYvpUvNhzZgorRXZd_eqDh-BzDXlx7wI7fgHvqmTaOKMJ2_Kw14FaBN4qzke3iF314YTDi0yYVCD7riwcHhfK6aUhHWJ-hjVGasPZSQ9YWKbX5pf6_7rWNnUsaZ9H9RKvSHKbftiK7o
+.netflix.com	TRUE	/	FALSE	1804863563	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+12+2026+14%3A59%3A23+GMT%2B0000+(hora+est%C3%A1ndar+de+Europa+occidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=40701dc9-1949-4a04-86c4-eb98eaf4efa1&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1807134385	NetflixId	ct%3DBgjHlOvcAxLrA-Doo4Ga_6jgn4FMoLiss8ywbJ0TJA6Of-vHWEA9Paq7yIWEV3C3r-vmcLK0Eae1WxJfOtsLoZBefUjMJMWX33GjAyGOuKANoMCph-jl6ikD_xhpAx7rpt1lsfR3zDwFq40h8GzhTJ27NS8CwlqDMWxIWlOC9CEVJn5Y5KkoggdvdQmfmREFtw-Uf1F10U9UbuyI14LnUGcZL-1L9J-wUQy7iGj-LSESE9XderpFE4a9GMHeB0VMwBgXtbLpVfgG9hR3di9sRXdn92liZz57LZgHw0whdervYVPXO_hiRPvsBjg3Bq0vmuMbQnrpvosffm6S_7imMjnjq8fd41W8yFIm63nSaXoNfuoC8r3nYw1r6VXFjz5e9fFriSo_AKoeQCSTN4Zl6RzLKCD4RKKRKhdwZGMh8KBSnARGlgY7MtI8YwwG4ndyvL2ruAOdkeCTs2Rvy2yuq03v2_qKaV9i_KoaYOBjREkXqchDMqIfx0MrO5bv0PiURVzd_J6aBP-6AMF7JStkK3-OaO2gPGkpvYAg4ty4S1CzQu3E4mKXqU-DRH3Lf_vJwnqnE0VgFllCu0vomBcRHCJ82bbHLHeyxXQbSx6QDnHvzHreQRjsqWbTug_plohRY3CuK2QaJWTpGRUfi8LquRFURFaeGAYiDgoMau7-PWiH0B3mN-T1%26ch%3DAQEAEAABABSatAJfFDqIN1ntzt9r5LyXZjA-xBPhuNo.%26v%3D3%26pg%3DY56CP4JNVJGRDB6KD7PN6MFPXU

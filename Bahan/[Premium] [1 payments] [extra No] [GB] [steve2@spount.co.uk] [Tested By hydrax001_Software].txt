@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alex
+– Email: steve2@spount.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: October 2022
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: N/A
+– Phone: +447577428117
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: steve2
+– User GUID: IFWEWVILOZGMZC3MXUG74I2EAY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789845131	nfvdid	BQFmAAEBEIVOq9kh9XabCdG29xfFIiFgyYNizDNiZXI-e89fgrtZTETQdm6XLeAKEcVxK_aQvWozQNtI3xO05H3Iy2-u_R9gdvdPnBLrIMKTOR5yqIG4T8AvGj0gwzGSeBQl0HxS3_CRQudOZisEbX1pxW-nER3-
+.netflix.com	TRUE	/	FALSE	1807562896	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+21%3A48%3A16+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5af4c174-dedd-42f0-bf85-0a9174549e46&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1809902222	NetflixId	ct%3DBgjHlOvcAxKABGa2WZycT8i7kXfU3M1-_l8EHvvZro1W_tIWEXQCCdFl0E3BS03PDpTAXvietjov0N806Jyi6Z_1KUZbVFpTylruxAoQZ2MuHNaqH4spqTg-psOVUgFu1Fkb9niBVkGxcSs4gE1q8D5jR9N-3KiKmdV6oXUUNdGlf6fo5cM2KVA3IXGhwmfM0FAJUPXZcsT1UFruxJTYPJM3MmAt79ZfEkt-X2T-Jg0kvrFgXMqY1_HgYon9VFH30NcYROj4WD0yEHw4DMvajYF4xF4xUnzWO4tsfjUHT6MMx1RWRDzsgqG_QclGmwKiyFrhuOcmCFXB-3uRv4WsSmG0BzXlN54Ky-MnRqJiSFaqs7DnRMxwu5lm_PEHbLxfeWwa7e7tmHHqLlZLv0MXoo5LzKNG9gr4tiC97hyRBprNj1P3fSH84vYdZxJP3-8-8ptxWZpLwfABuIloqwGZrFlg3yE3r0g97tKbD7ZWXWQ78rmhtMHJLFdt4QwxEkKW253sM6HssylvP6-T3ZisL6_txGaKCB8uBiTaUQsE-bnBFesVmuf22i_CKPCbS0sTQ_LQaHNAf_eHd0VBmJ9JK5EsJoUKXDoHasdY1Ig5oaYKk2pEhWQ9R9vaa0a6u7vS-tGtkWpvJAOhfV2ik8rt7NDdbGZbX0bxOFZ_Zu6OFbL5VGX0-l3F0FsPGAYiDgoMGn7NtmpOP9bZ9pxq%26ch%3DAQEAEAABABSgG-ccfs8Gh8SarLiGJAU_-NqCsDzGKWg.%26v%3D3%26pg%3DIFWEWVILOZGMZC3MXUG74I2EAY
+.netflix.com	TRUE	/	FALSE	1809902222	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcE2sxBXVRGE9J7s0MobHzI1DWV7M3qcM.%26dt%3D1778366222853

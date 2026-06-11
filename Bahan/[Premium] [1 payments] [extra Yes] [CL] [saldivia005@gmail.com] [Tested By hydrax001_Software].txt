@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zavinho Elmajin
+– Email: saldivia005@gmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: abril de 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6537
+– Phone: +56921777321
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Max
+– User GUID: WJBK74BOXJATTCDAZGP3JE4OHE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803182616	nfvdid	BQFmAAEBEL4ePlUVXYvqBWU6rXFpE5pgy7ZPSioBVnZCu9ZMearPdbHPhmiZFwlYVIBtSTkzlS28IiUbyrIwqAG6JI95rdckgkyT2xXTtUCw08rIbTFRuQUWefJPWcEh3KgqP-Z_Qj1X7GkxsdO7DWI9U5bSQ7QR
+.netflix.com	TRUE	/	TRUE	1803427810	NetflixId	ct%3DBgjHlOvcAxKeAy26Ag4cpylrDXPWQ3DOWpgBwV56p37vHb6Yt4NdRpyPFse1H4B7ahvKR9Ej0gABbYmAXLXGn00vagOg8bh_4Q678jjfkb4WCk3OJvdQggj28IB2aCpnutz1RiwFMcjf4f11vOfwl3yscPew2qMvGc6YgjmBjib5DxLJp1adA3C-l9sD1yhOgWp5JHByuHm7c84qBQBl-d_NzPiZSY7d3xhzEJwAkmsKoNz8RDEGeZO-3UycppBRSqq6u2stbc-EWFtteJq2a_L3-oHxRr0SXGvPnXPh0E1ZqcboTV_8KjEujIgQIr86afI9jkrE0aG2SNvk01c7nh8L8u-t7UOtvdDXzCe0rFJlmez1KmsJ7j5-4b40dq4Wd1uR5sKmFTQFztSlXKXJHDtJW_xl2eGGbM2Y6u8eQpfU6ViA_jeiTA61qoCNnRXSYyhAQFfEqFMU3Ejjq2M7cgeiN8Iu98saAVYUML3gWwZnQeS6UZEoqtJSfvShuRmznYgbJcONCwusskaUlrP9EOvgn_4-VjhxpRFe4ra4kCqmlumMqrTcPhgGIg4KDEPZOA4WRgFeMi4P0w..%26ch%3DAQEAEAABABQ_BXFmvTGM0ir6p9SWmdrNfVvtw2EkuTo.%26v%3D3%26pg%3DWJBK74BOXJATTCDAZGP3JE4OHE
+.netflix.com	TRUE	/	FALSE	1803427819	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+21%3A10%3A19+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e89a887-6b00-4212-9def-7d588527e76d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770565858337&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803427810	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStiNGo16QYXBjuKvrkEyZXgxuWwbuWvr8.%26dt%3D1771891808872

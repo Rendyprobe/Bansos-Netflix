@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 2
+– Email: herrysusanto778@gmail.com
+– Country: ID
+– Plan: พรีเมียม
+– Member Since: มีนาคม 2568
+– Next Billing: 2026-06-28
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281351920483
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 1
+– User GUID: AQ2OUJSAZRG3PEK62L4IV34BBQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810801103	nfvdid	BQFmAAEBECZGOG_-lQqo8iXjt3aTtQVgczI2IW_DKH9WQsre6Wj_rbKQA6cOmJ3Ef42TkDSPLsNAV8ivUCFfC5urO4hZkO1zjWgd0pFjgFWhZKfQcVfi9NaQv6D30thMCtYjSUUzypti7opr2kJsOUPkXpMGj7AB
+.netflix.com	TRUE	/	TRUE	1811356676	NetflixId	ct%3DBgjHlOvcAxL_A2DvVMnDl_ycQNigRBdG7PaM7MRy9tag-1WDdfHVEHKHwJEOXVZAX0SM0sV4qZDfSqKiUbtt2TpmruffpIwQ7ToezWq34LE2c_XQC2HFplbm9lnKHVL-cbr_jZHYKFdzyo4W7BMxgeeje-bfiJSZwtdFG1FIZmRJzQBuW4UID0Bv5dCXVNuhm8_vWMdMtLxJUHg7z4ZezEv3cwxiKda2w0tphZGuhD9zCPFu7_WOG09WCOjtwXYFZ9gHOgn-15_lVmI3S4DR8eF7qCaicrCJBjTqeR0nhgQBIqm55uYdjk5QbminSx7E1b-BiO-i-pkYOu9T5zUsgYTRVkDdGw-MWO4i0GbdpLLSP07VGpuMk7gbh8C33SPz9DVBv8b_Vud02MEKafACLoG8df1-oPLsOohrR68G-TwGXeHj8MPeEU6rPKtHHqq4nxoD3IX4dSQVRGVeKPN_gouez7NvwqdOGzVhKYW4OKUusyRDVDuC9lO8WSuwE47ubX0dJ6r7a_NRtRvmyi7c_2t2GOFYZV8p52IixaR8Rie_Af15PsBWS96axGIS6DGtRwoOsoRM0u8SQotBO8L44R7PgzuU9M4OJVOheB-ZJPuFN1TnCnt8EZI2489osXnbgq4omkQUuosmKJ6fIKXT2pXNb5NqW7jWXllfz9GwLFLgTDt13-_VH3kYBiIOCgzT5RMgDDw4DwigBsM.%26ch%3DAQEAEAABABTi37UojBMreT1bigUNrx6ObItN7bnOxTQ.%26v%3D3%26pg%3DAQ2OUJSAZRG3PEK62L4IV34BBQ
+.netflix.com	TRUE	/	TRUE	1811356676	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBnKSTelQO8Jpv99crox5zxCIZ971hcjk.%26dt%3D1779820676077
+.netflix.com	TRUE	/	FALSE	1811364471	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+03%3A47%3A51+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d915cef7-c23b-4608-9ebf-6b5e9fe3dd4d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779265091916&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Meghu
+– Email: ckjithinraj1994@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2022
+– Next Billing: 2026-06-18
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ckjithinraj1994
+– User GUID: GO3USJGI5ZDXFP27EN33QWWDYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798789721	nfvdid	BQFmAAEBEK3hVcZOrmHGDIh1k3wDKfJg6OmoElGFFxfVNlRJS3W9P0G4COfUN1_P_LRUEcmY6tNPOZv2giPDzauxKqsGpAs2-7HAX1xiCgeRNuv3FulPH3KckTQgrKnMvsi72JQr83ySQrztvArDBbztWbB-N0-C
+.netflix.com	TRUE	/	TRUE	1808219442	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAzoTe_GJn-SnC1489V0D2GCrbGwGiWraw1qlzhnQJCz9KjByO30xjuVElPijwiSAupZ1lsYc0uWtr6nMdHap_UESpfnh1_4NawJyvQ5c0-FJr0-dpPyf3W-437ec49VVoWosdUcVrcjDBZ90wyyYbrPzDW2VyQFjDIjNuKTOTIM0_8wMoc1Z-RdDT02wg9LGl7fyr4UwBVRjoOhhIrVWL0S2ES2Grra9No6ByLK5y-bJTHlzAx2GMt8Ppgn7G7An8JrYfiftM57t7ChuzDmgCptad_d1cscpdagzSnFs5Ck69MmN6T4_OMDHsv7luelb08HfqrMyTnK-0aPf7WIkqD3aLXE0CRA8P4t0opJwyl882jz0OctKUIlPFnSBax6xkgyaoOeRb3Ojie8uYUpSrw75rQDXMKlEXXt0VaYj8r2744da1thvN4c0ZHbcDxtFEp8InZ5wj5CxBQcRQ8LBBfJ9Eg1P77SXC2E4j46QEH0YOMbfnCV_rB7rXtccxNfrLWoaQ_VhriKDwdajpHLHESkc1InlZbvg5pkYBiIOCgyLp9tiuanWA8N9LEA.%26pg%3DGO3USJGI5ZDXFP27EN33QWWDYU%26ch%3DAQEAEAABABTtdV4b8TVf9pI2iamwsA1NA4FdOxazijg.
+.netflix.com	TRUE	/	FALSE	1808219444	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+16%3A40%3A44+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f5d8ea0-f276-4c78-b432-e4081be313e4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808219442	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjBN9MGWhksOsi5iIFdFgI-y-RIL1jEko.%26dt%3D1776683443927

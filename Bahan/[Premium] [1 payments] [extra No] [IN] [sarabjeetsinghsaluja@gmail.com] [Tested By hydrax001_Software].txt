@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Diana
+– Email: sarabjeetsinghsaluja@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: March 2018
+– Next Billing: 2026-07-04
+– Payment: UPI
+– Card: N/A
+– Phone: +919820143991
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Diana
+– User GUID: 63U5HHLSXNB7HE4N2VR6BP26B4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805648499	nfvdid	BQFmAAEBEJALUGhJJP38-6xAMzSg4EZgBpNwW36A-3tJbMceQkk4CL-KAbqWvZTb41bQ0uYoXc_laI7W6aLMLNjMT-Nw3W8owINTIlOWJacadM_FW_a3ya4VBiI9iZjv661NJVm_LxJ_wCRBDHrHZXUW_gvu2iF4
+.netflix.com	TRUE	/	TRUE	1809935140	NetflixId	ct%3DBgjHlOvcAxKSBFCemeacGmxGQMkF7pcdxRjOCT45Tfo8WnmBAiIjFTk5DpKQh6ECIG6igmESByMV6qiTjg4eRNRB3u69wwgcitfi1o09zzUjBPO0lwct2j23xYw5i6i32URt5B8nuu1pcgDsFqnd4Mf4btlsnEJEXRH-pStfJtlh7xgtWmw1NG-0Vy1mQKpo_jpJRLtHKdgnbUAH6XEtcqsAhq1vpx0sUtzkV4Bikim0Vfo_wVUASkA-JKMdZOE6RDuIsrSPKJ0HWDjmnMzzE1767auwOA6ldPPSl_RaV9Yk9CySdfWtVB--k-g_2KAiMy0n6p7siwFybKxKXHzNlO4GPquuhe92B4XwGWFsMd5Pl2Sd6PYw1rJUzATNAaWlvASaaih3HDE4hn3t0CL1PwS9Vy5RszZAYCvhZMq0M-iaABnKtyHc1tRb5J_vd8B1GaUc2PbuBJrkix7pQ9zwj_viNv3zGcoQSFYuRXfPeOZ46uAa1GOmpMFbpcBmJrteqbNj7xWDYKnQOUVIXtY9xk8H924qhjvU42Mxf9rbmp4Ve3-lz05kl9rfk3C9G2oI5HgxMZoYU0FzQIoJN3gBCh826mBT3jwCXOOdAWv6k0RTiH_SD7kxIeSRheRaTUhkwNuYMDonZS2rFcjKz7FFX1AogsBLlDCe4t4z3XpJmKAGk2CM2U0GrWFSDo7aHcoLGL38IeTR6fbSP7bBGAYiDgoMeOnoCD4z87W4JKt-%26ch%3DAQEAEAABABQIFIIjKlZn4ovqa60oiCTwoDYo_0ltOP4.%26v%3D3%26pg%3D63U5HHLSXNB7HE4N2VR6BP26B4
+.netflix.com	TRUE	/	FALSE	1809935142	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+13%3A15%3A42+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b2cef844-5b89-4394-a48e-68c22e191433&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809935140	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRqifVszfU5z4pFIwjTg1Car27H8D0ciss.%26dt%3D1778399140650

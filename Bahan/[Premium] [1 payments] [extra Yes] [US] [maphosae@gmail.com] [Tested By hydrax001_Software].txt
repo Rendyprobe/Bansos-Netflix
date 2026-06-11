@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Washington
+– Email: maphosae@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2021
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 0615
+– Phone: +18563710767
+– Quality: UHD
+– Streams: 4
+– Price: US$26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maz
+– User GUID: KA4SQTPIBNDYVMOGWVQPJM4GO4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783545570	nfvdid	BQFmAAEBEAebajOnz6NWDSdcxROksJdgsjSfcvFMUkET25jZoJlYnP47a4tJSLypKIlVYAfMfvi_NeU-YH-MSwpAgpD2jO4xVfFJebz85Gs72qNC4GjoaRu2jUxoq3x8ljd78kPVBxj6P4Vxf8fjvAHJ0Ud-ntYO
+.netflix.com	TRUE	/	FALSE	1783545570	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+09+2025+01%3A12%3A16+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39f931ec-7e31-4098-9c05-f9e7116be4e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799966378	NetflixId	ct%3DBgjHlOvcAxLpAzasWieeKhIzClmRlz3-83j0tio0wNaqLszXRIhhGZMe3JdJ6limXGoXFd6LdL1_cXhxpGn_8l-7Ww03v1f3-LDLME9uKfIbUpu_yR4NOLu7r-h7ZFui7oz9VSBvEsfOWTXbmFdE8cu3NI345mURJ4quQfwIzBobje_a5-c83i7TissqKgd6pepzF74lWoc_cnvznVL_u1vC48_7KN7RwYCGkXhPkZYssopKNvyAtEIgyE_PqagedLVYaqrq9rvf2MZ83wQZ9FdaAS71V9sGCNkwM_T54HKf3UT9Y-7yzvSxCyDsNZFh8TdAgcU2G9f-QhT0KJvtZBU1_oaT0FFigtbUThJrjrdzVApVbDRUMvNSa-eAWV7HiVuVD663pcdNZpV2_HyqKMBdBTn7ajaSYjIYEpELHjmOHIMtZL_tlsIqTGXuLwXYCZSsOa-EVbXUUDku_BdprIGRUjo7qWRgM3Rpl4OO8zxCrqD4rCs0hqFkDp19nX1XBaU8ZYV5zCdvBzIZekOG9x4CNDJZNGMYrdnZfb8dbTkMKvYuGAsMFyq4vz_2CCQwDdwDJ7anc7MrmARJB3FzuLkgUwU694obzJmpH7_bTV1rJsitg1SBUpNzXn9dXpYMKYj3a0Rm6kg_OVH3B6Gh-kFtehgGIg4KDL42LpRK8SACD70PSw..%26ch%3DAQEAEAABABQcYEoybBd-cCUMmNfVP8FjJDE-ko5XPAg.%26v%3D3%26pg%3DKA4SQTPIBNDYVMOGWVQPJM4GO4

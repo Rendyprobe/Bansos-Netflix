@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rajiv
+– Email: yorrajiv@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: August 2023
+– Next Billing: 2026-06-27
+– Payment: UPI
+– Card: N/A
+– Phone: +918777867148
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rajiv
+– User GUID: 4FBXIOL47NAMJLDIFDONH3E5ZU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808377482	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA1Bictri7OFQuDkF4cBFIpPU4_ll-5R6stz-u97UmnQfdwKFmGNf4n84YFnDnhHP0JGLwFUzNoFgo3vj8qG2_8egCPZ9CMkx-qKE847Ep7O7SXS_OexWOm9nDBTgbLWbNDb8qiUtgJ_UZnVJK54oc02NAmbAoExtBw_Xp1j-RbIhSPsC-6yf9gTjrTdJL9iUKlfSMEzLhsePT2U8w3za7JKr-sJCNqQtWqwuRC1RZfayP4o5W6FYWaghY_CiuWGrbHRqkTFxutuPyE1f49SBUN6uK7r6YHd5cLgkpy2PMYQQBAeq_I8w9MY72860wAGLhr2WRq_gTm2SCJLQAKhmP_6l5c9rOQVEMrJl7ECNSTXkbvpljH6Yh8CEu-BvST24cOqklf5vILOyqHdszV1xfmQMUNdi3OmcvDD-kVDWb3mcWQFzi99wpfDbWwzVTktA9mP10UN5NVooWBCQfOILEkeIkBMWjFaEEVDBOFwZXYK0bsrWRDFNxA4b8y_xx3BXQGM0T18QAw5lYl8uHZuOmczy-dzFHEhnUCRI7k64ngJ4YzwYBiIOCgwnP1IwMRREn82VBeY.%26pg%3D4FBXIOL47NAMJLDIFDONH3E5ZU%26ch%3DAQEAEAABABTUgWjOD1WMh2usw71oig4NpPwMTTOFBJY.
+.netflix.com	TRUE	/	FALSE	1808377483	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+12%3A34%3A43+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe4fc41c-3789-4b46-bb7d-f338a2a7e08d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776841482139&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808377482	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCsj_qCWjV9oFWGObUvRB4etczxzgSiIc.%26dt%3D1776841475535
+.netflix.com	TRUE	/	FALSE	1808377482	nfvdid	BQFmAAEBEI3HU7Z1JAvTppS-uLwZWeRguyyiaZS69qfkMyTYAQSac7_zvTVBefHfNHsGwwLaJwD_BLf1SE8wRS-yYTiUHujS2YhqdiyT5ckAyvCeM3Z5Ktk_2G5YaDChnVbzuzjh4iPEovdBThhAKEUCmKdKGRSZ

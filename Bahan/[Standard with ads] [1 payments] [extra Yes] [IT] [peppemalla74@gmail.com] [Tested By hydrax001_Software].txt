@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rick
+– Email: peppemalla74@gmail.com
+– Country: IT
+– Plan: Standard with ads
+– Member Since: July 2022
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6735
+– Phone: +393204442468
+– Quality: HD
+– Streams: 2
+– Price: €6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Peppe
+– User GUID: LBWOTNIQ6FCQ5JWWQQSPIXX42E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797520866	nfvdid	BQFmAAEBEBh5sP9TkvNJ8TMLBRYt5wBgw2IXIH8Yt25PMS7jhmXoJcCdRcQeGG_yYHgYACAH3SgWtOy3l78Y056BOBRllKePHqoQS_GOPy7XwqNG6VDir2b2i1bi39_GNPV_KSmx2mtD5Gbtnn-Q6aSPLk0sQ3Rc
+.netflix.com	TRUE	/	FALSE	1797521014	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+17+2025+16%3A23%3A34+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=84c6859a-d948-4292-87f4-a473d5aade18&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B45&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806760409	NetflixId	ct%3DBgjHlOvcAxLoAy71hJUKCRY7R0Eb-ROeun5k8Be3mQBOtu6441pTHa8nuQP9UmRr2mbv-oYygYajDbwPKKMwn_KIofGLg7dwIO6VwMec7NRbMyrwO6s6ZEkbuwcpUOsZ4h9vV46jHQwIkSE_FQ0y65qtZ_E6I_J6_3nOTrBqb6MaGPrykJwBvOuLkbJHAFmIVYUu5TzeBqqJuEaap30fccCXEKAioY8U0z-m_6QnrStcp2WPI5Ye0cXVEuO59Ve_PZIjyMJs7EqXu7kUxsGbSrvKFaPJWlwmM1jKnJk0MiBh7dZU4XDSmBMHY4mxj8Fqe7-6RuSnkxNBPrulxpFlIZV2D27QeX57XYOR5pQ-eUwGyS_IaHGJpGqAdGmf2gH7AonB3uUpmGOCFreQWqFIMJmoEjlFkoazMFmFunHrW9VhrnWcQe0SRaGteq1xdho92hpzHzi0uug1h-clY0HrfHTOh8C2qu3QZWtT8aHlPq8RQDlS6xG8ZkqLpudAVhisY9KxtxQBvkaNaQFktSdMaoXwev4LqiNpfAo9nBhYeUV0u2jPFdCipYxLAqxAVmSxEVPFicTvWxsW50pvDppD5ZVUqgGZZqtPSuyjbAAPPFRApSPvl6tL8LyKjhhMm_HZH0R6LF0Veru0W6o1WDpjjmoVGAYiDgoMmNY1DRN4mkfpa0hx%26ch%3DAQEAEAABABT3FM6yca4uIVxiOUM9lsnhxF3lHdm5Ejg.%26v%3D3%26pg%3DLBWOTNIQ6FCQ5JWWQQSPIXX42E
+.netflix.com	TRUE	/	TRUE	1806760409	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR6kBc68xsK-lODdXcPKHbuQbDyrgnIbw4.%26dt%3D1775224420956

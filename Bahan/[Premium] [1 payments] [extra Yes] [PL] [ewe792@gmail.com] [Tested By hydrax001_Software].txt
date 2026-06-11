@@ -3,11 +3,11 @@ NETFLIX ACCOUNT DETAILS
 SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
 VERSION: V2.0.1
 ═════════════════════════════════
-– Name: Ewelina Janiak
+– Name: Dragon
 – Email: ewe792@gmail.com
 – Country: PL
 – Plan: Premium
-– Member Since: November 2025
+– Member Since: listopad 2025
 – Next Billing: 2026-06-10
 – Payment: CC
 – Card: 9634
@@ -19,7 +19,7 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Ewelina Janiak
+– Profiles: Dragon
 – User GUID: D42HIEXPPJATTKDCIUN2EYCYWY
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════

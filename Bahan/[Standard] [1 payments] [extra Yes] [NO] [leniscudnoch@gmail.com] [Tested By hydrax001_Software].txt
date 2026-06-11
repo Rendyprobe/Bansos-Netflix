@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: leniscudnoch@gmail.com
 – Country: NO
 – Plan: Standard
-– Member Since: mai 2022
+– Member Since: May 2022
 – Next Billing: 2026-06-20
 – Payment: CC
 – Card: 7255
 – Phone: +4740566616
 – Quality: HD
 – Streams: 2
-– Price: 129 kr
+– Price: NOK 129
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

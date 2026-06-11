@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gabriel 777
+– Email: gabrielhenriquedesouza44@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2025
+– Next Billing: 2026-06-11
+– Payment: DC
+– Card: 1523
+– Phone: +5543991425804
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gabriel 777
+– User GUID: YVAQDVA2AZEBXLXFMJB6TZYZKE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811218048	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA8tdmcPVVCwXpc-kFT7iTrx3ToNvnmFEbXCarxSxkEaWwd3TH9v9Q9warJGmfRHlaVgelvgqjtpK8utqITNFwr8RIdHkhGpKTfKuTF0IKg4foyTJPWAKTpCWsLzJfZtNpaAgPPGL6uUZzFUFQVXnxoYSaU6C6GkZSsW8o1Gf-TKtm74a2ELu7rFnh4ddOr5Y3bOtt5tycu0P1V1R-GLF-KWrZ08JXesuEeigRESTHZxipugphnoGOVfqCCG3F2Ltpjdvst4pBv_t30mmqCCCoLH5w_b4bI-1cQQc1kBzMDVL-j7QvMRRH70g-6qQhFPVHc1H_cHG-Gejavm9F-370n2qPA1x_qYOEwc3e5jBBhDwbW5fmdFYVwsq7hIVApS219DJzsuq_v_kEmNyKy_uKHRvDoNewfFEdcAhLGmY_O3T_7tPfaLbD5StBVoiXUWLlN0_hSj5l8AWyE1Nm4UZ6eomnrYJPt5jZhvcrobmfEAO0Z5Xenbuj33uxFNYhVmUH7UYBiIOCgzUVTNHj4_8-gn_B4w.%26ch%3DAQEAEAABABSEo_aMgoCKnHhlV7ecXjf8y67_p1SFTAo.
+.netflix.com	TRUE	/	TRUE	1811218048	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0BPKjTyWCWPU0rwa2vGDenCx8HjTsqVE.%26dt%3D1745031954095
+.netflix.com	TRUE	/	FALSE	1811218048	nfvdid	BQFmAAEBEN3wdYfarooOykzB2w27Q81gb8rPNBZc4KQSegQVrfoKqblMZHhlEG31nGNp61C41mC-OuFNvrxsitbq1bn3NxgkQwS3mWMK-01VHNTvaL3xjGUu3hdpoCqacRnEjsXzVxKhsbXeirpGS0em7nawzwTY
+.netflix.com	TRUE	/	FALSE	1811218048	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+19+2025+01%3A40%3A17+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=74ff89c8-14ed-4415-8162-8af175ac3447&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR

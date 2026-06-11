@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Devid
+– Email: alexander.stumpf@mail.ru
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: Mai 2025
+– Next Billing: 2026-06-24
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +4915254126582
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: alexander.stumpf
+– User GUID: LQMU6SRF3JH2NCPRXANOG3IMF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808422872	nfvdid	BQFmAAEBEH8xs7d_jxXv8lgtuaqRUedg7-ikumPG69xIfDn8MVkcHnZsgZnVWeEp16r34g7SsEWSi2ZNcA9TZM11Z8iZMB20qxOQKGFccvfhrNOG8pGC4R6zuJlfQ5fjwFr_Vvz5cnkTmckWzJjCP4yRRdpF_kN9
+.netflix.com	TRUE	/	TRUE	1810419570	NetflixId	ct%3DBgjHlOvcAxL_A97UE6S7hSp20ht96PxH6JLbVpuo9QOuqzxFHWR0-kDFfoTse-l9dn4ywLfzOz4Fhtn7_wud4EFvfJr1i120RB_6ETADogPC0YwT-RGMGA13ZoRjUdySUfbEeCHy_XUvQbFS6CZo7XmlASiHg5VkUhkBG84uCkiYU59UVSgrEgZ3gBUxAPmOozl9sEwSCyjhzOM_IoScKdyN4Ad-3fMZxVunoS9qt-0NZ69LbZqTTiUiAVPAvDwNwQRUqUENisGn03JibR22xZNkC2DL4HzFUxS99-o0J0IYUsLoI8pUYOLgs8GwQ8dcVTl_ktb-qdtdXZusaH6fuS7g76foOc0TGLLrtJ6HLzU4TRX_cXuExhXx3WxPt4SVrz6BbY_SYXZQU9dnf5zzDBjhy1tVS0507RMXFYcQqRzTwhvZHl7tkrxntJJWZI7pRlgL5GvKl6vB8sxOVkiIRMw6cEFng7XaYi9NPryph7wOADcYWUIfa_h7aMPRCGAvNKIJOISgsqUmlBmyxxkvHBjbEFC0dsxGiNRYzwq3JJV_qtj4K-CHcbFd-d_Gy5qmelVEl9S_YSvWdenl2SiUmxF0q3i2Z7SXvlnGDPP-mpnbdOC_1O_5_QMxFeiDKh3UcxYpBjw0ccGf5wBAllbN7VV-S9rT2Z2l-cQIIdGm6BQOlGwcOlRjfrIYBiIOCgxUrBz-y4fP7FJQF6o.%26ch%3DAQEAEAABABS1JgUhVTW9eFHGoZdyaVjmdIyYnzo4MU4.%26v%3D3%26pg%3DLQMU6SRF3JH2NCPRXANOG3IMF4
+.netflix.com	TRUE	/	FALSE	1810419571	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+00%3A19%3A31+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7be8e789-1fcf-40c7-b445-b51fd79824b7&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775604905547&geolocation=DE%3BNI&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810419570	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdI0la6Dg3qaOWmezIY-MODCeyY5FrKpI.%26dt%3D1778883570902

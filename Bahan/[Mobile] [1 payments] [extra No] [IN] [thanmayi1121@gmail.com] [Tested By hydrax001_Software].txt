@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tannu
+– Email: thanmayi1121@gmail.com
+– Country: IN
+– Plan: Mobile
+– Member Since: April 2026
+– Next Billing: 2026-06-23
+– Payment: UPI
+– Card: N/A
+– Phone: +918330881546
+– Quality: SD
+– Streams: 1
+– Price: ₹149
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tannu
+– User GUID: U5MGLY35PJGPZJN6BWR5M7BQMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797087571	nfvdid	BQFmAAEBELn0mh5yWoS5bRfWTaHNH2ZgKf2Vs8BobdaQqQ_ofl8rDHwX0dQxL85kjgVSQvar3nleUOw2BupTcTDZErCv5a9ggBdM4i2HBoUKH7zqYravsb5HUB8WOU5W_W0xADYRxJnKbRjitg2EMxViVL_OW8XJ
+.netflix.com	TRUE	/	TRUE	1798994591	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AoOpBDXlgIsrq9fYS2jsYxml4-NJJ0EZJVp52OONKLa7G6sUHBHvr-GbH9WI_q9hyGzPCG2VBMCAuW8ii5gShA6qBDIHSnwdQgJnWMXwzN0nKIXF3Ld44WrcJ6ZCUTC8IpBuJctvZ8is9cNI2PHDbzYTFrbczLVtiMA2xMOYC7v19txTPFzBhQkokdrKxKui16wFcJj8hIlLDoJy0pE2t_NCIunOiKgZ-tIWZfXrHGk8Jtry4z7U3M4bd7C4qgw_cgKqw_a7FdtTZ1eCt5HTp10h3nDi4-GNFpf-DA7birTlehvzuoOpH9rp5Vvac0yPTszKXhFNAnbdyYdPp7bzD9fQhQ3PQTkX1hHLTlRjcU5F7RzM-fx74X5Ebm7uvpTswhJsQ8kKm35riMOiXjWAXlgl_SwKU6rNHYKBUE8cJgFCGFkroBPFEoqLiL3QZmEz348hrX6Q7U-biRkPePjJ4shriEnqVw5NqW4OtzpPoOt6vmcnCS3KicZTzKBlrRifGAYiDgoMnu41YYiGBrH-KooL%26pg%3DU5MGLY35PJGPZJN6BWR5M7BQMY%26ch%3DAQEAEAABABR_ikmNZvH0ZuR3A5I5ocaeZn72x53CjhQ.
+.netflix.com	TRUE	/	TRUE	1798994591	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGSbo9FJIs1aX34h2wQZFDHqpNdR3di1M.%26dt%3D1767458590182
+.netflix.com	TRUE	/	FALSE	1798994630	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+22%3A13%3A50+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4817c54f-c1b0-4158-98ea-3bf3a27bb13b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

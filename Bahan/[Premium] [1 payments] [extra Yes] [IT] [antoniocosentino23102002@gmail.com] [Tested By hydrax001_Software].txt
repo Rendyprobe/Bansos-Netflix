@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Antonio
+– Email: antoniocosentino23102002@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: maggio 2019
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 3943
+– Phone: +393887295794
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Antonio
+– User GUID: HUIBZRX5IBC2DAJ23JYV4KDOWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056505	nfvdid	BQFmAAEBEGhHYiQxRvriSCECzQ44KDFglxnvrTnpmuC4CQw6DlUFURkD_SIh8A6ejeeowbeoheF7YXe0-gHAbwm0R-WmSNpuvAkGQc94IvusyucwnFNb6IxkJ0chvuYZddjP_ALndcoIY0CPyf1YtxMHhtY8zKzd
+.netflix.com	TRUE	/	TRUE	1786667452	NetflixId	ct%3DBgjHlOvcAxLlAzzlOYUDuFTl-Z-R13esZqu4RI72kS39VdC76EB8TaMoxheAiCxfZFwEMTc9F7CbiaWaGCZCz-tkEZXlyMXOhQfwat_0mWpxG30p2a5mvU650N8dx-FFo3xqKOoDmhNP0jiEohsDaOKEbN_6mxqbgUzP0F9m36NL0cnx0-E3kONMEvQmmo1le6MQx94qqbpAfyllqcnwSHhkrCMkrwbqyquUg_UUI0CtuV7JayBqavUN9UGVFyQoUbHr46-U4bXhVD3gqUED5HoleRq4O-wayYZSDESBJZksO6695YUtSf7UTmq3SVxcHULvG9G2XYpYa8aqdTSbfyFVGmi3mcEeJiO5Rz6t23tF-6DDZfXKC9gAeLGtsTCgjR1Ff_jj2qAivLsLOyuwdd5o9MjYnds3ZPAm4iXM0Mj6UUHVpiUCeUXICGpD3jEMjxKzhCrIpoQJBZovEqv3UE2pQk_euQ_8CJbprT9qFdt31i6wuQYS_ir3YzkrUx0U8E0MaMxdIRQYaGPatob0NDlEp-I-HU44xjU4tX2oOvcagjv5C82MVbxc4WyWdEz4LS_I_r1AWUfPfBMuzTwbV3Bpu69zAdgWBDlVJSsR21UcqV7iUi2vMQU19eSbzWkms9KDAy2NbNzlQCXmlQptGAYiDgoMUTwQUV21PJap9YDW%26ch%3DAQEAEAABABQZbD-6BSFpyYEQaOZxmLMpPCVOAkKO2BY.%26v%3D3%26pg%3DHUIBZRX5IBC2DAJ23JYV4KDOWI
+.netflix.com	TRUE	/	TRUE	1786667452	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJRND4cB8qzt7Jh84GbSGwcTnpWAS58yo.%26dt%3D1755131451922
+.netflix.com	TRUE	/	FALSE	1786669224	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+14+2025+03%3A00%3A24+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=52ab34ea-ffe3-41b2-8421-7fe9b8f636f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B52&AwaitingReconsent=false

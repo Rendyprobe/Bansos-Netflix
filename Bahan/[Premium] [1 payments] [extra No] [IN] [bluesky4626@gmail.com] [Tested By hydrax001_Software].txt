@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Keshav
+– Email: bluesky4626@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-06-15
+– Payment: N/A
+– Card: N/A
+– Phone: +919888722777
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bluesky4626
+– User GUID: D2MXE7LEJNCKJPUYG5TA6GRDJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781544547	nfvdid	BQFmAAEBEGBLwBfiG79_YK9VOLjAQ6NgkKtSiVT_liZ7P17WvMRjTCCJa-rrQqPJrTpsWzA1ZT2GW2q0-CxLuQCFjyYVLrGNozZJ10fziCsY66VuuoDPXRr8Fw59a-3olF8Y8PlPc7dBOoYc-QBpdNE5flhH-e36
+.netflix.com	TRUE	/	TRUE	1808714575	NetflixId	ct%3DBgjHlOvcAxLKA3vYI14iCbSwGXSlFd_ryMgPC59T-eHdWnkvXNR3v7oVe441ug3VTOi4Uqw-ew8RYWPs2e5r7W3MixhJ3CNN3dU_-SlOe00EXJW7Q-P79DYOFk5liIEJ0hfMs7YMMQxZlq1FzG9oEjWoun7pwx6tvtPJC6Vf0MDGyUGpHzkkroI2eue9ySN3LkHGu_lSZJ0058WoeOqZu3woTT88gQ50qWWML9Ov1j72wMzIXE8atzC9U11nEyAjhoFkMLG9YdJZaC0aDSaQKKCRCsY12jcu9MbL0Vo6JTNj7tY7s6ffUjxdonA6E4h-CKnUpOt9iu7FBCDbqGCGMaMX1R8Bx7almF8qz-wTqlqFGsUNor3TFWTIi9PfQV-oyPQgpr-EDZgqnKfdj86UiLo1XEDCi7tx48ok8AHFJx6TWnm79e8rtDv4p0HbTEQYxhDaaVVx-wh5ifTveO20YNMZtRzBSbfCLf5XH8kwajiLEjXSxFok1qXrGxTzAmSZmW00lqFg07WKfH6_Qm9XC52LFEfJOKkzVuzGuDLabb0ea5HN6KNyVTAdRfV4hBEO95j4un6BIVeqiP_Ho1-4bSelfhGGww_Zh-hJL1V4iO-ID1H7GAYiDgoMWnY3qlJJ50zNcu15%26ch%3DAQEAEAABABSW7H4pi5rcT8cPnR_wrxcN8Axzq0xXh2c.%26v%3D3%26pg%3DD2MXE7LEJNCKJPUYG5TA6GRDJQ
+.netflix.com	TRUE	/	FALSE	1808714578	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+10%3A12%3A58+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86a805d4-dcef-41e5-a89e-98ac15f9de32&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808714575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1i3oT1FkO2cvK_M2hwy6D4zBIpbgIP5A.%26dt%3D1777178576882

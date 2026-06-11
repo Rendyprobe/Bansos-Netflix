@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: cb
+– Email: cbagsao@yahoo.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: March 2024
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 9858
+– Phone: +17809352357
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cb
+– User GUID: BNGC6BYJGBFCPPAESIMK4LQVE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056506	nfvdid	BQFmAAEBEDTsXchjGYYgOdHpAtjigZFgj3oOnS-l82ikJNnDTobDz41VZXObASimXlQNymPfKkl7mGxMvWd4wfg4Bu6vFgK27xx0JnjB5BOkHqOVjXTkh5uLRdiEKWWHln3uslUm9t2lOK814dI3aLt7ncKZCrya
+.netflix.com	TRUE	/	TRUE	1802441476	NetflixId	ct%3DBgjHlOvcAxLeA74Or6k_6FCMe08FoW49bmnmSQ0ThssGHBe8-bGiBH9UfLO8lVgv34jcF2uKT6wrExBcX3R_r37kQrQ_Kx3ytCkGuR2TLCvJuMkSiOX9T_gz1hCQj4zAnKSfdcrWTI9RJDJDOKrbamcBi-BDnLLUR5xE4VtOY40KEQOAOVzrQFYIkRDCjfURn-JUNhruKFxoeNeA02OWiOIKEgNk-JNbCVDQXI085sBQpvHY78lgVRy-YTJyVxWbLSH3Cxfqay6g_Aqz5QH1hhMHIDa2_1sNGzsro5qYrFsyepARAK9-S-Eaf1j2bKlgLZ8a_Kw2vcHDr7j0zSRL4zPvP9WYcDS21qGExcT0aMM6leov0OHgTz6sGexaGy_PbWJIVTFqY0qXGEtgXpgmTnOw3TlGAUjNZZIbL9ZDsuLCa_Qknq0oU5-sPA_tdYA2cG_B-Y8ykX8T_3NBuvNDUrZ2lu8SqVe7vGiw3TnPxV5vdxoqZkalKkEj2REPKiTXYwfZQWElNDOg4F9303Vwr0Ft819clGgq2lZ_zJaqeguFOGM-Zwrgzx5S5Y5WKw8GnjswGiuFhs5PfIBZxF3AcQxVcypgBVW0SIWY6Jqv-clym6Fd4LJmS8DwHJKksMR4mXoDc5YYgRUYBiIOCgwN6cdffymc4VbRK0k.%26ch%3DAQEAEAABABQvV3snMfofO0tyGwWxF3-2Wab6P1RsO1w.%26v%3D3%26pg%3DBNGC6BYJGBFCPPAESIMK4LQVE4
+.netflix.com	TRUE	/	TRUE	1802441476	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSS_gmRS7F0aTOrrGMKDhJQDfkskVe6c-o.%26dt%3D1770905476665
+.netflix.com	TRUE	/	FALSE	1802456235	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+11%3A17%3A15+GMT-0700+(Mountain+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17a69ada-1236-4eb9-9dc3-61dac69e250a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BAB

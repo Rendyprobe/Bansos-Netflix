@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ernani A
+– Email: ernani-cabral@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: setembro de 2024
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 4557
+– Phone: +5551999320248
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ernani A
+– User GUID: UBUQBGC5HZG4BIEIYX2SDROEIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798171257	nfvdid	BQFmAAEBEJPqqPD71TK6nkunp-HwSC9gEQLruguRHA7ZV3NC4-fAog_EK993eHjRaPpED45nxkxDthImJKRjEf0TV5AF93Z7Ew5neahwu8-yT6woS_Ihj6f71slyA5r0xHE2aCne7r19deNRodPr6zl0eSlfJp2a
+.netflix.com	TRUE	/	TRUE	1801989600	NetflixId	ct%3DBgjHlOvcAxLuA765zudzUuA-7ryD-bTICVtmZTMeW2NhxRoYjaSjhDLq6FFYXVTqApsl9lF11dTadzZha-8BhGOCuN6I7Vi2-1Yv8d7dJJsiN0Bd4-YUX1FbbrS6-FzDiqyY9DZ1G_v1-jkeb3ir8eS7ozjTIZiNQTqezLp2PyWpI-vM4AsP5p7VmpJpnDi-q_0l0Pfm14qxv5KhfRgd_UlL1UBtBWSJv8QbtqPMDNohfBQa15OYF4AB5CfYWCk2kpPy87rpVgvL9FC7MCf4ZNF6eUw81g6-3GvzvmGVYnfBE6N7NWCl5Nv8O4K6nYV_5OdPg4trSJ11JMdGUS30MXCFgyOz9Hkvd9DSuLfwaav2dW8XDrLDWr8kcO_CBYB3vEu-K6SpVZEMFXprtd4_2xR7yVDtZGeor6opMGEmfSh9wwzRWEyERXrB8BGz8-W40AKJljhfnsiOoFV7nYurm99O91B_l8MwD3fuDmIaK15p021ufIHHWluhF-vuKfAvyoxorVkKpPCXofu4Un7hlGhI4Zh6s9ChHXiLmMoraxTkePkS27OYrM-UP0aFJBb-zVz8dRe9G5EnIBc4Cq0qB6N5-g6yF4GW9EBrZ-jqFfDeUGhgV5PYGBjXNvPnPo9mqyfgZx3erkaze0uGFLUDtRtZ7_PPUJ1oGAYiDgoM32QjsiuWkH1ClHdS%26ch%3DAQEAEAABABQ7XyEGOtmB9i-CENIsjw-ozZc8QLdq5Ak.%26v%3D3%26pg%3DUBUQBGC5HZG4BIEIYX2SDROEIE
+.netflix.com	TRUE	/	FALSE	1801989601	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+05%3A40%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6c2574c-bab8-4c34-b1ad-a3c648524b3c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801989600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDGrHF0cBVH5bbjdYYLqpgPEODhR75480.%26dt%3D1770453594733

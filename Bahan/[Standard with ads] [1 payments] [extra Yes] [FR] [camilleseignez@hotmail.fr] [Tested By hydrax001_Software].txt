@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: camille
+– Email: camilleseignez@hotmail.fr
+– Country: FR
+– Plan: Standard with ads
+– Member Since: January 2019
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 9512
+– Phone: +33652405878
+– Quality: HD
+– Streams: 2
+– Price: €7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: camille
+– User GUID: 3OZVNMEQ4RGIVBQA6ZMWKWIAAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803224969	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA3SUHZrQqcT15ENPriBu_B3yr47fd5x7ZB8-b8t8tqUO7Gc47kvhwyZMVSBAOPIZajmuiGyKyWwa43JuE5tYs-1CGKrK4QWKiS1GV3fTOV5hyjCEcIjeW3QyILb5M9rcFCuXdX1RtJSONR46Ks9H-FvxyH7IgJT093Hm4wu0jXKtDhU86BQ2VMneN5rfYfbtY43vzsqwjbgeTi4S1sNpfbKh66h6zhCKSStxo8UA_GkWE6P1sHQ2K_50u14yn-VR51A0LcspT2bPiiDrCDK9yW0oj_xYqQptRIqw_OU1NP0qQ6w-_4_XIzQiQdcXBwb7UZI5rurX76r4dWxqHtdmDRpri6EmzFLF6zuysVKtBJKeT0TgRiQJeamzMx1Dytay7SUW6ptWac_4fwG9d0SSXupYiwpMU5EBkdSLw3c4ZDhisEUD0PJ63YuaXeZ0O-TVMnMj3hAEjythy24ycgiX2z94b31ZxANH9ujBSRGXHPqw7fdw696dpCmBta9qtOU1RwrXtrLuzXhx-xgGIg4KDDPgHEm9jDyg6eF09A..%26pg%3D3OZVNMEQ4RGIVBQA6ZMWKWIAAE%26ch%3DAQEAEAABABSWXIZcTEOMLA9UuNIuh88pe8tJJJDYXOI.
+.netflix.com	TRUE	/	FALSE	1803224975	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+16%3A49%3A35+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db8606e4-bdd0-4f7c-a8ae-134df77cebdb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1771688904117&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	FALSE	1803224969	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRqDE0eha3MVozGAWZzDfOJoGR9HJbYFw.%26dt%3D1771688969132
+.netflix.com	TRUE	/	FALSE	1803224969	nfvdid	BQFmAAEBEEXHNuj8Wc2jA3-LJZuTu_BgJs7oN0uf5XnuHnh9CKvnHIoI_LKvWqkttBd-zOUbOQpjILU-M_9BmHQmjyG-ISJRdi4pQ25qUSdQvPqiFQPz75tmZnQYxm9TgfI77Y78r26vIReVnuyqCK0ZFzg6yr3D

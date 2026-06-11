@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mahir
+– Email: saffwan864@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +918319810136
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: saffwan864
+– User GUID: V7ZQBHWR4JCSDIGHBVGYFMLVOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806407438	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA1E6D6m9PM050ESgKywo3MqOvQSUXmc4OhmOhtIb7-97xGNm2AuRugzs4S7PI665mrwUo0NxwmO3AXcKsD5xw3rKYC73uYLKJpZueIN1enXLuzag0qUIQbhO7lRZNBEJhpRW8EQTeBGe3dql6pT3NHnCdEt4quS4AUp08YKn60cfWbgEgZJ713xtXgBGPt9nBK3fMnk7r6aY1QAyh6pNwat_1kJnIPUzHwQwhpKhq6py683-QphtLa7P4Hv65F53dvoxlVes7DCPZFwWXlBJcWgO5LT_tfCBFqYZC6PrqxBmnomFSvVgzuiEAo38rveFDvBhe9h6b24_kPVvaN_CEQ-ZTo__5sGtaBiNDbMaqBMEQl0eVvqMvu5e2iZqziw9AFdQljPS_uFETs-vtUuLefiuuHiihskUpNeq7EEb3pp68xGiy-fMhPCsPct8TW4UVLB3PWJHa5LFaGAn1aCcEzsBQF49K529B11yhY59NU3j7CMGYjA2Mjd5KK-RAyGx99DyBLm8HDrAy1qlN_x-DX7sOeSFGAYiDgoMHTmpnMGgAFoxIi5o%26pg%3DV7ZQBHWR4JCSDIGHBVGYFMLVOQ%26ch%3DAQEAEAABABRUnvYCfWDzJCMhl18TyH-0IAjjfjG_FJc.
+.netflix.com	TRUE	/	TRUE	1806407438	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0w_nZ9xQ74mcNLBxHAFbUUVFRnOKbaJI.%26dt%3D1774871438721
+.netflix.com	TRUE	/	FALSE	1806407424	nfvdid	BQFmAAEBEO06vu7M6jI7EoEHvvVCKxJg2AqSuDwLDBjMAv41pvPM9IBXGB6DbJ0473vqTtqOItdBHqMFRFd-al1AkH6yaIXM-TmX2o2qQCtqGsobN5HDMVHgwqavSH9pefaoBNzzei8eRwYk7AeBSzu3su5ZjS3h
+.netflix.com	TRUE	/	FALSE	1806407816	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+17%3A26%3A56+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d006616-98be-4bd8-88b6-dd67d6698eb4&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false

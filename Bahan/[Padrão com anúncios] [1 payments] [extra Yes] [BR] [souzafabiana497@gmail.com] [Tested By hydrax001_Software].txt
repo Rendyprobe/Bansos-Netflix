@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rafael
+– Email: souzafabiana497@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2025
+– Next Billing: 2026-06-13
+– Payment: DC
+– Card: 2610
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fabiana souza
+– User GUID: 7GCENRUFKNHHXFMWE2OFNM3HUE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798562045	nfvdid	BQFmAAEBEO72KLnxGwA3lbFxQ6gBWjJgx0ykCDqgg_vqb73z8TCl9uPxWeKCdQCXVAoSdef4Fzww9I3eJesHtR3ob6oJL1g8_XigD6P_Cyj3gJe0Jt2cX7aJlmKajwPYjJlfghU_spsa1YHOiA61NWL21YdqkDtH
+.netflix.com	TRUE	/	TRUE	1808765710	NetflixId	ct%3DBgjHlOvcAxK0A1LCJai8ofNd9wj-6aKnm5BjDeEln54RgGgyyiU3-8axOpHtVYtt8NWgIAz2LqU4ffpjjVfkn_KRcQh4nXYtV8nrO30dMg8AhTWZjzw3i5wY-eoy-ioUtna3zFqz3Cv8bzAdPsqj6O0wAC79FP-A7OAVu_xp-E6nT8fNX5CbsTBt7bGDSg0NgUcCv27gWEUBm5-n_tBpxofbD1xxVHK0SIQO65UWKQcDRje8G2j2Jy9yewpa8Zl4N0h-P_-ugnCm6tbp_drijLWPf0fvId1DYszZMS-maBkABF5jcG3opSxLihRfG4jKQc71jITpjzEYi9bgcfoMarEHrEFeYnFIHcXuBt06hxkwujszNAh409_ziXK3MKgLYZWkroDjqgNgjGCVFWS-48bhvWG81_oRqKId4hghPuwSBknS3-k8wSWxP-298q8cZ-j0lD5Z9daTMk1zuCC_Xs7pOiIcHcejI2MDCs3pVjievQrOH9l5vn8mfi27bJzIYJ1Q3-FSxheVYsufuufj7gGvmxlR-pU8Y6hmd3W2QzB7jAGjrRmJRrCcwd5XuwwgUvW5Feukt4UB0OjkXAUYBiIOCgwig9DXgmBEI1X0ClQ.%26ch%3DAQEAEAABABQJU8zvde9lw2yRzSYGMN-ZDyEQidDo_Tw.%26v%3D3%26pg%3D7GCENRUFKNHHXFMWE2OFNM3HUE
+.netflix.com	TRUE	/	FALSE	1808765711	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+15%3A55%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f0448c4-d9c3-4876-8cb6-76f737792423&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808765710	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWDqW3MdjFllmbPIHGAj2TyvFGgMm26VQ.%26dt%3D1777229761272

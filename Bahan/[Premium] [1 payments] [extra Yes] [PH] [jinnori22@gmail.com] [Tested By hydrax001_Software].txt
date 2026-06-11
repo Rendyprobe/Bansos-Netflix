@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MF
+– Email: jinnori22@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: April 2025
+– Next Billing: N/A
+– Payment: PLDT_BILLED
+– Card: N/A
+– Phone: +639171695115
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Raul
+– User GUID: OVEG624TMNC2VBIB2PKLG42XYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792313895	nfvdid	BQFmAAEBEFBHYUd-Lv6kdTV4DWJW2FZgGDfbn14DrNMSC3q79BMlRlTdvv4Lm009iuCe1Ux-PXBFePahiAVu_tHp_ZL38HHkbivSGxD0eVPvdn4WqKgaDUa8xKrwAfrwZrb_XOinKEBK2FT4W6n2SLC7H8ZVcS2p
+.netflix.com	TRUE	/	TRUE	1794380805	NetflixId	ct%3DBgjHlOvcAxKABIAZ2PtEKk1XTKl6tAuPT6WPmBAAo_TCmIStXQ79cdA08CMh1Mnwqnleg7sj541AbPyzHEG9TdjOjELmy_uy7al7AaHQRkIljVyPD8zHSW0yOWN4B8BI9E0isMG-NltXQukI_wFZ9YVXjMrLCwAJKTqVip0_yitgzoPZkwtiQRRLgrphJhCQHTJYmlqhpXiIFsNz_yUoHWRvXX3JBDP7XaCumrljiWLbu4OFbM9PsS23DLoom6q2bOluAULgNmXhNeHYPY0tKEqS9X4ow0XmyNgsGihcyGnP4SbIP-dTiPGGWytoauobrJUUAzw3WRNSN8iA2OWLjVFv6sdS7OTXLgqzaNQxvkRS_lSLzpFusQ0iQBqaKxLw0v4ouhAYWSRxP0_QuUvQ2NNiLuyBY1CF0oSvAw7VzNvzW66bi5FqXW0Ers9lgXu957ChI6TkyRVkFNWuVky2U736Mq_In1Mhmu-dMFjDgXFihrWU7ZrKUs8VFa3-xL4Cie4AYj6XVsU7Rges2iHA9GpXHi_mQdXzc8kKUWWPT3gSUAkmTVR3z_AKJmMpBV5pbcMJ8YcsIge7nribZetBPQR0ZJH7dVhlZZZJ2CGcbtF3suVN84He-Kxcedol7r-8APcVQ8CJwVitUJLrJma8aOKXJKCrWu0jfCN_FmXSPRIiymRped1YLDNKGAYiDgoMPV_wWrSQzy496SEK%26ch%3DAQEAEAABABTUOfhnRMdjfyC7TGqN68R8y2ommB-u-70.%26v%3D3%26pg%3DOVEG624TMNC2VBIB2PKLG42XYI
+.netflix.com	TRUE	/	TRUE	1794380805	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWbQZVYmYa_xL6z4T9sX5baIGoyu1pKao.%26dt%3D1778828805634

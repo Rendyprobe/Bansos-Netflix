@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tayyaba
+– Email: umershuja@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: July 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 2204
+– Phone: +923015533535
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Umer shujah
+– User GUID: 7AGTEGZRBBGGLBLTLX7J6L6MOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807281717	nfvdid	BQFmAAEBEG-Uhq8M0hWDbm5p_6ydC-pgHWu_qYxHNCuG-_B9BXjOo4ExRsOmURNJbEu1AijAVcFvMy5PaCvXeK1A48ptPM0jNrSWIDSEAvrC_MTaMU2nCK638jJCoIcXWKuKJycr_OiTFlRUm1EszvcTpavVGvl2
+.netflix.com	TRUE	/	TRUE	1811246255	NetflixId	ct%3DBgjHlOvcAxKBBPnMU3u_jxN9pyqhST_9OgOe9HJEJFUx5zSFh0nyniB1Gr5ueZsg41Bh5xPFGVrN_LtckgdBhJuKs3I6ut9hiqNPkUygzDvX8I4l4QvZXN6eseBJOBb3PL_5QBtL136S6p5oaL41Xk4sSv11Cewq5e1GxL4VMujbGe_bWrM0GRwJseK_Ls_oa6EosHtM_FoX0HEfKSIksgp-YORnfsYlErtk0kUt5K_E-Bl5twvECtIDU3SIaPCghQMDa_LtLiYBegArJqPd9b3pfqee2_2Y2Si21jQbuZrQNc7HK7i40cNPm4iINdx4P5UtpF9bw2-XV_FTy0iB_3fhv992Py4h5EHWvfoQSanP5oIaFg29zfXbjc6-1QAezIv7j03oXMzfprlhe_LhH6nP9PsmkOcsS5BCNfvLF9ZeANOwnMzfXUyCjDh6WrHB_ekaZUpjHtO-ksvXN0m1YATogfY3zCn_NjSd94ziV_wSkVe6_3gCunuEk4E6nx5lVyHuALlPZSZh1zNgrfZ6as1n1nP0e_9Ex-gwwcab6Zi-TXjcGunfvQIAHC29JHdZuWGHugA5WvH-G3fX5EielxKvqipkXqz2zv3797TQNR_U0n1H03VpdraKa6FJzM82-_vDMLNQ1yKfLeqMe8x0pUisb3YDYfyoXp13W1TBclfW-5457iiz_w7NExgGIg4KDDT8yIYT8shXHVZIBQ..%26ch%3DAQEAEAABABT-rkie80d3scl5LEty1kxI_twV3Nd7VYM.%26v%3D3%26pg%3D7AGTEGZRBBGGLBLTLX7J6L6MOI
+.netflix.com	TRUE	/	FALSE	1811246259	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+16%3A57%3A39+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d25494d-88bf-4734-8612-f49afc144ec1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775744148252&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811246255	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUrETpJnMbIK6T0OrAgMuG0_CiJrGLxbc.%26dt%3D1779710258885

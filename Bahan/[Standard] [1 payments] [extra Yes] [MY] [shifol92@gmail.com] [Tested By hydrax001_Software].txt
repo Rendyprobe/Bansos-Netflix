@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shifol
+– Email: shifol92@gmail.com
+– Country: MY
+– Plan: Standard
+– Member Since: March 2025
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 5458
+– Phone: +60135345382
+– Quality: HD
+– Streams: 2
+– Price: RM 49.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shifol
+– User GUID: 3ZXIDN7JHBHNRL355I6CDMIXSQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807462718	nfvdid	BQFmAAEBELBnH0qPzx8GT9nZnW6JVIRgnW2fspjSTSRn10Jkhp1OWZWKkgLC_U9C_kX4J5G81KXUFEyMMWpNB1MKOgFb_pcEVeUctYiG9Vuk4iGR6muPYqZoIxzvUQjnfuTueXY6dCO9xjBEv1iUNNFS6IrNF8nR
+.netflix.com	TRUE	/	FALSE	1809352562	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+21%3A56%3A02+GMT%2B0800+(Malaysia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b5c8da7-0ff3-455a-9074-fdc464e3ede0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775926718918&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810384883	NetflixId	ct%3DBgjHlOvcAxKABJDEwq_xxpkG-djDJCT8zWyWKux18x_-04DX1gduwDXkkaTRRU4fr7fLVQQgFy40p2lr8iQJn3EWnN6VZENK8BQhQiR39oI14TSBEFIfzKULN-PvxJDUj5yIMWdZ1ztZ1NkkoLTMnSe63H8HxuAbjsc3dWlMWq0TDif24507sutJW5oD-HS_SmCMMRDOyiqY8OD8WtbO3Ko6-DaOORi7tJsZa1mi5SNXmtGj57_K7DYrUj7Q5eCsCTYKwUyzVXIy91lrL1m806fSV6ik3RscAF0IINRU-YMjlZyt9UXKiFnGv2cDyajGZ-xv_TES_QNNY0OAIS-kHOrY9PaLX8f5GfzJ17aeURp9GptiWuiRwWzRvIyeJDBUJPM-aL5Lq-dcIffw_TOHzBxh1koNcpGMP1aYYJPmvsNiMi4JNG8jod_MYv9umfTYkz057ltDyGztIGdsaXdrGx7arcH72_dAf9mYg2DouC9H6KdLfKbwN5LZuRKY4R-EKqw0iWQLzp8cXaKqop4CuDmxVrewgHSOS6koprgFZHr4G-iN2k-jpETJ6ZiFEn49KEKKEKM12AgrXxAVv1PDNbC1xtTM8o3Ddjy9_cQ6_z8NyuJYdrdw21ozB8M8CdXKxgkc5mBcoS7koaukUKoRR5Z-tKe7E9o2PkyO-YD1dXxJUwzTUJH269ipGAYiDgoM8EhIbtsFNkPuP3dj%26ch%3DAQEAEAABABTfQwdGO-RzRdKLnXfo03jWGN3Fg7GAPgo.%26v%3D3%26pg%3D3ZXIDN7JHBHNRL355I6CDMIXSQ
+.netflix.com	TRUE	/	TRUE	1810384883	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiht8tCVfHUmIJZ3aj1gUuGZDUlc39YXw.%26dt%3D1778848883691

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: luis gerardo
+– Email: cpluisgerardodiaz@prodigy.net.mx
+– Country: MX
+– Plan: Estándar
+– Member Since: diciembre de 2013
+– Next Billing: N/A
+– Payment: MEGACABLE_PI_BILLED
+– Card: 4891
+– Phone: +524772170255
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: luis gerardo
+– User GUID: ZF72HEETQBDRZFP4BODJQKMPNY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786242114	nfvdid	BQFmAAEBEBX2ZMKogk0nAve3FPTEh35g8tmrGA8oVcCuU71OjfxxI1dQ6r3pFCSR_zzvTFjaIozz7iuUKH2p5eF72b0-0_xvBRI11BM1UHGXd6vuvLNYXixDICj82mxdWbBqxuLsFqO1F_HpvzOxUzwpB2Qso9ip
+.netflix.com	TRUE	/	FALSE	1795383029	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+15%3A30%3A29+GMT-0600+(hora+est%C3%A1ndar+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3af90df-85fb-459b-8a59-7d374218410f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BGUA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802921577	NetflixId	ct%3DBgjHlOvcAxKEBNKOq7fyKOq4GMWhbpOwgotuxJqbyVGCY5IWpi7pguxvYkT9JrJeQvPh7dN6B7QgDbrBUxxM-vNn7pK2gcfXXL9LE03Hw7LcaYqP7OErHWLNyuCKmGZI4_ZCfsy2RRvtpXHJyooyHeu9jpgkJTllxSAi7XCA6ZfSetIdnmohx8O1iq3oNehzUjiMlYnlgCp4HeTVNYTiKBP2lExCteCfF1dLF7IEl7ofV8maDoOKGmdrMG-ScGiS1e4gTAbV99IGLs51RSIn3WiyADIJrFzdgn5EfsqYsMjWYTxYRntmpcEePBEi2hPs__eibwtbKGt1XfLbXEqFrov7CvF5NzYn9HViwCNv-a6BJzDsWxd-AVWfns9DeSq-6mhbwDOEQ7NzZtopNlZpi6CEb6ndNid-0yub9qXD1XUgxL-hhlz97p-RHUBntSuvZky2nIJhvKJG9Qr4JWpyFtNodyJi2W-gNVCdk6Yg6UdIYaDtwr1eVPCwitcMnmV9TmRA9x0IIjZeKY2gKAzfoII98ovUmI1mUtcIEhWxCmvpwYZS7Y5s74uAdb-uTBMKDkasYLbfCX_SePwkCVdjd_yRNI8O-K6yO_hZ3AWoUwCRpgWdXHEzHigwdnfLwXceWu4oyGQYPhUNNXWkm44b1DvROIIZUW5rTR6bIFiWMMVt70nvKUjG1dVY4ZaO9xgGIg4KDN2w5fDs6woG_slKwQ..%26ch%3DAQEAEAABABS9NY6pYLM88xf9UoRT4i9vIRuF6tKHfyw.%26v%3D3%26pg%3DZF72HEETQBDRZFP4BODJQKMPNY
+.netflix.com	TRUE	/	TRUE	1802921577	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdkVCIyOFVr-CX4sUX97rC1nv8pkbuFjY.%26dt%3D1771385576464

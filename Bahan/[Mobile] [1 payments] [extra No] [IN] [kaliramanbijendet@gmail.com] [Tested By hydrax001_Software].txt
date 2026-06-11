@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kaliramanbijendet
+– Email: kaliramanbijendet@gmail.com
+– Country: IN
+– Plan: Mobile
+– Member Since: January 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 1842
+– Phone: +918448160093
+– Quality: SD
+– Streams: 1
+– Price: ₹149
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kaliramanbijendet
+– User GUID: ZDZAZV2QUBGBLAECN6NRK3UVJM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805357989	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA9nNbNKGym-onGV0mwnIZ2ZVOZLbOTLrPJ7BxWHFHDWud2p5QjLInAHDilp2SYcgdNFvYw_FI5XfUzsTDssvwyGx8YhdgiinRSl89GES5W92zHzotaNJSiAzt-ysyNAloAV02WhT-3piRorSUB0l04OUknN69ux2BLI2ceU-MYbBfxFVZvkunsk-QRF9oqgI_YSrwDKQLSMJPlYVOAD6hnv8DM4azIkyEM4MlN3BKG1QnoIMAfoYYKowBHF2cuQBYjnqwkuas2w5BDRK_6YYihGTydXSipBAcyEI267MLLhTxCpZQFSMMDpuUlfkeVz9PnE5j0ComIbKXH-3Ci120hEp6sXNqtkEvzI7hAbvU8bibtsgjYCRxyByR1ypIqr5F9BsSOp6_mZWjbWOPz0xSRRdUSI3O5BPgPcSZMcC_Rh814CPG2_vZ5Di0Xuaoz3fVEnvgHguUx3PPe9iQArGvrcXiMcTmAVE38DEEsX6t6zSl08Ew44VDqVrqnrZ56W1eGsZ6v1eCYSOVvL9XKKQ27yZGAYiDgoM2QofqkR0Mfae_iBo%26pg%3DZDZAZV2QUBGBLAECN6NRK3UVJM%26ch%3DAQEAEAABABTVOuKP75v8_FI2yrPcIhTFZ9UhRSiHQ10.
+.netflix.com	TRUE	/	FALSE	1805357991	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+13%3A49%3A51+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d86a3b7e-f19e-44c3-8565-4b73243c839b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805357989	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTN65tcFCi5fuPwLC_4wwQjaLUbVf5UqCA.%26dt%3D1773821987197
+.netflix.com	TRUE	/	FALSE	1805357989	nfvdid	BQFmAAEBEEMoT1KUJ7-CA6tdqttOWUlgHTvnQVG8YNnyDcA7cDzszACQ6h5JIh5a9azNRagYyB8Z-QAG3GDhSlInpJC2XXb0byJyWj09hOQuU8X4lCdPtkVKJY2jkyqJ68DJQEMD4gqUNswWn_PJcbSb5jRIZer3

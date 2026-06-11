@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kesse_Autres
+– Email: rene.kesse07@gmail.com
+– Country: CI
+– Plan: Essentiel
+– Member Since: septembre 2025
+– Next Billing: N/A
+– Payment: CANAL_SUB_SAHAR_BILLED
+– Card: N/A
+– Phone: +2250707255256
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rene.kesse07
+– User GUID: BDM5N7E4VVDN3E7RBUBJEVMIRA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808276065	nfvdid	BQFmAAEBENwqob5dh1m9WX4tgaXU7sNgoxDv3hLzV_AFxfRWt0sDemld5H0LWtljWgORxlzmEn7pDXIZSIDnL_TmkqACI9I0eAgE9ApZTTlDLxmDR_-v_61NUaMoBeYKHKuTOijwE4k_DPGfzq1cPHFcHSJ-BQ9u
+.netflix.com	TRUE	/	TRUE	1809609976	NetflixId	ct%3DBgjHlOvcAxK6A8F-FVwHbJv4UlqPS7F1VpBqAMktfmrKtW9aexRLB3SBB0kMQOUXGlg6qQEogpPcD75DNe3Dbb-qzqtWjGuJHpCl-lplv3H5EMlfihoAemg9v-dkKqCy8i7Jbpst8my_MkFdne5L_R6f5E7WW0TgFA1YGEvuIoMW9wYbhcW_Y-ltyNqTRhF-D75wrZ9aI9Gy0Oz_swYkHY7hUvyrvItp761U3rswDXt9AIfNQdDAf9SO4ZgXDojqtLARIHkBk5Ybcs41UYsuxziEpcSI5Qwf6lkJe-QHNVFSHyyuogFdhDTptUBcU2S8SdeMXvsV3jTTAdKot-Dlvu1XoLsoAxynGPriiOR_ApCOLwYpnmvxcY8wGqiOGO9V06_iPonhH0D65fymFJoz8eBEwO-5RaV_vM7DQcc93DFILeXtIo3Rk3jiZDfrV0bUm-88uE-48YejXStOL9JBxs0GdHBel0akgDZkbA6mXjt4KgLT8BNwdigjNw0O-Z6ruJueFkaCdp_0eQSRUJmWJmL3mNb7hRRTVIz-juijn3tnPJMw3qLFij24cXeT-0sts0NQeAf2vHVaYzBI_n7_E4BGT0cYBiIOCgx_IUC3gEDFH2szOyc.%26ch%3DAQEAEAABABQUROec9gBXCk8H_O8MHXdFquIMf6U_T80.%26v%3D3%26pg%3DBDM5N7E4VVDN3E7RBUBJEVMIRA
+.netflix.com	TRUE	/	FALSE	1809609978	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+13%3A26%3A18+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07515423-7d01-4846-954a-32d85beb97b2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776739739636&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809609976	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQom9ckROE05bR283W5KfnHxdpvxkb-Ju0.%26dt%3D1778073976550

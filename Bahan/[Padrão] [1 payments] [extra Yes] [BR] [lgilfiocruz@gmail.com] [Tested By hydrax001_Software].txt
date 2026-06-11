@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: VICTOR
+– Email: lgilfiocruz@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: junho de 2015
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 0907
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LAURA HELENA gg
+– User GUID: D226YX6L5FGC5JQZBASDFNB7IU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799201419	nfvdid	BQFmAAEBEC1w_sZz7SjCSQnlJ1NCjG9gZjyCSI5LQjahH1_hvBbNTfOJtn77ie-2uJfqcUAgjTBZFcbz-cNY1Cq6jXGrEpCwNVEDrSHw3LR8aRT0jSNmQR_KuemlXcJQsvKinm0zqCJZhnB-Cvl_5rpIbxno3uZQ
+.netflix.com	TRUE	/	TRUE	1810987996	NetflixId	ct%3DBgjHlOvcAxK0A1T4xiOTz_lKR6EOYju6VTy5HQY866_ia_u118KywhA2M_mEg_occESKrDWyjcOKV3Xfz0PCerAkUtEUIkc9muYNoTXRl838s9LbxyQOtNYoXOQeDB90R8ojChnYdxNPD8947XbLVtkrR2yKVUws1f6kydYqXTZCIk9vWWXsIskWOKeHf3hxYmEIsVeaiom3hEVOhc5C3TUVyCauKez-qrr68RYw6HIY55q8IjoArZJYzw_6AfikGamSsMkdEtXo7IgR9zLKViPdCXH41-W8tCbkhx5LjEnQa5JNjRP37JD2w4riAjfiMvk1Ls-zgIjm62XoBbsqY-6JRB1-diokqOGgaJVc9DgG4JZLwhyY8MX3Yz9IcD2ilahISMF91ifBjW6h3CDcLX9FgNknxQrM0bnkaC7itkMiyypHwZp7pdCI8beEwe17VU-UiZ83EyXWhNC1O3Yo9ggki-ZlKXW_fb-xMeGBAPnj7nRoOmCaPmlKljsErnubdRETF8IKdttk9Her2rqZaVhSGDs5wHolE2dhJ5ga10ZFB3FrnJn1fJy0yNEYjVS5TwTfw_hhS920BzlF9S4YBiIOCgzZQddXzmquGqfnwvA.%26ch%3DAQEAEAABABSuVgkbsIjGb1sjEw6_YAr6aUx-7Lh0-pk.%26v%3D3%26pg%3DD226YX6L5FGC5JQZBASDFNB7IU
+.netflix.com	TRUE	/	TRUE	1810987996	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQANt1UXAR9eTuBTLbslSyoMuw-M03aCN0.%26dt%3D1779452004910
+.netflix.com	TRUE	/	FALSE	1810990418	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+08%3A53%3A38+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a5e26e3-d2fc-4156-87da-0fa45c13152f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Reax
+– Email: sheetalspawar30@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-07-07
+– Payment: UPI
+– Card: N/A
+– Phone: +919819042525
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sheetalspawar30
+– User GUID: ZLUJVKIWTVCSHJZSW2W4VZC6IM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804413712	nfvdid	BQFmAAEBENwUZ3mp04JzmOBsFmsxxQlgw143nDiV0NHDE-YuhMb9TUcVH9a-Bc1MEdUBZ7BNg7iwIlhRiZud9GRvVWZbRjStS6sc1RP5cyP1tbGbIx_guzJoetLPWwcw_DVdSYG7ZhcfvsZweJr_2UNRNMvbKXBv
+.netflix.com	TRUE	/	TRUE	1808457663	NetflixId	ct%3DBgjHlOvcAxKyA3Zk3abvhUKvTJkKLgXiZXs_RZX5eBFxJDORq2w3kRbPM-OF3eYBsKv7uVynDe_D4ldUEw-dFJ9ZxwI-jkGAFgLbxiLV6Au_WlIIRJXB01OJ-72CnMwkYua8e4q7WsKjSiig-GMxImBnJ06W6_V49v90QwN8U1_A85uGFoUuY1rlPo27ehGQV9UeTy92sZ9qQQBg4_k2KB6Kfw-3BTaZCAPxyFNuGvZbymdMBWPP1s2U67sML-Kbmw1_e3pYLJwL_cFwbi47D1kO3hODMlSpzppByeug7K70H7KfIY-VSDaPpILnw6bbeNNFILOZ6B2v6AmSmwAEcwvvJ3tcp85C8EkWlPUDCnGZOm88rU11RLNiHjSfNdmX-KnoNdPYj2SnM52R5Vyxtpzf9JZ-MawLCaOXirydgXXY0lJgvXZ9ncQ6e1zFMki5TfaHdZp9HBtwdziW54LSAHH0tNCkTFVKKVIYkzTjLMjhvJvOLVTi5ee0qBPRKKdgQpEZeapxREbycDf6yEQy65YnVrgHsdXhczvwPUhDfqLOj8U_-N92MuBs8714tHzqo314Rw3_4IyAdaa1GAYiDgoMmMF1xghVgN9mXbHw%26ch%3DAQEAEAABABSbCTVeYMPWrZsGVF_cchFmk2ed01pTM9k.%26v%3D3%26pg%3DZLUJVKIWTVCSHJZSW2W4VZC6IM
+.netflix.com	TRUE	/	TRUE	1808457663	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTbV0QLtrlw_YBwo_PwmlkfNH-CDkDw1Mw.%26dt%3D1776921663359
+.netflix.com	TRUE	/	FALSE	1808469068	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+14%3A01%3A08+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5a14fa2-fe6f-476a-a73a-72b727c36a62&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769531843136&AwaitingReconsent=false&prevHadToken=0

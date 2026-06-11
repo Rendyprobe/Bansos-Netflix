@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: IT
 – Plan: Standard
 – Member Since: aprile 2022
-– Next Billing: 2026-06-08
+– Next Billing: 2026-07-08
 – Payment: CC
 – Card: 1781
 – Phone: +393498135278

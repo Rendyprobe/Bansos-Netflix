@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: blaank47
+– Email: blaank47@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: 2026-06-25
+– Payment: UPI
+– Card: N/A
+– Phone: +919597597384
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: blaank47
+– User GUID: UGYOMG3JJFGEFCDSZ734CBPVTI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804428124	nfvdid	BQFmAAEBEHIyoa4tHFD9WSogUyfY5MdgeT02Rho821nGptxetDezsVX2i10M2QrE6eQQd0xX7_ZmfYfIg8qlESuiAtl-ACwiXJRQlTKk6zVpZ6Nh4dY2uDc3rvPOsrwlkw8hjoMH4lVhMFOt-4OkHadXAQvkU5FU
+.netflix.com	TRUE	/	TRUE	1804485658	NetflixId	ct%3DBgjHlOvcAxK_A8cq2g5evr-SaSkziYZmWMBQSyZvjo6nxuyvEIIo0g8AxLM2Dj0SIViFyWleGCn4hcTc431YP1W6gIxBXpzGPmv1MES6Q56p1Y7FfWcqWBpN0qjkDeCv2TISRd-VwsKSkB8QlAGAgv9a9zT95JQ67_t_pi8CqmFP2XWBR33PNRknsNuVCgU7XkV6zpE6CyxPtK2V_pZGseARXKyGlRHHuizOoI6kFOrEUwqckzDQqTVe1dEZhgK7cPzF3JZPzMoh0R6ppXTbhr0Jh3FnMUtn6JTK6OxOhRkR0K2RtqBd-yyzsIafO6uUMCNSfMuy3affF-nDwIFhpUAK6WXrt8ZhRa6gF6thEajnwAwPN4LaDnmGmAzDxOF8l3bGUEqLB9-vmjcr9EywQwMQkjWnrlccv3xa34zVXqJVl6K0BH2W-UAuMQ0UrrVMUjvplC3ytNDe6fIdUy9O5Eq9N1VeSXNKsadC-VjdvC6DypIzs8JDRNEDMrfE6WR8r8GIe2kzd0wcsEKAIb_2l45tCumJKtcG9Ok9ZwxD1oz9InHJ1Y15uApEyn-A6pZ1WsQcSjm_9XaLl4W-FQkFUsW2w4NbzUvQihgGIg4KDJC32EGVxI9stkC9Lg..%26ch%3DAQEAEAABABRI5ezdF-zQKAeIDVSXQ3XXBPkKH_6bbu0.%26v%3D3%26pg%3DUGYOMG3JJFGEFCDSZ734CBPVTI
+.netflix.com	TRUE	/	TRUE	1804485658	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRr3BUa4A56DaLbPgyOMc6NYlkZ6EXzx5k.%26dt%3D1772949658567
+.netflix.com	TRUE	/	FALSE	1804503360	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+16%3A26%3A00+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f0f82bd-933b-453d-bb7e-6d58cc007ef5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772892066004&AwaitingReconsent=false

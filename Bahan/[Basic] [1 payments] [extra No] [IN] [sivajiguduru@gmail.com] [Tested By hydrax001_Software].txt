@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Likhitha
+– Email: sivajiguduru@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +919949479773
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sivajiguduru
+– User GUID: CDBZUYWBZZG5RBG5QHUUHSCPSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782765517	nfvdid	BQFmAAEBEEWiBeLxAKp4EO5s0EmWW85gaDVW4VUhVCKPe_V4j3Ej45xqcGdp4ACwPWA3-A3Q925_IDAfbFyVE9w3csy8l1VSMzrkc0P4_nSATmPp8uk85x6jQiBfm0QbY9VEg1cN39dTGF1PQD0uDKTZfr87OzVM
+.netflix.com	TRUE	/	FALSE	1782765517	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+18+2025+03%3A39%3A21+GMT-0700+(Pacific+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08c81fc7-ab90-41b4-a787-110f9e3f108b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782765517	NetflixId	ct%3DBgjHlOvcAxLEA5lEEG39vn64hYN2A6r-MHHlGh5uerJSu3gCfAGt7Wwdi2_fqDk0dnqtWUIU07aFTs_ligsquY7UnjBdwOFH7YS97_AvL8EYRp7WDJNmiQp_dVIwa54r3kRbMDw76lwL-muxciBxbT438t54uAr5V0qup2TJfjzUkJH3bj97b146HDUapdgRGAF3qU2kq7N7Zymu8WZHghdqzPMR8wRi1asKxXlPm9DXyG5yY_4Sbzlx4dF7tyBzMqpKFFJYr0IOgbioBzjPcJc-r3tLjIxXYMrROqGQHigebV_uo0zOHpGYOq8Ys6vp9BJT_IexYCiZTjOe0TQhMl-IFBnl1kdZCbEqeaHXFv-0cCcKAA80UqkbnLVLOCPT3KBdgdROebLYc0geYO5TnEMYhf3jwU-ObAvFVs9inyxVa5Vy8MiWZjlfd6xxe7jJMvZ7CZ7AgeLdobI4ZWSuK_cMtUljYNWKGzKluMWYEltsmLrLLF1cH0DJbx0sWb4i7dfvinqQ3fM8iTMBhQzgTbT8JuaUFOhfhKVW93UKK2PlzNYRVZZapJKykFsycSRYnEV6sxfer1u0l_PHK_O1mFJFW0cQjGoewRNMWa_mGAYiDgoM-MH4fcR5kT3f1CCa%26ch%3DAQEAEAABABQL-MXpYRL1RJMUvIsTkCm6uIVqutMpmF8.%26v%3D3

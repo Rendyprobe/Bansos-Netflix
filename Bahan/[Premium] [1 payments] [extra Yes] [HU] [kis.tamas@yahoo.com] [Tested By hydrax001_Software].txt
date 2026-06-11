@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: GORLOCK THE DESTROYER
+– Email: kis.tamas@yahoo.com
+– Country: HU
+– Plan: Premium
+– Member Since: May 2024
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +36205873578
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tamás
+– User GUID: D3KEWA6CCVHJBCECXL4TZWIUGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1789394883	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEAyDsygKPiuoEa49TD05ay02ZbfRj4GNU-CwA7mL4a1vZbTc7KhxnnjAc9plLAzbLeXEEKWJy4kenIKUXV3oze150-P4UM56XlBOuBLW2km3V4_TuVSgMXrZ3RyyH7lZK81cA036WHdFo8A0Gkabalc0dqnqJUVsRB0luy9lpIv8Ri7JuciVtO6_g5iwmD3AzFXjBq1gLWebwOH1IxYsqEQzz_hwZAIKUPTMZE_GvnwiStWQFvqizwuu9Xg-0dJ9w7O4I9J7ReV2uKP6_MWoHeOL-EGujgQNhxFTCQ2bxDeA9Q-pYyV3A6niUjJYdc5-w0ODiJQE96TQUKFfSV7BZ63eCLHeBu3c02Gu_bXu_uHUTaa3ibYOVz4ehQBZMD0p3YGjan_Dw5ffrDPSNNX5Qefv9kj3jfbygPfClgrBGzw7ji2P-wpr5GJh7jVzsAe8JitkzxoAyp2ncBoxcEOpKureSY6E9otBRXsogmbPr-MdpX3vXXcWlJyCW6uHDgPRScOvljVgYBiIOCgw3cC12wqPm64MYolg.%26pg%3DD3KEWA6CCVHJBCECXL4TZWIUGY%26ch%3DAQEAEAABABTYfYM9Jiyl88G0CmrCBh40rJ82NSXT0xU.
+.netflix.com	TRUE	/	FALSE	1789394885	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+14+2025+16%3A08%3A05+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c91ac20-9671-4d42-b7ec-4facd904f162&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=HU%3BBU&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1789394883	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-Biq7htk1ncHN7lriSUIkJE8VCUVRpXY.%26dt%3D1757858884628
+.netflix.com	TRUE	/	FALSE	1789394879	nfvdid	BQFmAAEBEGSEz1VwR0Ye4D9yiSzR-tRgbwBXxy517wfRUyWyg1ScdfvWJ9YTR5UA4Xtau3Z5VqkLUrJmQkWqCiH_0OmEOwshp6IlYYa8o9D5WnmbL3J4NJ5WljqeJuhiLIYPwUzbfJdbLHryZFCA7evx-vvA8YfR

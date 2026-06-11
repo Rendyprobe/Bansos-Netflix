@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pholyne
+– Email: harleydavidsorn@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: July 2024
+– Next Billing: N/A
+– Payment: CONVERGE_BILLED
+– Card: N/A
+– Phone: +639764063293
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Harley
+– User GUID: 7KBRSDDCNVCNXE3YJKHN6QL2DE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056505	nfvdid	BQFmAAEBEArO4Wy9z_Prv916Trdgkn9gE_46WAyJoZq3ED9kXQIUDc_sEMW_zczOioYM2iOhpWyVy3s2deoP6PkvWz71doojOJoM0ZV3D1R6_Xew7xFpZzfjHxN9Dxy8elli0LjyFaIfx-LCRHS21z3FXJLjRsBU
+.netflix.com	TRUE	/	TRUE	1782113996	NetflixId	ct%3DBgjHlOvcAxLhA0c3sPQiGikDJiLvYF4VMdipB4XqJomfLcrSBa7zDFaZ8g15k_iS_D3B7x2lEGc7uxbzYXFSSZr38lfFHGnjIfhW_ORwujvkooQJZnL7S-PJC6gEbDW18WRpEtymfEdi9VsEC-3Zv2pznt9JkuZhsd-dx94dSSUvplu_JlflGRxMAcCvpkMtwkEzKXjmTrNlYfbDLE53YGrZodSNKX7d7XgDM16gecEhltx57mNTIej0oHw9HIRT2ovGfhdDIdhHa7nAEWIqXL1y573uUBHacccb23JiEJksRSCoiQa7-oDDy9ccVAsaszRq5Dn_l4rTVxQPLD-iZZpzF6Zwlb5ALo2EPycQwqFQFJhwapyPRUKGK745OoaRjk1qP3OIeg6DWk7leJttyiw8suih-mSZWcYpvGsBYHoCUNIfg10MNy80GtR1GeD5DsgS2ifakCcJgnjrU9tg4_f5B83yp50sXZWT9dCn2jUxwPbRnql9nsk1kZEQ4nejxgm9oyZ6XeUEzo7YL4Mbo_8N5ZftkGO23EEMzU9WR6bJuxObqcCoyskUlDx7XKcg8jzPCexEfiINSjWexARjnEOmm_EhC4urQAQm-Q5_5F80BI3RhNmBRmPjfkUdYFF-wlJgjB1GO0TRXfwYBiIOCgzjuBKhkKOOnU2BRTo.%26ch%3DAQEAEAABABR1oMbbKRQwhuQWed2tBIgsQpC1LtCc3Xw.%26v%3D3%26pg%3D7KBRSDDCNVCNXE3YJKHN6QL2DE
+.netflix.com	TRUE	/	FALSE	1782113997	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+22+2025+15%3A39%3A57+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=65a1a3bc-5b65-49f0-9865-d3012f108b1a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782113996	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSK6H7jw4dtDS9iL7D2mIvkvVnmOzBKOmI.%26dt%3D1750577995211

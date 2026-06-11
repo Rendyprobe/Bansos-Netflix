@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mario
+– Email: mariosettimo1990@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: settembre 2023
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: 2868
+– Phone: +393486268389
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mario
+– User GUID: 24WNXCS3JFDD5OFZJWH3EEIUYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804705013	nfvdid	BQFmAAEBEAtuB7MWLHN9zQdwY4y6HKVg7bFpKoZHkjNHvpfzaG6AlfDFpN40GcqPjZuvPpCy2iekF_4gD_xRJmQq4BMzxOgOqjcM5gmxdvTHOwCG_w7h0rowzswreMy2eWcmXtlTYXI0XeTp0_DevQcdv9NqwWOJ
+.netflix.com	TRUE	/	TRUE	1809034396	NetflixId	ct%3DBgjHlOvcAxKDBDX7rGNb4O7RDfwUdMw5BCZDF7Gclcleit-a3XA4zqbBbcbr43ju268BTaNUECtYM_QnUu8eH8fV1ksSRQ-jvwfGqz6CrJanC5FQacJR_ngkheCVtJPwkxw2-r5jJq_dEYW74GEVGiNSECsREce9HIAAvaRnnoPBFQi78YGx9-B3Tx43Nh-FD0_zhUsrfVlZFBCcC5SaOQWa7YxEafMW-Czb1d8LNv2WjehcOEnJykIAJDIiv9mMaRRjpJav0LoGM0V8NxzwalURl0F3fMIS-_6u7NFkufd4DGcRYg2BjNHqXlzXjBXtqATHykGDf4VYRWodyWrP0FJhuGD9FdDWGbyScqqu6tTsL4H3Y4K_Hy7MhlGug_73YeKGrvw2STiicqfGw-LH5-lv-zhPKhIJcsQhj5nz-hgijWehCx8QxscGlGlaz-_tu7v-RG2iwNfBCXn4C3SMK2IgQexHUV_bT6qC9LA59834aD9i7mZXTCOeFkPGfmipgq2UjUaY1p4UTcoq5o4-PlZx6Q22QR7QypTEcrKmQe8cPo7lP9zgx-DMBUcc8929nq1L00Oqzm5jz_gyM-q0toHbf8rwrr98M0jGUj7ggP5_gzjGAz316_W74nOQypxum0C9TSUUv-hUlO5Ry1ACSNyoK2_9-1AxcJhsonCBwgHNY_GGar3CxSkX8-KWGAYiDgoMz4d_oS2Ffkr4Nup2%26ch%3DAQEAEAABABT74voTFoV_qgQVBVxbqHhyrbYYhYgJbO0.%26v%3D3%26pg%3D24WNXCS3JFDD5OFZJWH3EEIUYA
+.netflix.com	TRUE	/	FALSE	1809034399	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+23%3A33%3A19+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7add3d2b-cb45-4767-a596-d972b0e066f5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1773169017613&AwaitingReconsent=false&intType=3&geolocation=IT%3B25&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809034396	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqH4PChm7IAO0XsA2RcUk0nhAYsGlEahU.%26dt%3D1777498397568

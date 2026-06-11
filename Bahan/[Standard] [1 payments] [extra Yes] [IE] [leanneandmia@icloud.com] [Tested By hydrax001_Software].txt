@@ -8,7 +8,7 @@ VERSION: V2.0.1
 – Country: IE
 – Plan: Standard
 – Member Since: August 2021
-– Next Billing: 2026-06-07
+– Next Billing: 2026-07-07
 – Payment: CC
 – Card: 7306
 – Phone: N/A

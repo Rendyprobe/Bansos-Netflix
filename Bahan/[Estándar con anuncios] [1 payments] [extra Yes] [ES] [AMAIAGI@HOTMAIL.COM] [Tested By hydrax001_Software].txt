@@ -8,13 +8,13 @@ VERSION: V2.0.1
 – Country: ES
 – Plan: Estándar con anuncios
 – Member Since: diciembre de 2025
-– Next Billing: 2026-06-06
+– Next Billing: 2026-07-06
 – Payment: PAYPAL
 – Card: N/A
 – Phone: +34656709303
 – Quality: HD
 – Streams: 2
-– Price: 6,99 €
+– Price: 8,99 €
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: inahalina84@yahoo.com
 – Country: MY
 – Plan: Premium
-– Member Since: December 2024
+– Member Since: diciembre de 2024
 – Next Billing: 2026-06-10
 – Payment: CC
 – Card: 9965
 – Phone: +60138757075
 – Quality: UHD
 – Streams: 4
-– Price: RM 62.90
+– Price: MYR 62,90
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes
@@ -22,13 +22,6 @@ VERSION: V2.0.1
 – Profiles: HAZLINAH
 – User GUID: M43HF3Z3UVAC7PRZJBFNDKKW34
 – Admin: @hydrax001
-════════════════════════════════════════════════════════════
-WATCH LINKS / NFToken DETAILS
-════════════════════════════════════════════════════════════
-– Direct Watch: https://netflix.com/?nftoken=Bgj6uevcAxLCAQVsrovwDNeb+tF7MUbNde6RhxFhh8bZ/8aK342wWpKJRPZCBdCawlQOWF/KFKv/SsTiNTxsN8lLAdchH711fmHH8wACSom1FdDKk7LMgEwkjo09/Wp6XJZD/nKWp5qHxGEaG2n9EJo0RQhB2vhXjwTAEGxt3FXFfjk7pJAjLadSRZ3TZzRP1DRZEsBi4U0oqPL37voT74tx5KfHGSwTItO6l2Wom21y7Kp3gYya0hGDCr/RpJhWIrjys6lgFDlceoL6GAYiDgoMddTFA/6YTRUWbtHT
-– Mobile Watch: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAQVsrovwDNeb+tF7MUbNde6RhxFhh8bZ/8aK342wWpKJRPZCBdCawlQOWF/KFKv/SsTiNTxsN8lLAdchH711fmHH8wACSom1FdDKk7LMgEwkjo09/Wp6XJZD/nKWp5qHxGEaG2n9EJo0RQhB2vhXjwTAEGxt3FXFfjk7pJAjLadSRZ3TZzRP1DRZEsBi4U0oqPL37voT74tx5KfHGSwTItO6l2Wom21y7Kp3gYya0hGDCr/RpJhWIrjys6lgFDlceoL6GAYiDgoMddTFA/6YTRUWbtHT
-– TV Watch: https://netflix.com/tv2?nftoken=Bgj6uevcAxLCAQVsrovwDNeb+tF7MUbNde6RhxFhh8bZ/8aK342wWpKJRPZCBdCawlQOWF/KFKv/SsTiNTxsN8lLAdchH711fmHH8wACSom1FdDKk7LMgEwkjo09/Wp6XJZD/nKWp5qHxGEaG2n9EJo0RQhB2vhXjwTAEGxt3FXFfjk7pJAjLadSRZ3TZzRP1DRZEsBi4U0oqPL37voT74tx5KfHGSwTItO6l2Wom21y7Kp3gYya0hGDCr/RpJhWIrjys6lgFDlceoL6GAYiDgoMddTFA/6YTRUWbtHT
-– Token Expiry: 2026-06-04 09:08:19
 ════════════════════════════════════════════════════════════
 
 .netflix.com	TRUE	/	TRUE	1793870171	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIAys6dzI16_nyhCauIHqmKEJ6S6DuJuLq_1sI1T2X9klFnNzXJM6ogC1E5XnwWz_BVB50FWGl-teioz3ZasUdbTXY0LPLFnAAzVcfvCvRvqJ1G7wbCxCIt4N2Rz21mvm1R-MOexgRuLIxo3mXI5yHqHk_xjUQ3HyBJMFpCmSwty_IfT_FwXhAxZBJPNTSvDdJZxoUCZG5FZTdWhnXQQHuyrAGE6v2qbi6LR733bTqgZyQcIGlnLKz4MrBdro_kQjIn2tAn43E6kE8zcpXsm80EwXsrvcSLZam7TVAkt1e791Ma6QPI38VnbtvqtHa_GfcVPqVRu0PgkdCC9tsFm5g0ei7czJS5f0_cKlc2b_dC6DrWN3oog6FQ13tB6aOAhBIrjuhNQ0n89YIPKVDRmSbRQhWeslj7TKgQPuxF5aaTMwHq7KE9KdjBKvzsM10irZizr3vhCtTzTBttnA6_MLT37VVZIAN6c12j3Uwoq7505_9TUF96sgT0qvmNS2MgfWWCwaWAiDfJCJtGAYiDgoMcmorK6VxxBdKegsa%26pg%3DM43HF3Z3UVAC7PRZJBFNDKKW34%26ch%3DAQEAEAABABRUtcSDAAGI4ygqhEFrib0bT3SsylIIssQ.

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luqui
+– Email: hidaldoc57@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: October 2021
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 3955
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: -Leandri-
+– User GUID: ABXO664A7VETLCVGLSRK2NHNWU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782587820	OptanonConsent	isIABGlobal=false&datestamp=Fri+Mar+28+2025+23%3A22%3A51+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202411.1.0&consentId=bbee8530-dc69-4c77-bc56-e154a1452bae&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1782587820	NetflixId	ct%3DBgjHlOvcAxLfAyw_4CTFCkvYE-CD5vRPihzqu6ckTXSom6fJJN5zfUE51LHsiUTVJhsLh1LpWkn1My4W9NCiJyEgkgvB9SH9D0D1m5VXFU0GzhNw7qNMNFGRLm_mnaGoJP4ESx0z0eewVw6342UsjAc4hP32RWacgbyA1qs-SL4YBnm0ufuK4i3fHx-0eSNaw-ifgYiu4MvgxS5S-eqA5H8tDg8gLvBHend7seTF9HZgSVKpM8xftP0XDJ6kb1InP-TiCyGsyS4hcB5qtU9I7PQr7sYh_tLdzKqfZT8sOFBUnJ-W2AiUFAV5LJNXZ41HWXr0nuYwYekUEySazp37SRH8MtRiKvWxatwdNwgt5_ohqMtKVmVEPbIlFJ8XpNSlncoFo-6_AtXRrX-47dAHFIEWY7-T8CpYXfacjrSpPZghmWOnWdEByfxKQRhwWRgOgU7Q-G_y5z6EpxpQbQfnn7ZGTBDnqiHs1G7yGTQ151roCtG1WsYf5yWhSXO0sDrVlTqNlb-X2IejMj347lGa8zk4Dj2jBNrpyB5_t-kt1BKOhWOD-_PyqFZaK6aZgfJKZyBZNU-yzuGG0ECPq_jqeSj2HXAxJBu9jSjaZPlD2VtAF_NJn1Z9QMAFnzyceGHymxSZZkxHDxOvGAYiDgoMikASFNYxtzQMinYq%26ch%3DAQEAEAABABTwotylnJdGcAtf8qmdgGoQQQrYCjFzvw8.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1782587820	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTaS1go4Jvuyy1W-39mMhuOdFVgMDlaRQs.%26dt%3D1747037295669

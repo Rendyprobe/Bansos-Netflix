@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dexter
+– Email: lopez.aurelie4@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: novembre 2017
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8916
+– Phone: +33615801263
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Princesse Pignouf
+– User GUID: VK2EUW3AWRFSNPDP6ATKZGBRJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783448173	nfvdid	BQFmAAEBECUSLCM_AWeAJyALKIcgZn9gpwgHLQi6mZUskm_wpLfQDvCuiJSrjLYhEQ-kx2Bc1KpytUkjwhel3VwwZ4yWVFehn9FppHX-qMB8LQo6R88othZDPTfxJjbAJwt9bH8SN5_ke3TooyN9MtkDORdqC7Sa
+.netflix.com	TRUE	/	TRUE	1806338022	NetflixId	ct%3DBgjHlOvcAxKBBL0AQMxYAoWnEXA7ZWkTpSaX8rE0Fst4GBoRb0jQWL11AjGkRlWtg1E-zDk28Vq64UtzbC70IZfOGOeK0IY3PCv63JMTkG2JaML4TJIXSWF7oOPuJvWyKUiA2qVSY48stSPeN6b8Tzfk9wlnNea0XqAo7jCfBViy1Sr74z4JcmGkChglUzvWceM6gfwTPVKtrzERpZ5sXq1nXivrm1pEZdGyEhHn_1CkGLhTN0mOY02cW98BctObv7S6h2Bb0-4zAtH83hAVsovK7XEzTbWOJo-DX3zNYvJtif2gnhXZUJqrWaZ6LjcPqFNSCrVd-WlSlqGQzrEchmlylUSWWjz18LzRp75RxDNdyvaywGvur-5gaUmYL5XBLWbhyJxaNVHi1s3wHIjbyy1bmbhNCexv71ugZQtdXFXFGsZI9pnOqqWeLjMESyz-omuODYbWRrzGZShKr3QEib2lbuSASQiSlQPZ0djf8zegk5rU4S9Ddyrp5o7NHVCC3_EVb1GQbiVPC1fhQDCPhYIIIO-Ke0dHQXaC6h-Zsel9y-dHlLPMk_V5fMKyMkuybYT0CwX_7t4hprWyxUMSyTP-Q_M_frzy08hFqYnzK0yt3snyWjRFW_-2tVJAf7sIdqHFRZvglwa5w8FACtF2Qr4f7PFBBWTwPjiWM2kuo-L-UqS95k1yb-x7ZxgGIg4KDPoh1BF3Z-X3sNC3tQ..%26ch%3DAQEAEAABABSgZAcPvPnr1JzaOfCvK9Zsl2bpBdoK4jY.%26v%3D3%26pg%3DVK2EUW3AWRFSNPDP6ATKZGBRJI
+.netflix.com	TRUE	/	FALSE	1806338024	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+18%3A33%3A44+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dcaffae4-81d2-46a2-9c0e-f7324fc3d955&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&geolocation=FR%3BIDF&isAnonUser=1&intType=2&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806338022	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJ4H9Og0jVKYngdrDawZgkgjjcDwX0vPU.%26dt%3D1774802024040

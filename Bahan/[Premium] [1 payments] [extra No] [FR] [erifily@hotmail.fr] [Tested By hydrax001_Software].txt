@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hzitani
+– Email: erifily@hotmail.fr
+– Country: FR
+– Plan: Premium
+– Member Since: Desember 2017
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: 3463
+– Phone: +33674525818
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: .M
+– User GUID: VUJIXIAPYZFIRG7GF2ZCW2GKUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802361279	nfvdid	BQFmAAEBEPM2YUQhwiJ_Kg50wHJrnchgarOslSIx1jZ-7BOLMU_yNRuzwWFfHA_9apcg2Y1KCAzQPx9GMJbyz6gPHSLH9NlO-TQXyIAozr-zPz616JwNibku0VNn04aTdDqeeU1epY9F7ooC2ol0Kib-pvd0scgT
+.netflix.com	TRUE	/	TRUE	1806758765	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAy4i6Da7ORxTUiBUh10Iq5-ZQJG4uckbGIQk5y6xYcVoUGhiU2CN0N7_pA7RVr04zF-PU3PPKZrldQygsvpGZwfLnyIgyWPJkFi9wWBkH9i7QMYR_pSjDrYqnCd_NWiA2SguA6fZO8Olqg7XgKTGJZt0RZ9s_6Z01dsu6SI1CZpoP2O17DB--whqJe5Q-juJcr-NEa-GK20r4DVnrrXv1AOEEH8gT_FTI0WGnPEst7VvY4gBOG2Kc0cpSry9RGuRuxVa2_9XkWpQQxjO0AR4YJRawbf6KSidnqdcvWFbVqMSfT8aBLpAN4PD_qdFnYygeW8bWw-F1lGfXHJ-Oglls6_V87KHSGrUXy4HZnUaiTFsTV9ZEN6b9be_oYrcbLZzsg1gOYEGVUmWo4e5WymCYtwk5VsK2DRw9oVGGi6zIWI4wSDlP-fvROf1hUiUZNTa-fCQjJrjKPz-DsjDXz_bhTsjeew2RV-uCj6F29LpADwhWQ4f3_PDh3TiFb3L9LiN9Q4yDKeDvM20FFnDK_V8ePRJQuSW3E87zCf4urm5GAYiDgoMmv2zcWBnNiivsRln%26pg%3DVUJIXIAPYZFIRG7GF2ZCW2GKUM%26ch%3DAQEAEAABABRv5i-IYRqtz3YPYwM9Ii7U5PaVs3US71Q.
+.netflix.com	TRUE	/	FALSE	1806758766	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+15%3A26%3A06+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1c4f6db-29f1-4e7c-a819-ee51484310ae&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770825283817&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806758765	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSud3x2vRr2m-QYZsbcCIajohcjei34B3A.%26dt%3D1775222766320

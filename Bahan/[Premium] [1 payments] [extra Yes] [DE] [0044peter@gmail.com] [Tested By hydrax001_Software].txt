@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Erick
+– Email: 0044peter@gmail.com
+– Country: DE
+– Plan: Premium
+– Member Since: maio de 2019
+– Next Billing: 2026-06-20
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4915737853152
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Irina
+– User GUID: BADDLXPXDZFBNJYQNBMFAABIP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803856675	nfvdid	BQFmAAEBEG-01h05U4vVuzMPAgQ-WCFgsGJruhlGdEyJqVX7zlrOOLZG0_a16YwZp5KQ0qipG_oACvKiUyOU1Jn_MjjGDAY68t58jS48-JZVDEUQWN0SpCq7e14oqnW75HCKZLfNkcGYaqnhp0RuvSjef4JyYycq
+.netflix.com	TRUE	/	TRUE	1810283444	NetflixId	ct%3DBgjHlOvcAxKFBGhQaUAxWYIFfyE_Pvuf87ug5Wc9Qu_7woyRiOZGxlVygL03_Yjz95UT6ilKM_id9UQeROxnpofLqYClLcRs3yGMdxfkWBmZorB7b2ej9XI9IK5HcD3rJfK6P4ugkroX50nxKRdK3hyXc1vR90nl6TEbLZuoXWnzqf_Xa2yQeYk8uaShRE7-OfN5sq3O0zYCCbXA81Ha0-BKcOH39t33RXVJBryC3k01F_mzOWSBdGwVlvETb95KDXDyEFKFoAMZToKUEZMWpo0EiCdwsO4yc4fRR5eYjiw7ziSgVtjTUFDY5PpxVdsKZRJKDqQoGoTtMt4UFEoDgnxAus2a9158wA5f8j4ID5kpBsNm9x4pF9FrpqT32WUrmWq1kjBuXTW92cm9mbqc9FWt-Pz7v9C4ma1RDPN0D6IhOgp_cNThUXVUWWJqDW7e9SjL0TxqGAE9d-ILgOJjiHyRJlCG4dBYhIxWG6VDXmEWH1Ug6fGkclygEiAs0vcJF0cutwtznOHalx1w3mkhcDyZXVgS23hwKSPwwptaJlRq6BY1N7QuNR07RejsxVYjWwGa-GTfSgnmuQT73nZnFkQmwH6FiQMzuCax7XMg0FY1qjx8jOqliyQgU_xmj3SE8W00o_dy0ly0sbbqQk1QrYsRqiqWX2H6TC1FTKqQfTkwUo8EaOh1Z9H9pgXpMX8YBiIOCgzsDgEmdHnn1alidMc.%26ch%3DAQEAEAABABRzNz6-BtAe30diu07mZ3AToh7ScD6dgOM.%26v%3D3%26pg%3DBADDLXPXDZFBNJYQNBMFAABIP4
+.netflix.com	TRUE	/	TRUE	1810283444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyHYhyDh8YU77_JtNDYUCax-ftVSyNHbQ.%26dt%3D1778747444466
+.netflix.com	TRUE	/	FALSE	1810286036	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+11%3A13%3A56+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=061fd701-5360-4741-8585-6a2f8887607d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772320725719&intType=1&geolocation=DE%3BNW&prevHadToken=0&isDntEnabled=0

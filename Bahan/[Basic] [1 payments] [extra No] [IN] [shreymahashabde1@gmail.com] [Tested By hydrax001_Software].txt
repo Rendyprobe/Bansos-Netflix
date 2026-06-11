@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arya
+– Email: shreymahashabde1@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2025
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shreymahashabde1
+– User GUID: PKX25CCIJBGULPGQGBVCPS6GAQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782584193	nfvdid	BQFmAAEBEN-EfZ2R2c7Y5Ejaa71ZzN1gV9IpcGHVa-wxOfko5bDkH7LimT6QQhNSIQdiI-HQePNjyynZ34pdZTa4CWweNB5OugNE9inl3If3nUmCgXCrUbyRcbJx2evJNLDckZkaev6x4I76uY6ZG7wfG_vFgvBe
+.netflix.com	TRUE	/	TRUE	1791313941	NetflixId	ct%3DBgjHlOvcAxKABJjzKcdeGxVgT-uyZLZp00eVTBgij0rkl0qCizUyA196BbFJ5FbKugUt08HqduI5SjpOzJsC_BwFeqdQhmyVnACKdIp7ynw5l5uOk_JCVDB_xwuAuFIkLqvz31NmFyFdl43s_wFrt1X3M4DbYO1JVfQrhL7PF3uww6zo0LNWH_6aitb4mPEfuIuZcObtvmlaD-K9QImk8aOol-ovU6Op_2AXDd-cNErvxQSkWa51KAWuX8jG2DI0QEi83p1n_XOS8l-g94ar0jdNsNWU-pHH_dZFtoDG2u7mvO9sNbfbZH-2nHLk7j8d0mzUHPe4s1jmWfOSxAUHgQ1yRrnme-hzFXKIXpqZH9tRMrNMv45NRiK3cSzCsEwD_kR5PkaTYoE7MrGN14QpViMZodVcC2onKPt6tBxvwTeNTHAlJmxk8rCrmgGiTSXVSEF1OLG9MYiz7UD2oIi4V8MN8FswTs9Poluk9LAr_FhvxmOuqFhxCAQPwFeYXBbA6jLPTKN2ErZvV4UXzIF2qCE3Ze4zIp046IjdZ_RNP1sxuwwmU_zh5yRyf58BTtth4V7eI9E6mlTn_4kgePb7Z15obQw9RlvuCjftUsC_aYl3IPAHpk0oRdl2aOk06B-ZSWR93dv5_rHGRii0cj1BWwaagQBd1jDbYwuxkzGTz8loX9Hq7uX4URMBGAYiDgoMtkScAhCxy3Es3QAX%26ch%3DAQEAEAABABRwCliYjs8C43kVaaX8EiufIczHW39jROw.%26v%3D3%26pg%3DPKX25CCIJBGULPGQGBVCPS6GAQ
+.netflix.com	TRUE	/	TRUE	1791313941	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTg73H-YmjXgKbKExHMA5V4IRb2kUIDyN4.%26dt%3D1775761941856

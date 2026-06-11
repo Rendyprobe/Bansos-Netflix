@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paulo
+– Email: cristianereis839@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: agosto de 2025
+– Next Billing: 2026-06-30
+– Payment: DC
+– Card: 8296
+– Phone: +5522998228640
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CHRISTIANE SOUZA DOS
+– User GUID: XXEWMMJO5VCJ7OUBE6HAI4FM4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810026427	nfvdid	BQFmAAEBEGnrOvglyt-zmGQ4B3pRm79g9n8jATTt-FKV2GmXGVHN-OZcWv5WE-jk8tiUliiY1b0JQQagdBVCj1l1AWIkGYGoa6gRQ1G6FBcZ4QNTSxiCAnU60WvZLOQ7gXw2sGsaIP-OwLT_Q-xxoAmKmWTUhIoW
+.netflix.com	TRUE	/	TRUE	1810522921	NetflixId	ct%3DBgjHlOvcAxKzA-0f2H-4CZzxM8_KpB5Ulw7-GVxFh-aKPGkoJQlRe3tGtjBhg30yec2ukJs5UBrIkoXHaZzudDZ0RXW1rnwVs8xaj4tbit3MZuW3eJDT2FB5vtlIxZhs7zjZNo7YBLglPPvloZxYGaPI5_P3NLkB0gkQuEtl34SOBn5V9kJ-aQ7XmBt5JPyAW-YKixcTVGyQZf5gQApMWqk4L7DvR9FAji5EbY2I6XMp6b63gT1O1c8b4FRsfE0SYnUfLZlAO1NzlbDrot6VfDs2Fk8MEnuhWVmpMnCcNdPd1GsJbspmnjR6cr5JySYPvUBWSQu-HsfeA6QqADgrrjb717RhPN4z7Q2ObzdurJGgZxcq4R0c0oZSqMacVW2SBP6zEo7u6JNN6FKTKNsCdeXQ-O9fCaY0X7mWIX0WW5oXFhH2ljwnSH84D2gjl-1NGGyq-AYEbf4KHTOA-wMH_X4YyPa_Xr2dwvfXmUqmDhehrX7LQwD01iI_yuEL6vJO2a64AY5zGT3dRUffqkIR18qYBCXBbLP0fa-TSjlc0D6KBwURzbtedgDyVQBAXKMJj0fbR40O4tvMYR4wFxgGIg4KDOaoVY_BxQLHBFXGGQ..%26ch%3DAQEAEAABABTCVG9hDaKXW4EbpDoE59NdhGgzNRI7GrI.%26v%3D3%26pg%3DXXEWMMJO5VCJ7OUBE6HAI4FM4A
+.netflix.com	TRUE	/	FALSE	1810522922	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+00%3A02%3A02+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1c11ecd7-0c5a-4122-b1f3-75c18a735855&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778490381195&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810522921	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9-OSQs79x677OanrTStC7XlqatUTHUEI.%26dt%3D1778986921911

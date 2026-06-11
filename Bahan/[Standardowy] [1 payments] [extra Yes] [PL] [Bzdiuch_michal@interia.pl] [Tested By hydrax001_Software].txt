@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Michu
+– Email: Bzdiuch_michal@interia.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: wrzesień 2025
+– Next Billing: 2026-07-04
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +48666250105
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Michu
+– User GUID: VAKHPO7QRJDA3JVW432UFFVBTM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782201598	nfvdid	BQFmAAEBED3eU3CNH_UnOAU5GV8Jgy9gqUg3trtWp9C3Lc6vM1qm96TN-6D_Ib9FUa2TzwvDY_ZBIw3F6tUVl74wN396QUq1DzbPC2A9VK0ve3EzimhNZSDwZ1TNzcIhU2Xs4iKmaYs2sQT6uWAgG_P6wbqZHYj4
+.netflix.com	TRUE	/	TRUE	1782201598	NetflixId	ct%3DBgjHlOvcAxLhAxQQBwZlC7J-lSYLbDY3fJrjY7DhgoDNfydU15wDFWjhP3ZE1I6t6wB8AGz0qg8nn7dRbWXLqPT4yMBQRI6xupsrEqDUK-Y55pNoyAvW10CRFynUP9iHMMzcrOGUdjrNCsMaOIt7DWbAtetrVaeavMArtS4rlk-vHWOoUlWyJXM8fo3u1IEzLnJ1rvZrWG6V5XAZ2NVnd9YiECXaQVmcP3XNCQhqod5rw13C21-1lmHYx5umVoxVVIHLJVrc1NqX-pNNe73FBgxAOFoqQOS2Y97MilRAazdLXA2TW75QDR8l0H2mHxmOxlg38hncvU8TPLsOg_dTHyufo10LBvxEATC_XAEVv365CNJCNq4s6NyzTa9VFssvJFiVUldu8E4GmtFIS8s0CReSOYzDBUL3kgQcvKLfJpeVoF407ahOTXqzjsF46C7dwApmqosnXQTGR2G_ZL1K7DTCOF9Oc7Lo2UZGpXs1t_JKLsQtne48D-sO4ahNe3upF_KRhKfllljm1ErWcvzTdnePdgGkIflqhJluifnBSgHjA-RDM3N0krR-nqystn3g-pVCA8G8C4ymInjwiaIOIBi_qgPIlFQwNS0OW2wrtdZ_66J9IWzxnEf-7QnBDrfbJq7ITvqaTpBMbesYBiIOCgzoB_MNkpiQURjHOPs.%26ch%3DAQEAEAABABRbt5Hj0uy-EfL3Bd1HA17uOHtWthy-zkA.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1782201598	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+17+2025+22%3A18%3A03+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4674127-13ef-46d7-9c7f-505153bd6a4b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=PL%3B14&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: violette
+– Email: blancalore23@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2024
+– Next Billing: 2026-07-01
+– Payment: PAYPAL
+– Card: 6025
+– Phone: +34671223685
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: blancalore23
+– User GUID: ONHVC25VYBAK3J2DV4SWDSB3KY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793392217	nfvdid	BQFmAAEBEO2moo4eIE17MYRKTav6VhhgKxojStFl3upy6prOoc19Nj16w52dmZIImsWLyBPSnPTBsF6kIKcic5PHOp-42J2jQED6dKFqc_XkKVu5Ap7f9ksjEREwhwSIcu3u78qgSlfKlhOQuUd9NJnSKp8ssU0D
+.netflix.com	TRUE	/	TRUE	1800896573	NetflixId	ct%3DBgjHlOvcAxLnAywLGYrVsy3WR_cFn98SZsFYxk_22OWvG7onEs1e87ELhpbrza2VF9WGVnApu5EuaVXd0L806ZucOkj2kfO63245N0SlF8FlgvbKELevbj5KfY3mg6bjajRPl14jboU4P-sLOZNu4KqU9IOUOqnnQfBXcM6q7hHpsooImjJ5Fie5snf7BWddWXwT7rTFgAVQCD-0u3xqaLVxfFPk-6mjHWoc_1v7r8X8-QrfRAeo4lNR4fY5eeFJxBKhh7UVXtExmaIT70eeQepviY-SUoAev7z5OmbKLsNO-grMj9Cx5RUDCBGZmgKAhRAwtEonQ3aVqzPmosk-kTmsP7UWek18z9MvPtyCUS1pf_2qt-F0nDRtKOjmANS05Xoti-w6fIO0QJQM5egQjbaGr8JVgIIy1G66kIco85iAV8M_TD6wCMOa5teZ7LCsrqSLTRXntVzellLKMqhbr6QtnooCSmHmKJDRfI9osSp6qYpIDR9xUmwvuVt8IGNiWkGeS8oO7sICW_Pof0osRNxS_y9WDkJPP3xrHFkyMzqJIq7FPs_oTEKx1havr6vpw9KOR1Jl7Hh2fF0qc8m4wGv596fWHO3QB2bG-9j3I_zWoCWMQ80DWu9fgNOja0djpClakpGX1cL75fGzRbcO4FIYBiIOCgznAK_YAGQ-WrC-J3E.%26ch%3DAQEAEAABABTkS98vzNK6gCV-iyPmD6ORrUMN8xsO_kY.%26v%3D3%26pg%3DONHVC25VYBAK3J2DV4SWDSB3KY
+.netflix.com	TRUE	/	FALSE	1800896573	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+18%3A02%3A53+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=e92402a6-5576-4a2c-b9a0-df25e660b1b5&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=ES%3BAN&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1800896573	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS8o6PR8H1QepiUQ686oMnaIDnwQ9c-I7s.%26dt%3D1769360572484

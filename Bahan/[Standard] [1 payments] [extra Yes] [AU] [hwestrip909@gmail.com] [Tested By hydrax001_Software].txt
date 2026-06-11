@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hwestrip909
+– Email: hwestrip909@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: July 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 5766
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: hwestrip909
+– User GUID: DWOUCJM5CBA6RGHH5FQEDROILE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790675163	nfvdid	BQFmAAEBEGnyW6Tc3XXBRGP_LzMTpGNge4i5LmlvhlaopAfkzdf5VYUV3NxKYQwkHYdclPEljNMBVAGN9SypfgGBXnhgzHSge6isZvSC3xXfT9ayf_TvtJbapGruXqhWbf8PKbRD22OAnxorn8eM_E02JpA7_6BH
+.netflix.com	TRUE	/	TRUE	1806880894	NetflixId	ct%3DBgjHlOvcAxKFBKirrpeEBuuneNfFTVqQOuY8RXGTLl8AnsFGyHcGpazCuXXdDOrLlpPnSnOT_wq7Suo23FWJaYKf-5XMW7eVCVyjFwh4avvUJUP0GkZltyGjInMTWiM7IO0hHLHQc159uGgTDhFuGYS3xn_79GMxggJzWz3qXETh6hG4Oj3iSUCHAc000pKYUb5pBQ4MW7dI7lY-eppz7Ks2eKMl-dVMu82oh3giUib0b4VKn6aOa2JGrpQFWsnz_-oGfUmPdl5saeolI61A-LsnhPdX7kbvK222tKv5k1jDAQSifOTVh5_r5lmdvrMmDtI5t96rvfM8NRFK3UmXA2xp53_Rfb8ZSGneF90VnW8q8MaOsR_9Mu9kh5Pn7ree2BpJcrtu1oejJNGXz5Rm0jQ1e1lpPzzA48PbeEPSUFYa8IXgfNNvsRhpie8q7jG8qD_HA4TsTWasMu26tTkYeEbum0z5Fm9l1nyj-cyyM_mZLFeg-SYx5ous6Sh1sJFrQeLkE9vuxEzJnquUVFhHWRO14ZL6KjRB_6kPAmb5r8ShDFtoJzSX5EbnWF6-ec5_aYfdV69DKE91SwtTGlaYTRvNKBAhMEIxvVfOWD3gf_BioHuScuD16sj7e5mLTKc2SfDGh5DckPjPd6nWRM-DFZjq5i7wsekLMuF0fdJnfrHKuOG0r_6_ZjshK9NHAIsYBiIOCgxiz5a4mZx3TdeYPps.%26ch%3DAQEAEAABABRk9DcDQU0oYiKcrSHj-1MOYwxqyUDIX-0.%26v%3D3%26pg%3DDWOUCJM5CBA6RGHH5FQEDROILE
+.netflix.com	TRUE	/	FALSE	1806880916	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+09%3A21%3A56+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f20569dc-5ef7-4917-9f0d-d712345612eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806880894	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTPVAtPnDyLm961I7UEFDSm7ToEFi678HM.%26dt%3D1775344892909

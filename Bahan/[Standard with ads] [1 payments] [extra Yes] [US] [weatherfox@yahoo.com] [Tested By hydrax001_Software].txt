@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mark
+– Email: weatherfox@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: May 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 2565
+– Phone: +14706285090
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Machielle
+– User GUID: HCSFKCTE5ZEXROGXR2XT73LA3E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810588921	nfvdid	BQFmAAEBEAryQUAyiDpicnjOjjvdfvVgyRQX-7N9KCSn_NO8SjTW_CCQcb1nTIy0xTINUOX1UxABEhPPAJGU615KR91Nq5yr_iRWd4jAQrf8z5T2pd-NuoRgql-uCEAqa4zQUFSvs814-wlkcCoZpw_EFSWjbGSe
+.netflix.com	TRUE	/	FALSE	1810588967	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAwDsaXxL3bydOeI63ksEJHb9Sl2puOCFDvBe7BBKJ6GJORLLfBLcU0dlB44C_f69AnFn9EzpAcZ07i1cGxtfdjUWY6C2QwlvUjt8kULmWCnr7tSje2Pu3qWEcfLY95ASpw9m0FetTfEJbOu0nET9kn0tOEkAnx3pkeguXfujAH-o4b4aZJs-P5d91V0xuY68aOKQMMzPFZ0JxwgqD8N-78iPdCAmJ-zbRm9IEMPnUPznh1o6-ptXFpQVzWVxKZCg2NgXv6yH4K3brghx7aV3gkof6aJvZZDfPc8NV_J2viW5hWWFQaULcfgnx42mEh25Sdqa-ytWlWlYLCg0y3ag7winRmXP4HJwsSF8Wh_xLfAXYbH2zPpNzik6_1jmi3Zd3swpXsDKtKnIPgneXT-FS_lfadLgkBtAekXkZ4aq8eLhYePZU6Cw2REnZ9Ldqp1fks6zSZlPRtVgzGa9-Ndb7NAhFroaA3D02v92tx9eiE6Oal2k2hNH_Wrm4xnnJBf0PR8Zvb839FtGghwqhrShaG5gHH7wcinOzxgGIg4KDKEw6mXPyN21woRx_w..%26pg%3DHCSFKCTE5ZEXROGXR2XT73LA3E%26ch%3DAQEAEAABABSzWsEIRCD6M4TzlLCvD-5ImVLNBllS3O8.
+.netflix.com	TRUE	/	FALSE	1810588969	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+17%3A22%3A49+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5986315a-9664-4293-bd8b-84ea864d3f99&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779052896401&AwaitingReconsent=false

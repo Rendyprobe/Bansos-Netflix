@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JJ
+– Email: a20ecj@yahoo.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: November 2020
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 8040
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: E&D
+– User GUID: 6ZPJVM3GHJHZBKSYWHYO2GPTXM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1763059440	nfvdid	BQFmAAEBEMcoS7NJr8QY9voOrprW2cVgTaOmxHItN5fk2GFw6Rc-_7oe8pFzO6VSJNs3-0MKtlg3gyHdZoGaGAPokSNQ3vPji8NitkNmRy-YefCla0nAfgEmSGcweeVePX9ejq4JpQZfw2mWQmXBWStfgXGrbMDU
+.netflix.com	TRUE	/	TRUE	1763059444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmQ_G7D5TMdpv3J7bigynhAjwFeSZuQrQ.%26dt%3D1731523444640
+.netflix.com	TRUE	/	TRUE	1763059444	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLyAs-OlSqWHLTU-aL8kef7rtqdOYF_SBGS3d04L1eRoCk1YOic4Oa7Vf90H1nR0nQ3c5zz5GuoTz-VZlxcFeUd6Dmk0swk4rD2pm4dKzI3wzk0avUHa0eQ6qO7-TnAoFnjoFQCIUI3hODuwKOgScwH7FZWnald0nGoJVLg2ZmdzkVgOGbpNN3HnwtQ4Hnb5z7-OrJzUJyblZ4t7tGa_me_pqkCpBsbk75izBDDaqdTErIaLLnAdjt3aRzvdPa5Vu_612JwMYUJhwuwo97lUQU8o6BW-dewVIqkG4edlpoZQS6mtrxXo74J-SZ_3F9Quj7ARmO9OJriZyAijq9WvgP2IorFzssPNXvzWBAIz3MqnB3Oj-807ABczgpKtG9yF2QacITbr90g_4_5cb73qrUdqOCU2mlk7eb6td6HLq08Av9UmSr02L96niMNxC6i40dmxXu2wStBR9rcb4uX4pofS4R4A3alK9nDMyNW0XIL6eOFZukYBiIOCgxr94iYyvtFPK-l5ek.%26ch%3DAQEAEAABABSUtOuxP8hiWCVqn3B8eKLS4mKFfq5a9VU.
+.netflix.com	TRUE	/	FALSE	1763071973	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+13+2024+22%3A12%3A53+GMT%2B0000+(Greenwich+Mean+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d8f141e-0854-4453-93be-df5dc45184e2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false

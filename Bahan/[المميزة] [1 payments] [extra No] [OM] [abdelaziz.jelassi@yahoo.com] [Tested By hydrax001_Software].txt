@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jlassi
+– Email: abdelaziz.jelassi@yahoo.com
+– Country: OM
+– Plan: المميزة
+– Member Since: مارس ٢٠٢٤
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 8370
+– Phone: +96892230818
+– Quality: UHD
+– Streams: 4
+– Price: ‏15.79 US$
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jlassi
+– User GUID: ODJZTH4RTVHNXCZLEOJSKCRZBU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786312138	nfvdid	BQFmAAEBEI8VjEByZwqV5raQZ_WShvJgOyulAqVWxxEAjX5HsU6LSsC-TN-yn3yqJoR40R0RkqzSnIdOXhiDiFSA-BGQEGQBlWQsDj1ipenPYRvoyi-DzJqro8AtD6LTKQLUaR8FrlfClifbnGRaUD8S_ONfIOmb
+.netflix.com	TRUE	/	TRUE	1788376381	NetflixId	ct%3DBgjHlOvcAxLiA2nns0MV9rjBV41CcmLQdnC1coWtKohJC11Zgtw5H4TH1M0jWBv6sgIzmXH1R9OhytX78GYkvbCr9EJYk4wXsasUApYAYFZjINDYsDW4kydCm0W9DTCT2zr5QcSm45bKXjhg9okVgiWN1SzKIqSzI5Z6NPe1lEX2jEr1aojOk0B4cIX-r9DKx_jmGUWxsPlIRIijuhbYyGFZJBQXOR-9mVG1x5p9g31aHTdg_xlmhEyZcogSgjCo2odmgBu-UnAtnOn4yqD9l0A7S9eMMCh8HAmS-GzFfdEdavNNDXK8gpwHYXYKmOEOEfVc9fsfwVMmi3yBGBqrWBjvfKzNlfceC6HoinS93DmPaNfzoSOUnp72UQrWIa1plN2wQjpZpldrnARKtHzIsKDQrFolhIsi4lRA1P6Q3s7zhucXen56iK-cWey9CFTnfi6bYwwjusDA2bsQ0aNU03i2iArjJrKRvoREYYlssMh5IZW2Nhv7l1XrsPQDoBH_YxAO31WQJMF9PYAvhutWvi19sHKi9EGlS1vmggodvZ_vCPVONH76J_vc6Ij4631XOcqJuySgHLnwDsBtTdyXdXu-vEOV8krGm41ifWAFVjRgVXR-Kr79cIAvez45v9SxXHt3yOkwpB3A54FPGAYiDgoMP-mSgirsC8EgbEQ9%26ch%3DAQEAEAABABQKvWqhbtgYOdzgNDW8k1DrXKsTBmF7NH8.%26v%3D3%26pg%3DODJZTH4RTVHNXCZLEOJSKCRZBU
+.netflix.com	TRUE	/	FALSE	1788376401	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+02+2025+20%3A13%3A21+GMT%2B0100+(West+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8855d91a-83c3-4189-bbdf-46bc1fd02ac7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788376381	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIXyoI21HKvGE3mho1wQ--18Stbg9TU2Y.%26dt%3D1756840383917

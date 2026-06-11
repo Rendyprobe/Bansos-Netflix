@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JohnLuke
+– Email: account_netflix_2023@googlegroups.com
+– Country: IT
+– Plan: Premium
+– Member Since: giugno 2017
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 9243
+– Phone: +393331092506
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CHIARA
+– User GUID: 6UCBVFDWBJFOTFZP3SYKEEAQ6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1757566871	nfvdid	BQFmAAEBEJ_3yKSTHrLGwaL0XwAFszlgWicucpXCyRQq5VATGVgauZHsNxTrdgBFezxlX5KjzRgA69ILQrWOX5h4AnmzAm_t3VP4e5QSWyCNC8RiH5HpAK3lP_OYFzCuGPmkC_EYrSnkN-wNGAX_OzfHA3Ne9oxM
+.netflix.com	TRUE	/	TRUE	1773482999	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROUDi1bWnrTATxekwelb2-9tJGARCfqDI.%26dt%3D1741946998385
+.netflix.com	TRUE	/	TRUE	1773482999	NetflixId	ct%3DBgjHlOvcAxKQA_UjuujlbI0VhXYn3ouAuKi2dIm3uoevRCy7JTrH9o2IMMLW5WD2dgKhNhSBAyMindHgvYWvGqnoXAC9RvUWv0Dht-0bUxYTZIs-wrgmRAvRIZ6eiNi1UL8ZsEN_pmCpvMZhurZn3YTaPPmMt_DkhLfvP3IlFKFqp5eGqfd9UIxaBjlvpslByanozSGn7iRXadPrGdTkTpTJXhADHkQmimWkpZO-vowRLIiwsH7wzwcP_ZJLcNQacNlkiQ9jyswPl9-OqX3kV74QFnI33YERsDWc223vLMBzvO1gkUdhOPfUknBONVYbGHvQ6OXDnxAOmUe7GLg45ToRxRy8qiebURUAv9kc9wZKLoduYkBge9wI9E5gqKy3ncLH5O2qCFtfgZaotLNpIzJJbqc7Z0g3Ko4yo4HVZTg22lyOtmNUBvh2HWjVrF50BOrIXRz43gi_68RIv2ThHZrY0DTozkONVNo7HlAkE2HHqONNH43gZHpUrBo1eijRKhxX6EURVEFBrMnN21fVFAHQTvL0LaXb3uYYBiIOCgzqDYzPG8idF6nceeQ.%26ch%3DAQEAEAABABT-ykSMoNwBZ3bkAT_qJxcvzROFNp3ymEg.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1773483011	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+14+2025+11%3A10%3A11+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e5131544-9480-4011-99fc-79a4a84a5741&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B34

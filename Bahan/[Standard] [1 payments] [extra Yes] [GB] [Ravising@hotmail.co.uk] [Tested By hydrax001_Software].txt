@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ravising
+– Email: Ravising@hotmail.co.uk
+– Country: GB
+– Plan: Standard
+– Member Since: December 2023
+– Next Billing: N/A
+– Payment: BT_INTPAY_EE_BILLED
+– Card: N/A
+– Phone: +447983079931
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ravising
+– User GUID: RI63WLYQ5ZD5DDTCMNJWDERYTY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056508	nfvdid	BQFmAAEBEPCkjRAZOf0A5dAPJNIgAANg06_0-6ud1RAVD6DxJE6vfhrWMmoE5wD7IkVn4B9nHKlpfp2KxpleP-ap_-CZQ8HqwusBca5Fy11hVRCOhPgfZPGvWavDCqlmaNsFZWDSeykqS81IG8T51swScNmrHNk2
+.netflix.com	TRUE	/	TRUE	1795893184	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLzAgyqKoQ5G62SY7uJgoZdsIGlNu_EPztKTdMbm9tlCJuOxgWyQ-L5-4JAaieGhq0vG53niLzl5CPAjGTwIuTI5Pzo_8ofOkOtO-QSgd0Vfrv63xCiq8W6EwCVp76P6dLNnutjB4-j6IGRRY6PrktKmViFP0Y0z6VOWS_c-85-ar53M8rfLC4G4ZyH7Au9HGwJoR8gT0YOr8o-43bprAmH_ncZZRykm5L2sSeYi2vk8R9NbrxQNX1fWaRhkwIXgB7klOPNRs3qOASx_XY5PyJK3MN8xzc3wXcw8ni9Q8-oSq3pcTL0Wc2LZbF16aYqs_SfXulxQTheyg1ZP4p6wZUuU2Z5iUdV50VX_0G7Z_NoMN_0DPe4dYfGRKg-XGtCesNTaCwQb4p9PxkGo0EFlfUCEH-chyFcrs8SY3-NW-pxPYfPZCZT7q6jg4-djaB4nVeB-t-QLU7ulXL4CrqHOZlLK1dC1STeZVtRjhi-B5XY8RA0DuERGAYiDgoMCiWxMPwai3e9WqoN%26pg%3DRI63WLYQ5ZD5DDTCMNJWDERYTY%26ch%3DAQEAEAABABQ1zSEtVRiL5n2zwTh5ZaBlMGFxvHVv0Hc.
+.netflix.com	TRUE	/	FALSE	1795893185	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+28+2025+19%3A13%3A05+GMT%2B0000+(Greenwich+Mean+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=978325bb-df95-46eb-bfce-9c0e0a632976&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1795893184	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQg00DU6O3rebmEdHKdiKuEovNw5whvwXo.%26dt%3D1764357207397

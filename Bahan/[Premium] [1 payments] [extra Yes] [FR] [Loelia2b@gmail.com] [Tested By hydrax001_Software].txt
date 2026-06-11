@@ -7,14 +7,14 @@ VERSION: V2.0.1
 – Email: Loelia2b@gmail.com
 – Country: FR
 – Plan: Premium
-– Member Since: mai 2019
+– Member Since: May 2019
 – Next Billing: 2026-07-04
 – Payment: CC
 – Card: 2759
 – Phone: +33608789281
 – Quality: UHD
 – Streams: 4
-– Price: 21,99 €
+– Price: EUR 21.99
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

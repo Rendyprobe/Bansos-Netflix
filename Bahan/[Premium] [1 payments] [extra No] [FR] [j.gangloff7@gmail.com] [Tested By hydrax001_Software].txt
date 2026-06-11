@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chahine
+– Email: j.gangloff7@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: Mei 2026
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: 9919
+– Phone: +33769920391
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jonathan
+– User GUID: GQ5TRHW5IFENHBO4AT35G5ABZE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795995856	nfvdid	BQFmAAEBELk2B5JQ6b71UDARyz2Thrtgj2jCrSsUhSW9hcBfVSvT8ZhG5XfS56S9jTVQRKQa7p6GNZlT6c79OGqyEsPxgXd6xN37zEfB0CZn8Px91ftreX5fbqEaj4SFeVzYpgH9qn5r5gG7JFu9LuzcwSdw3yzz
+.netflix.com	TRUE	/	TRUE	1806007233	NetflixId	ct%3DBgjHlOvcAxLRA0nsgYq3y-TMrWQ6nrr5y95EvVYFh9b-OlUWjLqaDrdBTUBlUS3ODDD8WGc-Xe5u3dpDO5pim6qtMnK_u0MLktqZO51xQOZBBFXZXvPjObth86SsJKLq7l7KZkxJreFsn72KVDDGHYTKWePxJ8AMZKus00_SQQxEb2RqSZ83fEQxvQb0Q-K5f4rM4IppLUa3BesjHP4u_hgG2NFcQUJen9r9RncLuhpGYAkZGz58UaK9_aRH6OGdO281BXCDVSf5IEhBSLjdr4z_r1Bvgc8JdjC0zNgwN88Vxi6gGTCo8NTirngjM5_2qwa2tFkhM6joVv1zsRZOYYVqNjqvJFPs9VchHGgNrANsBj5yicv2rXh8VVwKRc31lim54Z_bmW9ZvyiEJTgl_uwjjDvDZ1zW5azHBjyC9jyBM2Td2ATdpuevGnRqvGBkIJy6ib7_22NwJ6v_REv8HWdPNIWePPQkSR1bAZh88rPn0l5VeiZCsSAEVKVgOSl_iBjc8kz6XlwoGsQEWymNBlLS7zgxe3acuFeHUQ5J4NM9Vuruxqfq7L6tFubmRWFNLPXloKc9FINAudtIHAHrIyyKIro0CvqhmxfokOMQHDhxLJVrteDJ5eutVRgGIg4KDBXVh6fdXX0mGhOMuA..%26ch%3DAQEAEAABABQJ7Q-Peb8hlnUx180MNMqLYrFnOC8cXj0.%26v%3D3%26pg%3DGQ5TRHW5IFENHBO4AT35G5ABZE
+.netflix.com	TRUE	/	FALSE	1806007241	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+21%3A40%3A41+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9cfed56b-4d47-4e8c-84ae-d41b925bab09&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806007233	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRvGcRrfXZAPR0CNeBtYJo8W6v0uXhF1gM.%26dt%3D1774471233369

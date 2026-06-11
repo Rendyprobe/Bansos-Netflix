@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: josephmoner93
+– Email: josephmoner93@gmail.com
+– Country: IQ
+– Plan: المميزة
+– Member Since: تموز ٢٠٢٥
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 2821
+– Phone: +9647745746577
+– Quality: UHD
+– Streams: 4
+– Price: ‏9.99 US$
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: josephmoner93
+– User GUID: L4W7EEX4ONHSBI2ISQXTM6ULAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799527480	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPA1a1hwOZx4tAVl_7jmiSXgVgUg9tMRlljz3IVgM3HEhgix7sYrMi9jWeTWDiiD-oaXmKSDrPhk7s-cJwkOf_fLqt6U4UyXuHOqqARjbawNvtLSi8HRll8z0X0c3qySjL5po8g9RuA3T62O40Oq2wbDMiWkToQ3uQQTC9He1s4_rvDhMfmrrhX4pEbejbYsZ4fLH1U7hfpeJSePezZED8gxiCttaqeqNT9t83dWaqe0xm2fyXCpkifDvRaOO6NllDBpuh-jE3Ih-Yf7K_pG-WwIvIDxHKcFSy5sBbY7nZMrQDtrvcAxwsbTHHErRuQa7Abze2SLU_G9yWvxZNe8XKSd87tvypKtH3PA4kInlBe8jSESQ1fwzAHgBN9i2Fujt6rJdatdcDOOohyALnJlbBCOLjKgFVlbtsLk9ecAPgSqNNMRU6hTgntvZRbRGtbo0QBxZDgC3LP3McA3z08hSNcP5wefO_oYytK1euUWJDNLcF7dTUccO0oLoR3nyFxtp3PPy4kHzeZFMLaEyfDXKC-xgGIg4KDAjAcLnQU3bH1GxYoQ..%26pg%3DL4W7EEX4ONHSBI2ISQXTM6ULAU%26ch%3DAQEAEAABABQdRqTHt2jEp5JdlIsukqQ0zxe5fhlyVr4.
+.netflix.com	TRUE	/	TRUE	1799527480	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQd-v9WK1EdLEQU0veyikMZQ60C4mocHmY.%26dt%3D1767991480512
+.netflix.com	TRUE	/	FALSE	1799527480	nfvdid	BQFmAAEBEJCthjgGV3k_Jgd2m4QW2FRgZqbOWizesZTJmSuTnlMmYgL5ytvgEk-z3L2ldsNwgp_ZwEeFfU1PSzL8lmX7HQFtykVd9WFklk3HY7aVC9rJ6SxQx1BZLVs0GoWOpPsJmUDwHcEZ-sSevduGIxDERaro
+.netflix.com	TRUE	/	FALSE	1799528009	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+23%3A53%3A29+GMT%2B0300+(Arabian+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=65cc337e-537e-4313-860a-5c91b403ee21&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

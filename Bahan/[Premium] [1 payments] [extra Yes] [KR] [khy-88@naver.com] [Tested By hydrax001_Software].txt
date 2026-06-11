@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 오영주
+– Email: khy-88@naver.com
+– Country: KR
+– Plan: Premium
+– Member Since: September 2020
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 1020
+– Phone: +821091632880
+– Quality: UHD
+– Streams: 4
+– Price: KRW 17.000
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 이만순
+– User GUID: B5H73SLBCBG5TKXC5EAPLR6CTI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808112810	nfvdid	BQFmAAEBECI8ZZ7DLgVxwVBweDPP61dgzUDvu85mGtZELJEmAQvJT6WfEUn7mzQB30xPyyKrXHpekSOHc1OPnu3-ErY81dEk70vo_rvGNfaCF1ABftpEGOwXfQhBwkjoPx-knTJNnvo0OxSuH79WeLb2D6-vrter
+.netflix.com	TRUE	/	TRUE	1809350024	NetflixId	ct%3DBgjHlOvcAxKHBHuuIVpeRX42_3PU24XnGO8dhobzXdKr52TG8h9MrAlDvR_1bVue0mC9akm0hujoCzDOGfpTIrwRt3Cm9_6u_GhTzmvtn21B14vb-k0B-Pde2wJczXKomXvDm08eh9i6PhCZRUnpxYNBpbVsrTaUtls_SZmKUxEuDOpPwoop3kDNYy7C7ADOMYtjLUaUjn4CzQWFa5it5erP4B5G_ivr3OAbpjHSaoWvZY-_8nfdvLf22LHCz66WYe5oOG7Rsp7mO60JGrebzTGabSirluNDBIqLvpfaX4oj9mCOusER-tVCYCv_nAxCZb1qwMfCZseMiq4lkzh5ML0xQ9Ji5yRNnyYwWdSBvTkHmJ-1XZieKDOmajE9eEhKMlfEt4udqME-0d10caarD4enN5gPF75Ruhisg4i1eui3eOHnsxqCYGAUB65PfgGVhKIA3AvktY8gH4mYFBaDHHJit3F6BPMzvoGU0RHZSzb5tO1czQxDqa-7DfAVwgNiqnvoFCmNAGa_g71aRnrhHkCK482cro6bDVDMKUK9t-sD-6hB1BQ0MVOtvsJI_p4gG4sJgzGovgWxmIeiI44w_oeFdw4WfmmLydYlV8sruB25MWb87NFV3lUjGjWO19s9OPfLpISzss2Le2yRvUbxNGrKtAsgkVBniiVtMoxunjPlCkyXtE8PxIvnGjuQxUQjORgGIg4KDGBCoRR6jLMMPyZbVA..%26ch%3DAQEAEAABABTRdPb_NYY5VX3H-n7yeGBmwuYtZx6APUQ.%26v%3D3%26pg%3DB5H73SLBCBG5TKXC5EAPLR6CTI
+.netflix.com	TRUE	/	TRUE	1809350024	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7GPoWFrlBGyyOJjjr9et9bXdSpMO81PM.%26dt%3D1777814023008
+.netflix.com	TRUE	/	FALSE	1809360322	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+01%3A05%3A22+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ef0c3e81-9a8c-408d-b8e7-4db319644d86&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776576810067&AwaitingReconsent=false&isDntEnabled=0

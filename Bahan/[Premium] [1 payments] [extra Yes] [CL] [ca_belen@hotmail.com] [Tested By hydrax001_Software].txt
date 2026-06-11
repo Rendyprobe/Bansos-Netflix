@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Diegol
+– Email: ca_belen@hotmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: octubre de 2021
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 3030
+– Phone: +56931000164
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cata +z
+– User GUID: 5KBLVUBRN5BWXG6ZUNO4COJHFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782363449	nfvdid	BQFmAAEBEJnkyuWugzt7GwUbEysLZidg65jvwjCdYtFAOl7XK-ztMM-YZjCW-J16PdD-BNN1S6uwgW-z8IETcQXQI7_wsATxBO7berWBnQdXn-xohWbz3C9A-SX2VFKYVhQYSBss99125Rb2Qp1xPDAVEtSJkRk1
+.netflix.com	TRUE	/	TRUE	1809399035	NetflixId	ct%3DBgjHlOvcAxKCBMgWdbfUD7WIu7Ohnn3Am7kkUc4i2W4rNh-heEtdkcogQg7DDaueBDi8VdDeQAnBuD1IMFcxYQiZ4Tez3mu773Dt26lfjhqGRG13OG9NBJHGpID_8GBYs7pZ1BnI7Xqf6UDBJ-lPbrMV-Taczh_ffS7wmARnS4l7tiKtMrbonpnYW-S_15l864Ax9egUfgcyCL3_zOjtaKs8orKt0tLZqSJEEA0BmRmP52RTsvqVeDpMVDa03KGvvN6vIVYd8aXuGwBOsP73guM4HDUzcfH8BJ7uuoN2n0mmyoWWITn-Key66OiaXxBtR4-1dkM9Og0E8KKjtb4Ro1f9GzJFT9NTvBI6Si10ND-frNyMWPWYsqyrJPoFkP6uN6SbN_GNDye7fjSud44XxhmWPjA9uoI2KR-IT7ytNDDuWyK_r_zyDOvIVvu5jDkxz2orJzdZyUnnEjKIbApRdt186s_NKV_VUX4VBjGgWBwbmTYs1fTHb-xijdQVCfj0XBFhc2k_DM9lk12DvkU0RNKoG3LGoF7CfeZwkq3LO833oFfDWX-gjkJmzBR6S8RwbbCuqxEkYTdaQ3l07mmqPX4fCHBoyODA0QARYzDrVC9Gc9EZQadBh9jWvEgyK9xuB_N5V_EeSrJ9W1TLogQNjOmqRKRLwhr0E3q6juiZdVWU9PRCvcGkprO6m0UYBiIOCgwmt6tkzRR5Di0aTN4.%26ch%3DAQEAEAABABSUdL826nzmiALVnr5zL1Qu1h3dbqg0PVg.%26v%3D3%26pg%3D5KBLVUBRN5BWXG6ZUNO4COJHFM
+.netflix.com	TRUE	/	FALSE	1809399035	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+23%3A50%3A35+GMT-0300+(GMT-03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2bae6f86-089d-4259-af0e-950dde8ba97c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809399035	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSdJvCAFChO5JEJrHniI5vYutYgRZFQMrA.%26dt%3D1777863034262

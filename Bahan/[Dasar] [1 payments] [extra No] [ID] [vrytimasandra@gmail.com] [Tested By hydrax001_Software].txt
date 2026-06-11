@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ayah Asa
+– Email: vrytimasandra@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: April 2026
+– Next Billing: 2026-07-02
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mama Asa
+– User GUID: 6BLQ7C6SK5D5LABRBPWHFK3HAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808716537	nfvdid	BQFmAAEBEEUNdSwCFgIa9FCm382LF3JgL0qH93-eoq8TNjBMmQkPgT6ir26qRQH9EUeo-2YBDhkltQULdsn8ol9lgBhpvy_35-jKfTMb5onG56tXhxJekceqiYwZENATbNF2nBClQjtvCLaB1vGCdeT5UMSttBwN
+.netflix.com	TRUE	/	TRUE	1811098620	NetflixId	ct%3DBgjHlOvcAxK2A_lIh7TxAH2643C6zSz_1q-Lou2S_v7QfDeu4qgoe6t9YOm_qJZHRwJeIDOP7hPZUSzFdcydgZHK4ebWDqNb9y3vaUUgdArzh48194ii9RqXG2WM1eRM9ppXobF1eJEZNQN1UCEUA1VLBo0Kga-2duvPwoCUMTc5lmvG166sBP8i4fIyTPuBYNS7bcWDx6mK4pUFdnydhA4Zx9EYIIwfK6XYW6u5GTqDSVTcdb-e8K-YTqKiraGgqOYSj8x7i7y_ovbUAo7FC5QdIMYAYBbijqTRI9m1RsQLM7fQMr4tNxMobpMFfEMe_Rw1P9MZKcatZnIeCUIAs1RODinZO8LnkQFv4Nd-f540SdC_rvX6sTeVSc5y5VmdvjfE-2UWfSZwmvFLEzQiqAm-sSqWnvs5Kpr25u4eEbDD9Wbyx9Qw8FC_3KdHveooLom9SDmw8FM-ihz5svBhFIGxy5-qxHbyMEXTxCVlMymiLIUtX3y9tNReatcep2Og6WpfyeSi5rf9jOdrlAqmMI3YsuSYYqMSL9tQEQJWjX2_gxVip_HvmZU9Ree6AzKGu8y7cRavGAZfMYs4F2Tk_hgGIg4KDF7evdd41jZmBc4hjQ..%26ch%3DAQEAEAABABQbmuO4w4Ywil06f5FQxoFFUYwSZozPLOU.%26v%3D3%26pg%3D6BLQ7C6SK5D5LABRBPWHFK3HAU
+.netflix.com	TRUE	/	FALSE	1811141718	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+13%3A55%3A18+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b9e60cdb-1f18-40d1-9dd0-7e44eb880a42&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776257337221&isDntEnabled=0&AwaitingReconsent=false

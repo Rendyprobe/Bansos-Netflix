@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Murat
+– Email: nejdettalay@hotmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Aralık 2019
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 9771
+– Phone: +905345892900
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Neco
+– User GUID: XSUVBJDEZ5DIPIPCBRMHTVS2ZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795347498	nfvdid	BQFmAAEBEJLDD6d-txeKRB0sF3krRdtg3WCPmm9O4R22OD9R9n6duAQdKzJa611Iv__uWO1xpKktnzv5dLG5thf3Oni8rgfdDxPKhB2lw9BIax_lTNZU73bJKMr0VVcdGmzjIpGU1sb0RHHprorzWrxoGraWew7u
+.netflix.com	TRUE	/	TRUE	1805483538	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8gd41-q7mE-WRW5dDKTGfTprDl90SvHNdb4thNUFF1Oj1zAR7fE4MNVHamF4y3jwrXFqAvKNy3rpmU2m7ulT6h41bZpXGgBBswTz-vqvclKcaTEnGB-YfIgfY3ZAQKjjMgUUvVzq9-_Er-lNTVW6rv6c2YJu-k1ktgknal1ti4xJGutH98nZ43BlvqT9k-Xw9GcqGwcjI-FnC01iuxzzKQvFwP0WjalKNe4FtD2G_-0MovEVcyX_73OnYCFwA91SA8nCt5qXWjy1IM8OleDH8bOUSi5LGk9HI-VwvXrC5qOBHrVExA6XhMsXC9cLevyTNvrYhZ3t0OiAxfuIyGSDT8f3y80MvB1m0yA2UqVzWgkydCcRV2gcUkZkurZ3jkNyHfqbeeFsy8ZCfENllec8DiUUNhWdUbG_fAkjjLxyTeIdHxs5DEmAMc-mZkwFRx84170ZxVAabpkqDKcWfSCJ1COgNf5DwlC2rCXRbSYa3t19Yhi-8a6GZ106wjM60sQIgd5RvxdExOEpAmpqndPxOb9VaQm4ELVvV4YBiIOCgxwRPyAnrM5GXo0MzA.%26pg%3DXSUVBJDEZ5DIPIPCBRMHTVS2ZQ%26ch%3DAQEAEAABABT1ZQ8yOzBfyGAgM98hO40v1vTY_RMPE4g.
+.netflix.com	TRUE	/	TRUE	1805483538	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-_xs3lzhaByvugHQ9Hm5wOGuQpagFGq4.%26dt%3D1773947538752
+.netflix.com	TRUE	/	FALSE	1805483918	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+22%3A18%3A38+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=f544a118-5168-4246-8cd3-456b76c40ab8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B34&AwaitingReconsent=false

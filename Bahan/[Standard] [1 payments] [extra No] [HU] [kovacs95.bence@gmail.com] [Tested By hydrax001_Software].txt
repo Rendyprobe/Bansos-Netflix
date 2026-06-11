@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Beni
+– Email: kovacs95.bence@gmail.com
+– Country: HU
+– Plan: Standard
+– Member Since: 2023. szeptember
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1124
+– Phone: +36704260905
+– Quality: HD
+– Streams: 2
+– Price: 4 490 Ft
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bence
+– User GUID: BVNCM3ZY5ZC7ZGV7VKX7HHJUR4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802174077	nfvdid	BQFmAAEBEJARKbUyBWTH6jlBO4BOucVg5Mf_RKCxDQrx5gLDwrr4k_X4FqdmExdpd0gQLxvmJrhp5TGseoWFOo0xn09zA6HayiQyRn9nASTtxCmSr-DrJL7ZZ0pDzXMJ4FDWv5rsZHsXbL1j3WPU3N3UMH4YouNC
+.netflix.com	TRUE	/	FALSE	1802174082	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+12%3A54%3A42+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af51f966-0997-4c64-9066-051616b65b1d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770638082860&AwaitingReconsent=false&intType=1
+.netflix.com	TRUE	/	TRUE	1802240940	NetflixId	ct%3DBgjHlOvcAxKTA79W-Pf04bwmlWgMUlnQLKpjUeWxLtPunr1mOx2nBWmkQtkSHKxgW4i-WW4fjKMTA9m4yRoCGHKl706E_jTWhgrkFVUzeunQq8T2nUnuTOkn1npSTXQFm8xDBw3Fo0mR75dbAFb-5uOyI56KIFHkhmYYkL5zqdvpgPgLwvTnQwhSI6Fd4t7JlrS3q_rZ9zai-GCPaDx1MS3zOnpVNRhB7pNFHbwTs8edFyLkxeXhuGV6lTzXg_5q_D6kn-Xo9bPYiHU5vh17X4ypT53WTW9SpVFzGmmtHXWg-MSnxjFcwQNln_1hJR1VyOS7miW_VH_rOIKHwGqPI6k3DGgv8yhUTNq3X6MBrKfnjIcLGmiJ7_xTSRvgPj9MI3EKC-w9H3aKVQcf8adySnscgolSaMcNy0qf8V0AzlDy457zNIDa3heYXm1op7XogkzWAG4Rv3w9BDUvE0HHgqYMP-GYs9c4e0D8xWYMHHAmLutCZEjPTD4JzLQcivwbIO7LekWq0zq4z809ntJ0VUm3TJt_2cYbbGq5XXgYBiIOCgzgZyBfKoOFZmEmZNs.%26ch%3DAQEAEAABABTh8O2RqdD6uJ_gPk4T6xzfLF0VGvJyEIA.%26v%3D3%26pg%3DBVNCM3ZY5ZC7ZGV7VKX7HHJUR4
+.netflix.com	TRUE	/	TRUE	1802240940	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTD1tri2JiEXkoAgHRiBe6Qr1uWOKEVwuc.%26dt%3D1770704940708

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vittorio
+– Email: vittorio.ciboddo.vc95@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 6409
+– Phone: +393474649745
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vittorio
+– User GUID: BXTPY25BMNAIHJETC4ZN53EKYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803842903	nfvdid	BQFmAAEBECDN_f4GtuHQeXRiZuuZZftgCYcKpaKLm-G9DALzf9uGj8-oGhd5XKGje21Y792DCWijCS6rTBPTp7kIntF8nZs9Q-XMcOpkIi-WACTRHWYj8L2cchlHjsTk5AQE-aYgQ5eXsJAJwein1f9L9sCfboDs
+.netflix.com	TRUE	/	TRUE	1804449704	NetflixId	ct%3DBgjHlOvcAxLVA24oHR23u9IaxLaTCjaxfvKJ3LjH_Le3Ec4EGa_Psdh5yfYeDfdqsPYpw_yhlGqYBdxIJf80GhtwTzE3jKyBgVIEfSAsBQbIwHcOeu7gScwqGTh7kEDvSa7mbTvL6ZIv5Tbh1vWLRhMFKDN0zLqwbNmP9fpKRtbXKmIhFlt6Kct5WCnKUstl0JK58YmE6wqg608yDEjce5Q3r03tjwVw-kz7Y0RC7A_bq6Xag-jihKZ4ppGvbO9N2-_8zXzq39wqSeeXiJ11E9h4P1htdPDd36tKcG73JQu6X4oOmGLifKGj1Mvk8nvOFmc6WtvUP3rt-Mqrthfzl1kEE6-b52DQgj4jWkANUSFh8R9EAeMl-4QTi3npoCcagEgz7X8BOX0wH_0OPIHCh_HL8AXxugUg4huMYfLTyp-RcetG8oJTHqNGTQtdZtVr8LFzVyblFK52UJEcI_Zi0HDYnA1NB8cKhV1mJO9IcXSRxAooiqtCDQwbw6pfxersVtiUplGsNvsT73yujwwcAMspU3DxisQSSmGhXhlX1oxCdZ-kwc8RzgV8c4scsLp4R9ByhZsCAgjKYves198734Mlvw8Qsab2kqoGRioGYjvte5V0qGaK3y2jrUFVjg0YBiIOCgwSdzCkM76XK8ciMVc.%26ch%3DAQEAEAABABS9v4WP4RCVkyRfK3UsNmrhNTDJa50DVU8.%26v%3D3%26pg%3DBXTPY25BMNAIHJETC4ZN53EKYU
+.netflix.com	TRUE	/	FALSE	1804449704	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+21%3A01%3A44+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=61fb9203-bcc0-4d05-a94b-92ea533ba780&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772306874485&geolocation=IT%3B62&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804449704	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQAGn7rbR2rprLavB9-oXqrsYnKlmo5Ow.%26dt%3D1772913707756

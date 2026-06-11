@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Temiloluwa
+– Email: fayemifiyin@gmail.com
+– Country: NG
+– Plan: Standard
+– Member Since: September 2024
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 8037
+– Phone: +2348104873867
+– Quality: HD
+– Streams: 2
+– Price: ₦6,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fifi
+– User GUID: Q4HWOVHBCRBFRAYWU4PVBUZW7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797280620	nfvdid	BQFmAAEBEKnlemMi8aHsUNrrT769w_Rgl9-yUu1azRn2EnLpmriNtAsZPbL2E-VqxJmqyt4AqWkHhFyLrKgwsyKSkqGCFKtQ0_a7n5jMzP7NlA267YZp7NtJj6POgu-L72_SeZ2RJw7LnQu_EVyju7Gedl-mgkdA
+.netflix.com	TRUE	/	TRUE	1809015037	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA8ZnW9k5rwI5SODN_k7eBGzfyX4qoiYP2qNhaRAiTLW2vLZBNfNKVMaPSAU1KXwzZRumJb7-39MoJF8GJkJoMSGRNaTzO5P8bxKJ5KrkWFA-ieM6cw75A2EkmUAIaL3BQnb2LV7a2WWeWY05EyHYktp-hMKBjVrb1kNRrIzPixctjGD_IJg2L9SEFHSY7XgKvNj2QiY_cSoDTVKMSDNLdBGvxc6a6FrC30bpwygkOlffU2eTuFzmH2xL3vm1zIWaVQBbKHdW96bwX8rWjnZouaON2jN06_UNOv2b8FPZzTdO0oDeFNUacPAdEqQXqNrmA-anySRix3wCkJgvogoGqh7UiQ0iOMYw6n22gk_KJCqKhJbaDj-_tZOMFgnSSZJ_VX9wuSi6Q3f_mwxzZadluUlnooSClFnQ1l7dxMh1glISrXN_exogK_Rxk9VFBtP-_gxF1oLIC29uJc7z5AZZ2fiyo2GxVnb53iptsI0E8nEWtGRW6E07YsnW5HlsK8DIomxShWK7t3r7jLrW6Av4LmwFp93699XCX_X1nRgGIg4KDM6oc9d-Zwq8aM3zAA..%26pg%3DQ4HWOVHBCRBFRAYWU4PVBUZW7A%26ch%3DAQEAEAABABSOTkhHYc3Wmg0mG8CtaqdIbMeyPtGMrWo.
+.netflix.com	TRUE	/	FALSE	1809015077	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+17%3A11%3A17+GMT%2B0100+(West+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b7b6a4-8e43-46e4-8982-e9f9709608b6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

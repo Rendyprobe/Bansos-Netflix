@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ismael
+– Email: maria.tenaf@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: agosto de 2023
+– Next Billing: 2026-06-15
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +34647106329
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gjede Tena
+– User GUID: LAK4ZXCMDBDP3AAGXW7FLDA7RY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809713577	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeAx8J8tB15w1XixdjJ5QgzRKXQ7IbUza4ZGxhiWmOI41YnVY3S9mkvlBvQq3KV9wogLJYuayq_FPYVFuAQg0he20XjwC6jNUS2Dd1GzbgeArAHMntzylpjchAChkYrCNNKysbb1VwUe6l28mgOCg6-KiaVugcDibEjV2rw-PJrsAplZHX_Io0qtbsljdGvfD_TosnSgBgVM8RtS_cVLgqg-OvhmgaPgK3RTlvgFI6QPzaFR2JYy2bvLkod_nbkzI1mHeNUKq6M7oXQYqM2uF9zGYEhkED_yicSEkkn-3va3kUu9VJGbb_KUxiB6yy6_DU8pqSmKOcN9db2wbQzs3LUufhRSBdj5qVJwmhUwIhSqVUbnikWscFDPQYGwP-KymCNWkeaWmBLrFl6GpZbvC2QiW2E1RN879Wvg9lDE02nHfn2ec-oDZZyAP5bwRjKqI7TxFostcsSb0CB0q5qW-IGgpnObTp-HPy2sy1ZtRcP3A_MuymtDPHxVbIDEm939-P6GUAsHVa9DTnzWrHc5B1Hf9i0ZdP7wMr87fcpH0NQBgGIg4KDKdfssg8BdFtAQxq6Q..%26pg%3DLAK4ZXCMDBDP3AAGXW7FLDA7RY%26ch%3DAQEAEAABABS_tSO9V0mXciTRLAXZWGoJfjVhD4so2MY.
+.netflix.com	TRUE	/	FALSE	1809713580	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+19%3A13%3A00+GMT%2B0100+(hora+de+verano+de+Europa+occidental)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c713e943-1c02-4c40-9a6f-ef340623c8c5&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1778177428115&AwaitingReconsent=false&intType=3&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1809713577	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuGiEgeoGP1qMMqEqEbZNYYWndXwEmMwA.%26dt%3D1778177552426
+.netflix.com	TRUE	/	FALSE	1809713574	nfvdid	BQFmAAEBEMn7OYPbZql4jEd2eOrp71NgdHx02GfUc7neevQ3apcEYvnJcBvY7Y_rxPY_tctQMnpufxutMRUMM7NPMgNGRq78geyHKPY8Lp3akztD4mYRhog9pDuelDB_woNxRmiweyD0-lrTnBY_EZ4mbcfIbbmw

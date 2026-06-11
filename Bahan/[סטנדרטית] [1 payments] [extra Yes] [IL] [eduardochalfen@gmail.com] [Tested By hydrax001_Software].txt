@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: מאמא מיה
+– Email: eduardochalfen@gmail.com
+– Country: IL
+– Plan: סטנדרטית
+– Member Since: יולי 2020
+– Next Billing: N/A
+– Payment: PARTNER_COMMS_BILLED
+– Card: N/A
+– Phone: +972507557017
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: eduardo bella chau
+– User GUID: 2SMIHONYKBG5DITGPVQFBSOMCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783441457	nfvdid	BQFmAAEBEDZ9EH8HKpProzvo-SMsW75gSKLsOsqUV5vmjaiv11i3b29n23Hd1kYdRzMgtu77JDMw2EITw6VS6T2gNYpoMkxMIZTYEN1JhTfNjrzaYZRiUJnFY4SngzTclQJTK-xaTQPCc5hd73GTB9osNbFBYEmV
+.netflix.com	TRUE	/	FALSE	1798578461	OptanonConsent	isIABGlobal=false&datestamp=Mon+Dec+29+2025+23%3A07%3A41+GMT%2B0200+(Israel+Standard+Time)&version=202510.2.0&consentId=76eb4b56-d49f-4b7b-aaa8-a751b52e085b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=IL%3BTA&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1802370587	NetflixId	ct%3DBgjHlOvcAxLuA5gvoJK-PMYNWJm2y2s4TwgXT68kolHglAogAA_yb-qDvjebofH0v59XnHr2xBmn4-nPkD7lI_aeli1XaORZfSCDLdS5EzJOLRHjDi-0F0PuONNA2-htjExuvtqHzsSP7XRhVNlFlxSnlaq7bEOltZ1P474PUHmFxcL5hh_TVcPbnacYRZjvukDHJ1wT_Qu1xKk6bZhq_4GbQr2YzwL9iqUmJTy17HYf6aUnngJjlwJWEowSyXHOClkz1DLkrHW3fBtGmjum7dTFsnzUTosK8NVfVIuCL0tsKMwg3QbSn-1xJ5jCiPMqfyD9gX2fHffu-GNimad9thRj82RzMZ6NzOan_cHxagm1-WO3Y3E0TdtUmhEMK3vCidaWr_unqRux_xNl7ga6pKKgnejwk0tMrQ6z1QHx4Duw41gUZ-h_Lol67CiJAQ7y-xGwLbDHG0-U1ftplEhTAkfXshfdqais4OSehssIdo2MCgqKoaBKJNUML-PPuV1Bc7E4gZPHRaQrbYXeyBeU2KAaC7SciGw-hVHuJ79DjGUEzabIHTvg0eZ1gdxQmd9UQomvTfIsH-GSLwl8s7iRi58bDQUVUB-72MVH-KE4PQtZIgF4YN637ASFRB1MtHOjVwvfrdp6t-AtkePc3A4k5Q2_UupoykjLGAYiDgoM5DNhnSLJnPa3dCtU%26ch%3DAQEAEAABABT3MJB5KxXNzkkKdfkDUu7ee355M5ubyZc.%26v%3D3%26pg%3D2SMIHONYKBG5DITGPVQFBSOMCE
+.netflix.com	TRUE	/	TRUE	1802370587	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREPHREgEMlnK_HzSGbSza4TXzzUwZHLYE.%26dt%3D1770834588206

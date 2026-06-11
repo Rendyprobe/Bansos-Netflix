@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cristian
+– Email: lauracarboneromiranda@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2016
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 6016
+– Phone: +34617722529
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Laura
+– User GUID: CX4I53QSCRHNHFC66YTVOONXBM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795486993	nfvdid	BQFmAAEBEMT1RiKHErlOFt3KsZ7Ci19gWJ2h2ksfV54lp05d6pqIVCmxaWv6WSq5JvSD7tlrm7ST_soyqVqnHth4g4IDnc-pZAeYPkbDOLc6nMmOs3E6kqr7yfSIwyVnf6mUMFbPmxX942W9f3KQUfBjhIpaqXcJ
+.netflix.com	TRUE	/	TRUE	1806478854	NetflixId	ct%3DBgjHlOvcAxK2A6JLKPvEzNyt1rL47gBV-t5RzSEC1islc2IB_Z65sQz-6D-WjzCIc-0f3sqBcpvMK-9JxyMcl9AdVSBK2qHP_a_CGwVZDPEsgBCNd61RYu4BI_9elVrb8A3QarCdePsnJLkZ9oAtfrFNGpD2ZuFZptq9mdRlVI0M__Zzq6g-ra6NK4HsMc4UAe-pT6oDF9o9QrdrQiXLT7ibBeQac5ek3YwJfWzBXgQ-qccWEnqjrfAKN9HsvhbmjBB_44jOWFTssnL2p5_cs1uihq_pcxFwK-sEfsJC1NMaY1RuZEwvTRjNH-nEW9uLM6Jp-yAsRuAnwIkDw-vpgL50-QiMiW98cPD0PIIGcEM5dqOVEkOO8zZgWY2ueI4GlBpT7_DM6bfVVA4O0SDvcyOcAG9UvQRTVxtSj7gca2OKsU0cr-BKcsTfKgpSXNPtU6gwf9xOSeHVGqj2m0aagsZs6d0YljN9mXuqAJlvTe0z7mVERHj6SMvDRteJdXOMMULyGINFRegr70vzrsiETbIrVqY0uYl25PGIg7ATq_4UbIDez55sR_F-UjMp7gtyXS88AfwpRdzoTTNtjoVjxhgGIg4KDJsJt4VFjj8QO4k4LQ..%26ch%3DAQEAEAABABSn8KFLyIapwIcYYBgbi2gN9GLcA7Ft8eY.%26v%3D3%26pg%3DCX4I53QSCRHNHFC66YTVOONXBM
+.netflix.com	TRUE	/	FALSE	1806478855	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+19%3A40%3A55+GMT-1200+(GMT-12%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f9d8f33-f29d-4da1-99a0-7d611777b621&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806478854	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOZlQaZL5nyHs00NYnAY3SzIFY2GRcx48.%26dt%3D1774895924152

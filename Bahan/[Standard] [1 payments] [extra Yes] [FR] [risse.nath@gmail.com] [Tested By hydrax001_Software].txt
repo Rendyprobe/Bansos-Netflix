@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dylan
+– Email: risse.nath@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mars 2024
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 5657
+– Phone: +33638320679
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Risse Nathan
+– User GUID: IJ727BPFRREQ7EVK3ERURIMZLQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785356456	nfvdid	BQFmAAEBENoXChI8oAdii8uJPaypBdhgkyIibhdti0BMFKPIsx4s6bxmYkUruKhxknqgfOmsBuDOOIxW0LfxXMev7ak5ZfiHUDd77rDVKFUukGmamcFrSgQI9jZ1XDVHwFupQE4_Yra8zRV3iSH_C1KnH2K4Af6w
+.netflix.com	TRUE	/	FALSE	1801691350	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+22%3A49%3A10+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2cc81724-700a-46d5-8e51-f09f9ddad0bb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1804015685	NetflixId	ct%3DBgjHlOvcAxLkA3r8rC_ZXijquanuWhRZGEQs3Dx9TgQZOC2JJv4hm6Wpy_G33rFuwYwk6hFgpTfey-sODvzniJisWjmN1SzA3OE9SwrTz7QVlooKnR1tVNkMuBIhx3Gr67mLWVWvTl7gwlI_7BBbuJQm5x3-nyDmIbJ0dYP3wmFwQ7l7YYY79URrWv3NH29TyGncYXkTFf1dzcAbww_-M2ZLJvtfkrZNu2DvJMoESgFN1EAyaxgzYVWY5PaM7iPfc3QNdYozyZT9BfIyPxIYNjV-3s8ABrIwTX3ZfyWP2R27jahu9DOLIcKJCl2MeTuJA2u27Df7Lka9yuJWtKPYxgc3o3kbBE2lCoBDI5KnWu6_6geojc4oqJD0eKmTPtAqOEFO1lODzo3apSQSQ2vZXKG4-kjmOo1PGpszBkOcV0QxEQPbsrYDHmM6NWc9xDaLN3mwQhlx6gkCY0HgF2Bkb76R43xg5TBxCr82382tLpOLXlI5ODcNmMFgToYjrGWL5gnEMPapH3efL9WPk9Zi9ZaPJ_rv_5jK904Q_LBBiVdMD_epM_KxT5pLGzSrEWWu17kiZx8fuk2L34wL5gdeErD6SdcxdrjyN_7Gt_khdjRQFWtn2kKisVEc-YK0DQym6Sev4YHkrJEKMG7HDTsYBiIOCgzbUMkIEUS4B63FNUs.%26ch%3DAQEAEAABABTr0jqKsAm5l_W4tzam-V1f6UXM-zSWddg.%26v%3D3%26pg%3DIJ727BPFRREQ7EVK3ERURIMZLQ
+.netflix.com	TRUE	/	TRUE	1804015685	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQR0fei57NhgJ77pXw78xRGuf9UHgUE0qg.%26dt%3D1772479685963

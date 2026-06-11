@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luscarda
+– Email: klasens@live.nl
+– Country: NL
+– Plan: Premium
+– Member Since: april 2019
+– Next Billing: 2026-06-16
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31654963631
+– Quality: UHD
+– Streams: 4
+– Price: € 20,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Peter
+– User GUID: FJDOR65E2BC45CRND4LWW4CSG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798376865	nfvdid	BQFmAAEBEDuFzNIxRHKgSOatVn8eJeJgqwvSY0KsA_ENmeIDvv81o5WNLishKxwuNLSEbJhHlZ-Ei44DDeI7LH4ltggNMkIZepUCRAOIEO2Ijkld-C8aGqBLb7r5uUPjlX4QlY1PpOTRvamLtIFoGVBHWXHYIfSU
+.netflix.com	TRUE	/	TRUE	1808048625	NetflixId	ct%3DBgjHlOvcAxKEBBL0nmQU8XM1AIgvyj7ZP2C4FjbVg_O2pvCQfjyGUkCoZg9AXwYALoWSfREK9QZPVW_rKuGzll45bdOUetFKPtdpIvZNHynnxUEvN14qg0c5uplcdl8iXlml_lWUHEAGglBuAbVw3_npyhFzf18kGcF5Ro5EZ_MIyCbVBCDy7NNnD1EaDDI93Ezyz0mmtfeg_OGaiBjV6McIuCvUEjUdZmNg3zSq1IRsrXDdlhEbyzEah60V2O_QqUkfZ9LTnMdxxQe9zwQZXF7PDtIw63f8KWqbcyskoIWrubmqgUG0SJxyzh8udJMyAvF-qXLh8N_Woh9R4eAXZ7xAu97PnqZnBaf7jzl8be4-6yGgqQAK_M06UrP4jJojpWI4zqURxHtqJ1Ff2HIC3mhXE4y4jXAhjqF7SAARuSy054QjzcUunQJGTMta15D_k2TK4SJmIzBU2i0e7f7GX-k6Bvyvo5daBY701LBtsxO0YpbCwXkmM87S4jj2WlkbvcL5cAYTFlqfx6p_WegNJBqVf_OgEWHDhHFotRzgNEzT9gmhGSo1SEtrOZunfGd34qNaEwiIue57SDsmHN2ZSapTCrOKjdgvFovYr2FqVDV5uEz1WonNrasa1_Udt53oIbR2_jCfHI6kJA9l_rx2DVo_v04cKAmCtRwW0Elz7UUQhVzJlBXAZGSePt88thgGIg4KDNhM9fmBGfV4xbOJtA..%26ch%3DAQEAEAABABQws_VteSCbbOASvNGhSSEXgbLj3R4w-8w.%26v%3D3%26pg%3DFJDOR65E2BC45CRND4LWW4CSG4
+.netflix.com	TRUE	/	FALSE	1808048629	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+13%3A43%3A49+GMT%2B0200+(Midden-Europese+zomertijd)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6f29f8ce-0944-4d62-8de2-5972fc9c5bd4&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=NL%3BOV&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808048625	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-fytjiGimZJJobIk779h-d0zzVF_E-oQ.%26dt%3D1776512625822

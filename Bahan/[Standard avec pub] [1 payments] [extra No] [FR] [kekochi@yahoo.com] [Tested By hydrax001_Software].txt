@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: adel the best
+– Email: kekochi@yahoo.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juin 2021
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MAMAN
+– User GUID: GMWCRKEO6RECRJUWOBYTILQTUY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783448173	nfvdid	BQFmAAEBEHOgz6mFUCKI68R68MTxFXdgLGKQVdP78EPYlHzK-wP04OOVPKUTPyC0voF93L4nJnAxxHLaEiSymQwOb_R_oPCxSLEjRRXLY9p1JJ-IhyuYM1btjJTfR4isaxaikTsVJK43A-Ww-5Y3a8FCUKovb2FT
+.netflix.com	TRUE	/	FALSE	1783448173	NetflixId	ct%3DBgjHlOvcAxKNBHnUjBzLEO2IZnRnq3CKXvjNceQeQ5QEJPX_3M5x5RgoPRPF_1xIp4MFu9VxMfkpzGvqCuryQacd_kI3vIfZh-3ZcD5hF7K0HYpr1I1etGNbOCgpbtNJF3iHtJX5_M7tZRzDuoF5_twKlsn0deFg7JcgQ-3q_ctZoqhVZ4t11RvmxTCJEEKvTd5uO71qVLzlMMt-ikpEWTYslEVhn7EtfLA6w8-wqFzm2X0fjOqTcICdUtGGaKGNx_UEDOKU9lk7D10UbFNToiMUmAi99gSzSd9tRIp2K-1y--LDTjALh6Xrtd1OB9L66kR75sN630_kHFvSnKAgg-rUP3VY2RRwIb0eStK_vqLhwZvgJMIOM6jMNUZgZUQqaCiME0C-DpBTjkdu2gtaL-_o4aTQc4st4mF4TMzUQHwbYIpeeDl254piLXhXu5sp3c0k0_S-lcaXQTpvmRnwWTlHxTCzqswY5hD8qpQGdJHKuUypGDvzwwacgWirfz1Vwu8P9nlljw7yXtkCJ7xVoB9VcgZ9N0s8MILqqOLWZ0UggBGCPAdeJtSGD3Fbi4GqVXjqfSM4eylh7935pXuzZQBb7r33mFnOaqhWEn-55rJApSDDLfN6h5g0kWsCKp8E2Z9dUiU6pJ5UHtJvt8WET9fT7ACuwGcGEaRgktUKm3YoTiyipBkvttAEMORSELY6PmXELjMlkBgGIg4KDLr83pBKoLyCskxYyA..%26ch%3DAQEAEAABABROSdt_YXgQ8ldZ24PpAskOUlAvmGhPC44.%26v%3D3%26pg%3DGMWCRKEO6RECRJUWOBYTILQTUY
+.netflix.com	TRUE	/	FALSE	1783448173	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+18%3A25%3A09+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cfc4af29-cf54-446e-b737-93f2600c93e5&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=FR%3BIDF&AwaitingReconsent=false&isDntEnabled=0

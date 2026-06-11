@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yuri
+– Email: marcielly30y@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2020
+– Next Billing: 2026-06-17
+– Payment: DC
+– Card: 4026
+– Phone: +5551989086513
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marcieli
+– User GUID: YXVWF7YGW5F4DGJ3H2P2RDN6HU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1785548319	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AvcRQqgmM0NHJ1GM8UJbZgfxVuHDMEM0iFgr2X7EFR6fzGbOx2uEWJyzUKFS3HHS4ABSJwieKKFGY2YyAOPYyrln6DaohEgIQWodzZJiQR2aRp3WW1c_WOJu4s6X8Il35Bt6X0sMAm7ipUyXWNc6QOMEa-k4htxLyKbU_6l2O11v-8-Xr2bIbu8Y6eem5stpIb27fb3K2Dc7Q4OEjZwUuds62uyJ4EFh0sXUIousN-7lr2eBj5Urs3y0o480TklFwAcC1dhX6bSsgakKot0u7R0FVp8_2vFnhi7JiFTKma_8bkTnUvXA7v_fyge0iZkzW2kakzuKy7EC4-zcEPYepSuRi1ZK204XbHCr2lkFIKG1PqNZNlEtTyaMIxM4WSSfoIRAOkhy_KkDUPgfx6_60uIPnbsUmNOqhd2PVuf3NNoSQnqk9kTBE8KhFqjmTVucIFP6PCbj0HqSvQuOZCaT9aGiom6OAwuns0tMk_HdgwArzDN09YtNa0uSg-i7-RgGIg4KDIgoMXa1s-P1VOcLFg..%26pg%3DYXVWF7YGW5F4DGJ3H2P2RDN6HU%26ch%3DAQEAEAABABSOKAr2Dp85gYlily87wgw51vn5cO_q84c.
+.netflix.com	TRUE	/	FALSE	1785548321	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+22%3A38%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=e96b8a6b-8680-4070-abd4-3fbbc1cc69fd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1769996298579&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1785548319	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsHu1FURdhA5hq9eSKcjqqC4lLfPV93y8.%26dt%3D1769996308568
+.netflix.com	TRUE	/	FALSE	1785548317	nfvdid	BQFmAAEBEFjoMDl0GQBQ7tNwXIixEhBgi9QIJeR7hAqHW14U1AotW_3lO0d1osuGuCIQ9l7DtULnGyv2fpJIRDRY5rXpCOusfu0Lu4ANynNgTg2V02_dmQ9OYr4CP9sCdQE_smFPmfWJXtc_18uW25k30x_EfyDV

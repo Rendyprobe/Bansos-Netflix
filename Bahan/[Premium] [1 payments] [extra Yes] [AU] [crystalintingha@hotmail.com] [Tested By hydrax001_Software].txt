@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ryan
+– Email: crystalintingha@hotmail.com
+– Country: AU
+– Plan: Premium
+– Member Since: December 2023
+– Next Billing: 2026-06-10
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +61402577715
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mum
+– User GUID: DOVZ2HD3N5G63OPWODXELBOWLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806483985	nfvdid	BQFmAAEBENjemZ3m7B7QtWy4_hQPeE1gQCXb_jwTNmwSMl4GEEXxsIvsr_elh0qPV-4llu4V9ffqeOxXjb4yXZXDKsf3FKs8ZZQusqTJpRM6a5V5dxc0h2QLnJEvdVt67C7hjWejuGXDAEcLnjHcXDG89RxzVrcd
+.netflix.com	TRUE	/	TRUE	1810802033	NetflixId	ct%3DBgjHlOvcAxKyA_uQ5rS8ICLI6KWlj47yOY98tu8TJHuccXeBePvZWAzEtdApTfDGcjg_E3IjgKif3jUwAIQtUQmsggJzbQbJgIgIgoLj6WbERMX48pfIVXWsZR9hpY7M5NcQGNsrJ51_blaSwa2QL9gIRup0oWA-dcEmLPcIx5ekjzS2b_pOqg0d1H04_LYDL873egQ4KWHp0LrDgf0Uk4J6CTP43hkhxdDy21ycdlnXu_mUm_327oG2yXbCX12G8JbEuWgy4PpnM2vei25i2OKej7OFj4O6YMGWd--tCuL_Pkhh38gVjzW0_JNV6f-FzKZGXYhoSkScqb2p453Tn5wn5a5Rt5AArARnpUCikMOlaBCRT8GL9EYMBcrWOXs1pCqQrqM6LS3163L3kP9j8MhWCMl_C22sOczSPmfBE3BSf1cUqppIWKIWHIFKgUkRmyvQY-McB9d5UycE4jvepRcNJ92OXjcGR9GnOeW7qmL-FR_TVZVQENV6GyAYV_Nw4H90EcBmT9UgoOcbuRdUVPFuWBVzuiyAx8jq6mn8739-w1V45-Co_MyH_3NutzsMvZBhg5S_E6H09vyLGAYiDgoMHWq-SeP2yAPO0gXk%26ch%3DAQEAEAABABThGyzS3ocxkcKXulFNpI2TmcjgEa2PsVc.%26v%3D3%26pg%3DDOVZ2HD3N5G63OPWODXELBOWLE
+.netflix.com	TRUE	/	FALSE	1810802047	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+18%3A34%3A07+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f8b9c80e-ec9d-4712-8e98-0e6eaf254476&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810802033	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1xQz9zvA87VyIPUNr7vRYBzPiECe9D9Y.%26dt%3D1779266090724

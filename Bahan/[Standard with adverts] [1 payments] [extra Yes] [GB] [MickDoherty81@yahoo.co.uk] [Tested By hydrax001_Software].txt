@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Michael
+– Email: MickDoherty81@yahoo.co.uk
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: May 2024
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 1020
+– Phone: +447387382597
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Michael
+– User GUID: IDDO4K5PXZCCFLJASF67Y7XUF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805108296	nfvdid	BQFmAAEBENGJRKNhcLaRC2J-QTizCuZgLnrhCKIiE38mAaaxi3_2oSB3Jq5x2qKSazbyyY6_ISPc4Bzi3eJsKSrC6dKWlv9MAb0pcYVhvlu1BzoWqBkfl-Jiy3pIEIwrgdpyX1Re20ff7vjhMlPfZDNYVbuLjcVO
+.netflix.com	TRUE	/	TRUE	1810662604	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTAysqndA3AcJzQ_g-vHJA6uA0Uo6INdubrSn4RHGL2kuEWgAb072WasD85m9h4ez92SppchUCWMK_miB-6GOdR2VzVK2SIsrmeOqeuY3ln5CYQNotbhS64xYlKlc8ZY2me6KB7qXJIs8hFhkQVu4cmdHqQU6sr07dpoCmagRO-H74g9kJtvW0WNb1W-LacLIuRPzDS69nSsB5iDkcajZ199YU-8vikeqlDRJ0Wj9yt-HdQEWzdS5cny9xGlWZvz-V1W77SoMVl-ZkaPw7L1wc8m4NXZdpSwRk6_CwOYeze9oYMpnA8m9vNp3xl53S8DUn50wb2eL4IbyoCOiD6V1URkD7KvxXbZWAT5SaMJ8OEJGllBfe9-EAPoPgnv2Ju447z5EQ_G3JCLJnhU-wPb2jVv5ogkOOV9TKW7rW_Rw-BT8QHuuXkqQNwqbFAhj2Lj9PA6H2P6vEbpoXBEmUk6X1Bz-22pqlgx3nngbMaXjvC1ob1f382fnos8dUfKQC49rAkL0ieEXgNF9J2-M1JqysRJMbMY8YBiIOCgzlZIuHopBTC4w8uX4.%26pg%3DIDDO4K5PXZCCFLJASF67Y7XUF4%26ch%3DAQEAEAABABTxJPAND8P-V3MKyXXWg9mDu8y5-QCcbno.
+.netflix.com	TRUE	/	FALSE	1810662604	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+18%3A50%3A04+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=47b80f25-1a99-4343-ab6e-941fc1880a5a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773572169972&AwaitingReconsent=false&intType=1&geolocation=GB%3BSCT&prevHadToken=0&isDntEnabled=0

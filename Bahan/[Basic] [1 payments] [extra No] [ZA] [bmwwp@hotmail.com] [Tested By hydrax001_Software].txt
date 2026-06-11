@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Big Boss
+– Email: bmwwp@hotmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 4703
+– Phone: +27649043482
+– Quality: HD720p
+– Streams: 1
+– Price: R 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Big Boss
+– User GUID: S6UOQCFCBNEATNVWFLI5IYMO2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784103798	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLxAichs3TtQBcEdginSRS2a6Gpn7EvWAyNQeNn_yb95XG1ipxR_05HJG_WUKcN7fpBwPWG1cVulJIAkIDkMnmPowc0bF1yLcSj8vfZ1czAqI__AYiuiv_in0wXkeSxcdQPpK_3uLjfN5qqRgwpe3lOymCYSUfw4J5-Ih3y9wehT70O92IeZ3JvlgI4bp8E8zwEKo3n55NczNbS-zXJ9IfmMbgh9c3New2Rmm29ktet5kk2SRiqvigBETREpDWUFHleTFVs9DlnU07_gQAm7OWSM4sbMIJA5LlJzi8q8HE9D20NLcEGbaD8CfX01X8osR85d11ERh5Kugx82HoASfMA979cmaBP9DGgSb9OGtcH4vA0e30q_SGDZEq8uDxbSwPDWNmd_hGIhKrqIxRvjcX5hUKVP5mU2PS9xyH_yxV0gO3vLO9ld7IWW0LdwpjxclscnHe-t7CICOebvRbMOhC6qDo6ga0EBV0-V1CReJNqmqaHixgGIg4KDKlsZ3LYxYHs32gNiA..%26pg%3DS6UOQCFCBNEATNVWFLI5IYMO2U%26ch%3DAQEAEAABABTwgQan1QEtZCuTCnw4wfAe86lHOJvC-OE.
+.netflix.com	TRUE	/	FALSE	1784103798	nfvdid	BQFmAAEBEBiSAGd5fRN3LVQUMGocWs1gkYIbohV7aVoVT0LioflLobTlBw2X5TQWQC-KxdgZckJ3x0qs4VzwxjWCi1YT3VGnAHMFHAtI_qWWXeS9BfMbBfr5wivkdAPVCAVtxILoowzT_jKfKri-jCZMhYjaOuY0
+.netflix.com	TRUE	/	FALSE	1784103855	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+15+2025+10%3A24%3A15+GMT%2B0200+(South+Africa+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1a5d342e-034c-4999-b650-eb04787db860&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

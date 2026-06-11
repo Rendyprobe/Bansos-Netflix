@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ranitsahu32
+– Email: ranitsahu32@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: June 2026
+– Next Billing: 2026-06-14
+– Payment: UPI
+– Card: N/A
+– Phone: +918509778997
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ranitsahu32
+– User GUID: D46VRGVABVCCPILEJ4BGWEOISU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796809203	nfvdid	BQFmAAEBEAl4WNN_EMptW7pxY0sq7L1gVmhK0UXe509J6tJfQSILZM4Xt1e8uRrb-K-a_R5N31DnksXGJinsD-pNdvkkNEwI9j0EfwBP0CR1jtoIPoYO4sP71XwsTEotDrf36F9YthzkOqcfh6IqNB1iKGDcQJvc
+.netflix.com	TRUE	/	TRUE	1803290912	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7rLqwolIhLvjjC3KSImPpVauAe0UbtL4.%26dt%3D1771754912855
+.netflix.com	TRUE	/	TRUE	1803290912	NetflixId	ct%3DBgjHlOvcAxLsAxzrZosQ-EKw1YNpAMoLfQQU5S0lKJcgh9dM78vBbPx7s4ZE0aOubE0Nbk_cmiLOVn1SUFBg3t65gD--xgvLfs9LTcdPQ6GUEiJaHzSJNwD7g3ObTBciPmODExKMWfyHS5AaVIHwnyA3eTZOf9fVGauh4T08-WOLnIW1FJMZHPdO96gpOFkX9UBGH4I2MmXMnRc4NEq7q-er4wrEZzsEZ-LcIsaj-Ftr25Ib6bAPZslCEwMZceSYE-gzhXo3ZsSqpJvXR7yXK4LrP_YezPy2b1tMnhjvAp4CUO1rwJAgf9YmbJwIMVb-E19gSUz21RF4TjIwZ2JVd7spPF1yt7hSgdPSNZfzZ36DEYSf8rdUSWYSNJMVkx9PTUiHRpk43jwEdis0_zvCOpjzuczKDbd4bxLVEE8UFvVoKPwlXDgEK5hjt_VN5QuZ2q0YPHNSwS-1MqBa-p5TwldNrHOT8zLdIWXt4ft2RAu06zCaJZHexoEYu2U9k6CW0vZB45zEp5OEKXmqXZXyjGtKs41IRtrEdJKgWldIcaQpsXRWKkwtKpc_i3y8MPCHc90CB5zuNNGHAxatEbFJUSHqnVWbNfNGZolJCEhh7oovkc4YEegDhDZoPgvOOWgAme0EWXU6J9MDX13wzk7OYvsmYJNhUxgGIg4KDFPRppcmSm6riVeHjw..%26ch%3DAQEAEAABABTvwuc2XbZ-VilEnOddlbZz-N_VFVcBi3k.%26v%3D3%26pg%3DD46VRGVABVCCPILEJ4BGWEOISU
+.netflix.com	TRUE	/	FALSE	1803290917	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+15%3A38%3A37+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b90ab3b-1d6b-49a5-b159-89ac231f5169&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

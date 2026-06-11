@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pau
+– Email: omaralbesaromera@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: enero de 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0367
+– Phone: +34640253827
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Omar
+– User GUID: UFTOSPCVUFCXDASBB2Y7BTCXCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794780785	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AtSWyZ2NNzYXFUTAvRkAQwQ_q3I0eNrOIqK6AMTVvw0aF4gPqWDOfu9xBcjtSxChHzps9QiV2OXy3WhLdenyPmtGWgSV7_Qgaa2bGQzyzdj2vUsULQC5u72HWNMr1maKYROtxhYO3BGE3I5BuxBCU586VsFWUnE9X-eQhZFYC8xTOZtBRKNexAuLdWAzzaQ6MGVVmLRYkvU-2y1QYkmA1oyGFkEFTPZ0rtWaurSpk6yL8aQ-iBjpQ1kWc_7WZDCOzBCVGTZ5HkK86pJ2ryBjGtTV6mEu5BPV29n3Fv7sJp945ZSd7viACB5vnIIi5el9Qm2-G5CkR6E3w0j09tpsfWjKIi9RaYHqba-Ek3CwWDnnlqsT6gDkC3JOt6CtV0z-NEo6lfUVFKrstdYV9LCOUBNG_T-6829lpqOOIrzWknFhQQI4fJlWggiHK-VJAiWbk2yI-t7fKEWyidh3PviqLJCnVc4Gz9Y1HgLyddxImCZALA0vPMNh7FWaGAYiDgoMA8_1ijVR7L_K_8w4%26pg%3DUFTOSPCVUFCXDASBB2Y7BTCXCA%26ch%3DAQEAEAABABRmaLEMWbx7ElNX3wj5C36939K1ALDxT1k.
+.netflix.com	TRUE	/	FALSE	1794780786	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+23%3A13%3A06+GMT%2B0100+(Hora+est%C3%A0ndard+del+Centre+d%E2%80%99Europa)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=392f1f23-2c95-4593-852a-dda32114d3b8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BCT
+.netflix.com	TRUE	/	TRUE	1794780785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZBzj0drQI8RFx-jkxk_g_yiZJsLtU7ZM.%26dt%3D1763244786946
+.netflix.com	TRUE	/	FALSE	1794780781	nfvdid	BQFmAAEBEAg-FZJ-xmxIp3bg1RD--LFgupqiVS81kMnMzvvmrihesCJtXh5J1WKkv8oX2SxPhngXmNsr7MxrrPdrpdycKtTxr2TTyVtQgW7N7wyReJKnYaRErXfXd2BbuC4tH_USV7m8Bz6NRVwJ3y2wS3T2Z3B1

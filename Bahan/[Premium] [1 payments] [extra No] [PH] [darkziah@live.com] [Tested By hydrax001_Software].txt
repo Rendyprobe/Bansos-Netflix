@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ziah&Zeb
+– Email: darkziah@live.com
+– Country: PH
+– Plan: Premium
+– Member Since: June 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 5115
+– Phone: +639957840888
+– Quality: UHD
+– Streams: 4
+– Price: PHP 619
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Airo-Jireh
+– User GUID: B4SLPE5THREKNBPJMXFKFXTCS4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806549358	nfvdid	BQFmAAEBENLS4w5GgyTMy33z6j_ta0VgNOaCzy-CWmLJgVSIdJe6DwmVGK9dAA8gYxnZZMq5UpUF86kJgG9UlEDbTDm4gKqHzuEi2J7UzWxeIdvuw9ZX9MyvCkS3ksdMzfGEOLPu-KeRWaIe_AXf9uOJhZ1PkWyb
+.netflix.com	TRUE	/	TRUE	1810010879	NetflixId	ct%3DBgjHlOvcAxLQA0JvJyzPUdqxGWvNx2gMpRwx5EdueNYAQ0pxhLM5aRTkCLZ4aOaDki4R4ouATyQUWThohRO4iMnVLaQtKaDCShTzNSF1N3vobNKTp6KugGaAjZz1Ye51Ebls_ioyuouuHv19Vgs3fLIRYTSHw0EjDNrek1AIfp1BedP3i3CV9EtHVFvU9ppHiRFaMe7sWk5PnxDychfoRYW7CbkgQVIHL2mM7Kdht7L7XxcKmiqrR9i_K2IhHzjM0p1mGccRJlcE4JJtTSpGFLn25nUMgSy0Zp96Vx8-cqtY_SxOgc3IjslrU-x-4xQ2BlDzkd06-nl-_q0GBL7IZS4gpUkjbAC07laucZb5ZupvX3KIxpZ9nkHDsT6fBuYrTGJJWHjwzyRGCekaC8OXkdEU2YY9R-Hn-z5o3RqFF_wM5EnJjDKaUd7n9Eaf6WucldRvDsnWC8vlYe3R2PzUJBEpQFbQxXdXZ-qKAn1iuUErF7t5zT9OacQW6uyfI1nXHQJnJrgVEeMEmc3MqI1f-Wuk0aBhvyJQZPe7gKSadqY8Pf2Egu8eXiHCMbacfeamsOvl26VJYxHE8ux1-b19TwA8mzeuPVxqCbvjct2TWA0vHT1h1q1bfjyvGAYiDgoMg6mMEN99EBQFMdtf%26ch%3DAQEAEAABABTqev3Yzrn-AZ7DFU419GV4BG7LhMTt0HU.%26v%3D3%26pg%3DB4SLPE5THREKNBPJMXFKFXTCS4
+.netflix.com	TRUE	/	TRUE	1810010879	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvhUoFi4fxDLflmydxDyCeQFQA6KpXnV8.%26dt%3D1778476031868
+.netflix.com	TRUE	/	FALSE	1810042160	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+21%3A29%3A20+GMT%2B0800+(China+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea718362-1dd4-418f-bcce-1c91ff4c6bbb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

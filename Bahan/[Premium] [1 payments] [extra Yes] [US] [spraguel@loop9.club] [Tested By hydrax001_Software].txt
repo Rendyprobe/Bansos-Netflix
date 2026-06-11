@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Susana
+– Email: spraguel@loop9.club
+– Country: US
+– Plan: Premium
+– Member Since: October 2021
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 6572
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Susana
+– User GUID: C6NFXPCEL5ECDCUNIZYALT6UWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806237613	nfvdid	BQFmAAEBEPlGiA8MS6JiW2mUatHO3G9gMZPyDaoArWl5Bsr0by6TBvA0Cex8Wej2xFAkLll6HrV4yozFFZaAnYGZzdGtM0TxTyRqsTd9knzYL_4a48Xl4cWc7PPDodnQf5hB2OjzI7Tp9FOI-BONaNtw5DveuchH
+.netflix.com	TRUE	/	TRUE	1809363476	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKQA5no_ypRgEQvTF2mL1LwwpSn7QO5Qc7yKQTX12v2WOKSQvXaZ_CP7Yt3wVXn1cQpZKMm3NMVYS_UvsAVgx3UCASd1A2F-7f14Vq4WtgkfJMYjAp2mJpdDAN0KC7P-Cw_DfnUQ8KousgAM5OU_YE-Lg-uqYhaCYCOXLTh0d-wmk86I0xcksEV6AAYzBiNDXgy3CpwJlFsbLWO3iq_s-_juUzkpOo8ANSV-mQXWaf-OGH1HuvYGDZd-WuKm9LCdhcUeCkCRoCOnJY7JA3ZT5Fun1lcqyoOoKvDxmYaZCEYhQZC0dNnkVgXQ9UISplz-gBYG4vsBAiRR9ZZanaxeQUV968J9cWg1QdPC8HccUiu2hmjoCg-7jJY7da1TDER0Vf7s_W3Mn3jM2iR_aeQ1Y9OGxEdLRCSe5Et5IypZeIMS4XwOGqhJ2iVDYsZ9VHwAoWYFbIYLlB2uX1Rf4GjP1rmO7vAPMhAyRL3V0mnlVNXXBc93faPa374r_dVX_skfZx5Yv4bFJpp0vTchLDnMdtf5sYYBiIOCgwWBTVbQoukthEa07E.%26pg%3DC6NFXPCEL5ECDCUNIZYALT6UWY%26ch%3DAQEAEAABABRDFMiOJ1xWXkMCvDUj_e4Bh9jjo_DCQbk.
+.netflix.com	TRUE	/	FALSE	1809363479	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+18%3A57%3A59+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c4e386f7-adc4-4587-81e3-47a7e9e1777b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1771169243529&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809363476	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStn1q53QxUZJ6t77CwWXgWt6x6s24NNEs.%26dt%3D1777827475958

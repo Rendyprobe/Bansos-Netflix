@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kiyan
+– Email: lathiskiyan17@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 9350
+– Phone: +919698385616
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kiyan
+– User GUID: 7WSPCBCBLZELBGM5SYAIAFYFJY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800009127	nfvdid	BQFmAAEBEOLo3C_7kNBZhl0NPZWJ7SZg3jtEJjHmSwD_PqG9cbcDI95Se2DLBhGEZKzBQlLHvYEwW-iFQZVmw7qOHhBp2QjRF7emfo4e2dxzSkshQ_t0NeAjLH3ELsACcDn1FFeOmC9Wsf2aLRllSOVJpfr40E7M
+.netflix.com	TRUE	/	TRUE	1800890749	NetflixId	ct%3DBgjHlOvcAxLVA5sjO9hLvN0OJ3vdUSNk3iys4yn9i-yUghSBYqx4sJenJRcz3KiqigiJvJ-1g0tdLBJNSzu5Mxwpy36DtwQpW-eCHm2rfJH4sEPLZu4vIHqH3ftepcfCbrNsmNvgYC8-xfHw18cyXozpVXN0ETodu27XXm4l1vWGMeKPP_nt3OEYAoXXKgsiDxrOdK2NQtqy26GYz9h7orwRK2xLFsq2DIcdqb9T6fvH9stuiEtsHv5CFFloOqpAJFbPy6_vZBuLB3XUV07zXdP6ZuhnTP646YkINHiL8XFuV_spkIH0WUoIOJy5M7F9eSyY_oh9Hsee86Iw9ckwQmYFCgOgS2f2x0i-f-NJFm3w_8rxb5_dvW486cTZuvRodBrlLCM72ZWuX55lUGdU5yH75MjGLWzOOxvL9oTZVe4gnRNnuG4sVOGADW_VW-89IK8AePMlMZZ7Dk5EyZwVenshCrfMxTJ2-1obgTrA6pnKSlmz3T_41AvFrZhlFNgatDmREKh1hstDxD6jr6AcTURHCme8Oc3Ve3ebsfr6o1vfdRONSG2t0kkYwI9Z5Tl2SWFOWy79ciujaf_HAxuMy30ygJNCTRa3F8k0q4Va-c_DCc4BlrSbMLNs1oEEaFcYBiIOCgzpK7YkEHYOcrhJxhU.%26ch%3DAQEAEAABABQBu4LkKJGsebAkVmv2YzIBCKG5Y_w3ks0.%26v%3D3%26pg%3D7WSPCBCBLZELBGM5SYAIAFYFJY
+.netflix.com	TRUE	/	FALSE	1800890747	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+20%3A55%3A47+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c490ca32-e369-4113-8bde-cb5f9e7723d6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768473007132&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800890749	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrET8XNtfP-0BcQ_bpXzw59EO8hzUvL5g.%26dt%3D1769354747614

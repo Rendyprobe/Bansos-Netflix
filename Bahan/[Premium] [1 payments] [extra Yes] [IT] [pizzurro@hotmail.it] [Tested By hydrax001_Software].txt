@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dyke
+– Email: pizzurro@hotmail.it
+– Country: IT
+– Plan: Premium
+– Member Since: November 2020
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: 4023
+– Phone: +393397133789
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vincenzo
+– User GUID: APQ32PWLLFDB5FE6IDY2C6ZBBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1775394552	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AvJ2pcx-B517w5qgxjfScKLDZYqcPQ6O1vh17gMriDNqA1dyqx-nVRZTOJ5CouLHLxlhtKuTkcSB_EwDrNJ9-f-9hG2gjPJESTcEXZKWaU1b6dKkzkfJgojzw37c9YNcjSywuAKl394XbNd8eC15p0UAcxN4ooHY09PfM3j8mgwR0YvGJEecGNTRrtobHNm8tpHpAo3W3Ez2PPuLXGvc_G7WFUJJhW3zGV0LHCWe_TolAmQFhhznTSgY11-8Ff6aTX-TH8od-UlV1QP0kQ8jC5uOCDQE3FXue7r9DsstxHWd5PkXb1CTQT60RKruLw1O3XBgmvCJlzwpJg8l0uNzRH2F4jYLXxFE_tL8aI_2U4qDf2JsLVtUrVpTeUW9es8XCjjwf23twA_ld64O69JS9ro2UgjeYubYq9F37VDigRqWI4Bh3clZ5pON1rvzKKl1WxyuidO-5I-ZFf-PP6Hanipw5j9nLEuP-0SNOpl15p1ulWOMAUz1phZTGAYiDgoMD2vN2mu8k49Qt2h_%26ch%3DAQEAEAABABQ47INKRndQTbdyIMQi_rewDuLl8XfGPgQ.
+.netflix.com	TRUE	/	FALSE	1775394553	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+05+2025+15%3A09%3A13+GMT%2B0200+(Central+European+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5fc0825a-2cc5-4488-a9f8-b2de7f1d14c4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1775394552	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5wTFEPAMeiV8MVHB061Vna5STPlX-x5M.%26dt%3D1743858550971

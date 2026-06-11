@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Himothy
+– Email: valientelombe@hotmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: May 2026
+– Next Billing: 2026-06-10
+– Payment: CC
+– Card: 8131
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: valientelombe
+– User GUID: YQFHMN3BDBHQ7ENPHHL2SKIN44
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798936394	nfvdid	BQFmAAEBEDzry1B6GfSjlV3D4GAYEEZgZuzX1xFpLkr7e1z8hULf1lGlmZOvXtm5wB3UX8w1orev3kliLdvNyHX38lyhhtn035zLRnV0vxMtLbb0q5i_6wj3lsTHnWmVp-NPAq3O16sN3_j4MIeTxgMlDdC3N1DP
+.netflix.com	TRUE	/	TRUE	1804090637	NetflixId	ct%3DBgjHlOvcAxLfA7BHWifJr5MDHyM145jiNtmzhvBtaOmYEadXCIMLOrlot_NtGI7gNombpDzrfvJvcWP6TwpNbFNQoNwug1ae64sIiH3McAnsJdm5_tpwcrglXIXs9tCpTFcq1aeHPulOjraEGmCdDHeNfZApvoas7RzeNXrkM5SxrImOs5pQDqKXsxX0hfGbn3ovD1tlwgb6Lk73n0VRZgSXXIjpcz0SgxNrnyDMpyzP1TyYXP_R4vBTEJO9h2gRRvzwQu3TGujgmpbK8KIbjjvdABmgrQ51NmXzRBYjuJ6S1vJ9f3r-E-N2LqjGc_0N1jKC9hnz-FBd0w8cWKRzXtK7qDAoc53UAz8jhcbYnbnyRYeF8cBDsQks4n3AFZZqFmHm_eUgaKdPDyoTecPux29lzpVbqPMNGX3RBlzJkvqvAva-SeN5oWDq5EVld8lP_jTzQciSAiWIkJJnc0MNYQMaG8lhGzbpP7NfqGFxcTD70HFEdPMveIjkrIxuAq3F6wwNNUBhzwvW7q8IjyfsSC9TTPp3neqx-SzCbsgfgT9vQa9833rXQ6foUuWTkp8-7y1tbjqxHEIDMODn1OMcBtf6z-YOjKrqgYJKNv_Ui1XJoabb1mpHRtt-c3bIkePZNOTpZQj8algvGAYiDgoMTa99nsMsJDdV4l-G%26ch%3DAQEAEAABABSQbAd0CSem3AHAysaI3oHf4lqRHMdDQW8.%26v%3D3%26pg%3DYQFHMN3BDBHQ7ENPHHL2SKIN44
+.netflix.com	TRUE	/	FALSE	1804090638	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+16%3A17%3A18+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67ad01fe-b5b7-4b2d-bd6c-59edb3e7956f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1804090637	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAvWEEl3_YtJ2b3cFkVq_Y_kPIKz_zJeE.%26dt%3D1772554637351

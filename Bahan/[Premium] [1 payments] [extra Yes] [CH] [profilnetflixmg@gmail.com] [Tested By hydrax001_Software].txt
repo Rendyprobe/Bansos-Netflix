@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: maurice
+– Email: profilnetflixmg@gmail.com
+– Country: CH
+– Plan: Premium
+– Member Since: abril de 2021
+– Next Billing: N/A
+– Payment: SWISSCOM_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: maurice
+– User GUID: ETUPDEEDH5FPLENX2A6SMMEYKI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807226246214	nfvdid	BQFmAAEBECEaI2wsKI3Yrv5utHkFA4NgeC9XTh85KVCud4pKq2l3ghqeU3To9t6X1MpQp4bVxJmfVQbgcEP96sjZPdA1X8oW6hwjklHxNOd2EZSgjSDkZlNeivR1Ex3F-TSxqBQVLeod0m35Idf9w2xiIZc3wucZ
+.netflix.com	TRUE	/	TRUE	1808332675744	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQwdAkPM4hQVAMwaLlJygC3wgbepaf5woo.%26dt%3D1776796675756
+.netflix.com	TRUE	/	TRUE	1808332675748	NetflixId	ct%3DBgjHlOvcAxL0AxEtYrNrf0BIbbcUYH3JI4-LcjikSeH908_puD7h19h-KVXXZqlBfnTN2RdANRj3MMUwAPZ61E81680CBVZlt41QVXOa6zsdPpCwks34bF-bBJg5ZvPUfPB8ZLtcvKLQp9kNqatF3i1xqYeYihGQdN6F4GkpLhWB9qIyKWiBqGhe4FrkUSbsLXvw9jT9qOpxvhWTkdnt64W33MqNPxOHKHpytoDlReHj8B6rUZedwHF5I96Pw2MRBgfk0V3DA8w6e2GFhk5SP1iaPb8tsHdrk6OK2VcblM8O4jGPOckgeSYy4KSZ0eFu5VTl_fhgk7aIJspQJbqXmfHuvFf1uqHdFYc87L6vkVHJsygfMebksVMr11N2fVYOkqhWzAFsnGGXqOq-8NAYxWNLV-8tffmwnAK46qIkj5mN8QF9nC8YGVXEAStx8bIKS89ZtGUiohHPlyxC4FXHvNeh0rN0WdKazuTYx6u4zesY83fYIEUmZWQ_eCiAC82w69agW_shbyIagDvY8T9IgpAV2n6SNfWL77zsKJ_57iNZyIBtO2ZYUKLj2MCdzEUcVfTqZ_92mMWBP4hofwBT7jFxxjxMSQ7MM-8Ew8e090t4OuKIY032RBV_HCIM2dULA-JUR8owIBqAzU61XD90QC-MHRWeelkMEu1eXcoeGAYiDgoM7DTBs8OtlkR_slrY%26ch%3DAQEAEAABABQiUhcVQoYo_1ouVicHxClGa_gCcFAEz4I.%26v%3D3%26pg%3DETUPDEEDH5FPLENX2A6SMMEYKI
+.netflix.com	TRUE	/	FALSE	1808332684000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+20%3A38%3A04+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a8db575c-4764-43f1-93f6-2c28b012c94c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775690210941&AwaitingReconsent=false&intType=1&geolocation=CH%3BVD

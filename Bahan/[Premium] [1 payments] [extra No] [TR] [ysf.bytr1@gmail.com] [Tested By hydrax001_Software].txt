@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yusufggv
+– Email: ysf.bytr1@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: August 2022
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 9852
+– Phone: +905378610641
+– Quality: UHD
+– Streams: 4
+– Price: 379.99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yusufggv
+– User GUID: Z4CEJQKO7BGLHN4ISYEVYA3QZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786568313	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Aug+12+2025+23%3A58%3A33+GMT%2B0300+(GMT%2B03%3A00)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=93044b6c-20b5-46be-93ae-25a45bdd5077&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1786568308	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA4Syvos-4T2oFmuQCjCbJkJHGdvgBUm77Ux-UTK3x-tG9X4eJeAStScw4RI5IhmsjNuYuZ186ng7-9Bimh0PX6gV1VLZmyvJ3y7Dla6Px1VFeiy0zhFjegB34iYhdWExZOEUpZzybhz8fkCzxphif3CpPCMHiRRH-h2nGaBBK0rXU06hMqEw6F4L7l34I2q6NaLjIjpayxKWEh16n1uPNIhHBJW1KjaBSMVJBO7dkyreAMBqviYAi5xVsNScWaeNWuVibdnneuVeTs7u0I1KIspbz9JbfiUCt1mQ4eUS9wd0ASH8w5VNeJtvosshn3-s9_wI8IHwwO4AedkY2bYjWjDmX9DUBJH7k_ppnY96cRUUTP_52w0izBZQv3mivCCQ2Y5gKYYlhiIzi-PBsnRtu3x3KwDe0WcraU5M9uWouluutc68XkKKtYC-RPgQcWVhe5E_1WzGbnLkwM0B_zKseBvcRJK-8XU-HrEIJpiQmEGsWgbXMawjTmo6g-79VS4rkhgGIg4KDLF1l4pAHNFJDHzj9g..%26pg%3DZ4CEJQKO7BGLHN4ISYEVYA3QZY%26ch%3DAQEAEAABABTBARL4TYB5OYt_LzpN2MT8sRLlDcEc6-c.
+.netflix.com	TRUE	/	FALSE	1786568308	nfvdid	BQFmAAEBELLVQpUqTe_LMwJAkehgCaxgt9hQWfOP1cO-hhUQYpYlABBF0lEoF5FKf_jZ2bvMlrJbctXpqa153hY6Sr55bAwhMoZ-z7g2awkvURO00RXDOzIym0XbGEoTPtSnIUd6yqlxMvFFpdg55IvJGJmqQT5O

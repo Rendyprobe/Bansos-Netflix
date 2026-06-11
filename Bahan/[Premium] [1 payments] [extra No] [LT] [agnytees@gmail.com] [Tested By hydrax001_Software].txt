@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Agne
+– Email: agnytees@gmail.com
+– Country: LT
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 2662
+– Phone: +37062069311
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Agne
+– User GUID: IW5BTPN6VVCBTCGV33NZ3XF5YI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796152664	nfvdid	BQFmAAEBEDn_WPbcX772mDqYTmRf2kpg5RBpmnrWfyiyQs3LIha8ltu3k8fJ1hM5WvNgMPZSU4OYehS4xWLJUmhc9mnXNkA4B3CDMHu3Wnb_GCJpR3Rgsf0pu3ILupAhD76lmrvQIdPURmsoyRMDfvw-JYZwvCeu
+.netflix.com	TRUE	/	FALSE	1796153145	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+21%3A25%3A45+GMT%2B0200+(Ryt%C5%B3+Europos+%C5%BEiemos+laikas)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06950350-28f5-460b-a897-8f9a571032d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796198893	NetflixId	ct%3DBgjHlOvcAxKgA_-aOWBnVthoTIu5N4CviF3-ErStu8vgYUkQthC46EAQfk18lojU8NrkIoHvDRTZnqnFocrDMtT_SESqc-ugsgJJvWaBdgcN-TvkrQShyZ8_2MPNo64cNP6etOoDTYp4j0tRZYvV6dHHecUYZ3jFSx2GBqFYFLMOmnwzFWxMvRVs0w86FLXAPptcHI2FXlipbeLfS6e1cKeRX4hsWyo4GzQqa1ZHzBw-n4QAd4A-HhqiB4xF8dDA2eDOuMbbyu0McaL_iCcoJ9atdS2ULhG2DYqd5wnll2QhiUtWNOV8nEGIMkl6EbekZyaB0SFxTD6sW0wGKbL7gumzFwZNW2xAancolRGWczR0X4ifn5DGrdAV9jGOtVB8Jd5h_La2Ldy9XuqP1FLpGFgh0wAg05C_cAVQNq6-Ec6LY8A-0GJbhN-YHQHpqWmmGZNFMNyM8UgSrc-uzkkdWRFJI8iJboWFWaaaZj7_WWit6IYHC56VhT_KIMgUISBKz7j9NTBDYHwzFNV3coqdj-Ci145skxNpMdy6VyuaqKEOGTbiY4u4pQInGAYiDgoMPHVGqVz_an4frVGf%26ch%3DAQEAEAABABTKEnIXsKFO8E9HC_lfu2BhwoDBEHgD6Eg.%26v%3D3%26pg%3DIW5BTPN6VVCBTCGV33NZ3XF5YI
+.netflix.com	TRUE	/	TRUE	1796198893	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8ZMpEE0_xT9BhmGU-DfbmAsvVKQiPbfg.%26dt%3D1764662895516

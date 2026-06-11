@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: John
+– Email: paulaacifuentes@hotmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: agosto de 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 8347
+– Phone: +573228880019
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paula
+– User GUID: VFXBZ6YCTNGUBEBCDC3BRQJFBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809835963	nfvdid	BQFmAAEBEJJQigre4t108uBB-GDbu6NgcU8DTWdOymqrySeJFL8_APcauOZk1YNrYKSQaoEE8FjIDpzcv0g31iUXE4aWAfzozFlJuyUUihxgdi4cOWCfgQ4_DQt4lnP-CMO-WuV-1NclGOzHDOCCfP9unWbV-yrd
+.netflix.com	TRUE	/	TRUE	1809835963	NetflixId	ct%3DBgjHlOvcAxLcAzYjDCPooAAr4haPUbOBFsg69eMj71ebU_RLwEdYWjyg0MvxCmfKKqDb1BAMBV1tEak37wsNMT1aenWJRO_Mxc0pFIQa-opLeNV8xjsgrMMQtJGUeMpIouiaD-wECk95C9WTiuQ-72t3EVa_P2MJDDRYcOv8nAUlcF1wlqszXmrhwA8xFD9jkXzZePN3dLUwGVfeyXZH1qg0FqxC76CkFuNaLx_UDgvcpnfdd-gCgUvtsym8D54GlD14tamqnnd3h61XNpqTxJ4axrVsDmz5nMkXKsPwiVBx1t_SGwuNWMAzJl2c3j83tMR6sSdSHjkQ5BxAOJvtZI9aSyTicNgfDEOXiB5Y_7iL7APMPizBvh11uBVBD_OcASUu0L8mxsBt2dukTzixgMcofGk_TEek35Ip0vTKUwS1jpokHkIVRZMlPygM_xa0kQQgBghkKwmhGGfB4ehRWeJNPiF7rt2owbQzYIFoQn9leJDbahLtG14LHgsLPQ0SFIWlOunXkGg1IiQFyXi9g0qf6JEcLM6rV_omPXSQzX8rJyHEZoeRbK9F7vpd7JpJZLux7lhCnuBZ28iPg8Uir3z_ESg4MB-lWXkaIOfjt-K-F0jatB9z_EPVnoD7BWv3uU7XJ1_MGAYiDgoMHZ7AXaPh7DjRTG_H%26ch%3DAQEAEAABABTVVDmKirPusajEH_i7gWE-EVJC_JmsbBk.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1809835963	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTgUx8h1Kd2JzUrKrLTtwHnxge_Pne2acc.%26dt%3D1743961808736

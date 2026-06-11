@@ -19,7 +19,7 @@ VERSION: V2.0.1
 – Extra Member: Yes
 – Email Verified: Yes
 – Membership Status: CURRENT_MEMBER
-– Profiles: Tayeb Chawqui
+– Profiles: Cute
 – User GUID: V6JZD3YDWNED7OHIFBEEXBOTAA
 – Admin: @hydrax001
 ════════════════════════════════════════════════════════════

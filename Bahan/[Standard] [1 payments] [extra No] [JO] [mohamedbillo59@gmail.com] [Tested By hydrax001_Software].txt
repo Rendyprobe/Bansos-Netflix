@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mohammad belou
+– Email: mohamedbillo59@gmail.com
+– Country: JO
+– Plan: Standard
+– Member Since: June 2026
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 6183
+– Phone: +962788080049
+– Quality: HD
+– Streams: 2
+– Price: USD 7.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mohammad belou
+– User GUID: MYV4EVHIHVBJTPP3LXHHINELSQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807208265	nfvdid	BQFmAAEBEOsGhPodijIB2MxdTkBGKWVgNA1HxdlVL1BVibDpjCUBEf-TviE0OQj3Yn52OLYQYlyHXLdys-ByFINX1QX8iplDYvp4ySIeI_4n70ouAblqJLCYomx98QnRqOvZv6Z97ZaLasAbKuou58phHsbZcQCE
+.netflix.com	TRUE	/	TRUE	1808151152	NetflixId	ct%3DBgjHlOvcAxKVBJJF75GlhgeE-03pPRlAMSULzY_r7MsauK58UiKURAjsyoFWLHB9n-jO3tgTCvc2d4OH3kMl8lwFD5-4Fn-iJS_3l2Eu5g-p5LVxQp7PpUxTmTgzRREdxT9f212kDu5L9aIJTAKggC1BBnEc9lA2ImNd2OIyosSgRL_CBTFC5tXq7vI--BH-2KmPE5MUkOmra-ryIlZ_PiPxDsVkPQfqdio_Xl7fArdEOr7vTYSJF3TOBVhhwPf6m7RnRv8RKTEG9hU4SuGWIz0LEuyOfjhzodsifUIfpyOdv7xTFWgj-LRW7rvsiD2n-uZi4aW6D32TLh4v8gB6dfLCyhLHYVrAhe3XqUyL2_mytWkeDPIlHY1IDRJ9FHc6snuuSn9kivlZM3d1Gq4vgaYZ2CHluk5L_fT8tdhACWwpRRw5ClM45nPa3Tns-HzunY7HdPMq1nq-XlO424qyvxfYp39uYK6mWBd_OrzA_wFMHRNMREMthJlEwkNTj_m5nKe5SlGowxW-6ZIcdpxAlCCKhdGZosI5SrOl_0gs7uP9WLLZcb29vWqikmPMNYihY6KeqyaBwSo9WnZ0Q4aedFFKF0_eRsYAJM-Ey3gZ5dnqV5_cPLvXyQNjttkYDGJ3bRfuFWZSWp0X3R3Av55E7N-GHR9cAVMyPHawaP7n4ygCjvFXcGRIQusr9dH7yFHh1iSrAW1sJwV9vG7m2ER8GAYiDgoMak8uyPYBb_B6e2vp%26ch%3DAQEAEAABABQ86yQ5KjTK0ZueFQMYiz3c70A2aBbZbBw.%26v%3D3%26pg%3DMYV4EVHIHVBJTPP3LXHHINELSQ
+.netflix.com	TRUE	/	FALSE	1808151152	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+19%3A12%3A32+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4bad718-ec97-45f1-a016-8425d4508b60&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775672103802&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808151152	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4h9bNyr2iS0J7WoMVPP2dgAoR0nRDELI.%26dt%3D1776615151825

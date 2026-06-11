@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Noxyro
+– Email: game-oliver@hotmail.de
+– Country: DE
+– Plan: Standard
+– Member Since: October 2019
+– Next Billing: 2026-06-22
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +491743477715
+– Quality: HD
+– Streams: 2
+– Price: €13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Noxyro
+– User GUID: MJPVIKC6YJAF7OVUBOGMLDEEPY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1739455750	nfvdid	BQFmAAEBENyyThhHd5NWyNdkVtjBnzJgHeMFidsNehohyUK2nOogv9C9N7KbCk6QdTI719l1HLuqhZhb3WuiDoAC4DxkEw2Y1b0H-Wb9MS6wy5LgXQss1A2YCr88CsRtWd1xErIO6KsN9uc2wMrwrrNXweyTQ6rs
+.netflix.com	TRUE	/	TRUE	1739455750	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABThTeuXearbaIB5BeMs-j4v9C8ZEQdXSpY.%26dt%3D1707919752150
+.netflix.com	TRUE	/	TRUE	1739455750	NetflixId	v%3D2%26ct%3DBQAOAAEBEEPzQZ0acmMLGSyCbUZS-ZCB4Gjw9E3mqkm9PpTrMguDyCSf4IvSiyPNnB8oLot1VGuz2PAZRG-PEOe7c7zV30X0R3BwzdkWjt4aXRndxcG7wNZqEOaIvB_aPkRCeH04frt98yoK6fQIQx5Fd4zEEdD24FI5IHXb0SIQzNPefrluaotAJEkuSSgY8D81_s3EUsUau2nmrufDX2Wl64j5xGvLW9TEtN5lxueElKK6bgWDTAaXysQZx9G9kiByc0rESFrxmmrJWZlw43inw_zwYheYd89IS5nH_3PbzmV9yBX7R-BKajiH9QCzxjR0ciJQjbGD8IBOmvwQ7R5o_VsSdkeVFXb02LrwLH9gG1VPEvJ04iTr803c7NmYhgaOjDhMCOGM70GdMYoVEpqwaEMPGXCTjKqZPuCDvfECMlW1EBtcs1sJer79RDtOcbspKji0NVv40lB5FwKmQRRknDf3OiabUWgy2VKIr1zATJdicILQgq0X-lpTSV3UeK8KacRYT4SV9OvRIWqI_QbiUJ3ybE2DFQhjOjyos85I2T-mMqrcMufcQtNVqZPh8JuA3TZKGqhFl04ixlJvszXY2cs_lpr5mkjkf_uLMCyIIZZkGqxSd5Sy3A_0eeG2a3qWSyaGjpEfK8J27tiBTqJlol6fBY6Etw..%26bt%3Ddbl%26ch%3DAQEAEAABABSR2_5OXZAJTYzOrxMba65HCI205Rs6Rxo.%26mac%3DAQEAEAABABTCucZ3mGt81NsRxm8uw1q6dg77lQY8CVo.
+.netflix.com	TRUE	/	FALSE	1739455751	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+14+2024+15%3A09%3A11+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e577f78d-d009-4040-9be2-3af9ab5eed0a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=DE%3BBE&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bahati
+– Email: michounyiramana@gmail.com
+– Country: BE
+– Plan: Premium
+– Member Since: August 2017
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 3236
+– Phone: +447957569091
+– Quality: UHD
+– Streams: 4
+– Price: €21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mum and dad
+– User GUID: 5JNPXFASG5A6NNMIECWOSKPWDA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793270719	nfvdid	BQFmAAEBELU3om2Xo_RwckaLAYu6sW9gsGX0zDHlYa0eKo0qEL8sWbsYr3s6BMErHaTDxsR5ZUlNQzyeEgmsoi1VbFvKNYDhodr-PNThrzIIpC-OXcOsIo35SaGqob9oDrCxRk7LvAYNdTNiMzdyxYOGbpfntMmY
+.netflix.com	TRUE	/	TRUE	1799066146	NetflixId	ct%3DBgjHlOvcAxLpA4z_56MOdPkspnHrBuas0iTtfBDgp-ABe1n0Tz8GWi3a359rSCIUgOGQaS66P9nG5GOubx_RZsXH4_r0_j9YJmIoOVZwFWbAD6C7EXQp2g2K7tY0U3ziwy_gyowf_xkslMkVHehh2ELGw3aUVm1676L2Ai72_YATKRG5WlUXhbyFhYfRus7ezaUkZQDiF5_35nvFIquI0VG8qqouUyk-TAByq2GKGvU_zJswAaEVfoa1Q9oJK0SnTHBYOL1Zd436gd3klyc5jMxYT9JMEK9nLsGlEubltHfm9chdSYpvnRLjhUmWOWEXiYgzxzvEcB-XaxJ0Q61lwFxQlwhtoeGMArtgV4g2NrHOR3R_tI5dI6cPnsSqvTcF5vLln4m1_YbfKWA56sOtuGVimqhvw5QXKJcxXxiMoaH4vR6b-WTjckIBRgcQBQi5bNcCQM8cNd2n7_cibp-mStM_G8HcOydql90la1Fi-qGsSQdlwmS0c7keD7lmzHk9qwcHj_e7S7V7fhkjivsfJpLCCfkZ-orUUExrRR4hVnX1Pd32b3tTkHMfuCpldqJ0z4rIn4MkY0Kw9AgmNUSXQYnQJacPnxRnuL4_HybD9hRW8rGrfJpnLKIhbOtKKluoqs1ZuHeMtE-lMaM1aanQgiqSkhgGIg4KDMolmMIYLfeqsOS3_w..%26ch%3DAQEAEAABABRiUMPGYakZxbeh9P_FQQMM70os2pWMVcU.%26v%3D3%26pg%3D5JNPXFASG5A6NNMIECWOSKPWDA
+.netflix.com	TRUE	/	TRUE	1799066146	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShJPtDeHWZLrGJdRFRzn9fC6AIa2TdNIM.%26dt%3D1767530146712
+.netflix.com	TRUE	/	FALSE	1799087770	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+18%3A36%3A10+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d95f76a8-4987-43cf-ab49-585ac49dff96&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false

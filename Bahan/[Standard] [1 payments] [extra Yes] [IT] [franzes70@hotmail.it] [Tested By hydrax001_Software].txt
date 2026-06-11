@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Matty
+– Email: franzes70@hotmail.it
+– Country: IT
+– Plan: Standard
+– Member Since: marzo 2024
+– Next Billing: 2026-06-24
+– Payment: GIFT
+– Card: N/A
+– Phone: +393487440025
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Franz&Cicci
+– User GUID: HZARD6425BBAVEKXHGLO5Z6U7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798897879	nfvdid	BQFmAAEBEPXJ33nuAs7Q3C8mR4fy_DFgmdIOFmsXDcMSGfdoUVbwgtFG0l_JAZivaV-CAsnm0sMrZF8vfq87FArW4jTNWf6Q2xdoofDOqZk5mJ6H4oZ84fINCRDXJDMfKhkRSAmCFviQt2jdejpZJkyCGUWZ5ZIG
+.netflix.com	TRUE	/	TRUE	1799071437	NetflixId	ct%3DBgjHlOvcAxLdA7bycfOE1wPxFqA9fc_O3np_lcVdSS5VkKuJ2OgvD2TSe0xG7CRISAmDJt2MW-L1-zl4CsVvHRXJruTNtL8ErgO-CilGfIgZSVOQamyaQRHYQ2e1oLvomKSuwFQ3yoyZjEJ1Ge56ZBuK4wNJ_-sH64eKn0EXkyLM8Q8Ez0V7WCraa1oNXl9y6bw8MAk4i1Yp22CMxtjaM0TkmRcDD5ty-bJAoC6JwzM-1qrC8C3rdp6qRue3ZahyetI1IbHE4mPGnCxzHMF3FsSXjKJQEBX8hsvpd7i4P2-jmFzrWZO4ExDA5P2SRo_CneuPFoOGNe7bNnvH602EezpzTtS5k71DBhVJin-am5O1kQ2xf_UfAigBSxMzCxAV48h0CiosjBF1sknXhL7VI6hZe_Nga9-hUfNXQvSc6WqZuv4P-athhd2_6SL2ErpTG1yckfl31Yr3wQ5dyT3jm1Ld3NHxnKu0142zKpR7VCsZ8rgEE55vfhswxcscFXwiQrdySazm__Q_DOI090yQyeBt6zy4cXM_lyiA6pFYImTws481HFitWIbujaplKtZXIV2dypuJkttlIJQiA56HXx180vIh4eNnZirIyl3--p1NLGnfKoMg2AxDKtN5dXrFI5FA12SnVRgGIg4KDDAbWR2c6PzMX_Atgg..%26ch%3DAQEAEAABABT1tG0MPuwp0ySII6eZNoXDdSmshO0Wu7U.%26v%3D3%26pg%3DHZARD6425BBAVEKXHGLO5Z6U7A
+.netflix.com	TRUE	/	TRUE	1799071437	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQx_pLrsnRvMoiMJHNGFJHwVpISQMKCyFI.%26dt%3D1767535437853
+.netflix.com	TRUE	/	FALSE	1799071552	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+15%3A05%3A52+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=534bf72d-d2b4-457e-9ae7-51fe63852c7a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B34&AwaitingReconsent=false

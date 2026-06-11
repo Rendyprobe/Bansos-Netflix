@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marianinha
+– Email: srfelipe10@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2026
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9654
+– Phone: +34613633377
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Felipe
+– User GUID: W2V6CXZBARAMLDBHCDFCIRPSOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801763394	nfvdid	BQFmAAEBECc01aQWoWwlG_Oy8pyuwfFgmXqs83TB2N8IO5FuS_VntSGLygd9Fi5lqKVFukN-tFMrUNI6CC8b6i8CWUgMO2nOsLjjFWNa7usZUemTgkQSWIvKORnMzdT25rv0VwR4uTSwmSv0VGmt6Ip-1sxpWnZ7
+.netflix.com	TRUE	/	TRUE	1807723350	NetflixId	ct%3DBgjHlOvcAxK2Ayd1bdjVt8XBPKjYWsHCYY_q-8adBo8aYDc0n99fuI2sJIGCVaX1HfulHVMo7Zhw1P-IshKObl09hvFsTkEfVnbjl8Il74cBGxoY21Yz5MmMUCne4rASiLJ9xZAQO3ewLxcIFpvnBv2ZPwOzDStamltRjVpMF5WH0YxuqEXPuqZc1dmnBcvRC6jII7Z5fo4GtgiSxfzbuMKDk5nPPthG-5uNtNfBmQJEjxwTXJmp9pv_AtIGKw31jJrHK83teB-I1eJAZk27C4GMgJgA18sFBD8s3isUb_NwBBE8KfhJ5q0QUJ-dKtvIVKOpzKpal0i6mUt80umcroxQt53LgHRjJ1LV19-BY_XMdMoybvnAHsQo-CprJhSZTrzmMYKa-VLzdGvU5vcFiz_oO78VpZfasWcglgLjvXDI-yVkvtRF1hW626_1zao-ynS_c8p8xFrSLsCipbQVuwmJAMLLH40FHCZzzm1BFEtoxiDjipA3FUKokz74kwXS4s2pod5NF1mCda30N9ICcuqMPLyncKnSrSgL9Js2i4Juyqj_wTo8-YroUUzOnz_ngfgy3iLq7FbLZ8OglhTI5hgGIg4KDLYlUXaGWfga9k04bg..%26ch%3DAQEAEAABABTqr8qIzdJAst9xHKtaklNyNDRuYWG-pEE.%26v%3D3%26pg%3DW2V6CXZBARAMLDBHCDFCIRPSOE
+.netflix.com	TRUE	/	FALSE	1807723354	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+19%3A22%3A34+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ac8af77-e757-4ad4-885a-771d4f4af4d3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1770227369424&geolocation=ES%3BAN&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807723350	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTi3vpR5GRw5jOwe6sBdZsp9xamDDV-rFk.%26dt%3D1776187347296

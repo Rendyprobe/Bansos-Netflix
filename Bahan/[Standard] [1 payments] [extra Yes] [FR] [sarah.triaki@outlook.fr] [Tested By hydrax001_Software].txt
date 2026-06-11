@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sassou
+– Email: sarah.triaki@outlook.fr
+– Country: FR
+– Plan: Standard
+– Member Since: September 2022
+– Next Billing: 2026-06-11
+– Payment: CC
+– Card: 9652
+– Phone: +33627883459
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sassou
+– User GUID: D3UZOD3IYFBZLMWIMNLHHY7F7Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803992944	nfvdid	BQFmAAEBEB3-a6D6jJfJ7I7PYlcKVOJg8mh5ub746sg8U7PhTaf1FECZz-S7K5yenypfV8vTXf39pkq5ckRGLWo6SvyFdcwBca7EHBcG_hkwfPFzeH6idfKVTOh_FroAipcwHlOpawP3LEEZFuAn1FiBBYJdMJ2G
+.netflix.com	TRUE	/	TRUE	1806600215	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR51hVWCBZ6A0nC-k1JhdtZCKpTpYPGZ_I.%26dt%3D1775064216910
+.netflix.com	TRUE	/	TRUE	1806600215	NetflixId	ct%3DBgjHlOvcAxKPBNGNMLf1k2RHJvckOFxIPobbDQ1rvHX5UbWLSl4FINrzW5rYOR5i13uPUpIchRiPAkf5ignKbSJ7fuhk5MzWorIoGMgMkRzlIt2iNvKKX384D2Gt_YSFy6T1hnIjXS4WvvZsn1lyYhJjT_R5GcnPLsNmT6-7KmfPbx_OtLEnbYdvUeabS5QI8oF6WJ2sM5pwmsHPOJER6qE3DWW_fab8Lv-Yrp2igD71KrtvZtLwkBVL5hSgk0jor28hM-LOmhCmb6wTvIKEnfS3F6mj2Pbx8Vo-RcD3wht2U2f3uVXD1h8cmEkuZed37-gJC8HaxuH_EX3hqFCUwQj13-AxF0xmpaJfXcUjPDprFnBxuvkYWjSR6vlGLU0yhladM4O3dd34aZWHZnVhH83S2t3NUlszOLV8xK9QgmABRQO6fTCiZl64inV8V119ubE7wQY5npdpgjfNuxEe7-sZ_C7ndVrVmoEzb3Cjjtt60je4QdGShjJ3UXB2OnErXtScENLSDlKVkTsRaGy_n8At_TDOVoPxlEVKFrCzlHvntnjjh4gYY6FTN9Yaet_KgSi3rufBA0IL9MkwkJsOcRh-CwRAUzVWkRQmOK5-tDNDYxLPestCbXwrrcIfyNeqMJy2QX_ak_PAAlGYQNeqwlvHTCry_DGfVywsIuxDAHqqhdgAoU6fSLYZKPNyCUgedECG-TR5ssLBGAYiDgoMC3psgUrwFJw2ptrR%26ch%3DAQEAEAABABQdbWf9134Y-hr1FDqrHmiViSnLJ4sWYf4.%26v%3D3%26pg%3DD3UZOD3IYFBZLMWIMNLHHY7F7Y
+.netflix.com	TRUE	/	FALSE	1806600221	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+19%3A23%3A41+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=baad9099-96fe-4f39-9785-9781b63d530b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772174871257&geolocation=FR%3BOCC&AwaitingReconsent=false&prevHadToken=0

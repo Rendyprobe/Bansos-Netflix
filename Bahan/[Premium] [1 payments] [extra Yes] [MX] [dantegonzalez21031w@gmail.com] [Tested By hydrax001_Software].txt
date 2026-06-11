@@ -14,7 +14,7 @@ VERSION: V2.0.1
 – Phone: +525560799178
 – Quality: UHD
 – Streams: 4
-– Price: MXN 369
+– Price: MX$369
 – Hold Status: No
 – Extra Member: Yes
 – Email Verified: Yes

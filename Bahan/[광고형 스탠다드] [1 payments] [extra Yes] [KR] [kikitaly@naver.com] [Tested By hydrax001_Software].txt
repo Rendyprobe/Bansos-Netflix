@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 김인광
+– Email: kikitaly@naver.com
+– Country: KR
+– Plan: 광고형 스탠다드
+– Member Since: 2024년 12월
+– Next Billing: N/A
+– Payment: NAVER_BILLED
+– Card: N/A
+– Phone: +821095131460
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 김인광
+– User GUID: 7LRFFQYQSZBT3H3RPAANZDA2LU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786643161	nfvdid	BQFmAAEBEOlA1XA0PU7Ni4et5wFRPpRgY6m2Te-kQGr02H6WYYB3oU-28944bGPUaws28xohEYa5e-uXMlK7903cwKT72Dd_s3Frrq9E3FWRNvI7i9xYhNeSsMcAaLKWx7GLRo64kHA4pDn0E85s4RWeh_7w1Aq7
+.netflix.com	TRUE	/	TRUE	1793694981	NetflixId	ct%3DBgjHlOvcAxLNAyDnkrdDM1YyNwxIdF7feFXiNj8wfcbr2FBZMZtcWXzlSUhwaAUqinmv9U_RvhUZKsgVV0ekU2HysvUa3FPKVfMFJeuseGgpymbHm8cJJk0PYkyl7SzWx0E7K7diYwxMq39Shwyq1dmzEI9gdBGU4NUUToX3MSLA36Cb-R7Dlg6H49ByxoZeMLFtYhLT5tEeZ747Ol5P0IVLzlS7R0R4wfXxheaPljf-TVN2lriHmv1oklqS6XKH8sPk8dI_jIwuEfrOHMD_SU6uDkpcF_ZD3DM02043xP5XQwbGLsGZ5drJpn-gAnciLvIj_ER1ySzdvN10NxltF9WdTEcRsD65dxjZZcY3dfJlwK8Gv_feY9Yg95xJ9WEEX82H3ycxjG-8kuOQstzBWp08e_MEHocO0JEob4UQzqRse6t_O90JYR_Jt84TQtKAJyuwvYysp3A4GAZnk9LsG6ubZ_PBs45YiGv69zMCtqYm-IInNQYJ2Og25sdRjeY63a4HJ5rxnVR6RoSPmYk71YBJIw5EFArgAtw5xokLF6Bu-j8aF7JqMHCw2ZybFFp0iRSbJgx9V6BhQZnuFdDx0XBAnucsb2Q_4hmjq7nz6rOmaD1hCZwQGAYiDgoMcpI3iZn1ZzuozZS7%26ch%3DAQEAEAABABS5bRcboH84s_lSQGe5ccqVLBg2FhMQ6xw.%26v%3D3%26pg%3D7LRFFQYQSZBT3H3RPAANZDA2LU
+.netflix.com	TRUE	/	TRUE	1793694981	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSu-_F61JaQjh8XN9mG_No17DxMMROq2aE.%26dt%3D1778142979720

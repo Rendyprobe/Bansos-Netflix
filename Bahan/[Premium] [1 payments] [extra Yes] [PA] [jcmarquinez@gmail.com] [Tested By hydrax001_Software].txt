@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ale
+– Email: jcmarquinez@gmail.com
+– Country: PA
+– Plan: Premium
+– Member Since: marzo de 2014
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 9865
+– Phone: +50762030094
+– Quality: UHD
+– Streams: 4
+– Price: USD 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan Carlos
+– User GUID: 57J4KLLWLVDSNN767P7RYIHSLQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056511	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+10+2024+23%3A24%3A17+GMT-0500+(hora+est%C3%A1ndar+oriental)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=20ba9029-644e-436f-9c84-bd4a924b2759&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783056511	NetflixId	ct%3DBgjHlOvcAxLdA1jefPDlIIYlRjgsZGkkvTfDEAQuyfNCr6q2HR2eWvzGXR4KnGDRu3IFbt93Vq-QxVZSznwrfhUkUPhL4PEotqWG3MBMUoDWaAlTdr5CGq9rkm0qPT_7BmrJs7iuBNo5pwukDICcBucHSjK_Ewy5cnI31Z6IOxgCU5EXMhp31h8gcAA-pWfKTi6Lkx9VFJOGxU8GhgYCGIsulhLWe4ASl1vSoFSYUitnFao4VjkgKhW7PtFUaTdtD6eMvj3lUq15TFQfESCvJky3p4zt9D7TMjvFQf0fIPlme597f299rJHA-u9aJ-ybph7yM5ehtqupJX1-bEUH5ZIoiJDye24glf_66ijeDwOZI1e-A_scdIM1Q7iXmnqc9aDekT6olPToq8eV7wwdgcHXLjNxbv5XmEepHuYNNkr1fFfROolYbIiT5qw-g3ta9ykTgP8qfs6AY5Akqu7mga9yETSByQ0xycbZMQI18KSD_IYSSyZsKHA8ClYQ61w8CwZJ3lEhYkZog_B0KqM3bGLcqm6KceaA6Lk6-5h6GYEzaD8Z67t4na-gEU7MNYvXotyB8cVwu3OcUOUptMve0wkl4YPHzCsIuB7E55dFtuT6pcnMJc0Nr3TNajZT2pUc7u75GKnJqRgGIg4KDA6yYDG0RAVwWxVxag..%26ch%3DAQEAEAABABRtee-cHyjkVGSayeYIf7XtXDSzEnjECOM.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783056511	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmhYb3J6S97XrII1etOziLxVK8z8HwHMI.%26dt%3D1737774869778

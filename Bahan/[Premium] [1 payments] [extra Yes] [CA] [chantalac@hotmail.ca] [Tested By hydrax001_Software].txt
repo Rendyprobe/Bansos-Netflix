@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chantal
+– Email: chantalac@hotmail.ca
+– Country: CA
+– Plan: Premium
+– Member Since: March 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0401
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chantal
+– User GUID: DA2AZDVVONH5LC4ASKZKZQ5NHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810568517	nfvdid	BQFmAAEBEEyMj2u0LKus0vUID7eJPoJgd6V3YdbDUOvCGL_B3VM3imba7FSlNKXJEhCkEyAY_FAtSTEqoild27qVsBurql304JpwRw8_XSI7LWjJPsBUIPit5HCfYRu7nZkvi7STKzUPIxXlD2e3dP4Vy_gWkHfN
+.netflix.com	TRUE	/	FALSE	1810866194	NetflixId	ct%3DBgjHlOvcAxK1A-xIffVfpU-MI_PrQYyUiBwBeffT_s7_QChvrZ1FHz5gwJ_3dcoY2u_jKIsN4E6nCgDsU1n_VsAdSh5LicR59rl6qkek49_Zl5D1e9aAX29NhJwJpmLwD_dvRendFNOX4wbRWo3RMGb09lgFt7ZwCDwEj3tLoNhHkCCIKrZruMOtaUunV8QcYMy6WhG3f6N5aSbrLOJ_A5Yt4AxzMw5H9rqw6VAgtS-eDj_FkfmWRMdkxe3CfN_wXlV3bEvhmwFGwpS-4E3OvtRZpvQoNfMtISYf0-xGoNh237ukekjytrF3ptfcnqRhGs86PD_IaXnkc01L-FIzEpyJjSb9DH6vrqiwMuPGjektNhny4kpGaDaWCoGERb4OwLqQPy_SPsyQegCamdADcAhhg0NNM7KmlAxroZKbuuY_nI-VQOb9aMRTbmsoTdGiex8e9NBsmYdbnpXn7U5nYqU4KGwnNwqHWMuWEhvj8gxrGoRfMISCvsy8b8UfmBqSSJdJ_LNVygHgRHDiH66_nhY3SuBBMTuE2cHc50z874qXPBBafpiH-gC18kHZ-4zRs_jx607TalwTT3ysPUQfGAYiDgoMeS-q12TCsFd9AzVb%26ch%3DAQEAEAABABSfCVjFWOvb8yMsqy3RCtAZxfkqWnMkyXg.%26v%3D3%26pg%3DDA2AZDVVONH5LC4ASKZKZQ5NHM
+.netflix.com	TRUE	/	FALSE	1810866194	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfVdAd8bgF2Sv_HYl_m-oM2qq0eu8IJfE.%26dt%3D1779330196513
+.netflix.com	TRUE	/	FALSE	1810902830	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+08%3A33%3A50+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=397f260e-b19c-4723-b8d3-bef8e08d7ade&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779031697970&geolocation=CA%3BON&AwaitingReconsent=false

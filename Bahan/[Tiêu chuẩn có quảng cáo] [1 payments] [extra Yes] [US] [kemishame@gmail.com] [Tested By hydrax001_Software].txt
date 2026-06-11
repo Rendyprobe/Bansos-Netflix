@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Man
+– Email: kemishame@gmail.com
+– Country: US
+– Plan: Tiêu chuẩn có quảng cáo
+– Member Since: tháng 1 năm 2022
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 7108
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 8,99 US$
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kemisha
+– User GUID: MQSMQRBCQ5GLHBE3VY6S6I37MM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786171603	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+08+2025+01%3A46%3A43+GMT-0500+(Central+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=65f4deef-18e3-4202-a417-20dccd5245f8&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	FALSE	1789341741	nfvdid	BQFmAAEBENjVJ8rQOIwKZ0DtkBStsOBgTjOxqn0Hxmo8AcqQNzutZ82ID7pR7tGzgDCFd1TAguho7Bl1ie5oYxR7ggXZFi9Nia4WEvwhdzDROZlh4qRtpFbFe7yGJdylCjpYJtzScXIMPUwfQHkpLTuCD0ELnQ7_
+.netflix.com	TRUE	/	TRUE	1807945706	NetflixId	ct%3DBgjHlOvcAxLhA-GBQSMyRXHpNI7Gu4KATsqgBPmxLCr5n-rQHU2IBBkZUv0VUzhdGlB-x2fOVDcPMB8c4b1Jm9MGLDD9NCYs-Cvm7oYW4N9Nu5dcOvfMT_xhpz4z1u8loUn0WObU9HAtcH8VtCPBynOeklmmuKlT6MNU7w54yOuH4uvZVsKQhiYtKrPueQF7jrVslCl1GyAe2x2_GQCiH1bKHqcpZtE2lvqQpM139oe-ouqFGICj2eH9z-NH-ij1QW6L0qM5iRk7iPyCWBYYg1EhjeseHq0uZFAdo5ybVrFXs95-E4KgZiamGT2zbUS07Xkm5FGkTm375R-ApfO5P_VluZT5F6G57TjE6dLlzazotAatDU_c-d9YRsThIWqyZ6dQ8ua4BU4fREGUqSJQpu3eCeSkTHHwjo0WgvT3FcdfwWB5dMQi2k-OlBrJ2yS1jqqcK5po_6kl_scdmfyfi66gO5ZkM9L7WDM2B6zc3ejVvgcTdSIdoj9SXubZEkAuGu-LdEqEoN5LD3DEN3nzKpkQDNaL0v4VtFBYNUAL3fXoFnxJHIv20dPDevrewlD1XZLdrz-fPn71k-2PdTvtQiu6g8G6jdasdrq6GI9z-HE7XaMHfr5C3Ec5WILE4z75zKmInaFCVVcEcjwYBiIOCgydTbQ6Dos1caeECmU.%26ch%3DAQEAEAABABTgPdsx1SMiMt7k9oJBQV3ebTCr-1-z__w.%26v%3D3%26pg%3DMQSMQRBCQ5GLHBE3VY6S6I37MM

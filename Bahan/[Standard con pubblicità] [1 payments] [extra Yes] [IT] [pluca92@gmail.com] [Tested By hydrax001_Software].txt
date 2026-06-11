@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luca
+– Email: pluca92@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: dicembre 2023
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 2329
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luca
+– User GUID: KBVLE4XBMZFVBDI3HUXWZ7467Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790343782	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNAwmDyagQrd9tJKxiq0OUNQ4BLKeMNJ7EqPDMu8o_9LlhbjpfDckout0VJJED1xqWlz-ENpdN39ymPPCf7foWvIt-Y_sQOZqYOeBTfg9Da-g05xoHC8e7Yb82OvSoM40LZZCiDWYxmb--ow6hSTetaN2--ehb-o2mx1EFraxM4jSfMH9s5Wd517pI7cbRLud9fnKTKol-EvPijNTviNhv8TMc9u-jZHh--ZylRrmWf8zSY_QUijDTHQz5YYZkM63Fc7vPAX2EAMarwswfHhs6tXgYRjjsSr601LUu3pyElubS0Z68Th94dsf5iv39Zcmt9EkjK-bgyv5kBYsMk1TRV-GaKZ5P1KrQItpD4G-Wv8lO9rqLKWCbdYueKol6HxfbWKAsB49MGJjvqw0uAfhhVUWeeLU4eqSi_kh9nPYy3ZtcIm73VTVb7gpY8rXy-vM9iTr4LwjT-9_i-V1bflMwOWykvAYrY5ch1Hz44-iTR2vLRAi9uc3MVgIVE2zP2hHVPOJwDX6k8IaqvZWSKisYBiIOCgzr66HybIHQijBVqeQ.%26pg%3DKBVLE4XBMZFVBDI3HUXWZ7467Q%26ch%3DAQEAEAABABSWnBN8Oi-JbIJ35t6ntbzo5xaVzbNqNis.
+.netflix.com	TRUE	/	TRUE	1790343782	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSP4c1peSlwaN71GlRWZyJW-478unyYWSs.%26dt%3D1758807782935
+.netflix.com	TRUE	/	FALSE	1790343782	nfvdid	BQFmAAEBENbZLyk2fYSeQK3O1yqpPudgH7fHsdvNk-JIH4ITl_MYHxaJDzGcCnHF1BnYP57ghJ1DSbO5M6R-g9GnycVOIkK97Akmr4KY5jMpqnRzcQS6D9iWH6wRqCkm3sNfwLSpo1wzlyCcr7jZSTDmsOg4Il2T
+.netflix.com	TRUE	/	FALSE	1790343785	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+25+2025+15%3A43%3A05+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b06c2c4-0dfc-442e-9d91-cd59df2aca55&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3

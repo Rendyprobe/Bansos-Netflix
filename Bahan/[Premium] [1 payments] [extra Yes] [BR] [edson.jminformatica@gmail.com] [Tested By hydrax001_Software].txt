@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: edson
+– Email: edson.jminformatica@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: outubro de 2011
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 9813
+– Phone: +5511972079178
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: edson
+– User GUID: BDEXVHIINBCBVNZL7UY7ED35GM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1830391557	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+23%3A05%3A57+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=efa4805e-db3d-44ad-b1e1-19681ba0d368&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1830391528	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLoAhIyo6W-f7GoqIFAh6YBOKtVMouOaXZmzO3bw2HWW9AW77hU_KLqQkn9uYHi3LUYCjMwd_65VVZQUp7kL7KmA1ReM4v_Neu4Ge9F9UDEBnRGHJcYCEqK8tvDUyhimyh4ULar2p0ua1TcnGVE-YnIdpEiAz9hA8sJCifctdZfh3pyl1O9XZoY6eAKlUqMHmN2qV_ps4yni7FntK4jKvUzMxdDbbjEMeOScNSUTiEJeVvVfjM4CQCy2td26TKK5uHlOHTzubeVGMZEcL6s_cIJpzsh08oh9lSNlWl-Lw3U3Niz1SWI5Lkj1weJSHA3nwIpbkaGSO5FgpTPgXCLeLdFOL1VdWUpQsNIw-Vb3Tcw2XiMwV7wb5VX1xM2YjsJaylaYijbXEkcWIwyNAVtYd5T2giqJ9nsuXuoK4tDvyhu0pNNEZhj2RFDg4260bCYSywpIMCrX94RR25D31MJZ6zY8vJ7-1BqwtTdhxgGIg4KDIuTx5tiw_7Ze7c7Ew..%26pg%3DBDEXVHIINBCBVNZL7UY7ED35GM%26ch%3DAQEAEAABABS5yiTMbOZVz3wDvwpJcW0f4Qc8prFGiW8.
+.netflix.com	TRUE	/	TRUE	1830391528	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTStkrdvUbLVfsvxfLtS9jSzlIDhWJw_U0.%26dt%3D1767233141052
+.netflix.com	TRUE	/	FALSE	1820680166	nfvdid	BQFmAAEBELvFX69zQuYQLzlPqjp5owVgEVFmz-MSwepDdsHAGwbgHH0bLavwxBV7ztE02JRxUPUKLpTLsTShdMQa9mjCFxG6fpcN3E__YU8dFMVEYI3RteZ4sx2wASnrn7RFfGwzz2tnpS-w-yWg6mMfieJ_KbQ1

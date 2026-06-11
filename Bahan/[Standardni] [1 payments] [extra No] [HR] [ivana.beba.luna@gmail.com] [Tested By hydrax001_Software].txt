@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luna
+– Email: ivana.beba.luna@gmail.com
+– Country: HR
+– Plan: Standardni
+– Member Since: veljača 2025.
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 3412
+– Phone: +385991970712
+– Quality: HD
+– Streams: 2
+– Price: 9,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ivana
+– User GUID: JS7KCR4D3ND2TF3PKFUA5HHBP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783441457	nfvdid	BQFmAAEBEGzfPTc71RNBGPoWw3lvBFdgEtyQdrAIMnTEOtVitWZ-G_QG9GEN58-1IUNp1-6v9XHd1eA7pmGtQ4PFY2CIZWfBlrkLag-6NH0ZW042N_BIorfG0Bfx29JbKQLVXEI6s_OUVTvMPJLKfm_DjEwM1Ha7
+.netflix.com	TRUE	/	TRUE	1801998093	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AhveNu3W8OOWT_akxNfsGowPrThEaQMiCsNNKUwHNYuFXzZe1DhpeabSpvfEIGQVzzZfwPNcqkgx_oWxiPrMXX0c7-yHr3AONtGfTdMrDfw7aWm4e1x9bUgZ2gSm1XdG7xoV0sRmptZTH5csVe_4ZqHuE8fjizJk2_gfB7_FGtWrVPwZiDYK7lc-QzxBoT3MKId9ilgWuDn1UVFsUrjNPLnvpcQEAgThMfMWE_mYJ3ZOeEVBPjzI__1QBSd5i9jUq9aMuuf4s_UoB1aseWBdUoAgVKZFaNa2RygDHmdQbj4jxCTVjAXBhS7WAebIgv7QZg85tqvNzO3LFypExcYIFe4YfqeSuyHosqPQMeXPm7dPBtViiMa0QHtW-Rv9j9ULD11YqIKfX8_yoqRmchluzSyn4xgn9nZEIxDM0JiQ-naImlUPSLhH2qL045HT3MpqzuQbsx30mr2G-UcH4NbNmsjDCve5wnLneqi_0ub22Ozm_OCs4LcK1kYYBiIOCgx1asZxT6maLcm2zMo.%26pg%3DJS7KCR4D3ND2TF3PKFUA5HHBP4%26ch%3DAQEAEAABABQ95syx57_vpawyN-wSMYxenUkGj4uDmxw.
+.netflix.com	TRUE	/	TRUE	1801998093	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdKR4mU9x5e-Siuu5ePvSxsty1u51HQOk.%26dt%3D1770462093074
+.netflix.com	TRUE	/	FALSE	1801998162	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+12%3A02%3A42+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=23999226-9c08-4cb9-aa96-0e785962bd4a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=HR%3B21&AwaitingReconsent=false

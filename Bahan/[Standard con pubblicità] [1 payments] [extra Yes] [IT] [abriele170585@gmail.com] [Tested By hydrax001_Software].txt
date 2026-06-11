@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriele Giuseppe Marchese
+– Email: abriele170585@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2023
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 0753
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gabriele Giuseppe Marchese
+– User GUID: GFDTJK4C7ZF57IQGS7TEF5SSAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787343993	nfvdid	BQFmAAEBEDa1Iha7j8DOH_HzaIIFk65g-QqiT54d95i7Y4_EQTD8bmfPHe88tkHr_mnWTsZSJgWk4kwkiM81_NG9QTRxxj4KKqecv4zA59KbmvTNU7iLgk3J6pl8t0UpNllm1xZhCXxNXy1qrvH5WDSKBB0hcVJa
+.netflix.com	TRUE	/	TRUE	1787398524	NetflixId	ct%3DBgjHlOvcAxKxA0n2DE81QzaaJsyeyrRRKg2kBX45GXU3Zozq3Fufbe3cDlAcsMx5kstCBTTTWpZTxMDwZWGDZoAWBMHKnoAgWEoOLk1dfQFlqmkfPKCocxTRMxzai9dLH4HGRcJXeGaLCrCs9oEehnWP-se2cJHkQxvy0nqeUKrkkOB4L3kGU6g9paG9tP4xTntq12BPyg6Rd4aeWXrLGXBevVKomWhKkbyGstQEqwa7hehZv7t4PhDv7sQ6OloeKp_km91uYRG36dlWM4gx1m-afWV03jlur2_F8LoJOcJW8NwqQV0Vd88LMQJR8m4Vj_-6wKuw9vx8G1ODsTuH5iSs1vGT4rc22J-Ob7yTqbGrsHCrtWawNlRbSX7zGbs6zL4xu34IEKLFrMeItbJo5bk2dWQctwdDu30Cpfv0DhXBGHhMa6qn0BC5LAov1kLNA_SFNASMYzyxH18XShe9Ny05eBihNGc-r0izuvUvTi3U40M2L5Wa60faZnuBi1Pp4HJB0xdcc3piriuk71LudXrq8NjhNHhR2V6LXI0rIbxaov0an3v4RTnm-P_731M2nw3licyhJFif344YBiIOCgxB2NAq0SaasWy4DRs.%26ch%3DAQEAEAABABRlTccuj2CJA5k_qZHKNnoTxFLb5PhBe4w.%26v%3D3%26pg%3DGFDTJK4C7ZF57IQGS7TEF5SSAU
+.netflix.com	TRUE	/	FALSE	1787398528	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+22+2025+13%3A35%3A28+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f78c1d76-8945-4f18-ba99-546b90ebdeab&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B82
+.netflix.com	TRUE	/	TRUE	1787398524	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSdy6Bbvq4Ohs53uzoMS9JhHTHelz9l-nE.%26dt%3D1755862524716

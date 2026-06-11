@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Belén
+– Email: yasnaflores970@gmail.com
+– Country: CL
+– Plan: Premium (miembro extra)
+– Member Since: octubre de 2024
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Belén
+– User GUID: BRPL3NTSCBAVDNRJKOJODQKVEU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1768536832	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AlFsBN6LuZtQh-_-whLPe0elTgDUo_qkjMTmojx6B_tN3B9lm0bZojzpA_QRs1qgIPOTTGlBK20wVBZ5VqCwDOWmH5jb9FA0CDYpGXaOL8Y4QRuBIu33_uryFLovqyu2uV_Lv54eITjn-3d0jJYZIDZmAhdtpDKR9iKaDKnvwRP80l_7PBiPzILQUBenZa5J9uNzXwGBOCvVd9a8nOGW-8cg_aqqb1QXzOW-lO8ObonQECLugLM1X3eLtLewJVqGvnF6y06dqhppmwiuIg875uTTkNsEjI8zuGldrQOs9TxQ7E7SKNHm5rMIfCTlph4japyYnkRqEjboY3_CD3KKFjEkEWNNL5WyHaTgsqLOkz7GDX_t8lDkBqSjEWMuiKY06ig4JvcOKY1wiwqBT0XiWmDX4deDnVbCqgF6oQvgb8mMSEhtPUHiiozDf9OpnUvP3LRd0ia4wy8xjDYJVTTlyt3Iw-DQOhyJajclalsQXu5o0CiqP9LP7iQUiBFe9yCXGAYiDgoMoDs0P_ciJxPpo_Yi%26ch%3DAQEAEAABABTPYtuKVQWmL03qYG6ucLtDPqL2Z7irCIA.
+.netflix.com	TRUE	/	TRUE	1768536832	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSh_IgW4cuSVknvKR_IfwWWZsJPFAerzA0.%26dt%3D1737000831629
+.netflix.com	TRUE	/	FALSE	1768536832	nfvdid	BQFmAAEBEBzUEfv4igZesnKd0ubcaghgOwioT9hFsGLPtbcGcAll1o0RESMFQTAWWanvdK9-n0t10089wGaPVLj6Dkk4GTt1whA7bWD9LXBkgFOd5M82cWq0bs4Cr72_nERqnNNGGWRc3xYcJP_L21PxicA0Rzde
+.netflix.com	TRUE	/	FALSE	1768536836	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+16+2025+01%3A13%3A56+GMT-0300+(hora+de+verano+de+Chile)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08feb640-fc8b-43ea-a88b-d85d593e9a6e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
