@@ -1,102 +1,250 @@
-## Bansos Netflix
+# Bansos Netflix 🎬
 
-Tool terminal untuk mengambil bahan cookie Netflix, menyimpannya ke `input.txt`,
-lalu menjalankan generator URL lewat `eksekusi.py`.
+Tool otomatis untuk mengambil dan mengelola bahan Netflix, menyimpannya ke file, dan generate URL/token secara cepat dan mudah.
 
-## Struktur Folder
+## 📋 Daftar Isi
 
-```text
-Bansos-Netflix/
-├── run.sh
-├── nf-token-generator.py
-├── eksekusi.py
-├── input.txt
-├── Bahan/
-└── myenv/
-```
+- [Fitur](#-fitur)
+- [Prasyarat](#-prasyarat)
+- [Instalasi](#-instalasi)
+- [Penggunaan](#-penggunaan)
+- [Struktur Folder](#-struktur-folder)
+- [Troubleshooting](#-troubleshooting)
+- [Lisensi](#-lisensi)
 
-Keterangan:
+## ✨ Fitur
 
-- `run.sh`: launcher utama.
-- `nf-token-generator.py`: menu utama program.
-- `eksekusi.py`: script generate URL dari isi `input.txt`.
-- `input.txt`: file bahan aktif yang akan dibaca saat generate URL.
-- `Bahan/`: folder untuk menyimpan banyak file bahan `.txt`.
-- `myenv/`: virtualenv Python project.
+- ✅ Ambil bahan Netflix dari web secara otomatis (Desktop)
+- ✅ Ambil bahan Netflix dari file tersimpan (Desktop & Termux)
+- ✅ Generate URL dan token Netflix dengan cepat
+- ✅ Kelola multiple file bahan di folder `Bahan/`
+- ✅ Otomatis setup virtualenv dan dependencies
+- ✅ Support untuk Desktop (Linux/Mac/Windows) dan Mobile (Termux/Android)
 
-## Persiapan Awal Desktop
+## 📦 Prasyarat
 
-Masuk ke folder project:
+- **Python 3.7+**
+- **pip** (Python package manager)
+- **Git** (untuk clone repo)
+- Browser Chromium (akan otomatis diunduh di desktop)
 
+### Optional
+- **Termux** (untuk penggunaan di Android)
+
+## 🚀 Instalasi
+
+### Untuk Desktop (Linux/Mac/Windows)
+
+1. Clone repository:
 ```bash
-cd /home/rendy/Downloads/Bansos-Netflix
+git clone https://github.com/Rendyprobe/Bansos-Netflix.git
+cd Bansos-Netflix
 ```
 
-Saat dijalankan di desktop/laptop, `run.sh` otomatis membuat virtualenv
-`myenv/` jika belum ada. Dependency `requests`, `urllib3`, dan `playwright`
-juga akan diinstall otomatis jika belum tersedia.
-
-Browser Chromium akan diunduh otomatis ke folder `.ms-playwright/` saat mode
-ambil dari web pertama kali dipakai. Kalau ingin install manual:
-
+2. Buat virtualenv (jika belum ada):
 ```bash
-myenv/bin/python -m playwright install chromium
+python3 -m venv myenv
 ```
 
-Pastikan `run.sh` bisa dieksekusi:
+3. Aktifkan virtualenv:
+   - **Linux/Mac:**
+   ```bash
+   source myenv/bin/activate
+   ```
+   - **Windows (CMD):**
+   ```bash
+   myenv\Scripts\activate
+   ```
 
+4. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+5. Berikan permission ke `run.sh` (Linux/Mac):
 ```bash
 chmod +x run.sh
 ```
 
-## Persiapan Di HP/Termux
+### Untuk Mobile (Termux/Android)
 
-Di HP/Android, mode `Ambil dari web` tidak dipakai karena Playwright/Chromium
-desktop tidak tersedia dengan normal. Pakai mode `Ambil dari file tersimpan`.
-
-Masuk ke folder project:
-
+1. Buka Termux dan install dependencies dasar:
 ```bash
-cd /sdcard/Download/Bansos-Netflix
+pkg update && pkg upgrade
+pkg install git python3 pip curl
 ```
 
-Jika folder project ada di lokasi lain, sesuaikan path `cd` di atas.
-
-Saat dijalankan di HP/Termux, `run.sh` otomatis mengecek dependency
-`requests` dan `urllib3`. Jika belum ada, dependency akan diinstall dulu,
-lalu menu utama langsung ditampilkan.
-
-Pastikan folder `Bahan/` ada, lalu masukkan file bahan `.txt` ke folder itu:
-
+2. Clone repository:
 ```bash
-mkdir -p Bahan
+cd /sdcard/Download/
+git clone https://github.com/Rendyprobe/Bansos-Netflix.git
+cd Bansos-Netflix
 ```
 
-Setelah file bahan sudah ada, ambil bahan dari file tersimpan:
-
+3. Install Python dependencies:
 ```bash
-sh run.sh --get-bahan-file
+pip install requests urllib3
 ```
 
-Lalu generate URL:
+## 📖 Penggunaan
+
+### Cara Cepat (Desktop)
 
 ```bash
-sh run.sh --generate
+cd /home/rendy/Downloads/Bansos-Netflix
+./run.sh
 ```
 
-Alternatif lewat menu:
+Script akan otomatis:
+1. Membuat virtualenv jika belum ada
+2. Install dependencies yang diperlukan
+3. Download Chromium browser (jika belum ada)
+4. Menampilkan menu utama
+
+### Mode: Ambil dari Web (Desktop Only)
+
+```bash
+./run.sh --get-bahan-web
+```
+
+Atau pilih dari menu:
+```
+1. Dapatkan Bahan
+1. Ambil dari web
+```
+
+### Mode: Ambil dari File Tersimpan
+
+```bash
+./run.sh --get-bahan-file
+```
+
+Atau pilih dari menu:
+```
+1. Dapatkan Bahan
+2. Ambil dari file tersimpan
+```
+
+### Mode: Generate URL/Token
+
+```bash
+./run.sh --generate
+```
+
+Atau pilih dari menu:
+```
+2. Generate URL
+```
+
+### Termux (Android)
 
 ```bash
 sh run.sh
 ```
 
-Pilih:
-
-```text
+Pilih menu:
+```
 2. Dapatkan Bahan
 2. Ambil dari file tersimpan
 1. Generate URL
 ```
+
+## 📁 Struktur Folder
+
+```text
+Bansos-Netflix/
+├── run.sh                      # Script launcher utama
+├── run.bat                     # Script launcher untuk Windows
+├── nf-token-generator.py       # Menu utama program
+├── eksekusi.py                 # Script generate URL/token
+├── input.txt                   # File bahan aktif (otomatis dibuat)
+├── requirements.txt            # Python dependencies
+├── README.md                   # Dokumentasi ini
+├── LICENSE                     # Lisensi project
+├── Bahan/                      # Folder menyimpan multiple file bahan
+│   ├── bahan1.txt
+│   ├── bahan2.txt
+│   └── ...
+├── data/                       # Folder data hasil generate
+└── myenv/                      # Virtual environment Python
+```
+
+## 🔧 File Utama
+
+| File | Deskripsi |
+|------|-----------|
+| `run.sh` | Launcher utama untuk Linux/Mac |
+| `run.bat` | Launcher utama untuk Windows |
+| `nf-token-generator.py` | Menu utama dengan CLI interface |
+| `eksekusi.py` | Script untuk generate URL/token dari `input.txt` |
+| `input.txt` | File bahan aktif (akan dibaca saat generate) |
+| `Bahan/` | Folder untuk menyimpan banyak file bahan `.txt` |
+| `myenv/` | Virtual environment Python (otomatis dibuat) |
+
+## 🐛 Troubleshooting
+
+### Error: Command 'python3' not found
+**Solusi:** Install Python dari [python.org](https://www.python.org) atau gunakan package manager:
+```bash
+# Ubuntu/Debian
+sudo apt install python3 python3-pip
+
+# Mac (dengan Homebrew)
+brew install python3
+```
+
+### Error: Permission denied (run.sh)
+**Solusi:** Berikan permission executable:
+```bash
+chmod +x run.sh
+```
+
+### Error: Module 'requests' not found
+**Solusi:** Install dependencies:
+```bash
+pip install requests urllib3 playwright
+```
+
+### Chromium browser tidak terunduh (Desktop)
+**Solusi:** Install manual:
+```bash
+# Aktifkan virtualenv terlebih dahulu
+source myenv/bin/activate  # Linux/Mac
+myenv\Scripts\activate     # Windows
+
+# Install Chromium
+python -m playwright install chromium
+```
+
+### Error: File 'input.txt' not found
+**Solusi:** Jalankan mode "Ambil Bahan" terlebih dahulu sebelum generate URL
+
+## 📝 Workflow Rekomendasi
+
+1. **Persiapan Pertama Kali:**
+   - Clone repository
+   - Jalankan `run.sh` (akan setup otomatis)
+
+2. **Workflow Harian:**
+   - Jalankan `run.sh` → Pilih "1. Dapatkan Bahan" → Pilih "1. Ambil dari web" (atau "2. Ambil dari file tersimpan")
+   - Setelah selesai, pilih "2. Generate URL"
+   - Hasil tersimpan di file `input.txt` dan folder `data/`
+
+3. **Kelola Multiple Bahan:**
+   - Simpan file bahan di folder `Bahan/`
+   - Gunakan mode "Ambil dari file tersimpan" untuk memilih file bahan
+
+## 🤝 Kontribusi
+
+Jika Anda menemukan bug atau memiliki saran, silakan buat **Issue** atau **Pull Request**.
+
+## 📄 Lisensi
+
+Project ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+## ⚠️ Disclaimer
+
+Project ini hanya untuk tujuan edukasi. Pengguna bertanggung jawab atas penggunaan tool ini. Pastikan sesuai dengan **Terms of Service** Netflix dan hukum yang berlaku di negara Anda.
 
 Di HP/Android, submenu tetap tampil. Pilih `2. Ambil dari file tersimpan`.
 Pilihan `1. Ambil dari web` akan ditolak karena membutuhkan
